@@ -8,6 +8,23 @@
 
 Every build in this repo lists its specific tools under the build steps. But there's a core set of tools that shows up again and again — the foundation that makes everything else possible. This guide is organized by budget tier. Start where you are. Upgrade as you go. Half the fun is building your toolbox from salvaged parts anyway.
 
+### What Each Tier Unlocks
+
+```mermaid
+flowchart LR
+    T0["🔧 $0 — Scrounged"]:::green --> B0["Teardowns\nSimple Chemistry\nArt Projects"]
+    T1["⚡ $50 — Starter"]:::blue --> B1["Pi & Arduino\nPython Projects\nLED Builds\nBeginner Pyro"]
+    T2["🔥 $150 — Serious"]:::yellow --> B2["Tesla Coils\nMetal Fabrication\nAdvanced Pyro\nSignal Debugging"]
+    T3["💀 $300+ — Full Shop"]:::red --> B3["Rail Gun\nDesktop Foundry\nCNC Machines\nBig Builds"]
+
+    T0 --> T1 --> T2 --> T3
+
+    classDef green fill:#22c55e,color:#fff,stroke:#16a34a
+    classDef blue fill:#3b82f6,color:#fff,stroke:#2563eb
+    classDef yellow fill:#eab308,color:#000,stroke:#ca8a04
+    classDef red fill:#ef4444,color:#fff,stroke:#dc2626
+```
+
 ---
 
 ## $0 — Borrowed / Scrounged
