@@ -187,6 +187,16 @@ Place your build in the category that best fits. Current categories:
 | Big Builds | `big-builds/` | Large-scale or ambitious projects |
 | Weird Science | `weird-science/` | Unusual physics and science demos |
 | Unholy Combos | `unholy-combos/` | Cross-category mashups |
+| Drone Salvage | `drone-salvage/` | Gimbal stabilizers, brushless motor hacks, FPV builds |
+| Household Chemistry | `household-chemistry/` | Crystal gardens, vinegar rockets, kitchen science |
+| Junkyard Auto | `junkyard-auto/` | Alternator generators, ignition coil builds, car part hacks |
+| Alchemist Cookbook | `alchemist-cookbook/` | Microwave + chemicals + capacitors = controlled chaos |
+| Junk Instruments | `junk-instruments/` | Cigar box guitars, PVC pipe organs, steel tongue drums |
+| Wearable Tech | `wearable-tech/` | LED jackets, EEG headbands, HUD glasses |
+| Survival & Off-Grid | `survival-off-grid/` | Solar stills, crystal radios, Faraday flashlights |
+| Pranks & Party | `pranks-and-party/` | Smoke ring cannons, confetti launchers, shock gadgets |
+| Kitchen Hacks | `kitchen-hacks/` | Toaster reflow ovens, microwave kilns, appliance repurposing |
+| Laser Lab | `laser-lab/` | Laser harps, galvo light shows, Blu-ray cutters |
 
 If your build doesn't fit any existing category, propose a new one in your PR description with a name, tagline, and at least 3 build ideas that would fit.
 
