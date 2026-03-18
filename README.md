@@ -33,6 +33,18 @@ This repo is a cookbook for builders, makers, mad scientists, and anyone who loo
 
 ---
 
+### Featured Build — [#312 Kinetic Sand Table](categories/art-and-installation/312-kinetic-sand-table.md)
+
+> A CNC-controlled magnet hidden beneath a glass-topped table silently drags a steel ball through fine sand, drawing never-repeating geometric patterns. Spirals become stars become flowers become waves — and it runs forever.
+
+**Dead printers + dead hard drives → something beautiful enough for a Michelin-star restaurant.** The commercial version costs $600–$1500. This one costs ~$80 in salvaged parts.
+
+| Jaw Drop | Brain Melt | Wallet | Spicy | Clout | Time |
+|---|---|---|---|---|---|
+| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+
+---
+
 ## Start Here
 
 New to the repo? Pick your comfort level and dive in.

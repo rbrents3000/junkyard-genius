@@ -1,0 +1,5 @@
+# Default owner for everything
+* @rbrents3000
+
+# Safety docs require explicit review
+safety/ @rbrents3000

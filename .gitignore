@@ -1,8 +1,19 @@
+# OS files
 .DS_Store
 Thumbs.db
+Desktop.ini
+
+# Editor swap / temp files
 *.swp
 *.swo
 *~
+
+# IDE directories
 .idea/
 .vscode/
+
+# Dependencies
 node_modules/
+
+# Build artifacts
+*.log

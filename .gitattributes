@@ -1,0 +1,20 @@
+# Normalize line endings for cross-platform contributors
+* text=auto
+
+# Markdown files always LF
+*.md text eol=lf
+
+# YAML config always LF
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Shell scripts always LF
+*.sh text eol=lf
+
+# Images are binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.svg binary
+*.ico binary

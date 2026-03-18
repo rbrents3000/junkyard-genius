@@ -1,0 +1,52 @@
+name: Verify Build Count
+
+on:
+  push:
+    branches: [master]
+    paths: ['categories/**/*.md', 'README.md']
+  pull_request:
+    branches: [master]
+    paths: ['categories/**/*.md', 'README.md']
+
+jobs:
+  verify-count:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Count builds and check for duplicates
+        run: |
+          echo "=== Build Inventory ==="
+
+          # Count total build files (exclude READMEs)
+          TOTAL=$(find categories/ -name "*.md" ! -name "README.md" | wc -l)
+          echo "Total builds: $TOTAL"
+
+          # Check for duplicate build numbers
+          DUPES=$(find categories/ -name "*.md" ! -name "README.md" -printf "%f\n" \
+            | sed 's/-.*//' | sort | uniq -d)
+
+          if [ -n "$DUPES" ]; then
+            echo "::error::Duplicate build numbers found: $DUPES"
+            exit 1
+          fi
+
+          # Check README badge matches actual count
+          README_COUNT=$(grep -oP 'builds-\K[0-9]+' README.md | head -1)
+          if [ "$README_COUNT" != "$TOTAL" ]; then
+            echo "::warning::README badge says $README_COUNT builds but found $TOTAL build files"
+          else
+            echo "README badge matches: $TOTAL builds"
+          fi
+
+          # Per-category breakdown
+          echo ""
+          echo "=== Per-Category Breakdown ==="
+          for dir in categories/*/; do
+            cat=$(basename "$dir")
+            count=$(find "$dir" -name "*.md" ! -name "README.md" | wc -l)
+            printf "  %-30s %d\n" "$cat" "$count"
+          done
+
+          echo ""
+          echo "Build inventory verified."
