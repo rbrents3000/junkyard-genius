@@ -1,8 +1,8 @@
 <p align="center">
   <h1 align="center">Junkyard Genius</h1>
-  <p align="center"><strong>283 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
+  <p align="center"><strong>282 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/builds-283-orange?style=for-the-badge" alt="283 Builds" />
+    <img src="https://img.shields.io/badge/builds-282-orange?style=for-the-badge" alt="282 Builds" />
     <img src="https://img.shields.io/badge/categories-32-blue?style=for-the-badge" alt="32 Categories" />
     <img src="https://img.shields.io/github/license/rbrents3000/junkyard-genius?style=for-the-badge" alt="License" />
     <img src="https://img.shields.io/github/stars/rbrents3000/junkyard-genius?style=for-the-badge" alt="Stars" />
@@ -22,7 +22,7 @@ Your microwave, fridge, old phones, dead laptops, busted printers, and that vacu
 
 This repo is a cookbook for builders, makers, mad scientists, and anyone who looks at a pile of junk and sees potential. Every build includes rated difficulty, sourced ingredients, step-by-step instructions, and safety notes.
 
-> **283 builds** &middot; **32 categories** &middot; **12 reference guides** &middot; **4 safety docs**
+> **282 builds** &middot; **32 categories** &middot; **12 reference guides** &middot; **4 safety docs**
 >
 > From "I just need a battery and a magnet" to "I'm building a rail gun from a microwave and a prayer."
 >
@@ -176,7 +176,7 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 | 28 | 👕 | [Wearable Tech](categories/wearable-tech/) | 6 | LED jackets, HUD glasses, motion capture gloves |
 | 29 | ⛺ | [Survival & Off-Grid](categories/survival-off-grid/) | 6 | Solar stills, biogas generators, rocket stoves, Faraday cages |
 | 30 | 👻 | [Pranks & Party](categories/pranks-and-party/) | 6 | Invisible speakers, jump scares, shock pens, insult cameras |
-| 31 | 🍴 | [Kitchen Hacks](categories/kitchen-hacks/) | 6 | Toaster reflow ovens, coffee maker distillers, waffle iron heat presses |
+| 31 | 🍴 | [Kitchen Hacks](categories/kitchen-hacks/) | 5 | Toaster reflow ovens, coffee maker distillers, waffle iron heat presses |
 | 32 | 🎯 | [Laser Lab](categories/laser-lab/) | 7 | Laser harps, galvo light shows, Blu-ray cutters, laser microscopes |
 
 ---
