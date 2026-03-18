@@ -2,6 +2,12 @@
   <h1 align="center">Junkyard Genius</h1>
   <p align="center"><strong>283 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
   <p align="center">
+    <img src="https://img.shields.io/badge/builds-283-orange?style=for-the-badge" alt="283 Builds" />
+    <img src="https://img.shields.io/badge/categories-32-blue?style=for-the-badge" alt="32 Categories" />
+    <img src="https://img.shields.io/github/license/rbrents3000/junkyard-genius?style=for-the-badge" alt="License" />
+    <img src="https://img.shields.io/github/stars/rbrents3000/junkyard-genius?style=for-the-badge" alt="Stars" />
+  </p>
+  <p align="center">
     <a href="#start-here">Start Here</a> &bull;
     <a href="#whats-in-your-junk-pile">Find Builds by Junk</a> &bull;
     <a href="#categories">Browse Categories</a> &bull;
@@ -19,6 +25,8 @@ This repo is a cookbook for builders, makers, mad scientists, and anyone who loo
 > **283 builds** &middot; **32 categories** &middot; **12 reference guides** &middot; **4 safety docs**
 >
 > From "I just need a battery and a magnet" to "I'm building a rail gun from a microwave and a prayer."
+>
+> *Some assembly required. Some disassembly required first.*
 
 ---
 
@@ -76,6 +84,9 @@ New to the repo? Pick your comfort level and dive in.
 
 Find builds based on what you already have lying around. One person's e-waste is another person's electron microscope.
 
+<details>
+<summary><strong>Find builds by what you already have</strong> (click to expand)</summary>
+
 | You Have... | Start With |
 |---|---|
 | **Microwave** | [Plasma Tornado](categories/fire-and-plasma/001-plasma-tornado-lamp.md), [Spot Welder](categories/functional-machines/027-spot-welder.md), [Jacob's Ladder](categories/mad-scientist/034-jacobs-ladder.md), [Lichtenberg Burner](categories/fire-and-plasma/002-lichtenberg-wood-burner.md), [Chemical Reactor](categories/alchemist-cookbook/279-microwave-chemical-reactor.md) |
@@ -101,6 +112,8 @@ Find builds based on what you already have lying around. One person's e-waste is
 | **Raspberry Pi** | [Fireworks Sequencer](categories/pi-and-arduino/121-fireworks-sequencer.md), [Pi-hole](categories/pi-and-arduino/139-pi-hole-ad-blocker.md), [Pirate Radio](categories/pi-and-arduino/134-pirate-radio.md) |
 | **Nothing Yet** | [Homopolar Motor](categories/weird-science/198-homopolar-motor.md) (battery + magnet + wire), [Grape Plasma](categories/mad-scientist/042-grape-plasma.md) (just grapes + microwave), [Rocket Stove](categories/survival-off-grid/253-rocket-stove.md) (tin cans + twigs) |
 
+</details>
+
 ---
 
 ## Ratings
@@ -125,7 +138,7 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 | 1 | [Fire & Plasma](categories/fire-and-plasma/) | 7 | Arcs, torches, foundries, plasma tornadoes |
 | 2 | [Sound & Music](categories/sound-and-music/) | 7 | Plasma speakers, ultrasonic levitators, Rubens' tubes |
 | 3 | [Light & Visual](categories/light-and-visual/) | 19 | Lasers, holograms, optics, infinity mirrors |
-| 4 | [Functional Machines](categories/functional-machines/) | 10 | Go-karts, welders, vacuum formers, belt grinders |
+| 4 | [Functional Machines](categories/functional-machines/) | 9 | Go-karts, welders, vacuum formers, belt grinders |
 | 5 | [Mad Scientist](categories/mad-scientist/) | 10 | Tesla coils, rail guns, cloud chambers, mass spectrometers |
 | 6 | [Art & Installation](categories/art-and-installation/) | 6 | Ferrofluid mirrors, planetariums, kinetic sculpture |
 | 7 | [Power & Energy](categories/power-and-energy/) | 4 | Generators, powerwalls, solar forges |
@@ -152,7 +165,7 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 | 28 | [Wearable Tech](categories/wearable-tech/) | 6 | LED jackets, HUD glasses, motion capture gloves |
 | 29 | [Survival & Off-Grid](categories/survival-off-grid/) | 6 | Solar stills, biogas generators, rocket stoves, Faraday cages |
 | 30 | [Pranks & Party](categories/pranks-and-party/) | 6 | Invisible speakers, jump scares, shock pens, insult cameras |
-| 31 | [Kitchen Hacks](categories/kitchen-hacks/) | 5 | Toaster reflow ovens, coffee maker distillers, waffle iron heat presses |
+| 31 | [Kitchen Hacks](categories/kitchen-hacks/) | 6 | Toaster reflow ovens, coffee maker distillers, waffle iron heat presses |
 | 32 | [Laser Lab](categories/laser-lab/) | 7 | Laser harps, galvo light shows, Blu-ray cutters, laser microscopes |
 
 ---
@@ -191,9 +204,10 @@ Before you start ripping apart appliances, read these. Seriously. The teardown g
 
 ---
 
-## Most Dangerous Builds (Spicy ⭐⭐⭐⭐⭐)
+<details>
+<summary><strong>Most Dangerous Builds (Spicy ⭐⭐⭐⭐⭐)</strong> — These builds can kill you if you're careless. Not in a funny way.</summary>
 
-These builds can kill you if you're careless. Not in a funny way. Read the safety docs first. Respect the process. Tell someone where you are and what you're doing.
+Read the safety docs first. Respect the process. Tell someone where you are and what you're doing.
 
 | Build | What Makes It Spicy |
 |---|---|
@@ -207,6 +221,8 @@ These builds can kill you if you're careless. Not in a funny way. Read the safet
 | [#275 — Capacitor Bank Plasma Igniter](categories/alchemist-cookbook/275-capacitor-bank-plasma-igniter.md) | MOT capacitor bank — stores lethal energy |
 | [#277 — EMP Cannon](categories/alchemist-cookbook/277-electromagnetic-pulse-cannon.md) | Capacitor bank + coil = localized EMP. Legal gray area. |
 | [#278 — Thermite Sparkler Bombs](categories/alchemist-cookbook/278-thermite-sparkler-bombs.md) | 4000°F+ thermite ignited by sparkler fuse |
+
+</details>
 
 ---
 

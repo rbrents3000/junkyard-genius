@@ -1,132 +1,171 @@
-# Seasonal and Holiday Builds
+# Seasonal & Holiday Builds
 
-> The right build at the right time of year turns a cool project into the highlight of the party. Timing is everything.
+> The right build at the right time of year turns a cool project into an unforgettable event. Thermite at a 4th of July party. A fog machine on Halloween. LED jackets on New Year's Eve. Timing is everything.
 
-Most builds take an afternoon to a weekend. Start a week before the event and you'll have time to test, troubleshoot, and look like you've been doing this for years.
-
----
-
-## Halloween
-
-The undisputed king of holiday builds. Half the repo was basically designed for this.
-
-| # | Build | Why It's Perfect |
-|---|---|---|
-| 109 | [Luminol Crime Scene](../categories/pyro-and-chemistry/109-luminol-crime-scene.md) | Spray luminol on "blood" (iron-containing solution) and it glows blue under blacklight. Turn any room into a forensic investigation scene. |
-| 255 | [Motion Jump Scare](../categories/pranks-and-party/255-motion-jump-scare.md) | PIR sensor triggers a pneumatic prop, a blast of air, a scream from a speaker -- or all three at once. Yard haunt essential. Visitors will leave quickly. |
-| 084 | [Ultrasonic Fog Machine](../categories/humidifier-and-water/084-ultrasonic-fog-machine.md) | Low-lying cold fog from an ultrasonic transducer. Fills a room with floor-crawling mist. Add colored lights and your living room becomes a swamp. |
-| 244 | [LED Mask](../categories/wearable-tech/244-led-mask.md) | Addressable LED matrix behind a translucent mask. Display animated faces, react to sound, or cycle through patterns that make small children cry. Best costume upgrade possible. |
-| 015 | [Giant Plasma Globe](../categories/light-and-visual/015-giant-plasma-globe.md) | Oversized plasma globe from a glass bowl and a flyback transformer. Looks like a mad scientist's crystal ball. Touch it and lightning follows your fingers. |
-| 233 | [Luminol Fog Murder Mystery](../categories/alchemist-cookbook/233-luminol-fog-murder-mystery.md) | Full-room luminol fog that reveals hidden evidence. Combine with a murder mystery script for a Halloween party nobody will forget. |
-| 120 | [Dry Ice Bubble Cauldron](../categories/pyro-and-chemistry/120-dry-ice-bubble-cauldron.md) | Dry ice in warm soapy water produces fog-filled bubbles that pop into ghostly clouds. Literal witch's brew. |
-| 140 | [EMF Ghost Detector](../categories/pi-and-arduino/140-emf-ghost-detector.md) | An electromagnetic field detector that beeps near wiring, motors, and phones. Is it detecting ghosts? No. Will partygoers believe it? Without hesitation. |
-| 047 | [Dryer Drum Planetarium](../categories/art-and-installation/047-dryer-drum-planetarium.md) | Drill star patterns into a dryer drum, put a light inside, project the night sky onto walls and ceiling. In a dark room at a party, it's otherworldly. |
-| 093 | [Fog Chiller](../categories/fridge-and-cooling/093-fog-chiller.md) | Cools fog output so it hugs the ground instead of rising. The difference between amateur fog and professional-looking yard haunts. |
-
-**Planning timeline:** Start 2-3 weeks before Halloween. Test fog machines, sensors, and electronics at least once before the event. Buy dry ice the morning of -- it sublimates fast.
+This guide maps builds to holidays and seasons so you can plan ahead. Most builds take an afternoon to a weekend — start a week before the event and you'll be the legend of the party.
 
 ---
 
-## 4th of July
+## Halloween (October)
 
-Fire, sparks, and controlled chaos. Your backyard becomes the neighborhood show.
+The best holiday for builders. Everything spooky, glowing, smoking, and shocking is welcome. Halloween is the one night a year your neighbors expect weird lights coming from your garage.
 
-| # | Build | Why It's Perfect |
-|---|---|---|
-| 121 | [Fireworks Sequencer](../categories/pi-and-arduino/121-fireworks-sequencer.md) | Arduino-controlled relay board fires commercial fireworks in a timed sequence. Sync to music and you have a professional-grade show from a lawn chair 50 feet away. |
-| 103 | [Smoke Bomb Array](../categories/pyro-and-chemistry/103-smoke-bomb-array.md) | Multicolored smoke cascading across the yard. Set off six at once for a wall of red, white, and blue. |
-| 007 | [Fire Tornado Table](../categories/fire-and-plasma/007-fire-tornado-table.md) | A spinning column of fire on a table. The centerpiece of any backyard party. People will stand around it for hours. |
-| 104 | [Cold Spark Machine](../categories/pyro-and-chemistry/104-cold-spark-machine.md) | Concert-quality spark fountains that are safe to stand near. Titanium powder sparks look like fireworks but are cool to the touch within inches. |
-| 101 | [Colored Fire](../categories/pyro-and-chemistry/101-colored-fire.md) | Metal salt packets tossed onto a campfire or fire pit. Blue, green, purple, red flames. Dead simple, endlessly impressive, and costs almost nothing. |
-| 113 | [Steel Wool Photography](../categories/pyro-and-chemistry/113-steel-wool-photography.md) | Spin burning steel wool on a string and capture long-exposure photos of the fire trails. Spectacular results with zero explosives. |
-| 209 | [Alcohol Vapor Cannon](../categories/household-chemistry/209-alcohol-vapor-cannon.md) | A water cooler jug that launches tennis balls with a satisfying WHOMP. The kid-friendly version of the fireworks show. |
-| 003 | [Propane Vortex Cannon](../categories/fire-and-plasma/003-propane-vortex-cannon.md) | A barrel that launches flaming vortex rings into the night sky. Absolutely unnecessary and therefore essential. |
+| Build | Why It's Perfect | Difficulty | Link |
+|---|---|---|---|
+| **Luminol Crime Scene** | Spray a room with luminol, kill the lights, watch it glow blue. Instant haunted house CSI room. | Advanced | [#109](../categories/pyro-and-chemistry/109-luminol-crime-scene.md) |
+| **Motion Jump Scare** | PIR sensor triggers a servo-powered prop, pneumatic actuator, or loud speaker blast when someone walks by. | Intermediate | [#255](../categories/pranks-and-party/255-motion-jump-scare.md) |
+| **Ultrasonic Fog Machine** | Ultrasonic transducers create a low-lying fog from water — no chemicals, no dry ice, runs all night. | Beginner | [#084](../categories/humidifier-and-water/084-ultrasonic-fog-machine.md) |
+| **Giant Plasma Globe** | A flyback transformer drives plasma inside a glass vessel. Crackling purple lightning you can interact with. | Advanced | [#015](../categories/light-and-visual/015-giant-plasma-globe.md) |
+| **Fog Waterfall Table** | Fog cascades over the edge of a table in a slow-motion waterfall effect. Eerie and mesmerizing. | Beginner | [#086](../categories/humidifier-and-water/086-fog-waterfall-table.md) |
+| **LED Mask** | LED strip sewn into a mask with a microcontroller controlling patterns and colors. | Beginner | [#244](../categories/wearable-tech/244-led-mask.md) |
+| **Dry Ice Bubble Cauldron** | Dry ice in warm water inside a cauldron, with a soap film creating giant fog-filled bubbles. Classic witch's brew. | Beginner | [#120](../categories/pyro-and-chemistry/120-dry-ice-bubble-cauldron.md) |
+| **Pepper's Ghost Hologram** | A "floating ghost" illusion using a phone screen and a sheet of clear plastic. Victorian theater magic. | Beginner | [#171](../categories/light-and-visual/171-peppers-ghost-hologram.md) |
+| **Fog Chiller** | Cools fog so it stays low to the ground instead of rising. Graveyard floor fog effect. | Beginner | [#093](../categories/fridge-and-cooling/093-fog-chiller.md) |
+| **Invisible Speaker** | Hidden speaker that makes sounds come from walls, furniture, or seemingly nowhere. Paranormal prank potential. | Intermediate | [#254](../categories/pranks-and-party/254-invisible-speaker.md) |
 
-**Planning timeline:** Buy chemicals and pyrotechnic supplies 2+ weeks in advance -- they sell out near holidays. Build and test electronic ignition systems at least a week before. Check local fireworks laws.
-
-**Safety:** Fire extinguisher, garden hose, and bucket of water within arm's reach. Designate a sober person as safety officer. No exceptions.
-
----
-
-## Christmas / Winter Holidays
-
-Light, warmth, and gifts you can't buy in a store.
-
-| # | Build | Why It's Perfect |
-|---|---|---|
-| 122 | [LED Cube 8x8x8](../categories/pi-and-arduino/122-led-cube-8x8x8.md) | 512 LEDs in a 3D cube cycling through animated patterns. Hypnotic, beautiful, and the kind of gift that makes someone's jaw drop. Start in November -- this takes time. |
-| 016 | [Infinity Mirror Table](../categories/light-and-visual/016-infinity-mirror-table.md) | LED infinity mirror that looks like a portal to another dimension. Coffee table version doubles as furniture. |
-| 017 | [Laser Fog Projector](../categories/light-and-visual/017-laser-fog-projector.md) | A laser beam through fog creates volumetric light effects. Green laser through a slowly drifting fog layer looks like the Northern Lights in your living room. |
-| 047 | [Dryer Drum Planetarium](../categories/art-and-installation/047-dryer-drum-planetarium.md) | Project the winter night sky onto your ceiling. Perfect for long December nights. Kids will request this as a permanent installation. |
-| 117 | [Glow Resin River Table](../categories/pyro-and-chemistry/117-glow-resin-river-table.md) | Live-edge wood slab with phosphorescent resin rivers that glow in the dark. A gift that will outlast you. Start 3-4 weeks ahead -- resin needs curing time. |
-| 173 | [Fiber Optic Star Ceiling](../categories/light-and-visual/173-fiber-optic-star-ceiling.md) | Run hundreds of fiber optic strands through a ceiling panel for a permanent indoor night sky. The most impressive home improvement gift you can give. Dedicate a full weekend. |
-| 243 | [Heated Gloves](../categories/wearable-tech/243-heated-gloves.md) | Nichrome wire in gloves, powered by a USB battery pack. Actually useful in cold weather. A practical gift that you built yourself. |
-| 123 | [Smart Mirror](../categories/pi-and-arduino/123-smart-mirror.md) | A mirror that displays weather, calendar, and time overlaid on your reflection. The tech gift that impresses everyone. |
-
-**Planning timeline:** Start giftable builds 3-4 weeks before Christmas. LED cubes are a marathon -- begin in November. Resin projects need a full week for curing. Order parts from AliExpress by early November to avoid shipping delays.
+**Pro tip:** Start your Halloween builds in early October. If you're building a fog machine AND a jump scare rig AND a plasma globe, that's three weekends of work.
 
 ---
 
-## Summer / Backyard Season
+## 4th of July / Independence Day (July)
 
-The garage door is open, the sun is out, and the neighbors are about to have opinions.
+Fire. Sparks. Things that go boom. The 4th of July is the most pyro-friendly day of the year.
 
-| # | Build | Why It's Perfect |
-|---|---|---|
-| 099 | [Swamp Cooler](../categories/fridge-and-cooling/099-swamp-cooler.md) | Evaporative cooling from salvaged parts. Functional, practical, and satisfying to build on the hottest day of the year. |
-| 208 | [FPV RC Boat](../categories/drone-salvage/208-fpv-rc-boat.md) | First-person-view RC boat with a camera stream to goggles. Take it to a lake and explore from water level. Summer's best excuse to be outside. |
-| 098 | [Junk Ice Cream Maker](../categories/fridge-and-cooling/098-junk-ice-cream-maker.md) | An ice cream maker from salvaged motor and cooling parts. Make ice cream on a Saturday afternoon using a machine you built yourself. Peak summer. |
-| 191 | [Backyard Water Slide](../categories/big-builds/191-backyard-water-slide.md) | PVC pipe, a tarp, and a garden hose. Scale as big as your yard allows. |
-| 185 | [Trebuchet](../categories/mechanical-and-kinetic/185-trebuchet.md) | A medieval siege engine launching water balloons across the backyard. Pure joy. |
-| 005 | [Desktop Foundry](../categories/fire-and-plasma/005-desktop-foundry.md) | Melt aluminum cans in a homemade furnace and cast them into molds. This is an outdoor-only build -- summer is foundry season. |
-| 075 | [Vacuum Hovercraft](../categories/vacuum-cleaner/075-vacuum-hovercraft.md) | A rideable hovercraft from a vacuum cleaner and plywood. Test on smooth pavement or short grass. |
-| 088 | [Electric Skateboard](../categories/scooter-and-motor/088-electric-skateboard.md) | Motorized skateboard from a dead scooter's motor and battery. Summer is for riding things you built. |
+| Build | Why It's Perfect | Difficulty | Link |
+|---|---|---|---|
+| **Fireworks Sequencer** | Arduino-controlled relay board fires commercial fireworks in programmed sequences. Choreographed from a safe distance. | Advanced | [#121](../categories/pi-and-arduino/121-fireworks-sequencer.md) |
+| **Smoke Bomb Array** | KNO3-based colored smoke bombs — red, white, and blue for obvious reasons. | Intermediate | [#103](../categories/pyro-and-chemistry/103-smoke-bomb-array.md) |
+| **Fire Tornado Table** | A lazy Susan with mesh screens creates a vortex of fire in the center. Mesmerizing and dangerous in equal measure. | Intermediate | [#007](../categories/fire-and-plasma/007-fire-tornado-table.md) |
+| **Cold Spark Machine** | Titanium powder fountain that looks like fireworks but is cool enough to touch. Party-safe pyrotechnics. | Intermediate | [#104](../categories/pyro-and-chemistry/104-cold-spark-machine.md) |
+| **Colored Fire** | Metal salt additives turn a bonfire or fire pit into a multicolor display. Copper = green. Lithium = red. Sodium = yellow. | Beginner | [#101](../categories/pyro-and-chemistry/101-colored-fire.md) |
+| **Steel Wool Photography** | Burning steel wool spun on a string creates spectacular long-exposure photos — great for capturing the spirit of the holiday. | Beginner | [#113](../categories/pyro-and-chemistry/113-steel-wool-photography.md) |
+| **Calcium Carbide Cannon** | Calcium carbide + water = acetylene gas. Ignite it in a sealed chamber with a small opening. BANG. | Intermediate | [#116](../categories/pyro-and-chemistry/116-calcium-carbide-cannon.md) |
+| **Thermite Cold Spark Fountain** | Combines thermite chemistry with a controlled cold spark column. The ultimate backyard pyro display. | Advanced | [#230](../categories/alchemist-cookbook/230-thermite-cold-spark-fountain.md) |
 
-**Planning timeline:** Big outdoor builds (water slide, trebuchet) need a full weekend. Foundry builds need a calm, dry, windless day. Fire builds need dry conditions and no burn ban in effect.
-
----
-
-## Science Fair (September - February)
-
-Builds that teach real physics and chemistry while looking impressive enough to win. The judges have seen baking soda volcanoes. Give them something they haven't.
-
-| # | Build | What It Teaches |
-|---|---|---|
-| 041 | [Cloud Chamber](../categories/mad-scientist/041-cloud-chamber.md) | Particle physics -- you can SEE cosmic rays, alpha particles, and beta radiation leaving trails in real time. Supersaturation, ionization, and the fact that subatomic particles are hitting you right now. |
-| 107 | [Bismuth Crystal Garden](../categories/pyro-and-chemistry/107-bismuth-crystal-garden.md) | Crystal nucleation, cooling rates, oxide-layer interference coloring. Stunning iridescent crystals grown on a stovetop. Visually impressive and easy to explain. |
-| 182 | [Stirling Engine](../categories/mechanical-and-kinetic/182-stirling-engine.md) | Thermodynamics -- heat engines, the Carnot cycle, efficiency. A real engine that runs on the temperature difference between your hand and the air. |
-| 267 | [Laser Harp](../categories/laser-lab/267-laser-harp.md) | Optics, photodetection, digital input processing, MIDI. A musical instrument made of light beams. Judges won't know what to do with themselves. |
-| 198 | [Homopolar Motor](../categories/weird-science/198-homopolar-motor.md) | Electromagnetism -- current + magnetic field = force. The simplest motor possible. Five minutes to build, a full physics lesson to explain. |
-| 186 | [Eddy Current Brake](../categories/mechanical-and-kinetic/186-eddy-current-brake.md) | Lenz's law, induced currents, non-contact braking. A magnet dropped through a copper tube falls in slow motion. Elegant, visual, and deeply surprising to anyone who hasn't seen it. |
-| 172 | [Schlieren Optics](../categories/light-and-visual/172-schlieren-optics.md) | Optics -- making invisible air currents, heat plumes, and sound waves visible. The setup is a concave mirror, a point light source, and a razor blade. The result looks like thermal vision. |
-| 050 | [Bicycle Generator](../categories/power-and-energy/050-bicycle-generator.md) | Energy conversion -- mechanical to electrical. Let the judge pedal and try to light a 100-watt bulb. They'll gain a new respect for power plants. |
+**Safety first:** Check your local ordinances. Many cities allow consumer fireworks; many don't. Cold sparks and colored fire are legal almost everywhere. The fireworks sequencer requires commercial-grade fireworks and proper safety distance.
 
 ---
 
-## Party / Event Season (Any Time)
+## Christmas / Winter Holidays (December)
 
-Builds designed to be the centerpiece of a gathering.
+Light, warmth, and things that make people say "how did you make that?" Gift builds are the ultimate flex.
 
-| # | Build | The Vibe |
-|---|---|---|
-| 009 | [Rubens' Tube](../categories/sound-and-music/009-rubens-tube.md) | Fire columns that dance to bass frequencies. Standing waves visualized with actual flames. |
-| 112 | [Non-Newtonian Speaker](../categories/pyro-and-chemistry/112-non-newtonian-speaker.md) | Cornstarch goo on a subwoofer forms alien tendrils that dance to music. Mesmerizing and slightly horrifying. |
-| 044 | [Anti-Gravity Water Fountain](../categories/art-and-installation/044-antigravity-water-fountain.md) | Water appears to fall upward using stroboscopic lighting. Guaranteed conversation starter. |
-| 254 | [Invisible Speaker](../categories/pranks-and-party/254-invisible-speaker.md) | An exciter transducer behind a wall turns any surface into a speaker. Music comes from nowhere. Guests will start questioning reality. |
-| 143 | [AI Photo Booth](../categories/python-projects/143-ai-photo-booth.md) | Style transfer, effects, or face swaps applied to party photos in real time. |
-| 131 | [Pi DJ Controller](../categories/pi-and-arduino/131-pi-dj-controller.md) | A custom DJ controller from salvaged knobs, sliders, and buttons. Plug into a laptop and run the party. |
+| Build | Why It's Perfect | Difficulty | Link |
+|---|---|---|---|
+| **LED Cube 8x8x8** | 512 LEDs soldered into a mesmerizing 3D light sculpture. Programmable patterns. Makes an incredible gift or centerpiece. | Intermediate | [#122](../categories/pi-and-arduino/122-led-cube-8x8x8.md) |
+| **Fiber Optic Star Ceiling** | A bedroom ceiling studded with fiber optic strands that look like a realistic starfield. The gift that changes a room. | Advanced | [#173](../categories/light-and-visual/173-fiber-optic-star-ceiling.md) |
+| **Glow Resin River Table** | A table with a glow-in-the-dark epoxy river running through it. Charges in daylight, glows all evening. | Intermediate | [#117](../categories/pyro-and-chemistry/117-glow-resin-river-table.md) |
+| **Infinity Mirror Table** | Two mirrors + LED strips = an infinite tunnel of light. Coffee table, wall art, or gift. | Intermediate | [#016](../categories/light-and-visual/016-infinity-mirror-table.md) |
+| **Smart Mirror** | A mirror that displays time, weather, calendar, and news. The most impressive bathroom upgrade in history. | Intermediate | [#123](../categories/pi-and-arduino/123-smart-mirror.md) |
+| **Heated Gloves** | Nichrome wire heating elements sewn into gloves, powered by a rechargeable battery pack. Warm hands from salvaged parts. | Beginner | [#243](../categories/wearable-tech/243-heated-gloves.md) |
+| **Shadow Chandelier** | A light fixture that projects intricate shadow patterns on the walls. Ambient, artistic, and handmade. | Intermediate | [#018](../categories/light-and-visual/018-shadow-chandelier.md) |
+| **Nebula Lamp** | An ultrasonic mist maker inside a glass container with colored LEDs creates a swirling nebula effect. | Beginner | [#087](../categories/humidifier-and-water/087-nebula-lamp.md) |
+| **Retro Arcade Cabinet** | A Raspberry Pi running emulators inside a custom cabinet. Gift a childhood of gaming in one box. | Intermediate | [#126](../categories/pi-and-arduino/126-retro-arcade-cabinet.md) |
+
+**Gift build timeline:** Start in early November. Resin tables need curing time. LED cubes need 500+ solder joints. Don't wait until December 20th.
 
 ---
 
-## Seasonal Shopping List
+## Summer (June-August)
 
-Stock up before the season hits. Prices spike and availability drops close to holidays.
+Long days, outdoor builds, and projects that beat the heat or take advantage of it.
 
-| Season | What to Buy | Where |
+| Build | Why It's Perfect | Difficulty | Link |
+|---|---|---|---|
+| **Swamp Cooler** | Evaporative cooling from salvaged fan + pump. No AC, no problem. Actually works in dry climates. | Beginner | [#099](../categories/fridge-and-cooling/099-swamp-cooler.md) |
+| **Backyard Water Slide** | Plastic sheeting + a pump + a hill = summer in one build. | Intermediate | [#191](../categories/big-builds/191-backyard-water-slide.md) |
+| **FPV RC Boat** | Drone parts rebuilt into a first-person-view boat. Race it on lakes, ponds, and pools. Summer on the water. | Advanced | [#208](../categories/drone-salvage/208-fpv-rc-boat.md) |
+| **Cold Spark Machine** | Party-safe pyro for summer BBQs, graduation parties, and outdoor gatherings. | Intermediate | [#104](../categories/pyro-and-chemistry/104-cold-spark-machine.md) |
+| **Solar Water Heater** | Black pipe or copper coils heat water using nothing but sunlight. Outdoor shower, pool heater, or hot tub feed. | Beginner | [#051](../categories/power-and-energy/051-solar-water-heater.md) |
+| **Fresnel Lens Solar Forge** | A big-screen TV's Fresnel lens focuses sunlight to 3,000F+. Melts metal, ignites wood, terrifies onlookers. Summer sun required. | Intermediate | [#020](../categories/light-and-visual/020-fresnel-lens-solar-forge.md) |
+| **Peltier Portable Cooler** | A thermoelectric cooler for drinks, powered by 12V. Bring cold drinks anywhere. | Beginner | [#096](../categories/fridge-and-cooling/096-peltier-portable-cooler.md) |
+| **Junk Ice Cream Maker** | Salvaged motor and compressor parts turned into a functional ice cream maker. | Intermediate | [#098](../categories/fridge-and-cooling/098-junk-ice-cream-maker.md) |
+| **Electric Skateboard** | Scooter motor + battery + skateboard = electric ride. Summer transportation and weekend project. | Advanced | [#088](../categories/scooter-and-motor/088-electric-skateboard.md) |
+
+---
+
+## New Year's Eve (December 31)
+
+The one night a year when "over the top" is the dress code.
+
+| Build | Why It's Perfect | Difficulty | Link |
+|---|---|---|---|
+| **Cold Spark Machine** | Indoor-safe spark fountain for the midnight countdown. Concert vibes at home. | Intermediate | [#104](../categories/pyro-and-chemistry/104-cold-spark-machine.md) |
+| **LED Jacket** | Walk into the party wearing a jacket covered in programmable LEDs. Own the room. | Beginner | [#242](../categories/wearable-tech/242-led-jacket.md) |
+| **Fireworks Sequencer** | Program a choreographed midnight fireworks show triggered by a single button press at 11:59:50. | Advanced | [#121](../categories/pi-and-arduino/121-fireworks-sequencer.md) |
+| **Music Visualizer LED Wall** | LED strips or a panel that reacts to music in real time. Turn any room into a club. | Intermediate | [#145](../categories/python-projects/145-music-visualizer-led-wall.md) |
+| **Invisible Speaker** | Hide speakers in unexpected places to create a surround-sound party experience from salvaged parts. | Intermediate | [#254](../categories/pranks-and-party/254-invisible-speaker.md) |
+
+---
+
+## Science Fair (Any Season)
+
+Builds that demonstrate scientific principles and look impressive to judges.
+
+| Build | Science Demonstrated | Difficulty | Link |
+|---|---|---|---|
+| **Cloud Chamber** | Subatomic particle tracks visible to the naked eye. Nuclear physics at home. Alpha particles, cosmic rays — all visible. | Intermediate | [#041](../categories/mad-scientist/041-cloud-chamber.md) |
+| **Bismuth Crystal Garden** | Crystallography, oxide layer interference (iridescent colors), melting point depression. Beautiful AND educational. | Beginner | [#107](../categories/pyro-and-chemistry/107-bismuth-crystal-garden.md) |
+| **Stirling Engine** | Thermodynamic cycles, heat engines, Carnot efficiency. A working engine that runs on the temperature difference between your hand and the air. | Advanced | [#182](../categories/mechanical-and-kinetic/182-stirling-engine.md) |
+| **Homopolar Motor** | Electromagnetism, Lorentz force, current-carrying conductors in magnetic fields. Physics in 30 seconds. | Beginner | [#198](../categories/weird-science/198-homopolar-motor.md) |
+| **Electroplating Station** | Electrochemistry, redox reactions, ion transport, current density effects. Plate a penny with copper. | Intermediate | [#156](../categories/chemical-electronic/156-electroplating-station.md) |
+| **Chain Fountain** | Momentum transfer, the Mould effect, Newton's third law demonstrated in a spectacular and counterintuitive way. | Beginner | [#184](../categories/mechanical-and-kinetic/184-chain-fountain.md) |
+| **Schlieren Optics** | Refraction, density gradients, airflow visualization. See the invisible. | Advanced | [#172](../categories/light-and-visual/172-schlieren-optics.md) |
+| **Eddy Current Brake** | Lenz's law, electromagnetic induction, braking without friction. Drop a magnet through a copper tube and watch physics slow it down. | Beginner | [#186](../categories/mechanical-and-kinetic/186-eddy-current-brake.md) |
+| **Van de Graaff Generator** | Static electricity, charge accumulation, Faraday cage principles, corona discharge. Hair-raising (literally). | Intermediate | [#197](../categories/weird-science/197-van-de-graaff-generator.md) |
+| **Density Tower** | Fluid density, miscibility, molecular polarity. Layer 7+ liquids in a single container. | Beginner | [#213](../categories/household-chemistry/213-density-tower.md) |
+
+**Science fair tips:**
+- Pick a build with a clear scientific principle you can explain in one sentence.
+- Build the display board AROUND the build, not the other way around.
+- Include a live demo if allowed. A running Stirling engine beats a poster every time.
+- Bismuth crystals + cloud chamber = double award territory if you can connect them thematically (materials science and particle physics).
+
+---
+
+## Valentine's Day (February)
+
+Handmade beats store-bought. Every time.
+
+| Build | Why It's Perfect | Difficulty | Link |
+|---|---|---|---|
+| **Glow Resin River Table** | A handcrafted table that literally glows. The ultimate handmade gift. | Intermediate | [#117](../categories/pyro-and-chemistry/117-glow-resin-river-table.md) |
+| **Infinity Mirror** | Heart-shaped frame option. Infinite tunnel of light = infinite love (or something). | Intermediate | [#016](../categories/light-and-visual/016-infinity-mirror-table.md) |
+| **CPU Resin Jewelry** | Old CPU chips and circuit board fragments cast in clear resin. Nerd jewelry that looks incredible. | Beginner | [#059](../categories/computer-and-phone/059-cpu-resin-jewelry.md) |
+| **Fiber Optic Star Ceiling** | Install it above the bed. "I made you the night sky" is an objectively great line. | Advanced | [#173](../categories/light-and-visual/173-fiber-optic-star-ceiling.md) |
+| **Electroforming Art** | Copper electroformed leaves, flowers, or small sculptures. Unique, handmade, impossible to buy. | Advanced | [#160](../categories/chemical-electronic/160-electroforming-art.md) |
+
+---
+
+## Camping / Outdoors (Any Season)
+
+Builds that work off-grid, run on batteries, or harness natural energy.
+
+| Build | Why It's Perfect | Difficulty | Link |
+|---|---|---|---|
+| **Campfire Thermoelectric Charger** | Place it on your campfire, plug in your phone. Peltier module converts heat difference to electricity. | Intermediate | [#049](../categories/power-and-energy/049-campfire-thermoelectric-charger.md) |
+| **Solar Still** | Distill water using sunlight. Survival skill and science demonstration in one build. | Beginner | [#248](../categories/survival-off-grid/248-solar-still.md) |
+| **Hand Crank Charger** | Generate electricity by turning a crank. Phone charging when there's no outlet for miles. | Intermediate | [#251](../categories/survival-off-grid/251-hand-crank-charger.md) |
+| **Rocket Stove** | An ultra-efficient stove that boils water with a handful of twigs. Thermodynamic perfection from scrap metal. | Beginner | [#253](../categories/survival-off-grid/253-rocket-stove.md) |
+| **Gravity Water Filter** | A gravity-fed water filtration system from salvaged materials. Clean water anywhere. | Beginner | [#250](../categories/survival-off-grid/250-gravity-water-filter.md) |
+| **Pirate Radio** | A low-power FM transmitter. Broadcast to the whole campsite from a Raspberry Pi. | Beginner | [#134](../categories/pi-and-arduino/134-pirate-radio.md) |
+
+---
+
+## Planning Calendar
+
+| Month | Start Building | For This Event |
 |---|---|---|
-| **Halloween** | Dry ice, luminol, UV flashlights, PIR sensors, LED strips, fog juice | Grocery store (dry ice day-of), Amazon (sensors, LEDs, luminol) |
-| **4th of July** | KNO3, titanium powder, steel wool, colored metal salts, piezo igniters, relay modules | Online pyro suppliers (2+ weeks lead time) |
-| **Christmas** | WS2812B LED strips, fiber optic cable, epoxy resin, phosphorescent pigment, one-way mirror film | AliExpress (order by November), Amazon |
-| **Summer** | PVC pipe, tarps, plywood, aluminum cans, propane, charcoal | Hardware store |
-| **Science Fair** | Isopropyl alcohol, neodymium magnets, copper pipe, bismuth ingots, laser pointers | Amazon, eBay, metal suppliers |
-| **Year-round** | 18650 cells, Arduino/ESP32 boards, wire, solder, hot glue sticks | AliExpress (3-4 week shipping), Amazon (2-day if impatient) |
+| January | LED Cube, Infinity Mirror | Valentine's Day |
+| February | Cloud Chamber, Bismuth Crystals | Spring Science Fair |
+| March | Smoke Bombs, Cold Sparks | 4th of July |
+| May | Swamp Cooler, Water Slide, Solar projects | Summer |
+| June | Fireworks Sequencer | 4th of July |
+| September | Fog Machine, Luminol, Jump Scare | Halloween |
+| October | LED Cube, Star Ceiling, Resin Table | Christmas |
+| November | Smart Mirror, Arcade Cabinet, Glow Table | Christmas |
+| December | Cold Spark Machine, LED Jacket | New Year's Eve |
+
+---
+
+The right build at the right moment turns you from "person with a weird hobby" into "the one everybody wants at their party." Plan ahead, start early, and own the holiday.

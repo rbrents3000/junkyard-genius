@@ -17,3 +17,4 @@ Every one of these appliances was designed to do one thing. Every one of them ca
 | 262 | [Coffee Maker Distiller](262-coffee-maker-distiller.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
 | 263 | [Blender Centrifuge](263-blender-centrifuge.md) | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
 | 264 | [Waffle Iron Press](264-waffle-iron-press.md) | ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
+| 286 | [Blender Vortex Centrifuge](286-blender-paint-mixer.md) | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
