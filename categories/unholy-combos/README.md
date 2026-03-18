@@ -19,3 +19,23 @@ Every build here assumes you've already mastered the individual components. If y
 | 053 | [Singing Ferrofluid Tornado](053-singing-ferrofluid-tornado.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | 054 | [Vacuum Plasma Cloud Chamber](054-vacuum-plasma-cloud-chamber.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | 055 | [Levitating Plasma Speaker](055-levitating-plasma-speaker.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| 283 | [Plasma Speaker Lamp](283-plasma-speaker-lamp.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+| 284 | [Thermite Forge Foundry](284-thermite-forge-foundry.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+| 285 | [E-Waste Wind Turbine](285-e-waste-wind-turbine.md) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+| 286 | [Microwave Spot Welder Arm](286-microwave-spot-welder-arm.md) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| 287 | [Chemical LED Art Panel](287-chemical-led-art-panel.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+
+---
+
+### Suggested Build Order
+
+These are endgame builds — each one assumes mastery of its component categories. Start with the least dangerous and work up:
+
+1. **[#285 — E-Waste Wind Turbine](285-e-waste-wind-turbine.md)** — Lowest danger. Learn motor-as-generator + mechanical power transmission.
+2. **[#287 — Chemical LED Art Panel](287-chemical-led-art-panel.md)** — Low danger. Combines chemistry with digital control.
+3. **[#283 — Plasma Speaker Lamp](283-plasma-speaker-lamp.md)** — High voltage. Master flyback transformers first.
+4. **[#286 — Microwave Spot Welder Arm](286-microwave-spot-welder-arm.md)** — MOT + CNC. Requires both electrical and mechanical skills.
+5. **[#053 — Singing Ferrofluid Tornado](053-singing-ferrofluid-tornado.md)** — Multi-coil electromagnetic control. The signature build.
+6. **[#284 — Thermite Forge Foundry](284-thermite-forge-foundry.md)** — Extreme heat. Do this outdoors with full PPE.
+7. **[#054 — Vacuum Plasma Cloud Chamber](054-vacuum-plasma-cloud-chamber.md)** — Vacuum + high voltage. Advanced physics.
+8. **[#055 — Levitating Plasma Speaker](055-levitating-plasma-speaker.md)** — The final boss. Magnetic levitation + plasma audio.

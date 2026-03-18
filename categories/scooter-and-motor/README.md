@@ -18,3 +18,20 @@ Dead electric scooters, hoverboards, and e-bikes contain some of the most useful
 | 089 | [Motorized Camera Slider](089-motorized-camera-slider.md) | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
 | 090 | [Electric Winch](090-electric-winch.md) | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐ |
 | 091 | [Wind Phone Charger](091-wind-phone-charger.md) | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+| 292 | [Motor-Powered Pottery Wheel](292-motor-powered-pottery-wheel.md) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+| 293 | [Electric Fence Charger](293-electric-fence-charger.md) | ⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ |
+| 294 | [Motor-Driven Turntable](294-motor-driven-turntable.md) | ⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
+
+---
+
+### Suggested Build Order
+
+Start with simple motor repurposing, then tackle power electronics:
+
+1. **[#294 — Motor-Driven Turntable](294-motor-driven-turntable.md)** — Simplest motor project. One motor, one platform.
+2. **[#089 — Motorized Camera Slider](089-motorized-camera-slider.md)** — Stepper control and linear motion.
+3. **[#292 — Motor-Powered Pottery Wheel](292-motor-powered-pottery-wheel.md)** — Hub motor + speed control.
+4. **[#090 — Electric Winch](090-electric-winch.md)** — High-torque motor applications.
+5. **[#091 — Wind Phone Charger](091-wind-phone-charger.md)** — Motor as generator. Reverse the physics.
+6. **[#088 — Electric Skateboard](088-electric-skateboard.md)** — Full ESC + battery + motor integration.
+7. **[#293 — Electric Fence Charger](293-electric-fence-charger.md)** — High-voltage pulse circuits. Respect the zap.

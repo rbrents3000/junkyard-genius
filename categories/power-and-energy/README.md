@@ -20,3 +20,22 @@ Energy is everywhere — in heat differentials, in mechanical motion, in sunligh
 | 050 | [Bicycle Generator](050-bicycle-generator.md) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
 | 051 | [Solar Water Heater](051-solar-water-heater.md) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐ |
 | 052 | [DIY Powerwall](052-diy-powerwall.md) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| 288 | [Laptop Battery Powerwall](288-laptop-battery-powerwall.md) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| 289 | [Peltier Solar Cooler](289-peltier-solar-cooler.md) | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+| 290 | [Hand-Crank Generator](290-hand-crank-generator.md) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+| 291 | [Capacitor Bank Flash Charger](291-capacitor-bank-flash-charger.md) | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+
+---
+
+### Suggested Build Order
+
+Start with low-danger energy harvesting and work toward high-capacity storage:
+
+1. **[#290 — Hand-Crank Generator](290-hand-crank-generator.md)** — Mechanical to electrical. Simplest energy conversion.
+2. **[#049 — Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger.md)** — Heat to electrical. Learn the Seebeck effect.
+3. **[#050 — Bicycle Generator](050-bicycle-generator.md)** — Larger-scale mechanical generation.
+4. **[#051 — Solar Water Heater](051-solar-water-heater.md)** — Passive solar thermal. No electronics needed.
+5. **[#289 — Peltier Solar Cooler](289-peltier-solar-cooler.md)** — Active solar + thermoelectric modules.
+6. **[#052 — DIY Powerwall](052-diy-powerwall.md)** — Battery assembly and management. Higher stakes.
+7. **[#288 — Laptop Battery Powerwall](288-laptop-battery-powerwall.md)** — Large-scale battery harvesting and assembly.
+8. **[#291 — Capacitor Bank Flash Charger](291-capacitor-bank-flash-charger.md)** — High-energy storage. Respect the discharge.

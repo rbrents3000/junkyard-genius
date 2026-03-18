@@ -20,3 +20,18 @@ The motor doesn't care whether it's sucking dust or doing something far more int
 | 076 | [Wall-Climbing Robot](076-wall-climbing-robot.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 | 077 | [Cyclone Dust Separator](077-cyclone-dust-separator.md) | ⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐ |
 | 078 | [Vacuum Leaf Blower](078-vacuum-leaf-blower.md) | ⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐ |
+| 298 | [Vacuum Sandblaster](298-vacuum-sandblaster.md) | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+| 299 | [Pneumatic Launcher](299-pneumatic-launcher.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+
+---
+
+### Suggested Build Order
+
+Start with the simplest motor repurposing, end with the crowd-pleaser:
+
+1. **[#078 — Vacuum Leaf Blower](078-vacuum-leaf-blower.md)** — Reverse the airflow. Simplest build.
+2. **[#077 — Cyclone Dust Separator](077-cyclone-dust-separator.md)** — Essential shop tool. Passive physics.
+3. **[#298 — Vacuum Sandblaster](298-vacuum-sandblaster.md)** — Blow mode + abrasive media. Surface stripping.
+4. **[#075 — Vacuum Hovercraft](075-vacuum-hovercraft.md)** — The classic. A platform that floats on air.
+5. **[#076 — Wall-Climbing Robot](076-wall-climbing-robot.md)** — Suction + drive motors. Advanced build.
+6. **[#299 — Pneumatic Launcher](299-pneumatic-launcher.md)** — Pressurized air + projectiles. The showstopper.

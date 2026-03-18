@@ -1,8 +1,8 @@
 <p align="center">
   <h1 align="center">Junkyard Genius</h1>
-  <p align="center"><strong>282 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
+  <p align="center"><strong>299 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/builds-282-orange?style=for-the-badge" alt="282 Builds" />
+    <img src="https://img.shields.io/badge/builds-299-orange?style=for-the-badge" alt="299 Builds" />
     <img src="https://img.shields.io/badge/categories-32-blue?style=for-the-badge" alt="32 Categories" />
     <img src="https://img.shields.io/github/license/rbrents3000/junkyard-genius?style=for-the-badge" alt="License" />
     <img src="https://img.shields.io/github/stars/rbrents3000/junkyard-genius?style=for-the-badge" alt="Stars" />
@@ -25,7 +25,7 @@ Your microwave, fridge, old phones, dead laptops, busted printers, and that vacu
 
 This repo is a cookbook for builders, makers, mad scientists, and anyone who looks at a pile of junk and sees potential. Every build includes rated difficulty, sourced ingredients, step-by-step instructions, and safety notes.
 
-> **282 builds** &middot; **32 categories** &middot; **13 reference guides** &middot; **4 safety docs**
+> **299 builds** &middot; **32 categories** &middot; **13 reference guides** &middot; **4 safety docs**
 >
 > From "I just need a battery and a magnet" to "I'm building a rail gun from a microwave and a prayer."
 >
@@ -108,7 +108,7 @@ Find builds based on what you already have lying around. One person's e-waste is
 | **Washing Machine** | [Electric Go-Kart](categories/functional-machines/024-electric-go-kart.md), [Steel Tongue Drum](categories/junk-instruments/239-steel-tongue-drum.md), [Scrap Sculpture](categories/art-and-installation/045-scrap-metal-sculpture.md) |
 | **Dryer** | [Planetarium](categories/art-and-installation/047-dryer-drum-planetarium.md), [Desktop Foundry](categories/fire-and-plasma/005-desktop-foundry.md) |
 | **Oven / Toaster Oven** | [Reflow Oven](categories/kitchen-hacks/260-toaster-reflow-oven.md), [Powder Coating Oven](categories/functional-machines/028-powder-coating-oven.md) |
-| **Vacuum Cleaner** | [Hovercraft](categories/vacuum-cleaner/075-vacuum-hovercraft.md), [Vacuum Former](categories/functional-machines/029-vacuum-former.md), [Wall-Climbing Robot](categories/vacuum-cleaner/076-wall-climbing-robot.md) |
+| **Vacuum Cleaner** | [Hovercraft](categories/vacuum-cleaner/075-vacuum-hovercraft.md), [Vacuum Former](categories/functional-machines/029-vacuum-former.md), [Wall-Climbing Robot](categories/vacuum-cleaner/076-wall-climbing-robot.md), [Sandblaster](categories/vacuum-cleaner/298-vacuum-sandblaster.md), [Pneumatic Launcher](categories/vacuum-cleaner/299-pneumatic-launcher.md) |
 | **Old Printer** | [CNC Machine](categories/printer-and-scanner/069-printer-stepper-cnc.md), [Robotic Arm](categories/pi-and-arduino/129-printer-robot-arm.md), [MIDI Stepper Organ](categories/pi-and-arduino/135-midi-stepper-organ.md) |
 | **Old Laptop** | [External Monitor](categories/computer-and-phone/061-laptop-screen-monitor.md), [Powerwall Cells](categories/power-and-energy/052-diy-powerwall.md), [Smart Mirror](categories/pi-and-arduino/123-smart-mirror.md) |
 | **Old Phone/Tablet** | [Sensor Network](categories/computer-and-phone/064-phone-sensor-network.md), [Macro Photography](categories/computer-and-phone/063-phone-macro-photography.md), [Earthquake Detector](categories/python-projects/146-earthquake-detector.md) |
@@ -116,8 +116,8 @@ Find builds based on what you already have lying around. One person's e-waste is
 | **Dead Drone** | [Gimbal Stabilizer](categories/drone-salvage/201-camera-gimbal-stabilizer.md), [Star Tracker](categories/drone-salvage/203-gimbal-motor-star-tracker.md), [Wind Turbine](categories/drone-salvage/204-drone-motor-wind-turbine.md), [FPV RC Boat](categories/drone-salvage/208-fpv-rc-boat.md) |
 | **Old Car Parts** | [Alternator Welder](categories/junkyard-auto/219-alternator-welder.md), [Ignition Coil Tesla Coil](categories/junkyard-auto/220-ignition-coil-tesla-coil.md), [Starter Motor Go-Kart](categories/junkyard-auto/221-starter-motor-go-kart.md) |
 | **Kitchen Appliances** | [Toaster Reflow Oven](categories/kitchen-hacks/260-toaster-reflow-oven.md), [Coffee Maker Distiller](categories/kitchen-hacks/262-coffee-maker-distiller.md), [Stand Mixer Pottery Wheel](categories/kitchen-hacks/261-stand-mixer-pottery-wheel.md) |
-| **Electric Scooter** | [Go-Kart](categories/functional-machines/024-electric-go-kart.md), [Lathe](categories/functional-machines/025-scooter-motor-lathe.md), [E-Skateboard](categories/scooter-and-motor/088-electric-skateboard.md) |
-| **Humidifier** | [Fog Machine](categories/humidifier-and-water/084-ultrasonic-fog-machine.md), [Nebula Lamp](categories/humidifier-and-water/087-nebula-lamp.md) |
+| **Electric Scooter** | [Go-Kart](categories/functional-machines/024-electric-go-kart.md), [Lathe](categories/functional-machines/025-scooter-motor-lathe.md), [E-Skateboard](categories/scooter-and-motor/088-electric-skateboard.md), [Pottery Wheel](categories/scooter-and-motor/292-motor-powered-pottery-wheel.md) |
+| **Humidifier** | [Fog Machine](categories/humidifier-and-water/084-ultrasonic-fog-machine.md), [Nebula Lamp](categories/humidifier-and-water/087-nebula-lamp.md), [Mist Cooler](categories/humidifier-and-water/297-mist-cooling-system.md), [Water Collector](categories/humidifier-and-water/296-fog-harp-water-collector.md) |
 | **Laser Pointers / DVD Drives** | [Laser Harp](categories/laser-lab/267-laser-harp.md), [Galvo Light Show](categories/laser-lab/266-laser-galvo-show.md), [Laser Communicator](categories/laser-lab/265-laser-communicator.md), [Blu-Ray Laser Cutter](categories/laser-lab/269-blu-ray-laser-cutter.md) |
 | **Musical Junk** (buckets, cans, hoses) | [Cigar Box Guitar](categories/junk-instruments/235-cigar-box-guitar.md), [PVC Pipe Organ](categories/junk-instruments/236-pvc-pipe-organ.md), [Steel Tongue Drum](categories/junk-instruments/239-steel-tongue-drum.md) |
 | **Old Clothes / Wearables** | [LED Jacket](categories/wearable-tech/242-led-jacket.md), [Heated Gloves](categories/wearable-tech/243-heated-gloves.md), [LED Mask](categories/wearable-tech/244-led-mask.md) |
@@ -155,13 +155,13 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 | 4 | 🔧 | [Functional Machines](categories/functional-machines/) | 9 | Go-karts, welders, vacuum formers, belt grinders |
 | 5 | ⚡ | [Mad Scientist](categories/mad-scientist/) | 10 | Tesla coils, rail guns, cloud chambers, mass spectrometers |
 | 6 | 🎨 | [Art & Installation](categories/art-and-installation/) | 6 | Ferrofluid mirrors, planetariums, kinetic sculpture |
-| 7 | 🔋 | [Power & Energy](categories/power-and-energy/) | 4 | Generators, powerwalls, solar forges |
+| 7 | 🔋 | [Power & Energy](categories/power-and-energy/) | 8 | Generators, powerwalls, solar forges, capacitor banks |
 | 8 | 💻 | [Computer & Phone Parts](categories/computer-and-phone/) | 13 | HDD speakers, laptop monitors, phone sensors |
 | 9 | 🖨️ | [Printer & Scanner](categories/printer-and-scanner/) | 6 | CNC machines, laser engravers, bioprinters, 3D scanners |
-| 10 | 🌀 | [Vacuum Cleaner](categories/vacuum-cleaner/) | 4 | Hovercrafts, wall-climbing robots |
+| 10 | 🌀 | [Vacuum Cleaner](categories/vacuum-cleaner/) | 6 | Hovercrafts, wall-climbing robots, sandblasters, launchers |
 | 11 | 🔨 | [Power Tools Remixed](categories/power-tools-remixed/) | 5 | Drill press, CNC spindle, power hammer |
-| 12 | 💧 | [Humidifier & Water](categories/humidifier-and-water/) | 4 | Fog machines, nebula lamps, ultrasonic cleaners |
-| 13 | ⚙️ | [Scooter & Motor](categories/scooter-and-motor/) | 4 | E-skateboards, camera sliders, wind turbines |
+| 12 | 💧 | [Humidifier & Water](categories/humidifier-and-water/) | 7 | Fog machines, nebula lamps, ultrasonic cleaners, mist cooling |
+| 13 | ⚙️ | [Scooter & Motor](categories/scooter-and-motor/) | 7 | E-skateboards, camera sliders, pottery wheels, turntables |
 | 14 | ❄️ | [Fridge & Cooling](categories/fridge-and-cooling/) | 9 | Freeze dryers, fermentation chambers, Peltier coolers, ice cream makers |
 | 15 | 🧪 | [Pyro & Chemistry](categories/pyro-and-chemistry/) | 20 | Colored fire, thermite, bismuth crystals, luminol, smoke bombs |
 | 16 | 🤖 | [Raspberry Pi & Arduino](categories/pi-and-arduino/) | 20 | LED cubes, drones, smart mirrors, fireworks sequencers |
@@ -170,7 +170,7 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 | 19 | 🏗️ | [Mechanical & Kinetic](categories/mechanical-and-kinetic/) | 10 | Marble machines, Stirling engines, trebuchets |
 | 20 | 🏢 | [Big Builds](categories/big-builds/) | 5 | Weather balloons, ham radio, geodesic domes |
 | 21 | 🔬 | [Weird Science](categories/weird-science/) | 5 | Kirlian photography, Van de Graaff, DIY electron microscope |
-| 22 | 💀 | [Unholy Combos](categories/unholy-combos/) | 3 | Cross-category mashups nobody asked for (but everyone needed) |
+| 22 | 💀 | [Unholy Combos](categories/unholy-combos/) | 8 | Cross-category mashups nobody asked for (but everyone needed) |
 | 23 | 🚁 | [Drone Salvage](categories/drone-salvage/) | 8 | FPV racers, gimbal stabilizers, brushless motor hacks |
 | 24 | 🧹 | [Household Chemistry](categories/household-chemistry/) | 16 | Crystal gardens, vinegar rockets, elephant toothpaste, smoke bombs, copper plating |
 | 25 | 🚗 | [Junkyard Auto](categories/junkyard-auto/) | 8 | Alternator generators, ignition coil Teslas, spark plug lighters |
@@ -202,7 +202,7 @@ Before you start ripping apart appliances, read these. Seriously. The teardown g
 | [Filming Guide](reference/filming-guide.md) | How to film your builds for TikTok/YouTube |
 | [Seasonal Builds](reference/seasonal-builds.md) | Builds organized by holiday — Halloween, 4th of July, Christmas, summer |
 | [Ingredient Index](reference/ingredient-index.md) | Reverse lookup — every component mapped to every build that uses it |
-| [Glossary](reference/glossary.md) | 40+ technical terms decoded — MOT, flyback, thermite, Peltier, and every acronym in the repo |
+| [Glossary](reference/glossary.md) | 60+ technical terms decoded — MOT, flyback, thermite, Peltier, and every acronym in the repo |
 
 ---
 
