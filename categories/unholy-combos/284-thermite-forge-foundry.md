@@ -59,4 +59,4 @@ A car brake rotor serves as the crucible. Cast iron rotors handle the thermal sh
 ## See Also
 
 - [Desktop Foundry](../fire-and-plasma/005-desktop-foundry.md)
-- [Thermite Reaction](../pyro-and-chemistry/100-thermite-reaction.md)
+- [Thermite Flower Pot Forge](../pyro-and-chemistry/105-thermite-flower-pot.md)
