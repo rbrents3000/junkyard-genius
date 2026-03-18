@@ -1,0 +1,48 @@
+title: "[Build Showcase] "
+labels: []
+body:
+  - type: input
+    id: build
+    attributes:
+      label: Which build?
+      description: "Which build did you complete? (e.g., #075 Vacuum Hovercraft)"
+      placeholder: "#NNN — Build Name"
+    validations:
+      required: true
+
+  - type: textarea
+    id: photos
+    attributes:
+      label: Photos / Videos
+      description: "Share images or video links of your completed build. Drag and drop images here."
+      placeholder: "Drag images here or paste video URLs"
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Build Notes
+      description: "Anything you'd change? Tips for others? Lessons learned?"
+      placeholder: |
+        - What went well
+        - What you'd do differently
+        - Any ingredient substitutions that worked
+
+  - type: dropdown
+    id: difficulty-accurate
+    attributes:
+      label: Were the ratings accurate?
+      options:
+        - "Yes — nailed it"
+        - "Easier than rated"
+        - "Harder than rated"
+        - "More dangerous than rated (please explain below)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: corrections
+    attributes:
+      label: Corrections or Safety Notes
+      description: "Anything wrong or missing in the build file? Safety concerns?"
