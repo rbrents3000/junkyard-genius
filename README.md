@@ -22,7 +22,7 @@ Your microwave, fridge, old phones, dead laptops, busted printers, and that vacu
 
 This repo is a cookbook for builders, makers, mad scientists, and anyone who looks at a pile of junk and sees potential. Every build includes rated difficulty, sourced ingredients, step-by-step instructions, and safety notes.
 
-> **282 builds** &middot; **32 categories** &middot; **12 reference guides** &middot; **4 safety docs**
+> **282 builds** &middot; **32 categories** &middot; **13 reference guides** &middot; **4 safety docs**
 >
 > From "I just need a battery and a magnet" to "I'm building a rail gun from a microwave and a prayer."
 >
