@@ -58,5 +58,5 @@ The applications are surprisingly broad. You can do rapid esterification reactio
 
 ## See Also
 
-- [Capacitor Bank Plasma Igniter](230-capacitor-bank-plasma-igniter.md)
+- [Capacitor Bank Plasma Igniter](275-capacitor-bank-plasma-igniter.md)
 - [Electrolysis Rust Eraser](../household-chemistry/212-electrolysis-rust-eraser.md)
