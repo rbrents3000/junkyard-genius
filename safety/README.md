@@ -16,6 +16,16 @@ Every build has a Spicy Level rating from 1 to 5 stars. Here's what each level m
 | ⭐⭐⭐⭐ | **One Wrong Move...** | Serious hazards. High voltage, toxic chemicals, high temperatures, pyrotechnics, or fast-moving mechanical parts. Mistakes at this level cause burns, chemical exposure, or electrical injury. | All of the above PLUS: specific PPE for the hazard (welding goggles, chemical splash goggles, insulated gloves), kill switch, someone else present or aware, phone charged and nearby |
 | ⭐⭐⭐⭐⭐ | **Call Next of Kin** | Potentially lethal hazards. Lethal voltages (MOTs, CRT anodes, capacitor banks), thermite, large pyrotechnic setups, or builds where a single mistake can kill or cause permanent injury. These builds exist for experienced builders who understand the specific risks. | Everything above PLUS: thorough understanding of the specific hazard, tested emergency procedures, someone present who can call 911 and knows not to touch you if you're being electrocuted, practiced the build sequence mentally before applying power |
 
+```mermaid
+flowchart LR
+    A["⭐ Chill"] --> B["⭐⭐ Mildly Sketchy"] --> C["⭐⭐⭐ Respect It"] --> D["⭐⭐⭐⭐ One Wrong Move"] --> E["⭐⭐⭐⭐⭐ Call Next of Kin"]
+    style A fill:#22c55e,color:#000
+    style B fill:#84cc16,color:#000
+    style C fill:#eab308,color:#000
+    style D fill:#f97316,color:#fff
+    style E fill:#ef4444,color:#fff
+```
+
 **The Spicy Level is not a gatekeeping system.** It's an honest assessment of risk so you can prepare appropriately. A ⭐⭐⭐⭐⭐ build done by someone who understands the hazards and takes precautions is safer than a ⭐⭐⭐ build done by someone who ignores the safety notes.
 
 ---
