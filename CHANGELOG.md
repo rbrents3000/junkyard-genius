@@ -4,6 +4,18 @@ All notable milestones for this project are documented here.
 
 ---
 
+## Phase 5 — Category Depth Pass (March 2026)
+
+- **12 new builds** across 4 categories → 311 total builds
+  - Big Builds: 5 → 8 (backyard observatory, shipping container workshop, giant outdoor Tesla coil)
+  - Kitchen Hacks: 5 → 8 (instant pot vacuum chamber, rice cooker electroplating, microwave kiln)
+  - Power Tools Remixed: 5 → 8 (drill-powered lathe, jigsaw scroll saw, angle grinder belt sander)
+  - Weird Science: 5 → 8 (DIY spectroscope, magnetic field viewer, Foucault pendulum)
+- Suggested build order and cross-category links added to all 9 expanded categories
+- Most Dangerous builds updated with #284, #291, #302
+- Sourcing guide expanded with Maker Spaces and Buy Nothing groups sections
+- All categories now have 6+ builds (no thin categories remaining)
+
 ## Phase 4 — Content Expansion (March 2026)
 
 - **17 new builds** across 5 categories → 299 total builds

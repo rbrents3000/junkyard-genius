@@ -283,6 +283,50 @@ Before you drive anywhere, walk through your own home with fresh eyes. You're pr
 
 ---
 
+## Maker Spaces & Tool Libraries
+
+**The networking play.** Maker spaces (also called hackerspaces, fab labs, or community workshops) are shared workshop spaces where members pay monthly dues for access to tools, materials, and other builders. Many have parts bins, scrap piles, and "free to a good home" shelves overflowing with exactly the kind of components you need.
+
+### What they offer:
+- **Free scrap bins** — members donate leftover materials, failed projects, and surplus components. Motors, wire, wood, sheet metal, acrylic, 3D printer filament, and electronics components show up constantly.
+- **Tool access** — laser cutters, 3D printers, CNC routers, welders, drill presses, and lathes you don't have to buy or store.
+- **Knowledge** — other members who've already built what you're attempting. A 5-minute conversation with someone who's rewound a MOT is worth 3 hours of YouTube tutorials.
+- **Group buys** — maker spaces often organize bulk orders for common supplies (solder, filament, resin, wire) at wholesale prices.
+
+### How to find one:
+- Search "[your city] maker space" or "[your city] hackerspace"
+- Check [hackerspaces.org](https://hackerspaces.org) — global directory of community workshops
+- Libraries increasingly host maker programs — some have full fab labs with 3D printers and laser cutters
+- Community colleges sometimes open their shop facilities for community use
+
+### Tool libraries:
+Some cities have dedicated tool lending libraries where you borrow tools for free, just like books. Power drills, angle grinders, soldering stations, oscilloscopes — all free to borrow for a week or two. Search "[your city] tool library" or check your public library's website. The Library of Things movement is growing fast.
+
+---
+
+## Buy Nothing Groups
+
+**Free stuff from neighbors.** Buy Nothing groups are hyperlocal gifting communities (one per neighborhood) where people give away things they no longer need. No selling, no trading — just gifting. They're goldmines for salvage materials because people post things that are "broken but maybe someone can use the parts" — which is exactly your target.
+
+### Where to find them:
+- **Buy Nothing app** (standalone app, launched 2021) — search by ZIP code
+- **Facebook** — search "Buy Nothing [your neighborhood/city]"
+- **Nextdoor** — the "Free" section in your local Nextdoor feed
+
+### What to watch for:
+- "Non-working microwave, free to whoever picks up" — MOT jackpot
+- "Old printer, won't print anymore" — stepper motors, linear rails, timing belts
+- "Broken laptop, screen cracked" — 18650 cells, LCD panel, fans
+- "Kids' old electric scooter, battery dead" — hub motor, ESC, throttle
+- "Bag of random cables and chargers" — copper wire, USB power supplies, barrel jacks
+
+### Pro tips:
+- Post an "ISO" (In Search Of) request: "Looking for any broken electronics, appliances, or e-waste for a maker project. Happy to pick up." People love knowing their junk is going to a creative use instead of a landfill.
+- Respond fast — popular items get claimed within minutes.
+- Be reliable about pickup times. Flaking on pickups gets you silently blocked from future posts.
+
+---
+
 ## Online Sources (When Free Isn't Available)
 
 Sometimes you need a specific part and can't wait for the junk gods to provide. Here's where to buy cheap:
