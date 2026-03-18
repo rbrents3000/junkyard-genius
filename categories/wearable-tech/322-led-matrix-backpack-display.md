@@ -1,5 +1,9 @@
 # #322 — LED Matrix Backpack Display
 
+<p align="center">
+  <img src="../../images/builds/322-led-matrix-backpack-display.jpg" alt="LED Matrix Backpack Display" width="700" />
+</p>
+
 > A scrollable LED message board on your back. Custom text, animations, or live data — the billboard goes where you go.
 
 ## Ratings

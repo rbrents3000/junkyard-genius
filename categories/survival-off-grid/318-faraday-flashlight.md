@@ -1,5 +1,9 @@
 # #318 — Faraday Flashlight
 
+<p align="center">
+  <img src="../../images/builds/318-faraday-flashlight.jpg" alt="Faraday Flashlight" width="700" />
+</p>
+
 > Shake it and it lights up — no batteries, no charging, no solar. Just magnets, a coil, and your arm.
 
 ## Ratings

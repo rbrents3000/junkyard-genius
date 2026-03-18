@@ -1,5 +1,9 @@
 # #324 — Thermal Printer Art Station
 
+<p align="center">
+  <img src="../../images/builds/324-thermal-printer-art-station.jpg" alt="Thermal Printer Art Station" width="700" />
+</p>
+
 > Generative algorithmic art printed continuously on receipt paper. A never-ending gallery from a $5 printer.
 
 ## Ratings

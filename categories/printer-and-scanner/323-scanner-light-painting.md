@@ -1,5 +1,9 @@
 # #323 — Scanner Light Painting
 
+<p align="center">
+  <img src="../../images/builds/323-scanner-light-painting.jpg" alt="Scanner Light Painting" width="700" />
+</p>
+
 > Lock a flatbed scanner open, wave light sources across the glass during a scan — the slow sweep captures long-exposure light trails as art.
 
 ## Ratings

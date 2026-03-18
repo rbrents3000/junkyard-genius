@@ -1,5 +1,9 @@
 # #316 — Pendulum Wave Machine
 
+<p align="center">
+  <img src="../../images/builds/316-pendulum-wave-machine.jpg" alt="Pendulum Wave Machine" width="700" />
+</p>
+
 > 15 pendulums of precisely calculated lengths create mesmerizing wave patterns that shift between chaos and perfect synchronization.
 
 ## Ratings

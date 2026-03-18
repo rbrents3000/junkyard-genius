@@ -1,5 +1,9 @@
 # #320 — Confetti Cannon Controller
 
+<p align="center">
+  <img src="../../images/builds/320-confetti-cannon-controller.jpg" alt="Confetti Cannon Controller" width="700" />
+</p>
+
 > Arduino-triggered solenoid-powered confetti cannons for perfectly synchronized celebration explosions.
 
 ## Ratings

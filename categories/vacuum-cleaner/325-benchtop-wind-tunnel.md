@@ -1,5 +1,9 @@
 # #325 — Benchtop Wind Tunnel
 
+<p align="center">
+  <img src="../../images/builds/325-benchtop-wind-tunnel.jpg" alt="Benchtop Wind Tunnel" width="700" />
+</p>
+
 > A clear acrylic tunnel with a vacuum motor, smoke injection, and LED lighting — see aerodynamics in real time.
 
 ## Ratings

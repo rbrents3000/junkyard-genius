@@ -1,5 +1,9 @@
 # #315 — Tesla Coil Guitar Amp
 
+<p align="center">
+  <img src="../../images/builds/315-tesla-coil-guitar-amp.jpg" alt="Tesla Coil Guitar Amp" width="700" />
+</p>
+
 > Plug your guitar into a Tesla coil. The arc IS the speaker — lightning bolts modulated by your riff.
 
 ## Ratings

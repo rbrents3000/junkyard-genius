@@ -1,5 +1,9 @@
 # #317 — Crystal Radio
 
+<p align="center">
+  <img src="../../images/builds/317-crystal-radio.jpg" alt="Crystal Radio" width="700" />
+</p>
+
 > Zero batteries. Zero power source. Receives AM radio from pure electromagnetic energy harvested from the broadcast signal itself.
 
 ## Ratings

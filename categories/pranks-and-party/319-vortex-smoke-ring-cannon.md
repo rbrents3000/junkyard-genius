@@ -1,5 +1,9 @@
 # #319 — Vortex Smoke Ring Cannon
 
+<p align="center">
+  <img src="../../images/builds/319-vortex-smoke-ring-cannon.jpg" alt="Vortex Smoke Ring Cannon" width="700" />
+</p>
+
 > A trash can, rubber membrane, and fog machine produce room-crossing smoke rings that knock cups off tables 20 feet away.
 
 ## Ratings

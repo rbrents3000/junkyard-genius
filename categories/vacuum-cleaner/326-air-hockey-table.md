@@ -1,5 +1,9 @@
 # #326 — Air Hockey Table
 
+<p align="center">
+  <img src="../../images/builds/326-air-hockey-table.jpg" alt="Air Hockey Table" width="700" />
+</p>
+
 > Reverse a vacuum cleaner motor for upflow through a drilled surface. Add a puck and paddles. Game on.
 
 ## Ratings
