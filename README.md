@@ -34,6 +34,17 @@ This repo is a cookbook for builders, makers, mad scientists, and anyone who loo
 
 New to the repo? Pick your comfort level and dive in.
 
+```mermaid
+flowchart TD
+    A["🔧 What's your comfort level?"] --> B{"Ever soldered?"}
+    B -->|Nope| C["⭐ Beginner builds ↓"]
+    B -->|Yep| D{"Own a multimeter?"}
+    D -->|No| E["⭐⭐ Intermediate builds ↓"]
+    D -->|Yes| F{"Know what a flyback transformer is?"}
+    F -->|No| E
+    F -->|Yes| G["⭐⭐⭐⭐ Advanced builds ↓"]
+```
+
 ### Beginner — Brain Melt ⭐
 
 *No soldering iron? No problem. These builds use household items and basic tools.*
@@ -133,40 +144,40 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 
 ## Categories
 
-| # | Category | Builds | Vibe |
-|---|---|---|---|
-| 1 | [Fire & Plasma](categories/fire-and-plasma/) | 7 | Arcs, torches, foundries, plasma tornadoes |
-| 2 | [Sound & Music](categories/sound-and-music/) | 7 | Plasma speakers, ultrasonic levitators, Rubens' tubes |
-| 3 | [Light & Visual](categories/light-and-visual/) | 19 | Lasers, holograms, optics, infinity mirrors |
-| 4 | [Functional Machines](categories/functional-machines/) | 9 | Go-karts, welders, vacuum formers, belt grinders |
-| 5 | [Mad Scientist](categories/mad-scientist/) | 10 | Tesla coils, rail guns, cloud chambers, mass spectrometers |
-| 6 | [Art & Installation](categories/art-and-installation/) | 6 | Ferrofluid mirrors, planetariums, kinetic sculpture |
-| 7 | [Power & Energy](categories/power-and-energy/) | 4 | Generators, powerwalls, solar forges |
-| 8 | [Computer & Phone Parts](categories/computer-and-phone/) | 13 | HDD speakers, laptop monitors, phone sensors |
-| 9 | [Printer & Scanner](categories/printer-and-scanner/) | 6 | CNC machines, laser engravers, bioprinters, 3D scanners |
-| 10 | [Vacuum Cleaner](categories/vacuum-cleaner/) | 4 | Hovercrafts, wall-climbing robots |
-| 11 | [Power Tools Remixed](categories/power-tools-remixed/) | 5 | Drill press, CNC spindle, power hammer |
-| 12 | [Humidifier & Water](categories/humidifier-and-water/) | 4 | Fog machines, nebula lamps, ultrasonic cleaners |
-| 13 | [Scooter & Motor](categories/scooter-and-motor/) | 4 | E-skateboards, camera sliders, wind turbines |
-| 14 | [Fridge & Cooling](categories/fridge-and-cooling/) | 9 | Freeze dryers, fermentation chambers, Peltier coolers, ice cream makers |
-| 15 | [Pyro & Chemistry](categories/pyro-and-chemistry/) | 20 | Colored fire, thermite, bismuth crystals, luminol, smoke bombs |
-| 16 | [Raspberry Pi & Arduino](categories/pi-and-arduino/) | 20 | LED cubes, drones, smart mirrors, fireworks sequencers |
-| 17 | [Python Projects](categories/python-projects/) | 15 | Face tracking, photo booth, generative art, deepfake mirror |
-| 18 | [Chemical + Electronic](categories/chemical-electronic/) | 15 | Electroplating, anodizing, PCB etching, neon signs |
-| 19 | [Mechanical & Kinetic](categories/mechanical-and-kinetic/) | 10 | Marble machines, Stirling engines, trebuchets |
-| 20 | [Big Builds](categories/big-builds/) | 5 | Weather balloons, ham radio, geodesic domes |
-| 21 | [Weird Science](categories/weird-science/) | 5 | Kirlian photography, Van de Graaff, DIY electron microscope |
-| 22 | [Unholy Combos](categories/unholy-combos/) | 3 | Cross-category mashups nobody asked for (but everyone needed) |
-| 23 | [Drone Salvage](categories/drone-salvage/) | 8 | FPV racers, gimbal stabilizers, brushless motor hacks |
-| 24 | [Household Chemistry](categories/household-chemistry/) | 16 | Crystal gardens, vinegar rockets, elephant toothpaste, smoke bombs, copper plating |
-| 25 | [Junkyard Auto](categories/junkyard-auto/) | 8 | Alternator generators, ignition coil Teslas, spark plug lighters |
-| 26 | [Alchemist Cookbook](categories/alchemist-cookbook/) | 13 | Microwave + chemicals + capacitors = controlled chaos |
-| 27 | [Junk Instruments](categories/junk-instruments/) | 7 | Cigar box guitars, PVC pipe organs, steel tongue drums |
-| 28 | [Wearable Tech](categories/wearable-tech/) | 6 | LED jackets, HUD glasses, motion capture gloves |
-| 29 | [Survival & Off-Grid](categories/survival-off-grid/) | 6 | Solar stills, biogas generators, rocket stoves, Faraday cages |
-| 30 | [Pranks & Party](categories/pranks-and-party/) | 6 | Invisible speakers, jump scares, shock pens, insult cameras |
-| 31 | [Kitchen Hacks](categories/kitchen-hacks/) | 6 | Toaster reflow ovens, coffee maker distillers, waffle iron heat presses |
-| 32 | [Laser Lab](categories/laser-lab/) | 7 | Laser harps, galvo light shows, Blu-ray cutters, laser microscopes |
+| # | | Category | Builds | Vibe |
+|---|---|---|---|---|
+| 1 | 🔥 | [Fire & Plasma](categories/fire-and-plasma/) | 7 | Arcs, torches, foundries, plasma tornadoes |
+| 2 | 🔊 | [Sound & Music](categories/sound-and-music/) | 7 | Plasma speakers, ultrasonic levitators, Rubens' tubes |
+| 3 | 💡 | [Light & Visual](categories/light-and-visual/) | 19 | Lasers, holograms, optics, infinity mirrors |
+| 4 | 🔧 | [Functional Machines](categories/functional-machines/) | 9 | Go-karts, welders, vacuum formers, belt grinders |
+| 5 | ⚡ | [Mad Scientist](categories/mad-scientist/) | 10 | Tesla coils, rail guns, cloud chambers, mass spectrometers |
+| 6 | 🎨 | [Art & Installation](categories/art-and-installation/) | 6 | Ferrofluid mirrors, planetariums, kinetic sculpture |
+| 7 | 🔋 | [Power & Energy](categories/power-and-energy/) | 4 | Generators, powerwalls, solar forges |
+| 8 | 💻 | [Computer & Phone Parts](categories/computer-and-phone/) | 13 | HDD speakers, laptop monitors, phone sensors |
+| 9 | 🖨️ | [Printer & Scanner](categories/printer-and-scanner/) | 6 | CNC machines, laser engravers, bioprinters, 3D scanners |
+| 10 | 🌀 | [Vacuum Cleaner](categories/vacuum-cleaner/) | 4 | Hovercrafts, wall-climbing robots |
+| 11 | 🔨 | [Power Tools Remixed](categories/power-tools-remixed/) | 5 | Drill press, CNC spindle, power hammer |
+| 12 | 💧 | [Humidifier & Water](categories/humidifier-and-water/) | 4 | Fog machines, nebula lamps, ultrasonic cleaners |
+| 13 | ⚙️ | [Scooter & Motor](categories/scooter-and-motor/) | 4 | E-skateboards, camera sliders, wind turbines |
+| 14 | ❄️ | [Fridge & Cooling](categories/fridge-and-cooling/) | 9 | Freeze dryers, fermentation chambers, Peltier coolers, ice cream makers |
+| 15 | 🧪 | [Pyro & Chemistry](categories/pyro-and-chemistry/) | 20 | Colored fire, thermite, bismuth crystals, luminol, smoke bombs |
+| 16 | 🤖 | [Raspberry Pi & Arduino](categories/pi-and-arduino/) | 20 | LED cubes, drones, smart mirrors, fireworks sequencers |
+| 17 | 🐍 | [Python Projects](categories/python-projects/) | 15 | Face tracking, photo booth, generative art, deepfake mirror |
+| 18 | ⚗️ | [Chemical + Electronic](categories/chemical-electronic/) | 15 | Electroplating, anodizing, PCB etching, neon signs |
+| 19 | 🏗️ | [Mechanical & Kinetic](categories/mechanical-and-kinetic/) | 10 | Marble machines, Stirling engines, trebuchets |
+| 20 | 🏢 | [Big Builds](categories/big-builds/) | 5 | Weather balloons, ham radio, geodesic domes |
+| 21 | 🔬 | [Weird Science](categories/weird-science/) | 5 | Kirlian photography, Van de Graaff, DIY electron microscope |
+| 22 | 💀 | [Unholy Combos](categories/unholy-combos/) | 3 | Cross-category mashups nobody asked for (but everyone needed) |
+| 23 | 🚁 | [Drone Salvage](categories/drone-salvage/) | 8 | FPV racers, gimbal stabilizers, brushless motor hacks |
+| 24 | 🧹 | [Household Chemistry](categories/household-chemistry/) | 16 | Crystal gardens, vinegar rockets, elephant toothpaste, smoke bombs, copper plating |
+| 25 | 🚗 | [Junkyard Auto](categories/junkyard-auto/) | 8 | Alternator generators, ignition coil Teslas, spark plug lighters |
+| 26 | 💥 | [Alchemist Cookbook](categories/alchemist-cookbook/) | 13 | Microwave + chemicals + capacitors = controlled chaos |
+| 27 | 🎸 | [Junk Instruments](categories/junk-instruments/) | 7 | Cigar box guitars, PVC pipe organs, steel tongue drums |
+| 28 | 👕 | [Wearable Tech](categories/wearable-tech/) | 6 | LED jackets, HUD glasses, motion capture gloves |
+| 29 | ⛺ | [Survival & Off-Grid](categories/survival-off-grid/) | 6 | Solar stills, biogas generators, rocket stoves, Faraday cages |
+| 30 | 👻 | [Pranks & Party](categories/pranks-and-party/) | 6 | Invisible speakers, jump scares, shock pens, insult cameras |
+| 31 | 🍴 | [Kitchen Hacks](categories/kitchen-hacks/) | 6 | Toaster reflow ovens, coffee maker distillers, waffle iron heat presses |
+| 32 | 🎯 | [Laser Lab](categories/laser-lab/) | 7 | Laser harps, galvo light shows, Blu-ray cutters, laser microscopes |
 
 ---
 
@@ -188,6 +199,7 @@ Before you start ripping apart appliances, read these. Seriously. The teardown g
 | [Filming Guide](reference/filming-guide.md) | How to film your builds for TikTok/YouTube |
 | [Seasonal Builds](reference/seasonal-builds.md) | Builds organized by holiday — Halloween, 4th of July, Christmas, summer |
 | [Ingredient Index](reference/ingredient-index.md) | Reverse lookup — every component mapped to every build that uses it |
+| [Glossary](reference/glossary.md) | 40+ technical terms decoded — MOT, flyback, thermite, Peltier, and every acronym in the repo |
 
 ---
 
