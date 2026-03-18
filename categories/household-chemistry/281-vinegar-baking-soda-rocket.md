@@ -10,11 +10,11 @@
 
 ## What Is It?
 
-Every kid who's ever mixed vinegar and baking soda in a volcano model has felt the primal thrill of a chemical reaction doing physical work. Acetic acid meets sodium bicarbonate, hydrogen ions swap partners, and CO2 gas rushes out of solution. In an open container, it just fizzes and overflows — boring. But seal that reaction inside a container with a weak point, and pressure builds until the seal fails catastrophically. That's a rocket. Newton's third law in a fizzy, sour-smelling package.
+Every kid who’s ever mixed vinegar and baking soda in a volcano model has felt the primal thrill of a chemical reaction doing physical work. Acetic acid meets sodium bicarbonate, hydrogen ions swap partners, and CO2 gas rushes out of solution. In an open container, it just fizzes and overflows — boring. But seal that reaction inside a container with a weak point, and pressure builds until the seal fails catastrophically. That’s a rocket. Newton’s third law in a fizzy, sour-smelling package.
 
-The classic version uses a 35mm film canister (remember those?) with a snap-on lid. Drop in some baking soda, add vinegar, snap the lid on, flip it upside down, and run. Pressure builds for 5-10 seconds until the lid pops off and the canister launches 15-20 feet in the air. It's harmless, hilarious, and never gets old. But we're not here for 15 feet. We're here for altitude.
+The classic version uses a 35mm film canister (remember those?) with a snap-on lid. Drop in some baking soda, add vinegar, snap the lid on, flip it upside down, and run. Pressure builds for 5-10 seconds until the lid pops off and the canister launches 15-20 feet in the air. It’s harmless, hilarious, and never gets old. But we’re not here for 15 feet. We’re here for altitude.
 
-Scale up to a 2-liter soda bottle and you enter a different league entirely. A cork or rubber stopper seals the neck, and the pressure builds much higher before the seal fails. A 2-liter bottle can handle around 100 PSI before the cork blows. At that pressure, launches of 50-100 feet are routine. Add a PVC launch tube for guidance, some cardboard fins for stability, and a nose cone for aerodynamics, and you've got a legit rocket that rivals the commercial water rockets sold for $30. Add a parachute recovery system (a plastic bag on a string stuffed in the nose cone) and you can reuse the rocket indefinitely. The whole thing costs about $3 in consumables per launch.
+Scale up to a 2-liter soda bottle and you enter a different league entirely. A cork or rubber stopper seals the neck, and the pressure builds much higher before the seal fails. A 2-liter bottle can handle around 100 PSI before the cork blows. At that pressure, launches of 50-100 feet are routine. Add a PVC launch tube for guidance, some cardboard fins for stability, and a nose cone for aerodynamics, and you’ve got a legit rocket that rivals the commercial water rockets sold for $30. The whole thing costs about $3 in consumables per launch.
 
 ## Ingredients
 
@@ -31,9 +31,9 @@ Scale up to a 2-liter soda bottle and you enter a different league entirely. A c
 
 ## Build Steps
 
-1. **Start with film canisters (beginner version).** Drop 1 teaspoon of baking soda into a film canister. Quickly add 2 teaspoons of vinegar, snap the lid on tight, flip the canister upside down (lid on the ground), and back up 10 feet. The lid pops off within 5-10 seconds and the canister flies 15-20 feet up. Experiment with ratios — more vinegar isn't always better, since you need gas volume AND pressure.
+1. **Start with film canisters (beginner version).** Drop 1 teaspoon of baking soda into a film canister. Quickly add 2 teaspoons of vinegar, snap the lid on tight, flip the canister upside down (lid on the ground), and back up 10 feet. The lid pops off within 5-10 seconds and the canister flies 15-20 feet up. Experiment with ratios — more vinegar isn’t always better, since you need gas volume AND pressure.
 
-2. **Build the 2-liter rocket body.** Take a clean, undamaged 2-liter bottle. Cut 3-4 triangular fins from cardboard (3 inches tall, 4 inches at the base). Attach them symmetrically around the bottom of the bottle (the neck is the bottom during flight) using duct tape. Space them evenly for stable flight. Add a nose cone to the bottle's base — a cone of rolled cardboard taped securely.
+2. **Build the 2-liter rocket body.** Take a clean, undamaged 2-liter bottle. Cut 3-4 triangular fins from cardboard (3 inches tall, 4 inches at the base). Attach them symmetrically around the bottom of the bottle (the neck is the bottom during flight) using duct tape. Space them evenly for stable flight. Add a nose cone to the bottle’s base — a cone of rolled cardboard taped securely.
 
 3. **Build the launch tube.** Cut a 3-foot length of 1.5" PVC pipe. Mount it vertically in a base made from a cross of PVC fittings, or just duct-tape it to a stake driven into the ground. The bottle slides over this tube neck-first — the tube guides the rocket during the initial phase of flight before it clears the rail.
 
@@ -51,7 +51,7 @@ Scale up to a 2-liter soda bottle and you enter a different league entirely. A c
 - Never stand over a pressurized bottle. Once the cork is in and the baking soda packet is dissolving, back away immediately. Misfires happen — sometimes the cork is too tight and the bottle bursts instead of launching.
 - Inspect bottles for cracks, dents, or scratches before each use. Damaged bottles fail at lower pressures and can shatter instead of launching cleanly.
 - Launch in open areas away from people, cars, windows, and overhead power lines. A 2-liter rocket at 100 feet altitude comes down fast and hard.
-- This is messy. Vinegar spray goes everywhere when the rocket launches. Don't do this near anything that shouldn't get wet and smell like salad dressing.
+- This is messy. Vinegar spray goes everywhere when the rocket launches. Don’t do this near anything that shouldn’t get wet and smell like salad dressing.
 
 ## See Also
 

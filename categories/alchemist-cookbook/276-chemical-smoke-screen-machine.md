@@ -10,7 +10,7 @@
 
 ## What Is It?
 
-Military smoke screens have been used since ancient times — from burning wet straw to modern hexachloroethane smoke pots. But you don't need military-grade chemistry to produce an absolutely ridiculous amount of smoke. All you need is glycerin (the same stuff in soap and vape juice) and a surface hot enough to flash-vaporize it. When glycerin hits a surface above 300°C, it decomposes into acrolein vapor and water, which immediately condenses into a thick, white, opaque aerosol. The result is dense theatrical fog that hugs the ground and obscures everything behind it.
+Military smoke screens have been used since ancient times — from burning wet straw to modern hexachloroethane smoke pots. But you don’t need military-grade chemistry to produce an absolutely ridiculous amount of smoke. All you need is glycerin (the same stuff in soap and vape juice) and a surface hot enough to flash-vaporize it. When glycerin hits a surface above 300°C, it decomposes into acrolein vapor and water, which immediately condenses into a thick, white, opaque aerosol. The result is dense theatrical fog that hugs the ground and obscures everything behind it.
 
 The build is dead simple. Gut a toaster for its nichrome heating element and mount it in a metal enclosure — a coffee can works great. Wire the element to a variac or lamp dimmer for temperature control. Above the element, mount a small container with a needle valve or pinhole at the bottom that drip-feeds glycerin onto the hot surface. When the glycerin hits the element, it instantly vaporizes and pours out of the can as thick white smoke. A small PC fan on the outlet side directs the smoke where you want it. One tablespoon of glycerin produces enough smoke to fill a two-car garage.
 
@@ -50,7 +50,7 @@ The key to good smoke is temperature control. Too cool and the glycerin just poo
 - The heating element operates at mains voltage and reaches 400°C+. Do not touch the element or the inside of the can during operation. Allow 10 minutes to cool after use. Keep the power cord away from the hot surfaces.
 - Glycerin vapor in high concentrations is an irritant. Use this outdoors or in very well-ventilated spaces. Do not use in enclosed spaces where people will be breathing the smoke for extended periods.
 - Overheating glycerin produces acrolein, which is a toxic irritant at high concentrations. If the smoke smells sharp and acrid instead of mild and sweet, your element is too hot — turn down the dimmer.
-- Keep a fire extinguisher nearby. The glycerin itself isn't very flammable, but the hot element can ignite other materials if they fall onto it.
+- Keep a fire extinguisher nearby. The glycerin itself is not very flammable, but the hot element can ignite other materials if they fall onto it.
 
 ## See Also
 
