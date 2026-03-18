@@ -22,3 +22,26 @@ Soldering iron in one hand, sewing needle in the other. Welcome to the future.
 | 245 | [HUD Glasses](245-hud-glasses.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | 246 | [Motion Capture Glove](246-motion-capture-glove.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 | 247 | [GPS Treasure Watch](247-gps-treasure-watch.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+| 321 | [DIY EEG Headband](321-diy-eeg-headband.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+| 322 | [LED Matrix Backpack Display](322-led-matrix-backpack-display.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+
+---
+
+### Suggested Build Order
+
+Start with visual impact, progress toward biofeedback:
+
+1. **[#243 — Heated Gloves](243-heated-gloves.md)** — Nichrome wire + gloves. Simple and useful.
+2. **[#322 — LED Matrix Backpack Display](322-led-matrix-backpack-display.md)** — Walking billboard. High visibility.
+3. **[#244 — LED Mask](244-led-mask.md)** — Sound-reactive face display.
+4. **[#242 — LED Jacket](242-led-jacket.md)** — Sound-reactive full-body light show.
+5. **[#247 — GPS Treasure Watch](247-gps-treasure-watch.md)** — Navigation on your wrist.
+6. **[#246 — Motion Capture Glove](246-motion-capture-glove.md)** — Gesture-controlled MIDI.
+7. **[#245 — HUD Glasses](245-hud-glasses.md)** — Heads-up display for $25.
+8. **[#321 — DIY EEG Headband](321-diy-eeg-headband.md)** — Read your own brainwaves. The final frontier.
+
+### Related Categories
+
+- [Light & Visual](../light-and-visual/) — LED and lighting techniques
+- [Pi & Arduino](../pi-and-arduino/) — Microcontroller fundamentals
+- [Computer & Phone](../computer-and-phone/) — Mobile device integration

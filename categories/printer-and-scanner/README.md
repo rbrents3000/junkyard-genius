@@ -22,3 +22,26 @@ The printer that jammed for the last time? It's about to become the most precise
 | 072 | [Pen Plotter](072-pen-plotter.md) | ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
 | 073 | [Inkjet Bioprinter](073-inkjet-bioprinter.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | 074 | [DIY 3D Scanner](074-diy-3d-scanner.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+| 323 | [Scanner Light Painting](323-scanner-light-painting.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+| 324 | [Thermal Printer Art Station](324-thermal-printer-art-station.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+
+---
+
+### Suggested Build Order
+
+Start with zero-modification hacks, progress toward precision CNC:
+
+1. **[#323 — Scanner Light Painting](323-scanner-light-painting.md)** — Zero mod. Open the lid, wave lights, get art.
+2. **[#070 — Scanner Camera](070-scanner-camera.md)** — Repurpose scanner optics for photography.
+3. **[#072 — Pen Plotter](072-pen-plotter.md)** — Your first CNC motion project.
+4. **[#074 — DIY 3D Scanner](074-diy-3d-scanner.md)** — Laser + turntable + camera.
+5. **[#324 — Thermal Printer Art Station](324-thermal-printer-art-station.md)** — Generative art on receipt paper.
+6. **[#071 — DVD Laser Engraver](071-dvd-laser-engraver.md)** — Precision laser from DVD drives.
+7. **[#069 — Printer Stepper CNC](069-printer-stepper-cnc.md)** — Full CNC from printer parts.
+8. **[#073 — Inkjet Bioprinter](073-inkjet-bioprinter.md)** — Print conductive traces. The endgame.
+
+### Related Categories
+
+- [Art & Installation](../art-and-installation/) — When precision motion makes art
+- [Power Tools Remixed](../power-tools-remixed/) — More tool repurposing
+- [Python Projects](../python-projects/) — Software-driven fabrication

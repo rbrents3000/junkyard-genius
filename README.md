@@ -1,8 +1,8 @@
 <p align="center">
   <h1 align="center">Junkyard Genius</h1>
-  <p align="center"><strong>311 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
+  <p align="center"><strong>326 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/builds-311-orange?style=for-the-badge" alt="311 Builds" />
+    <img src="https://img.shields.io/badge/builds-326-orange?style=for-the-badge" alt="326 Builds" />
     <img src="https://img.shields.io/badge/categories-32-blue?style=for-the-badge" alt="32 Categories" />
     <img src="https://img.shields.io/github/license/rbrents3000/junkyard-genius?style=for-the-badge" alt="License" />
     <img src="https://img.shields.io/github/stars/rbrents3000/junkyard-genius?style=for-the-badge" alt="Stars" />
@@ -25,7 +25,7 @@ Your microwave, fridge, old phones, dead laptops, busted printers, and that vacu
 
 This repo is a cookbook for builders, makers, mad scientists, and anyone who looks at a pile of junk and sees potential. Every build includes rated difficulty, sourced ingredients, step-by-step instructions, and safety notes.
 
-> **311 builds** &middot; **32 categories** &middot; **13 reference guides** &middot; **4 safety docs**
+> **326 builds** &middot; **32 categories** &middot; **14 reference guides** &middot; **4 safety docs**
 >
 > From "I just need a battery and a magnet" to "I'm building a rail gun from a microwave and a prayer."
 >
@@ -108,8 +108,8 @@ Find builds based on what you already have lying around. One person's e-waste is
 | **Washing Machine** | [Electric Go-Kart](categories/functional-machines/024-electric-go-kart.md), [Steel Tongue Drum](categories/junk-instruments/239-steel-tongue-drum.md), [Scrap Sculpture](categories/art-and-installation/045-scrap-metal-sculpture.md) |
 | **Dryer** | [Planetarium](categories/art-and-installation/047-dryer-drum-planetarium.md), [Desktop Foundry](categories/fire-and-plasma/005-desktop-foundry.md) |
 | **Oven / Toaster Oven** | [Reflow Oven](categories/kitchen-hacks/260-toaster-reflow-oven.md), [Powder Coating Oven](categories/functional-machines/028-powder-coating-oven.md) |
-| **Vacuum Cleaner** | [Hovercraft](categories/vacuum-cleaner/075-vacuum-hovercraft.md), [Vacuum Former](categories/functional-machines/029-vacuum-former.md), [Wall-Climbing Robot](categories/vacuum-cleaner/076-wall-climbing-robot.md), [Sandblaster](categories/vacuum-cleaner/298-vacuum-sandblaster.md), [Pneumatic Launcher](categories/vacuum-cleaner/299-pneumatic-launcher.md) |
-| **Old Printer** | [CNC Machine](categories/printer-and-scanner/069-printer-stepper-cnc.md), [Robotic Arm](categories/pi-and-arduino/129-printer-robot-arm.md), [MIDI Stepper Organ](categories/pi-and-arduino/135-midi-stepper-organ.md) |
+| **Vacuum Cleaner** | [Hovercraft](categories/vacuum-cleaner/075-vacuum-hovercraft.md), [Wall-Climbing Robot](categories/vacuum-cleaner/076-wall-climbing-robot.md), [Wind Tunnel](categories/vacuum-cleaner/325-benchtop-wind-tunnel.md), [Air Hockey Table](categories/vacuum-cleaner/326-air-hockey-table.md), [Pneumatic Launcher](categories/vacuum-cleaner/299-pneumatic-launcher.md) |
+| **Old Printer** | [CNC Machine](categories/printer-and-scanner/069-printer-stepper-cnc.md), [Kinetic Sand Table](categories/art-and-installation/312-kinetic-sand-table.md), [Robotic Arm](categories/pi-and-arduino/129-printer-robot-arm.md), [MIDI Stepper Organ](categories/pi-and-arduino/135-midi-stepper-organ.md) |
 | **Old Laptop** | [External Monitor](categories/computer-and-phone/061-laptop-screen-monitor.md), [Powerwall Cells](categories/power-and-energy/052-diy-powerwall.md), [Smart Mirror](categories/pi-and-arduino/123-smart-mirror.md) |
 | **Old Phone/Tablet** | [Sensor Network](categories/computer-and-phone/064-phone-sensor-network.md), [Macro Photography](categories/computer-and-phone/063-phone-macro-photography.md), [Earthquake Detector](categories/python-projects/146-earthquake-detector.md) |
 | **CRT TV** | [Plasma Speaker](categories/sound-and-music/008-plasma-speaker.md), [Tesla Coil](categories/mad-scientist/033-musical-tesla-coil.md), [CRT Art](categories/art-and-installation/048-crt-electromagnetic-art.md) |
@@ -120,11 +120,11 @@ Find builds based on what you already have lying around. One person's e-waste is
 | **Humidifier** | [Fog Machine](categories/humidifier-and-water/084-ultrasonic-fog-machine.md), [Nebula Lamp](categories/humidifier-and-water/087-nebula-lamp.md), [Mist Cooler](categories/humidifier-and-water/297-mist-cooling-system.md), [Water Collector](categories/humidifier-and-water/296-fog-harp-water-collector.md) |
 | **Laser Pointers / DVD Drives** | [Laser Harp](categories/laser-lab/267-laser-harp.md), [Galvo Light Show](categories/laser-lab/266-laser-galvo-show.md), [Laser Communicator](categories/laser-lab/265-laser-communicator.md), [Blu-Ray Laser Cutter](categories/laser-lab/269-blu-ray-laser-cutter.md) |
 | **Musical Junk** (buckets, cans, hoses) | [Cigar Box Guitar](categories/junk-instruments/235-cigar-box-guitar.md), [PVC Pipe Organ](categories/junk-instruments/236-pvc-pipe-organ.md), [Steel Tongue Drum](categories/junk-instruments/239-steel-tongue-drum.md) |
-| **Old Clothes / Wearables** | [LED Jacket](categories/wearable-tech/242-led-jacket.md), [Heated Gloves](categories/wearable-tech/243-heated-gloves.md), [LED Mask](categories/wearable-tech/244-led-mask.md) |
+| **Old Clothes / Wearables** | [LED Jacket](categories/wearable-tech/242-led-jacket.md), [LED Matrix Backpack](categories/wearable-tech/322-led-matrix-backpack-display.md), [EEG Headband](categories/wearable-tech/321-diy-eeg-headband.md), [LED Mask](categories/wearable-tech/244-led-mask.md) |
 | **Household Chemicals** | [Crystal Garden](categories/household-chemistry/213-bleach-crystal-garden.md), [Vinegar Rocket](categories/household-chemistry/215-baking-soda-vinegar-rocket.md), [Electrolysis Rust Eraser](categories/household-chemistry/212-electrolysis-rust-eraser.md) |
 | **Chemicals Only** | [Colored Fire](categories/pyro-and-chemistry/101-colored-fire.md), [Bismuth Crystals](categories/pyro-and-chemistry/107-bismuth-crystal-garden.md), [Luminol Crime Scene](categories/pyro-and-chemistry/109-luminol-crime-scene.md) |
 | **Raspberry Pi** | [Fireworks Sequencer](categories/pi-and-arduino/121-fireworks-sequencer.md), [Pi-hole](categories/pi-and-arduino/139-pi-hole-ad-blocker.md), [Pirate Radio](categories/pi-and-arduino/134-pirate-radio.md) |
-| **Nothing Yet** | [Homopolar Motor](categories/weird-science/198-homopolar-motor.md) (battery + magnet + wire), [Grape Plasma](categories/mad-scientist/042-grape-plasma.md) (just grapes + microwave), [Rocket Stove](categories/survival-off-grid/253-rocket-stove.md) (tin cans + twigs) |
+| **Nothing Yet** | [Homopolar Motor](categories/weird-science/198-homopolar-motor.md) (battery + magnet + wire), [Crystal Radio](categories/survival-off-grid/317-crystal-radio.md) (wire + razor blade + earpiece), [Grape Plasma](categories/mad-scientist/042-grape-plasma.md) (just grapes + microwave), [Rocket Stove](categories/survival-off-grid/253-rocket-stove.md) (tin cans + twigs), [Smoke Ring Cannon](categories/pranks-and-party/319-vortex-smoke-ring-cannon.md) (bucket + rubber sheet + fog) |
 
 </details>
 
@@ -149,16 +149,16 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 
 | # | | Category | Builds | Vibe |
 |---|---|---|---|---|
-| 1 | 🔥 | [Fire & Plasma](categories/fire-and-plasma/) | 7 | Arcs, torches, foundries, plasma tornadoes |
-| 2 | 🔊 | [Sound & Music](categories/sound-and-music/) | 7 | Plasma speakers, ultrasonic levitators, Rubens' tubes |
+| 1 | 🔥 | [Fire & Plasma](categories/fire-and-plasma/) | 8 | Arcs, torches, foundries, plasma tornadoes, 2D pyro boards |
+| 2 | 🔊 | [Sound & Music](categories/sound-and-music/) | 8 | Plasma speakers, ultrasonic levitators, Rubens' tubes, Tesla coil guitar |
 | 3 | 💡 | [Light & Visual](categories/light-and-visual/) | 19 | Lasers, holograms, optics, infinity mirrors |
 | 4 | 🔧 | [Functional Machines](categories/functional-machines/) | 9 | Go-karts, welders, vacuum formers, belt grinders |
 | 5 | ⚡ | [Mad Scientist](categories/mad-scientist/) | 10 | Tesla coils, rail guns, cloud chambers, mass spectrometers |
-| 6 | 🎨 | [Art & Installation](categories/art-and-installation/) | 6 | Ferrofluid mirrors, planetariums, kinetic sculpture |
+| 6 | 🎨 | [Art & Installation](categories/art-and-installation/) | 8 | Ferrofluid mirrors, kinetic sand tables, Chladni plates, planetariums |
 | 7 | 🔋 | [Power & Energy](categories/power-and-energy/) | 8 | Generators, powerwalls, solar forges, capacitor banks |
 | 8 | 💻 | [Computer & Phone Parts](categories/computer-and-phone/) | 13 | HDD speakers, laptop monitors, phone sensors |
-| 9 | 🖨️ | [Printer & Scanner](categories/printer-and-scanner/) | 6 | CNC machines, laser engravers, bioprinters, 3D scanners |
-| 10 | 🌀 | [Vacuum Cleaner](categories/vacuum-cleaner/) | 6 | Hovercrafts, wall-climbing robots, sandblasters, launchers |
+| 9 | 🖨️ | [Printer & Scanner](categories/printer-and-scanner/) | 8 | CNC machines, laser engravers, scanner light painting, thermal printer art |
+| 10 | 🌀 | [Vacuum Cleaner](categories/vacuum-cleaner/) | 8 | Hovercrafts, wall-climbing robots, wind tunnels, air hockey tables |
 | 11 | 🔨 | [Power Tools Remixed](categories/power-tools-remixed/) | 8 | Drill press, CNC spindle, power hammer, drill lathe, belt sander |
 | 12 | 💧 | [Humidifier & Water](categories/humidifier-and-water/) | 7 | Fog machines, nebula lamps, ultrasonic cleaners, mist cooling |
 | 13 | ⚙️ | [Scooter & Motor](categories/scooter-and-motor/) | 7 | E-skateboards, camera sliders, pottery wheels, turntables |
@@ -167,7 +167,7 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 | 16 | 🤖 | [Raspberry Pi & Arduino](categories/pi-and-arduino/) | 20 | LED cubes, drones, smart mirrors, fireworks sequencers |
 | 17 | 🐍 | [Python Projects](categories/python-projects/) | 15 | Face tracking, photo booth, generative art, deepfake mirror |
 | 18 | ⚗️ | [Chemical + Electronic](categories/chemical-electronic/) | 15 | Electroplating, anodizing, PCB etching, neon signs |
-| 19 | 🏗️ | [Mechanical & Kinetic](categories/mechanical-and-kinetic/) | 10 | Marble machines, Stirling engines, trebuchets |
+| 19 | 🏗️ | [Mechanical & Kinetic](categories/mechanical-and-kinetic/) | 11 | Marble machines, Stirling engines, trebuchets, pendulum waves |
 | 20 | 🏢 | [Big Builds](categories/big-builds/) | 8 | Weather balloons, ham radio, observatories, giant Tesla coils |
 | 21 | 🔬 | [Weird Science](categories/weird-science/) | 8 | Kirlian photography, Van de Graaff, spectroscopes, Foucault pendulums |
 | 22 | 💀 | [Unholy Combos](categories/unholy-combos/) | 8 | Cross-category mashups nobody asked for (but everyone needed) |
@@ -176,9 +176,9 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 | 25 | 🚗 | [Junkyard Auto](categories/junkyard-auto/) | 8 | Alternator generators, ignition coil Teslas, spark plug lighters |
 | 26 | 💥 | [Alchemist Cookbook](categories/alchemist-cookbook/) | 13 | Microwave + chemicals + capacitors = controlled chaos |
 | 27 | 🎸 | [Junk Instruments](categories/junk-instruments/) | 7 | Cigar box guitars, PVC pipe organs, steel tongue drums |
-| 28 | 👕 | [Wearable Tech](categories/wearable-tech/) | 6 | LED jackets, HUD glasses, motion capture gloves |
-| 29 | ⛺ | [Survival & Off-Grid](categories/survival-off-grid/) | 6 | Solar stills, biogas generators, rocket stoves, Faraday cages |
-| 30 | 👻 | [Pranks & Party](categories/pranks-and-party/) | 6 | Invisible speakers, jump scares, shock pens, insult cameras |
+| 28 | 👕 | [Wearable Tech](categories/wearable-tech/) | 8 | LED jackets, EEG headbands, HUD glasses, LED backpack displays |
+| 29 | ⛺ | [Survival & Off-Grid](categories/survival-off-grid/) | 8 | Solar stills, crystal radios, Faraday flashlights, biogas generators |
+| 30 | 👻 | [Pranks & Party](categories/pranks-and-party/) | 8 | Smoke ring cannons, confetti launchers, invisible speakers, insult cameras |
 | 31 | 🍴 | [Kitchen Hacks](categories/kitchen-hacks/) | 8 | Toaster reflow ovens, microwave kilns, rice cooker electroplating |
 | 32 | 🎯 | [Laser Lab](categories/laser-lab/) | 7 | Laser harps, galvo light shows, Blu-ray cutters, laser microscopes |
 

@@ -22,6 +22,8 @@ The motor doesn't care whether it's sucking dust or doing something far more int
 | 078 | [Vacuum Leaf Blower](078-vacuum-leaf-blower.md) | ⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐ |
 | 298 | [Vacuum Sandblaster](298-vacuum-sandblaster.md) | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
 | 299 | [Pneumatic Launcher](299-pneumatic-launcher.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+| 325 | [Benchtop Wind Tunnel](325-benchtop-wind-tunnel.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+| 326 | [Air Hockey Table](326-air-hockey-table.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 
 ---
 
@@ -35,3 +37,5 @@ Start with the simplest motor repurposing, end with the crowd-pleaser:
 4. **[#075 — Vacuum Hovercraft](075-vacuum-hovercraft.md)** — The classic. A platform that floats on air.
 5. **[#076 — Wall-Climbing Robot](076-wall-climbing-robot.md)** — Suction + drive motors. Advanced build.
 6. **[#299 — Pneumatic Launcher](299-pneumatic-launcher.md)** — Pressurized air + projectiles. The showstopper.
+7. **[#325 — Benchtop Wind Tunnel](325-benchtop-wind-tunnel.md)** — See aerodynamics with smoke + vacuum motor.
+8. **[#326 — Air Hockey Table](326-air-hockey-table.md)** — Reversed airflow + drilled surface = playable game.

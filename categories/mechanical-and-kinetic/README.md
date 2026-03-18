@@ -24,3 +24,4 @@ This category is for builds that move, spin, oscillate, or transfer energy throu
 | 188 | [Magnetic Gear Train](188-magnetic-gear-train.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
 | 189 | [Curie Engine](189-curie-engine.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
 | 190 | [Prince Rupert's Drop](190-prince-ruperts-drop.md) | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+| 316 | [Pendulum Wave Machine](316-pendulum-wave-machine.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |

@@ -22,3 +22,26 @@ None of these builds require a hardware store run during the apocalypse. They us
 | 251 | [Hand Crank Charger](251-hand-crank-charger.md) | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
 | 252 | [Faraday Cage](252-faraday-cage.md) | ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
 | 253 | [Rocket Stove](253-rocket-stove.md) | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐ |
+| 317 | [Crystal Radio](317-crystal-radio.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+| 318 | [Faraday Flashlight](318-faraday-flashlight.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+
+---
+
+### Suggested Build Order
+
+Start with the simplest survival builds and progress toward self-sufficiency:
+
+1. **[#253 — Rocket Stove](253-rocket-stove.md)** — Tin cans + fire. Cook anywhere.
+2. **[#317 — Crystal Radio](317-crystal-radio.md)** — Zero-power AM radio. Hear the world without batteries.
+3. **[#318 — Faraday Flashlight](318-faraday-flashlight.md)** — Shake for light. Infinite battery life.
+4. **[#250 — Gravity Water Filter](250-gravity-water-filter.md)** — Clean water from buckets and sand.
+5. **[#248 — Solar Still](248-solar-still.md)** — Distill water from sunlight.
+6. **[#251 — Hand Crank Charger](251-hand-crank-charger.md)** — Muscle power → phone power.
+7. **[#252 — Faraday Cage](252-faraday-cage.md)** — Protect electronics from EMP.
+8. **[#249 — Biogas Generator](249-biogas-generator.md)** — Compost → cooking fuel. The endgame.
+
+### Related Categories
+
+- [Power & Energy](../power-and-energy/) — Battery banks, generators, solar
+- [Humidifier & Water](../humidifier-and-water/) — Water collection and purification
+- [Big Builds](../big-builds/) — Large-scale off-grid infrastructure

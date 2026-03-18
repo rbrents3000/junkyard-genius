@@ -22,3 +22,26 @@ Art made from salvage carries a story that gallery art can't match. Every compon
 | 046 | [Ferrofluid Mirror](046-ferrofluid-mirror.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | 047 | [Dryer Drum Planetarium](047-dryer-drum-planetarium.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
 | 048 | [CRT Electromagnetic Art](048-crt-electromagnetic-art.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+| 312 | [Kinetic Sand Table](312-kinetic-sand-table.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| 313 | [Chladni Plate Sand Visualizer](313-chladni-plate-sand-visualizer.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+
+---
+
+### Suggested Build Order
+
+Start with accessible art pieces and build toward complex kinetic installations:
+
+1. **[#048 — CRT Electromagnetic Art](048-crt-electromagnetic-art.md)** — Magnets warp a CRT display. Instant art.
+2. **[#045 — Scrap Metal Sculpture](045-scrap-metal-sculpture.md)** — Welding and fabrication fundamentals.
+3. **[#047 — Dryer Drum Planetarium](047-dryer-drum-planetarium.md)** — Drill holes, add light. Instant cosmos.
+4. **[#313 — Chladni Plate Sand Visualizer](313-chladni-plate-sand-visualizer.md)** — Sound makes geometric sand art.
+5. **[#043 — Kinetic Wind Sculpture](043-kinetic-wind-sculpture.md)** — Wind-powered motion art.
+6. **[#044 — Anti-Gravity Water Fountain](044-antigravity-water-fountain.md)** — Stroboscopic water illusion.
+7. **[#046 — Ferrofluid Mirror](046-ferrofluid-mirror.md)** — Programmable magnetic liquid display.
+8. **[#312 — Kinetic Sand Table](312-kinetic-sand-table.md)** — CNC-driven sand patterns. The crown jewel.
+
+### Related Categories
+
+- [Light & Visual](../light-and-visual/) — Optics, LEDs, and visual phenomena
+- [Mechanical & Kinetic](../mechanical-and-kinetic/) — Moving parts and motion physics
+- [Sound & Music](../sound-and-music/) — When art responds to sound
