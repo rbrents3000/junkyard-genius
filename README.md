@@ -1,8 +1,8 @@
 <p align="center">
   <h1 align="center">Junkyard Genius</h1>
-  <p align="center"><strong>299 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
+  <p align="center"><strong>311 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/builds-299-orange?style=for-the-badge" alt="299 Builds" />
+    <img src="https://img.shields.io/badge/builds-311-orange?style=for-the-badge" alt="311 Builds" />
     <img src="https://img.shields.io/badge/categories-32-blue?style=for-the-badge" alt="32 Categories" />
     <img src="https://img.shields.io/github/license/rbrents3000/junkyard-genius?style=for-the-badge" alt="License" />
     <img src="https://img.shields.io/github/stars/rbrents3000/junkyard-genius?style=for-the-badge" alt="Stars" />
@@ -25,7 +25,7 @@ Your microwave, fridge, old phones, dead laptops, busted printers, and that vacu
 
 This repo is a cookbook for builders, makers, mad scientists, and anyone who looks at a pile of junk and sees potential. Every build includes rated difficulty, sourced ingredients, step-by-step instructions, and safety notes.
 
-> **299 builds** &middot; **32 categories** &middot; **13 reference guides** &middot; **4 safety docs**
+> **311 builds** &middot; **32 categories** &middot; **13 reference guides** &middot; **4 safety docs**
 >
 > From "I just need a battery and a magnet" to "I'm building a rail gun from a microwave and a prayer."
 >
@@ -159,7 +159,7 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 | 8 | 💻 | [Computer & Phone Parts](categories/computer-and-phone/) | 13 | HDD speakers, laptop monitors, phone sensors |
 | 9 | 🖨️ | [Printer & Scanner](categories/printer-and-scanner/) | 6 | CNC machines, laser engravers, bioprinters, 3D scanners |
 | 10 | 🌀 | [Vacuum Cleaner](categories/vacuum-cleaner/) | 6 | Hovercrafts, wall-climbing robots, sandblasters, launchers |
-| 11 | 🔨 | [Power Tools Remixed](categories/power-tools-remixed/) | 5 | Drill press, CNC spindle, power hammer |
+| 11 | 🔨 | [Power Tools Remixed](categories/power-tools-remixed/) | 8 | Drill press, CNC spindle, power hammer, drill lathe, belt sander |
 | 12 | 💧 | [Humidifier & Water](categories/humidifier-and-water/) | 7 | Fog machines, nebula lamps, ultrasonic cleaners, mist cooling |
 | 13 | ⚙️ | [Scooter & Motor](categories/scooter-and-motor/) | 7 | E-skateboards, camera sliders, pottery wheels, turntables |
 | 14 | ❄️ | [Fridge & Cooling](categories/fridge-and-cooling/) | 9 | Freeze dryers, fermentation chambers, Peltier coolers, ice cream makers |
@@ -168,8 +168,8 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 | 17 | 🐍 | [Python Projects](categories/python-projects/) | 15 | Face tracking, photo booth, generative art, deepfake mirror |
 | 18 | ⚗️ | [Chemical + Electronic](categories/chemical-electronic/) | 15 | Electroplating, anodizing, PCB etching, neon signs |
 | 19 | 🏗️ | [Mechanical & Kinetic](categories/mechanical-and-kinetic/) | 10 | Marble machines, Stirling engines, trebuchets |
-| 20 | 🏢 | [Big Builds](categories/big-builds/) | 5 | Weather balloons, ham radio, geodesic domes |
-| 21 | 🔬 | [Weird Science](categories/weird-science/) | 5 | Kirlian photography, Van de Graaff, DIY electron microscope |
+| 20 | 🏢 | [Big Builds](categories/big-builds/) | 8 | Weather balloons, ham radio, observatories, giant Tesla coils |
+| 21 | 🔬 | [Weird Science](categories/weird-science/) | 8 | Kirlian photography, Van de Graaff, spectroscopes, Foucault pendulums |
 | 22 | 💀 | [Unholy Combos](categories/unholy-combos/) | 8 | Cross-category mashups nobody asked for (but everyone needed) |
 | 23 | 🚁 | [Drone Salvage](categories/drone-salvage/) | 8 | FPV racers, gimbal stabilizers, brushless motor hacks |
 | 24 | 🧹 | [Household Chemistry](categories/household-chemistry/) | 16 | Crystal gardens, vinegar rockets, elephant toothpaste, smoke bombs, copper plating |
@@ -179,7 +179,7 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 | 28 | 👕 | [Wearable Tech](categories/wearable-tech/) | 6 | LED jackets, HUD glasses, motion capture gloves |
 | 29 | ⛺ | [Survival & Off-Grid](categories/survival-off-grid/) | 6 | Solar stills, biogas generators, rocket stoves, Faraday cages |
 | 30 | 👻 | [Pranks & Party](categories/pranks-and-party/) | 6 | Invisible speakers, jump scares, shock pens, insult cameras |
-| 31 | 🍴 | [Kitchen Hacks](categories/kitchen-hacks/) | 5 | Toaster reflow ovens, coffee maker distillers, waffle iron heat presses |
+| 31 | 🍴 | [Kitchen Hacks](categories/kitchen-hacks/) | 8 | Toaster reflow ovens, microwave kilns, rice cooker electroplating |
 | 32 | 🎯 | [Laser Lab](categories/laser-lab/) | 7 | Laser harps, galvo light shows, Blu-ray cutters, laser microscopes |
 
 ---
@@ -237,6 +237,9 @@ Read the safety docs first. Respect the process. Tell someone where you are and 
 | [#275 — Capacitor Bank Plasma Igniter](categories/alchemist-cookbook/275-capacitor-bank-plasma-igniter.md) | MOT capacitor bank — stores lethal energy |
 | [#277 — EMP Cannon](categories/alchemist-cookbook/277-electromagnetic-pulse-cannon.md) | Capacitor bank + coil = localized EMP. Legal gray area. |
 | [#278 — Thermite Sparkler Bombs](categories/alchemist-cookbook/278-thermite-sparkler-bombs.md) | 4000°F+ thermite ignited by sparkler fuse |
+| [#284 — Thermite Forge Foundry](categories/unholy-combos/284-thermite-forge-foundry.md) | 4500°F+ thermite casting molten iron into sand molds |
+| [#291 — Capacitor Bank Flash Charger](categories/power-and-energy/291-capacitor-bank-flash-charger.md) | High-energy capacitor bank — lethal discharge potential |
+| [#302 — Giant Outdoor Tesla Coil](categories/big-builds/302-giant-outdoor-tesla-coil.md) | 6-10 foot arcs, lethal voltage, outdoor-only build |
 
 </details>
 

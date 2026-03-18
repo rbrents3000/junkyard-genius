@@ -21,3 +21,25 @@ Every one of these appliances was designed to do one thing. Every one of them ca
 | 262 | [Coffee Maker Distiller](262-coffee-maker-distiller.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
 | 263 | [Blender Centrifuge](263-blender-centrifuge.md) | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
 | 264 | [Waffle Iron Press](264-waffle-iron-press.md) | ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
+| 303 | [Instant Pot Vacuum Chamber](303-instant-pot-vacuum-chamber.md) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
+| 304 | [Rice Cooker Electroplating](304-rice-cooker-electroplating.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+| 305 | [Microwave Kiln](305-microwave-kiln.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+
+---
+
+### Suggested Build Order
+
+1. **[#264 — Waffle Iron Press](264-waffle-iron-press.md)** — Simplest hack. Heat + pressure, no mods.
+2. **[#263 — Blender Centrifuge](263-blender-centrifuge.md)** — High RPM, low risk.
+3. **[#262 — Coffee Maker Distiller](262-coffee-maker-distiller.md)** — Repurpose the water heating system.
+4. **[#303 — Instant Pot Vacuum Chamber](303-instant-pot-vacuum-chamber.md)** — Pressure vessel in reverse.
+5. **[#261 — Stand Mixer Pottery Wheel](261-stand-mixer-pottery-wheel.md)** — Torque + speed control.
+6. **[#260 — Toaster Reflow Oven](260-toaster-reflow-oven.md)** — Temperature profiling for electronics.
+7. **[#304 — Rice Cooker Electroplating](304-rice-cooker-electroplating.md)** — Chemistry + electronics combo.
+8. **[#305 — Microwave Kiln](305-microwave-kiln.md)** — Highest temperatures. Respect the heat.
+
+### Related Categories
+
+- [Household Chemistry](../household-chemistry/) — More chemistry with kitchen-safe ingredients
+- [Chemical + Electronic](../chemical-electronic/) — Electroplating and etching at larger scale
+- [Pyro & Chemistry](../pyro-and-chemistry/) — When heat gets serious

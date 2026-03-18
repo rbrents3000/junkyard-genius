@@ -21,3 +21,25 @@ These builds don't destroy the tool — you can always swap back to the original
 | 081 | [Sawzall Power Hammer](081-sawzall-power-hammer.md) | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐ |
 | 082 | [Circular Saw Table Saw](082-circular-saw-table-saw.md) | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
 | 083 | [Router CNC Spindle](083-router-cnc-spindle.md) | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐ |
+| 306 | [Drill-Powered Lathe](306-drill-powered-lathe.md) | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+| 307 | [Jigsaw Scroll Saw](307-jigsaw-scroll-saw.md) | ⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐ | ⭐ |
+| 308 | [Angle Grinder Belt Sander](308-angle-grinder-belt-sander.md) | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐ |
+
+---
+
+### Suggested Build Order
+
+1. **[#080 — Hand Drill Press](080-hand-drill-press.md)** — Simplest jig. One tool, one cradle.
+2. **[#307 — Jigsaw Scroll Saw](307-jigsaw-scroll-saw.md)** — Flip it upside down. Instant upgrade.
+3. **[#079 — Angle Grinder Forge Blower](079-angle-grinder-forge-blower.md)** — Creative airflow repurposing.
+4. **[#308 — Angle Grinder Belt Sander](308-angle-grinder-belt-sander.md)** — Bolt-on attachment. Quick swap.
+5. **[#306 — Drill-Powered Lathe](306-drill-powered-lathe.md)** — Wood turning from a hand drill.
+6. **[#081 — Sawzall Power Hammer](081-sawzall-power-hammer.md)** — Linear motion repurposed for metalwork.
+7. **[#082 — Circular Saw Table Saw](082-circular-saw-table-saw.md)** — Higher danger. Blade guard essential.
+8. **[#083 — Router CNC Spindle](083-router-cnc-spindle.md)** — 25,000 RPM. Maximum precision, maximum respect.
+
+### Related Categories
+
+- [Functional Machines](../functional-machines/) — Dedicated tools built from salvage
+- [Junkyard Auto](../junkyard-auto/) — Automotive motor repurposing
+- [Big Builds](../big-builds/) — When your workshop project IS the workshop
