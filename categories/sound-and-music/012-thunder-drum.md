@@ -1,0 +1,49 @@
+# #012 — Thunder Drum
+
+> A spring attached to a speaker membrane produces sounds exactly like rolling thunder — shake it and your neighbors think a storm is coming.
+
+## Ratings
+
+| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
+|---|---|---|---|---|---|
+| ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
+
+## What Is It?
+
+A thunder drum is absurdly simple: a spring (or long coil of wire) attached to the center of a membrane stretched over a can or tube. When you shake or strike the drum, the spring wobbles and vibrates at complex, chaotic frequencies. Those vibrations transfer through the attachment point into the membrane, which amplifies them into sound. The result is a stunningly realistic imitation of rolling thunder — deep, rumbling, with the exact same irregular crackle-and-roll character of a real thunderstorm.
+
+The physics are elegant: the spring has many resonant modes at different frequencies, and they all ring simultaneously and decay at different rates, creating the same kind of broadband noise that real thunder produces as the sound echoes and reverberates through clouds. It's used in professional theater sound effects, but you can build one in 15 minutes from literal garbage.
+
+## Ingredients
+
+- [ ] A large can — coffee can, paint can, or 5-gallon bucket *(source: recycling bin, free)*
+- [ ] Thin membrane material — Mylar sheet, thick balloon, or drumhead *(source: balloon from dollar store or Mylar from craft store, ~$1)*
+- [ ] Long spring — screen door spring, Slinky, or coiled steel wire *(source: hardware store, thrift store, or dollar store Slinky, ~$1-3)*
+- [ ] Small bolt, washer, and nut for attaching the spring *(source: hardware store or junk drawer, ~$0.50)*
+- [ ] Duct tape or rubber bands for securing the membrane *(source: around the house)*
+
+## Build Steps
+
+1. **Prepare the drum body.** Remove the bottom of your can or bucket if it has one — you want it open on at least one end. For a coffee can, remove the plastic lid and keep the metal bottom. For a bucket, you're stretching the membrane over the open top.
+
+2. **Stretch the membrane.** Pull the Mylar sheet or cut balloon tightly across one open end of the can. Stretch it as taut as a drum skin — the tighter, the better the sound projection. Secure it with rubber bands, duct tape, or a hose clamp around the rim. The membrane should be smooth with no wrinkles.
+
+3. **Poke the attachment hole.** Carefully poke or drill a tiny hole in the center of the membrane. Just big enough for a small bolt to pass through. Don't tear the membrane outward from the hole.
+
+4. **Attach the spring.** Push a small bolt through the hole from the inside. Place a washer on both sides of the membrane to distribute the force and prevent tearing. Thread one end of your spring onto the bolt and secure everything with a nut. The spring should hang freely from the center of the membrane, dangling out the open end of the can.
+
+5. **Test the sound.** Hold the drum by the body (membrane-side up, spring hanging down) and give the spring a gentle shake. You should immediately hear a deep, rumbling thunder sound from the membrane. The longer and heavier the spring, the deeper and more realistic the sound.
+
+6. **Optimize.** Experiment with different spring types and lengths. A Slinky produces dramatic, long-rolling thunder. A stiff screen door spring produces shorter, sharper cracks. Longer springs produce longer reverberations. You can also try attaching multiple springs for a more complex sound.
+
+7. **Add performance techniques.** Beyond shaking, try: flicking the spring with a finger (sharp crack), pulling the spring taut and releasing (cannon boom), spinning the drum so the spring whips around (sustained rumble), or mounting it on a stand and playing the spring with a bow (otherworldly sustained tones).
+
+## Safety Notes
+
+- **Watch the spring end.** A metal spring whipping around can catch fingers or eyes. Keep a firm grip on the drum body when shaking it vigorously, and warn bystanders to stay at arm's length.
+- **Large drums are LOUD.** A 5-gallon bucket thunder drum can produce startlingly loud low-frequency sound. Don't play it directly into someone's ear, and be aware of noise complaints if you're in an apartment.
+
+## See Also
+
+- [Aeolian Wind Harp](013-aeolian-wind-harp.md) — another instrument that plays itself using natural forces
+- [Bone Conduction Speaker](014-bone-conduction-speaker.md) — another unusual way to produce and transmit sound

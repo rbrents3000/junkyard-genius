@@ -1,0 +1,18 @@
+# Vacuum Cleaner
+
+> A vacuum cleaner is a high-RPM motor attached to an impeller. That's a jet engine's job description.
+
+Vacuum motors are absurdly powerful for their size — typically 1000-1500 watts, spinning at 20,000-30,000 RPM. They move massive volumes of air. Reverse the airflow direction and you have a hovercraft lift fan. Add suction to a robot and it climbs walls. Channel the exhaust and you have a leaf blower. Add a cyclone separator and your shop vac filter lasts forever.
+
+The motor doesn't care whether it's sucking dust or doing something far more interesting.
+
+---
+
+## Builds
+
+| # | Build | Jaw Drop | Brain Melt | Wallet | Spicy | Clout | Time |
+|---|---|---|---|---|---|---|---|
+| 075 | [Vacuum Hovercraft](075-vacuum-hovercraft.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+| 076 | [Wall-Climbing Robot](076-wall-climbing-robot.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+| 077 | [Cyclone Dust Separator](077-cyclone-dust-separator.md) | ⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐ |
+| 078 | [Vacuum Leaf Blower](078-vacuum-leaf-blower.md) | ⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐ |
