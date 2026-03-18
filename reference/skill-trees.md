@@ -12,10 +12,17 @@ Pick the path that excites you most and start at the beginning. Don't skip ahead
 
 **Theme:** Understanding voltage, current, magnetism, and the invisible forces that make everything work.
 
-```
-[Beginner]                    [Intermediate]                [Advanced]                    [Endgame]
-Homopolar Motor          -->  LED Cube 8x8x8           -->  Musical Tesla Coil       -->  Rail Gun
-(magnetism + current)         (soldering + multiplexing)     (resonance + HV)              (capacitor banks + EM launch)
+```mermaid
+flowchart LR
+    A["#198 Homopolar Motor"] --> B["#187 Ball Bearing Motor"] --> C["#242 LED Jacket"] --> D["#122 LED Cube 8x8x8"] --> E["#034 Jacob's Ladder"] --> F["#033 Musical Tesla Coil"] --> G["#037 Coil Gun"] --> H["#036 Rail Gun"]
+    style A fill:#22c55e,color:#000
+    style B fill:#22c55e,color:#000
+    style C fill:#22c55e,color:#000
+    style D fill:#eab308,color:#000
+    style E fill:#eab308,color:#000
+    style F fill:#ef4444,color:#fff
+    style G fill:#ef4444,color:#fff
+    style H fill:#7c3aed,color:#fff
 ```
 
 | Stage | Build | What You Learn | Link |
@@ -37,10 +44,17 @@ Homopolar Motor          -->  LED Cube 8x8x8           -->  Musical Tesla Coil  
 
 **Theme:** Controlling chemical reactions, understanding combustion, and making things glow, burn, and explode (safely).
 
-```
-[Beginner]                    [Intermediate]                [Advanced]                    [Endgame]
-Colored Fire             -->  Smoke Bomb Array           -->  Cold Spark Machine       -->  Thermite Flower Pot
-(metal salt combustion)       (KNO3 chemistry)               (Ti powder ignition)          (iron oxide + aluminum)
+```mermaid
+flowchart LR
+    A["#101 Colored Fire"] --> B["#102 Elephant Toothpaste"] --> C["#103 Smoke Bomb Array"] --> D["#113 Steel Wool Photography"] --> E["#104 Cold Spark Machine"] --> F["#110 Pharaoh's Serpent"] --> G["#109 Luminol Crime Scene"] --> H["#105 Thermite Flower Pot"]
+    style A fill:#22c55e,color:#000
+    style B fill:#22c55e,color:#000
+    style C fill:#eab308,color:#000
+    style D fill:#eab308,color:#000
+    style E fill:#eab308,color:#000
+    style F fill:#ef4444,color:#fff
+    style G fill:#ef4444,color:#fff
+    style H fill:#7c3aed,color:#fff
 ```
 
 | Stage | Build | What You Learn | Link |
@@ -62,10 +76,17 @@ Colored Fire             -->  Smoke Bomb Array           -->  Cold Spark Machine
 
 **Theme:** Using microcontrollers and code to make physical things smart, responsive, and autonomous.
 
-```
-[Beginner]                    [Intermediate]                [Advanced]                    [Endgame]
-Pi-Hole Ad Blocker       -->  Auto Plant Watering        -->  Face Tracking Laser      -->  Deepfake Mirror
-(networking + Linux)          (sensors + GPIO)                (OpenCV + servos)             (neural nets + display)
+```mermaid
+flowchart LR
+    A["#139 Pi-Hole Ad Blocker"] --> B["#132 ESP32 Weather Station"] --> C["#127 Auto Plant Watering"] --> D["#128 ESP32-CAM Security"] --> E["#123 Smart Mirror"] --> F["#141 Face Tracking Laser"] --> G["#144 Sentiment Room Lighting"] --> H["#153 Deepfake Mirror"]
+    style A fill:#22c55e,color:#000
+    style B fill:#22c55e,color:#000
+    style C fill:#eab308,color:#000
+    style D fill:#eab308,color:#000
+    style E fill:#eab308,color:#000
+    style F fill:#ef4444,color:#fff
+    style G fill:#ef4444,color:#fff
+    style H fill:#7c3aed,color:#fff
 ```
 
 | Stage | Build | What You Learn | Link |
@@ -87,10 +108,17 @@ Pi-Hole Ad Blocker       -->  Auto Plant Watering        -->  Face Tracking Lase
 
 **Theme:** Gears, levers, thermodynamics, and the beauty of things that move.
 
-```
-[Beginner]                    [Intermediate]                [Advanced]                    [Endgame]
-Chain Fountain           -->  Trebuchet                  -->  Stirling Engine           -->  Musical Marble Machine
-(kinetic chain physics)       (mechanical advantage)          (thermodynamics)              (precision engineering)
+```mermaid
+flowchart LR
+    A["#184 Chain Fountain"] --> B["#190 Prince Rupert's Drop"] --> C["#185 Trebuchet"] --> D["#183 Hydraulic Robot Arm"] --> E["#189 Curie Engine"] --> F["#182 Stirling Engine"] --> G["#043 Kinetic Wind Sculpture"] --> H["#181 Musical Marble Machine"]
+    style A fill:#22c55e,color:#000
+    style B fill:#22c55e,color:#000
+    style C fill:#eab308,color:#000
+    style D fill:#eab308,color:#000
+    style E fill:#eab308,color:#000
+    style F fill:#ef4444,color:#fff
+    style G fill:#ef4444,color:#fff
+    style H fill:#7c3aed,color:#fff
 ```
 
 | Stage | Build | What You Learn | Link |
@@ -112,10 +140,17 @@ Chain Fountain           -->  Trebuchet                  -->  Stirling Engine   
 
 **Theme:** Growing crystals, plating metals, etching surfaces, and controlling chemical reactions with electricity.
 
-```
-[Beginner]                    [Intermediate]                [Advanced]                    [Endgame]
-Crystal Garden           -->  Electroplating Station      -->  Anodizing Setup           -->  Luminol Crime Scene
-(supersaturation)             (cathode/anode + current)       (oxide layer control)         (chemiluminescence)
+```mermaid
+flowchart LR
+    A["#107 Bismuth Crystal Garden"] --> B["#161 Copper Crystal Tree"] --> C["#213 Density Tower"] --> D["#156 Electroplating Station"] --> E["#158 PCB Etching Station"] --> F["#157 Anodizing Setup"] --> G["#160 Electroforming Art"] --> H["#109 Luminol Crime Scene"]
+    style A fill:#22c55e,color:#000
+    style B fill:#22c55e,color:#000
+    style C fill:#22c55e,color:#000
+    style D fill:#eab308,color:#000
+    style E fill:#eab308,color:#000
+    style F fill:#ef4444,color:#fff
+    style G fill:#ef4444,color:#fff
+    style H fill:#7c3aed,color:#fff
 ```
 
 | Stage | Build | What You Learn | Link |
@@ -137,10 +172,17 @@ Crystal Garden           -->  Electroplating Station      -->  Anodizing Setup  
 
 **Theme:** Lasers, plasma, optics, and everything that glows, refracts, or projects.
 
-```
-[Beginner]                    [Intermediate]                [Advanced]                    [Endgame]
-Pepper's Ghost Hologram  -->  Infinity Mirror Table      -->  Laser Fog Projector      -->  Fiber Optic Star Ceiling
-(reflection + illusion)       (LED + mirrors)                 (galvos + laser)              (hundreds of fiber runs)
+```mermaid
+flowchart LR
+    A["#171 Pepper's Ghost Hologram"] --> B["#177 UV Mineral Display"] --> C["#016 Infinity Mirror Table"] --> D["#018 Shadow Chandelier"] --> E["#175 Camera Obscura Room"] --> F["#017 Laser Fog Projector"] --> G["#172 Schlieren Optics"] --> H["#173 Fiber Optic Star Ceiling"]
+    style A fill:#22c55e,color:#000
+    style B fill:#22c55e,color:#000
+    style C fill:#eab308,color:#000
+    style D fill:#eab308,color:#000
+    style E fill:#eab308,color:#000
+    style F fill:#ef4444,color:#fff
+    style G fill:#ef4444,color:#fff
+    style H fill:#7c3aed,color:#fff
 ```
 
 | Stage | Build | What You Learn | Link |
@@ -162,10 +204,17 @@ Pepper's Ghost Hologram  -->  Infinity Mirror Table      -->  Laser Fog Projecto
 
 **Theme:** Making noise, music, and instruments from salvaged parts.
 
-```
-[Beginner]                    [Intermediate]                [Advanced]                    [Endgame]
-Cigar Box Guitar         -->  Arduino Guitar Pedal        -->  Plasma Speaker            -->  MIDI Stepper Organ
-(strings + resonance)         (audio DSP)                     (HV modulated arc)            (motor music)
+```mermaid
+flowchart LR
+    A["#235 Cigar Box Guitar"] --> B["#241 Bottle Xylophone"] --> C["#012 Thunder Drum"] --> D["#056 Hard Drive Speaker"] --> E["#124 Arduino Guitar Pedal"] --> F["#008 Plasma Speaker"] --> G["#009 Rubens' Tube"] --> H["#135 MIDI Stepper Organ"]
+    style A fill:#22c55e,color:#000
+    style B fill:#22c55e,color:#000
+    style C fill:#22c55e,color:#000
+    style D fill:#eab308,color:#000
+    style E fill:#eab308,color:#000
+    style F fill:#ef4444,color:#fff
+    style G fill:#ef4444,color:#fff
+    style H fill:#7c3aed,color:#fff
 ```
 
 | Stage | Build | What You Learn | Link |
