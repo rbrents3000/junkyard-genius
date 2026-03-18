@@ -14,6 +14,9 @@
     <a href="#reference-docs">Reference</a> &bull;
     <a href="#safety">Safety</a>
   </p>
+  <p align="center">
+    <img src="images/hero-banner.jpg" alt="Junkyard Genius — salvaged parts, infinite possibilities" width="800" />
+  </p>
 </p>
 
 ---
