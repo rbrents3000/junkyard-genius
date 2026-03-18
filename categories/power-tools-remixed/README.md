@@ -1,6 +1,6 @@
 # Power Tools Remixed
 
-> Your power tools are more versatile than you think. Same motor, different attachment, completely different machine.
+> An angle grinder is a 10,000 RPM motor with a removable disc. A drill press is a drill bolted to a frame. Same tools, totally different machines when you rethink what's on the business end.
 
 An angle grinder is a 10,000 RPM motor with a removable disc. A reciprocating saw is a linear actuator making 3,000 strokes per minute. A hand drill is a precision variable-speed rotary motor. A circular saw is a high-torque motor spinning a disc. A router is a 25,000 RPM spindle with a collet. Every one of these tools has hidden second (and third) lives when you rethink what's attached to the business end.
 

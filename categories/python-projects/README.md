@@ -1,6 +1,6 @@
 # Python Projects
 
-> Software turns dumb hardware into smart hardware. Python turns any sensor, screen, or motor into an intelligent system.
+> A webcam is a webcam. A webcam running OpenCV is a face-tracking sentry turret. Python is the difference.
 
 Python is the duct tape of the programming world — it holds everything together. Computer vision with OpenCV, machine learning with TensorFlow, audio processing with librosa, hardware control with GPIO libraries, web dashboards with Flask. The language itself is free. The libraries are free. The hardware is salvaged junk. The only cost is your time learning, and the return on that investment is unlimited.
 

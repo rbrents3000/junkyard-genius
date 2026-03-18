@@ -1,6 +1,6 @@
 # Mad Scientist
 
-> High voltage, electromagnetic forces, and physics experiments that belong in a lab but live in your garage.
+> High voltage, electromagnetic forces, and physics experiments that belong in a government lab but somehow live in your garage. Expect sparks, levitation, and at least one alarmed neighbor.
 
 Tesla coils that play music. Electromagnetic can crushers. Rail guns. Levitating objects. Vacuum chambers. Cloud chambers that reveal invisible radiation. This is the category where you stop building tools and start building demonstrations of raw physical forces.
 
