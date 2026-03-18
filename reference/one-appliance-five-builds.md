@@ -219,6 +219,60 @@ Mostly extinct in the wild, but if you find one, it's a treasure chest of high-v
 
 ---
 
+## You Scored a Dead Hair Dryer
+
+**What's inside:** Nichrome heating element (the main prize), small DC fan motor, thermal fuse, power switch, sometimes a second motor speed setting.
+
+**Parts to salvage:** Nichrome wire (high-resistance alloy that glows red-hot), fan motor (small but capable), power switch, coiled nichrome element.
+
+| # | Build | Difficulty | Spicy | Key Part Used |
+|---|---|---|---|---|
+| 1 | [#243 -- Heated Gloves](../categories/wearable-tech/243-heated-gloves.md) | Beginner | Low | Nichrome wire |
+| 2 | [#006 -- Atmospheric Reentry Simulator](../categories/fire-and-plasma/006-atmospheric-reentry-simulator.md) | Intermediate | High | Nichrome wire |
+| 3 | [#276 -- Chemical Smoke Screen Machine](../categories/alchemist-cookbook/276-chemical-smoke-screen-machine.md) | Beginner | Medium | Nichrome element |
+| 4 | [#005 -- Desktop Foundry](../categories/fire-and-plasma/005-desktop-foundry.md) | Intermediate | High | Nichrome wire |
+| 5 | [#028 -- Powder Coating Oven](../categories/functional-machines/028-powder-coating-oven.md) | Intermediate | Medium | Heating element |
+
+**Bonus parts:** The fan motor can be repurposed as a small blower for smoke machines or forge blowers. The thermal fuse is useful as a safety cutoff in any heating build.
+
+---
+
+## You Scored a Dead Toaster / Toaster Oven
+
+**What's inside:** Multiple nichrome heating elements (flat ribbon or coiled wire), spring-loaded carriage mechanism, thermal timer, crumb tray (useful as a small metal sheet), sometimes a convection fan.
+
+**Parts to salvage:** Nichrome elements (multiple, in better condition than a hair dryer), thermostat/timer, small metal enclosure, chrome wire racks.
+
+| # | Build | Difficulty | Spicy | Key Part Used |
+|---|---|---|---|---|
+| 1 | [#260 -- Toaster Reflow Oven](../categories/kitchen-hacks/260-toaster-reflow-oven.md) | Intermediate | Medium | Entire toaster oven |
+| 2 | [#276 -- Chemical Smoke Screen Machine](../categories/alchemist-cookbook/276-chemical-smoke-screen-machine.md) | Beginner | Medium | Nichrome element |
+| 3 | [#005 -- Desktop Foundry](../categories/fire-and-plasma/005-desktop-foundry.md) | Intermediate | High | Nichrome elements |
+| 4 | [#243 -- Heated Gloves](../categories/wearable-tech/243-heated-gloves.md) | Beginner | Low | Nichrome wire |
+| 5 | [#225 -- Seat Heater Sous Vide](../categories/junkyard-auto/225-seat-heater-sous-vide.md) | Intermediate | Low | Heating element + thermostat concept |
+
+**Bonus parts:** Toaster ovens are the ideal platform for [#260 Toaster Reflow Oven](../categories/kitchen-hacks/260-toaster-reflow-oven.md) — you use the entire appliance as the starting point. The metal enclosure is a ready-made heat chamber.
+
+---
+
+## You Scored a Dead Humidifier
+
+**What's inside:** Ultrasonic transducer disc (the main prize — a piezoelectric element vibrating at 1.7MHz), small fan, water level sensor, reservoir, power supply board.
+
+**Parts to salvage:** Ultrasonic transducer (creates fog from water), fan motor, float switch, plastic reservoir (useful as a project enclosure).
+
+| # | Build | Difficulty | Spicy | Key Part Used |
+|---|---|---|---|---|
+| 1 | [#084 -- Ultrasonic Fog Machine](../categories/humidifier-and-water/084-ultrasonic-fog-machine.md) | Beginner | Low | Ultrasonic transducer |
+| 2 | [#086 -- Fog Waterfall Table](../categories/humidifier-and-water/086-fog-waterfall-table.md) | Beginner | Low | Ultrasonic transducer |
+| 3 | [#087 -- Nebula Lamp](../categories/humidifier-and-water/087-nebula-lamp.md) | Beginner | Low | Ultrasonic transducer |
+| 4 | [#085 -- Ultrasonic Parts Cleaner](../categories/humidifier-and-water/085-ultrasonic-parts-cleaner.md) | Beginner | Low | Ultrasonic transducer |
+| 5 | [#010 -- Ultrasonic Levitator](../categories/sound-and-music/010-ultrasonic-levitator.md) | Intermediate | Low | Ultrasonic transducers (need 2) |
+
+**Bonus parts:** The fan motor works for small ventilation projects. The float switch is a free water level sensor for auto-watering or aquarium builds. The reservoir is a clean, food-safe plastic container.
+
+---
+
 ## Quick Reference: Appliance to Build Count
 
 | Appliance | Builds in This Repo | Difficulty Range | Best First Build |
@@ -234,6 +288,9 @@ Mostly extinct in the wild, but if you find one, it's a treasure chest of high-v
 | Scooter | 5+ | Intermediate - Advanced | [#089 Camera Slider](../categories/scooter-and-motor/089-motorized-camera-slider.md) |
 | Drone | 8 | Intermediate - Advanced | [#204 Wind Turbine](../categories/drone-salvage/204-drone-motor-wind-turbine.md) |
 | Car parts | 8 | Beginner - Intermediate | [#222 Wiper Motor Rotisserie](../categories/junkyard-auto/222-wiper-motor-rotisserie.md) |
+| Hair Dryer | 5+ | Beginner - Intermediate | [#243 Heated Gloves](../categories/wearable-tech/243-heated-gloves.md) |
+| Toaster | 5+ | Beginner - Intermediate | [#260 Reflow Oven](../categories/kitchen-hacks/260-toaster-reflow-oven.md) |
+| Humidifier | 5+ | Beginner - Intermediate | [#084 Ultrasonic Fog](../categories/humidifier-and-water/084-ultrasonic-fog-machine.md) |
 
 ---
 
