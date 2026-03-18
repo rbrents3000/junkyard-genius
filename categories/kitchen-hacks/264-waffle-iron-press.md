@@ -56,6 +56,6 @@ Professional T-shirt printers will tell you this can't possibly work as well as 
 
 ## See Also
 
-- [Blender Vortex Centrifuge](263-blender-paint-mixer.md)
+- [Blender Vortex Centrifuge](263-blender-centrifuge.md)
 - [Toaster Reflow Oven](260-toaster-reflow-oven.md)
 - [Stand Mixer Pottery Wheel](261-stand-mixer-pottery-wheel.md)

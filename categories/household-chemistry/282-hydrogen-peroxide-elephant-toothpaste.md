@@ -54,5 +54,5 @@ The chemistry is beautifully elegant. The iodide ion (I-) from the potassium iod
 
 ## See Also
 
-- [Vinegar Baking Soda Rocket](214-vinegar-baking-soda-rocket.md)
-- [Sugar Smoke Bombs](216-sugar-smoke-bombs.md)
+- [Vinegar Baking Soda Rocket](281-vinegar-baking-soda-rocket.md)
+- [Sugar Smoke Bombs](283-sugar-smoke-bombs.md)

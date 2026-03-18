@@ -42,5 +42,5 @@ Absorption refrigeration uses heat to drive a cooling cycle — no compressor, n
 
 ## See Also
 
-- [Freeze Dryer](093-freeze-dryer.md)
+- [Freeze Dryer](094-diy-freeze-dryer.md)
 - [Campfire Thermoelectric Charger](../power-and-energy/049-campfire-thermoelectric-charger.md)

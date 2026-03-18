@@ -54,5 +54,5 @@ Building a controllable fog machine from a cooler takes about five minutes. A St
 
 ## See Also
 
-- [Chemical Smoke Screen Machine](../alchemist-cookbook/231-chemical-smoke-screen-machine.md)
-- [Elephant Toothpaste](215-hydrogen-peroxide-elephant-toothpaste.md)
+- [Chemical Smoke Screen Machine](../alchemist-cookbook/276-chemical-smoke-screen-machine.md)
+- [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste.md)
