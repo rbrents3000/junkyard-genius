@@ -39,3 +39,9 @@ Start with low-danger energy harvesting and work toward high-capacity storage:
 6. **[#052 — DIY Powerwall](052-diy-powerwall.md)** — Battery assembly and management. Higher stakes.
 7. **[#288 — Laptop Battery Powerwall](288-laptop-battery-powerwall.md)** — Large-scale battery harvesting and assembly.
 8. **[#291 — Capacitor Bank Flash Charger](291-capacitor-bank-flash-charger.md)** — High-energy storage. Respect the discharge.
+
+### Related Categories
+
+- [Fridge & Cooling](../fridge-and-cooling/) — Thermal energy recovery and Peltier modules
+- [Scooter & Motor](../scooter-and-motor/) — Motors as generators and energy conversion
+- [Survival & Off-Grid](../survival-off-grid/) — Solar, wind, and off-grid power systems

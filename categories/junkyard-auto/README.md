@@ -24,3 +24,24 @@ All of this hardware costs pennies at the scrapyard but hundreds from a supplier
 | 224 | [Window Motor Secret Door](224-window-motor-secret-door.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 | 225 | [Seat Heater Sous Vide](225-seat-heater-sous-vide.md) | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
 | 226 | [HID Headlight UV Curer](226-hid-headlight-uv-curer.md) | ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+
+---
+
+### Suggested Build Order
+
+Start with simple motor reuse, progress toward vehicle builds:
+
+1. **[#222 — Wiper Motor Rotisserie](222-wiper-motor-rotisserie.md)** — Simplest motor application. Instant utility.
+2. **[#223 — Spark Plug Cannon](223-spark-plug-cannon.md)** — Brief ignition assembly.
+3. **[#220 — Ignition Coil Tesla Coil](220-ignition-coil-tesla-coil.md)** — High-voltage from car parts.
+4. **[#225 — Seat Heater Sous Vide](225-seat-heater-sous-vide.md)** — Resistive heating control.
+5. **[#224 — Window Motor Secret Door](224-window-motor-secret-door.md)** — Mechanical integration + fabrication.
+6. **[#219 — Alternator Welder](219-alternator-welder.md)** — Three-phase AC-to-DC conversion.
+7. **[#226 — HID Headlight UV Curer](226-hid-headlight-uv-curer.md)** — High-voltage ballast circuits + UV optics.
+8. **[#221 — Starter Motor Go-Kart](221-starter-motor-go-kart.md)** — Full vehicle dynamics. The showpiece.
+
+### Related Categories
+
+- [Mechanical & Kinetic](../mechanical-and-kinetic/) — Motor-driven motion and energy transfer
+- [Power & Energy](../power-and-energy/) — Alternator generation and energy conversion
+- [Functional Machines](../functional-machines/) — Workshop tools and vehicle builds

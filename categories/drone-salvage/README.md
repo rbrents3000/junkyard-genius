@@ -26,3 +26,24 @@ The gimbal motors alone are worth the salvage. These are brushless outrunners wi
 | 206 | [Drone LiPo Powerwall](206-drone-lipo-powerwall.md) | ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
 | 207 | [Precision Digital Scale](207-precision-digital-scale.md) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
 | 208 | [FPV RC Boat](208-fpv-rc-boat.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+
+---
+
+### Suggested Build Order
+
+Start with simple motor reuse, progress toward autonomous systems:
+
+1. **[#204 — Drone Motor Wind Turbine](204-drone-motor-wind-turbine.md)** — Simple motor-as-generator. Gentle intro.
+2. **[#206 — Drone LiPo Powerwall](206-drone-lipo-powerwall.md)** — Battery management. Fast assembly.
+3. **[#202 — FPV Ground Rover](202-fpv-ground-rover.md)** — First remote-control build.
+4. **[#203 — Gimbal Motor Star Tracker](203-gimbal-motor-star-tracker.md)** — Precision motor control + astronomy.
+5. **[#208 — FPV RC Boat](208-fpv-rc-boat.md)** — Adds waterproofing challenges.
+6. **[#201 — Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer.md)** — PID tuning and stabilization algorithms.
+7. **[#205 — Obstacle-Dodging Robot](205-obstacle-dodging-robot.md)** — Sensor integration + autonomous movement.
+8. **[#207 — Precision Digital Scale](207-precision-digital-scale.md)** — Load cells and calibration precision.
+
+### Related Categories
+
+- [Raspberry Pi & Arduino](../pi-and-arduino/) — Sensor networks and autonomous control
+- [Functional Machines](../functional-machines/) — Motor-driven tools and equipment
+- [Scooter & Motor](../scooter-and-motor/) — Brushless motor applications and ESC programming

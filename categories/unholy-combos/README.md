@@ -39,3 +39,9 @@ These are endgame builds — each one assumes mastery of its component categorie
 6. **[#284 — Thermite Forge Foundry](284-thermite-forge-foundry.md)** — Extreme heat. Do this outdoors with full PPE.
 7. **[#054 — Vacuum Plasma Cloud Chamber](054-vacuum-plasma-cloud-chamber.md)** — Vacuum + high voltage. Advanced physics.
 8. **[#055 — Levitating Plasma Speaker](055-levitating-plasma-speaker.md)** — The final boss. Magnetic levitation + plasma audio.
+
+### Related Categories
+
+- [Mad Scientist](../mad-scientist/) — The prerequisite builds for these mashups
+- [Fire & Plasma](../fire-and-plasma/) — High-temperature and plasma components
+- [Sound & Music](../sound-and-music/) — Audio-reactive builds and speaker physics

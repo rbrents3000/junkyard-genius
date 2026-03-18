@@ -34,3 +34,32 @@ The builds in this category exploit the chemistry of these everyday substances �
 | 327 | [Sugar Smoke Bombs](327-sugar-smoke-bombs.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
 | 328 | [Copper Plating with Vinegar](328-copper-plating-with-vinegar.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
 | 329 | [Dry Ice Fog Machine](329-dry-ice-fog-machine.md) | ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+
+---
+
+### Suggested Build Order
+
+Start with instant spectacles, progress toward electrochemistry:
+
+1. **[#209 — Alcohol Vapor Cannon](209-alcohol-vapor-cannon.md)** — Instant gratification. One ingredient.
+2. **[#210 — Hand Sanitizer Fire Art](210-hand-sanitizer-fire-art.md)** — Visual fire demonstration.
+3. **[#211 — Acetone Styrofoam Sculptor](211-acetone-styrofoam-sculptor.md)** — Immediate solvent results.
+4. **[#213 — Bleach Crystal Garden](213-bleach-crystal-garden.md)** — Passive crystallization.
+5. **[#214 — Bleach Pen Tie-Dye](214-bleach-pen-tie-dye.md)** — Artistic chemistry application.
+6. **[#215 — Baking Soda Vinegar Rocket](215-baking-soda-vinegar-rocket.md)** — Classic acid-base reaction.
+7. **[#216 — Invisible Ink Message Board](216-invisible-ink-message-board.md)** — Chemistry reveal magic.
+8. **[#217 — Pool Shock Smoke Signals](217-pool-shock-smoke-signals.md)** — Colored smoke generation.
+9. **[#218 — Coin Battery Stack](218-coin-battery-stack.md)** — Stacked redox cells.
+10. **[#280 — Density Tower](280-density-tower.md)** — Layered liquid physics demo.
+11. **[#281 — Vinegar Baking Soda Rocket](281-vinegar-baking-soda-rocket.md)** — Scaled-up pressure launch.
+12. **[#282 — Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste.md)** — Catalytic decomposition spectacle.
+13. **[#329 — Dry Ice Fog Machine](329-dry-ice-fog-machine.md)** — Phase-change fog effects.
+14. **[#212 — Electrolysis Rust Eraser](212-electrolysis-rust-eraser.md)** — Introduces electrical chemistry.
+15. **[#327 — Sugar Smoke Bombs](327-sugar-smoke-bombs.md)** — Combustion kinetics and timing.
+16. **[#328 — Copper Plating with Vinegar](328-copper-plating-with-vinegar.md)** — Electroless plating. The capstone.
+
+### Related Categories
+
+- [Pyro & Chemistry](../pyro-and-chemistry/) — Advanced combustion and reaction chemistry
+- [Mad Scientist](../mad-scientist/) — Scaling up household experiments
+- [Alchemist Cookbook](../alchemist-cookbook/) — Crossover builds with electronics and energy

@@ -35,3 +35,9 @@ Start with simple motor repurposing, then tackle power electronics:
 5. **[#091 — Wind Phone Charger](091-wind-phone-charger.md)** — Motor as generator. Reverse the physics.
 6. **[#088 — Electric Skateboard](088-electric-skateboard.md)** — Full ESC + battery + motor integration.
 7. **[#293 — Electric Fence Charger](293-electric-fence-charger.md)** — High-voltage pulse circuits. Respect the zap.
+
+### Related Categories
+
+- [Functional Machines](../functional-machines/) — Motor-driven tools and equipment
+- [Power & Energy](../power-and-energy/) — Motors as generators and energy systems
+- [Drone Salvage](../drone-salvage/) — Brushless motor applications and ESC programming

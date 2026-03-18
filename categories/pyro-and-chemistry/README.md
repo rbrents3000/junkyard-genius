@@ -36,3 +36,36 @@ Most ingredients come from the hardware store, the pharmacy, or your kitchen. Th
 | 118 | [Fluorescein Blacklight Fountain](118-fluorescein-blacklight-fountain.md) | ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
 | 119 | [Thermochromic Paint](119-thermochromic-paint.md) | ⭐⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
 | 120 | [Dry Ice Bubble Cauldron](120-dry-ice-bubble-cauldron.md) | ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+
+---
+
+### Suggested Build Order
+
+Start with single-reaction spectacles, progress toward multi-component builds:
+
+1. **[#101 — Colored Fire](101-colored-fire.md)** — One powder, one flame. Simplest chemistry.
+2. **[#102 — Elephant Toothpaste](102-elephant-toothpaste.md)** — Iconic catalytic reaction. Minimal setup.
+3. **[#110 — Pharaoh's Serpent](110-pharaohs-serpent.md)** — Single-reaction visual showpiece.
+4. **[#106 — Gallium Melting Spoon](106-gallium-melting-spoon.md)** — Novelty physics. Quick and impressive.
+5. **[#112 — Non-Newtonian Speaker](112-non-newtonian-speaker.md)** — Suspension chemistry + audio physics.
+6. **[#113 — Steel Wool Photography](113-steel-wool-photography.md)** — Combustion + long exposure.
+7. **[#114 — Dry Ice Comet Balls](114-dry-ice-comet-balls.md)** — CO₂ sublimation handling.
+8. **[#115 — Permanganate Auto-Ignition](115-permanganate-auto-ignition.md)** — Exothermic oxidizer demo.
+9. **[#118 — Fluorescein Blacklight Fountain](118-fluorescein-blacklight-fountain.md)** — Dye chemistry + UV optics.
+10. **[#120 — Dry Ice Bubble Cauldron](120-dry-ice-bubble-cauldron.md)** — Multi-effect dry ice display.
+11. **[#107 — Bismuth Crystal Garden](107-bismuth-crystal-garden.md)** — Crystal growth from molten metal.
+12. **[#108 — Instant Ice Sculpture](108-instant-ice-sculpture.md)** — Supersaturation science.
+13. **[#109 — Luminol Crime Scene](109-luminol-crime-scene.md)** — Chemiluminescence + theatrical staging.
+14. **[#119 — Thermochromic Paint](119-thermochromic-paint.md)** — Temperature-responsive materials.
+15. **[#105 — Thermite Flower Pot](105-thermite-flower-pot.md)** — Extreme exothermic mastery.
+16. **[#103 — Smoke Bomb Array](103-smoke-bomb-array.md)** — Multiple charges. Scaled production.
+17. **[#116 — Calcium Carbide Cannon](116-calcium-carbide-cannon.md)** — Gas generation + ignition.
+18. **[#104 — Cold Spark Machine](104-cold-spark-machine.md)** — Ferrocerium mechanics.
+19. **[#111 — Chemiluminescent Fountain](111-chemiluminescent-fountain.md)** — Multi-component reaction system.
+20. **[#117 — Glow Resin River Table](117-glow-resin-river-table.md)** — Extended resin pour + luminescent art.
+
+### Related Categories
+
+- [Fire & Plasma](../fire-and-plasma/) — High-temperature plasma and extreme heat effects
+- [Light & Visual](../light-and-visual/) — UV displays and luminescent materials
+- [Household Chemistry](../household-chemistry/) — Kitchen-scale experiments using similar reagents

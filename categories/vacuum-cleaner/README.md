@@ -39,3 +39,9 @@ Start with the simplest motor repurposing, end with the crowd-pleaser:
 6. **[#299 — Pneumatic Launcher](299-pneumatic-launcher.md)** — Pressurized air + projectiles. The showstopper.
 7. **[#325 — Benchtop Wind Tunnel](325-benchtop-wind-tunnel.md)** — See aerodynamics with smoke + vacuum motor.
 8. **[#326 — Air Hockey Table](326-air-hockey-table.md)** — Reversed airflow + drilled surface = playable game.
+
+### Related Categories
+
+- [Functional Machines](../functional-machines/) — Workshop tools from salvaged motors
+- [Pranks & Party](../pranks-and-party/) — Party builds powered by air pressure
+- [Weird Science](../weird-science/) — Aerodynamics and physics demonstrations

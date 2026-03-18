@@ -23,3 +23,23 @@ Combine these components with basic electronics and you get communicators, light
 | 269 | [Blu-Ray Laser Cutter](269-blu-ray-laser-cutter.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
 | 270 | [Laser Microscope](270-laser-microscope.md) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | 271 | [Laser Spirograph](271-laser-spirograph.md) | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+
+---
+
+### Suggested Build Order
+
+Start with simple optics, progress toward precision laser systems:
+
+1. **[#265 — Laser Communicator](265-laser-communicator.md)** — Simple modulation. Photodiode + laser pointer.
+2. **[#271 — Laser Spirograph](271-laser-spirograph.md)** — Mirrors and motors make geometric patterns.
+3. **[#268 — Laser Tripwire Alarm](268-laser-tripwire-alarm.md)** — Basic threshold detection.
+4. **[#267 — Laser Harp](267-laser-harp.md)** — Laser grid + audio synthesis.
+5. **[#269 — Blu-Ray Laser Cutter](269-blu-ray-laser-cutter.md)** — Power control and focus alignment.
+6. **[#266 — Laser Galvo Show](266-laser-galvo-show.md)** — Galvanometer mirrors and fast analog control.
+7. **[#270 — Laser Microscope](270-laser-microscope.md)** — Advanced optics theory. Precision alignment.
+
+### Related Categories
+
+- [Light & Visual](../light-and-visual/) — Laser projection and light manipulation
+- [Mad Scientist](../mad-scientist/) — High-energy physics experiments
+- [Raspberry Pi & Arduino](../pi-and-arduino/) — Galvo control and signal generation

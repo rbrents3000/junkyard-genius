@@ -37,3 +37,9 @@ Start with a single transducer and scale up:
 5. **[#295 — Ultrasonic Parts Cleaner Pro](295-ultrasonic-parts-cleaner-pro.md)** — Multi-transducer array. Industrial grade.
 6. **[#297 — Mist Cooling System](297-mist-cooling-system.md)** — Multiple discs, outdoor deployment.
 7. **[#296 — Fog Harp Water Collector](296-fog-harp-water-collector.md)** — Atmospheric water harvesting. The science fair winner.
+
+### Related Categories
+
+- [Fridge & Cooling](../fridge-and-cooling/) — Thermal management and phase-change cooling
+- [Light & Visual](../light-and-visual/) — LED-enhanced fog and mist displays
+- [Survival & Off-Grid](../survival-off-grid/) — Water harvesting and off-grid systems
