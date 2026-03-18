@@ -1,5 +1,9 @@
 # Technical Glossary
 
+<p align="center">
+  <img src="../images/reference/glossary.jpg" alt="Technical Glossary" width="700" />
+</p>
+
 > Know the words before you touch the wires.
 
 You'll encounter these terms in build instructions, and knowing what they mean before you start saves you from Googling mid-solder. This glossary covers every piece of jargon, every acronym, and every physics concept that shows up across the repo — organized by domain so you can skim the section that matters when you're elbow-deep in a build.

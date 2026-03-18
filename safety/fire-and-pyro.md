@@ -1,5 +1,9 @@
 # Fire & Pyrotechnic Safety
 
+<p align="center">
+  <img src="../images/safety/fire.jpg" alt="Fire & Pyro Safety" width="700" />
+</p>
+
 > Fire is the oldest technology and the one that demands the most respect. It has no off switch. Once ignited, it follows physics, not your plans.
 
 This guide covers fire prevention, fire extinguisher selection, burn treatment, ventilation requirements, safe distances, and legal considerations for all builds involving fire, heat, or pyrotechnics.

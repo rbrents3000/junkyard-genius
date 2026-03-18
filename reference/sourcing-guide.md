@@ -1,5 +1,9 @@
 # Where to Find Free Junk
 
+<p align="center">
+  <img src="../images/reference/sourcing.jpg" alt="Sourcing Guide" width="700" />
+</p>
+
 > The best builds start at the curb, not at the checkout counter. Your next masterpiece is sitting in someone's driveway right now, with a "FREE" sign taped to it.
 
 The number one barrier to building isn't skill — it's materials. And the number one misconception about materials is that they cost money. They don't. Appliances, electronics, scrap metal, and perfectly good components are thrown away every single day in staggering quantities. The entire American waste stream is your personal parts catalog. You just need to know where to look and when to show up.

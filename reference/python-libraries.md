@@ -1,5 +1,9 @@
 # Python Libraries for Builds
 
+<p align="center">
+  <img src="../images/reference/python.jpg" alt="Python Libraries" width="700" />
+</p>
+
 > Key Python packages that power the software side of Junkyard Genius builds — computer vision, audio processing, machine learning, and hardware control.
 
 All builds that involve a Raspberry Pi or laptop running Python use some combination of these libraries. This guide covers what each one does, how to install it, and which builds depend on it.

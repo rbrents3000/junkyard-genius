@@ -1,5 +1,9 @@
 # You Just Scored a Dead [X] — Here Are 5 Things to Make
 
+<p align="center">
+  <img src="../images/reference/one-appliance.jpg" alt="One Appliance, Five Builds" width="700" />
+</p>
+
 > Every dead appliance is a donor body. Here's what to build with each one — from first cut to final project.
 
 You just scored a dead microwave from the curb. Now what? This guide gives you the fast answer: what's inside, and the five best builds you can make from each major appliance. Think of it as a choose-your-own-adventure for salvaged junk.

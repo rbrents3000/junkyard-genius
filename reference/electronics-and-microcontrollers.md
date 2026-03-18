@@ -1,5 +1,9 @@
 # Electronics & Microcontrollers Guide
 
+<p align="center">
+  <img src="../images/reference/electronics.jpg" alt="Electronics & Microcontrollers" width="700" />
+</p>
+
 > The brains, sensors, actuators, and power systems that bring junkyard builds to life.
 
 This guide covers the electronic components and microcontroller platforms used across builds. If a build has code, sensors, or blinking lights, the parts are listed here.

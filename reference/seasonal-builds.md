@@ -1,5 +1,9 @@
 # Seasonal & Holiday Builds
 
+<p align="center">
+  <img src="../images/reference/seasonal.jpg" alt="Seasonal Builds" width="700" />
+</p>
+
 > The right build at the right time of year turns a cool project into an unforgettable event. Thermite at a 4th of July party. A fog machine on Halloween. LED jackets on New Year's Eve. Timing is everything.
 
 This guide maps builds to holidays and seasons so you can plan ahead. Most builds take an afternoon to a weekend — start a week before the event and you'll be the legend of the party.

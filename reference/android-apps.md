@@ -1,5 +1,9 @@
 # Android Apps for Builds
 
+<p align="center">
+  <img src="../images/reference/android.jpg" alt="Android Apps" width="700" />
+</p>
+
 > Your old phone is already packed with accelerometers, gyroscopes, magnetometers, barometers, cameras, and microphones. These apps unlock them for builds.
 
 A phone you already own (or a $30 used phone from eBay) has more sensors than most microcontroller setups. These apps turn a phone into a lab instrument, controller, camera system, or data logger — no soldering required.

@@ -1,5 +1,9 @@
 # Accessible Chemicals Guide
 
+<p align="center">
+  <img src="../images/reference/chemicals.jpg" alt="Chemicals Guide" width="700" />
+</p>
+
 > Every chemical used across builds — what it is, where to buy it, what it costs, and how not to hurt yourself with it.
 
 This guide covers the chemicals and chemical-adjacent materials referenced in Junkyard Genius builds. Everything here is legally available to consumers in the US. "Accessible" means you can buy it at a hardware store, pharmacy, garden center, or online without special licenses.

@@ -1,5 +1,9 @@
 # High Voltage Safety
 
+<p align="center">
+  <img src="../images/safety/high-voltage.jpg" alt="High Voltage Safety" width="700" />
+</p>
+
 > Electricity doesn't give warnings. It doesn't care how careful you think you are. It kills in a fraction of a second.
 
 This guide covers the specific safety procedures for builds that involve dangerous voltages. If a build uses a microwave oven transformer (MOT), CRT flyback transformer, capacitor bank, or any voltage above 50V AC / 120V DC, this guide applies.

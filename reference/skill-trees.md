@@ -1,5 +1,9 @@
 # Skill Trees
 
+<p align="center">
+  <img src="../images/reference/skill-trees.jpg" alt="Skill Trees" width="700" />
+</p>
+
 > Pick a path. Start at the bottom. Work your way up. Every build teaches you something the next build needs.
 
 This isn't a random list of projects. It's a progression system. Each path starts with something anyone can build in an afternoon and ends with something that'll make a professional engineer raise an eyebrow. The skills compound — what you learn in build #1 is the foundation for build #4.

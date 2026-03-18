@@ -1,5 +1,9 @@
 # Ingredient Index
 
+<p align="center">
+  <img src="../images/reference/ingredients.jpg" alt="Ingredient Index" width="700" />
+</p>
+
 > Reverse lookup: you have the part, now find the build. Every major component mapped to every project that uses it.
 
 You just pulled a Peltier module out of a dead mini fridge. What can you build with it? You've got a box of stepper motors from three dead printers. Now what? This index answers those questions. Find the ingredient, follow the links.

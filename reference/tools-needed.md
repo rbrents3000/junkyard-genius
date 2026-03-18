@@ -1,5 +1,9 @@
 # The Minimum Toolbox
 
+<p align="center">
+  <img src="../images/reference/tools.jpg" alt="The Minimum Toolbox" width="700" />
+</p>
+
 > You don't need a fully equipped workshop to start. You need a screwdriver, some pliers, and the refusal to throw anything away.
 
 Every build in this repo lists its specific tools under the build steps. But there's a core set of tools that shows up again and again — the foundation that makes everything else possible. This guide is organized by budget tier. Start where you are. Upgrade as you go. Half the fun is building your toolbox from salvaged parts anyway.

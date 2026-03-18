@@ -1,5 +1,9 @@
 # Contributing to Junkyard Genius
 
+<p align="center">
+  <img src="images/contributing.jpg" alt="Contributing" width="700" />
+</p>
+
 > Got a build idea? Here's how to contribute it.
 
 ---

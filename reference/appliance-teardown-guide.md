@@ -1,5 +1,9 @@
 # Appliance Teardown Guide
 
+<p align="center">
+  <img src="../images/reference/teardown.jpg" alt="Appliance Teardown Guide" width="700" />
+</p>
+
 > What's inside each appliance, what to salvage, and what to watch out for while taking it apart.
 
 Every dead appliance is a parts bin. This guide covers what you'll find inside the most common salvage sources, which parts are worth keeping, which builds use them, and how not to get hurt during disassembly.

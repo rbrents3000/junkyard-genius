@@ -1,5 +1,9 @@
 # General Safety
 
+<p align="center">
+  <img src="../images/safety/safety-overview.jpg" alt="Safety First" width="700" />
+</p>
+
 > Universal safety rules for every build in this repo. Read this before you build anything.
 
 ---

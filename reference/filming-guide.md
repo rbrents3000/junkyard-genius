@@ -1,5 +1,9 @@
 # How to Film Your Builds
 
+<p align="center">
+  <img src="../images/reference/filming.jpg" alt="Filming Guide" width="700" />
+</p>
+
 > Your build is only as good as the video you show people. A Tesla coil playing music in a dark garage is a masterpiece. A Tesla coil filmed in portrait mode under fluorescent lights is a blurry mess that gets 12 views.
 
 You've spent hours building something incredible from salvaged junk. Don't let bad footage bury it. This guide covers everything you need to turn your builds into content that performs on TikTok, YouTube, Instagram, and whatever platform rises next. No expensive equipment required — your phone is already the best camera you need.
