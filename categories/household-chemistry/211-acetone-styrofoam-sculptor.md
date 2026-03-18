@@ -43,5 +43,5 @@ The visual effect of styrofoam dissolving in acetone is dramatic on its own — 
 
 ## See Also
 
-- [Density Tower](213-density-tower.md) — another build that exploits liquid-material interactions for visual effect
+- [Density Tower](280-density-tower.md) — another build that exploits liquid-material interactions for visual effect
 - [Electroforming Art](../chemical-electronic/160-electroforming-art.md) — coat your polystyrene sculptures in real copper

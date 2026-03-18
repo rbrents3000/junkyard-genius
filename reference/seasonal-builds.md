@@ -113,7 +113,7 @@ Builds that demonstrate scientific principles and look impressive to judges.
 | **Schlieren Optics** | Refraction, density gradients, airflow visualization. See the invisible. | Advanced | [#172](../categories/light-and-visual/172-schlieren-optics.md) |
 | **Eddy Current Brake** | Lenz's law, electromagnetic induction, braking without friction. Drop a magnet through a copper tube and watch physics slow it down. | Beginner | [#186](../categories/mechanical-and-kinetic/186-eddy-current-brake.md) |
 | **Van de Graaff Generator** | Static electricity, charge accumulation, Faraday cage principles, corona discharge. Hair-raising (literally). | Intermediate | [#197](../categories/weird-science/197-van-de-graaff-generator.md) |
-| **Density Tower** | Fluid density, miscibility, molecular polarity. Layer 7+ liquids in a single container. | Beginner | [#213](../categories/household-chemistry/213-density-tower.md) |
+| **Density Tower** | Fluid density, miscibility, molecular polarity. Layer 7+ liquids in a single container. | Beginner | [#213](../categories/household-chemistry/280-density-tower.md) |
 
 **Science fair tips:**
 - Pick a build with a clear scientific principle you can explain in one sentence.
