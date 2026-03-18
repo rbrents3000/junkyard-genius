@@ -8,8 +8,8 @@ This category covers everything that plays with the electromagnetic spectrum: la
 
 ## Builds
 
-| # | Build | Jaw Drop | Brain Melt | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|-------|----------|------------|---------------|-------------|-----------------|---------------|
+| # | Build | Jaw Drop | Brain Melt | Wallet | Spicy | Clout | Time |
+|---|---|---|---|---|---|---|---|
 | 015 | [Giant Plasma Globe](015-giant-plasma-globe.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
 | 016 | [Infinity Mirror Table](016-infinity-mirror-table.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
 | 017 | [Laser Fog Projector](017-laser-fog-projector.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐ |

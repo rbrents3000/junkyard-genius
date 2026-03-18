@@ -8,8 +8,8 @@ This category covers acoustic and audio projects that exploit physics in unexpec
 
 ## Builds
 
-| # | Build | Jaw Drop | Brain Melt | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|-------|----------|------------|---------------|-------------|-----------------|---------------|
+| # | Build | Jaw Drop | Brain Melt | Wallet | Spicy | Clout | Time |
+|---|---|---|---|---|---|---|---|
 | 008 | [Plasma Speaker](008-plasma-speaker.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
 | 009 | [Rubens' Tube](009-rubens-tube.md) | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
 | 010 | [Ultrasonic Levitator](010-ultrasonic-levitator.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |

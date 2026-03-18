@@ -8,8 +8,8 @@ This category is for projects that demonstrate bizarre, counterintuitive, or dow
 
 ## Builds
 
-| # | Build | Jaw Drop | Brain Melt | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|-------|----------|------------|---------------|-------------|-----------------|---------------|
+| # | Build | Jaw Drop | Brain Melt | Wallet | Spicy | Clout | Time |
+|---|---|---|---|---|---|---|---|
 | 196 | [Kirlian Photography](196-kirlian-photography.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 | 197 | [Van de Graaff Generator](197-van-de-graaff-generator.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 | 198 | [Homopolar Motor](198-homopolar-motor.md) | ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |

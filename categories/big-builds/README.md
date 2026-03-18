@@ -1,6 +1,6 @@
 # Big Builds
 
-> When your project outgrows the workbench and takes over the entire yard.
+> When your project outgrows the workbench, escapes the garage, and takes over the entire yard. Neighbors will have questions.
 
 This category is for builds that demand real space, real time, and real commitment. These are weekend-plus projects that result in something massive, permanent, or airborne. Not for the faint of heart or the small of garage.
 
@@ -8,8 +8,8 @@ This category is for builds that demand real space, real time, and real commitme
 
 ## Builds
 
-| # | Build | Jaw Drop | Brain Melt | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|-------|----------|------------|---------------|-------------|-----------------|---------------|
+| # | Build | Jaw Drop | Brain Melt | Wallet | Spicy | Clout | Time |
+|---|---|---|---|---|---|---|---|
 | 191 | [Backyard Water Slide](191-backyard-water-slide.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
 | 192 | [Weather Balloon Launch](192-weather-balloon-launch.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 | 193 | [Ham Radio from Scratch](193-ham-radio-from-scratch.md) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |

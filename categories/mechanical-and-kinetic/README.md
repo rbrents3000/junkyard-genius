@@ -8,8 +8,8 @@ This category is for builds that move, spin, oscillate, or transfer energy throu
 
 ## Builds
 
-| # | Build | Jaw Drop | Brain Melt | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|-------|----------|------------|---------------|-------------|-----------------|---------------|
+| # | Build | Jaw Drop | Brain Melt | Wallet | Spicy | Clout | Time |
+|---|---|---|---|---|---|---|---|
 | 181 | [Musical Marble Machine](181-musical-marble-machine.md) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | 182 | [Stirling Engine](182-stirling-engine.md) | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
 | 183 | [Hydraulic Robot Arm](183-hydraulic-robot-arm.md) | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
