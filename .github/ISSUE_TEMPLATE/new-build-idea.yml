@@ -1,0 +1,95 @@
+name: "New Build Idea"
+description: "Suggest a new DIY build for the repo"
+title: "[Build Idea] "
+labels: ["new-build"]
+body:
+  - type: input
+    id: build-name
+    attributes:
+      label: Build Name
+      description: "What would you call this build?"
+      placeholder: "e.g., Washing Machine Drum Fire Pit"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: "Which category does this build fit in?"
+      options:
+        - Fire & Plasma
+        - Sound & Music
+        - Light & Visual
+        - Functional Machines
+        - Mad Scientist
+        - Art & Installation
+        - Power & Energy
+        - Computer & Phone Parts
+        - Printer & Scanner
+        - Vacuum Cleaner
+        - Power Tools Remixed
+        - Humidifier & Water
+        - Scooter & Motor
+        - Fridge & Cooling
+        - Pyro & Chemistry
+        - Raspberry Pi & Arduino
+        - Python Projects
+        - Chemical + Electronic
+        - Mechanical & Kinetic
+        - Big Builds
+        - Weird Science
+        - Unholy Combos
+        - Drone Salvage
+        - Household Chemistry
+        - Junkyard Auto
+        - Alchemist Cookbook
+        - Junk Instruments
+        - Wearable Tech
+        - Survival & Off-Grid
+        - Pranks & Party
+        - Kitchen Hacks
+        - Laser Lab
+        - New Category (describe below)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Brain Melt Level (Difficulty)
+      options:
+        - "⭐ Easy peasy"
+        - "⭐⭐ Some googling"
+        - "⭐⭐⭐ Real project"
+        - "⭐⭐⭐⭐ Advanced"
+        - "⭐⭐⭐⭐⭐ PhD energy"
+    validations:
+      required: true
+
+  - type: textarea
+    id: ingredients
+    attributes:
+      label: Key Ingredients / Parts
+      description: "What salvaged parts or materials does this build need?"
+      placeholder: |
+        - Motor from a dead drill
+        - 12V power supply
+        - Scrap wood
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Build Description
+      description: "Describe the build — what it does, why it's cool, any science/engineering behind it"
+    validations:
+      required: true
+
+  - type: textarea
+    id: safety
+    attributes:
+      label: Safety Considerations
+      description: "Any hazards or safety notes?"
+      placeholder: "e.g., Involves high voltage, requires safety glasses, etc."

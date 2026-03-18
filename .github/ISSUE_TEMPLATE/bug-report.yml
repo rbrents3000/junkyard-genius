@@ -1,0 +1,35 @@
+name: "Bug Report / Correction"
+description: "Report broken links, incorrect info, safety concerns, or other issues"
+title: "[Fix] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: "Describe the issue"
+      placeholder: "e.g., Link to build #042 is broken, ingredient list is missing a key component"
+    validations:
+      required: true
+
+  - type: input
+    id: file
+    attributes:
+      label: Which file(s)?
+      description: "Path to the affected file(s)"
+      placeholder: "e.g., categories/mad-scientist/042-grape-plasma.md"
+    validations:
+      required: true
+
+  - type: textarea
+    id: fix
+    attributes:
+      label: What should it say instead?
+      description: "If you know the correct information, include it here"
+
+  - type: checkboxes
+    id: safety-concern
+    attributes:
+      label: Safety
+      options:
+        - label: "This is a safety concern (incorrect safety info, missing warnings, dangerous instructions)"

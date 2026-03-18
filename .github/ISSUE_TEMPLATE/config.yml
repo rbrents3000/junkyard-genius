@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Discussion
+    url: https://github.com/rbrents3000/junkyard-genius/discussions
+    about: "Ask questions, share your builds, or suggest ideas in Discussions"
