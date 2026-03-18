@@ -1,6 +1,6 @@
 # Kitchen Appliance Hacks
 
-> Repurposing kitchen appliances for things they were never intended for.
+> Your toaster oven is a reflow station. Your stand mixer is a pottery wheel. Your kitchen is lying to you about what it can do.
 
 Your kitchen is a graveyard of underestimated machines. That toaster oven has a heating element that can reach soldering temperatures. Your stand mixer has a power take-off port with more torque than most bench tools. The coffee maker is a precision hot water delivery system. The blender is a high-RPM motor with a shaft and bearings. The waffle iron is a clamping heat press.
 
@@ -17,4 +17,3 @@ Every one of these appliances was designed to do one thing. Every one of them ca
 | 262 | [Coffee Maker Distiller](262-coffee-maker-distiller.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
 | 263 | [Blender Centrifuge](263-blender-centrifuge.md) | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
 | 264 | [Waffle Iron Press](264-waffle-iron-press.md) | ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
-| 286 | [Blender Vortex Centrifuge](286-blender-paint-mixer.md) | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
