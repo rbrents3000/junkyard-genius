@@ -4,7 +4,7 @@
 
 ## Checklist
 
-- [ ] Recipe follows the [standard template](CONTRIBUTING.md)
+- [ ] Recipe follows the [standard template](../CONTRIBUTING.md)
 - [ ] All 6 ratings are included and reasonable
 - [ ] Ingredients list includes sources
 - [ ] Build steps are numbered and detailed

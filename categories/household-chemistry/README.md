@@ -31,6 +31,6 @@ The builds in this category exploit the chemistry of these everyday substances �
 | 280 | [Density Tower](280-density-tower.md) | ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
 | 281 | [Vinegar Baking Soda Rocket](281-vinegar-baking-soda-rocket.md) | ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
 | 282 | [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste.md) | ⭐⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
-| 283 | [Sugar Smoke Bombs](283-sugar-smoke-bombs.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
-| 284 | [Copper Plating with Vinegar](284-copper-plating-with-vinegar.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
-| 285 | [Dry Ice Fog Machine](285-dry-ice-fog-machine.md) | ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+| 327 | [Sugar Smoke Bombs](327-sugar-smoke-bombs.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+| 328 | [Copper Plating with Vinegar](328-copper-plating-with-vinegar.md) | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+| 329 | [Dry Ice Fog Machine](329-dry-ice-fog-machine.md) | ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐ |

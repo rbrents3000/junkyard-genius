@@ -1,4 +1,4 @@
-# #283 — Sugar Smoke Bombs
+# #327 — Sugar Smoke Bombs
 
 > Potassium nitrate plus sugar, cooked to caramel, shaped and fused. Light the fuse and watch dense colored smoke pour out for 30-60 seconds. The backyard pyrotechnic classic.
 

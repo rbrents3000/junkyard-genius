@@ -24,7 +24,10 @@ jobs:
           while IFS= read -r file; do
             dir=$(dirname "$file")
 
-            # Extract relative .md links from the file
+            # Strip code blocks before searching for links
+            CLEANED=$(sed '/^```/,/^```/d' "$file")
+
+            # Extract relative .md links from cleaned content
             while IFS= read -r link; do
               # Skip external URLs
               if [[ "$link" == http* ]]; then
@@ -38,12 +41,15 @@ jobs:
                 echo "::error file=$file::Broken link: $link (resolved to $target)"
                 echo "BROKEN" >> "$TMPFILE"
               fi
-            done < <(grep -oP '\[.*?\]\(\K[^)]+\.md(?=\))' "$file" 2>/dev/null)
+            done < <(echo "$CLEANED" | grep -oP '\[.*?\]\(\K[^)]+\.md(?=\))' 2>/dev/null)
           done < <(find . -name "*.md" -not -path "./.git/*")
 
           # Check image references
           while IFS= read -r file; do
             dir=$(dirname "$file")
+
+            # Strip code blocks before searching for image refs
+            CLEANED=$(sed '/^```/,/^```/d' "$file")
 
             while IFS= read -r img; do
               target="$dir/$img"
@@ -51,7 +57,7 @@ jobs:
                 echo "::error file=$file::Missing image: $img (resolved to $target)"
                 echo "BROKEN" >> "$TMPFILE"
               fi
-            done < <(grep -oP 'src="(?!http)\K[^"]+\.(jpg|png|gif|svg)' "$file" 2>/dev/null)
+            done < <(echo "$CLEANED" | grep -oP 'src="(?!http)\K[^"]+\.(jpg|png|gif|svg)' 2>/dev/null)
           done < <(find . -name "*.md" -not -path "./.git/*")
 
           ERRORS=$(wc -l < "$TMPFILE")
