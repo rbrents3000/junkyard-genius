@@ -1,5 +1,9 @@
 # Mechanical & Kinetic
 
+<p align="center">
+  <img src="../../images/categories/mechanical-and-kinetic.jpg" alt="Mechanical & Kinetic" width="700" />
+</p>
+
 > Where scrap metal, magnets, and gravity conspire to create motion from nothing.
 
 This category is for builds that move, spin, oscillate, or transfer energy through purely mechanical or electromagnetic means. No code, no circuits (mostly) — just physics doing its thing with junkyard parts.

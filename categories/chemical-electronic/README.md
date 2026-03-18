@@ -1,5 +1,9 @@
 # Chemical & Electronic
 
+<p align="center">
+  <img src="../../images/categories/chemical-electronic.jpg" alt="Chemical & Electronic" width="700" />
+</p>
+
 > Electrons do chemistry. Chemistry makes electronics. This is the category where your workbench needs both a multimeter and safety goggles.
 
 This is the overlap zone where electrons do chemistry and chemistry makes electronics. Electroplating turns any object into a copper sculpture. Anodizing creates colored aluminum. Ferric chloride etches custom circuit boards. Piezoelectric crystals grown in your kitchen generate electricity when squeezed. Neon gas glows when you run high voltage through it.

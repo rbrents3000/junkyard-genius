@@ -1,5 +1,9 @@
 # Power Tools Remixed
 
+<p align="center">
+  <img src="../../images/categories/power-tools-remixed.jpg" alt="Power Tools Remixed" width="700" />
+</p>
+
 > Every power tool is a motor with an attachment. Change the attachment, change the tool. 10,000 RPM solves a lot of problems.
 
 An angle grinder is a 10,000 RPM motor with a removable disc. A reciprocating saw is a linear actuator making 3,000 strokes per minute. A hand drill is a precision variable-speed rotary motor. A circular saw is a high-torque motor spinning a disc. A router is a 25,000 RPM spindle with a collet. Every one of these tools has hidden second (and third) lives when you rethink what's attached to the business end.

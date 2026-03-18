@@ -1,5 +1,9 @@
 # Computer & Phone Parts
 
+<p align="center">
+  <img src="../../images/categories/computer-and-phone.jpg" alt="Computer & Phone Parts" width="700" />
+</p>
+
 > Dead laptops, cracked phones, and retired desktops are goldmines of precision-engineered components.
 
 Hard drives contain voice coil actuators, precision-polished platters, and rare-earth magnets. Laptops have high-resolution LCD panels, 18650 battery cells, and tiny fans. Old phones pack OLED screens, IR cameras, accelerometers, gyroscopes, and GPS receivers. GPUs and CPUs are works of art at the silicon level. RAM sticks are perfectly machined PCBs.

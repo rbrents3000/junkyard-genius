@@ -1,5 +1,9 @@
 # Humidifier & Water
 
+<p align="center">
+  <img src="../../images/categories/humidifier-and-water.jpg" alt="Humidifier & Water" width="700" />
+</p>
+
 > Ultrasonic transducers vibrate at 1.7 million times per second. At that frequency, water doesn't know if it should be liquid or gas.
 
 Humidifiers contain ultrasonic piezoelectric discs that vibrate water into a fine mist of microscopic droplets — cold fog, no heat required. These same transducers, at higher power, create cavitation bubbles that blast contaminants off surfaces. Trap the mist in a glass container with LEDs and you have a captured nebula. Let it cascade over the edge of a table and you have a fog waterfall. The physics of ultrasonics are endlessly versatile.

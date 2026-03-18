@@ -1,5 +1,9 @@
 # Printer & Scanner
 
+<p align="center">
+  <img src="../../images/categories/printer-and-scanner.jpg" alt="Printer & Scanner" width="700" />
+</p>
+
 > Printers are the most underrated source of precision motion components on the planet.
 
 Inside every dead inkjet or laser printer are stepper motors, precision linear rails, timing belts, optical encoders, and high-resolution sensors. Scanners contain massive linear CCD arrays capable of capturing more detail than most cameras. DVD drives pack tiny stepper-driven laser sleds with micron-level positioning. These components were engineered for exact, repeatable motion — and that makes them perfect for CNC machines, laser engravers, pen plotters, 3D scanners, and even bioprinters.

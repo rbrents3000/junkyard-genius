@@ -1,5 +1,9 @@
 # Alchemist's Cookbook
 
+<p align="center">
+  <img src="../../images/categories/alchemist-cookbook.jpg" alt="Alchemist's Cookbook" width="700" />
+</p>
+
 > Where fireworks meet microwave parts meet chemistry meet car salvage. The most dangerous and spectacular crossover builds in the repo.
 
 This is where categories collide. A microwave oven transformer's capacitor bank charges a coil gun that launches firework shells. A car ignition coil sparks a self-oxidizing fuel that burns underwater. Luminol fog fills a room and glows blue under UV. Thermite hits 4,000 degrees while cold sparks shower out at safe-to-touch temperatures right next to it. Calcium carbide makes acetylene from rocks and water, and a spark plug fires it on a timer.

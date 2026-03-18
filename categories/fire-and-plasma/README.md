@@ -1,5 +1,9 @@
 # Fire & Plasma
 
+<p align="center">
+  <img src="../../images/categories/fire-and-plasma.jpg" alt="Fire & Plasma" width="700" />
+</p>
+
 > Where discarded microwaves and scrap metal become instruments of pure elemental fury.
 
 This category is for builds that produce fire, plasma, molten metal, or things that glow white-hot. Every project here involves serious heat — respect it or it will humble you fast.

@@ -1,5 +1,9 @@
 # Big Builds
 
+<p align="center">
+  <img src="../../images/categories/big-builds.jpg" alt="Big Builds" width="700" />
+</p>
+
 > When your project outgrows the workbench, escapes the garage, and takes over the entire yard. Neighbors will have questions.
 
 This category is for builds that demand real space, real time, and real commitment. These are weekend-plus projects that result in something massive, permanent, or airborne. Not for the faint of heart or the small of garage.

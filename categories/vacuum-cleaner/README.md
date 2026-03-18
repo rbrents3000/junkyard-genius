@@ -1,5 +1,9 @@
 # Vacuum Cleaner
 
+<p align="center">
+  <img src="../../images/categories/vacuum-cleaner.jpg" alt="Vacuum Cleaner" width="700" />
+</p>
+
 > A vacuum cleaner is a high-RPM motor attached to an impeller. That's a jet engine's job description.
 
 Vacuum motors are absurdly powerful for their size — typically 1000-1500 watts, spinning at 20,000-30,000 RPM. They move massive volumes of air. Reverse the airflow direction and you have a hovercraft lift fan. Add suction to a robot and it climbs walls. Channel the exhaust and you have a leaf blower. Add a cyclone separator and your shop vac filter lasts forever.

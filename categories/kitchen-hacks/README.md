@@ -1,5 +1,9 @@
 # Kitchen Appliance Hacks
 
+<p align="center">
+  <img src="../../images/categories/kitchen-hacks.jpg" alt="Kitchen Appliance Hacks" width="700" />
+</p>
+
 > Your toaster oven is a reflow station. Your stand mixer is a pottery wheel. Your kitchen is lying to you about what it can do.
 
 Your kitchen is a graveyard of underestimated machines. That toaster oven has a heating element that can reach soldering temperatures. Your stand mixer has a power take-off port with more torque than most bench tools. The coffee maker is a precision hot water delivery system. The blender is a high-RPM motor with a shaft and bearings. The waffle iron is a clamping heat press.

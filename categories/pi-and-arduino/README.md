@@ -1,5 +1,9 @@
 # Pi & Arduino
 
+<p align="center">
+  <img src="../../images/categories/pi-and-arduino.jpg" alt="Pi & Arduino" width="700" />
+</p>
+
 > Microcontrollers and single-board computers turn junk into smart junk.
 
 A Raspberry Pi is a full Linux computer the size of a credit card. An Arduino is a microcontroller that can read sensors and control motors. An ESP32 is a wireless Arduino with WiFi and Bluetooth built in. Together, these boards are the nervous system you can graft onto anything. Old printers become robot arms. Webcams become security systems. Speakers become DJ controllers. Stepper motors become musical instruments.

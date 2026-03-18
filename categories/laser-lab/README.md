@@ -1,5 +1,9 @@
 # Laser Lab
 
+<p align="center">
+  <img src="../../images/categories/laser-lab.jpg" alt="Laser Lab" width="700" />
+</p>
+
 > Laser builds from salvaged diodes, pointers, and optics.
 
 Lasers used to be the exclusive domain of research labs and James Bond villains. Now they're in every Blu-ray player, barcode scanner, laser pointer, and fiber optic cable on the planet. Which means they're in every junkyard and e-waste bin too. A dead DVD player has a red laser diode. A dead Blu-ray player has a violet one powerful enough to cut tape and etch wood. Barcode scanners have galvanometer mirrors that can steer a beam thousands of times per second.

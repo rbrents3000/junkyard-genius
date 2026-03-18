@@ -1,5 +1,9 @@
 # Pyro & Chemistry
 
+<p align="center">
+  <img src="../../images/categories/pyro-and-chemistry.jpg" alt="Pyro & Chemistry" width="700" />
+</p>
+
 > Fire, foam, crystals, and reactions that make your jaw hit the floor.
 
 Chemistry is the original maker art. Long before 3D printers and microcontrollers, people were mixing powders and watching the universe put on a show. Metal salts turn flames into rainbows. Supersaturated solutions crystallize on command. Hydrogen peroxide becomes a foam volcano. Thermite melts through steel. Every one of these reactions follows the laws of physics — they just happen to look like magic.

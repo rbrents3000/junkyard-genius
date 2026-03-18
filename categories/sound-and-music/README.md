@@ -1,5 +1,9 @@
 # Sound & Music
 
+<p align="center">
+  <img src="../../images/categories/sound-and-music.jpg" alt="Sound & Music" width="700" />
+</p>
+
 > Builds that make noise in ways that shouldn't be possible — speakers made from lightning, fire that dances to bass, and objects floating on invisible waves.
 
 This category covers acoustic and audio projects that exploit physics in unexpected ways. Some produce sound, some visualize it, and some use it to do things that look like magic.

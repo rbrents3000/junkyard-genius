@@ -1,5 +1,9 @@
 # Junkyard Auto
 
+<p align="center">
+  <img src="../../images/categories/junkyard-auto.jpg" alt="Junkyard Auto" width="700" />
+</p>
+
 > Every car in the scrapyard is a parts bin full of precision-engineered components begging for a second life.
 
 Modern cars are rolling electronics labs. An alternator is a three-phase generator capable of 100+ amps. A starter motor delivers brutal torque in a compact package. Ignition coils step up 12V to 40,000V. Window motors are geared DC units with enough force to move a glass pane against gravity. Wiper motors spin slowly and continuously with enormous torque through a worm gear. Seat heaters are flexible resistance elements designed to distribute heat evenly. HID headlight ballasts generate high-voltage AC to ignite xenon gas. And the humble spark plug is the world's most reliable ignition source.

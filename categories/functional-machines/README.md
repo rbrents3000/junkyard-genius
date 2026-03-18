@@ -1,5 +1,9 @@
 # Functional Machines
 
+<p align="center">
+  <img src="../../images/categories/functional-machines.jpg" alt="Functional Machines" width="700" />
+</p>
+
 > Turning junk into machines that actually do real work. No toy builds here — these replace tools you'd otherwise buy.
 
 Scooter motors become lathes. Treadmill motors become belt grinders. Microwave transformers become welders. Fridge compressors become silent air compressors. Every dead appliance contains industrial-grade components that were engineered to run for decades under load. Pull them out, give them a new job, and you've got shop equipment that cost you essentially nothing.

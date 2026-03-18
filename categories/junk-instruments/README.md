@@ -1,5 +1,9 @@
 # Junk Instruments
 
+<p align="center">
+  <img src="../../images/categories/junk-instruments.jpg" alt="Junk Instruments" width="700" />
+</p>
+
 > Playable instruments from PVC, cigar boxes, and whatever was in the recycling bin this morning.
 
 There's a reason "jug band" is a real genre. Humans have been making music out of whatever's lying around since the first caveman banged two rocks together and liked the sound. The difference now is you've got access to dumpsters full of PVC pipe, dead washing machines, and hardware store clearance bins.

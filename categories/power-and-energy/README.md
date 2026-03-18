@@ -1,5 +1,9 @@
 # Power & Energy
 
+<p align="center">
+  <img src="../../images/categories/power-and-energy.jpg" alt="Power & Energy" width="700" />
+</p>
+
 > Generate, store, and harvest energy from sources most people throw away.
 
 Campfire heat becomes USB power through thermoelectric modules. Old bicycles become pedal-powered generators. Scrap pipe and glass become solar water heaters. Hundreds of salvaged 18650 cells become home battery storage that rivals commercial powerwalls at a fraction of the cost.

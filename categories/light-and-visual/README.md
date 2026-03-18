@@ -1,5 +1,9 @@
 # Light & Visual
 
+<p align="center">
+  <img src="../../images/categories/light-and-visual.jpg" alt="Light & Visual" width="700" />
+</p>
+
 > Builds that bend, focus, project, and manipulate light in ways that make people question reality — holograms, lasers, optics, and things that glow.
 
 This category covers everything that plays with the electromagnetic spectrum: lasers, LEDs, lenses, UV, plasma glow, optical illusions, and projection. Some are pure art, some are real science instruments, and some are both.

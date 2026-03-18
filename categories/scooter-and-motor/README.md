@@ -1,5 +1,9 @@
 # Scooter & Motor
 
+<p align="center">
+  <img src="../../images/categories/scooter-and-motor.jpg" alt="Scooter & Motor" width="700" />
+</p>
+
 > Every dead scooter motor is a brushless beast waiting to power something wilder than a sidewalk ride.
 
 Dead electric scooters, hoverboards, and e-bikes contain some of the most useful motors you'll ever salvage: brushless DC motors with built-in hall effect sensors, designed to deliver smooth torque at variable speeds. Paired with ESCs (electronic speed controllers), they power everything from skateboards to camera sliders to winches. And here's the physics bonus: every motor is also a generator. Spin the shaft with wind, water, or pedal power and it produces electricity. A $200 scooter's motor alone is worth the salvage.

@@ -1,5 +1,9 @@
 # Household Chemistry
 
+<p align="center">
+  <img src="../../images/categories/household-chemistry.jpg" alt="Household Chemistry" width="700" />
+</p>
+
 > Everything under the kitchen sink is an ingredient — bleach, vinegar, baking soda, rubbing alcohol, acetone, hand sanitizer, dish soap, and pool shock are all you need.
 
 You don't need a lab supply catalog to do chemistry. The cleaning aisle at the grocery store is a chemistry set hiding in plain sight. Isopropyl alcohol is a flammable solvent and fuel. Baking soda is sodium bicarbonate — a base that reacts violently with acids to produce CO2. White vinegar is dilute acetic acid. Bleach is sodium hypochlorite, one of the strongest oxidizers you can buy without a license. Acetone dissolves plastics on contact. Pool shock (calcium hypochlorite) is concentrated bleach in granular form. Hand sanitizer is ethanol or isopropyl gel that burns with an almost invisible blue flame.

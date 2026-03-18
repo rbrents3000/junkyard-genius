@@ -1,5 +1,9 @@
 # Art & Installation
 
+<p align="center">
+  <img src="../../images/categories/art-and-installation.jpg" alt="Art & Installation" width="700" />
+</p>
+
 > Turning dumpster finds into gallery pieces that make people forget the parts came from a curb.
 
 Kinetic sculptures that dance in the wind. Fountains that freeze water in mid-air. Ferrofluid that morphs like a living creature behind glass. Planetariums built from dryer drums. CRT televisions turned into abstract light shows. Welded sculptures from the guts of dead appliances.

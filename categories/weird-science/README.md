@@ -1,5 +1,9 @@
 # Weird Science
 
+<p align="center">
+  <img src="../../images/categories/weird-science.jpg" alt="Weird Science" width="700" />
+</p>
+
 > The builds that make people ask "wait, is that even legal?" (It is. Probably.)
 
 This category is for projects that demonstrate bizarre, counterintuitive, or downright spooky physics. The kind of stuff that looks like movie magic but is actually just electromagnetics, optics, and thermodynamics being their weird selves.

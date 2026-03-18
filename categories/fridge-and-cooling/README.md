@@ -1,5 +1,9 @@
 # Fridge & Cooling
 
+<p align="center">
+  <img src="../../images/categories/fridge-and-cooling.jpg" alt="Fridge & Cooling" width="700" />
+</p>
+
 > A fridge compressor is a heat pump. It moves thermal energy from one place to another. Where you put the cold side and the hot side is entirely up to you.
 
 Refrigerator compressors are robust, sealed, and designed to run continuously for decades. They pump refrigerant through a cycle of compression and expansion that moves heat against its natural gradient — making one side cold and the other hot. This is the same thermodynamic cycle that powers air conditioners, freeze dryers, fog chillers, and even absorption coolers (which run on heat instead of electricity). A dead fridge's compressor, heat exchangers, and temperature controllers are the building blocks of precision thermal control.

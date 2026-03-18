@@ -1,5 +1,9 @@
 # Wearable Tech
 
+<p align="center">
+  <img src="../../images/categories/wearable-tech.jpg" alt="Wearable Tech" width="700" />
+</p>
+
 > Turn old clothes and cheap electronics into cyberpunk wearables.
 
 The wearable tech industry sells you a $400 smartwatch that does what your phone already does, but smaller and worse. Meanwhile, you can build gear that actually turns heads — sound-reactive jackets, heads-up display glasses, gesture-controlled MIDI gloves — for the cost of a few microcontrollers and some sewing.
