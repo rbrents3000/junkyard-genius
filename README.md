@@ -202,6 +202,7 @@ Before you start ripping apart appliances, read these. Seriously. The teardown g
 | [Filming Guide](reference/filming-guide.md) | How to film your builds for TikTok/YouTube |
 | [Seasonal Builds](reference/seasonal-builds.md) | Builds organized by holiday — Halloween, 4th of July, Christmas, summer |
 | [Ingredient Index](reference/ingredient-index.md) | Reverse lookup — every component mapped to every build that uses it |
+| [Difficulty & Ratings Guide](reference/difficulty-guide.md) | The 6-scale rating system explained — what each star level means, required safety gear per danger tier |
 | [Glossary](reference/glossary.md) | 60+ technical terms decoded — MOT, flyback, thermite, Peltier, and every acronym in the repo |
 
 ---

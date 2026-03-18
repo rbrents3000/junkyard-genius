@@ -236,6 +236,40 @@ flowchart LR
 
 ---
 
+## Fabrication & Metalworking Path
+
+**Theme:** Progression from hand tools to a full machine shop, built entirely from salvage.
+
+```mermaid
+flowchart LR
+    A["Hand Tools"] --> B["#080 Hand Drill Press"] --> C["#026 Belt Grinder"] --> D["#027 Spot Welder"] --> E["#005 Desktop Foundry"] --> F["#082 Table Saw"] --> G["#219 Alternator Welder"] --> H["#025 Scooter Motor Lathe"] --> I["#069 Printer Stepper CNC"]
+    style A fill:#22c55e,color:#000
+    style B fill:#22c55e,color:#000
+    style C fill:#22c55e,color:#000
+    style D fill:#eab308,color:#000
+    style E fill:#eab308,color:#000
+    style F fill:#eab308,color:#000
+    style G fill:#ef4444,color:#fff
+    style H fill:#ef4444,color:#fff
+    style I fill:#7c3aed,color:#fff
+```
+
+| Stage | Build | What You Learn | Link |
+|---|---|---|---|
+| 1. Beginner | **Hand Tools Only** | Basic cuts, bends, filing, drilling by hand. Every fabrication skill starts here — learning to work metal with nothing but muscle and simple tools teaches you patience, precision, and respect for the material. | — |
+| 2. Beginner | **Hand Drill Press** | Precision drilling, jig construction. A hand drill locked into a salvaged frame gives you repeatable hole placement — the foundation of every assembly that needs things to actually line up. | [#080](../categories/power-tools-remixed/080-hand-drill-press.md) |
+| 3. Beginner | **Treadmill Belt Grinder** | Metal shaping, grinding, sharpening. A treadmill motor drives a sanding belt at variable speed — now you can shape, deburr, and sharpen anything. Teaches motor repurposing and belt tracking. | [#026](../categories/functional-machines/026-treadmill-belt-grinder.md) |
+| 4. Intermediate | **Spot Welder** | Electrical joining, MOT rewinding. Two microwave oven transformers rewound for high-current, low-voltage output create a welder that joins sheet metal in milliseconds. Teaches transformer theory and high-current safety. | [#027](../categories/functional-machines/027-spot-welder.md) |
+| 5. Intermediate | **Desktop Foundry** | Melting and casting metal. A propane or charcoal-fired crucible furnace that melts aluminum cans into castable ingots. Teaches refractory construction, metallurgy basics, and sand casting. | [#005](../categories/fire-and-plasma/005-desktop-foundry.md) |
+| 6. Intermediate | **Circular Saw Table Saw** | Sheet material processing. A circular saw flipped and mounted into a table becomes a precision rip-cut machine. Teaches fence alignment, blade guard safety, and dimensional accuracy. | [#082](../categories/power-tools-remixed/082-circular-saw-table-saw.md) |
+| 7. Advanced | **Alternator Welder** | Arc welding from a salvaged alternator. A car alternator rewound for welding output, driven by a gas engine or large motor. Teaches alternator internals, rectification, and arc welding technique. | [#219](../categories/junkyard-auto/219-alternator-welder.md) |
+| 8. Advanced | **Scooter Motor Lathe** | Precision turning of cylindrical parts. A scooter or treadmill motor converted into a metal-turning lathe with a tool post and cross-slide. Teaches lathe operation, concentricity, and the mother of all machine tools. | [#025](../categories/functional-machines/025-scooter-motor-lathe.md) |
+| 9. Endgame | **Printer Stepper CNC** | Computer-controlled fabrication. Stepper motors from old printers drive a 3-axis CNC machine that cuts, drills, and engraves under G-code control. Teaches CNC programming, stepper driver electronics, and the bridge from manual to digital fabrication. | [#069](../categories/printer-and-scanner/069-printer-stepper-cnc.md) |
+
+**Side quests:** [#081 Sawzall Power Hammer](../categories/power-tools-remixed/081-sawzall-power-hammer.md), [#028 Powder Coating Oven](../categories/functional-machines/028-powder-coating-oven.md), [#029 Vacuum Former](../categories/functional-machines/029-vacuum-former.md), [#031 Silent Compressor](../categories/functional-machines/031-silent-compressor.md)
+
+---
+
 ## Cross-Path Builds
 
 The best projects live at the intersection of multiple skill trees. Once you're at stage 3-4 in two paths, you're ready for these combo builds:
