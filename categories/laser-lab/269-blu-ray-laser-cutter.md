@@ -1,6 +1,6 @@
 # #269 — Blu-Ray Laser Cutter
 
-> A dead PS3 contains a laser diode that can cut and etch. A dead printer contains a CNC frame. Put them together and try not to giggle.
+> A dead PS3 contains a laser diode that cuts and etches. A dead printer contains a CNC frame. Put them together.
 
 ## Ratings
 
@@ -10,53 +10,57 @@
 
 ## What Is It?
 
-Blu-ray players and game consoles (PS3, PS4, Xbox One) contain 405nm violet laser diodes rated at 100–250mW. That's enough power to etch wood, cut thin dark materials, engrave leather, burn patterns into cork, and mark anodized aluminum. It's not going to slice through steel plate — you'd need a CO2 laser several hundred times more powerful for that — but for fine detail work on organic and dark-colored materials, a Blu-ray diode punches well above its weight class.
+Blu-ray players and game consoles (PS3, PS4, Xbox One) contain 405nm violet laser diodes rated at 100-250mW. That is enough power to etch wood, cut thin dark materials, engrave leather, burn patterns into cork, and mark anodized aluminum. It will not slice through steel plate — you would need a CO2 laser several hundred times more powerful for that — but for fine detail work on organic and dark-colored materials, a Blu-ray diode punches well above its weight class.
 
-The laser diode alone is just a focused dot of destruction. To make it useful, you need to move it in precise patterns across a workpiece. That's where the CNC frame from [#069 — Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md) comes in. Mount the Blu-ray diode on the Z-axis of a stepper-motor CNC frame, focus the beam to its tightest point at the workpiece surface, and feed it G-code toolpaths. The Arduino running GRBL firmware doesn't know or care that the "tool" is a laser instead of a router bit — it just moves the head along the programmed path while the laser burns the material underneath.
+The laser diode alone is just a focused dot of destruction. To make it useful, you need to move it in precise patterns across a workpiece. That is where a CNC frame built from printer stepper motors comes in. Mount the Blu-ray diode on the toolhead of a stepper-motor CNC frame, focus the beam to its tightest point at the workpiece surface, and feed it G-code toolpaths. The Arduino running GRBL firmware does not know or care that the "tool" is a laser instead of a router bit — it just moves the head along the programmed path while the laser burns the material underneath.
 
-The result is a legitimate laser engraver/cutter built from a dead gaming console and dead printers. It'll engrave detailed images onto wood, cut thin craft foam, etch designs into leather wallets, and burn patterns into dark paper. The resolution is limited only by your CNC frame's accuracy and the laser's focal spot size — typically 0.1–0.2mm, which is plenty for detailed work.
+The result is a legitimate laser engraver/cutter built entirely from salvaged electronics. It will engrave detailed images onto wood, cut thin craft foam, etch designs into leather wallets, and burn patterns into dark paper. The resolution depends on your CNC frame accuracy and the laser focal spot size — typically 0.1-0.2mm, which is plenty for detailed artwork, text, and even photographs converted to raster engravings.
 
 ## Ingredients
 
-- [ ] Blu-ray laser diode — salvaged from dead PS3, PS4, or Blu-ray player *(e-waste bin, free–$5)*
-- [ ] Laser driver board — constant-current driver, adjustable (LM317-based or dedicated laser driver module) *(electronics supplier, $3–5)*
-- [ ] Focusing lens — glass or plastic, from the Blu-ray drive's optical assembly *(salvaged with the diode, free)*
-- [ ] Lens holder/heatsink — aluminum block or copper mount for the diode *(hardware store, e-waste, $2–5)*
-- [ ] CNC frame — from [#069 Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md) or equivalent XY gantry *(already built, or $15–25 in parts)*
-- [ ] Arduino with CNC shield — running GRBL firmware *(from CNC build)*
-- [ ] 12V power supply — for steppers + laser driver *(old laptop charger, free)*
-- [ ] Laser safety goggles — rated for 405nm (OD4+) *(online, $10–20)*
-- [ ] Scrap wood, leather, cork, dark paper — test materials *(craft store, free–$5)*
-- [ ] Small fan — for smoke extraction at the cutting point *(salvaged PC fan, free)*
+- [ ] Blu-ray laser diode — salvaged from dead PS3, PS4, Xbox One, or standalone Blu-ray player *(e-waste bin, free-$5)*
+- [ ] Laser driver board — constant-current driver, adjustable output (LM317-based or dedicated laser driver module) *(electronics supplier, $3-5)*
+- [ ] Focusing lens — glass or acrylic, from the Blu-ray drive optical assembly *(salvaged with the diode, free)*
+- [ ] Lens holder/heatsink — aluminum block or copper mount for the diode with thermal management *(hardware store, e-waste, $2-5)*
+- [ ] CNC frame — XY gantry from printer stepper motors and rails, or any equivalent 2-axis motion platform *(already built from salvaged printers, or $15-25 in parts)*
+- [ ] Arduino with CNC shield — running GRBL firmware for G-code interpretation *(from CNC build, or $8-12 new)*
+- [ ] 12V power supply — 3A+ for steppers and laser driver *(old laptop charger, free)*
+- [ ] Laser safety goggles — rated for 405nm with OD4+ attenuation *(online, $10-20 — not optional)*
+- [ ] Scrap wood, leather, cork, dark paper, craft foam — test materials *(craft store, free-$5)*
+- [ ] Small fan — for smoke extraction at the cutting point *(salvaged PC case fan, free)*
+- [ ] Thermal paste — for diode-to-heatsink contact *(electronics supplier, $2)*
 
 ## Build Steps
 
-1. **Extract the laser diode.** Open the dead Blu-ray drive or console. Locate the optical pickup assembly — it's the small sled that rides on rails inside the drive. The laser diode is a tiny metal can (usually 5.6mm diameter) press-fit into the assembly. Carefully remove it without bending the pins. There are usually two diodes — the Blu-ray diode (405nm violet) is the one you want. Handle by the case, not the pins. Static discharge kills laser diodes instantly, so ground yourself first.
+1. **Extract the laser diode.** Open the dead Blu-ray drive or console. Locate the optical pickup assembly — the small sled that rides on rails inside the drive mechanism. The laser diode is a tiny metal can (usually 5.6mm diameter, sometimes 9mm) press-fit into the assembly. Carefully remove it without bending the three pins. There are often two diodes in a Blu-ray pickup — the Blu-ray diode (405nm, violet) and a CD/DVD diode (650/780nm, red). The violet one is the more powerful cutter. Handle by the metal case, never the pins. Ground yourself before touching it — static discharge destroys laser diodes instantly. An anti-static wrist strap is cheap insurance.
 
-2. **Build or buy the driver circuit.** Laser diodes cannot be driven directly from a power supply — they need constant-current regulation or they burn out in milliseconds. Use a dedicated laser driver module (search "laser diode driver board") or build one from an LM317 regulator configured as a constant-current source. Set the current to the diode's rated operating current (typically 200–400mA for Blu-ray diodes — check the datasheet for your specific model). Start at low current and increase gradually while monitoring output power.
+2. **Build or buy the driver circuit.** Laser diodes cannot be powered directly from a voltage source — they have a sharp threshold where current goes from zero to destructive within millivolts. They need constant-current regulation. Use a dedicated laser driver module (search for "laser diode driver board" or "constant current laser driver") or build one from an LM317 regulator configured as a constant-current source with a sense resistor. Set the current to the diode rated operating current (typically 200-400mA for Blu-ray diodes). Start at 50% of rated current and increase gradually while observing the output beam. Exceeding rated current kills the diode permanently.
 
-3. **Mount the diode in a heatsink.** Press-fit or glue the laser diode into an aluminum or copper block that acts as both a heatsink and a mount. The diode generates significant waste heat at full power — without a heatsink, it'll overheat and die within minutes. A small aluminum block with a drilled hole that friction-fits the 5.6mm diode case works perfectly. Add thermal paste for better heat transfer.
+3. **Mount the diode in a heatsink.** Press-fit or thermal-epoxy the laser diode into an aluminum or copper block that acts as both a heatsink and a physical mount. Apply a thin layer of thermal paste between the diode case and the heatsink bore for maximum heat transfer. The diode generates significant waste heat at full power — without adequate heatsinking, it overheats and degrades within minutes. A 1-inch aluminum cube with a drilled bore that friction-fits the 5.6mm diode case works well. Larger heatsinks allow longer continuous operation.
 
-4. **Install the focusing lens.** The diode emits a diverging beam. You need a lens to focus it to a tight point at the workpiece surface. The focusing lens from the Blu-ray drive's optical assembly works — it's already matched to the wavelength. Mount it in a tube or holder in front of the diode at the correct focal distance (usually 5–15mm, adjust by sliding until the spot on a test surface is smallest). A focused Blu-ray diode produces a spot under 0.2mm — that's your cutting/engraving resolution.
+4. **Install the focusing lens.** The bare diode emits a wide, diverging beam. You need a lens to focus it to a tight point at the workpiece surface. The focusing lens from the Blu-ray drive optical assembly is ideal — it is already designed for the 405nm wavelength and has a short focal length that produces a very small spot. Mount it in a small tube (pen barrel, aluminum tube) in front of the diode. The focal distance is typically 5-15mm. Adjust by sliding the lens in the tube until the spot on a dark test surface is as small and sharp as possible. A properly focused Blu-ray diode produces a spot under 0.2mm in diameter.
 
-5. **Mount the laser on the CNC Z-axis.** Attach the heatsink/diode/lens assembly to the Z-axis carriage of your CNC frame in place of (or alongside) the rotary tool. The laser focal point should be at the workpiece surface when the Z-axis is at its working height. You don't need Z-axis movement during operation — the laser focus distance is fixed. But Z adjustment lets you fine-tune focus for different material thicknesses.
+5. **Mount the laser assembly on the CNC toolhead.** Attach the heatsink/diode/lens assembly to the Z-axis carriage of your CNC frame in place of (or alongside) the rotary tool. The laser focal point should coincide with the workpiece surface when the Z-axis is at its working height. Z-axis movement is not needed during laser operation (the focus distance is fixed), but Z adjustment lets you fine-tune focus for different material thicknesses. Secure the assembly firmly — any vibration or looseness translates to jagged engravings.
 
-6. **Wire laser control to the CNC shield.** Connect the laser driver's enable/TTL input to the spindle PWM output on the CNC shield. This lets GRBL control laser power: M3 S255 = full power, M3 S128 = half power, M5 = off. In GRBL settings, enable laser mode ($32=1) so the laser turns off during rapid traverse moves and only fires during cutting moves.
+6. **Wire laser control to the CNC shield.** Connect the laser driver enable/TTL input to the spindle PWM output on the CNC shield. This lets GRBL control laser power proportionally: M3 S255 = full power, M3 S128 = half power, M3 S0 or M5 = off. In GRBL settings, enable laser mode ($32=1). In laser mode, the laser automatically turns off during rapid (non-cutting) moves and only fires during feed (cutting) moves. Without laser mode enabled, the laser stays on during rapids, burning unwanted marks during repositioning.
 
-7. **Set up ventilation.** Mount a small PC fan near the cutting area to blow smoke away from the lens and extract fumes. Burning wood and leather produce smoke that deposits on the lens if not ventilated, degrading beam quality. Point the fan so it blows across the surface, not directly at the lens. Add a duct to exhaust fumes out a window if working in an enclosed space.
+7. **Set up ventilation and fume extraction.** Mount a small PC fan near the cutting area to blow smoke away from the lens and extract fumes from the work area. Burning wood and leather produce visible smoke that deposits soot on the focusing lens if not cleared, degrading beam quality and reducing cutting power within minutes. Point the fan so it blows across the workpiece surface laterally, not directly at the lens. For enclosed workspace setups, add flexible ductwork to route fumes out a window.
 
-8. **Test on scrap materials.** Start with dark paper — it absorbs 405nm light well and burns easily. Generate a simple test pattern (a square, circle, or text) as G-code. Run at low feed rate (100–200mm/min) and full power. The laser should leave a visible burn line. Adjust feed rate and power until you get clean, consistent marks. Lighter materials may need slower feed rates or multiple passes.
+8. **Safety setup before first cut.** Put on your 405nm laser safety goggles. Verify they are the correct wavelength rating — goggles for other wavelengths (like 532nm green) will not protect against 405nm. Close or cover nearby windows to prevent the beam from escaping the workspace. Remove reflective objects (mirrors, shiny metal, glossy surfaces) from the work area — specular reflections of a 200mW beam are just as dangerous as the direct beam. Keep a fire extinguisher within reach. Clear all flammable materials from the cut zone except the intended workpiece.
 
-9. **Engrave and cut real projects.** Once calibrated, engrave images onto wood (convert images to grayscale G-code with software like LaserGRBL or LightBurn). Etch designs into leather. Cut thin dark craft foam or paper. For cutting through material, use multiple passes at low speed rather than one slow pass — less charring, cleaner edges. Build a portfolio of test results for different materials and settings.
+9. **Test on scrap materials.** Start with dark paper — it absorbs 405nm light efficiently and burns at low power. Generate a simple test pattern (square, circle, text) as G-code using free software like LaserGRBL or Inkscape with a G-code plugin. Run at low feed rate (100-200mm/min) and full power. The laser should leave a clean, visible burn line. If the line is faint, reduce feed rate. If it is charred and wide, increase feed rate or reduce power. Build a reference chart of optimal speed/power combinations for each material you plan to use.
+
+10. **Engrave and cut real projects.** Convert images to raster G-code with LaserGRBL or LightBurn software. Etch designs into leather belts and wallets. Engrave photos onto light-colored wood (birch and maple work well). Cut thin dark craft foam and cardstock. For through-cuts on thicker material, use multiple passes at moderate speed rather than one very slow pass — this produces cleaner edges with less charring. Dark materials absorb more 405nm light and cut more readily than light-colored ones.
 
 ## Safety Notes
 
-- **405nm laser light is dangerous to eyes.** Wear laser safety goggles rated for 405nm (OD4 or higher) whenever the laser is powered. The beam and its reflections from shiny surfaces can cause permanent retinal damage before you can blink. This is not optional — a focused 200mW laser is not a toy.
-- The laser burns material by design — it can also burn skin, clothing, and anything else in the beam path. Never leave the cutter running unattended. Keep a fire extinguisher nearby. Clear the area of flammable materials not being intentionally cut.
-- Burning wood, leather, and plastics produces toxic fumes. Always operate with ventilation. Never cut PVC, vinyl, or chlorine-containing materials — they release chlorine gas, which is poisonous.
-- The diode can be damaged by static discharge. Handle it with anti-static precautions, and keep the driver circuit well-regulated. Current spikes kill laser diodes.
+- **405nm laser light is genuinely dangerous to eyes.** Wear laser safety goggles rated for 405nm (OD4 or higher) whenever the laser is powered, even if it is not actively cutting. The beam and its reflections from any shiny surface can cause permanent retinal damage faster than the blink reflex. This is the single most important safety requirement for this build.
+- The laser burns materials by design — it will also burn skin, clothing, paper, and anything else in the beam path. Never reach into the cut area while the laser is powered. Never leave the cutter running unattended. Keep a fire extinguisher or bucket of water within arm's reach.
+- Burning wood, leather, and plastics produces irritating and potentially toxic fumes. Always operate with active ventilation. Never cut PVC, vinyl, or any chlorine-containing material — these release chlorine gas, which is acutely toxic. Acrylic (PMMA) and ABS also produce unpleasant fumes and should only be cut with strong exhaust ventilation.
+- The laser diode is extremely sensitive to static electricity and current spikes. Handle with anti-static precautions at all times. Ensure the driver circuit provides clean, regulated constant current with no transients.
 
 ## See Also
 
-- [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md)
 - [Laser Scanning Microscope](270-laser-microscope.md)
+- [Galvanometer Laser Light Show](266-laser-galvo-show.md)
+- [Toaster Reflow Oven](../kitchen-hacks/260-toaster-reflow-oven.md)
