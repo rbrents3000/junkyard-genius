@@ -14,10 +14,34 @@ For where to find these ingredients for free or cheap, see the [Sourcing Guide](
 
 ## How to Use This Index
 
-1. Find your ingredient in the table below (alphabetical order)
-2. Check the "Builds" column for every project that uses it
+1. **By category** — Jump to a group below to browse what's available
+2. **By name** — Scroll to the [Master Table](#master-ingredient-table) (alphabetical)
 3. Click through to the build that interests you most
 4. Check that build's full ingredient list to see what else you need
+
+---
+
+## Browse by Category
+
+### ⚡ Salvaged Electronics
+Motors, transformers, sensors, displays, and the guts of dead appliances.
+
+> 18650 Cells · Accelerometer · Alternator · Brushless DC Motor · Capacitors · Compressor · CRT Glass · Deflection Yoke · ESP32 · Flex Sensors · Flyback Transformer · Galvanometer Mirrors · Gyroscope/IMU · Hall Effect Sensor · Hard Drive · Ignition Coil · Laser Diode · LCD Panel · LED Strip · Linear Rail · Microphone · MOSFET · MOT · Neodymium Magnets · OLED Display · Peltier Module · Photocells · Piezo Elements · PIR Sensor · Relay Module · Scanner CCD · Servo Motor · Solenoid · Spark Plug · Speaker · Starter Motor · Stepper Motor · Thermocouple · Timing Belt · Transformer · Ultrasonic Transducer · UV LEDs · Vacuum Cleaner Motor · Vacuum Tubes · Voice Coil · Webcam · Window Motor · Wiper Motor
+
+### 🧪 Chemicals & Materials
+Powders, liquids, crystals, and compounds that react, glow, burn, or crystallize.
+
+> Bismuth · Calcium Carbide · Copper Sulfate · Dry Ice · Epoxy Resin · Ferric Chloride · Ferrofluid · Fluorescein · Gallium · Glow Powder · Hydrogen Peroxide · Iron Oxide · KNO3 · Luminol · Non-Newtonian Fluid · Potassium Permanganate · Propane · Resin · Sodium Acetate · Sodium Silicate · Thermochromic Pigment · Titanium Powder
+
+### 🔧 Structural & Mechanical
+Raw materials, tubing, wire, and mechanical components for frames and assemblies.
+
+> Aluminum · Copper Tubing · Fiber Optic Strands · Heating Element / Nichrome Wire
+
+### 💻 Platforms & Modules
+Microcontrollers, computers, and development boards — the brains of the builds.
+
+> Arduino · ESP32 · Raspberry Pi
 
 ---
 
