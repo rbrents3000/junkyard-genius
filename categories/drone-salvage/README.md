@@ -1,6 +1,6 @@
 # Drone Salvage
 
-> A crashed drone is a parts goldmine — gimbal motors, cameras, LiPo packs, ESCs, flight controllers, and precision sensors waiting for a second life.
+> A $500 drone took a nosedive. You just scored $500 worth of precision motors, cameras, and sensors for free.
 
 Consumer drones pack an absurd amount of engineering into a small package. A dead DJI Phantom or Mavic that took a nosedive into a lake contains brushless gimbal motors with sub-degree precision, 4K cameras with stabilized optics, lithium polymer batteries with serious energy density, electronic speed controllers tuned for instant response, IMUs with accelerometers and gyroscopes, barometric altimeters, GPS modules, ultrasonic and infrared obstacle sensors, and flight controllers running sophisticated PID loops. All of this was designed to work together in a 500-gram airframe. When the airframe breaks, every one of those components is still perfectly usable for ground-based builds.
 

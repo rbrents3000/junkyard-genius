@@ -1,6 +1,6 @@
 # Pranks & Party Tricks
 
-> Builds designed to confuse, amaze, and terrify your friends.
+> Your friends will never trust a doorway, chair, or pen in your house again.
 
 Some builds solve problems. These builds create them — specifically, the problem of your friends not being able to trust any surface, object, or doorway in your house ever again. A table that whispers. A hallway that screams. A pen that bites. A camera that roasts you. A bottle that pours upward. An object that floats in mid-air for no apparent reason.
 

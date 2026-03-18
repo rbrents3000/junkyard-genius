@@ -1,6 +1,6 @@
 # Survival & Off-Grid
 
-> Builds for when the grid goes down or you're miles from civilization.
+> The grid is down, the water's off, and you're 40 miles from a Walmart. These builds are why you're fine.
 
 The power's out. The water's off. The cell towers are dead. Now what? These builds answer that question with nothing but junk, ingenuity, and a refusal to be helpless. A pit in the ground becomes a water distiller. A sealed drum full of compost becomes a gas stove. Stacked buckets become a water treatment plant. A salvaged motor becomes a phone charger.
 

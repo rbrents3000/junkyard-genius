@@ -1,6 +1,6 @@
 # Art & Installation
 
-> Junk transformed into things people actually want to look at, interact with, and photograph.
+> Turning dumpster finds into gallery pieces that make people forget the parts came from a curb.
 
 Kinetic sculptures that dance in the wind. Fountains that freeze water in mid-air. Ferrofluid that morphs like a living creature behind glass. Planetariums built from dryer drums. CRT televisions turned into abstract light shows. Welded sculptures from the guts of dead appliances.
 

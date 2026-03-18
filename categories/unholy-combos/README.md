@@ -1,6 +1,6 @@
 # Unholy Combos
 
-> Builds that combine multiple techniques into something that shouldn't exist but absolutely does.
+> Two categories walk into a workshop. Something beautiful and terrifying walks out.
 
 These are the boss fights. Each one takes two or more builds from other categories and smashes them together into something that makes people question reality. A ferrofluid tornado that dances to music. A cloud chamber inside a vacuum with plasma. A magnetically levitating plasma arc that plays audio.
 
