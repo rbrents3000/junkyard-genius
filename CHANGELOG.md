@@ -4,6 +4,22 @@ All notable milestones for this project are documented here.
 
 ---
 
+## Phase 6 — Crown Jewels & Missing Classics (March 2026)
+
+- **15 new builds** across 9 categories → 326 total builds
+  - Art & Installation: 6 → 8 (kinetic sand table, Chladni plate sand visualizer)
+  - Fire & Plasma: 7 → 8 (2D pyro board — Rubens' Square)
+  - Sound & Music: 7 → 8 (Tesla coil guitar amp)
+  - Mechanical & Kinetic: 10 → 11 (pendulum wave machine)
+  - Survival & Off-Grid: 6 → 8 (crystal radio, Faraday flashlight)
+  - Pranks & Party: 6 → 8 (vortex smoke ring cannon, confetti cannon controller)
+  - Wearable Tech: 6 → 8 (DIY EEG headband, LED matrix backpack)
+  - Printer & Scanner: 6 → 8 (scanner light painting, thermal printer art station)
+  - Vacuum Cleaner: 6 → 8 (benchtop wind tunnel, air hockey table)
+- Crown jewel featured build: #312 Kinetic Sand Table (restaurant-worthy CNC sand art from dead printers)
+- Suggested build order and cross-category links added to all 9 expanded categories
+- No category below 7 builds remaining
+
 ## Phase 5 — Category Depth Pass (March 2026)
 
 - **12 new builds** across 4 categories → 311 total builds
