@@ -1,6 +1,6 @@
-# #246 — Motion Capture Glove
+# #246 — Motion Capture MIDI Glove
 
-> Flex sensors, an IMU, and an ESP32 on your hand — play invisible instruments with finger gestures.
+> Flex sensors on each finger, an MPU6050 on the wrist, and an ESP32 brain. Bend your fingers to play notes, tilt your wrist for pitch bend. Air guitar is finally real.
 
 ## Ratings
 
@@ -10,52 +10,53 @@
 
 ## What Is It?
 
-A glove fitted with flex sensors on each finger and an IMU (inertial measurement unit) on the back of the hand, connected to an ESP32 that translates hand gestures into MIDI signals. Curl your fingers to play piano notes. Tilt your hand to bend pitch. Make a fist to trigger a drum hit. You're playing invisible instruments with your bare hands.
+Imagine playing a synthesizer with nothing but hand gestures. No keyboard, no pads, no strings — just your fingers bending in the air. Each finger controls a different note or parameter. Curl your index finger and a bass note sounds. Straighten your pinky and a hi-hat triggers. Tilt your whole wrist left and the pitch bends down. Roll it right and a filter opens up. This is a motion capture MIDI glove, and it turns your hand into a musical instrument that would make a theremin jealous.
 
-Flex sensors are variable resistors that change resistance as they bend — straight is one value, fully curled is another. By reading each finger's bend angle through the ESP32's analog inputs, you know exactly what your hand is doing. The IMU (accelerometer + gyroscope) adds hand tilt, rotation, and acceleration data. Map all of this to MIDI control messages and you've got a gestural instrument controller that rivals commercial products costing $200-$500.
+The sensing is done by two types of components working together. Flex sensors — thin resistive strips that change resistance when bent — are mounted along the back of each finger. When you curl a finger, the flex sensor bends, its resistance changes, and the ESP32 reads that change on an analog input. The MPU6050 is a 6-axis inertial measurement unit (accelerometer + gyroscope) mounted on the back of the hand that tracks wrist orientation — pitch, roll, and yaw. Together, five flex sensors and one IMU give you 8+ continuous control axes from a single hand. That’s more real-time expressiveness than most hardware MIDI controllers.
 
-The applications go beyond music. The same glove can control robotic hands, drive 3D model animations, navigate VR environments, or serve as an accessibility input device. But the most immediately impressive demo is plugging it into a synthesizer and playing music by waving your hands in the air.
+The ESP32 reads all the sensors, maps them to MIDI messages, and sends those messages over USB or Bluetooth to a computer running any DAW (Ableton, FL Studio, Logic, GarageBand). In the DAW, you map the incoming MIDI CC messages to whatever parameters you want: notes, volume, filter cutoff, reverb depth, sample triggers. The mapping is entirely up to you. The glove is the interface; the software is the instrument. Together they’re a performance tool that looks like magic to anyone watching.
 
 ## Ingredients
 
-- [ ] Thin, tight-fitting glove — cycling glove, batting glove, or thin work glove *(source: closet or dollar store, $1-$3)*
-- [ ] Flex sensors (2.2" or 4.5"), 5 — one per finger *(source: electronics supplier, ~$8-$10 each, or DIY from velostat/conductive foam, ~$2 total)*
-- [ ] MPU-6050 or BNO055 IMU module *(source: electronics supplier, ~$3-$5)*
-- [ ] ESP32 development board *(source: electronics supplier, ~$5)*
-- [ ] 10K ohm resistors, 5 — voltage dividers for flex sensors *(source: electronics supplier, ~$1)*
-- [ ] LiPo battery, 3.7V 500-1000mAh *(source: electronics supplier, ~$3)*
-- [ ] Thin silicone wire or enameled wire *(source: electronics supplier, ~$2)*
-- [ ] Velcro strips for mounting *(source: dollar store, ~$1)*
-- [ ] Hot glue or fabric adhesive *(source: workshop supplies)*
-- [ ] Sewing needle and thread *(source: sewing kit)*
+- [ ] Flex sensors — 4.5" resistive flex sensor, quantity 5 (one per finger) *(online, ~$8-10 each, or ~$35 for a pack)*
+- [ ] MPU6050 module — 6-axis accelerometer/gyroscope breakout *(online, ~$3)*
+- [ ] ESP32 dev board — for sensor reading and Bluetooth MIDI *(online, ~$5-8)*
+- [ ] Thin glove — lycra or spandex workout glove for a snug fit *(existing or dollar store, ~$3)*
+- [ ] 10k ohm resistors — 5 pieces, for flex sensor voltage dividers *(~$1)*
+- [ ] Thin ribbon cable or magnet wire — for routing sensor wires along fingers *(~$3)*
+- [ ] Heat shrink tubing — for insulating connections *(~$2)*
+- [ ] Small LiPo battery — 500-1000mAh for wireless operation *(online, ~$5)*
+- [ ] TP4056 charging module — for LiPo charging *(online, ~$1)*
+- [ ] Perfboard — small piece for the voltage divider network *(~$1)*
+- [ ] Fabric glue or thread — for securing sensors to the glove *(existing)*
+- [ ] Velcro — for securing the ESP32 enclosure to the wrist *(~$2)*
 
 ## Build Steps
 
-1. **Prepare the glove.** Put on the glove and mark the centerline of each finger on the back side (where flex sensors will go) and the center of the hand back (where the IMU will mount). The glove should be snug enough that the sensors move with your fingers, not slide around independently.
+1. **Prepare the flex sensors.** Each flex sensor is a strip that reads about 10k ohms when flat and 20-40k ohms when fully bent at 90 degrees. To read this with the ESP32’s ADC, build a voltage divider for each sensor: one leg of a 10k fixed resistor to 3.3V, the other leg to the flex sensor and to an ESP32 analog pin. The flex sensor’s other terminal goes to ground. As the sensor bends, the voltage at the ADC pin changes. Wire all 5 dividers on a small perfboard.
 
-2. **Mount the flex sensors.** Sew or glue one flex sensor along the back of each finger, running from the knuckle to the fingertip. The sensor should be centered on the finger and attached firmly enough to bend with the finger. Leave the electrical contacts at the knuckle end, pointing toward the wrist. Use thread loops at multiple points along each sensor to keep it aligned.
+2. **Mount sensors on the glove.** Lay each flex sensor along the back of a finger, from knuckle to fingertip. The sensor should cross the main knuckle joint — that’s where the bending happens. Secure with fabric glue, small stitches through the sensor’s mounting holes, or by sliding the sensors into narrow fabric channels sewn onto the glove back. The sensors must bend with the fingers but not bunch up or shift position.
 
-3. **Mount the IMU.** Glue or velcro the MPU-6050 or BNO055 module to the back of the hand, centered between the knuckles and the wrist. Orient it consistently (e.g., X-axis pointing toward the fingers, Z-axis pointing away from the palm) so your firmware can interpret the orientation data predictably.
+3. **Mount the IMU.** Attach the MPU6050 breakout board to the back of the hand, centered between the knuckles and wrist. Use Velcro or a fabric pocket so it stays flat against the hand. Connect it to the ESP32 via I2C (SDA to GPIO21, SCL to GPIO22, VCC to 3.3V, GND to GND). The IMU provides roll, pitch, and yaw of the hand, giving you 3 additional control axes beyond the 5 flex sensors.
 
-4. **Wire the flex sensor circuits.** For each flex sensor, create a voltage divider: connect one end of the flex sensor to 3.3V, the other end to a 10K resistor to ground, and tap the junction to an ESP32 analog input. This gives you a voltage that varies with finger bend. Wire all five sensors to separate analog inputs (some ESP32 boards have limited ADC pins — use a multiplexer if needed).
+4. **Route the wiring.** Run thin wires from each flex sensor along the back of the hand to the perfboard at the wrist. Use ribbon cable or magnet wire for the cleanest routing. Tack the wires down with fabric glue or small stitches every inch to prevent snagging. All wires should converge at the wrist where the ESP32 and perfboard sit. Keep wiring on the back of the hand — palm-side wires interfere with grip.
 
-5. **Wire the IMU.** Connect the IMU to the ESP32 via I2C (SDA and SCL lines). The MPU-6050 gives you 3-axis acceleration and 3-axis gyroscope data; the BNO055 additionally gives you absolute orientation (quaternions). Power the IMU from the ESP32's 3.3V output.
+5. **Mount the ESP32.** Put the ESP32 dev board and the voltage divider perfboard in a small enclosure (3D-printed case or a piece of heat-formed plastic) and strap it to the wrist/forearm with Velcro. Connect the LiPo battery through the TP4056 charging module. The ESP32’s USB port should be accessible for charging and firmware updates.
 
-6. **Program the ESP32.** Write firmware that: (1) Reads all five flex sensor values and maps them to 0-127 MIDI range. (2) Reads the IMU orientation and maps tilt/rotation to MIDI continuous controllers (CC). (3) Implements gesture detection — fist = note on, open = note off, finger curl speed = velocity. (4) Sends MIDI over USB or Bluetooth. The ESP32's Bluetooth LE can send MIDI wirelessly to any BLE-MIDI compatible device.
+6. **Program the firmware.** Flash the ESP32 with code that reads all 5 flex sensor ADC values and the MPU6050 orientation at 100Hz. Map each sensor reading to a MIDI Control Change (CC) message: flex sensor 1 (thumb) = CC1, flex sensor 2 (index) = CC2, etc. Map IMU roll to CC11, pitch to CC12. Send MIDI over Bluetooth using the ESP32-BLE-MIDI library — the glove appears as a Bluetooth MIDI device to any computer or phone. Calibrate the sensor ranges in firmware: read the ADC values with fingers flat (min) and fully curled (max), then map that range to 0-127 MIDI values.
 
-7. **Calibrate.** Put on the glove and run a calibration routine: fully extend each finger (record the "straight" flex value), then fully curl (record the "bent" value). Store these min/max values and map the range to 0-127. Calibrate the IMU's zero position (hand flat, palm down). Every hand is different, so calibration should run at startup or on button press.
+7. **Set up the DAW mapping.** Connect the glove to your computer via Bluetooth MIDI. In your DAW, open the MIDI learn/assign function. Bend each finger and assign the incoming CC to a parameter: index finger controls note C3, middle finger controls D3, ring finger controls E3, etc. Map wrist tilt to pitch bend or filter cutoff. The mapping possibilities are infinite — triggers, continuous controls, sample launching, effects parameters.
 
-8. **Route MIDI and play.** Connect the glove (via USB or Bluetooth) to a computer running a DAW, a hardware synth, or a MIDI-capable app. Map the finger sensors to notes (e.g., pinky=C, ring=D, middle=E, index=F, thumb=G for a pentatonic scale). Map hand tilt to pitch bend or filter cutoff. Start simple, then build complexity as you get comfortable with the gesture vocabulary.
-
-9. **Refine and iterate.** The first version will have issues — cross-talk between adjacent sensors, jitter from noisy ADC readings, or calibration drift. Add software filtering (moving average or exponential smoothing on the analog readings), dead zones around threshold values, and hysteresis on note triggers to prevent stuttering. These refinements make the difference between a prototype and a playable instrument.
+8. **Calibrate and perform.** Play with the glove for 15 minutes and note any dead zones or jumpy readings. Adjust the voltage divider resistor values if a particular sensor’s range is too narrow. Add smoothing in firmware (running average of the last 4-8 readings) to eliminate jitter. Once calibrated, the glove should feel natural — you think about the music, not the technology.
 
 ## Safety Notes
 
-- **Battery placement.** Mount the LiPo on the wrist or forearm, not on the fingers where it could get squeezed. A crushed LiPo is a fire hazard. Use a battery with a protection circuit.
-- **Flex sensor fragility.** Commercial flex sensors are delicate — sharp bends at the contact end can crack the resistive element. Reinforce the contact end with a small piece of rigid backing (popsicle stick or plastic) where the sensor exits the finger. Replace sensors that show erratic readings.
-- **Repetitive strain.** Exaggerated finger movements for extended playing sessions can cause hand fatigue. Map gestures to comfortable ranges of motion and take breaks during long sessions.
+- All voltages are 3.3-5V from a small LiPo. No shock hazard.
+- Flex sensors are fragile — they can crack if bent sharply backward (opposite direction) or if creased. Always bend them in the direction they’re designed for. Replace cracked sensors immediately, as the broken edges can poke through the glove.
+- The LiPo battery should have a protection circuit to prevent over-discharge and short circuits. Don’t crush or puncture the battery.
+- Extended wear of a tight glove with sensors can restrict circulation. Take the glove off periodically and flex your hand. If your fingers tingle or go numb, the glove is too tight.
 
 ## See Also
 
-- [LED Jacket](242-led-jacket.md) — another body-worn ESP32 project with real-time sensor input
-- [Bucket Drum Kit](../junk-instruments/237-bucket-drum-kit.md) — another DIY MIDI controller, percussive instead of gestural
+- [Sound-Reactive LED Jacket](242-led-jacket.md)
+- [Heads-Up Display Glasses](245-hud-glasses.md)
