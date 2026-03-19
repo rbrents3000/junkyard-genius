@@ -1,5 +1,9 @@
 # #114 — Dry Ice Comet Balls
 
+<p align="center">
+  <img src="../../images/builds/114-dry-ice-comet-balls.jpg" alt="Dry Ice Comet Balls" width="700" />
+</p>
+
 > Dry ice wrapped in fabric and dipped in water trails dense fog — add LEDs at night for meteor effects.
 
 ## Ratings

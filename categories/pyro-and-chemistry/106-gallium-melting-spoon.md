@@ -1,5 +1,9 @@
 # #106 — Gallium Melting Spoon
 
+<p align="center">
+  <img src="../../images/builds/106-gallium-melting-spoon.jpg" alt="Gallium Melting Spoon" width="700" />
+</p>
+
 > Cast a spoon from gallium — a metal that melts at 86°F. Stir your hot tea and watch the spoon dissolve.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #102 — Elephant Toothpaste
 
+<p align="center">
+  <img src="../../images/builds/102-elephant-toothpaste.jpg" alt="Elephant Toothpaste" width="700" />
+</p>
+
 > Hydrogen peroxide meets a catalyst and erupts into a 10-foot tower of steaming foam.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #104 — Cold Spark Machine
 
+<p align="center">
+  <img src="../../images/builds/104-cold-spark-machine.jpg" alt="Cold Spark Machine" width="700" />
+</p>
+
 > Titanium powder heated and launched upward creates dazzling sparks that won't burn skin or set anything on fire.
 
 ## Ratings

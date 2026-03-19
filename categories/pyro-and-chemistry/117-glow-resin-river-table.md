@@ -1,5 +1,9 @@
 # #117 — Glow Resin River Table
 
+<p align="center">
+  <img src="../../images/builds/117-glow-resin-river-table.jpg" alt="Glow Resin River Table" width="700" />
+</p>
+
 > Glow-in-the-dark pigment in epoxy resin poured into a live-edge wood slab — a table that glows for 12+ hours.
 
 ## Ratings

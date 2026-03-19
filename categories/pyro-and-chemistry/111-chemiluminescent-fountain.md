@@ -1,5 +1,9 @@
 # #111 — Chemiluminescent Fountain
 
+<p align="center">
+  <img src="../../images/builds/111-chemiluminescent-fountain.jpg" alt="Chemiluminescent Fountain" width="700" />
+</p>
+
 > Glowing liquid pumped through a fountain in complete darkness — luminol chemistry meets plumbing.
 
 ## Ratings

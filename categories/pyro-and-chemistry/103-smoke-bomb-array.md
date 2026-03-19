@@ -1,5 +1,9 @@
 # #103 — Smoke Bomb Array
 
+<p align="center">
+  <img src="../../images/builds/103-smoke-bomb-array.jpg" alt="Smoke Bomb Array" width="700" />
+</p>
+
 > KNO3 and sugar fused into smoke bombs, sequenced with a Pi controller for synchronized color eruptions.
 
 ## Ratings
