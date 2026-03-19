@@ -52,3 +52,7 @@ A fit cyclist produces about 75-150 watts sustained. That's enough to charge a p
 
 - [Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger.md)
 - [DIY Powerwall](052-diy-powerwall.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

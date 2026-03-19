@@ -72,3 +72,7 @@ This is a building block more than a finished product. The capacitor bank itself
 - [DIY Powerwall](052-diy-powerwall.md)
 - [Rail Gun](../mad-scientist/036-rail-gun.md)
 - [Coil Gun](../mad-scientist/037-coil-gun.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
