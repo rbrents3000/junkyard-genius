@@ -278,7 +278,7 @@ body::before{
   display:flex;align-items:center;justify-content:center;flex-shrink:0;
 }
 .result-rank.gold{background:linear-gradient(135deg,#fbbf24,#f59e0b);box-shadow:0 2px 12px rgba(251,191,36,0.3)}
-.result-name{font-size:1.15rem;font-weight:700;flex:1}
+.result-name{font-size:1.15rem;font-weight:700;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .result-num{color:var(--text-muted);font-size:0.8rem;font-weight:600}
 
 .result-category{
@@ -348,7 +348,7 @@ body::before{
   border-color:var(--purple);transform:translateY(-2px);
   box-shadow:0 6px 20px rgba(0,0,0,0.2);
 }
-.wildcard-name{font-weight:700;font-size:0.9rem;margin-bottom:4px}
+.wildcard-name{font-weight:700;font-size:0.9rem;margin-bottom:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .wildcard-cat{font-size:0.72rem;color:var(--text-muted);margin-bottom:10px}
 .wildcard-link{
   color:var(--purple);text-decoration:none;font-size:0.78rem;font-weight:600;
@@ -467,6 +467,12 @@ body::before{
 <script>
 (function(){
 "use strict";
+
+// Guard against build-data.js load failure
+if (typeof BUILDS === "undefined" || !BUILDS.length) {
+  document.getElementById("quizContainer").innerHTML = '<div style="text-align:center;padding:120px 20px;color:#7a7f93"><p>Could not load build data. Please refresh the page.</p></div>';
+  return;
+}
 
 var QUESTIONS = [
   {
@@ -714,6 +720,7 @@ function computeResults() {
     return b.brain <= maxBrain && b.spicy <= maxSpicy && b.time <= maxTime && b.wallet <= maxWallet;
   });
 
+  var scores = {};
   candidates.forEach(function(b) {
     var score = 0;
     vibeTags.forEach(function(vt) {
@@ -728,10 +735,10 @@ function computeResults() {
     }
     score += b.jaw * 5;
     score += b.clout * 3;
-    b._score = score;
+    scores[b.num] = score;
   });
 
-  candidates.sort(function(a, b) { return b._score - a._score; });
+  candidates.sort(function(a, b) { return scores[b.num] - scores[a.num]; });
   return candidates;
 }
 

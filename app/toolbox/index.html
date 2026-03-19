@@ -106,7 +106,7 @@ a:hover{text-decoration:underline}
 .build-card:hover{border-color:var(--border-hover);transform:translateY(-2px);box-shadow:0 8px 32px rgba(0,0,0,0.25);text-decoration:none}
 .card-top{display:flex;align-items:center;gap:12px;margin-bottom:10px}
 .card-num{font-size:0.75rem;font-weight:800;color:var(--orange);background:var(--orange-glow);padding:4px 10px;border-radius:var(--radius-xs)}
-.card-name{font-size:1rem;font-weight:700;flex:1;line-height:1.3}
+.card-name{font-size:1rem;font-weight:700;flex:1;line-height:1.3;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .card-category{display:inline-block;background:var(--bg);border:1px solid var(--border);border-radius:20px;padding:3px 12px;font-size:0.68rem;font-weight:600;color:var(--text-dim);margin-bottom:12px}
 .card-ratings{display:grid;grid-template-columns:repeat(3,1fr);gap:6px 14px}
 .rating-item{display:flex;align-items:center;gap:6px}
@@ -189,6 +189,12 @@ a:hover{text-decoration:underline}
 <script src="../quiz/build-data.js"></script>
 <script>
 (function(){
+  // Guard against build-data.js load failure
+  if (typeof BUILDS === "undefined" || !BUILDS.length) {
+    document.getElementById("buildGrid").innerHTML = '<p style="text-align:center;padding:80px 20px;color:#7a7f93">Could not load build data. Please refresh the page.</p>';
+    return;
+  }
+
   var activeTab = "completed";
 
   function getList(key) {
@@ -282,21 +288,21 @@ a:hover{text-decoration:underline}
       var html = "";
       builds.forEach(function(b) { html += renderCard(b, key); });
       grid.innerHTML = html;
-
-      // Add remove button listeners
-      grid.querySelectorAll(".remove-btn").forEach(function(btn) {
-        btn.addEventListener("click", function(e) {
-          e.stopPropagation();
-          var num = parseInt(this.getAttribute("data-num"));
-          var k = this.getAttribute("data-key");
-          var list = getList(k);
-          var idx = list.indexOf(num);
-          if (idx !== -1) { list.splice(idx, 1); setList(k, list); }
-          render();
-        });
-      });
     }
   }
+
+  // Event delegation for remove buttons (added once, not per render)
+  grid.addEventListener("click", function(e) {
+    var btn = e.target.closest(".remove-btn");
+    if (!btn) return;
+    e.stopPropagation();
+    var num = parseInt(btn.getAttribute("data-num"));
+    var k = btn.getAttribute("data-key");
+    var list = getList(k);
+    var idx = list.indexOf(num);
+    if (idx !== -1) { list.splice(idx, 1); setList(k, list); }
+    render();
+  });
 
   // Tab switching
   document.querySelectorAll(".tab").forEach(function(tab) {

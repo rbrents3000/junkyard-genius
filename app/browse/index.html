@@ -115,10 +115,10 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
 .result-count{font-size:0.85rem;color:var(--text-dim);font-weight:600}
 .sort-pills{display:flex;gap:6px;flex-wrap:wrap}
 .sort-pill{
-  padding:6px 14px;border-radius:20px;border:1px solid var(--border);
+  padding:10px 14px;border-radius:20px;border:1px solid var(--border);
   background:var(--card);color:var(--text-dim);font-size:0.72rem;font-weight:600;
   cursor:pointer;transition:all 0.2s;letter-spacing:0.02em;text-transform:uppercase;
-  font-family:inherit;
+  font-family:inherit;min-height:44px;display:inline-flex;align-items:center;
 }
 .sort-pill:hover{border-color:var(--border-hover);color:var(--text)}
 .sort-pill.active{border-color:var(--orange);color:var(--orange);background:var(--orange-glow)}
@@ -153,7 +153,7 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
   background:var(--orange-glow);padding:4px 10px;border-radius:var(--radius-xs);
   white-space:nowrap;
 }
-.card-name{font-size:1rem;font-weight:700;flex:1;line-height:1.3}
+.card-name{font-size:1rem;font-weight:700;flex:1;line-height:1.3;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 
 .card-category{
   display:inline-block;
@@ -291,7 +291,7 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
       <input type="range" id="spicyMax" min="1" max="5" value="5">
       <span class="slider-val" id="spicyVal">5</span>
     </div>
-    <button class="filter-toggle" id="myBuildsFilter">&#9745; My Builds</button>
+    <button class="filter-toggle" id="myBuildsFilter" aria-pressed="false">&#9745; My Builds</button>
     <button class="random-btn" id="randomBtn">&#127922; Feeling Lucky?</button>
   </div>
 
@@ -329,6 +329,12 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
 <script src="../quiz/build-data.js"></script>
 <script>
 (function(){
+  // Guard against build-data.js load failure
+  if (typeof BUILDS === "undefined" || !BUILDS.length) {
+    document.getElementById("buildGrid").innerHTML = '<p style="text-align:center;padding:80px 20px;color:#7a7f93">Could not load build data. Please refresh the page.</p>';
+    return;
+  }
+
   // Random redirect check (before anything renders)
   if (window.location.search.indexOf("random=1") !== -1) {
     var idx = Math.floor(Math.random() * BUILDS.length);
@@ -525,6 +531,7 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
   myBuildsBtn.addEventListener("click", function(){
     showMyBuilds = !showMyBuilds;
     this.classList.toggle("active", showMyBuilds);
+    this.setAttribute("aria-pressed", showMyBuilds);
     render();
   });
 
