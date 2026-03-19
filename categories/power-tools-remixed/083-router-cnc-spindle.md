@@ -1,5 +1,9 @@
 # #083 — Router CNC Spindle
 
+<p align="center">
+  <img src="../../images/builds/083-router-cnc-spindle.jpg" alt="Router CNC Spindle" width="700" />
+</p>
+
 > Wood routers spin at 25,000+ RPM with a collet that holds bits. That makes them excellent CNC spindles for cutting wood, aluminum, and plastic.
 
 ## Ratings

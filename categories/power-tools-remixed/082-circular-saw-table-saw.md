@@ -1,5 +1,9 @@
 # #082 — Circular Saw Table Saw
 
+<p align="center">
+  <img src="../../images/builds/082-circular-saw-table-saw.jpg" alt="Circular Saw Table Saw" width="700" />
+</p>
+
 > Circular saw inverted under a plywood table, blade through a slot. Add a fence. Budget table saw. Respect the blade.
 
 ## Ratings

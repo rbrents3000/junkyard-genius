@@ -1,5 +1,9 @@
 # #081 — Sawzall Power Hammer
 
+<p align="center">
+  <img src="../../images/builds/081-sawzall-power-hammer.jpg" alt="Sawzall Power Hammer" width="700" />
+</p>
+
 > Replace the reciprocating saw blade with a hammer or chisel bit. 3,000+ hits per minute. A power hammer for texturing and shaping metal.
 
 ## Ratings
