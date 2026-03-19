@@ -1,5 +1,9 @@
 # #232 — Carbide Spark Plug Repeater
 
+<p align="center">
+  <img src="../../images/builds/232-carbide-spark-plug-repeater.jpg" alt="Carbide Spark Plug Repeater" width="700" />
+</p>
+
 > Calcium carbide + water makes acetylene. A spark plug on a timer fires it. Refueled by rocks and water. A repeating cannon that runs on geology.
 
 ## Ratings

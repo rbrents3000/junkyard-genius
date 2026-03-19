@@ -1,5 +1,9 @@
 # #229 — Electromagnetic Firework Launcher
 
+<p align="center">
+  <img src="../../images/builds/229-electromagnetic-firework-launcher.jpg" alt="Electromagnetic Firework Launcher" width="700" />
+</p>
+
 > A coil gun launches firework shells silently on electromagnetic force, with electrical ignition at altitude. No black powder lift charge. No mortar tube bang. Just physics and fire in the sky.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #278 — Thermite Sparkler Bombs
 
+<p align="center">
+  <img src="../../images/builds/278-thermite-sparkler-bombs.jpg" alt="Thermite Sparkler Bombs" width="700" />
+</p>
+
 > Iron oxide plus aluminum powder packed around sparklers. Light the sparkler, walk away, wait for 2,500°C of molten iron fury. Simple, terrifying, unforgettable.
 
 ## Ratings

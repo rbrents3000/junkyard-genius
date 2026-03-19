@@ -1,5 +1,9 @@
 # #275 — Capacitor Bank Plasma Igniter
 
+<p align="center">
+  <img src="../../images/builds/275-capacitor-bank-plasma-igniter.jpg" alt="Capacitor Bank Plasma Igniter" width="700" />
+</p>
+
 > MOT capacitors wired in a bank discharge through a spark gap to create a plasma arc hot enough to ignite anything you point it at.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #276 — Chemical Smoke Screen Machine
 
+<p align="center">
+  <img src="../../images/builds/276-chemical-smoke-screen-machine.jpg" alt="Chemical Smoke Screen Machine" width="700" />
+</p>
+
 > Drip glycerin onto a red-hot toaster element and disappear behind a wall of dense white smoke like a budget action movie villain.
 
 ## Ratings
