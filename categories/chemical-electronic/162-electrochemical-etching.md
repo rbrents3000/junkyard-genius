@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Electrochemical etching uses electricity to selectively dissolve metal. Apply a stencil (vinyl, nail polish, or printed transparency) to a metal surface, soak a pad in salt water, connect the pad to one terminal of a battery and the metal to the other, and press. The current flows through the salt water and dissolves the exposed metal, leaving the stencil'd areas untouched. The result is a permanent, recessed design etched into the metal. Monogram your knives. Brand your tools. Etch patterns into jewelry. Put your logo on metal business cards. The setup costs literally nothing — a 9V battery, salt water, and cotton swabs.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 9V battery or 12V power supply *(grocery store, junk drawer)*
 - [ ] Salt water — 1 tablespoon salt per cup of water *(kitchen)*
@@ -26,7 +25,9 @@ Electrochemical etching uses electricity to selectively dissolve metal. Apply a 
 - [ ] Metal object — knife, tool, ring, flask, anything conductive *(workshop)*
 - [ ] Nail polish remover (acetone) — for cleanup *(pharmacy)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Clean the metal surface.** Degrease and clean the area to be etched with acetone or rubbing alcohol. The surface must be spotless for the stencil to adhere and the etch to be even.
 2. **Apply the stencil.** Cut your design from vinyl sticker material using a craft cutter (Cricut, Silhouette) or by hand with an X-Acto knife. Apply the stencil to the metal surface, pressing firmly to eliminate air bubbles. Alternatively, paint the design with nail polish (the polish resists the etch).
@@ -36,13 +37,13 @@ Electrochemical etching uses electricity to selectively dissolve metal. Apply a 
 6. **Clean up.** Remove the stencil. Clean off the salt residue and oxidation with rubbing alcohol. Polish the surrounding area if desired. The etched area is permanently recessed and will be visible even after years of use.
 7. **Optional: fill with color.** For high contrast, fill the etched depression with enamel paint, nail polish, or cold blue (gun bluing) chemical. Wipe the excess off the surface, leaving color only in the recessed etch.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The salt water becomes contaminated with dissolved metal ions during etching. Nickel and chromium (from stainless steel) are toxic. Do not pour the used solution down the drain. Neutralize with baking soda and dispose according to local guidelines.
 - The 9V battery and cotton pad can get warm during extended etching. If the pad dries out, re-soak it before continuing — a dry pad can cause the battery to short through the metal directly, getting very hot.
 - Work in a ventilated area. Electrochemical etching can produce small amounts of chlorine gas (from the salt water electrolysis). The amounts are tiny but noticeable by smell.
 
-## See Also
+## 🔗 See Also
 
 - [PCB Etching Station](158-pcb-etching-station.md)
 - [Electroplating Station](156-electroplating-station.md)

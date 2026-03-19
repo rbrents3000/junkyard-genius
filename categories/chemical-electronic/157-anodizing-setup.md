@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Anodizing is the process that gives aluminum its colored, scratch-resistant finish — the colors on MacBooks, flashlights, bike parts, and cookware. Unlike plating (which adds metal), anodizing grows a porous aluminum oxide layer on the surface. This porous layer absorbs fabric dye, locking in vivid color. Then a boiling water seal closes the pores permanently. The result is a hard, colored surface that's part of the metal itself — it can't peel or chip like paint. The process requires sulfuric acid (battery acid) and DC power, making it more intense than electroplating, but the results are genuinely professional-grade.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Sulfuric acid — battery acid, 30-35% concentration *(auto parts store)*
 - [ ] Lead sheet or lead-free cathode — for the cathode *(online, plumbing supply)*
@@ -29,7 +28,9 @@ Anodizing is the process that gives aluminum its colored, scratch-resistant fini
 - [ ] Acid-resistant gloves and face shield *(hardware store)*
 - [ ] Titanium or aluminum wire — for hanging parts *(online)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Clean the aluminum.** Degrease the parts with acetone or dish soap. Then etch in a dilute lye solution (1 tablespoon per quart of water) for 3-5 minutes. This removes the natural oxide layer and creates a uniform matte surface. Rinse thoroughly.
 2. **Prepare the acid bath.** In a plastic tub, mix sulfuric acid with distilled water to achieve roughly 15% concentration. ALWAYS ADD ACID TO WATER, never water to acid — the reaction is exothermic and adding water to concentrated acid can cause a violent boil-over.
@@ -41,13 +42,13 @@ Anodizing is the process that gives aluminum its colored, scratch-resistant fini
 8. **Seal the finish.** Boil the dyed parts in distilled water for 30 minutes. The boiling water hydrates the aluminum oxide, swelling it shut and permanently locking in the dye. After sealing, the color is permanent and scratch-resistant.
 9. **Polish (optional).** The sealed surface can be buffed with a polishing compound for additional gloss. The finish will match or exceed commercial anodized products.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Sulfuric acid causes severe chemical burns on contact with skin and eyes, and destroys clothing instantly. Wear acid-resistant gloves, a face shield, and old clothes. Have a neutralizing agent (baking soda) and running water nearby at all times. Work outdoors or in a well-ventilated area.
 - ALWAYS add acid to water, never water to acid. Adding water to concentrated sulfuric acid causes an exothermic reaction that can splash boiling acid.
 - The anodizing process produces hydrogen gas at the cathode. Hydrogen is flammable and explosive when concentrated. Ensure excellent ventilation and keep all ignition sources away from the bath.
 
-## See Also
+## 🔗 See Also
 
 - [Electroplating Station](156-electroplating-station.md)
 - [PCB Etching Station](158-pcb-etching-station.md)

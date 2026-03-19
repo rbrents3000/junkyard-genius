@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Electroplating deposits a thin layer of metal onto any conductive surface using electricity. Dissolve copper sulfate in water, dip in a copper anode (positive) and your object (negative), apply DC power, and copper atoms migrate from the anode through the solution and deposit onto your object. The catch: the object must be conductive. But ANY object can be made conductive by painting it with conductive paint (graphite spray or copper paint). Suddenly you can copper-plate a real rose, a 3D print, a leaf, a seashell, or a shoe. The copper coating is real metal — durable, shiny, and absolutely stunning. It's alchemy you can do in a plastic tub.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Copper sulfate — crystals or powder *(hardware store as root killer, garden supply)*
 - [ ] Distilled water *(grocery store)*
@@ -28,7 +27,9 @@ Electroplating deposits a thin layer of metal onto any conductive surface using 
 - [ ] Alligator clips and wire *(electronics supplier)*
 - [ ] Fine sandpaper — for surface prep *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Mix the plating solution.** Dissolve copper sulfate in warm distilled water until the solution is deep blue (about 1 cup per gallon). Add a splash of white vinegar (about 2 tablespoons per gallon) to improve conductivity and deposit quality.
 2. **Prepare the object.** For conductive objects (metal), clean and lightly sand the surface. For non-conductive objects (3D prints, flowers, leaves), apply 3-4 coats of graphite spray or conductive copper paint, ensuring complete coverage. Every surface that needs plating must be conductive — any gaps will remain unplated.
@@ -39,13 +40,13 @@ Electroplating deposits a thin layer of metal onto any conductive surface using 
 7. **Remove and rinse.** When the copper layer is thick enough, remove the object, rinse thoroughly with water, and dry. The copper surface can be polished with fine sandpaper or steel wool for a mirror finish.
 8. **Seal the finish.** Apply clear lacquer or Renaissance Wax to prevent the copper from oxidizing and turning green over time. For the patina look, skip the sealer and let nature take its course.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Copper sulfate solution is toxic if ingested and irritating to skin and eyes. Wear gloves when handling. Keep away from children and pets. Do not pour used solution down the drain — neutralize with baking soda first and dispose of according to local regulations.
 - The electroplating process produces small amounts of hydrogen gas at the cathode. Work in a ventilated area. The amounts are tiny but good practice.
 - The DC power supply should be low voltage (under 12V). There's no shock hazard at these voltages, but ensure the power supply is rated for continuous operation at the current you're drawing.
 
-## See Also
+## 🔗 See Also
 
 - [Electroforming Art](160-electroforming-art.md)
 - [Electrochemical Etching](162-electrochemical-etching.md)

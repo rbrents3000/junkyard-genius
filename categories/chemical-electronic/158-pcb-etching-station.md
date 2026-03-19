@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Custom circuit boards used to require sending designs to a factory and waiting weeks. With a PCB etching station, you design a circuit on your computer, print it on glossy paper with a laser printer, iron-transfer the toner to a copper-clad board, and drop it in ferric chloride solution. The acid eats away the exposed copper but the toner resists it, leaving your circuit traces behind. An aquarium heater keeps the solution warm (faster etching) and an air pump agitates it (more even etching). In 15-30 minutes, you have a custom PCB. Drill the holes, solder your components, and you've gone from schematic to working circuit board in an afternoon.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Ferric chloride solution — the etchant *(electronics supplier, online)*
 - [ ] Copper-clad PCB blanks — single or double-sided *(electronics supplier)*
@@ -29,7 +28,9 @@ Custom circuit boards used to require sending designs to a factory and waiting w
 - [ ] Fine drill bits (0.8-1mm) and drill — for component holes *(hardware store)*
 - [ ] Acetone — to remove toner after etching *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Design your circuit.** Use KiCad (free, open source) or EasyEDA to design your schematic and layout. Export the copper layer as a mirrored PDF — it must be mirrored because you're transferring face-down.
 2. **Print the mask.** Print the mirrored layout on glossy magazine paper (the shiny pages from magazines work perfectly) using a laser printer. The toner needs to be thick and solid — adjust print density to maximum. Inkjet does NOT work; only laser toner transfers.
@@ -41,13 +42,13 @@ Custom circuit boards used to require sending designs to a factory and waiting w
 8. **Clean and drill.** Remove the toner with acetone, revealing clean copper traces. Drill component holes with a 0.8-1mm bit using a drill press or rotary tool. Clean the board one final time.
 9. **Solder components.** Your custom PCB is ready for assembly. Apply flux, place components, and solder. The satisfaction of a working circuit on a board you designed and manufactured yourself is unmatched.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Ferric chloride permanently stains everything it touches — skin, clothes, surfaces, sinks. Wear old clothes and gloves. Work on a surface you don't care about. Do NOT pour used solution down the drain — it corrodes pipes and is toxic to aquatic life. Neutralize with baking soda and dispose according to local hazardous waste guidelines.
 - The iron is extremely hot during the transfer step. Don't rush. Use a firm, flat pressing surface and keep fingers away from the iron's edge. Burns from the iron are the most common injury in this process.
 - Drilling PCBs creates fine fiberglass dust (the board substrate is fiberglass-reinforced). Wear a dust mask and clean up dust with a damp cloth, not a vacuum (which spreads fine particles).
 
-## See Also
+## 🔗 See Also
 
 - [Electrochemical Etching](162-electrochemical-etching.md)
 - [Electroplating Station](156-electroplating-station.md)

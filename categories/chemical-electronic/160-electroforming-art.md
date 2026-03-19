@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Electroplating deposits a thin coating. Electroforming deposits a THICK one — thick enough to be structural. Create a form from wax, 3D printed PLA, or any dissolvable material. Paint it with conductive coating, then electroplate for days or weeks until you've built up 1-2mm of solid copper. Then dissolve or melt out the internal form, and you're left with a hollow copper shell — a copper sculpture that perfectly reproduces every detail of the original. Jewelers use this technique to create copper-wrapped crystals, leaves, and pendants that sell for $50-200 each. Artists create hollow copper skulls, geometric forms, and organic shapes. The copper is real, solid, and permanent.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Copper sulfate — large quantity, this process consumes copper *(hardware store, online bulk)*
 - [ ] Sulfuric acid (optional) — improves deposit quality at larger scale *(auto parts store)*
@@ -29,7 +28,9 @@ Electroplating deposits a thin coating. Electroforming deposits a THICK one — 
 - [ ] Copper wire — for hanging and electrical connections *(hardware store)*
 - [ ] Lacquer or sealant — for finishing *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Create the form.** Sculpt your design in wax, or 3D print it in PLA. The form should be the exact shape of the final copper piece — every detail will be reproduced. Wax is easiest to remove later; PLA can be dissolved in sodium hydroxide or left inside.
 2. **Make it conductive.** Apply 3-4 coats of graphite spray or conductive copper paint to the entire surface. Every square millimeter must be conductive — any gap will remain unplated. Use a brush for tight areas the spray can't reach.
@@ -41,13 +42,13 @@ Electroplating deposits a thin coating. Electroforming deposits a THICK one — 
 8. **Remove the internal form.** For wax: heat the piece carefully and pour out the melted wax. For PLA: soak in sodium hydroxide solution for 24-48 hours (dissolves PLA but not copper). For found objects (crystals, flowers): they often stay inside permanently.
 9. **Finish the piece.** Polish with fine sandpaper and metal polish for a mirror finish. Apply patina chemicals for an aged look. Seal with lacquer to prevent oxidation. The finished piece is solid copper and will last centuries.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Copper sulfate solution is toxic. The addition of sulfuric acid makes it caustic as well. Wear gloves, goggles, and a lab apron. Work in a ventilated area. Keep away from food, children, and pets.
 - Electroforming runs for days unattended. Ensure the setup is stable and can't be knocked over. A spilled acid bath creates a dangerous mess. Place the tub in a secondary containment tray.
 - Dissolving PLA in sodium hydroxide produces heat and fumes. Do this outdoors or under a fume hood with proper PPE.
 
-## See Also
+## 🔗 See Also
 
 - [Electroplating Station](156-electroplating-station.md)
 - [Copper Crystal Tree](161-copper-crystal-tree.md)

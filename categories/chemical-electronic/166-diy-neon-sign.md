@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Real neon signs are glass tubes filled with gas that glows when high voltage excites the gas atoms. Neon gas glows orange-red. Argon glows lavender-purple. Phosphor coatings inside the tube can produce any color. Commercial neon signs cost $200-1000+ and are made by skilled glassblowers. Learning to bend glass tubing yourself (with a ribbon burner or cross-fire torch) opens up the ability to create custom neon art. This is the most difficult build in this section — real glassblowing, vacuum systems, and high-voltage electronics. But the result is a genuine handmade neon sign that glows with the same warm, analog light that's been captivating humans since 1910.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Borosilicate glass tubing — 8-12mm diameter *(scientific glass supplier)*
 - [ ] Ribbon burner or crossfire torch — for bending glass *(glassblowing supplier)*
@@ -29,7 +28,9 @@ Real neon signs are glass tubes filled with gas that glows when high voltage exc
 - [ ] Torch tip kit and fuel (propane/MAPP) *(hardware store)*
 - [ ] GTO wire — high-voltage wire for connections *(sign supply)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Design your sign.** Start with a simple shape — a heart, star, or short word. Complex curves and tight bends come with experience. Draw the design full-size on paper as a template.
 2. **Learn to bend glass.** Practice bending scrap glass tubing over the ribbon burner. Heat a section evenly until it glows orange, then bend smoothly. The glass must be uniformly hot or it kinks. This is the hardest skill in the build — expect to break many tubes before achieving clean bends.
@@ -42,13 +43,13 @@ Real neon signs are glass tubes filled with gas that glows when high voltage exc
 9. **Light it up.** Power on the transformer. The gas ionizes and the tube glows. Neon = warm orange-red. Argon = cool lavender-purple. Argon with mercury = bright blue. Phosphor-coated tubes produce virtually any color.
 10. **Mount and display.** Mount the sign on a backing board using glass tube supports. Conceal the transformer behind the backing. Add a dimmer for ambiance control. Hang on the wall and bask in the warm glow of gas-discharge lighting you made with your own hands.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Neon sign transformers output 15,000 VOLTS. This is lethal. Never touch the electrodes or GTO wire while the transformer is energized. Always disconnect power before working on connections. Use insulated tools only. This is NOT a beginner project — respect the voltage.
 - Glassblowing involves extreme heat and hot glass that looks identical to cold glass. Always assume glass is hot after working it. Wear safety glasses rated for infrared (didymium lenses ideal for glasswork). Burns are the most common glassblowing injury.
 - The vacuum pump and gas filling system must be properly sealed. Gas leaks result in tubes that don't glow or glow dimly. Vacuum system leaks introduce air that contaminates the fill.
 
-## See Also
+## 🔗 See Also
 
 - [Vacuum Tube Amp](169-vacuum-tube-amp.md)
 - [Ozone Generator](167-ozone-generator.md)

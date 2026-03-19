@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Electrolysis splits water into hydrogen and oxygen using electricity. Add lye (sodium hydroxide) to water to make it conductive, dip in two electrodes, apply DC voltage, and bubbles immediately form — hydrogen at the cathode, oxygen at the anode. Capture the hydrogen in an inverted container or balloon. Touch a flame to pure hydrogen and it burns with an almost invisible flame. Pop a hydrogen-filled balloon near a flame and you get a dramatic fireball with a deep WHOOMP. This is the most fundamental electrochemistry demonstration — splitting the most abundant molecule on Earth into its components using nothing but electricity and water.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] DC power supply — 12-24V, 3A+ (old laptop charger works) *(junk drawer)*
 - [ ] Stainless steel plates or graphite rods — electrodes *(hardware store, pencil lead)*
@@ -29,7 +28,9 @@ Electrolysis splits water into hydrogen and oxygen using electricity. Add lye (s
 - [ ] Safety goggles *(hardware store)*
 - [ ] Gloves *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the electrolysis cell.** Mount two stainless steel plates (or graphite rods) parallel to each other, about 1 inch apart, in a plastic container. Secure them so they don't touch. Connect wires to each plate.
 2. **Mix the electrolyte.** Dissolve 2-3 tablespoons of lye in warm water to fill the container. Pure water barely conducts electricity — the lye provides ions that carry current between the electrodes. More lye = more current = more gas production.
@@ -40,13 +41,13 @@ Electrolysis splits water into hydrogen and oxygen using electricity. Add lye (s
 7. **Balloon fireball.** Fill a balloon with collected hydrogen. Tie it off. Attach a long string. Using a long lighter or match on a stick (from at least arm's length), ignite the balloon. The hydrogen fireball is dramatic, with a deep percussive WHOOMP sound.
 8. **Optimize the cell.** More electrode surface area = more gas. Closer electrode spacing = more efficient (but too close and you risk mixing gases). Higher voltage = faster production. The gas can also be fed to a hydrogen torch tip for a clean-burning flame.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Hydrogen is EXTREMELY flammable and explosive when mixed with air at concentrations of 4-75%. Never collect hydrogen in a sealed container that could build pressure. Always collect over water or in open balloons. Never accumulate large quantities indoors.
 - Keep ALL ignition sources away from the electrolysis cell and collection apparatus. The gases are produced at the electrode surfaces — a spark near the cell could ignite the gases before they're collected.
 - Sodium hydroxide (lye) is caustic and causes severe burns on skin and eyes. Wear gloves and goggles when handling. If lye solution contacts skin, flush immediately with running water for 15 minutes.
 
-## See Also
+## 🔗 See Also
 
 - [Calcium Carbide Cannon](../pyro-and-chemistry/116-calcium-carbide-cannon.md)
 - [Electroplating Station](156-electroplating-station.md)

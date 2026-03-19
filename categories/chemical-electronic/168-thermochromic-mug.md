@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Thermochromic pigment changes from opaque to transparent at a specific temperature. Print or paint it onto a white ceramic mug with a hidden design underneath, and the mug appears to be a single solid color. Pour hot coffee and the heat makes the thermochromic layer turn clear, revealing the hidden image underneath. Cold mug = solid color. Hot mug = design appears. The same technique works on t-shirts (body heat reveals hidden patterns), coasters, and greeting cards. Commercial color-changing mugs sell for $15-25 each. Make them for $3 in materials and sell them as custom products.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Thermochromic pigment powder — activation temp ~95°F for body heat, ~150°F for hot drinks *(online specialty supplier)*
 - [ ] White ceramic mugs — blank, matte finish works best *(dollar store, craft supply)*
@@ -28,7 +27,9 @@ Thermochromic pigment changes from opaque to transparent at a specific temperatu
 - [ ] T-shirts — for heat-reactive clothing (optional) *(craft store, blank tee supplier)*
 - [ ] Screen printing supplies — for fabric application (optional) *(art supply)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Create the hidden design.** Using ceramic-safe markers or paint, draw or print your design directly on the white mug. This is the image that will be revealed when the mug heats up. Let it dry completely and cure according to the marker/paint instructions.
 2. **Mix the thermochromic coating.** Blend thermochromic pigment into clear acrylic medium or screen printing ink base at a ratio of about 1 part pigment to 5 parts medium. Mix thoroughly until the color is uniform and opaque.
@@ -38,13 +39,13 @@ Thermochromic pigment changes from opaque to transparent at a specific temperatu
 6. **Test the effect.** Pour hot water into the mug. Within 10-20 seconds, the thermochromic layer becomes transparent, revealing the hidden design. As the mug cools, the design disappears again. The transition should be complete and dramatic.
 7. **For t-shirts.** Screen print or brush the thermochromic mixture onto fabric. Hidden designs appear where body heat contacts the shirt — handprints, hidden messages, or patterns that emerge in warm environments. Cure with a heat press.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Thermochromic pigments are generally non-toxic, but the mugs should not be considered food-safe unless all materials used (paint, medium, sealer) are specifically certified as food-safe and dishwasher-safe. When in doubt, apply the design only to the exterior of the mug.
 - Baking the mug in an oven requires careful temperature control. Temperatures above 350°F can permanently damage the thermochromic pigment, causing it to lose its color-changing properties. Use an oven thermometer to verify.
 - Thermochromic coatings degrade with UV exposure and aggressive dishwasher detergents over time. Hand washing extends the life of the color-changing effect. Inform anyone you sell or gift these mugs to.
 
-## See Also
+## 🔗 See Also
 
 - [Thermochromic Paint](../pyro-and-chemistry/119-thermochromic-paint.md)
 - [pH Reactive Paint](163-ph-reactive-paint.md)
