@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A full-sized arcade cabinet running thousands of classic games — Pac-Man, Street Fighter, Galaga, Mario, Sonic, everything from the golden age of gaming. The Pi 4 runs RetroPie, which emulates dozens of retro consoles and arcade boards. Instead of building a cabinet from scratch, repurpose an old nightstand, bookshelf, or thrift store furniture piece. Add a salvaged monitor, wire up arcade buttons and a joystick through a USB encoder, and you've got a piece of furniture that's secretly a universal game machine. It becomes the centerpiece of any game room.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Raspberry Pi 4 (4GB recommended) *(electronics supplier)*
 - [ ] MicroSD card 64GB+ — holds the OS and game library *(electronics supplier)*
@@ -29,7 +28,9 @@ A full-sized arcade cabinet running thousands of classic games — Pac-Man, Stre
 - [ ] MDF or plywood — for the control panel *(hardware store)*
 - [ ] Marquee artwork — printed on translucent material with LED backlight (optional) *(print shop)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Choose and prepare the cabinet.** Find a piece of furniture that's roughly the right size for an arcade cabinet — a nightstand or small bookshelf works well. Remove shelves and internal hardware. The monitor mounts inside where you cut an opening in the back or top.
 2. **Cut the monitor opening.** Measure your monitor panel and cut a matching opening in the cabinet. The monitor should be angled slightly backward (about 15 degrees) for comfortable viewing while standing. Secure the monitor panel inside the cabinet with brackets.
@@ -41,13 +42,13 @@ A full-sized arcade cabinet running thousands of classic games — Pac-Man, Stre
 8. **Add finishing touches.** Paint or wrap the cabinet. Add a printed marquee at the top with LED backlighting. Install LED strips inside for ambient lighting. Add T-molding to the control panel edges for an authentic arcade feel.
 9. **Configure per-game settings.** Some games need specific emulator tweaks. RetroPie's runcommand menu lets you set per-game resolution, emulator, and shader options. CRT shaders make modern screens look authentically retro.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Arcade buttons and joystick wiring is low voltage (USB powered) and safe. However, the monitor power supply inside the cabinet carries mains voltage. Ensure all mains wiring is properly insulated and secured. Consider a power strip inside the cabinet with a single external power cord.
 - If the cabinet is for a game room used by kids, secure the cabinet to the wall to prevent tipping. Arcade buttons invite enthusiastic slamming — the cabinet needs to be stable.
 - Ventilation is important. The Pi 4, monitor, and amplifier generate heat in an enclosed cabinet. Add ventilation holes or a small fan to prevent overheating.
 
-## See Also
+## 🔗 See Also
 
 - [Pi DJ Controller](131-pi-dj-controller.md)
 - [Flight Sim Cockpit](../python-projects/154-flight-sim-cockpit.md)

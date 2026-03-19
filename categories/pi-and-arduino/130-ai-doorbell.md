@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Ring doorbell costs $100+ and sends your video to Amazon's cloud. Build your own that's smarter and keeps all data local. A Raspberry Pi with a camera module runs face recognition software. Train it on photos of your family and it greets known people by name ("Welcome home, Sarah"). Strangers trigger a photo that's sent to your phone via Telegram or email. Add a button for the doorbell ring and a speaker for two-way audio. All processing happens on the Pi — no cloud, no subscription, no corporation watching your front door. An open-source Ring alternative that you control completely.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Raspberry Pi 4 (4GB recommended for face recognition) *(electronics supplier)*
 - [ ] Pi Camera Module v2 or USB webcam *(electronics supplier)*
@@ -28,7 +27,9 @@ Ring doorbell costs $100+ and sends your video to Amazon's cloud. Build your own
 - [ ] 5V power supply — outdoor-rated *(electronics supplier)*
 - [ ] MicroSD card 32GB+ *(electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up the Pi.** Install Raspberry Pi OS and configure WiFi. Enable the camera interface. Install Python dependencies: face_recognition library (which uses dlib), OpenCV, and Flask.
 2. **Train face recognition.** Take 5-10 photos of each family member in different lighting conditions. Use the face_recognition library to generate face encodings from these photos. Save the encodings with associated names to a JSON file.
@@ -40,13 +41,13 @@ Ring doorbell costs $100+ and sends your video to Amazon's cloud. Build your own
 8. **Weatherproof and mount.** Install everything in a weatherproof enclosure with a window for the camera lens. Mount at front door height (about 4-5 feet) for optimal face capture angle. Run power from an indoor outlet.
 9. **Tune and improve.** Adjust the face recognition tolerance (how close a match must be to be considered "known"). Add more training photos over time for better accuracy. Set up quiet hours to suppress notifications at night.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Outdoor-facing cameras and face recognition raise privacy concerns. Be transparent with visitors — consider a small sign indicating the doorbell has a camera. Know your local laws regarding recording on your own property.
 - The Pi running continuous face recognition generates significant heat. Ensure the weatherproof enclosure has ventilation or passive cooling. Overheating causes thermal throttling and missed detections.
 - Keep the face recognition system on your local network only. Do not expose the Flask dashboard to the internet without proper authentication and HTTPS — it contains video of everyone who approaches your door.
 
-## See Also
+## 🔗 See Also
 
 - [ESP32-CAM Security](128-esp32-cam-security.md)
 - [Face Tracking Laser](../python-projects/141-face-tracking-laser.md)

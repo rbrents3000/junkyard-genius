@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A smart mirror looks like a normal mirror until it turns on — then text and graphics appear to float on the mirror surface. Time, date, weather forecast, calendar events, news headlines, commute time, even Spotify now-playing. The trick is a one-way mirror: reflective on the front, transparent from behind. Mount a monitor behind it with a dark background, and only the lit pixels shine through the glass. Everything else reflects like a normal mirror. A Raspberry Pi runs MagicMirror², an open-source platform with hundreds of community modules. The whole build costs a fraction of commercial smart mirrors that retail for $500+.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Old LCD monitor — thinner is better, 19-24 inch *(e-waste, thrift store)*
 - [ ] Raspberry Pi 3 or 4 *(electronics supplier)*
@@ -28,7 +27,9 @@ A smart mirror looks like a normal mirror until it turns on — then text and gr
 - [ ] Power strip — for Pi and monitor *(hardware store)*
 - [ ] Wood or MDF — for frame backing *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Disassemble the monitor.** Remove the plastic bezel and stand from the LCD panel. You want the bare panel as thin as possible. Keep the driver board and power supply attached — just remove the decorative housing. Note the panel dimensions.
 2. **Build or modify the frame.** The frame needs to hold the one-way mirror on the front and the LCD panel behind it. Build a shadow box frame from wood or MDF, or modify a large picture frame. The frame depth needs to accommodate the monitor panel plus the Pi.
@@ -41,13 +42,13 @@ A smart mirror looks like a normal mirror until it turns on — then text and gr
 9. **Mount on the wall.** Hang the completed mirror on the wall in your bathroom, hallway, or bedroom. Plug it in and it boots automatically. From the front, it looks like a normal mirror with information floating on the surface.
 10. **Add custom modules.** The MagicMirror² community has modules for Spotify, Ring doorbell, voice control, face recognition (greets family members by name), package tracking, and hundreds more. Browse the module directory for ideas.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - One-way mirror acrylic can shatter if dropped. Handle with care during installation. Glass versions are heavier and more fragile — acrylic is recommended for wall mounting safety.
 - The monitor and Pi generate heat inside the enclosed frame. Ensure adequate ventilation with holes or gaps in the frame back. Without airflow, components can overheat and fail or pose a fire risk.
 - If mounting in a bathroom, keep all electrical connections above the splash zone. Consider a GFCI outlet. The monitor and Pi are not waterproof.
 
-## See Also
+## 🔗 See Also
 
 - [Deepfake Mirror](../python-projects/153-deepfake-mirror.md)
 - [Pi-hole Ad Blocker](139-pi-hole-ad-blocker.md)

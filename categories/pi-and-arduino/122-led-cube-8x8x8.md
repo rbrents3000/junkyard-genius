@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 An 8x8x8 LED cube is 512 LEDs soldered into a three-dimensional grid, each individually addressable. With an ESP32 or Arduino driving the multiplexing, you can display 3D animations that float in mid-air: rain falling through the cube, fire flickering upward, text scrolling in 3D, sine waves rippling, and audio-reactive patterns that dance to music. It's a volumetric display — the closest thing to a hologram you can build at home. The soldering takes patience (512 joints), but the result is a mesmerizing light sculpture that stops everyone who sees it.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 512+ LEDs — common anode or cathode, 5mm diffused, single color or RGB *(electronics supplier)*
 - [ ] ESP32 or Arduino Mega — needs enough GPIO for column/layer control *(electronics supplier)*
@@ -29,7 +28,9 @@ An 8x8x8 LED cube is 512 LEDs soldered into a three-dimensional grid, each indiv
 - [ ] Solid core wire — for horizontal connections *(electronics supplier)*
 - [ ] Power supply — 5V 3A+ *(old phone charger or lab supply)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the soldering jig.** Drill an 8x8 grid of holes spaced 20mm apart in a piece of wood or MDF. The holes should fit the LED bodies snugly. This jig ensures every LED layer is perfectly aligned and evenly spaced. Precise spacing is critical — crooked layers ruin the visual effect.
 2. **Bend and trim LED leads.** Insert 64 LEDs into the jig. Bend one lead (cathode for common-cathode design) 90 degrees so it reaches the adjacent LED's cathode. Solder the cathodes together in rows to form horizontal connections. Trim excess leads.
@@ -41,13 +42,13 @@ An 8x8x8 LED cube is 512 LEDs soldered into a three-dimensional grid, each indiv
 8. **Add complex animations.** Program sine waves, fire simulation, 3D text rendering, rotating shapes, and Game of Life in 3D. For audio-reactive mode, add a microphone module and use FFT to map frequency bands to cube layers or columns.
 9. **Build an enclosure (optional).** Mount the cube on a clear acrylic base with the driver board hidden underneath. A smoked acrylic case makes the LEDs pop against a dark background. Add a microphone port for audio reactivity.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - You are making 512+ solder joints. Take breaks to avoid repetitive strain. Use a fume extractor or work in a ventilated area — solder fumes are irritating with prolonged exposure.
 - The driver board handles significant current when all LEDs are on simultaneously. Ensure your power supply is rated for peak load and that transistor heat sinks are adequate if using high-brightness LEDs.
 - Test each layer before stacking. Debugging a connection error in a completed cube is exponentially harder than fixing it layer by layer.
 
-## See Also
+## 🔗 See Also
 
 - [Music Visualizer LED Wall](../python-projects/145-music-visualizer-led-wall.md)
 - [MIDI Stepper Organ](135-midi-stepper-organ.md)

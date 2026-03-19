@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Professional fireworks shows aren't lit by hand — they're fired by computer-controlled sequencers that cost thousands of dollars. The technology is dead simple: a relay board, some nichrome wire igniters, and a timing program. A Raspberry Pi can do exactly what those professional units do. Wire each firework's fuse to a nichrome igniter, connect the igniter to a relay channel, and write a Python script that fires each channel at precisely timed intervals. Sync it to music. Program build-ups, crescendos, and grand finales. Your backyard Fourth of July show suddenly has the precision of a Disney fireworks display.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Raspberry Pi (any model with GPIO) *(electronics supplier)*
 - [ ] 8 or 16 channel relay module — 5V, optically isolated *(electronics supplier)*
@@ -29,7 +28,9 @@ Professional fireworks shows aren't lit by hand — they're fired by computer-co
 - [ ] Master kill switch — physical toggle *(electronics supplier)*
 - [ ] Safety goggles and ear protection *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the igniters.** Cut 3-inch lengths of thin nichrome wire and twist the ends around thicker copper lead wires. When current flows through the thin nichrome section, it glows red-hot in under a second — hot enough to ignite fuse material. Build one igniter per firework.
 2. **Wire the relay board.** Connect each relay channel's normally-open contacts to a pair of long speaker wires that run out to the firework positions. One side of each pair connects to the 12V battery positive through the master kill switch. The other side returns to battery negative through the nichrome igniter.
@@ -41,13 +42,13 @@ Professional fireworks shows aren't lit by hand — they're fired by computer-co
 8. **Arm and fire.** Clear everyone to a safe distance behind the control station. Flip the master kill switch to ARM. Run the firing script. Each channel fires at its programmed time, igniting fuses in precise sequence.
 9. **Emergency procedures.** The master kill switch must be within arm's reach at all times. If anything goes wrong, flip the switch. Wait at least 15 minutes before approaching any unfired fireworks — the igniter may have heated the fuse without visible ignition.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - This is a real pyrotechnic firing system. Treat it with the same respect as a professional installation. Never wire igniters to fireworks until you are ready to fire. The master kill switch must physically disconnect the battery — never rely on software alone.
 - Follow all local fireworks laws. Many jurisdictions require permits for electronically fired displays. Check your local regulations before building or using this system.
 - Nichrome igniters are hot enough to ignite fuses, clothing, and skin instantly when energized. Never handle igniters while the system is armed. Never test igniters near fireworks or flammable materials.
 
-## See Also
+## 🔗 See Also
 
 - [Smoke Bomb Array](../pyro-and-chemistry/103-smoke-bomb-array.md)
 - [Cold Spark Machine](../pyro-and-chemistry/104-cold-spark-machine.md)

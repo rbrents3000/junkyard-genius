@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Commercial weather stations give you current conditions. A DIY ESP32 weather station network gives you current conditions, historical data, trend analysis, and the ability to predict weather changes from your own barometric pressure curves. Multiple ESP32 nodes with different sensors (BME280 for temperature/humidity/pressure, anemometer for wind, UV sensor for solar radiation, rain gauge) report data over WiFi to a Raspberry Pi running InfluxDB and Grafana. Beautiful real-time dashboards show hyperlocal weather data — not the airport 20 miles away, but YOUR backyard right now.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] ESP32 boards — 1-3 nodes *(electronics supplier)*
 - [ ] BME280 sensor — temperature, humidity, barometric pressure *(electronics supplier)*
@@ -28,7 +27,9 @@ Commercial weather stations give you current conditions. A DIY ESP32 weather sta
 - [ ] Weatherproof enclosures *(hardware store)*
 - [ ] Radiation shield — ventilated housing for temperature sensor (to avoid sun heating) *(3D print or build from plates)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the primary sensor node.** Wire the BME280 to an ESP32 via I2C. The BME280 provides temperature, humidity, and barometric pressure in a single $3 chip. Test with a simple sketch that prints readings to serial.
 2. **Add wind measurement.** Build or mount an anemometer. A simple version: 3 ping pong ball halves on arms attached to a motor shaft with a magnet and reed switch. Each rotation triggers the reed switch; count pulses per second to calculate wind speed. Connect to an ESP32 GPIO interrupt pin.
@@ -40,13 +41,13 @@ Commercial weather stations give you current conditions. A DIY ESP32 weather sta
 8. **Add solar power (optional).** For remote nodes, connect a small solar panel to a TP4056 charging board and LiPo battery. The ESP32 can deep-sleep between readings to extend battery life dramatically — waking every 5 minutes uses minimal power.
 9. **Calibrate and validate.** Compare your readings against a known weather source for a few days. Apply correction factors if needed. Barometric pressure needs altitude calibration — your raw reading must be adjusted for your elevation above sea level.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Outdoor electronics must be properly sealed against rain and moisture. Water ingress causes short circuits and corrosion. Test waterproofing before deploying electronics by spraying the empty enclosure with a hose.
 - Lightning strikes near sensor nodes can send voltage spikes through the wiring. If your area has frequent thunderstorms, add surge protection (TVS diodes) to sensor input lines, especially the anemometer and rain gauge connections.
 - Solar-powered nodes with LiPo batteries should never be left in direct sun without shade over the battery. LiPo batteries swell and can ignite if overheated beyond 140°F.
 
-## See Also
+## 🔗 See Also
 
 - [Auto Plant Watering](127-auto-plant-watering.md)
 - [Earthquake Detector](../python-projects/146-earthquake-detector.md)

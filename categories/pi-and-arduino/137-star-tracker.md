@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 The Earth rotates once every 24 hours. Point a camera at the sky and take a long exposure, and the stars streak into trails because the Earth moved during the shot. A star tracker counteracts Earth's rotation by slowly rotating the camera at the same speed but in the opposite direction, keeping the stars perfectly still in the frame. Commercial star trackers cost $300-500. Build one with a stepper motor driven by a Raspberry Pi, and you can take 2-5 minute exposures where the stars are perfect pinpoints. Suddenly, your consumer camera captures the Milky Way, nebulae, and galaxies that are invisible to the naked eye. The images rival telescope photography.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Stepper motor — NEMA 17 with a high gear ratio (a geared stepper or stepper + worm gear) *(electronics supplier)*
 - [ ] Stepper driver (A4988 or TMC2209) — TMC2209 for silent operation *(electronics supplier)*
@@ -29,7 +28,9 @@ The Earth rotates once every 24 hours. Point a camera at the sky and take a long
 - [ ] Tripod — for the base *(already own)*
 - [ ] Camera with manual exposure mode *(already own)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Calculate the rotation speed.** Earth rotates 360 degrees in 23 hours 56 minutes 4 seconds (a sidereal day). That's 15.041 arcseconds per second, or one revolution per 1436 minutes. Your stepper motor must rotate at exactly this rate. Calculate the step rate: (steps per revolution * gear ratio) / 1436 minutes = steps per minute.
 2. **Build the barn door mount.** The simplest star tracker is a "barn door" design: two boards hinged together, with a stepper-driven threaded rod pushing them apart. The hinge axis points at Polaris (the North Star). As the rod extends, the top board tilts at the sidereal rate, carrying the camera with it.
@@ -41,13 +42,13 @@ The Earth rotates once every 24 hours. Point a camera at the sky and take a long
 8. **Take test exposures.** Start with 30-second exposures and examine the stars at full zoom. If they're round, increase to 60 seconds, then 2 minutes, then 5 minutes. Trailing means your polar alignment or tracking speed needs adjustment.
 9. **Stack images.** For maximum detail, take multiple 2-3 minute exposures and stack them using free software like DeepSkyStacker or Sequator. Stacking reduces noise and reveals faint details invisible in a single exposure.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Do not look at the sun through the camera during setup. Star trackers are used at night, but if you're setting up at dusk, be mindful of camera alignment near the sun.
 - Working in the dark with equipment, cables, and a tripod on uneven ground creates trip hazards. Use a red headlamp (preserves night vision) and organize cables before it gets dark.
 - Battery-powered operation in cold weather drains batteries faster. Keep spare batteries warm in your pockets. A dead battery mid-exposure means missed shots and a wasted night.
 
-## See Also
+## 🔗 See Also
 
 - [Generative Art Plotter](../python-projects/142-generative-art-plotter.md)
 - [ESP32 Weather Station](132-esp32-weather-station.md)

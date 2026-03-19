@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Commercial drones are marvels of engineering — but the core technology isn't that complicated. An IMU (Inertial Measurement Unit) measures orientation. A PID control loop calculates motor speed corrections. Four motors adjust their speeds to keep the craft level. An ESP32 has enough processing power to run the PID loop at 1000Hz while simultaneously hosting a WiFi control interface. Add an MPU6050 6-axis IMU ($1), four brushless motors with ESCs, a LiPo battery, and a 3D-printed or balsa wood frame, and you've built a flyable drone from scratch for under $30. Control it from your phone via WiFi. It's the most challenging build in this section and the most rewarding when it lifts off.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] ESP32 dev board *(electronics supplier)*
 - [ ] MPU6050 IMU module — 6-axis accelerometer + gyroscope *(electronics supplier, ~$1)*
@@ -28,7 +27,9 @@ Commercial drones are marvels of engineering — but the core technology isn't t
 - [ ] LiPo charger *(electronics supplier)*
 - [ ] Propeller guards — 3D printed (recommended for first flights) *(workshop)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build or print the frame.** A micro drone frame needs to be as light as possible. 3D print one from the many free quadcopter designs online, or build from popsicle sticks and hot glue. The frame should hold four motors at equal distances from center, with a flat mounting area for the ESP32 and battery.
 2. **Mount the motors.** Press-fit or glue the motors into the frame arms. Two diagonal motors spin clockwise, two spin counter-clockwise (this eliminates yaw torque). Attach matching propellers — CW props on CW motors, CCW props on CCW motors.
@@ -40,13 +41,13 @@ Commercial drones are marvels of engineering — but the core technology isn't t
 8. **First flight test.** Tether the drone with a string to limit altitude for initial testing. Start with very low throttle and verify the drone tries to level itself. If it flips immediately, check motor spin directions and propeller orientation. Tune PID gains: start with P only, add D for stability, then I to eliminate steady-state error.
 9. **Iterate and refine.** PID tuning is an iterative process. Adjust gains in small increments. A well-tuned drone should hover stably with minimal stick input. Add altitude hold using the barometer data from a BMP280 sensor for extra credit.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Spinning propellers can cut skin and are dangerous to eyes. Always use propeller guards during development. Never reach toward a drone with spinning props. Keep fingers, hair, and loose clothing clear.
 - LiPo batteries are dangerous if mistreated. Never discharge below 3.0V (damages the cells permanently). Never charge unattended. Never use a puffy or damaged battery. Store in a fireproof LiPo bag.
 - First flights WILL crash. Start over soft surfaces (grass) and at low altitude. Tether with a light string until the PID is tuned. A poorly tuned PID loop will flip the drone violently — this happens in milliseconds, faster than you can react.
 
-## See Also
+## 🔗 See Also
 
 - [Star Tracker](137-star-tracker.md)
 - [Nerf Sentry Turret](138-nerf-sentry-turret.md)

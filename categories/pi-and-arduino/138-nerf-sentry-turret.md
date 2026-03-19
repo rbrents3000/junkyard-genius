@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Take a motorized Nerf gun (the kind with a flywheel launcher), mount it on a pan/tilt servo platform, add an ultrasonic sensor or Pi camera for target detection, and you've got an automated sentry turret that tracks and fires at anything that moves. The basic version uses ultrasonic distance sensors to detect objects entering a zone and sweeps to find them. The advanced version uses a Pi camera with OpenCV to track movement or even face recognition to only shoot strangers while letting family members pass unharmed. The firing mechanism is just a servo pressing the Nerf gun's trigger. It's the most fun defensive system ever built.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Motorized Nerf gun — any flywheel-powered model (Stryfe, Rapidstrike) *(toy store, thrift store)*
 - [ ] Servo motors — 2, for pan and tilt (standard or high-torque depending on gun weight) *(electronics supplier)*
@@ -29,7 +28,9 @@ Take a motorized Nerf gun (the kind with a flywheel launcher), mount it on a pan
 - [ ] Base plate — heavy, to prevent recoil from tipping the turret *(hardware store)*
 - [ ] Zip ties and mounting hardware *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Modify the Nerf gun.** Open the Nerf gun and locate the trigger mechanism and flywheel motors. Wire the flywheel motor power to an external switch or relay (so the turret controller can spin up the flywheels). Mount a servo to press the trigger — a servo arm pushing the trigger lever fires the gun.
 2. **Build the pan/tilt platform.** Assemble the servo bracket with one servo for horizontal panning (base) and one for vertical tilting. Mount the bracket to a heavy base plate. The base must be heavy enough that the turret doesn't walk across the table from recoil.
@@ -41,13 +42,13 @@ Take a motorized Nerf gun (the kind with a flywheel launcher), mount it on a pan
 8. **Add a magazine and reload indicator.** Most motorized Nerf guns use magazines. When the mag is empty, a sensor (microswitch or IR break beam) detects the last dart and signals the controller to stop firing and alert you to reload.
 9. **Set up the defense zone.** Position the turret to cover a doorway, hallway, or desk. Set the sweep range limits so the turret only covers the intended area. Test with volunteers who consent to being shot.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Even Nerf darts can sting at close range, especially direct hits to the face. Set a minimum engagement distance in the software. Never aim the turret at eye level at close range. Warn everyone in the house that the turret is active.
 - Spinning flywheel motors in motorized Nerf guns can catch hair, loose strings, or small fingers. Keep the flywheel area enclosed and don't reach into the barrel while the motors are on.
 - If using face recognition, test thoroughly before trusting it. False positives (shooting family) and false negatives (not shooting intruders) are both possible. This is a toy — never rely on it for actual security.
 
-## See Also
+## 🔗 See Also
 
 - [Face Tracking Laser](../python-projects/141-face-tracking-laser.md)
 - [Printer Robot Arm](129-printer-robot-arm.md)

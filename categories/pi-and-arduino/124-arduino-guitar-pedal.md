@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Guitar effect pedals are just analog-to-digital converters, signal processing, and digital-to-analog converters — the exact thing a microcontroller excels at. An Arduino reads the guitar signal through its ADC, processes it in real-time (distortion by clipping the waveform, delay by buffering and replaying, chorus by modulating a delayed copy), and outputs the modified signal through a DAC or PWM filter. House the whole thing in a dead hard drive chassis for industrial aesthetics, add knobs salvaged from old stereos for parameter control, and you've got a custom guitar pedal that cost $15 instead of $150.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Arduino Uno or Nano — needs ADC and enough clock speed for audio processing *(electronics supplier)*
 - [ ] Op-amp (LM386 or similar) — for input/output amplification *(electronics supplier)*
@@ -29,7 +28,9 @@ Guitar effect pedals are just analog-to-digital converters, signal processing, a
 - [ ] Knobs — salvaged from old stereos or radios *(thrift store, e-waste)*
 - [ ] Perfboard *(electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the input stage.** The guitar signal is too weak for the Arduino's ADC to read effectively. Build a pre-amp using an op-amp circuit that amplifies the guitar signal and biases it to the Arduino's 0-5V ADC range. A simple non-inverting amplifier with a gain of ~20 works well.
 2. **Connect to the Arduino ADC.** Feed the amplified, biased signal into one of the Arduino's analog input pins. Set the ADC to free-running mode for the fastest sample rate. The Arduino Uno's ADC can sample at about 9600 Hz — not hi-fi, but enough for gritty lo-fi effects.
@@ -40,13 +41,13 @@ Guitar effect pedals are just analog-to-digital converters, signal processing, a
 7. **Wire the bypass switch.** Install a true-bypass footswitch that routes the signal directly from input to output when the effect is off, and through the Arduino circuit when engaged. This ensures zero signal degradation when the pedal is off.
 8. **Assemble and test.** Mount the perfboard circuit inside the HDD chassis. Attach the knobs, jacks, and switch. Power up, plug in a guitar, and start tweaking. Adjust the code parameters to find sounds you like.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Audio circuits are low voltage and generally safe, but be careful with the op-amp power supply. Double-check polarity before connecting power — reversed polarity destroys ICs instantly.
 - Grounding is critical for audio circuits. Poor grounding introduces hum and buzz. Use the HDD chassis as a ground plane and connect all ground points to it with short leads.
 - If using the pedal with an amplifier, start at low volume. Digital clipping from the Arduino can produce unexpectedly loud artifacts that may damage speakers if the amp is cranked.
 
-## See Also
+## 🔗 See Also
 
 - [Pi DJ Controller](131-pi-dj-controller.md)
 - [MIDI Stepper Organ](135-midi-stepper-organ.md)

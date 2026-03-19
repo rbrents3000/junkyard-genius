@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Every stepper motor makes a whining noise when it runs — it's the sound of the motor coils energizing in sequence. The pitch of that whine is directly proportional to the step rate. Double the step rate, and the pitch goes up an octave. Map MIDI note numbers to step rates, and each stepper motor becomes a buzzy, robotic musical instrument. With 4-8 motors, you have polyphonic music. Old floppy drives work the same way — the head stepper motor whines as it seeks back and forth. The sound is unique: part mechanical, part electronic, entirely alien. YouTube videos of floppy drive orchestras playing movie themes and classical music have hundreds of millions of views. Build yours with printer motors, floppy drives, or any stepper you can salvage.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Stepper motors — 4-8, salvaged from printers, scanners, or floppy drives *(e-waste bin)*
 - [ ] Floppy drives — optional alternative, 3.5" or 5.25" *(e-waste, thrift store)*
@@ -28,7 +27,9 @@ Every stepper motor makes a whining noise when it runs — it's the sound of the
 - [ ] Mounting board — wood or acrylic to mount the motors *(workshop)*
 - [ ] Rubber feet or damping material — motors vibrate *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage the motors.** Pull stepper motors from dead printers, scanners, and floppy drives. For floppy drives, you can use the entire drive as-is — the head stepper motor inside produces the musical tone. For standalone steppers, you just need the motor and driver.
 2. **Wire the drivers.** Connect each stepper motor to its own driver board (A4988 for bipolar steppers, ULN2003 for unipolar). Connect the STEP and DIR pins of each driver to separate Arduino digital pins. Power all drivers from the 12V supply.
@@ -40,13 +41,13 @@ Every stepper motor makes a whining noise when it runs — it's the sound of the
 8. **Play full arrangements.** Load MIDI files of popular songs into a sequencer and route each track to a different motor. Movie themes (Star Wars, Imperial March, Pirates of the Caribbean) and classical pieces (Für Elise, Flight of the Bumblebee) are crowd favorites for stepper motor performances.
 9. **Film the performance.** The visual of motors twitching and drives seeking while playing recognizable music is inherently viral. Film close-up with good audio. Slow-motion captures the mechanical movement beautifully.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Stepper motors get hot during sustained operation, especially at high frequencies. Don't touch motor casings during or immediately after a performance. Let them cool between long pieces.
 - The 12V power supply needs to handle the current draw of all motors simultaneously. Undersized power supplies sag under load, causing missed steps and wrong notes. Calculate total current: each stepper draws 0.5-1.5A depending on the model.
 - Floppy drive head mechanisms have limited travel (about 80 tracks). The firmware must reverse direction at the travel limits. Crashing the head into the end stop repeatedly damages the drive mechanism.
 
-## See Also
+## 🔗 See Also
 
 - [Arduino Guitar Pedal](124-arduino-guitar-pedal.md)
 - [LED Cube 8x8x8](122-led-cube-8x8x8.md)

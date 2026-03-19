@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Ring and Nest cameras cost $100+ each and require monthly subscriptions. An ESP32-CAM module costs $6 and includes a camera, WiFi, and a microcontroller. Add some IR LEDs for night vision, flash firmware that streams MJPEG over WiFi, and point it at your front door. A Raspberry Pi on your local network runs motion detection software (MotionEye or Frigate) that records clips and sends push notifications to your phone. Multiple cameras cover every angle. No cloud subscription, no monthly fees, all footage stays on YOUR hardware. A complete home security system for under $50.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] ESP32-CAM modules — $6 each, one per camera position *(electronics supplier)*
 - [ ] OV2640 camera modules — usually included with ESP32-CAM *(electronics supplier)*
@@ -28,7 +27,9 @@ Ring and Nest cameras cost $100+ each and require monthly subscriptions. An ESP3
 - [ ] Weatherproof enclosures — for outdoor cameras *(hardware store, online)*
 - [ ] FTDI USB-to-serial adapter — for flashing the ESP32-CAM *(electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Flash the ESP32-CAM firmware.** Connect the ESP32-CAM to your computer via the FTDI adapter (the ESP32-CAM has no USB port). Flash the ESP32-CAM-MB firmware or a custom Arduino sketch that serves an MJPEG stream over WiFi. Configure your WiFi credentials in the code before flashing.
 2. **Test the camera stream.** Power the ESP32-CAM and navigate to its IP address in a browser. You should see a live video feed. Adjust resolution and quality settings — VGA (640x480) is a good balance of quality and bandwidth.
@@ -40,13 +41,13 @@ Ring and Nest cameras cost $100+ each and require monthly subscriptions. An ESP3
 8. **Mount and position.** Install cameras at entry points — front door, back door, driveway, garage. Angle them to cover the approach areas. Test coverage at night to verify IR illumination reaches far enough.
 9. **Add storage.** Connect a USB hard drive to the Pi for weeks of continuous recording. Configure automatic cleanup to delete old footage after a set period.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Outdoor cameras must be properly weatherproofed. Water ingress destroys the ESP32-CAM instantly. Test weatherproof enclosures with a hose before installing electronics inside.
 - Be aware of privacy laws regarding camera placement. In most jurisdictions, you can record your own property but not your neighbors' private areas. Point cameras at YOUR entry points, not across property lines.
 - The ESP32-CAM's WiFi range is limited (~30-50 feet through walls). For distant cameras, use WiFi range extenders or run Ethernet with PoE adapters.
 
-## See Also
+## 🔗 See Also
 
 - [AI Doorbell](130-ai-doorbell.md)
 - [Auto Plant Watering](127-auto-plant-watering.md)
