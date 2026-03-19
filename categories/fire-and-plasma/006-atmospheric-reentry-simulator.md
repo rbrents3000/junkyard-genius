@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A microwave oven transformer (MOT) rewired to output massive current at low voltage through metal samples clamped between two copper electrodes. The metal heats up from electrical resistance — first glowing red, then orange, then white, then sagging and melting. It's the same resistive heating principle that spacecraft heat shields experience during atmospheric reentry, and it looks just as dramatic.
 
 You can test different metals and alloys side by side: watch how steel glows and holds shape while aluminum slumps into liquid, how copper conducts so well it barely heats up while nichrome wire reaches white-hot in seconds. It's a real-time materials science lab built from a dead microwave.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Microwave oven transformer (MOT) *(source: dead microwave, free)*
 - [ ] Thick copper cable or copper bus bar for output leads, at least 4 AWG *(source: scrap electrical wire, free-$5)*
@@ -29,7 +28,9 @@ You can test different metals and alloys side by side: watch how steel glows and
 - [ ] Fire bricks or ceramic tile work surface *(source: hardware store, ~$5)*
 - [ ] 14-gauge wire and wire nuts *(source: hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Rewire the MOT for high current.** Remove the high-voltage secondary winding (the thin wire with many turns). Replace it with 2-3 turns of very thick copper cable (4 AWG or thicker). This converts the MOT from high-voltage/low-current to low-voltage/extremely-high-current — you'll get roughly 2-4 volts at hundreds of amps. That's enough current to heat metal to incandescence.
 
@@ -49,13 +50,14 @@ You can test different metals and alloys side by side: watch how steel glows and
 
 9. **Push to destruction.** For the most dramatic effect, pick a sample and crank the power until it melts, drips, and falls apart. The moment a metal sample sags and stretches under its own weight at white heat is genuinely mesmerizing. Record it in slow motion if you can.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **The secondary output is low voltage but extremely high current.** While 2-4 volts won't shock you through dry skin, the current is enough to instantly weld metal. Never touch the electrodes or sample while powered — a ring on your finger across the terminals could result in a severe burn. Remove all jewelry before operating.
+> [!CAUTION]
+> **The secondary output is low voltage but extremely high current.** While 2-4 volts won't shock you through dry skin, the current is enough to instantly weld metal. Never touch the electrodes or sample while powered — a ring on your finger across the terminals could result in a severe burn. Remove all jewelry before operating.
 - **Metals at white heat radiate intense infrared and some UV.** Don't stare at white-hot samples without eye protection. Welding-shade glasses or at minimum dark sunglasses. A face shield protects from spatter.
 - **Molten metal drips are inevitable.** Work on fire brick over a concrete floor. Never over wood, carpet, or plastic. Keep a wide clear zone — drips can bounce and roll.
 
-## See Also
+## 🔗 See Also
 
 - [Lichtenberg Wood Burner](002-lichtenberg-wood-burner.md) — same MOT, different application (high voltage through wood instead of high current through metal)
 - [Desktop Foundry](005-desktop-foundry.md) — if you want to actually collect and cast the molten metal

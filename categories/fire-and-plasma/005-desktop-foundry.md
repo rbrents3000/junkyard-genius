@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A miniature metal foundry built from a steel bucket lined with a homemade refractory (plaster of paris mixed with sand). A hair dryer blows air into the combustion chamber to supercharge charcoal or propane, pushing temperatures past 1,220degF (660degC) — the melting point of aluminum. Drop in crushed soda cans, wait a few minutes, and pour molten aluminum into sand molds or muffin tins.
 
 This is the gateway drug to metalcasting. Once you realize you can melt metal in your backyard with stuff from the dollar store, you start looking at every aluminum object differently. Old engine blocks, broken lawn chairs, heat sinks — it's all just raw material now.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Steel bucket or small steel trash can *(source: hardware store, ~$8)*
 - [ ] Plaster of paris — 5-10 lbs *(source: hardware store or craft store, ~$8)*
@@ -31,7 +30,9 @@ This is the gateway drug to metalcasting. Once you realize you can melt metal in
 - [ ] Long steel tongs or pliers for handling the crucible *(source: hardware store, ~$8)*
 - [ ] Muffin tin or sand mold for casting *(source: thrift store, ~$2)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the refractory lining.** Mix plaster of paris and sand at a 1:1 ratio by volume. Add water slowly until you get a thick, pourable consistency. Line the inside of your steel bucket by pouring the mix around a smaller bucket or can placed in the center (this creates the combustion chamber). Leave a hole in the side wall near the bottom for the air pipe. Let it cure for at least 48 hours — moisture in the lining will crack and potentially explode if heated too fast.
 
@@ -53,13 +54,14 @@ This is the gateway drug to metalcasting. Once you realize you can melt metal in
 
 10. **Cool and demold.** Let the casting cool for at least 15 minutes before handling. Pop it out of the mold, clean up the edges with a file, and admire your work. You just made metal from trash.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Molten aluminum is invisible-hot.** It looks like silver liquid but it's over 1,200degF. A single splash will cause a severe burn. Wear leather boots (not sneakers), long pants, leather gloves, and a face shield. Never wear synthetic fabrics — they melt into skin.
+> [!CAUTION]
+> **Molten aluminum is invisible-hot.** It looks like silver liquid but it's over 1,200degF. A single splash will cause a severe burn. Wear leather boots (not sneakers), long pants, leather gloves, and a face shield. Never wear synthetic fabrics — they melt into skin.
 - **Never let water contact molten aluminum.** Water flashes to steam instantly and causes a violent explosion that sprays molten metal everywhere. Make sure your molds, tools, and work area are completely dry. Even damp concrete can cause a steam explosion. Do NOT pour into wet molds.
 - **Fumes are toxic.** Burning soda can coatings, paint, and plastics produce toxic fumes. Work outdoors or in very well-ventilated areas. If you're melting anything with paint or coatings, a respirator is smart.
 
-## See Also
+## 🔗 See Also
 
 - [Thermic Lance](004-thermic-lance.md) — when you want to cut metal instead of melt it
 - [Fresnel Lens Solar Forge](../light-and-visual/020-fresnel-lens-solar-forge.md) — melt metal using focused sunlight instead of charcoal

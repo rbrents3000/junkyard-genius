@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A cylindrical cage of fine metal mesh screen sits on a lazy susan bearing. In the center is a small fuel source — a can of gel fuel, a cotton ball soaked in rubbing alcohol, or a small propane burner. When you spin the mesh cylinder, it drags air around the flame tangentially, creating a vortex. The flame stretches upward into a tight, spinning tornado column that can reach 2-3 feet tall from a fuel source only a few inches wide.
 
 The physics is the same as a real tornado — angular momentum concentrates the rising hot air into a tighter and tighter column, and conservation of angular momentum speeds up the rotation. The mesh screen provides just enough air drag to set the rotation going while still allowing airflow through. The result is one of the most photogenic physics demonstrations you can build, and it takes less than an hour.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Lazy susan bearing, 6-12 inch *(source: hardware store or inside old microwave turntable, ~$5-8)*
 - [ ] Fine metal mesh screen / hardware cloth, about 2ft x 3ft *(source: hardware store, ~$8)*
@@ -27,7 +26,9 @@ The physics is the same as a real tornado — angular momentum concentrates the 
 - [ ] Wooden or metal base platform *(source: scrap wood, free)*
 - [ ] Small screws or wire for assembly *(source: hardware store or junk drawer)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the base platform.** Mount the lazy susan bearing centered on a flat wooden or metal platform, at least 16 inches square. The platform needs to be heavy enough to stay stable when the cylinder is spinning. Screw the bearing down securely.
 
@@ -43,13 +44,14 @@ The physics is the same as a real tornado — angular momentum concentrates the 
 
 7. **Optimize.** Experiment with spin speed, fuel source height, and mesh density. Finer mesh creates more air drag and a tighter vortex. A platform-level fuel source works differently than one raised on a small pedestal. Adding a small amount of colored flame additive (boric acid for green, lithium for red) makes it even more spectacular.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Keep the fire tornado away from overhead flammables.** The flame column can easily reach 3 feet tall and sometimes throws sparks. Do this outdoors or under a high, non-flammable ceiling. Not under a canopy, tree, or garage ceiling.
+> [!WARNING]
+> **Keep the fire tornado away from overhead flammables.** The flame column can easily reach 3 feet tall and sometimes throws sparks. Do this outdoors or under a high, non-flammable ceiling. Not under a canopy, tree, or garage ceiling.
 - **The spinning mesh can throw embers outward.** Clear the area around the device of paper, dry leaves, and other tinder. Keep a fire extinguisher or water bucket within reach.
 - **Gel fuel and rubbing alcohol spills are hard to see when burning.** If the fuel container tips, you'll have an invisible alcohol fire spreading across the table. Use a stable, weighted fuel container that can't tip over, and keep the gel fuel can in a wider metal dish as secondary containment.
 
-## See Also
+## 🔗 See Also
 
 - [Propane Vortex Cannon](003-propane-vortex-cannon.md) — fire vortex rings that fly through the air instead of staying in place
 - [Rubens' Tube](../sound-and-music/009-rubens-tube.md) — another fire-based physics demonstration

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A sealed metal box — about 2 feet by 2 feet by 3 inches deep — filled with propane, with a grid of roughly 2,500 small holes (50 rows by 50 columns) drilled in the top plate. A speaker is sealed to one side of the box, creating pressure variations inside the gas-filled chamber. Light all the jets and play music through the speaker. The flames form 2D standing wave patterns that dance with the beat. Bass notes create large, slow-moving mountains and valleys of fire. Treble creates intricate geometric fire mandalas. This is the two-dimensional evolution of the classic Rubens' Tube (#009). Where the tube shows standing waves along a single line, the pyro board reveals them across a flat surface — two dimensions simultaneously.
 
@@ -20,7 +18,8 @@ The result is exponentially more dramatic. You can see complex 2D mode shapes th
 
 The engineering is a scaled-up version of the Rubens' Tube, with one critical difference: achieving uniform flame height across 2,500 holes requires much more attention to gas distribution and hole consistency. Every hole must be the same diameter, and the gas pressure must be even throughout the box. The speaker needs to be powerful enough to create measurable pressure variations across the full area of the chamber. A 6-8 inch woofer from a dead subwoofer works well — it moves enough air to affect the gas pressure across the entire box.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Sheet steel — 2 pieces, 24"x24"x16 gauge, for top and bottom plates *(scrap yard or sheet metal supplier, ~$20)*
 - [ ] Steel angle iron or channel — enough to form the sides of a 3" deep box *(scrap yard or hardware store, ~$10)*
@@ -34,7 +33,9 @@ The engineering is a scaled-up version of the Rubens' Tube, with one critical di
 - [ ] Phone or audio source *(already own)*
 - [ ] 3.5mm audio cable *(junk drawer, free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the sealed metal box.** Weld or seal the angle iron sides between the top and bottom steel plates to form a flat, sealed chamber approximately 24"x24"x3". If you can't weld, use bolts with high-temp silicone gaskets at every joint. The box must be gas-tight — any leak is a safety hazard and reduces performance.
 
@@ -56,16 +57,17 @@ The engineering is a scaled-up version of the Rubens' Tube, with one critical di
 
 10. **Fine-tune and document.** Adjust gas pressure and amplifier gain to find the sweet spot where patterns are clearly visible but flames aren't dangerously tall. Film from above and at an angle for the most dramatic footage.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Outdoors only.** Propane accumulation in an enclosed space is explosive. This project uses significantly more propane than a standard Rubens' Tube. Never operate indoors or in a garage with the door closed.
+> [!CAUTION]
+> **Outdoors only.** Propane accumulation in an enclosed space is explosive. This project uses significantly more propane than a standard Rubens' Tube. Never operate indoors or in a garage with the door closed.
 - **Keep the propane tank at a safe distance.** Use a hose at least 10 feet long between the tank and the pyro board. A flashback arrestor on the hose is mandatory, not optional.
 - **The sheet metal gets extremely hot.** After running for more than a few minutes, the entire top plate will be too hot to touch. Operate on a fireproof surface (concrete, brick, bare dirt) and keep all flammable materials away. Let it cool completely before moving or storing.
 - **Have a fire extinguisher within arm's reach.** If a leak develops while the board is lit, you need to be able to act immediately.
 - **Hearing protection.** The speaker inside the resonant metal box can be surprisingly loud, especially at resonant frequencies.
 - **Same fundamental safety rules as the Rubens' Tube (#009)** — but everything is scaled up. More gas, more fire, more respect required.
 
-## See Also
+## 🔗 See Also
 
 - [Rubens' Tube](../sound-and-music/009-rubens-tube.md)
 - [Fire Tornado Table](007-fire-tornado-table.md)

@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A microwave oven transformer (MOT) drives high voltage through a partial vacuum inside a glass vase, creating writhing tendrils of plasma that twist into a tornado shape when you introduce a rotating magnetic field or fan-driven airflow inside the chamber. The result looks like a commercial plasma globe on steroids — a foot-tall vortex of purple-white lightning trapped in glass, sitting on your desk.
 
 The key insight is that plasma follows airflow. By evacuating most of the air from a glass vessel and introducing a gentle vortex with the remaining low-pressure gas, the electrical discharge naturally spirals into a tornado column. Different gas fills (neon, argon, or just low-pressure air) produce different colors.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Microwave oven transformer (MOT) *(source: dead microwave — free from curb or appliance repair shop)*
 - [ ] Large glass vase or bell jar, at least 10" tall *(source: thrift store, ~$5-10)*
@@ -30,7 +29,9 @@ The key insight is that plasma follows airflow. By evacuating most of the air fr
 - [ ] 14-gauge wire, electrical tape, rubber mat *(source: hardware store)*
 - [ ] Wooden base for mounting *(source: scrap wood)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage the MOT.** Remove the transformer from a dead microwave. Keep the primary winding (thick wire, fewer turns) and the secondary winding (thin wire, many turns). Cut and discard the magnetic shunts (the thin plates between primary and secondary) — this increases output and makes it meaner.
 
@@ -52,13 +53,14 @@ The key insight is that plasma follows airflow. By evacuating most of the air fr
 
 10. **Finish and display.** Once you've found the sweet spot, seal the vacuum port permanently with epoxy. Mount everything cleanly on the wooden base with the wiring hidden underneath. Add a toggle switch to the primary circuit.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **MOTs can kill you.** The secondary outputs around 2,000V at high current — enough to stop your heart. Never touch any exposed conductor while the unit is powered. Always use one hand only (keep the other in your pocket) and stand on a rubber mat. Wire a kill switch within arm's reach.
+> [!CAUTION]
+> **MOTs can kill you.** The secondary outputs around 2,000V at high current — enough to stop your heart. Never touch any exposed conductor while the unit is powered. Always use one hand only (keep the other in your pocket) and stand on a rubber mat. Wire a kill switch within arm's reach.
 - **Glass under vacuum can implode.** Use thick-walled vessels only. Wear safety glasses during testing. If the glass has any chips or cracks, discard it — vacuum stress will find weak points.
 - **UV radiation.** Plasma discharges in certain gases produce UV. Don't stare at it for extended periods without UV-filtering glass, and don't leave skin exposed to it at close range for long sessions.
 
-## See Also
+## 🔗 See Also
 
 - [Plasma Speaker](../sound-and-music/008-plasma-speaker.md) — another MOT plasma project, but this one plays music
 - [Giant Plasma Globe](../light-and-visual/015-giant-plasma-globe.md) — similar concept but spherical
