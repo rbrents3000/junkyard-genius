@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Take a large, clear glass enclosure — a vase, jar, dome, or custom acrylic box. Put an ultrasonic mist maker in a water reservoir at the base. The mist fills the enclosure, trapped inside like a captured cloud. Add RGB LEDs and the cloud glows in any color — deep purple looks like a nebula, fiery orange looks volcanic, shifting colors look magical. Add a small fan and the cloud churns with turbulent motion, constantly reshaping itself. The piece de resistance: add a small speaker or bass transducer connected to music, and the sound vibrations create pulsing, rhythmic patterns in the mist that dance in sync with the beat. It's a living light sculpture that responds to music.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Large clear glass enclosure — fish bowl, glass dome, large jar, clear acrylic tube/box *(thrift store, craft store)*
 - [ ] Ultrasonic mist maker module *(~$5-8, electronics supplier)*
@@ -28,7 +27,9 @@ Take a large, clear glass enclosure — a vase, jar, dome, or custom acrylic box
 - [ ] Optional: microphone module or audio input — for beat detection *(~$2, electronics supplier)*
 - [ ] Silicone sealant — for waterproofing and sealing *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Choose the enclosure.** The enclosure should be clear glass or acrylic with an opening for access. Fish bowls, glass cloches/domes, large mason jars, or custom acrylic cylinders all work. The larger the enclosure, the more dramatic the cloud effect. A dome or sphere shape gives the most nebula-like appearance.
 2. **Build the base.** Construct a base that holds a small water reservoir, hides the electronics, and supports the glass enclosure. The base can be wooden, 3D-printed, or made from a repurposed container. The water reservoir sits inside the base with the mist rising up into the glass enclosure above.
@@ -40,13 +41,13 @@ Take a large, clear glass enclosure — a vase, jar, dome, or custom acrylic box
 8. **Program LED effects.** Using an Arduino or LED controller, program color effects: slow rainbow fade for ambient mood, music-reactive flashing for parties, single color for meditation vibes. Addressable LEDs (WS2812B) enable individual pixel control for the most complex effects.
 9. **Fill, power on, and enjoy.** Add distilled water to the reservoir, power on the mist maker, LEDs, and fan. In about 30 seconds, the enclosure fills with a glowing, swirling cloud. Dim the room lights. Turn on music if you've added the speaker. Watch your nebula come alive.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Electronics and water are in close proximity. Keep all high-voltage connections (if any) outside the water zone. Use only low-voltage (5V-12V) components near water. Seal wire entry points into the reservoir with silicone to prevent water wicking up cables.
 - The mist is just water, but prolonged operation can raise humidity around the lamp. Place on a surface that tolerates moisture. If condensation forms on the outside of the glass, the room is quite humid — ventilate.
 - Never run the ultrasonic disc without water. It overheats and destroys the piezoelectric element within seconds. Use a float switch or water level indicator to monitor the reservoir.
 
-## See Also
+## 🔗 See Also
 
 - [Ultrasonic Fog Machine](084-ultrasonic-fog-machine.md)
 - [Fog Waterfall Table](086-fog-waterfall-table.md)

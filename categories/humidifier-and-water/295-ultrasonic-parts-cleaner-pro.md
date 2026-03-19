@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Build #085 showed how to bond a single ultrasonic transducer to a pot and call it a
 parts cleaner. It works — for earrings and small PCBs. But if you've ever tried to
@@ -46,7 +44,8 @@ for tarnish, specialized solutions for specific contaminants) makes it even more
 effective. Once you have one of these on your bench, you'll find excuses to
 ultrasonically clean things that don't need cleaning.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Ultrasonic transducers (3-6) — 40kHz cleaning transducers, salvaged from dead humidifiers or bought new *(e-waste bin or electronics supplier, ~$5-10 each)*
 - [ ] Stainless steel container/tank — rectangular food pan, steam table insert, or stainless tray with flat bottom *(restaurant supply store or thrift store, ~$10-20)*
@@ -62,7 +61,9 @@ ultrasonically clean things that don't need cleaning.
 - [ ] Toggle switches and indicator LEDs — separate switches for ultrasonics and heater *(electronics supplier, ~$3)*
 - [ ] Enclosure for electronics — project box or fabricated panel to house driver boards and controls *(hardware store or electronics supplier, ~$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Select and prep the tank.** Your stainless steel container needs a flat bottom —
    the transducers bond to the underside and require full surface contact to transmit
@@ -166,7 +167,7 @@ ultrasonically clean things that don't need cleaning.
     prevents fumes from reaching your face when using aggressive cleaning solutions.
     A simple friction-fit lid works fine. Add a handle.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The heating element runs on mains voltage (120/240V AC). Keep all mains wiring
   properly insulated, grounded, and well away from water splash zones. Use a GFCI
@@ -196,7 +197,7 @@ ultrasonically clean things that don't need cleaning.
   first. Grandmother's ring can wait until you've confirmed the power level is
   appropriate.
 
-## See Also
+## 🔗 See Also
 
 - [Ultrasonic Parts Cleaner](085-ultrasonic-parts-cleaner.md)
 - [Ultrasonic Fog Machine](084-ultrasonic-fog-machine.md)

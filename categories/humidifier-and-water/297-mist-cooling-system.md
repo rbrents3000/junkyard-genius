@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 You've seen those misting systems at outdoor restaurants — pressurized water lines
 with tiny nozzles spraying a fine mist into the air above the tables. The mist
@@ -44,7 +42,8 @@ magic. Between 40-60%, noticeable but not dramatic. Check your local climate dat
 before building — this is thermodynamics, not something you can hack around with
 more transducers.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Ultrasonic mist maker modules (4-6 discs) — salvaged from dead humidifiers, or standalone modules *(e-waste bin, free, or electronics supplier, ~$5-8 each)*
 - [ ] Water reservoir/bucket — 3-5 gallon bucket or plastic storage container with lid *(hardware store, ~$5)*
@@ -60,7 +59,9 @@ more transducers.
 - [ ] Optional: timer or smart plug — to run the system on a schedule during peak heat *(~$10)*
 - [ ] Optional: DHT22 humidity sensor + microcontroller — to auto-disable when humidity is too high *(electronics supplier, ~$8)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Assess your climate first.** Before buying or salvaging a single part, look up your
    city's average relative humidity for July and August. This determines whether the
@@ -174,7 +175,7 @@ more transducers.
     splash of hydrogen peroxide (one tablespoon per gallon) in the water inhibits
     algae without affecting misting performance or corroding the discs.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The 48V power supply delivers enough current to be dangerous. While 48V DC won't
   stop your heart under normal conditions, 48V across wet skin pushes enough current
@@ -207,7 +208,7 @@ more transducers.
   lattice. Function first, but camouflage is free and prevents questions from
   neighbors.
 
-## See Also
+## 🔗 See Also
 
 - [Ultrasonic Fog Machine](084-ultrasonic-fog-machine.md)
 - [Fog Harp Water Collector](296-fog-harp-water-collector.md)

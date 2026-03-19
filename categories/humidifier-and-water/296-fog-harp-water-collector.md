@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 In arid coastal regions around the world — the Atacama Desert in Chile, the Atlas
 Mountains of Morocco, the highlands of East Africa — communities harvest drinking
@@ -42,7 +40,8 @@ components and distilled water in the reservoir, it's drinkable. You probably wo
 survive on it (10-50ml per hour isn't going to replace your faucet), but as a
 demonstration of the principle, it's hard to beat.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Ultrasonic mist maker module — salvaged from a dead humidifier, or standalone disc module *(e-waste bin or electronics supplier, ~$5-8)*
 - [ ] Water reservoir — shallow container for the mist maker to sit in *(plastic food container, ~$2)*
@@ -58,7 +57,9 @@ demonstration of the principle, it's hard to beat.
 - [ ] Optional: graduated cylinder or small measuring cup — for quantifying water output *(kitchen or science supplier)*
 - [ ] Optional: second harp frame — for testing double-harp collection efficiency *(scrap materials)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build or source the chamber.** You need a clear enclosed space roughly 18-24" long,
    8-12" wide, and 10-12" tall. A 10-gallon glass aquarium is perfect and costs $10-15
@@ -179,7 +180,7 @@ demonstration of the principle, it's hard to beat.
     wires can collect several liters per night in coastal fog conditions. No
     electricity needed — just wind, fog, and gravity.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - This is one of the safest builds in the entire collection. Low voltage, no heat,
   no chemicals, no moving parts except a small fan. The primary hazard is water
@@ -204,7 +205,7 @@ demonstration of the principle, it's hard to beat.
   A 6-foot wire array acts like a sail in high winds. Anchor it properly or it
   becomes a very educational projectile.
 
-## See Also
+## 🔗 See Also
 
 - [Ultrasonic Fog Machine](084-ultrasonic-fog-machine.md)
 - [Nebula Lamp](087-nebula-lamp.md)
