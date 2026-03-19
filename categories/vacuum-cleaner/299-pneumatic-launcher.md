@@ -122,3 +122,7 @@ The critical component is the release valve. A ball valve works but requires a q
 - [Vacuum Leaf Blower](078-vacuum-leaf-blower.md)
 - [Vacuum Hovercraft](075-vacuum-hovercraft.md)
 - [Wall-Climbing Robot](076-wall-climbing-robot.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

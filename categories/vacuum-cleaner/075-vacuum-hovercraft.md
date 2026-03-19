@@ -50,3 +50,7 @@ A hovercraft works by trapping a cushion of high-pressure air under a platform. 
 
 - [Wall-Climbing Robot](076-wall-climbing-robot.md)
 - [Vacuum Leaf Blower](078-vacuum-leaf-blower.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

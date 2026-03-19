@@ -73,3 +73,7 @@ Place a model car in the test section and watch the smoke streamlines split arou
 - [Vacuum Hovercraft](075-vacuum-hovercraft.md)
 - [Wall-Climbing Robot](076-wall-climbing-robot.md)
 - [Pneumatic Launcher](299-pneumatic-launcher.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
