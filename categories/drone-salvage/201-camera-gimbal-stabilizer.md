@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A handheld camera stabilizer that uses three brushless gimbal motors and a PID control loop to counteract your hand movements in real time, keeping the camera perfectly level and smooth. The same technology that DJI sells for $150-$400 in their Ronin and Osmo lines — except you're building it from the guts of a crashed drone for nearly nothing.
 
@@ -20,7 +18,8 @@ Drone gimbal motors are brushless outrunners designed for extremely precise angu
 
 The IMU reads the current orientation, the PID loop calculates how far off-level the camera is, and the motors apply corrective torque on all three axes (pitch, roll, yaw) within milliseconds. The feedback loop runs at 1000+ Hz, faster than any human movement.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Brushless gimbal motors x3 — salvaged from drone camera gimbal *(source: crashed DJI Phantom/Mavic — free)*
 - [ ] MPU-6050 or MPU-9250 IMU module — 6-axis or 9-axis accelerometer/gyroscope *(electronics supplier, ~$3)*
@@ -31,7 +30,9 @@ The IMU reads the current orientation, the PID loop calculates how far off-level
 - [ ] Phone/GoPro mount clamp *(hardware store or 3D printed)*
 - [ ] Wiring, connectors, and heat shrink *(electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Harvest the gimbal motors.** Disassemble the drone's camera gimbal assembly carefully. Each axis (pitch, roll, yaw) has its own brushless motor. Desolder or clip the motor leads, keeping track of the three phase wires on each motor. Label them. If the drone's gimbal controller board is intact, save it — it may work directly as your controller.
 2. **Design the frame geometry.** The stabilizer needs three pivot axes arranged so each motor controls one degree of freedom. The camera mounts on the innermost axis (pitch), which is nested inside the roll axis, which is nested inside the yaw axis. The handle attaches below the yaw motor. Sketch this out before building. The frame can be 3D printed, bent from aluminum strip, or assembled from small L-brackets.
@@ -43,13 +44,13 @@ The IMU reads the current orientation, the PID loop calculates how far off-level
 8. **Balance the gimbal.** Before final use, physically balance the camera on the gimbal so the motors don't have to fight gravity constantly. Adjust the camera position on the platform until it stays roughly level with motors unpowered. This dramatically reduces power consumption and motor heat.
 9. **Test and film.** Walk, run, climb stairs, and spin while recording. Compare stabilized footage with unstabilized footage from the same camera. The difference is dramatic. Fine-tune PID values based on real-world performance.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - LiPo batteries can catch fire if punctured, over-discharged, or short-circuited. Use a battery with a built-in protection circuit, or add one. Never leave a LiPo charging unattended.
 - The gimbal motors can pinch fingers if they correct suddenly while you're adjusting the frame. Keep fingers clear of the pivot joints when the system is powered on.
 - If using a SimpleBGC board, double-check motor wiring before powering on. Swapped phase wires can cause the motor to spin uncontrollably instead of holding position, potentially flinging the camera.
 
-## See Also
+## 🔗 See Also
 
 - [Gimbal Motor Star Tracker](203-gimbal-motor-star-tracker.md) — same motors, different application: tracking stars at sidereal rate
 - [FPV Ground Rover](202-fpv-ground-rover.md) — mount this stabilizer on a rover for smooth mobile footage

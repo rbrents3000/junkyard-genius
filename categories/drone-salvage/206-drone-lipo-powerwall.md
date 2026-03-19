@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Drone LiPo packs are often declared "dead" when a single cell drops below minimum voltage, the balance connector fails, or the pack puffs slightly. Inside, most of the individual cells are still perfectly good. A 4S 5000mAh Phantom battery contains four 3.7V cells in series — if three cells are healthy and one is dead, that's 75% of the capacity sitting in a recycling bin.
 
@@ -20,7 +18,8 @@ This build opens drone battery packs, tests each cell individually, discards gen
 
 The economics are compelling: used drone batteries sell for $5-$15 on eBay as "for parts" listings, and each one yields 50-200Wh of usable cell capacity. Five dead Phantom batteries can produce a 500Wh power station — comparable to commercial units that sell for $300-$500.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Dead drone LiPo packs x5-10 — from DJI Phantom, Mavic, Inspire, or racing drones *(source: eBay "for parts" listings, local drone groups, ~$5-$15 each)*
 - [ ] Battery management system (BMS) — matched to your target configuration (3S, 4S, etc.) *(electronics supplier, ~$5-$10)*
@@ -32,7 +31,9 @@ The economics are compelling: used drone batteries sell for $5-$15 on eBay as "f
 - [ ] Enclosure — plastic project box or 3D-printed case *(hardware store or 3D printer)*
 - [ ] DC-DC converter — for regulated 5V USB or 12V output *(electronics supplier, ~$3-$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Open the battery packs carefully.** Use a plastic pry tool — never a metal screwdriver — to crack open the hard-shell cases of DJI-style batteries. Inside you'll find individual pouch cells wrapped in Kapton tape, a small BMS/protection PCB, and a connector. Disconnect the cells from the original BMS. For racing LiPo packs in heat-shrink, carefully cut the wrap with a hobby knife, avoiding puncturing the cells.
 2. **Test every cell individually.** Measure each cell's voltage with a multimeter. Healthy LiPo cells read between 3.0V and 4.2V. Cells below 2.5V are likely damaged and should be recycled, not reused. Cells between 2.5V and 3.0V may be recoverable — charge them at a very low rate (0.1C) on a balance charger and see if they hold voltage.
@@ -43,13 +44,13 @@ The economics are compelling: used drone batteries sell for $5-$15 on eBay as "f
 7. **Add output connectors.** Wire XT60 connectors for charge and discharge ports. Add a DC-DC converter module for regulated output — a USB module for 5V, or a buck/boost converter for 12V. Add an on/off switch and optionally a voltage display module so you can see remaining charge.
 8. **Test and commission.** Fully charge the pack through the BMS. Verify that all cells reach 4.2V simultaneously (the BMS should balance them). Discharge under load and verify rated capacity. Monitor cell temperatures during the first few charge/discharge cycles — any cell that gets hot is suspect and should be removed.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Lithium polymer cells can catch fire or explode if punctured, short-circuited, or overcharged. Work on a non-flammable surface. Keep a bucket of sand or a Class D fire extinguisher nearby. Never use water on a lithium battery fire.
 - When opening battery packs, the cells may be at different voltages. Shorting two cells together with a metal tool can cause immediate, violent sparking and fire. Use plastic tools and work on one cell at a time. Tape exposed terminals immediately after disconnecting.
 - Always charge through the BMS in a fireproof LiPo bag, especially for the first few cycles. Never leave the pack charging unattended until you've verified the BMS is functioning correctly and all cells are balanced.
 
-## See Also
+## 🔗 See Also
 
 - [Drone Motor Wind Turbine](204-drone-motor-wind-turbine.md) — charge this powerwall with wind energy from drone motors
 - [DIY Powerwall](../power-and-energy/052-diy-powerwall.md) — larger-scale powerwall from laptop 18650 cells

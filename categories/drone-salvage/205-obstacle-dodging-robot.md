@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Modern drones are packed with obstacle-avoidance sensors — time-of-flight (ToF) rangefinders, infrared proximity sensors, downward-facing optical flow cameras, and ultrasonic distance sensors. These sensors are designed to detect walls, trees, and the ground at high speed and feed distance data to the flight controller for automatic avoidance. Strip them out and mount them on a wheeled robot, and you've got a ground vehicle that can navigate a room without hitting anything.
 
@@ -20,7 +18,8 @@ The drone's flight controller board contains an IMU (accelerometer + gyroscope) 
 
 The result is a robot that drives itself around a room, hallway, or outdoor space without colliding with anything — the same tech that makes Roombas and warehouse robots work, built from crash wreckage.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] ToF distance sensors (VL53L0X or similar) — salvaged from drone's obstacle avoidance system *(source: crashed DJI Mavic/Air — free)*
 - [ ] IMU module — MPU-6050 from the flight controller, or buy one *(salvaged or electronics supplier, ~$3)*
@@ -31,7 +30,9 @@ The result is a robot that drives itself around a room, hallway, or outdoor spac
 - [ ] Ultrasonic sensor HC-SR04 x2 (optional backup, if ToF sensors aren't available) *(electronics supplier, ~$2 each)*
 - [ ] Mounting brackets and wiring *(hardware store, electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Harvest the sensors.** Disassemble the drone carefully, identifying each sensor module. DJI Mavic series typically has forward, backward, downward, and sometimes side-facing ToF or structured light sensors. Desolder or disconnect them from the main board. Identify the connector pinout — most use I2C (4 wires: VCC, GND, SDA, SCL). Test each sensor with an Arduino and the VL53L0X library to verify it's working.
 2. **Build or prepare the chassis.** A two-wheeled differential-drive chassis is simplest for obstacle avoidance. Two driven wheels and one caster allow the robot to spin in place, making tight navigation possible. If using a salvaged toy car, swap out the steering mechanism for differential drive (two independently controlled motors).
@@ -43,13 +44,13 @@ The result is a robot that drives itself around a room, hallway, or outdoor spac
 8. **Test in increasing complexity.** Start in an empty room with one obstacle. Add more obstacles progressively. Then test in a hallway. Watch for failure modes: corners where the robot gets trapped, glass surfaces that ToF sensors can't detect, and chair legs that are below sensor height.
 9. **Tune sensor thresholds and speed.** Reduce speed for tighter environments. Increase the minimum obstacle distance for faster speeds (the robot needs more stopping distance). Adjust the PD gains for smoother wall following.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - This is a low-voltage, low-speed build with minimal hazards. The primary risk is the LiPo battery — use a protected cell and don't over-discharge it.
 - The robot can fall off tables or down stairs if it lacks a downward-facing sensor. Add a downward ToF or IR sensor at the front edge if you plan to run it on elevated surfaces.
 - Keep the robot away from pets and small children — it moves unpredictably during testing, and wheels can pinch small fingers.
 
-## See Also
+## 🔗 See Also
 
 - [FPV Ground Rover](202-fpv-ground-rover.md) — add FPV camera for remote viewing of what the robot sees
 - [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer.md) — mount a stabilized camera on this platform for smooth autonomous filming

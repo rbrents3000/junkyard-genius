@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A motorized camera mount that slowly rotates to follow the stars as Earth spins. Without tracking, any long-exposure astrophotograph shows star trails — streaks of light instead of pinpoints. A star tracker counteracts Earth's rotation by spinning the camera at exactly the same rate (one revolution per 23 hours 56 minutes, or 15.041 arcseconds per second). Commercial star trackers like the iOptron SkyGuider Pro cost $300-$500. Drone gimbal motors can achieve the same precision for free.
 
@@ -20,7 +18,8 @@ Gimbal motors are designed for exactly this kind of application: extremely slow,
 
 The quality of the results is staggering for a build that costs almost nothing.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Brushless gimbal motor x1 — the largest one from the drone gimbal (yaw or roll axis) *(source: crashed drone — free)*
 - [ ] Arduino Nano *(electronics supplier, ~$5)*
@@ -31,7 +30,9 @@ The quality of the results is staggering for a build that costs almost nothing.
 - [ ] 9V battery or small LiPo pack *(electronics supplier or salvaged)*
 - [ ] Potentiometer — for fine-tuning rotation speed *(electronics supplier, ~$1)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Select the right motor.** Choose the gimbal motor with the largest stator diameter — it will have the most torque and smoothest rotation at very low speeds. The yaw motor from a Phantom gimbal is ideal. Test the motor by connecting it to a driver and running it slowly — it should rotate without any visible stepping or jerking.
 2. **Build the motor mount.** Create a bracket that holds the motor firmly with its shaft pointing upward. This will be the polar axis — the axis that points at Polaris. The bracket mounts on top of a tripod. Use aluminum angle stock or a 3D-printed clamp. The motor must be rock-solid with zero flex; any wobble translates directly into star trails.
@@ -42,12 +43,12 @@ The quality of the results is staggering for a build that costs almost nothing.
 7. **Balance the camera.** Mount the camera on the ball head and aim it at your target (Orion Nebula, Milky Way core, Andromeda Galaxy). Adjust the ball head so the camera's weight is roughly balanced around the rotation axis. An unbalanced load strains the motor and introduces periodic error.
 8. **Shoot and verify.** Start with 30-second exposures to confirm tracking is working — stars should be pinpoints, not trails. Gradually increase exposure time: 1 minute, 2 minutes, 5 minutes. If stars start trailing at longer exposures, check polar alignment first, then fine-tune motor speed with the potentiometer.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - You'll be setting up equipment in the dark, often in remote locations for dark skies. Bring a red flashlight (preserves night vision), a phone with charged battery, and tell someone where you're going.
 - The motor draws minimal current, but if using a LiPo battery, follow standard LiPo safety — don't let it discharge below 3.5V per cell.
 
-## See Also
+## 🔗 See Also
 
 - [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer.md) — same motors used for handheld video stabilization
 - [Precision Digital Scale](207-precision-digital-scale.md) — another precision application of gimbal motor torque sensing
