@@ -64,3 +64,8 @@ The effective range is short — we’re talking a few feet at most with junkyar
 
 - [Capacitor Bank Plasma Igniter](275-capacitor-bank-plasma-igniter.md)
 - [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)

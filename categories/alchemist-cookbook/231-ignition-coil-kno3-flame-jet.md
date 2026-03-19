@@ -50,3 +50,8 @@ Potassium nitrate (KNO3) and sugar, when melted together and hardened, form a so
 
 - [Ignition Coil Tesla Coil](../junkyard-auto/220-ignition-coil-tesla-coil.md)
 - [Colored Fire](../pyro-and-chemistry/101-colored-fire.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)

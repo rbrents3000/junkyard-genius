@@ -51,3 +51,6 @@ Luminol is the chemical forensic investigators spray at crime scenes — it reac
 
 - [Luminol Crime Scene](../pyro-and-chemistry/109-luminol-crime-scene.md)
 - [Fluorescein Blacklight Fountain](../pyro-and-chemistry/118-fluorescein-blacklight-fountain.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

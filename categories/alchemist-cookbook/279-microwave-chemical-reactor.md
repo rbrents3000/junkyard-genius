@@ -64,3 +64,8 @@ The applications are surprisingly broad. You can do rapid esterification reactio
 
 - [Capacitor Bank Plasma Igniter](275-capacitor-bank-plasma-igniter.md)
 - [Electrolysis Rust Eraser](../household-chemistry/212-electrolysis-rust-eraser.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)

@@ -60,3 +60,6 @@ The key to good smoke is temperature control. Too cool and the glycerin just poo
 
 - [Dry Ice Fog Machine](../household-chemistry/329-dry-ice-fog-machine.md)
 - [Chemical Trigger Color Bombs](228-chemical-trigger-color-bombs.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

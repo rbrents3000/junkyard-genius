@@ -54,3 +54,9 @@ A star mine in fireworks terminology is a ground-based device that launches a sp
 
 - [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md)
 - [Colored Fire](../pyro-and-chemistry/101-colored-fire.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

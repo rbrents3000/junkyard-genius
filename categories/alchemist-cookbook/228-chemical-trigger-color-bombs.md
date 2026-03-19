@@ -49,3 +49,8 @@ Standard smoke bombs use KNO3 (potassium nitrate) as the oxidizer and sugar as t
 
 - [Smoke Bomb Array](../pyro-and-chemistry/103-smoke-bomb-array.md)
 - [Permanganate Auto-Ignition](../pyro-and-chemistry/115-permanganate-auto-ignition.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)

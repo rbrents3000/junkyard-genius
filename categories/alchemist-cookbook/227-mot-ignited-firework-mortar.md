@@ -50,3 +50,9 @@ Professional fireworks shows use electric igniters (e-matches) wired to a sequen
 
 - [Fireworks Sequencer](../pi-and-arduino/121-fireworks-sequencer.md)
 - [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

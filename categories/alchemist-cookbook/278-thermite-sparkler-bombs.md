@@ -56,3 +56,8 @@ The ingredients are shockingly accessible. Iron oxide is literally rust — you 
 
 - [Thermite Cold Spark Fountain](230-thermite-cold-spark-fountain.md)
 - [Chemical Trigger Color Bombs](228-chemical-trigger-color-bombs.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)

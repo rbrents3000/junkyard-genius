@@ -52,3 +52,7 @@ Calcium carbide is a gray, rocky mineral. Add water and it produces acetylene ga
 
 - [Calcium Carbide Cannon](../pyro-and-chemistry/116-calcium-carbide-cannon.md)
 - [Spark Plug Cannon](../junkyard-auto/223-spark-plug-cannon.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

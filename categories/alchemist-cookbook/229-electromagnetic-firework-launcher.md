@@ -53,3 +53,9 @@ A traditional firework mortar uses a black powder lift charge to hurl a shell sk
 
 - [Coil Gun](../mad-scientist/037-coil-gun.md)
 - [MOT-Ignited Firework Mortar](227-mot-ignited-firework-mortar.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
