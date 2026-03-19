@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A spark plug is a precision ignition device designed to reliably fire a spark across a gap inside a high-pressure combustion chamber thousands of times per minute. It's the world's most trusted igniter, and it threads into a standard size hole. Screw one into the end of a capped steel or PVC pipe, fill the pipe with a propane/air mixture, and hit the spark plug with 12V through an ignition coil (or even a piezo igniter from a grill lighter). The fuel-air mixture detonates, and whatever is sitting in the barrel — a tennis ball, a potato, a wadded-up T-shirt — gets launched with a satisfying BANG. This is a combustion spud gun with a professional-grade ignition system. Unlike piezo igniters that sometimes fail, a spark plug fires every single time. One shot, reload, repeat.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Spark plug — any standard size (14mm thread is most common) *(junkyard, auto parts store)*
 - [ ] Steel or PVC pipe — 2-3 inch diameter, 2-4 feet long for the barrel *(hardware store)*
@@ -28,7 +27,9 @@ A spark plug is a precision ignition device designed to reliably fire a spark ac
 - [ ] Wire — for connecting igniter to spark plug *(junk drawer)*
 - [ ] Projectiles — tennis balls, potatoes, foam balls *(around the house)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the combustion chamber.** Use a large-diameter pipe (3-4 inches) about 8-12 inches long as the combustion chamber. Glue or thread a solid end cap on one end. This is where the fuel-air mixture lives and where the spark plug mounts.
 2. **Drill and tap the spark plug hole.** Drill a 12mm hole in the center of the end cap. Tap it with a 14mm x 1.25 thread tap (standard spark plug thread). Screw in the spark plug — it should thread in snugly and seal against the cap. If using PVC, you may need to use a steel bushing welded or epoxied into the cap, since PVC doesn't hold threads well.
@@ -39,13 +40,13 @@ A spark plug is a precision ignition device designed to reliably fire a spark ac
 7. **Inject fuel.** Squirt propane into the combustion chamber through the injection port. A 1-2 second blast is usually right. The ideal fuel-air ratio for propane is about 4% by volume — you want the chamber mostly air with just enough propane to burn.
 8. **Fire.** Point the barrel in a safe direction (up or toward an open field, never toward people or structures). Press the igniter button. The spark plug fires, the propane-air mixture detonates, and the projectile launches with a loud bang. Tennis balls fly 100-200 feet easily.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - This is a combustion device that generates significant pressure. Never use sealed barrels, PVC rated below Schedule 40, or metal pipes with visible corrosion or cracks. If the combustion chamber fails, it fragments into shrapnel. Inspect before every use.
 - Never look down the barrel after a misfire. Wait 30 seconds, ventilate the chamber by blowing air through it, then re-inject fuel and try again. Propane is heavier than air and can pool in the chamber.
 - Only use soft projectiles (tennis balls, potatoes, foam). Hard or sharp projectiles turn this into a weapon. Even soft projectiles can injure at close range. Never aim at people, animals, or property.
 
-## See Also
+## 🔗 See Also
 
 - [Calcium Carbide Cannon](../pyro-and-chemistry/116-calcium-carbide-cannon.md)
 - [Propane Vortex Cannon](../fire-and-plasma/003-propane-vortex-cannon.md)

@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A car power window motor is a compact geared DC motor designed to lift a heavy glass window against gravity, smoothly and quietly, thousands of times over the life of a vehicle. It produces 30-80 pounds of force through a worm gear or cable drive mechanism, runs on 12V, and reverses direction with a simple polarity swap. That force profile is exactly what you need to swing a heavy bookshelf door. Mount the motor to the wall frame, connect it to the bookshelf door via an arm or cable mechanism, wire it to a hidden switch (inside a fake book, under a desk, triggered by a magnetic contact), and the bookshelf silently swings open to reveal whatever's behind it — a closet, a home office, a panic room, or just a really cool hallway. The worm gear is self-locking, so the door stays open or closed without a latch. Commercial hidden door hardware costs $200-500. This costs a junkyard pull and an afternoon.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Power window motor — with the cable spool or gear mechanism intact *(junkyard, any car door)*
 - [ ] Bookshelf — solid enough to be a door, ideally freestanding *(thrift store, IKEA, build your own)*
@@ -28,7 +27,9 @@ A car power window motor is a compact geared DC motor designed to lift a heavy g
 - [ ] Limit switches — two, to stop the motor at fully open and fully closed positions *(electronics supplier, ~$3 each)*
 - [ ] Lumber and hardware — for the door frame and mounting *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Pull the window motor.** Remove a power window motor from a car door. Keep the entire regulator mechanism if it's a cable-type — the cable and spool give you smooth linear motion. For a gear-type regulator, you mainly need the motor and its output gear. Test it with 12V to confirm it works in both directions.
 2. **Build or modify the bookshelf.** The bookshelf needs to be sturdy enough to serve as a door without racking or sagging. Add diagonal bracing to the back if needed. It should look like a normal bookshelf from the front — that's the whole point. Anchor real books or use L-brackets to keep items from falling when the door swings.
@@ -40,12 +41,12 @@ A car power window motor is a compact geared DC motor designed to lift a heavy g
 8. **Install the hidden trigger.** The trigger is what makes this magical. Options: a magnetic reed switch behind the wall that activates when you hold a magnet (hidden in a fake book or decoration) near it; a button disguised as a knot in the wood trim; a specific book on the shelf that tips forward and presses a microswitch; or a wireless remote. The more creative, the better.
 9. **Adjust and test.** Fine-tune the limit switch positions so the door opens to the exact angle you want (usually 80-90 degrees) and closes flush against the frame. Adjust the motor speed if possible — slower is more dramatic. Add felt or rubber bumpers where the door contacts the frame to eliminate noise.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The bookshelf door is heavy and motor-driven. Install a manual release mechanism (a hidden lever that disconnects the motor from the door) so the door can be opened by hand in case of power failure. A person could otherwise be trapped behind the door.
 - Window motors produce enough force to pinch fingers badly. Keep hands clear of the hinge side and the motor mechanism while the door is in motion. If children have access to the space, install a safety sensor (like a garage door photo-eye) to stop the motor if the opening is obstructed.
 
-## See Also
+## 🔗 See Also
 
 - [Hydraulic Robot Arm](../mechanical-and-kinetic/183-hydraulic-robot-arm.md)
 - [Smart Mirror](../pi-and-arduino/123-smart-mirror.md)

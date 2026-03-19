@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A car starter motor is a DC motor designed to crank a cold engine against compression — which means it delivers savage torque from a dead stop. Most starters pull 150-300 amps and spin at 2,000-3,000 RPM under load. That's way too fast for direct drive on a wheel, but add a chain reduction (big sprocket on the axle, small sprocket on the motor) and you have a torque-multiplied drive system with neck-snapping acceleration. The motor is built to survive brief, violent duty cycles — 10 seconds of cranking followed by cool-down. For a go-kart, that means it overheats under sustained use, so you either run it in short bursts or add active cooling. A car battery provides power, a solenoid or contactor acts as the throttle switch, and the frame can be welded from scrap steel or salvaged from an old kart. The result: a vehicle that accelerates like a drag car for the first 50 feet, powered entirely by junkyard parts.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Car starter motor — larger truck starters have more torque *(junkyard)*
 - [ ] Car battery — 12V, group 24 or larger for runtime *(junkyard or auto parts store)*
@@ -29,7 +28,9 @@ A car starter motor is a DC motor designed to crank a cold engine against compre
 - [ ] Seat and seat mount *(junkyard, office chair, etc.)*
 - [ ] Kill switch — big red mushroom button *(electronics supplier, ~$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage the starter motor.** Pull a starter from the biggest engine you can find — truck and SUV starters are beefier. Keep the starter solenoid too, it's your throttle relay. Test the motor with a car battery before committing: jumper 12V to the solenoid's small terminal and verify the motor spins hard.
 2. **Build or source the frame.** Weld a rectangular frame from 1" square steel tubing. A basic go-kart frame is roughly 4 feet long by 2 feet wide. If you salvage an existing frame, verify it can handle the torque — starter motors accelerate violently and weak frames crack at the motor mount.
@@ -42,13 +43,13 @@ A car starter motor is a DC motor designed to crank a cold engine against compre
 9. **Test in a safe area.** Start on flat ground, open space, no traffic. The first time you hit the throttle, the starter motor will try to rip the small sprocket off its shaft and fling you forward. Short bursts — 5-10 seconds on, then coast. The motor heats up fast under continuous load.
 10. **Upgrade as needed.** If the motor overheats quickly, add a fan blowing on it or duct air from vehicle motion. If you want more top speed, go with a higher gear ratio (smaller driven sprocket). If you want more runtime, wire two car batteries in parallel.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Starter motors draw 150-300 amps. The wiring, solenoid, and battery connections must be rated for this current. Undersized wires will melt and cause electrical fires. Use battery cable (4 AWG or thicker) for all power connections. Fuse the circuit with an appropriately rated fuse or fusible link.
 - This vehicle has no suspension, minimal brakes, and violent acceleration. Wear a helmet. Start slow. Test brakes before testing speed. Never ride near traffic, pedestrians, or on hills until you trust the braking system completely.
 - The starter motor is designed for 10-second duty cycles, not continuous use. Running it for extended periods will cause the motor to overheat, potentially melting insulation and shorting the windings. Monitor motor temperature by touch (carefully, with the power off) and let it cool between runs.
 
-## See Also
+## 🔗 See Also
 
 - [Electric Go-Kart](../functional-machines/024-electric-go-kart.md)
 - [Electric Skateboard](../scooter-and-motor/088-electric-skateboard.md)

@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A car alternator is a three-phase AC generator that outputs 13.8V at up to 100+ amps when driven at engine RPM. That's more than enough current to melt steel with a welding rod. The stock internal voltage regulator limits output to battery-charging levels, but bypass it — run the field winding at full excitation — and the alternator becomes a brute-force current source. Connect the output to a welding electrode holder and a ground clamp, and you have a functional stick welder that runs off any engine with a belt. Farmers, off-roaders, and field mechanics have been doing this for decades. It's ugly. It works. The welds aren't pretty, but they'll hold a gate hinge or a broken trailer tongue together when you're 50 miles from the nearest shop.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Car alternator — the bigger the better, 100A+ rating preferred *(junkyard, any vehicle)*
 - [ ] Car battery — 12V, healthy enough to start the excitation *(junkyard or existing vehicle)*
@@ -28,7 +27,9 @@ A car alternator is a three-phase AC generator that outputs 13.8V at up to 100+ 
 - [ ] Toggle switch or rheostat — to control field winding excitation *(electronics supplier)*
 - [ ] Welding helmet and gloves *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Pull the alternator.** Grab the biggest alternator you can find at the junkyard. Truck and SUV alternators are typically rated 120-160A. Keep the wiring harness connector — it tells you which pin is the field winding.
 2. **Identify the field winding terminals.** Most alternators have a plug with two pins for the field coil (sometimes labeled F and ground, or IG and L). The field winding is an electromagnet inside the rotor. More current through the field = more output from the stator.
@@ -40,13 +41,13 @@ A car alternator is a three-phase AC generator that outputs 13.8V at up to 100+ 
 8. **Strike an arc.** Clamp the ground to your workpiece, insert a 6011 rod into the stinger, put on your welding helmet, and scratch-start the arc. Adjust the field winding current (via switch or rheostat) until the arc is stable. A buzzing, spattery arc means too much current; a stubbing, sticky arc means too little.
 9. **Practice and tune.** Alternator welders produce DC with some ripple, which actually helps with certain rod types. Start with thin material (1/8" steel) and 6013 rods, which are more forgiving. Work up to structural welds only after you can run consistent beads.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - This is a real welder producing real UV radiation and molten metal. Wear a proper welding helmet (auto-darkening shade 10+), leather gloves, and long sleeves. Welding flash burns your corneas and you won't feel it until hours later.
 - The alternator output is low voltage (14V) but extremely high current. A short circuit across the output cables can melt copper instantly and start a fire. Always disconnect the battery when not welding. Never let the output cables touch each other without a welding rod in the circuit.
 - Hot metal, sparks, and slag are part of the process. Work on a non-flammable surface, keep a fire extinguisher within reach, and never weld near fuel, solvents, or dry grass.
 
-## See Also
+## 🔗 See Also
 
 - [Spot Welder](../functional-machines/027-spot-welder.md)
 - [Desktop Foundry](../fire-and-plasma/005-desktop-foundry.md)

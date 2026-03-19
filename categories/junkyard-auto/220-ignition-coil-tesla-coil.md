@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 An automotive ignition coil is a step-up transformer designed to convert 12V into 20,000-40,000V to fire a spark plug. Normally it gets pulsed by the car's ECU at specific ignition timing intervals. But feed it a continuous square wave from a 555 timer circuit at audio frequencies (200 Hz - 5 kHz), and the spark output becomes a continuous buzzing arc that vibrates the air at the frequency of the signal. That vibration IS sound. The arc literally plays music. Feed it an audio signal instead of a fixed frequency, and you get a plasma speaker — a massless, distortion-free sound source made of lightning. The whole thing runs off a 12V car battery and costs almost nothing. A 2-inch purple arc snapping and crackling while playing the Mario theme is the kind of thing that stops people in their tracks.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Automotive ignition coil — standard canister-type or coil-on-plug *(junkyard, any car)*
 - [ ] 555 timer IC *(electronics supplier, ~$0.50)*
@@ -29,7 +28,9 @@ An automotive ignition coil is a step-up transformer designed to convert 12V int
 - [ ] Spark gap electrodes — bolts or thick wire, mounted 1-2 inches apart *(hardware store)*
 - [ ] Perfboard or breadboard for the circuit *(electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Pull the ignition coil.** Grab a standard canister-type ignition coil from any car at the junkyard. Older vehicles have a single coil with two terminals (+ and -) and a high-voltage output tower. Coil-on-plug units from newer cars work too but are smaller. The canister type produces bigger sparks.
 2. **Build the 555 timer driver circuit.** Wire a 555 timer in astable mode. Use a 10k-100k potentiometer on the timing resistor to vary the output frequency. The 555 output goes to the gate of the MOSFET. This creates a variable-frequency square wave between roughly 200 Hz and 10 kHz.
@@ -41,13 +42,13 @@ An automotive ignition coil is a step-up transformer designed to convert 12V int
 8. **Add audio input (optional).** Replace the 555 timer's fixed frequency with an audio signal. Use a 3.5mm audio jack feeding into an audio amplifier circuit (or use the 555 with its control voltage pin modulated by the audio signal). Now the arc plays music. Start with simple tones and chiptune — complex audio sounds distorted because the arc is essentially a single-bit speaker.
 9. **Demonstrate responsibly.** Run the coil in a dim or dark room for maximum visual impact. The purple arc dancing while playing recognizable music is the showstopper. Keep sessions short (under 5 minutes) to avoid overheating the MOSFET and coil.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The ignition coil outputs 20,000-40,000V. While the current is limited (milliamps), a shock from the high-voltage side is painful and can cause involuntary muscle contraction that throws you into other hazards. Never touch the high-voltage output or spark gap while powered. Keep one hand in your pocket when working near the circuit.
 - The arc produces UV radiation, ozone (O3), and nitrogen oxides. Run this in a well-ventilated area. If you smell a sharp, metallic odor, that's ozone — step away and ventilate. Prolonged ozone exposure irritates the lungs.
 - The MOSFET and coil generate significant heat during operation. Don't run continuously for more than a few minutes. Let components cool between demonstrations. A dead MOSFET can fail short, dumping full battery current through the coil — always fuse the 12V supply line.
 
-## See Also
+## 🔗 See Also
 
 - [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil.md)
 - [Plasma Speaker](../sound-and-music/008-plasma-speaker.md)
