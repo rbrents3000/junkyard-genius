@@ -51,3 +51,6 @@ Look at a sign in a foreign language. Within seconds, the translated text appear
 
 - [AI Photo Booth](143-ai-photo-booth.md)
 - [Deepfake Mirror](153-deepfake-mirror.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

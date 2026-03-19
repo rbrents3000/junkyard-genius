@@ -49,3 +49,8 @@ OpenCV's face detection identifies faces in webcam frames in real time. Map the 
 
 - [Nerf Sentry Turret](../pi-and-arduino/138-nerf-sentry-turret.md)
 - [AI Doorbell](../pi-and-arduino/130-ai-doorbell.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

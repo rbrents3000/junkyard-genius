@@ -48,3 +48,6 @@ Neural style transfer is a machine learning technique that takes the content of 
 
 - [Deepfake Mirror](153-deepfake-mirror.md)
 - [Body Pose Music](152-body-pose-music.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

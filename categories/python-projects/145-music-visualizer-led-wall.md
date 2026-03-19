@@ -50,3 +50,6 @@ Concert LED walls react to the music — bass pulses, melodies ripple, beats fla
 
 - [Non-Newtonian Speaker](../pyro-and-chemistry/112-non-newtonian-speaker.md)
 - [LED Cube 8x8x8](../pi-and-arduino/122-led-cube-8x8x8.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
