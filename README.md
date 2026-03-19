@@ -52,16 +52,11 @@ This repo is a cookbook for builders, makers, mad scientists, and anyone who loo
 
 Or pick your comfort level and dive in.
 
-```mermaid
-flowchart TD
-    A["🔧 What's your comfort level?"] --> B{"Ever soldered?"}
-    B -->|Nope| C["⭐ Beginner builds ↓"]
-    B -->|Yep| D{"Own a multimeter?"}
-    D -->|No| E["⭐⭐ Intermediate builds ↓"]
-    D -->|Yes| F{"Know what a flyback transformer is?"}
-    F -->|No| E
-    F -->|Yes| G["⭐⭐⭐⭐ Advanced builds ↓"]
-```
+| | | |
+|---|---|---|
+| 🟢 **[Beginner ↓](#beginner--brain-melt-)** | Never soldered, no special tools | Battery + magnet = motor |
+| 🟡 **[Intermediate ↓](#intermediate--brain-melt--to-)** | Own a soldering iron, comfortable with teardowns | Salvaged parts → real machines |
+| 🔴 **[Advanced ↓](#advanced--brain-melt--to-)** | You know what a flyback transformer is | Tesla coils, rail guns, marble machines |
 
 ### Beginner — Brain Melt ⭐
 
