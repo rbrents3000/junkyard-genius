@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Your fingers go numb first when it's cold because your body sacrifices extremity circulation to keep your core warm. Commercial heated gloves solve this with embedded heating elements and rechargeable batteries, but they cost $80-200 and the heating elements are proprietary — when they break (and they always break), the whole glove is trash. DIY heated gloves use nichrome wire — the same resistance wire in toasters and hair dryers — stitched along the back of each finger. Run current through the wire and it heats up. Control the current with a MOSFET and PWM signal from a microcontroller and you get precise, adjustable temperature control.
 
@@ -20,7 +18,8 @@ Nichrome wire is the ideal heating element material because it has high electric
 
 The MOSFET PWM control is what separates this from wrapping wire around your hand and hoping for the best. A small microcontroller (ATtiny85 or even just a 555 timer) generates a PWM signal that switches the MOSFET on and off rapidly. The duty cycle (percentage of time the MOSFET is on) controls the average power delivered to the nichrome wire. A potentiometer or button lets you adjust the duty cycle from 20% (mild warmth) to 100% (full blast). This prevents overheating, extends battery life, and gives you the same adjustability as the expensive commercial gloves.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Work gloves or winter gloves — inner liner gloves with some thickness for insulation *(existing or dollar store, ~$3)*
 - [ ] Nichrome wire — 30-32 gauge, about 6 feet per glove *(online, ~$5 for 25 feet)*
@@ -35,7 +34,9 @@ The MOSFET PWM control is what separates this from wrapping wire around your han
 - [ ] Small project box — to house the battery and controller on the wrist *(~$2)*
 - [ ] Velcro straps — to secure the battery box to the wrist or forearm *(~$2)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Calculate the wire length.** Nichrome wire resistance depends on gauge and length. 32-gauge nichrome has about 10.3 ohms per foot. For a 7.4V supply (two 18650s in series) and a target power of ~8 watts per glove, you need about 7 ohms of resistance — roughly 8 inches of wire per finger loop, totaling about 5-6 feet per glove when wired in parallel loops. Use Ohm's law: P = V²/R. More resistance = less heat. Less resistance = more heat but shorter battery life.
 
@@ -53,14 +54,14 @@ The MOSFET PWM control is what separates this from wrapping wire around your han
 
 8. **Insulate and weatherproof.** Wear these gloves as an inner liner under a regular winter glove or mitten. The outer layer traps heat and protects the nichrome wiring from snags. Tuck the battery box inside your jacket sleeve. The system is low voltage (7.4V) so there's no shock hazard, even in wet conditions.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - LiPo/Li-ion batteries can be dangerous if shorted, punctured, or overcharged. Use cells with built-in protection circuits (most salvaged 18650s have them). Never short the battery terminals. Store cells in a fireproof bag when not in use.
 - The nichrome wire operates at temperatures that can cause burns if the controller malfunctions. The thermal fuse (PTC) is an essential safety component, not optional. Test the thermal cutoff before relying on these gloves.
 - Inspect nichrome wire stitching regularly for breaks. A broken wire could create a hot spot at the break point or leave a sharp wire end that pokes through the fabric.
 - Do not wash the gloves in a machine. Hand wash only with the electronics removed (use connectors at the wrist to make the electronics detachable).
 
-## See Also
+## 🔗 See Also
 
 - [Sound-Reactive LED Jacket](242-led-jacket.md)
 - [GPS Treasure Hunt Watch](247-gps-treasure-watch.md)

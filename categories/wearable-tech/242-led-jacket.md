@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 You know those LED jackets you see at EDM festivals that cost $200-500 from specialty retailers? Same thing, built for $30-40 from salvaged parts, and arguably better because you control the animations. The concept is simple: individually addressable LED strips (WS2812B or SK6812) sewn into the lining of a hoodie or jacket, driven by an ESP32 microcontroller that reads audio from a tiny electret microphone, runs FFT analysis to extract bass/mid/treble frequency bands, and maps the audio energy to LED color and brightness in real-time. Walk into a room and your jacket reacts to whatever music is playing — bass hits pulse the whole jacket red, vocals shimmer in purple, hi-hats sparkle white.
 
@@ -20,7 +18,8 @@ The WS2812B strips are the magic ingredient. Each LED on the strip has its own t
 
 Battery life is the engineering challenge. A full jacket with 150+ LEDs at full brightness draws 6-8 amps at 5V — that's 30-40 watts. A phone-sized LiPo battery would last about 20 minutes. The trick is managing brightness: cap the maximum brightness at 40-50% (still blindingly bright in a dark room) and use patterns that don't light every LED simultaneously. With smart power management, a 10,000mAh USB power bank in an inner pocket gives you 3-4 hours of runtime. More than enough for a party, concert, or festival set.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] WS2812B LED strip — 60 LEDs/meter density, IP30 (non-waterproof for flexibility), 3-5 meters total *(online, ~$8-15)*
 - [ ] ESP32 dev board — any variant (DevKit, NodeMCU-32S, etc.) *(online, ~$5-8)*
@@ -34,7 +33,9 @@ Battery life is the engineering challenge. A full jacket with 150+ LEDs at full 
 - [ ] 1000µF capacitor — across LED strip power input to prevent voltage spikes *(~$1)*
 - [ ] 330Ω resistor — on the data line between ESP32 and first LED *(~$0.10)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Plan the LED layout.** Lay the jacket flat and plan where the LED strips will go. Good patterns: horizontal lines across the back (equalizer look), vertical lines down the arms, a ring around the hood, or diagonal lines radiating from the center. Mark the paths with tailor's chalk. Measure each segment and cut your LED strips to length — cut only on the marked cut lines (every 3 LEDs on most strips).
 
@@ -52,14 +53,14 @@ Battery life is the engineering challenge. A full jacket with 150+ LEDs at full 
 
 8. **Test and tune.** Power everything up in a dark room with music playing. Adjust the FFT thresholds, color mapping, and animation speed in firmware until the visual response feels musical — responsive to beats without being jittery, smooth enough to look intentional. Add multiple animation modes selectable by a button (pin on the ESP32 wired to a button in the sleeve or pocket): audio-reactive mode, solid color cycle, rainbow chase, fire effect. Each mode should be a function in code, cycled by button press.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - LED strips run at 5V, which is safe from shock. The power bank is the only energy source — no mains voltage anywhere in this build.
 - Wash the jacket by hand with the electronics disconnected (via JST connectors). Never machine wash with the LED strips attached — the agitation will break solder joints.
 - The microphone is always listening to ambient sound. It does not record or transmit — it only reads analog amplitude. But be aware that the LED pattern reveals the volume and frequency content of nearby sounds, which could be a privacy consideration in some settings.
 - Solder joints in a garment are subject to flexing stress. Use stranded (not solid) wire, leave service loops, and reinforce joints with hot glue or heat shrink. Check connections periodically for cold joints.
 
-## See Also
+## 🔗 See Also
 
 - [Sound-Reactive LED Face Mask](244-led-mask.md)
 - [Motion Capture MIDI Glove](246-motion-capture-glove.md)

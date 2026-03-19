@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Google Glass launched in 2013 at $1,500, became a cultural phenomenon, and then died because it was overpriced, underpowered, and made everyone around you uncomfortable. The core concept, though — a transparent heads-up display floating data in your field of vision — is genuinely useful and genuinely cool. The technology behind it is surprisingly simple: a tiny display projects an image onto an angled semi-reflective surface (a beam splitter or prism) positioned in front of your eye. You see the real world through the transparent surface AND the projected image reflected on it. Fighter pilots have had this since the 1950s. You’re building one from a $5 OLED display and a dollar-store magnifying glass.
 
@@ -20,7 +18,8 @@ The key optical component is the beam splitter. A piece of clear acrylic or glas
 
 A Raspberry Pi Zero (or ESP32 for lighter weight) drives the display. It can show anything: time, date, weather, notifications, GPS coordinates, step count, heart rate from a Bluetooth sensor, incoming text messages, even turn-by-turn navigation. The Pi Zero W has built-in WiFi and Bluetooth, so it can pull data from the internet and pair with your phone. Mount everything in a 3D-printed glasses frame (or hack apart a pair of cheap safety glasses) and you have a $25 heads-up display that does 80% of what Google Glass did for 2% of the price.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Micro OLED display — 0.96" SSD1306, 128x64 pixels, I2C interface *(online, ~$4)*
 - [ ] Raspberry Pi Zero W — or ESP32 for lighter weight *(online, ~$5-10)*
@@ -34,7 +33,9 @@ A Raspberry Pi Zero (or ESP32 for lighter weight) drives the display. It can sho
 - [ ] Hot glue and epoxy — for mounting optics *(existing)*
 - [ ] Black paint or tape — to block stray light from the OLED housing *(existing)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Design the optical path.** The OLED display faces downward (or sideways). Its image hits the beam splitter at 45 degrees and reflects into your eye. Between the OLED and the beam splitter, place the fresnel lens to collimate the image (make the light rays parallel so the image appears focused at infinity). The beam splitter sits in front of one eye. Experiment with the lens-to-OLED distance on a bench before building the frame — you want the OLED image sharp and in focus when you look through the beam splitter at the wall behind it.
 
@@ -52,7 +53,7 @@ A Raspberry Pi Zero (or ESP32 for lighter weight) drives the display. It can sho
 
 8. **Calibrate and test.** Put the glasses on and adjust the beam splitter angle until the OLED image is centered in your field of view and appears at a comfortable reading distance. The image should be visible but not distracting — you should be able to read it with a glance upward without it obscuring your forward vision. Adjust the OLED brightness in software so it’s visible indoors without being washed out outdoors. A brightness sensor (LDR on an ADC pin) can auto-adjust.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Do not wear these while driving, cycling, or operating machinery. The HUD occupies part of your visual field and creates a distraction. This is for walking, standing, or sitting use only.
 - The beam splitter can produce reflections and glare in bright sunlight that may temporarily impair vision in that eye. Add a small visor or tint if using outdoors.
@@ -60,7 +61,7 @@ A Raspberry Pi Zero (or ESP32 for lighter weight) drives the display. It can sho
 - The OLED display emits light very close to your eye. While the brightness is low, prolonged use may cause eye strain. Take breaks every 30-60 minutes.
 - Be mindful of social settings — people may assume you’re recording them (the Google Glass problem). Be transparent about what the device does.
 
-## See Also
+## 🔗 See Also
 
 - [Sound-Reactive LED Face Mask](244-led-mask.md)
 - [GPS Treasure Hunt Watch](247-gps-treasure-watch.md)

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A flat LED matrix panel mounted to the back of a backpack, driven by an ESP32 that displays scrolling text, pixel art animations, live clocks, step counters, or anything else you can code. You are a walking billboard. Change the message from your phone in real-time via WiFi. The display is visible from 30+ feet in daylight and absolutely commanding at night. This build takes old commercial signage hardware — the same LED panels that scroll "OPEN" in restaurant windows — and straps it to your body. The result is attention-grabbing in a way that a printed t-shirt can only dream about.
 
@@ -20,7 +18,8 @@ The cheapest path is salvaging a P10 LED panel from an old commercial scrolling 
 
 The ESP32 pulls double duty as both the display driver and a WiFi access point. It hosts a tiny web server with a text input field — connect to the ESP32's WiFi network from your phone, type a message, and it immediately starts scrolling across your back. Program preset animations: a rainbow wave, a pixel art heart, a bouncing ball, the current time, your step count (via an accelerometer module), or live weather data pulled from an API when connected to the internet. Add a diffuser — a sheet of thin white acrylic or a stretched piece of white fabric — over the LED matrix to soften the individual pixel dots into a smooth, professional-looking display. Powered by a USB power bank in the backpack's main compartment, the system runs for 4-8 hours at moderate brightness. Mount the matrix with velcro strips so you can pop it off and use the backpack normally. Total cost if you salvage the LED panel: under $15. Total cost if you buy a WS2812B matrix new: about $25. Total strangers who will stop you to ask about it: dozens per outing.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] LED matrix panel — salvaged P10 module from a commercial scrolling sign (e-waste, thrift store — free to $10) or WS2812B 16x16 flexible LED matrix (~$15 new) *(e-waste or electronics supplier)*
 - [ ] ESP32 dev board — WiFi-enabled microcontroller for display driving and remote control *(electronics supplier, ~$5)*
@@ -34,7 +33,9 @@ The ESP32 pulls double duty as both the display driver and a WiFi access point. 
 - [ ] Optional: accelerometer module (MPU6050) — for step counting display *(electronics supplier, ~$2)*
 - [ ] Optional: ambient light sensor — for auto-brightness adjustment *(electronics supplier, ~$1)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the LED matrix.** If using a salvaged P10 module, identify the HUB75 input connector — it's a 16-pin ribbon cable header. Map the pinout (standard HUB75: R1, G1, B1, R2, G2, B2, A, B, C, D, CLK, LAT, OE, GND). If using a WS2812B matrix, arrange the LED strips on a flat board in serpentine rows (first row left-to-right, second row right-to-left, etc.) and connect the data-out of each row to the data-in of the next. Secure strips with hot glue or adhesive backing. The total pixel count for a 16x16 matrix is 256 LEDs drawing up to 15A at full white brightness — you won't run full white, but keep power consumption in mind.
 
@@ -56,7 +57,7 @@ The ESP32 pulls double duty as both the display driver and a WiFi access point. 
 
 10. **Test in the field.** Walk around. Check visibility from different distances and angles. Adjust brightness for daytime vs. nighttime — nighttime brightness above 50% is blinding to people behind you and draws more power than necessary. Daytime brightness needs to be higher for visibility. The web interface should be responsive while walking — test that you can change messages without stopping. Note how many strangers comment on it. Adjust message content accordingly.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - At full brightness, the LED matrix can be uncomfortably bright at close range, especially at night. Avoid looking directly at the matrix surface at full power. Keep nighttime brightness moderate — you want attention, not retinal burns for the person walking behind you.
 - The power bank should be secured inside the backpack so it doesn't shift or fall out during movement. A loose power bank bouncing around can disconnect cables and cause intermittent display glitches or damage the USB port.
@@ -64,7 +65,7 @@ The ESP32 pulls double duty as both the display driver and a WiFi access point. 
 - If wearing the display while cycling or walking near traffic at night, be aware that the bright, moving display can distract drivers. Use solid colors or slow animations near roads — fast-flashing patterns are dangerous in traffic.
 - Check local regulations for wearable displays in public spaces — some venues, events, or transit systems may prohibit illuminated signs.
 
-## See Also
+## 🔗 See Also
 
 - [LED Jacket](242-led-jacket.md)
 - [LED Mask](244-led-mask.md)

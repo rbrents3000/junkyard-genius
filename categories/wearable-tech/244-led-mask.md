@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 You've seen those LED face masks that DJs and performers wear — a glowing face that animates, reacts to music, and makes the wearer look like they stepped out of a cyberpunk movie. The commercial ones run $50-150 and have fixed animations you can't customize. This version costs about $25 in parts, runs on an ESP32, and you program every pixel. The mask reads ambient sound through a microphone and maps audio to face animations — the mouth opens and closes with your speech, the eyes pulse with bass hits, and the whole face can run custom animations between songs.
 
@@ -20,7 +18,8 @@ The heart of this build is an 8x32 or 16x16 WS2812B LED matrix (or multiple 8x8 
 
 The mouth tracking is the killer feature. The microphone picks up your voice (it's literally an inch from your mouth). A simple amplitude threshold triggers a "mouth open" animation on the lower half of the LED matrix. When you stop talking, the mouth closes. The response time is fast enough — under 20ms — that it looks like the mask's mouth is moving in perfect sync with your speech. Add a few pre-programmed face expressions (angry, happy, skull, alien) selectable by a button, and you've got a wearable display that's half instrument, half performance art piece.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] WS2812B LED matrix — 8x32 flexible panel or 4x 8x8 matrices *(online, ~$8-12)*
 - [ ] ESP32 dev board — for audio processing and LED control *(online, ~$5-8)*
@@ -35,7 +34,9 @@ The mouth tracking is the killer feature. The microphone picks up your voice (it
 - [ ] Hot glue gun — for mounting everything *(existing)*
 - [ ] Black fabric or foam — for blocking light leaks around edges *(craft store, ~$2)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the mask shell.** Start with a white plastic mask or cut a face-shaped piece from 1/8" white acrylic. The mask needs to be translucent — light should pass through it but the LEDs behind shouldn't be individually visible. If the mask is too transparent, add a layer of white tissue paper or diffusion film on the inside. If too opaque, sand the inside with fine sandpaper to thin it.
 
@@ -53,14 +54,14 @@ The mouth tracking is the killer feature. The microphone picks up your voice (it
 
 8. **Secure and wear.** Attach elastic straps to the mask sides so it fits comfortably over your face. Add foam padding on the inside forehead and chin areas for comfort during extended wear. The power bank goes in your pocket with the USB cable routed up your back or under your shirt to the mask. Test in a dark room with music — adjust mic sensitivity and animation thresholds until the face feels alive and responsive.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - LED light shining directly into your eyes at close range can cause discomfort and temporary vision issues. Ensure the eye regions of the mask are either dark (no LEDs) or have light-blocking material between the LEDs and your eyes.
 - The mask restricts peripheral vision and may impair depth perception. Be careful navigating stairs, uneven ground, or crowded spaces. Remove the mask when driving, cycling, or doing anything requiring full visual field.
 - All voltages in this build are 5V from a USB power bank — no shock hazard. However, short circuits in the wiring could cause the power bank to overheat. Insulate all connections properly.
 - Extended wear in warm environments can cause the mask to get uncomfortable as your breath condenses on the inside. Add small ventilation holes at the bottom for airflow.
 
-## See Also
+## 🔗 See Also
 
 - [Sound-Reactive LED Jacket](242-led-jacket.md)
 - [Heads-Up Display Glasses](245-hud-glasses.md)

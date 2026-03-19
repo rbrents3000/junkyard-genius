@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Imagine a watch that doesn’t tell time — it tells you where to go. You program a set of GPS coordinates into it (the location of a hidden cache, a geocache, a surprise party, whatever you want), strap it on your wrist, and the display shows a compass arrow pointing toward the target and the distance remaining. Walk in the direction of the arrow and watch the distance count down. 500 meters... 200 meters... 50 meters... 10 meters... you’re standing on it. It’s like a metal detector for anything you’ve hidden, minus the beeping and the weird looks.
 
@@ -20,7 +18,8 @@ The hardware is remarkably simple. A GPS module (NEO-6M or NEO-7M) receives sate
 
 The applications go way beyond geocaching. Program it with the coordinates of your car in a parking garage. Set up a treasure hunt for kids’ birthday parties with multiple waypoints. Use it for orienteering or hiking to navigate to a specific campsite, trailhead, or water source without relying on your phone’s battery. Because the coordinates are hardcoded (or loaded from an SD card), the watch works anywhere with GPS satellite coverage — no cell service required, no maps to download, no subscription fees. It’s pure satellite navigation distilled into the simplest possible form: which way and how far.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] ESP32 dev board — small form factor (ESP32-C3 or ESP32-S3 mini) *(online, ~$5-8)*
 - [ ] GPS module — NEO-6M or NEO-7M with antenna *(online, ~$5-8)*
@@ -34,7 +33,9 @@ The applications go way beyond geocaching. Program it with the coordinates of yo
 - [ ] Slide switch — for power on/off *(~$0.50)*
 - [ ] Small perfboard — for connecting modules *(~$1)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Test the GPS module on a breadboard.** Before building anything into a watch case, wire the GPS module to the ESP32 on a breadboard. Connect TX/RX to ESP32 serial pins (GPIO16/17), VCC to 3.3V, GND to GND. Flash a test sketch that reads NMEA sentences from the GPS and prints latitude/longitude to Serial Monitor. Take the breadboard outside — GPS modules need clear sky visibility for a first fix, which can take 1-5 minutes cold start. Once you see valid coordinates, you know the hardware works.
 
@@ -52,7 +53,7 @@ The applications go way beyond geocaching. Program it with the coordinates of yo
 
 8. **Field test.** Program the coordinates of a known location (your mailbox, a park bench, a specific tree) and walk to it using only the watch. The arrow should smoothly rotate to point toward the target as you change direction. The distance should count down steadily as you approach. At very close range (under 10 meters), GPS accuracy becomes the limiting factor — the displayed distance will jump around by 3-5 meters. Add a “you’re here!” screen that triggers when distance drops below 10 meters.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - GPS modules consume significant power during satellite acquisition. Battery life is typically 4-8 hours with a 500mAh LiPo, depending on display brightness and GPS update rate. Carry a backup navigation method (phone, map) on hikes where getting lost would be dangerous.
 - GPS accuracy is 3-5 meters in open sky and degrades significantly under tree canopy, in urban canyons, or indoors. Don’t rely on this for navigation precision better than about 10 meters.
@@ -60,7 +61,7 @@ The applications go way beyond geocaching. Program it with the coordinates of yo
 - The magnetometer is affected by nearby magnetic fields — large metal objects, speakers, other electronics. Calibrate outdoors away from metal structures for best accuracy. Wrist-mounted magnets (like some watch clasps) will completely throw off the compass.
 - This device is not a substitute for proper navigation equipment in wilderness or emergency situations. It’s a fun tool, not a safety device.
 
-## See Also
+## 🔗 See Also
 
 - [Heads-Up Display Glasses](245-hud-glasses.md)
 - [Nichrome Wire Heated Gloves](243-heated-gloves.md)

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Imagine playing a synthesizer with nothing but hand gestures. No keyboard, no pads, no strings — just your fingers bending in the air. Each finger controls a different note or parameter. Curl your index finger and a bass note sounds. Straighten your pinky and a hi-hat triggers. Tilt your whole wrist left and the pitch bends down. Roll it right and a filter opens up. This is a motion capture MIDI glove, and it turns your hand into a musical instrument that would make a theremin jealous.
 
@@ -20,7 +18,8 @@ The sensing is done by two types of components working together. Flex sensors �
 
 The ESP32 reads all the sensors, maps them to MIDI messages, and sends those messages over USB or Bluetooth to a computer running any DAW (Ableton, FL Studio, Logic, GarageBand). In the DAW, you map the incoming MIDI CC messages to whatever parameters you want: notes, volume, filter cutoff, reverb depth, sample triggers. The mapping is entirely up to you. The glove is the interface; the software is the instrument. Together they’re a performance tool that looks like magic to anyone watching.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Flex sensors — 4.5" resistive flex sensor, quantity 5 (one per finger) *(online, ~$8-10 each, or ~$35 for a pack)*
 - [ ] MPU6050 module — 6-axis accelerometer/gyroscope breakout *(online, ~$3)*
@@ -35,7 +34,9 @@ The ESP32 reads all the sensors, maps them to MIDI messages, and sends those mes
 - [ ] Fabric glue or thread — for securing sensors to the glove *(existing)*
 - [ ] Velcro — for securing the ESP32 enclosure to the wrist *(~$2)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the flex sensors.** Each flex sensor is a strip that reads about 10k ohms when flat and 20-40k ohms when fully bent at 90 degrees. To read this with the ESP32’s ADC, build a voltage divider for each sensor: one leg of a 10k fixed resistor to 3.3V, the other leg to the flex sensor and to an ESP32 analog pin. The flex sensor’s other terminal goes to ground. As the sensor bends, the voltage at the ADC pin changes. Wire all 5 dividers on a small perfboard.
 
@@ -53,14 +54,14 @@ The ESP32 reads all the sensors, maps them to MIDI messages, and sends those mes
 
 8. **Calibrate and perform.** Play with the glove for 15 minutes and note any dead zones or jumpy readings. Adjust the voltage divider resistor values if a particular sensor’s range is too narrow. Add smoothing in firmware (running average of the last 4-8 readings) to eliminate jitter. Once calibrated, the glove should feel natural — you think about the music, not the technology.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - All voltages are 3.3-5V from a small LiPo. No shock hazard.
 - Flex sensors are fragile — they can crack if bent sharply backward (opposite direction) or if creased. Always bend them in the direction they’re designed for. Replace cracked sensors immediately, as the broken edges can poke through the glove.
 - The LiPo battery should have a protection circuit to prevent over-discharge and short circuits. Don’t crush or puncture the battery.
 - Extended wear of a tight glove with sensors can restrict circulation. Take the glove off periodically and flex your hand. If your fingers tingle or go numb, the glove is too tight.
 
-## See Also
+## 🔗 See Also
 
 - [Sound-Reactive LED Jacket](242-led-jacket.md)
 - [Heads-Up Display Glasses](245-hud-glasses.md)
