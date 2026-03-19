@@ -80,7 +80,7 @@ Yayoi Kusama charges museum admission for this. You can build it from thrift sto
 ## 🔗 See Also
 
 - [Infinity Mirror Table](../light-and-visual/016-infinity-mirror-table.md) — same mirror-reflection principle applied to furniture
-- [Fiber Optic Star Ceiling](../light-and-visual/021-fiber-optic-star-ceiling.md) — another immersive light installation using different tech
+- [Fiber Optic Star Ceiling](../light-and-visual/173-fiber-optic-star-ceiling.md) — another immersive light installation using different tech
 
 **References:**
 - [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
