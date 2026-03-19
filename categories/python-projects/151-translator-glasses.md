@@ -1,5 +1,9 @@
 # #151 — Translator Glasses
 
+<p align="center">
+  <img src="../../images/builds/151-translator-glasses.jpg" alt="Translator Glasses" width="700" />
+</p>
+
 > A Pi Zero camera reads text, OCR translates it, and a tiny display near the eye shows the translation — DIY Google Translate glasses.
 
 ## Ratings

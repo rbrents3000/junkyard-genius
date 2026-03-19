@@ -1,5 +1,9 @@
 # #146 — Earthquake Detector
 
+<p align="center">
+  <img src="../../images/builds/146-earthquake-detector.jpg" alt="Earthquake Detector" width="700" />
+</p>
+
 > Old smartphones running Phyphox stream accelerometer data to a Python server — a DIY seismograph network from e-waste.
 
 ## Ratings

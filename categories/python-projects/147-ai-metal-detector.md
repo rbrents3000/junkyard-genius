@@ -1,5 +1,9 @@
 # #147 — AI Metal Detector
 
+<p align="center">
+  <img src="../../images/builds/147-ai-metal-detector.jpg" alt="AI Metal Detector" width="700" />
+</p>
+
 > A metal detector circuit with an Arduino and Pi running machine learning — not just beep, but "probably aluminum at 6 inches."
 
 ## Ratings

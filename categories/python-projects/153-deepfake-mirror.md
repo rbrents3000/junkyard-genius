@@ -1,5 +1,9 @@
 # #153 — Deepfake Mirror
 
+<p align="center">
+  <img src="../../images/builds/153-deepfake-mirror.jpg" alt="Deepfake Mirror" width="700" />
+</p>
+
 > Real-time face swapping — look in the mirror and see yourself as Einstein, Elvis, or Shrek.
 
 ## Ratings
