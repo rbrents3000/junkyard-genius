@@ -1,5 +1,9 @@
 # #088 — Electric Skateboard
 
+<p align="center">
+  <img src="../../images/builds/088-electric-skateboard.jpg" alt="Electric Skateboard" width="700" />
+</p>
+
 > Scooter motor + ESC + salvaged laptop battery pack + skateboard deck. 15-20 mph for free vs $400+ for a commercial board.
 
 ## Ratings

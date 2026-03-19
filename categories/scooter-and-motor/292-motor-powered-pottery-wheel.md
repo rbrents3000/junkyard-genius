@@ -1,5 +1,9 @@
 # #292 — Motor-Powered Pottery Wheel
 
+<p align="center">
+  <img src="../../images/builds/292-motor-powered-pottery-wheel.jpg" alt="Motor-Powered Pottery Wheel" width="700" />
+</p>
+
 > Hub motor + speed controller + foot pedal. Throw clay on a dead scooter's guts for $0 vs $300+ for a commercial wheel.
 
 ## Ratings

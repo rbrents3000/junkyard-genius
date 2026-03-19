@@ -1,5 +1,9 @@
 # #090 — Electric Winch
 
+<p align="center">
+  <img src="../../images/builds/090-electric-winch.jpg" alt="Electric Winch" width="700" />
+</p>
+
 > Scooter motor + spool + rope. A 250W motor lifts ~50 lbs. Portable electric winch for pulling, lifting, and hauling.
 
 ## Ratings

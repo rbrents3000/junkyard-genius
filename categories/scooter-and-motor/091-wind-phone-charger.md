@@ -1,5 +1,9 @@
 # #091 — Wind Phone Charger
 
+<p align="center">
+  <img src="../../images/builds/091-wind-phone-charger.jpg" alt="Wind Phone Charger" width="700" />
+</p>
+
 > A scooter motor run in reverse is a generator. Add PVC pipe blades and a charge controller. An actual tiny wind turbine. Free electricity from the sky.
 
 ## Ratings
