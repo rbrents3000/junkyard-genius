@@ -41,7 +41,7 @@ Technical complexity. How much do you need to understand before you can build th
 
 | Rating | Description | Example Builds |
 |---|---|---|
-| ⭐ | Follow the instructions. If you can read, you can build it. | [#101 Colored Fire](../categories/pyro-and-chemistry/101-colored-fire.md), [#213 Density Tower](../categories/household-chemistry/280-density-tower.md) |
+| ⭐ | Follow the instructions. If you can read, you can build it. | [#101 Colored Fire](../categories/pyro-and-chemistry/101-colored-fire.md), [#280 Density Tower](../categories/household-chemistry/280-density-tower.md) |
 | ⭐⭐ | Basic skills required — soldering, wiring, or simple mechanical assembly. One afternoon of YouTube gets you there. | [#187 Ball Bearing Motor](../categories/mechanical-and-kinetic/187-ball-bearing-motor.md), [#139 Pi-Hole Ad Blocker](../categories/pi-and-arduino/139-pi-hole-ad-blocker.md) |
 | ⭐⭐⭐ | Multiple skill domains. You need to understand the theory, not just follow steps. Things can go wrong in non-obvious ways. | [#122 LED Cube 8x8x8](../categories/pi-and-arduino/122-led-cube-8x8x8.md), [#156 Electroplating Station](../categories/chemical-electronic/156-electroplating-station.md) |
 | ⭐⭐⭐⭐ | Serious engineering. You're designing circuits, debugging invisible problems, and troubleshooting failures with a multimeter and an oscilloscope. | [#033 Musical Tesla Coil](../categories/mad-scientist/033-musical-tesla-coil.md), [#141 Face Tracking Laser](../categories/python-projects/141-face-tracking-laser.md) |
@@ -69,7 +69,7 @@ Danger. This is the one that matters most. Ignore the other ratings if you want 
 
 | Rating | Name | Description | Example Builds |
 |---|---|---|---|
-| ⭐ | Chill | Paper cuts and stubbed toes. The worst that happens is a minor inconvenience. | [#171 Pepper's Ghost Hologram](../categories/light-and-visual/171-peppers-ghost-hologram.md), [#213 Density Tower](../categories/household-chemistry/280-density-tower.md) |
+| ⭐ | Chill | Paper cuts and stubbed toes. The worst that happens is a minor inconvenience. | [#171 Pepper's Ghost Hologram](../categories/light-and-visual/171-peppers-ghost-hologram.md), [#280 Density Tower](../categories/household-chemistry/280-density-tower.md) |
 | ⭐⭐ | Mildly Sketchy | Soldering iron burns, minor chemical exposure, hot glue blisters. Routine shop hazards. Respect them, but they won't send you to the ER. | [#187 Ball Bearing Motor](../categories/mechanical-and-kinetic/187-ball-bearing-motor.md), [#122 LED Cube 8x8x8](../categories/pi-and-arduino/122-led-cube-8x8x8.md) |
 | ⭐⭐⭐ | Respect It | High voltage, power tools, toxic chemicals. Things that punish carelessness with real injuries. You need to understand the hazards before you start. | [#034 Jacob's Ladder](../categories/mad-scientist/034-jacobs-ladder.md), [#110 Pharaoh's Serpent](../categories/pyro-and-chemistry/110-pharaohs-serpent.md) |
 | ⭐⭐⭐⭐ | One Wrong Move | One mistake means a hospital visit. MOT capacitors, high-current circuits, molten metal, concentrated acids. Serious preparation required. Don't work alone. | [#005 Desktop Foundry](../categories/fire-and-plasma/005-desktop-foundry.md), [#035 Electromagnetic Can Crusher](../categories/mad-scientist/035-electromagnetic-can-crusher.md) |
