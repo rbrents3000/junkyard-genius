@@ -8,49 +8,29 @@
     <img src="https://img.shields.io/github/stars/rbrents3000/junkyard-genius?style=for-the-badge" alt="Stars" />
   </p>
   <p align="center">
-    <a href="https://rbrents3000.github.io/junkyard-genius/quiz/">🎯 Take the Quiz</a> &bull;
-    <a href="#start-here">Start Here</a> &bull;
-    <a href="#whats-in-your-junk-pile">Find Builds by Junk</a> &bull;
-    <a href="#categories">Browse Categories</a> &bull;
-    <a href="#reference-docs">Reference</a> &bull;
-    <a href="#safety">Safety</a>
-  </p>
-  <p align="center">
     <img src="images/hero-banner.jpg" alt="Junkyard Genius — salvaged parts, infinite possibilities" width="800" />
   </p>
 </p>
 
----
-
 Your microwave, fridge, old phones, dead laptops, busted printers, and that vacuum cleaner collecting dust in the garage? They're not trash. They're **ingredients**.
 
-This repo is a cookbook for builders, makers, mad scientists, and anyone who looks at a pile of junk and sees potential. Every build includes rated difficulty, sourced ingredients, step-by-step instructions, and safety notes.
-
-> **335 builds** &middot; **33 categories** &middot; **14 reference guides** &middot; **4 safety docs**
->
-> From "I just need a battery and a magnet" to "I'm building a rail gun from a microwave and a prayer."
->
-> *Some assembly required. Some disassembly required first.*
-
----
-
-### Featured Build — [#312 Kinetic Sand Table](categories/art-and-installation/312-kinetic-sand-table.md)
-
-> A CNC-controlled magnet hidden beneath a glass-topped table silently drags a steel ball through fine sand, drawing never-repeating geometric patterns. Spirals become stars become flowers become waves — and it runs forever.
-
-**Dead printers + dead hard drives → something beautiful enough for a Michelin-star restaurant.** The commercial version costs $600–$1500. This one costs ~$80 in salvaged parts.
+Every build is rated on 6 scales, includes sourced ingredients, step-by-step instructions, and safety notes. From "I just need a battery and a magnet" to "I'm building a rail gun from a microwave and a prayer."
 
 | Jaw Drop | Brain Melt | Wallet | Spicy | Clout | Time |
 |---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| How cool is it? | How hard is it? | How much $? | How dangerous? | Internet fame? | How long? |
+
+<p align="center">
+  <br>
+  <a href="https://rbrents3000.github.io/junkyard-genius/quiz/"><strong>🎯 Take the Build Finder Quiz</strong></a> — answer 6 questions, get personalized recommendations
+  <br><br>
+</p>
 
 ---
 
 ## Start Here
 
-> **Not sure where to begin?** Take the **[Build Finder Quiz](https://rbrents3000.github.io/junkyard-genius/quiz/)** — answer 6 questions and get personalized build recommendations matched to your skill level, junk pile, and risk tolerance.
-
-Or pick your comfort level and dive in.
+Pick your comfort level and dive in.
 
 | | | |
 |---|---|---|
@@ -122,6 +102,47 @@ Or pick your comfort level and dive in.
 
 ---
 
+### Crowd Favorites
+
+<table>
+<tr>
+<td width="33%" align="center">
+<a href="categories/art-and-installation/312-kinetic-sand-table.md"><img src="images/builds/312-kinetic-sand-table.jpg" width="250" alt="Kinetic Sand Table" /></a><br>
+<strong><a href="categories/art-and-installation/312-kinetic-sand-table.md">#312 — Kinetic Sand Table</a></strong><br>
+<sub>Dead printers → never-repeating geometric art. Commercial: $1500. This: ~$80.</sub>
+</td>
+<td width="33%" align="center">
+<a href="categories/mad-scientist/033-musical-tesla-coil.md"><img src="images/builds/033-musical-tesla-coil.jpg" width="250" alt="Musical Tesla Coil" /></a><br>
+<strong><a href="categories/mad-scientist/033-musical-tesla-coil.md">#033 — Musical Tesla Coil</a></strong><br>
+<sub>Lightning bolts that play music. Built from a dead TV and scrapped electronics.</sub>
+</td>
+<td width="33%" align="center">
+<a href="categories/sound-and-music/009-rubens-tube.md"><img src="images/builds/009-rubens-tube.jpg" width="250" alt="Rubens' Tube" /></a><br>
+<strong><a href="categories/sound-and-music/009-rubens-tube.md">#009 — Rubens' Tube</a></strong><br>
+<sub>Fire dances to music. Standing waves in a propane tube visualized by flames.</sub>
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+<a href="categories/visual-showstoppers/333-ferrofluid-wall.md"><img src="images/builds/333-ferrofluid-wall.jpg" width="250" alt="Ferrofluid Wall" /></a><br>
+<strong><a href="categories/visual-showstoppers/333-ferrofluid-wall.md">#333 — Ferrofluid Wall</a></strong><br>
+<sub>Alien liquid metal dances to music on your wall. Commercial: $3000+. This: ~$150.</sub>
+</td>
+<td width="33%" align="center">
+<a href="categories/fire-and-plasma/002-lichtenberg-wood-burner.md"><img src="images/builds/002-lichtenberg-wood-burner.jpg" width="250" alt="Lichtenberg Wood Burner" /></a><br>
+<strong><a href="categories/fire-and-plasma/002-lichtenberg-wood-burner.md">#002 — Lichtenberg Wood Burner</a></strong><br>
+<sub>Lightning scar art burned into wood with a microwave transformer. Spicy ⭐⭐⭐⭐⭐.</sub>
+</td>
+<td width="33%" align="center">
+<a href="categories/mechanical-and-kinetic/181-musical-marble-machine.md"><img src="images/builds/181-musical-marble-machine.jpg" width="250" alt="Musical Marble Machine" /></a><br>
+<strong><a href="categories/mechanical-and-kinetic/181-musical-marble-machine.md">#181 — Musical Marble Machine</a></strong><br>
+<sub>Marbles trigger tuned chimes as they roll through a hand-built mechanical instrument.</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ## What's In Your Junk Pile?
 
 Find builds based on what you already have lying around. One person's e-waste is another person's electron microscope.
@@ -158,99 +179,132 @@ Find builds based on what you already have lying around. One person's e-waste is
 
 ---
 
-## Ratings
-
-Every build is rated on 6 scales. Calibrate your ambition accordingly.
-
-| Rating | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-|---|---|---|---|---|---|
-| **Jaw Drop** | Cool | Impressive | Wild | Unreal | Life-changing |
-| **Brain Melt** | Easy peasy | Some googling | Real project | Advanced | PhD energy |
-| **Wallet Damage** | Free / trash | Under $20 | $20–50 | $50–150 | $150+ |
-| **Spicy Level** | Chill | Mildly sketchy | Respect it | One wrong move... | Call next of kin |
-| **Clout Potential** | Cool hobby | Friends impressed | Party trick | Local news | 10M TikTok views |
-| **Time to Build** | 1 hour | Afternoon | Weekend | Week+ | Month saga |
-
----
-
 ## Categories
 
-| # | | Category | Builds | Vibe |
-|---|---|---|---|---|
-| 1 | 🔥 | [Fire & Plasma](categories/fire-and-plasma/) | 8 | Arcs, torches, foundries, plasma tornadoes, 2D pyro boards |
-| 2 | 🔊 | [Sound & Music](categories/sound-and-music/) | 8 | Plasma speakers, ultrasonic levitators, Rubens' tubes, Tesla coil guitar |
-| 3 | 💡 | [Light & Visual](categories/light-and-visual/) | 19 | Lasers, holograms, optics, infinity mirrors |
-| 4 | 🔧 | [Functional Machines](categories/functional-machines/) | 9 | Go-karts, welders, vacuum formers, belt grinders |
-| 5 | ⚡ | [Mad Scientist](categories/mad-scientist/) | 10 | Tesla coils, rail guns, cloud chambers, mass spectrometers |
-| 6 | 🎨 | [Art & Installation](categories/art-and-installation/) | 8 | Ferrofluid mirrors, kinetic sand tables, Chladni plates, planetariums |
-| 7 | 🔋 | [Power & Energy](categories/power-and-energy/) | 8 | Generators, powerwalls, solar forges, capacitor banks |
-| 8 | 💻 | [Computer & Phone Parts](categories/computer-and-phone/) | 13 | HDD speakers, laptop monitors, phone sensors |
-| 9 | 🖨️ | [Printer & Scanner](categories/printer-and-scanner/) | 8 | CNC machines, laser engravers, scanner light painting, thermal printer art |
-| 10 | 🌀 | [Vacuum Cleaner](categories/vacuum-cleaner/) | 8 | Hovercrafts, wall-climbing robots, wind tunnels, air hockey tables |
-| 11 | 🔨 | [Power Tools Remixed](categories/power-tools-remixed/) | 8 | Drill press, CNC spindle, power hammer, drill lathe, belt sander |
-| 12 | 💧 | [Humidifier & Water](categories/humidifier-and-water/) | 7 | Fog machines, nebula lamps, ultrasonic cleaners, mist cooling |
-| 13 | ⚙️ | [Scooter & Motor](categories/scooter-and-motor/) | 7 | E-skateboards, camera sliders, pottery wheels, turntables |
-| 14 | ❄️ | [Fridge & Cooling](categories/fridge-and-cooling/) | 9 | Freeze dryers, fermentation chambers, Peltier coolers, ice cream makers |
-| 15 | 🧪 | [Pyro & Chemistry](categories/pyro-and-chemistry/) | 20 | Colored fire, thermite, bismuth crystals, luminol, smoke bombs |
-| 16 | 🤖 | [Raspberry Pi & Arduino](categories/pi-and-arduino/) | 20 | LED cubes, drones, smart mirrors, fireworks sequencers |
-| 17 | 🐍 | [Python Projects](categories/python-projects/) | 15 | Face tracking, photo booth, generative art, deepfake mirror |
-| 18 | ⚗️ | [Chemical + Electronic](categories/chemical-electronic/) | 15 | Electroplating, anodizing, PCB etching, neon signs |
-| 19 | 🏗️ | [Mechanical & Kinetic](categories/mechanical-and-kinetic/) | 11 | Marble machines, Stirling engines, trebuchets, pendulum waves |
-| 20 | 🏢 | [Big Builds](categories/big-builds/) | 8 | Weather balloons, ham radio, observatories, giant Tesla coils |
-| 21 | 🔬 | [Weird Science](categories/weird-science/) | 8 | Kirlian photography, Van de Graaff, spectroscopes, Foucault pendulums |
-| 22 | 💀 | [Unholy Combos](categories/unholy-combos/) | 8 | Cross-category mashups nobody asked for (but everyone needed) |
-| 23 | 🚁 | [Drone Salvage](categories/drone-salvage/) | 8 | FPV racers, gimbal stabilizers, brushless motor hacks |
-| 24 | 🧹 | [Household Chemistry](categories/household-chemistry/) | 16 | Crystal gardens, vinegar rockets, elephant toothpaste, smoke bombs, copper plating |
-| 25 | 🚗 | [Junkyard Auto](categories/junkyard-auto/) | 8 | Alternator generators, ignition coil Teslas, spark plug lighters |
-| 26 | 💥 | [Alchemist Cookbook](categories/alchemist-cookbook/) | 13 | Microwave + chemicals + capacitors = controlled chaos |
-| 27 | 🎸 | [Junk Instruments](categories/junk-instruments/) | 7 | Cigar box guitars, PVC pipe organs, steel tongue drums |
-| 28 | 👕 | [Wearable Tech](categories/wearable-tech/) | 8 | LED jackets, EEG headbands, HUD glasses, LED backpack displays |
-| 29 | ⛺ | [Survival & Off-Grid](categories/survival-off-grid/) | 8 | Solar stills, crystal radios, Faraday flashlights, biogas generators |
-| 30 | 👻 | [Pranks & Party](categories/pranks-and-party/) | 8 | Smoke ring cannons, confetti launchers, invisible speakers, insult cameras |
-| 31 | 🍴 | [Kitchen Hacks](categories/kitchen-hacks/) | 8 | Toaster reflow ovens, microwave kilns, rice cooker electroplating |
-| 32 | 🎯 | [Laser Lab](categories/laser-lab/) | 7 | Laser harps, galvo light shows, Blu-ray cutters, laser microscopes |
-| 33 | 👁️ | [Visual Showstoppers](categories/visual-showstoppers/) | 9 | Cloud chamber tables, fire organs, ferrofluid walls, infinity rooms, flip-dot displays |
+<details open>
+<summary><strong>🔥 Fire, Plasma & Chemistry</strong> — 64 builds</summary>
+
+| | Category | Builds | Vibe |
+|---|---|---|---|
+| 🔥 | [Fire & Plasma](categories/fire-and-plasma/) | 8 | Arcs, torches, foundries, plasma tornadoes |
+| 🧪 | [Pyro & Chemistry](categories/pyro-and-chemistry/) | 20 | Colored fire, thermite, bismuth crystals, luminol |
+| ⚗️ | [Chemical + Electronic](categories/chemical-electronic/) | 15 | Electroplating, anodizing, PCB etching, neon signs |
+| 🧹 | [Household Chemistry](categories/household-chemistry/) | 16 | Crystal gardens, vinegar rockets, elephant toothpaste |
+| 💥 | [Alchemist Cookbook](categories/alchemist-cookbook/) | 13 | Microwave + chemicals + capacitors = controlled chaos |
+
+</details>
+
+<details open>
+<summary><strong>⚡ Electronics & Code</strong> — 45 builds</summary>
+
+| | Category | Builds | Vibe |
+|---|---|---|---|
+| 🤖 | [Raspberry Pi & Arduino](categories/pi-and-arduino/) | 20 | LED cubes, drones, smart mirrors, fireworks sequencers |
+| 🐍 | [Python Projects](categories/python-projects/) | 15 | Face tracking, photo booth, generative art, deepfake mirror |
+| ⚡ | [Mad Scientist](categories/mad-scientist/) | 10 | Tesla coils, rail guns, cloud chambers, mass spectrometers |
+
+</details>
+
+<details open>
+<summary><strong>💡 Light, Sound & Visual</strong> — 43 builds</summary>
+
+| | Category | Builds | Vibe |
+|---|---|---|---|
+| 💡 | [Light & Visual](categories/light-and-visual/) | 19 | Lasers, holograms, optics, infinity mirrors |
+| 🔊 | [Sound & Music](categories/sound-and-music/) | 8 | Plasma speakers, Rubens' tubes, Tesla coil guitar |
+| 🎸 | [Junk Instruments](categories/junk-instruments/) | 7 | Cigar box guitars, PVC pipe organs, steel tongue drums |
+| 👁️ | [Visual Showstoppers](categories/visual-showstoppers/) | 9 | Fire organs, ferrofluid walls, infinity rooms, flip-dot displays |
+
+</details>
+
+<details open>
+<summary><strong>🔧 Machines & Mechanical</strong> — 53 builds</summary>
+
+| | Category | Builds | Vibe |
+|---|---|---|---|
+| 🔧 | [Functional Machines](categories/functional-machines/) | 9 | Go-karts, welders, vacuum formers, belt grinders |
+| 🏗️ | [Mechanical & Kinetic](categories/mechanical-and-kinetic/) | 11 | Marble machines, Stirling engines, trebuchets |
+| 🔨 | [Power Tools Remixed](categories/power-tools-remixed/) | 8 | Drill press, CNC spindle, power hammer, belt sander |
+| 🔋 | [Power & Energy](categories/power-and-energy/) | 8 | Generators, powerwalls, solar forges, capacitor banks |
+| 🏢 | [Big Builds](categories/big-builds/) | 8 | Weather balloons, ham radio, observatories, giant Tesla coils |
+| ⚙️ | [Scooter & Motor](categories/scooter-and-motor/) | 7 | E-skateboards, camera sliders, pottery wheels |
+
+</details>
+
+<details open>
+<summary><strong>♻️ Salvage by Appliance</strong> — 72 builds</summary>
+
+| | Category | Builds | Vibe |
+|---|---|---|---|
+| 💻 | [Computer & Phone Parts](categories/computer-and-phone/) | 13 | HDD speakers, laptop monitors, phone sensors |
+| 🖨️ | [Printer & Scanner](categories/printer-and-scanner/) | 8 | CNC machines, laser engravers, scanner light painting |
+| 🌀 | [Vacuum Cleaner](categories/vacuum-cleaner/) | 8 | Hovercrafts, wall-climbing robots, wind tunnels |
+| 💧 | [Humidifier & Water](categories/humidifier-and-water/) | 7 | Fog machines, nebula lamps, ultrasonic cleaners |
+| ❄️ | [Fridge & Cooling](categories/fridge-and-cooling/) | 9 | Freeze dryers, fermentation chambers, Peltier coolers |
+| 🚁 | [Drone Salvage](categories/drone-salvage/) | 8 | FPV racers, gimbal stabilizers, brushless motor hacks |
+| 🚗 | [Junkyard Auto](categories/junkyard-auto/) | 8 | Alternator generators, ignition coil Teslas |
+| 🍴 | [Kitchen Hacks](categories/kitchen-hacks/) | 8 | Toaster reflow ovens, microwave kilns |
+| 🎯 | [Laser Lab](categories/laser-lab/) | 7 | Laser harps, galvo light shows, Blu-ray cutters |
+
+</details>
+
+<details open>
+<summary><strong>🎨 Art, Wearables & Fun</strong> — 50 builds</summary>
+
+| | Category | Builds | Vibe |
+|---|---|---|---|
+| 🎨 | [Art & Installation](categories/art-and-installation/) | 8 | Ferrofluid mirrors, kinetic sand tables, planetariums |
+| 👕 | [Wearable Tech](categories/wearable-tech/) | 8 | LED jackets, EEG headbands, HUD glasses |
+| 👻 | [Pranks & Party](categories/pranks-and-party/) | 8 | Smoke ring cannons, confetti launchers, insult cameras |
+| ⛺ | [Survival & Off-Grid](categories/survival-off-grid/) | 8 | Solar stills, crystal radios, biogas generators |
+| 🔬 | [Weird Science](categories/weird-science/) | 8 | Kirlian photography, Van de Graaff, spectroscopes |
+| 💀 | [Unholy Combos](categories/unholy-combos/) | 8 | Cross-category mashups nobody asked for |
+
+</details>
 
 ---
 
-## Reference Docs
-
-Before you start ripping apart appliances, read these. Seriously. The teardown guide alone will save you hours of "which wire is which" frustration.
-
-| Guide | What's Inside |
-|---|---|
-| [Appliance Teardown Guide](reference/appliance-teardown-guide.md) | 13 appliances — what parts to salvage, teardown safety, tools needed |
-| [Chemicals Guide](reference/chemicals.md) | 30+ chemicals — where to buy, cost, safety, which builds use them |
-| [Electronics & Microcontrollers](reference/electronics-and-microcontrollers.md) | Pi vs Arduino vs ESP32, sensors, actuators, displays, power |
-| [Android Apps](reference/android-apps.md) | Sensor apps, controllers, and cameras for phone-based builds |
-| [Python Libraries](reference/python-libraries.md) | 18 key packages for software-enhanced builds |
-| [Sourcing Guide](reference/sourcing-guide.md) | Where to find free junk — bulk trash days, Craigslist, ReStore, e-waste recyclers |
-| [Tools Needed](reference/tools-needed.md) | The minimum toolbox — tiered by budget from $0 to $300+ |
-| [One Appliance, Five Builds](reference/one-appliance-five-builds.md) | Quick-start pages: "You scored a dead microwave — now what?" |
-| [Skill Trees](reference/skill-trees.md) | Progression paths — beginner to advanced by interest area |
-| [Filming Guide](reference/filming-guide.md) | How to film your builds for TikTok/YouTube |
-| [Seasonal Builds](reference/seasonal-builds.md) | Builds organized by holiday — Halloween, 4th of July, Christmas, summer |
-| [Ingredient Index](reference/ingredient-index.md) | Reverse lookup — every component mapped to every build that uses it |
-| [Difficulty & Ratings Guide](reference/difficulty-guide.md) | The 6-scale rating system explained — what each star level means, required safety gear per danger tier |
-| [Glossary](reference/glossary.md) | 60+ technical terms decoded — MOT, flyback, thermite, Peltier, and every acronym in the repo |
-
----
-
-## Safety
-
-**Read these before your first build.** Especially if it has a Spicy Level above ⭐⭐. We're not your mom, but she'd want you to read them.
-
-| Doc | Covers |
-|---|---|
-| [General Safety](safety/README.md) | Universal rules, Spicy Level explained, emergency contacts, legal considerations |
-| [High Voltage Safety](safety/high-voltage.md) | Capacitor discharge, one-hand rule, insulation, shock first aid |
-| [Chemical Safety](safety/chemicals.md) | PPE, storage, disposal, dangerous combinations, chemical first aid |
-| [Fire & Pyro Safety](safety/fire-and-pyro.md) | Extinguisher types, burn treatment, ventilation, safe distances |
-
----
+## Reference & Safety
 
 <details>
-<summary><strong>Most Dangerous Builds (Spicy ⭐⭐⭐⭐⭐)</strong> — These builds can kill you if you're careless. Not in a funny way.</summary>
+<summary><strong>📚 14 Reference Guides</strong> (click to expand)</summary>
+
+**Start here:**
+- [Appliance Teardown Guide](reference/appliance-teardown-guide.md) — 13 appliances: what to salvage, teardown safety, tools needed
+- [Tools Needed](reference/tools-needed.md) — the minimum toolbox, tiered from $0 to $300+
+- [Sourcing Guide](reference/sourcing-guide.md) — where to find free junk: bulk trash days, Craigslist, ReStore, e-waste recyclers
+- [One Appliance, Five Builds](reference/one-appliance-five-builds.md) — "You scored a dead microwave — now what?"
+
+**Go deeper:**
+- [Electronics & Microcontrollers](reference/electronics-and-microcontrollers.md) — Pi vs Arduino vs ESP32, sensors, power
+- [Chemicals Guide](reference/chemicals.md) — 30+ chemicals: where to buy, cost, safety, which builds use them
+- [Skill Trees](reference/skill-trees.md) — progression paths from beginner to advanced
+- [Ingredient Index](reference/ingredient-index.md) — reverse lookup: every component → every build
+- [Difficulty & Ratings Guide](reference/difficulty-guide.md) — the 6-scale rating system explained
+- [Glossary](reference/glossary.md) — 60+ technical terms decoded
+
+**Extras:**
+- [Filming Guide](reference/filming-guide.md) — how to film for TikTok/YouTube
+- [Seasonal Builds](reference/seasonal-builds.md) — builds by holiday
+- [Python Libraries](reference/python-libraries.md) — 18 key packages for software builds
+- [Android Apps](reference/android-apps.md) — sensor apps, controllers, cameras
+
+</details>
+
+<details>
+<summary><strong>⚠️ Safety Docs — Read before your first build</strong></summary>
+
+We're not your mom, but she'd want you to read these. Especially anything above Spicy ⭐⭐.
+
+- [General Safety](safety/README.md) — universal rules, emergency contacts, legal considerations
+- [High Voltage Safety](safety/high-voltage.md) — capacitor discharge, one-hand rule, shock first aid
+- [Chemical Safety](safety/chemicals.md) — PPE, storage, disposal, dangerous combinations
+- [Fire & Pyro Safety](safety/fire-and-pyro.md) — extinguisher types, burn treatment, safe distances
+
+</details>
+
+<details>
+<summary><strong>💀 Most Dangerous Builds (Spicy ⭐⭐⭐⭐⭐)</strong> — can kill you if you're careless. Not in a funny way.</summary>
 
 Read the safety docs first. Respect the process. Tell someone where you are and what you're doing.
 
