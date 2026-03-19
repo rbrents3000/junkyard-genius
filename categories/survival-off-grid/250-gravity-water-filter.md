@@ -1,5 +1,9 @@
 # #250 — Gravity Water Filter
 
+<p align="center">
+  <img src="../../images/builds/250-gravity-water-filter.jpg" alt="Gravity Water Filter" width="700" />
+</p>
+
 > Stacked buckets: gravel, sand, charcoal, cloth = clean water.
 
 ## Ratings

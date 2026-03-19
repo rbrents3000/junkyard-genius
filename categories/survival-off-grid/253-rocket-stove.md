@@ -1,5 +1,9 @@
 # #253 — Rocket Stove
 
+<p align="center">
+  <img src="../../images/builds/253-rocket-stove.jpg" alt="Rocket Stove" width="700" />
+</p>
+
 > An L-shaped tin can inferno that boils water with a handful of twigs. 10x more efficient than an open fire.
 
 ## Ratings

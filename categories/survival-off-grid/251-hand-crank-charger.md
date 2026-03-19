@@ -1,5 +1,9 @@
 # #251 — Hand-Crank Phone Charger
 
+<p align="center">
+  <img src="../../images/builds/251-hand-crank-charger.jpg" alt="Hand-Crank Phone Charger" width="700" />
+</p>
+
 > Five minutes of cranking buys you one emergency call. Your arm is the power plant.
 
 ## Ratings

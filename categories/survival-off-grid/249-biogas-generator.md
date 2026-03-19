@@ -1,5 +1,9 @@
 # #249 — Biogas Generator
 
+<p align="center">
+  <img src="../../images/builds/249-biogas-generator.jpg" alt="Biogas Generator" width="700" />
+</p>
+
 > Sealed drum + compost = methane for cooking. Cook food from rotting food.
 
 ## Ratings
