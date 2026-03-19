@@ -46,3 +46,6 @@ Electrochemical etching uses electricity to selectively dissolve metal. Apply a 
 
 - [PCB Etching Station](158-pcb-etching-station.md)
 - [Electroplating Station](156-electroplating-station.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

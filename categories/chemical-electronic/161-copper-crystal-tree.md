@@ -46,3 +46,6 @@ Iron is more reactive than copper in the electrochemical series. When you place 
 
 - [Bismuth Crystal Garden](../pyro-and-chemistry/107-bismuth-crystal-garden.md)
 - [Electroplating Station](156-electroplating-station.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

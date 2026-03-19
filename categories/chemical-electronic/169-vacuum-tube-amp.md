@@ -51,3 +51,7 @@ Before transistors, all electronics ran on vacuum tubes — glass bottles with g
 
 - [DIY Neon Sign](166-diy-neon-sign.md)
 - [Arduino Guitar Pedal](../pi-and-arduino/124-arduino-guitar-pedal.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

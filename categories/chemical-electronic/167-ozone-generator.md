@@ -48,3 +48,6 @@ Ozone (O3) is a powerful oxidizer — it destroys bacteria, viruses, and organic
 
 - [Hydrogen Generator](159-hydrogen-generator.md)
 - [DIY Neon Sign](166-diy-neon-sign.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

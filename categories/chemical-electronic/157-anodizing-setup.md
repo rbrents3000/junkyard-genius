@@ -51,3 +51,6 @@ Anodizing is the process that gives aluminum its colored, scratch-resistant fini
 
 - [Electroplating Station](156-electroplating-station.md)
 - [PCB Etching Station](158-pcb-etching-station.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

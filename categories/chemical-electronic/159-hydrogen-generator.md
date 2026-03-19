@@ -50,3 +50,6 @@ Electrolysis splits water into hydrogen and oxygen using electricity. Add lye (s
 
 - [Calcium Carbide Cannon](../pyro-and-chemistry/116-calcium-carbide-cannon.md)
 - [Electroplating Station](156-electroplating-station.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

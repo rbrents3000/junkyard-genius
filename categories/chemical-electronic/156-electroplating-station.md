@@ -49,3 +49,6 @@ Electroplating deposits a thin layer of metal onto any conductive surface using 
 
 - [Electroforming Art](160-electroforming-art.md)
 - [Electrochemical Etching](162-electrochemical-etching.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

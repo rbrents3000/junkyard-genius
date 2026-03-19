@@ -51,3 +51,6 @@ Electroplating deposits a thin coating. Electroforming deposits a THICK one — 
 
 - [Electroplating Station](156-electroplating-station.md)
 - [Copper Crystal Tree](161-copper-crystal-tree.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

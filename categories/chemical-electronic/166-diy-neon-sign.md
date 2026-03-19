@@ -52,3 +52,6 @@ Real neon signs are glass tubes filled with gas that glows when high voltage exc
 
 - [Vacuum Tube Amp](169-vacuum-tube-amp.md)
 - [Ozone Generator](167-ozone-generator.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)
