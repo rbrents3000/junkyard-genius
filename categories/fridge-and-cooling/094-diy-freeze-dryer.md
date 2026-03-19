@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Freeze drying (lyophilization) removes water from food by freezing it and then reducing pressure so the ice sublimes directly from solid to gas — skipping the liquid phase entirely. The result is food that retains its shape, nutrition, and flavor but weighs almost nothing and lasts 25+ years in sealed containers. Astronaut ice cream, backpacking meals, and emergency food supplies are all freeze-dried. Commercial home freeze dryers (Harvest Right) cost $2000-5000. A DIY version uses a fridge compressor as a cold trap (catches the sublimated water vapor before it reaches the pump), a second compressor or commercial vacuum pump to create vacuum, and a sealed chamber for the food. It's a serious build, but the physics are straightforward and the results are identical to commercial machines.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Fridge compressor #1 — for the cold trap (chills a coil to -20F+ to catch water vapor) *(dead fridge)*
 - [ ] Vacuum pump — second fridge compressor modified for vacuum duty, or a commercial 2-stage vacuum pump (~$80 used) *(dead fridge or HVAC surplus)*
@@ -28,7 +27,9 @@ Freeze drying (lyophilization) removes water from food by freezing it and then r
 - [ ] Silicone gaskets or vacuum grease — for sealing the chamber *(hardware store)*
 - [ ] Temperature controller — to regulate cold trap temperature *(~$12, electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Understand the freeze drying process.** Food is pre-frozen (in a regular freezer). Then it's placed in a vacuum chamber. The pressure is reduced until the ice sublimes — goes from solid ice directly to water vapor without melting. A cold trap catches the water vapor before it reaches the vacuum pump (water destroys vacuum pumps). The process takes 12-24 hours per batch.
 2. **Build or modify the vacuum pump.** A second fridge compressor can serve as a vacuum pump — cap the high-pressure outlet, and the low-pressure inlet becomes the vacuum source. Alternatively, use a commercial 2-stage vacuum pump (more reliable, better ultimate vacuum). The pump needs to pull at least 200 microns (0.2 torr) for effective freeze drying.
@@ -41,13 +42,13 @@ Freeze drying (lyophilization) removes water from food by freezing it and then r
 9. **Monitor the process.** The cycle takes 12-24 hours for most foods. The vacuum gauge shows progress — pressure spikes when moisture sublimates rapidly, then drops as the food dries. The process is complete when the pressure stabilizes at a low value and no longer spikes when you briefly close the vacuum pump valve.
 10. **Store the product.** Remove the finished food from the chamber. It should be dry, lightweight, and maintain its original shape. Seal immediately in airtight containers (mason jars with oxygen absorbers, or Mylar bags with desiccant). Properly sealed freeze-dried food lasts 25+ years.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Vacuum chambers are under significant differential pressure (14.7 psi atmospheric pressure pushing inward). Improperly built chambers can implode. Use only pressure-rated vessels (pressure cookers, commercial vacuum chambers). Never use thin glass, plastic containers, or improvised chambers that haven't been pressure-tested. Acrylic chambers must be thick-walled (1/2" minimum).
 - Fridge compressors and vacuum pumps run hot during the 12-24 hour cycles required for freeze drying. Ensure adequate ventilation and fire-safe surroundings. Monitor compressor temperature periodically — overheating can cause motor failure or oil ignition.
 - Refrigerants in the cold trap compressor are environmentally regulated. Do not vent refrigerant to the atmosphere. If the system develops a leak, have it repaired by a certified HVAC technician.
 
-## See Also
+## 🔗 See Also
 
 - [Fermentation Chamber](092-fermentation-chamber.md)
 - [Absorption Cooler](095-absorption-cooler.md)

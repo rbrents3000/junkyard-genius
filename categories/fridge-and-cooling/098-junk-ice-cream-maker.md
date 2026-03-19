@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 An electric ice cream maker built from salvaged parts. A small motor (from a dead drill, mixer, or rotisserie) spins a paddle inside a metal can. The can sits inside a larger container packed with ice and rock salt (which drops the temperature well below 32°F). Cream mixture goes in, motor spins, and 20 minutes later you've got fresh ice cream. The rock salt trick is centuries old — salt lowers the freezing point of ice to about 0°F, cold enough to freeze cream while it churns.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Small geared motor — from dead drill, hand mixer, rotisserie, or window wiper motor *(salvage)*
 - [ ] Metal can — coffee can or large tin *(recycle bin)*
@@ -28,7 +27,9 @@ An electric ice cream maker built from salvaged parts. A small motor (from a dea
 - [ ] 12V power supply or battery pack *(salvage from old electronics)*
 - [ ] Ice cream ingredients — cream, sugar, vanilla *(grocery store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prep the inner can.** Clean a metal coffee can thoroughly. This holds the ice cream mixture. Punch a hole in the center of the lid for the paddle shaft.
 2. **Build the paddle.** Bend stiff wire into a scraper shape that fits inside the can with about 1/4" clearance from the walls. The paddle needs to scrape the sides — that's where the mixture freezes first. Alternatively, cut a wooden spoon to fit.
@@ -39,12 +40,12 @@ An electric ice cream maker built from salvaged parts. A small motor (from a dea
 7. **Add ice cream base.** Pour your mixture into the inner can. Basic recipe: 2 cups heavy cream, 1 cup whole milk, 3/4 cup sugar, 2 tsp vanilla. Fill the can only 2/3 full — it expands as it freezes.
 8. **Churn.** Start the motor. Churn for 15-20 minutes. The mixture will thicken as ice crystals form. When the motor starts laboring (mixture is thick), it's done. Eat immediately for soft-serve consistency, or freeze for another hour for hard ice cream.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Make sure the motor and all electrical connections are completely isolated from the food container. No metal shavings, no grease, no contact between motor parts and ice cream.
 - Clean all food-contact surfaces (inner can, paddle) thoroughly before use. If using a recycled can, make sure it had food-safe contents originally — no paint cans or chemical containers.
 
-## See Also
+## 🔗 See Also
 
 - [Fermentation Chamber](092-fermentation-chamber.md)
 - [Peltier Portable Cooler](096-peltier-portable-cooler.md)

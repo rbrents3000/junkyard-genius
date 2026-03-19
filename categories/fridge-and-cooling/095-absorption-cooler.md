@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Every fridge you've ever seen uses a compressor — an electric motor that pressurizes refrigerant to move heat. But there's another way. In 1930, Albert Einstein and Leo Szilard patented an absorption refrigerator that uses heat as the energy source instead of electricity. No moving parts. No compressor. Just heat, gravity, and clever chemistry. An ammonia-water solution is heated (by fire, propane, solar, waste heat — anything), causing ammonia gas to separate. The ammonia flows through coils, evaporates at low pressure (absorbing heat — making things cold), then re-absorbs into water and cycles back. This is how RV fridges and off-grid gas refrigerators work today. Build one from salvaged fridge coils, ammonia solution, and a heat source. A fridge powered by a candle. Physics at its most elegant.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Heat exchanger coils — evaporator and condenser from a dead fridge, or copper/steel tubing *(dead fridge, hardware store)*
 - [ ] Steel or copper tubing — for the generator (boiler), condenser, evaporator, and absorber sections *(hardware store)*
@@ -28,7 +27,9 @@ Every fridge you've ever seen uses a compressor — an electric motor that press
 - [ ] Pipe fittings, valves, and solder/brazing equipment — for building sealed tubing circuits *(hardware store, workshop)*
 - [ ] Safety valve/pressure relief — mandatory for pressurized ammonia systems *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Study absorption refrigeration theory.** Before building, understand the 4 stages: the GENERATOR (boiler) heats ammonia-water solution, boiling off ammonia gas; the CONDENSER cools ammonia gas back to liquid; the EVAPORATOR allows liquid ammonia to expand and evaporate (absorbing heat — this is the cold part); the ABSORBER recombines ammonia gas with water, restarting the cycle. Gravity drives the flow — no pump needed.
 2. **Design the circuit.** Sketch the tubing layout. The generator sits at the bottom (over the heat source). Hot ammonia gas rises to the condenser (at the top, with fins for air cooling). Liquid ammonia flows down to the evaporator (inside the insulated cold box). Ammonia vapor exits the evaporator and flows to the absorber, where it meets a thin film of water flowing down from the generator. The enriched solution returns to the generator by gravity.
@@ -41,13 +42,13 @@ Every fridge you've ever seen uses a compressor — an electric motor that press
 9. **Apply heat.** Light the heat source under the generator. Start with low heat. The solution should begin to percolate as ammonia boils off. Monitor the pressure gauge — a functioning system stabilizes at a moderate pressure. The evaporator side should begin to feel cold within 15-30 minutes.
 10. **Test and refine.** Place a thermometer inside the insulated cold box. A well-built absorption cooler can reach 35-45F (refrigerator temperature) with a moderate heat input. If performance is poor, check for: air leaks (the system must be sealed), insufficient ammonia charge, poor condenser airflow, or inadequate insulation on the cold box. Adjust heat input — too much heat can overwhelm the condenser's ability to cool the ammonia gas.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Ammonia is toxic and corrosive. Even household ammonia cleaner produces irritating fumes. Work outdoors or in a very well-ventilated area. Wear chemical splash goggles and nitrile gloves. Concentrated ammonia (anhydrous) is far more dangerous — do not use it without proper training and PPE. If ammonia contacts eyes, flush with water for 15+ minutes and seek medical attention immediately.
 - This system operates under pressure with a flammable and toxic refrigerant. ALL joints must be pressure-tested before charging with ammonia. A leak in a pressurized ammonia system releases toxic gas rapidly. The pressure relief valve is not optional — it prevents catastrophic rupture. Never heat a sealed system without a functioning relief valve.
 - The generator section gets very hot (heated by flame). Keep all flammable materials away. The open flame presents fire risk. Never leave the system running unattended, especially during initial testing. Have a fire extinguisher accessible.
 
-## See Also
+## 🔗 See Also
 
 - [DIY Freeze Dryer](094-diy-freeze-dryer.md)
 - [Fermentation Chamber](092-fermentation-chamber.md)
