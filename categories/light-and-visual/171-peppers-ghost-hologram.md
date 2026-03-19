@@ -1,5 +1,9 @@
 # #171 — Pepper's Ghost Hologram
 
+<p align="center">
+  <img src="../../images/builds/171-peppers-ghost-hologram.jpg" alt="Pepper's Ghost Hologram" width="700" />
+</p>
+
 > A monitor, a sheet of glass at 45 degrees, and a dark room — the simplest possible floating hologram that actually works.
 
 ## Ratings

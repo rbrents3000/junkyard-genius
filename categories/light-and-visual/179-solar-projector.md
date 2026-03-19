@@ -1,5 +1,9 @@
 # #179 — Solar Projector
 
+<p align="center">
+  <img src="../../images/builds/179-solar-projector.jpg" alt="Solar Projector" width="700" />
+</p>
+
 > A telescope projects a live image of the sun onto a screen, revealing sunspots, solar granulation, and eclipses in real time.
 
 ## Ratings

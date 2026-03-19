@@ -1,5 +1,9 @@
 # #178 — Light Painting Robot
 
+<p align="center">
+  <img src="../../images/builds/178-light-painting-robot.jpg" alt="Light Painting Robot" width="700" />
+</p>
+
 > An LED mounted on a robot arm, combined with a long-exposure camera, draws perfect geometric light art in the dark.
 
 ## Ratings

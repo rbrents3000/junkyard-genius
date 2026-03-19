@@ -1,5 +1,9 @@
 # #172 — Schlieren Optics
 
+<p align="center">
+  <img src="../../images/builds/172-schlieren-optics.jpg" alt="Schlieren Optics" width="700" />
+</p>
+
 > A concave mirror and a razor edge let you literally see sound waves, heat currents, and air density changes that are normally invisible.
 
 ## Ratings

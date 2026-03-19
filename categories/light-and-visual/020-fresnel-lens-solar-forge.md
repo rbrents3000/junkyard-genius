@@ -1,5 +1,9 @@
 # #020 — Fresnel Lens Solar Forge
 
+<p align="center">
+  <img src="../../images/builds/020-fresnel-lens-solar-forge.jpg" alt="Fresnel Lens Solar Forge" width="700" />
+</p>
+
 > A Fresnel lens from a rear-projection TV focuses sunlight into a spot hot enough to melt metal — the sun becomes your welding torch.
 
 ## Ratings

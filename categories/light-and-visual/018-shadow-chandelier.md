@@ -1,5 +1,9 @@
 # #018 — Shadow Chandelier
 
+<p align="center">
+  <img src="../../images/builds/018-shadow-chandelier.jpg" alt="Shadow Chandelier" width="700" />
+</p>
+
 > A metal sphere with precisely cut patterns casts intricate shadows across every wall and ceiling of the room.
 
 ## Ratings

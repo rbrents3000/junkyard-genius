@@ -1,5 +1,9 @@
 # #015 — Giant Plasma Globe
 
+<p align="center">
+  <img src="../../images/builds/015-giant-plasma-globe.jpg" alt="Giant Plasma Globe" width="700" />
+</p>
+
 > A microwave transformer, a glass bowl, and some noble gas — build a plasma globe the size of a basketball.
 
 ## Ratings

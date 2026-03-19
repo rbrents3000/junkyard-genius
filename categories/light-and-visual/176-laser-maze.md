@@ -1,5 +1,9 @@
 # #176 — Laser Maze
 
+<p align="center">
+  <img src="../../images/builds/176-laser-maze.jpg" alt="Laser Maze" width="700" />
+</p>
+
 > Laser pointers, mirrors, fog, and photosensors create a real-life spy movie laser security maze in your garage.
 
 ## Ratings

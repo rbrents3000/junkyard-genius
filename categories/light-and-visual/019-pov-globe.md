@@ -1,5 +1,9 @@
 # #019 — POV Globe
 
+<p align="center">
+  <img src="../../images/builds/019-pov-globe.jpg" alt="POV Globe" width="700" />
+</p>
+
 > A spinning strip of LEDs creates a floating 3D image in mid-air — persistence of vision turns a single strip into a full sphere of pixels.
 
 ## Ratings

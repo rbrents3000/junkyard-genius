@@ -1,5 +1,9 @@
 # #177 — UV Mineral Display
 
+<p align="center">
+  <img src="../../images/builds/177-uv-mineral-display.jpg" alt="UV Mineral Display" width="700" />
+</p>
+
 > Collect fluorescent minerals and display them under UV light — ordinary-looking rocks that glow like radioactive alien crystals.
 
 ## Ratings

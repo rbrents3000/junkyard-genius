@@ -1,5 +1,9 @@
 # #023 — UV Reactive Water Wall
 
+<p align="center">
+  <img src="../../images/builds/023-uv-reactive-water-wall.jpg" alt="UV Reactive Water Wall" width="700" />
+</p>
+
 > UV LEDs, fluorescent dye, and flowing water combine into a wall of glowing liquid that looks like it belongs in a sci-fi movie.
 
 ## Ratings

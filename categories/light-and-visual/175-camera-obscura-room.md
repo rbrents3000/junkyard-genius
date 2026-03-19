@@ -1,5 +1,9 @@
 # #175 — Camera Obscura Room
 
+<p align="center">
+  <img src="../../images/builds/175-camera-obscura-room.jpg" alt="Camera Obscura Room" width="700" />
+</p>
+
 > Seal a room, make one small hole, and the entire outside world projects live and inverted on your walls — the original camera, no lens required.
 
 ## Ratings

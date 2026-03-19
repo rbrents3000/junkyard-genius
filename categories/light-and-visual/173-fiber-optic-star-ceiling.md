@@ -1,5 +1,9 @@
 # #173 — Fiber Optic Star Ceiling
 
+<p align="center">
+  <img src="../../images/builds/173-fiber-optic-star-ceiling.jpg" alt="Fiber Optic Star Ceiling" width="700" />
+</p>
+
 > Hundreds of fiber optic strands poked through a ceiling panel create a realistic night sky in your bedroom — complete with twinkling.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #017 — Laser Fog Projector
 
+<p align="center">
+  <img src="../../images/builds/017-laser-fog-projector.jpg" alt="Laser Fog Projector" width="700" />
+</p>
+
 > A laser pointer bouncing off a spinning mirror in fog creates sweeping geometric patterns across the sky.
 
 ## Ratings
