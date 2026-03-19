@@ -1,5 +1,9 @@
 # #263 — Blender Vortex Centrifuge
 
+<p align="center">
+  <img src="../../images/builds/263-blender-centrifuge.jpg" alt="Blender Vortex Centrifuge" width="700" />
+</p>
+
 > Your smoothie maker's secret identity is a science lab.
 
 ## Ratings

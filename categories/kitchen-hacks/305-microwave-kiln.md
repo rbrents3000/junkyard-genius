@@ -1,5 +1,9 @@
 # #305 — Microwave Kiln
 
+<p align="center">
+  <img src="../../images/builds/305-microwave-kiln.jpg" alt="Microwave Kiln" width="700" />
+</p>
+
 > Your microwave is three minutes away from being a forge. The microwave itself doesn't even know.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #260 — Toaster Reflow Oven
 
+<p align="center">
+  <img src="../../images/builds/260-toaster-reflow-oven.jpg" alt="Toaster Reflow Oven" width="700" />
+</p>
+
 > Thrift store toaster oven + PID controller + thermocouple = professional SMD soldering station for $15.
 
 ## Ratings
