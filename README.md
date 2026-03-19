@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/github/stars/rbrents3000/junkyard-genius?style=for-the-badge" alt="Stars" />
   </p>
   <p align="center">
+    <a href="https://rbrents3000.github.io/junkyard-genius/quiz/">🎯 Take the Quiz</a> &bull;
     <a href="#start-here">Start Here</a> &bull;
     <a href="#whats-in-your-junk-pile">Find Builds by Junk</a> &bull;
     <a href="#categories">Browse Categories</a> &bull;
@@ -47,7 +48,9 @@ This repo is a cookbook for builders, makers, mad scientists, and anyone who loo
 
 ## Start Here
 
-New to the repo? Pick your comfort level and dive in.
+> **Not sure where to begin?** Take the **[Build Finder Quiz](https://rbrents3000.github.io/junkyard-genius/quiz/)** — answer 6 questions and get personalized build recommendations matched to your skill level, junk pile, and risk tolerance.
+
+Or pick your comfort level and dive in.
 
 ```mermaid
 flowchart TD
