@@ -50,3 +50,7 @@ It's the prop from every mad scientist movie ever made, and it's genuinely one o
 
 - [Musical Tesla Coil](033-musical-tesla-coil.md)
 - [Electromagnetic Can Crusher](035-electromagnetic-can-crusher.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

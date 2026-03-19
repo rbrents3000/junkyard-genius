@@ -55,3 +55,7 @@ This is the most intellectually demanding build in the book. But the payoff is i
 
 - [Vacuum Chamber](039-vacuum-chamber.md)
 - [Cloud Chamber](041-cloud-chamber.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

@@ -53,3 +53,7 @@ This is the same principle behind electromagnetic forming used in aerospace manu
 
 - [Rail Gun](036-rail-gun.md)
 - [Coil Gun](037-coil-gun.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
