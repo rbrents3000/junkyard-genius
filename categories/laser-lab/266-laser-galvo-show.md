@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Every concert laser show you have ever seen works the same way: a laser beam bounces off two tiny mirrors mounted on galvanometers — one for X-axis deflection, one for Y-axis. The galvos tilt their mirrors thousands of times per second, steering the beam so fast that persistence of vision turns a single moving dot into shapes, text, and animations drawn in light on any surface. Professional galvo scanners cost hundreds of dollars per pair. But the same mirror-on-a-motor mechanism exists inside barcode scanners, and the same electromagnetic deflection principle can be replicated with hard drive voice coil actuators.
 
@@ -20,7 +18,8 @@ The concept is straightforward: laser hits mirror 1 (X-axis), bounces to mirror 
 
 This is one of those builds where the result is wildly disproportionate to the cost. A laser drawing shapes on a foggy wall in a dark room looks like a $50,000 production. The fact that it runs on an Arduino and parts from a dead barcode scanner makes it even better.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Laser module — green (532nm) is most visible to the eye, 5-50mW *(electronics supplier, $5-15)*
 - [ ] 2 galvanometer scanners — salvage from barcode scanners, or build from hard drive voice coil actuators + small mirrors *(e-waste bin, electronics supplier, $3-10 each)*
@@ -34,7 +33,9 @@ This is one of those builds where the result is wildly disproportionate to the c
 - [ ] Optional: audio jack + amplifier module — for music-reactive mode *(electronics supplier, $2)*
 - [ ] Optional: DAC module (MCP4725) — for smoother analog output than PWM *(electronics supplier, $2)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage or build the galvo scanners.** The ideal source is a dead barcode scanner from a retail checkout counter — these contain matched galvo pairs designed specifically for laser beam steering. Disassemble the scanner and extract the galvo assembly with its mirrors intact if possible. Alternatively, build your own from hard drive voice coils: extract the actuator arm assembly from a dead hard drive (the arm that swings the read head across the platter). Glue a small mirror to the end of the arm. The voice coil swings the arm proportionally to applied current — the exact same principle as a speaker cone. You need two assemblies, one for each axis.
 
@@ -56,7 +57,7 @@ This is one of those builds where the result is wildly disproportionate to the c
 
 10. **Add safety interlocks.** Professional laser shows include scan-fail safety: if the galvos stop moving (power loss, code crash, hardware failure), the laser turns off automatically. Without this, a stationary beam concentrates all the laser energy on one point — bad for surfaces and dangerous if the point happens to be at eye level. Implement a watchdog timer in your code that disables the laser if the scan loop stalls. On the hardware side, a simple RC circuit on the galvo drive signal that detects lack of activity and cuts laser power provides a backup safety layer.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Laser light shows use beams that can cause permanent eye damage. Never allow the beam to sweep across audience eye level. Aim all projections at walls, ceilings, or elevated surfaces well above standing head height. Position the projector so no one can walk between it and the projection surface at beam height.
 - Green laser modules above 5mW are Class IIIb and can cause eye damage from even brief direct exposure or specular reflections off shiny surfaces. Wear laser safety goggles rated for your specific wavelength during alignment and testing. Remove goggles only when the show is running and you are safely behind the projector.
@@ -64,7 +65,7 @@ This is one of those builds where the result is wildly disproportionate to the c
 - Galvo mirrors oscillating at high speed can shatter if they are thin regular glass. First-surface mirrors (reflective coating on the front face, no glass substrate) are safest. If using glass mirrors, keep them small and test behind a shield initially.
 - Never point the output toward windows, roads, or flight paths. Interfering with aircraft using a laser is a federal crime in many countries and genuinely endangers lives.
 
-## See Also
+## 🔗 See Also
 
 - [Laser Harp](267-laser-harp.md)
 - [Motorized Laser Spirograph](271-laser-spirograph.md)

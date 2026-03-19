@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A laser harp is exactly what it sounds like: an instrument where the strings are replaced by beams of laser light. Multiple laser beams fan out vertically like the strings of a harp. When you break a beam with your hand, a sensor detects the interruption and triggers a musical note. Different beams produce different notes. Wave your hands through the light and you are playing music on photons. It is the kind of instrument that makes everyone in the room stop what they are doing and stare.
 
@@ -20,7 +18,8 @@ Jean-Michel Jarre played a laser harp during his massive outdoor concerts in the
 
 The physics is delightfully simple. Each laser beam shines continuously toward a photosensor (photodiode or LDR) mounted at the far end. The sensor sees constant light and stays quiet. When your hand enters the beam, the sensor goes dark, and the microcontroller detects the change and plays the corresponding note. Multiple beam/sensor pairs give you multiple notes — typically 5 to 8 for a pentatonic or full octave scale. Add fog to make the beams visible, dim the lights, and you have built one of the most visually stunning instruments that exists. Every person at a party will immediately ask "can I try?"
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 5-8 laser modules — red (650nm) or green (532nm), low power 1-5mW each *(electronics supplier, dollar store laser pointers, $1-3 each)*
 - [ ] 5-8 photoresistors (LDRs) or photodiodes — one per laser beam *(electronics supplier, $0.50 each)*
@@ -35,7 +34,9 @@ The physics is delightfully simple. Each laser beam shines continuously toward a
 - [ ] Drinking straws or pen barrels — as light shrouds for the sensors *(junk drawer, free)*
 - [ ] Wire — 22 gauge hookup wire for sensor runs *(electronics supplier, $3)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Plan the beam layout.** Decide on the number of beams: 5 for a pentatonic scale (sounds good no matter what combination you play — you literally cannot hit a wrong note), 7 for a major or minor scale, or 8 for a full octave. The beams should fan out from a common origin point at the base, spreading upward and outward like harp strings. Space them 4-6 inches apart at playing height (roughly chest level) so you can break individual beams with one hand without accidentally triggering neighbors.
 
@@ -59,14 +60,14 @@ The physics is delightfully simple. Each laser beam shines continuously toward a
 
 11. **Add fog and perform.** The beams are invisible without particles in the air to scatter the light. Fire up a fog machine, haze machine, or burn several sticks of incense to fill the performance space. Turn off the room lights. The laser beams appear as solid, glowing lines fanning upward from the base. Wave your hands through them and music plays. Green lasers are significantly more visible in fog than red. A combination of colors (alternating red and green beams) looks spectacular. This is peak "I cannot believe I built this" territory.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Even low-power lasers (1-5mW) can cause eye damage with prolonged direct exposure. Mount the lasers so beams travel vertically, well above eye level at their origin. Never look down into the beam origin point. If beams travel to a sensor bar overhead, the entire path should be above the line of sight of anyone playing or watching.
 - If using green laser modules, be aware that cheap green pointers often emit invisible infrared alongside the visible green beam. An IR-blocking filter is recommended if the module does not include one.
 - Fog machines produce glycol-based or glycerin-based haze that can irritate lungs with prolonged exposure in enclosed spaces. Ventilate the room between performances. People with asthma or respiratory conditions should use caution.
 - Secure all laser mounts permanently. A laser that slips from vertical to horizontal becomes an eye-level hazard instantly. Hot glue, screws, clamps, zip ties — whatever keeps them locked in position for the duration of use.
 
-## See Also
+## 🔗 See Also
 
 - [Galvanometer Laser Light Show](266-laser-galvo-show.md)
 - [Motorized Laser Spirograph](271-laser-spirograph.md)

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Remember spirographs? Those plastic gear sets that drew hypnotic geometric patterns with a pen? This is the same mathematical principle — Lissajous curves and epicycloid patterns — except drawn on your ceiling with a laser at the speed of light. Instead of interlocking gears, two small mirrors spin on motors at different speeds. The laser bounces off the first mirror, then the second, then hits the ceiling or wall. Each mirror deflects the beam in one axis. Because the mirrors spin at different speeds, the two deflections combine into endlessly evolving geometric patterns that never quite repeat.
 
@@ -20,7 +18,8 @@ The math is the same as a spirograph: if the ratio of the two motor speeds is a 
 
 This is one of the simplest builds in the laser lab — two motors, two mirrors, one laser, done. No microcontroller, no code, no complex optics. Just physics, persistence of vision, and the kind of result that makes people walk into a room and forget what they came in for. In fog, the beam traces become visible in three dimensions, and the effect goes from impressive to transcendent. This build has the best effort-to-spectacle ratio of anything in the entire collection.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Laser pointer or laser module — green (532nm) is most visible, red works fine *(dollar store, electronics supplier, $2-5)*
 - [ ] 2 small DC motors — different RPM ratings for immediate speed ratio variety *(salvage from toys, CD drives, small fans, free)*
@@ -31,7 +30,9 @@ This is one of the simplest builds in the laser lab — two motors, two mirrors,
 - [ ] Hot glue or cyanoacrylate — for mirror attachment and motor mounting *(junk drawer, $1)*
 - [ ] Fog machine, incense, or haze source — to make beams visible in three dimensions *(party store $15, or incense sticks $3)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Mount the first motor and mirror.** Secure a small DC motor to your base board with hot glue, screws, or a bracket. The motor should be firmly fixed with no wobble. Glue a small mirror flat onto the end of the motor shaft using cyanoacrylate. When the motor spins, the mirror rotates and deflects any beam hitting it in a circular sweep pattern. The mirror should be as centered on the shaft as possible to minimize wobble, but perfect centering is not critical — slight offset actually adds an interesting orbital component to the pattern.
 
@@ -53,7 +54,7 @@ This is one of the simplest builds in the laser lab — two motors, two mirrors,
 
 10. **Build a display-quality version.** For a permanent installation or party piece, mount everything in a clean enclosure — a wooden box with a window or an open-top pedestal. Route wires internally. Add a single power switch. Label the two speed knobs. Mount it aimed at a ceiling or wall. The result is a self-contained, plug-and-play light show that anyone can operate by turning two dials. It makes an excellent conversation piece, party prop, or meditation device.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The laser beam sweeps unpredictably through the room as the mirrors spin. Ensure all beam paths stay above head height by aiming the final reflection at the ceiling. Never aim the projection at eye level or toward areas where people sit or stand.
 - Secure the laser mount so it cannot fall or shift during operation. A loose laser that points horizontally sweeps a beam across the room at face height — a genuine hazard.
@@ -61,7 +62,7 @@ This is one of the simplest builds in the laser lab — two motors, two mirrors,
 - Fog machines can trigger smoke detectors and building fire alarms. Disable nearby detectors during use and re-enable them immediately when done. Close windows to keep fog density up and to prevent false alarms in neighboring spaces.
 - If using green laser modules above 5mW, wear appropriate laser safety goggles during setup and alignment. Once the show is running and you are behind the projector looking at the projection surface (not into the beam), goggles are less critical but still recommended.
 
-## See Also
+## 🔗 See Also
 
 - [Galvanometer Laser Light Show](266-laser-galvo-show.md)
 - [Laser Harp](267-laser-harp.md)

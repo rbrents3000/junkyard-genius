@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 The concept is beautifully simple and has appeared in approximately ten thousand heist movies: a laser beam shines across a doorway or hallway to a photosensor on the other side. When someone walks through the beam, the sensor goes dark and triggers an alarm. In the movies, the lasers are always visible (and usually red) so the protagonist can do acrobatic contortions to avoid them. In reality, you can use an infrared laser that is completely invisible to the human eye, which is considerably more useful and significantly less cinematic.
 
@@ -20,7 +18,8 @@ A single laser-to-sensor link gives you a basic tripwire. But the real fun start
 
 Add an ESP32 or ESP8266 instead of a basic Arduino and you get WiFi connectivity — which means push notifications to your phone when the beam is broken. Timestamp every event, add a cooldown timer so you do not get bombarded with alerts, and you have a wireless security system that cost less than a large pizza and runs on a USB power bank. It will not replace a professional security system, but for monitoring a workshop, catching siblings entering your room, protecting a garden from deer, or building an elaborate laser maze for a Halloween party, it is perfect.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Laser pointer or laser module — red for visible, infrared for truly invisible operation *(dollar store, electronics supplier, $2-5)*
 - [ ] Photoresistor (LDR) or photodiode — to detect the beam *(electronics supplier, $0.50)*
@@ -34,7 +33,9 @@ Add an ESP32 or ESP8266 instead of a basic Arduino and you get WiFi connectivity
 - [ ] LED (optional) — for visual alarm indicator *(electronics supplier, $0.25)*
 - [ ] Relay module (optional) — to trigger external devices like lights, sirens, or cameras *(electronics supplier, $2)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up the basic beam path.** Mount the laser on one side of the area you want to monitor — a doorway, hallway, window, or shelf. Mount the photosensor directly across from it. Power on the laser and aim it so the beam hits the photosensor dead center. Start with a direct line-of-sight path, no mirrors. This is your proof of concept: verify that the sensor reliably reads "beam present" and that blocking the beam with your hand causes a clear, large change in the sensor reading.
 
@@ -56,14 +57,14 @@ Add an ESP32 or ESP8266 instead of a basic Arduino and you get WiFi connectivity
 
 10. **Tune for long-term reliability.** Test the system at different times of day — ambient light levels change dramatically between morning sun and nighttime, and these affect the sensor baseline reading. Test with doors and windows open versus closed, since air currents can gradually shift mirror alignment over hours. Add a self-calibration routine in software: periodically re-read the "beam on" baseline value and automatically adjust the threshold. This makes the system resilient to slow environmental changes without manual recalibration.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Even cheap laser pointers can cause eye damage with direct exposure. Mount the laser so the beam path is below knee level or above head height — never at eye level. If using mirrors, verify that no reflected beam accidentally points toward where someone might be sitting or standing. Check this from multiple positions in the room.
 - If using an infrared laser for invisible operation, remember that invisible does not mean safe. IR lasers cause the same retinal damage as visible ones, but without the protective blink reflex that visible light triggers. Use extra caution during alignment — wear IR-blocking safety glasses if available, or use a phone camera to visualize the beam (most phone cameras can detect near-IR).
 - Secure all laser and mirror mounts so they cannot shift and redirect the beam unexpectedly. A mirror mount that falls redirects the beam to an unpredictable location.
 - If wiring a relay to control mains-powered devices (lights, sirens), follow proper electrical safety practices. The relay must be rated for the load voltage and current. Mains wiring should be properly insulated and enclosed. If you are not comfortable with mains voltage, stick to low-voltage devices.
 
-## See Also
+## 🔗 See Also
 
 - [Laser Voice Communicator](265-laser-communicator.md)
 - [Laser Harp](267-laser-harp.md)

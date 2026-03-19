@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A conventional microscope illuminates an entire sample at once and uses lenses to magnify the image. A laser scanning microscope does something fundamentally different: it focuses a laser to a single point, sweeps that point across the sample, and records the reflected (or transmitted) light intensity at each position. A computer assembles these point measurements into a complete image, pixel by pixel. It is like the difference between taking a photograph and painting a picture one dot at a time with a flashlight.
 
@@ -20,7 +18,8 @@ Why bother? Because a scanning approach lets you do things a regular microscope 
 
 The scanning mechanism is elegant: a small mirror glued to a motor shaft. As the motor spins, the mirror sweeps the reflected laser beam across the sample in one axis. You move the sample for the other axis — manually with a fine-thread bolt, or automatically with a stepper motor from a dead printer. A photocell captures the reflected light intensity at each point, the Arduino digitizes it, and a Processing sketch on your computer assembles the image in real time. Watching an image build up line by line from raw sensor data is deeply satisfying in a way that is hard to explain until you experience it.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Laser pointer or laser module — red (650nm), low power 1-5mW *(dollar store, $2)*
 - [ ] Small DC motor — for spinning the scan mirror *(salvage from toy, CD drive, free)*
@@ -36,7 +35,9 @@ The scanning mechanism is elegant: a small mirror glued to a motor shaft. As the
 - [ ] IR LED + photodetector pair or Hall sensor + magnet — for line-sync signal *(electronics supplier, $1)*
 - [ ] Optional: stepper motor + lead screw — for automated Y-axis scanning *(salvaged from printer, free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the scanning mirror.** Glue a small mirror fragment (5-10mm square) to the shaft of a small DC motor using cyanoacrylate (super glue). The mirror should be mounted perpendicular to the shaft axis so that when the motor spins, the mirror angle changes continuously, sweeping the reflected beam in an arc. Let the glue cure fully before running the motor. Balance is less critical here than in the centrifuge build — the mirror is tiny and the speeds are modest — but a severely off-center mirror will vibrate and blur the image.
 
@@ -60,13 +61,13 @@ The scanning mechanism is elegant: a small mirror glued to a motor shaft. As the
 
 11. **Improve image quality.** Add software post-processing: normalize each line to correct for uneven laser intensity across the scan arc (the beam is brighter at the center of the sweep than at the edges). Apply a simple digital filter to reduce noise. Average multiple frames for smoother images. Experiment with false-color mapping — assign colors to different intensity ranges for more visually informative images. Save images to disk for comparison as you refine the optical setup.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Low-power laser pointers (Class IIIa, under 5mW) are relatively safe but should still never be aimed at eyes. The spinning mirror creates a fanned beam that sweeps through space — ensure the scan plane does not intersect eye level. Enclose the entire optical path in a cardboard box for best results (blocks ambient light AND contains the beam safely).
 - The spinning motor should be securely mounted to the base. A mirror fragment that detaches from a spinning motor shaft becomes a small, sharp, fast-moving projectile. Use strong adhesive and inspect the bond before running at speed. Start at low motor speeds and increase gradually.
 - Work in a dimly lit or fully dark environment for best image quality. The detector is sensitive to all ambient light, not just the laser. An enclosure around the entire optical path dramatically improves signal-to-noise ratio and therefore image clarity.
 
-## See Also
+## 🔗 See Also
 
 - [Laser Voice Communicator](265-laser-communicator.md)
 - [Blu-Ray Laser Cutter](269-blu-ray-laser-cutter.md)

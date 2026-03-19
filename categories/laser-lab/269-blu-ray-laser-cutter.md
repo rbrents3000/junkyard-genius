@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Blu-ray players and game consoles (PS3, PS4, Xbox One) contain 405nm violet laser diodes rated at 100-250mW. That is enough power to etch wood, cut thin dark materials, engrave leather, burn patterns into cork, and mark anodized aluminum. It will not slice through steel plate — you would need a CO2 laser several hundred times more powerful for that — but for fine detail work on organic and dark-colored materials, a Blu-ray diode punches well above its weight class.
 
@@ -20,7 +18,8 @@ The laser diode alone is just a focused dot of destruction. To make it useful, y
 
 The result is a legitimate laser engraver/cutter built entirely from salvaged electronics. It will engrave detailed images onto wood, cut thin craft foam, etch designs into leather wallets, and burn patterns into dark paper. The resolution depends on your CNC frame accuracy and the laser focal spot size — typically 0.1-0.2mm, which is plenty for detailed artwork, text, and even photographs converted to raster engravings.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Blu-ray laser diode — salvaged from dead PS3, PS4, Xbox One, or standalone Blu-ray player *(e-waste bin, free-$5)*
 - [ ] Laser driver board — constant-current driver, adjustable output (LM317-based or dedicated laser driver module) *(electronics supplier, $3-5)*
@@ -34,7 +33,9 @@ The result is a legitimate laser engraver/cutter built entirely from salvaged el
 - [ ] Small fan — for smoke extraction at the cutting point *(salvaged PC case fan, free)*
 - [ ] Thermal paste — for diode-to-heatsink contact *(electronics supplier, $2)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Extract the laser diode.** Open the dead Blu-ray drive or console. Locate the optical pickup assembly — the small sled that rides on rails inside the drive mechanism. The laser diode is a tiny metal can (usually 5.6mm diameter, sometimes 9mm) press-fit into the assembly. Carefully remove it without bending the three pins. There are often two diodes in a Blu-ray pickup — the Blu-ray diode (405nm, violet) and a CD/DVD diode (650/780nm, red). The violet one is the more powerful cutter. Handle by the metal case, never the pins. Ground yourself before touching it — static discharge destroys laser diodes instantly. An anti-static wrist strap is cheap insurance.
 
@@ -56,14 +57,15 @@ The result is a legitimate laser engraver/cutter built entirely from salvaged el
 
 10. **Engrave and cut real projects.** Convert images to raster G-code with LaserGRBL or LightBurn software. Etch designs into leather belts and wallets. Engrave photos onto light-colored wood (birch and maple work well). Cut thin dark craft foam and cardstock. For through-cuts on thicker material, use multiple passes at moderate speed rather than one very slow pass — this produces cleaner edges with less charring. Dark materials absorb more 405nm light and cut more readily than light-colored ones.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **405nm laser light is genuinely dangerous to eyes.** Wear laser safety goggles rated for 405nm (OD4 or higher) whenever the laser is powered, even if it is not actively cutting. The beam and its reflections from any shiny surface can cause permanent retinal damage faster than the blink reflex. This is the single most important safety requirement for this build.
+> [!WARNING]
+> **405nm laser light is genuinely dangerous to eyes.** Wear laser safety goggles rated for 405nm (OD4 or higher) whenever the laser is powered, even if it is not actively cutting. The beam and its reflections from any shiny surface can cause permanent retinal damage faster than the blink reflex. This is the single most important safety requirement for this build.
 - The laser burns materials by design — it will also burn skin, clothing, paper, and anything else in the beam path. Never reach into the cut area while the laser is powered. Never leave the cutter running unattended. Keep a fire extinguisher or bucket of water within arm's reach.
 - Burning wood, leather, and plastics produces irritating and potentially toxic fumes. Always operate with active ventilation. Never cut PVC, vinyl, or any chlorine-containing material — these release chlorine gas, which is acutely toxic. Acrylic (PMMA) and ABS also produce unpleasant fumes and should only be cut with strong exhaust ventilation.
 - The laser diode is extremely sensitive to static electricity and current spikes. Handle with anti-static precautions at all times. Ensure the driver circuit provides clean, regulated constant current with no transients.
 
-## See Also
+## 🔗 See Also
 
 - [Laser Scanning Microscope](270-laser-microscope.md)
 - [Galvanometer Laser Light Show](266-laser-galvo-show.md)

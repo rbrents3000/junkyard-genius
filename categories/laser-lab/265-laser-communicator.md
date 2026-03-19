@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Before Bell invented the telephone, he invented something arguably cooler: the photophone. In 1880, he transmitted voice on a beam of sunlight reflected off a vibrating mirror. He called it his greatest invention — greater than the telephone. The world disagreed and went with copper wire instead. But the principle is elegant and simple, and with a $2 laser pointer and some basic components, you can build one that works across a room, across a yard, or across a football field on a clear night.
 
@@ -20,7 +18,8 @@ The transmitter side modulates a laser beam with audio. An audio signal from a m
 
 No wires. No radio waves. No detectable RF emissions. Just photons carrying your voice at the speed of light. It is the same fundamental principle behind modern fiber optic communication, except your "fiber" is a beam of light through open air. The communication is inherently secure — nobody can intercept it without physically stepping into the beam path, at which point the audio cuts out and you know immediately. It is also completely unregulated — no FCC license, no spectrum allocation, no carrier fees. Just light.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Laser pointer or laser diode module — red (650nm) is fine, green is brighter but harder to modulate *(dollar store, electronics supplier, $2-5)*
 - [ ] Small audio amplifier module — LM386 breakout board or similar *(electronics supplier, $2)*
@@ -36,7 +35,9 @@ No wires. No radio waves. No detectable RF emissions. Just photons carrying your
 - [ ] Capacitor (10uF electrolytic) — for AC coupling if using direct-drive modulation *(electronics supplier, $0.25)*
 - [ ] Optional: magnifying glass or convex lens — to focus incoming light onto the receiver for extended range *(dollar store, $1)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the transmitter circuit.** The laser needs to be modulated by audio — meaning its brightness has to vary in proportion to the sound signal. The simplest approach: power the laser diode through a transistor (2N2222 or similar) whose base is driven by the amplified microphone signal. The LM386 amplifier boosts the mic signal, and the output drives the transistor, which controls current through the laser. Add a DC bias resistor so the laser stays on at a dim baseline and the audio signal makes it brighter and dimmer around that point. Without the bias, the laser clips to full-off on negative half-cycles and you lose half your signal.
 
@@ -58,14 +59,14 @@ No wires. No radio waves. No detectable RF emissions. Just photons carrying your
 
 10. **Experiment with data transmission.** Once voice works, try transmitting digital data. Feed audio tones from a computer into the transmitter — a modem-style FSK (frequency shift keying) signal. On the receiver end, feed the audio output back into a computer running a simple FSK decoder. You have now built an optical data link. It is slow by modern standards (a few hundred bits per second with basic audio modulation) but it is a working free-space optical communication link built from a laser pointer and a garden light solar cell. That is genuinely impressive.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Never aim a laser at anyone's eyes, even from a distance. This build uses low-power laser pointers (Class IIIa or below), but direct eye exposure to any laser can cause permanent retinal damage. Keep the beam path below knee level or above head height — never at eye level.
 - The transmitter laser should be securely mounted so it cannot slip and sweep across someone's face. Tape it, clamp it, weigh the base down — whatever it takes to keep it locked on target.
 - If using higher-power laser diodes (from DVD/Blu-ray drives) for greater range, the safety stakes increase significantly. Wear appropriate laser safety goggles during alignment. Stay with standard pointers for your first build.
 - Operating outdoors at night, be aware of aircraft. Never aim a laser skyward or anywhere near the flight path of planes or helicopters. This is both dangerous and illegal in most jurisdictions.
 
-## See Also
+## 🔗 See Also
 
 - [Laser Tripwire Security System](268-laser-tripwire-alarm.md)
 - [Galvanometer Laser Light Show](266-laser-galvo-show.md)
