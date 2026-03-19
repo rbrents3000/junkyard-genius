@@ -40,7 +40,7 @@ In a dark room, visitors wave their hands through the "frozen" droplets and comp
 
 1. **Build the reservoir and pump circuit.** Place the pump in the catch basin. Run tubing from the pump output up to the nozzle mounted on the frame, then route a return path so water drips back into the basin. This creates a closed-loop system — no water supply needed. Fill the basin with enough water that the pump never runs dry.
 
-2. **Install the solenoid drip valve.** Splice the solenoid valve into the tubing between the pump and the nozzle. The solenoid acts as a fast-acting gate — when the Arduino pulses it open for a few milliseconds, a single droplet squeezes through the nozzle. The nozzle tip diameter controls droplet size. Smaller tips make smaller, more uniform droplets.
+2. **Install the solenoid drip valve.** Splice the solenoid valve into the tubing between the pump and the nozzle. The solenoid acts as a fast-acting gate — when the Arduino pulses it open for a few milliseconds, a single droplet squeezes through the nozzle. The nozzle tip diameter controls droplet size — use a 16-18 gauge syringe needle tip (1.2-0.8mm ID) for uniform droplets. Larger openings produce irregular drips that break the illusion.
 
 3. **Write the Arduino timing code.** Program the Arduino to pulse the solenoid at a steady frequency — start around 20 Hz (20 drops per second). Each pulse should be 10-30 ms long (just enough to release one clean droplet). Simultaneously, drive the MOSFET gate to pulse the LED at a frequency controlled by a potentiometer. The pot lets you sweep the strobe frequency around the drip frequency in real time.
 

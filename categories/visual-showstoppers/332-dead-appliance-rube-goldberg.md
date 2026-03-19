@@ -4,7 +4,7 @@
   <img src="../../images/builds/332-dead-appliance-rube-goldberg.jpg" alt="Dead Appliance Rube Goldberg" width="700" />
 </p>
 
-> A massive chain-reaction machine built entirely from dead appliance guts — zero purchased parts, one hundred percent junkyard spectacle.
+> A massive chain-reaction machine built entirely from dead appliance guts — near-zero cost, one hundred percent junkyard spectacle.
 
 ## Ratings
 
