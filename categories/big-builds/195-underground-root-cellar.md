@@ -65,3 +65,6 @@ This build combines old-world construction (dig, line, insulate) with modern mon
 
 - [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse.md) — grow the food that you store in the root cellar
 - [Ham Radio from Scratch](193-ham-radio-from-scratch.md) — another project that rewards patience and manual craftsmanship
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

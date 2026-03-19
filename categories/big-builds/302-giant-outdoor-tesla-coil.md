@@ -186,3 +186,8 @@ demonstration device a human being can build in a garage.
 - [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil.md) — the smaller, tabletop version of this concept
 - [Jacob's Ladder](../mad-scientist/034-jacobs-ladder.md) — a simpler high-voltage arc project to cut your teeth on
 
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+
