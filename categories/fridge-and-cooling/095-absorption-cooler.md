@@ -51,3 +51,7 @@ Every fridge you've ever seen uses a compressor — an electric motor that press
 
 - [DIY Freeze Dryer](094-diy-freeze-dryer.md)
 - [Fermentation Chamber](092-fermentation-chamber.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

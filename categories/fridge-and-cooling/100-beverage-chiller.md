@@ -47,3 +47,6 @@ Take a CPU cooler heatsink (the one with the fan and copper heat pipes), flip th
 
 - [Peltier Portable Cooler](096-peltier-portable-cooler.md)
 - [Fermentation Chamber](092-fermentation-chamber.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

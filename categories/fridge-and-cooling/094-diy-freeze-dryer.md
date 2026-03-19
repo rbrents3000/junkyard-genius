@@ -51,3 +51,7 @@ Freeze drying (lyophilization) removes water from food by freezing it and then r
 
 - [Fermentation Chamber](092-fermentation-chamber.md)
 - [Absorption Cooler](095-absorption-cooler.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
