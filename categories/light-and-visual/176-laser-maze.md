@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A grid of laser beams crisscrosses a room at various heights and angles. Add fog or haze and the beams become visible as bright lines in the air — exactly like the laser security systems in heist movies. Players have to navigate through the web of beams without breaking any. Photosensors on the receiving end of each beam detect when a beam is interrupted, triggering an alarm (buzzer, siren, flashing lights).
 
 This is an absolute hit at parties, Halloween events, and kids' birthday parties. It combines the theatrics of visible laser beams in fog with the game mechanic of physical challenge. Set it up in a garage, hallway, or basement and you've got an attraction that people will line up to try.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Laser pointers or laser diode modules — 5-10 of them, red or green *(source: dollar store, online, ~$1-3 each)*
 - [ ] Small mirrors for redirecting beams *(source: craft store mirror tiles or broken compact mirrors, ~$3)*
@@ -30,7 +29,9 @@ This is an absolute hit at parties, Halloween events, and kids' birthday parties
 - [ ] Black tape and zip ties *(source: around the house)*
 - [ ] Timer display (optional) for scoring *(source: phone app or Arduino-driven display)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Plan the beam layout.** Sketch the room and plan where each laser beam will cross. Vary heights — some at ankle level (step over), some at waist height (duck under), some diagonal (limbo sideways). Leave enough gap between beams for a person to physically pass through. Start with 5-7 beams and add more for difficulty.
 
@@ -50,13 +51,14 @@ This is an absolute hit at parties, Halloween events, and kids' birthday parties
 
 9. **Add scoring.** Use the Arduino to track the time from entry to exit and count beam breaks. Display the time and score on a screen or scoreboard. This turns it from a one-time experience into a competitive game people will attempt over and over.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Laser eye safety.** Use Class 2 lasers only (under 5mW). Position all beams so they can't accidentally hit someone in the eye — no beams at exact eye height, no beams aimed toward the entrance/exit where someone might look directly into them. Green lasers are more eye-visible at lower power, so you can use dimmer ones.
+> [!WARNING]
+> **Laser eye safety.** Use Class 2 lasers only (under 5mW). Position all beams so they can't accidentally hit someone in the eye — no beams at exact eye height, no beams aimed toward the entrance/exit where someone might look directly into them. Green lasers are more eye-visible at lower power, so you can use dimmer ones.
 - **Fog machine safety.** The fog machine nozzle is very hot. Keep it elevated and out of the path where players crawl. Fog fluid can make floors slippery — put down non-slip mats if the floor is smooth. Ensure room ventilation so fog doesn't accumulate to uncomfortable density.
 - **Physical injury from the maze.** People will be ducking, crawling, and contorting. Make sure there are no sharp edges, hard corners, or objects on the floor that someone could land on. Pad any hard surfaces at head height.
 
-## See Also
+## 🔗 See Also
 
 - [Laser Fog Projector](017-laser-fog-projector.md) — lasers and fog for visual art instead of a game
 - [Pepper's Ghost Hologram](171-peppers-ghost-hologram.md) — another theatrical illusion build

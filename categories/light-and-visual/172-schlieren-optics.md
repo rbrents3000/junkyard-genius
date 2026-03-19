@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Schlieren photography is an optical technique that makes invisible variations in air density visible to the naked eye (or a camera). Hot air rising from a candle, the shockwave from a hand clap, the density change from breathing out, helium leaking from a balloon — all of these bend light slightly as it passes through, and a Schlieren setup amplifies those tiny deflections into dramatic visual patterns.
 
 The setup uses a concave mirror, a point light source, and a razor blade or sharp edge positioned at the mirror's focal point. Light rays that pass through undisturbed air reach the focal point and are blocked by the razor edge. Light rays that get deflected by density gradients miss the razor edge and reach the camera/eye, revealing the disturbance as bright regions against a dark background. The result is breathtaking — you can literally watch sound waves propagate through air.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Concave mirror — telescope mirror, shaving mirror, or parabolic reflector, 6-12 inches *(source: thrift store, old telescope, satellite dish, or online, ~$15-30)*
 - [ ] Point light source — bright LED behind a pinhole, or fiber optic light *(source: bright flashlight + foil with pinhole, ~$0)*
@@ -28,7 +27,9 @@ The setup uses a concave mirror, a point light source, and a razor blade or shar
 - [ ] Various test subjects — candle, lighter, compressed air can, warm soldering iron *(source: around the house)*
 - [ ] Black backdrop *(source: black fabric or cardboard, ~$2)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Understand the optical layout.** The concave mirror sits on one side. The point light source and the razor edge/camera sit together on the other side, at the mirror's center of curvature (twice the focal length). Light travels from the source to the mirror and reflects back to the focal point where the razor edge blocks it. Any density variation in the air between the source and the mirror deflects some light past the razor edge.
 
@@ -48,12 +49,13 @@ The setup uses a concave mirror, a point light source, and a razor blade or shar
 
 9. **Capture video.** Schlieren effects are most impressive in motion. Record video at the highest frame rate your camera supports. Slow-motion footage of sound waves or heat plumes is genuinely mesmerizing and shares incredibly well on social media.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Razor blades are razor blades.** Handle with care. Mount the blade securely so it can't fall or be bumped into. Keep fingers well clear of the edge during alignment.
+> [!WARNING]
+> **Razor blades are razor blades.** Handle with care. Mount the blade securely so it can't fall or be bumped into. Keep fingers well clear of the edge during alignment.
 - **Open flames and compressed gases.** When using candles or gas cans as test subjects, keep them away from other flammable materials and ensure ventilation. Don't spray compressed gas at the flame — the propellant in many compressed gas cans is flammable.
 
-## See Also
+## 🔗 See Also
 
 - [Ultrasonic Levitator](../sound-and-music/010-ultrasonic-levitator.md) — another way to interact with invisible pressure waves in air
 - [Camera Obscura Room](175-camera-obscura-room.md) — another optics project that reveals hidden visual phenomena

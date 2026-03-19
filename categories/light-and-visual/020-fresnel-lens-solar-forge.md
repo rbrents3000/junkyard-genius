@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Rear-projection TVs contain a large Fresnel lens — a flat plastic lens with concentric ridges that acts like a giant magnifying glass. These TVs are constantly being thrown away and the lens inside is one of the most powerful solar concentrators you'll ever find for free. A typical RPTV Fresnel lens is about 40x30 inches, and when aimed at the sun, it focuses sunlight into a focal point that easily exceeds 3,000degF (1,650degC) — hot enough to melt aluminum, copper, glass, and even steel.
 
 The focal point is a blinding white spot about the size of a dime that can set wood on fire in under a second, melt a penny in 10 seconds, and reduce rocks to glowing lava. It's essentially free solar energy concentrated to forge-level temperatures with no fuel, no electricity, and no moving parts.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Fresnel lens from a rear-projection TV *(source: RPTV from curb, electronics recycler, or Craigslist free section — the lens is the clear sheet in front of the screen)*
 - [ ] Wooden or metal frame to hold the lens upright *(source: scrap lumber, ~$5-10)*
@@ -29,7 +28,9 @@ The focal point is a blinding white spot about the size of a dime that can set w
 - [ ] Crucible or fire-safe container for melting metal *(source: steel cup or repurposed fire extinguisher, ~$3)*
 - [ ] Tongs for handling hot items *(source: hardware store, ~$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage the Fresnel lens.** Open the front panel of a rear-projection TV. The Fresnel lens is the large, clear, flexible plastic sheet immediately behind the screen surface. There may be two sheets — you want the one with concentric ridges (the Fresnel lens), not the flat lenticular sheet. Handle carefully — it scratches easily and scratches reduce focal quality.
 
@@ -45,13 +46,14 @@ The focal point is a blinding white spot about the size of a dime that can set w
 
 7. **Experiment with materials.** Try glass (it melts and flows like lava), rocks (some glow brilliantly and partially melt), steel (glows white-hot and eventually melts if you hold the focal point on it long enough), and ceramic (often cracks dramatically from thermal shock). Each material responds differently.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **The focal point will blind you permanently and instantly.** The concentrated sunlight at the focal point is thousands of times brighter than direct sun. NEVER look at the focal spot without welding goggles (shade 10+). Regular sunglasses are completely insufficient. Reflections off shiny targets can also cause eye damage — wear the goggles the entire time the lens is aimed at the sun.
+> [!CAUTION]
+> **The focal point will blind you permanently and instantly.** The concentrated sunlight at the focal point is thousands of times brighter than direct sun. NEVER look at the focal spot without welding goggles (shade 10+). Regular sunglasses are completely insufficient. Reflections off shiny targets can also cause eye damage — wear the goggles the entire time the lens is aimed at the sun.
 - **Everything at the focal point is on fire.** The spot will ignite any organic material in seconds. Work on bare dirt or concrete. Have fire suppression ready. Be aware that the focal point moves as the sun moves — if you walk away for 10 minutes, the spot may have drifted onto the frame or nearby objects.
 - **UV exposure.** The concentrated light includes UV. Even standing near the focal area, your skin will sunburn fast. Wear long sleeves, gloves, and a hat. Treat this like spending a day at the beach — except the "beach" has a 3,000-degree spot.
 
-## See Also
+## 🔗 See Also
 
 - [Desktop Foundry](../fire-and-plasma/005-desktop-foundry.md) — melt aluminum with charcoal when the sun isn't cooperating
 - [Thermic Lance](../fire-and-plasma/004-thermic-lance.md) — another way to reach metal-melting temperatures from simple materials

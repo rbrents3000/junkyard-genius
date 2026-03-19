@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A retroreflector is a device that reflects light (or any wave) directly back toward its source, regardless of the angle it arrives from. The simplest form is a corner cube — three flat mirrors arranged at exactly 90 degrees to each other, like the inside corner of a box. Any light ray that enters the corner bounces off all three surfaces and exits traveling in exactly the opposite direction, parallel to the incoming ray.
 
 NASA left retroreflector arrays on the Moon during the Apollo missions. Scientists on Earth shoot lasers at them and time the return pulse to measure the Earth-Moon distance to millimeter precision. You can build the exact same thing from mirror tiles and test it with a laser pointer — shine a laser at it from across a field and the beam comes right back to you. It works from any angle without any aiming, which is what makes it borderline magical.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Small mirror tiles or pieces of mirror — three per corner cube *(source: craft store or dollar store, ~$2-3)*
 - [ ] Hot glue or epoxy for joining at 90 degrees *(source: around the house)*
@@ -27,7 +26,9 @@ NASA left retroreflector arrays on the Moon during the Apollo missions. Scientis
 - [ ] Mounting board or frame *(source: scrap wood, free)*
 - [ ] Ruler and square for precise alignment *(source: already own)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Understand the geometry.** A corner cube retroreflector uses three mutually perpendicular mirrors — imagine standing inside the corner of a room and looking at the point where two walls and the floor meet. That corner, with mirror surfaces, is a retroreflector. Light bounces off all three surfaces and reverses direction, no matter what angle it enters from.
 
@@ -45,12 +46,13 @@ NASA left retroreflector arrays on the Moon during the Apollo missions. Scientis
 
 8. **Demonstrate the principle.** The most impressive demo: have someone hold the array at 100+ feet, shine a laser at it, and show that the return dot appears right next to the laser pointer. Then rotate the array to different angles — the return dot barely moves. This is the retroreflection principle that makes road signs, bicycle reflectors, and cat's eyes work.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Laser pointer safety.** The laser beam returns directly to the source — which means directly toward your eyes. Aim the laser slightly off-axis from your face. Never look directly along the laser beam toward the reflector. Use low-power (Class 2, under 5mW) lasers only.
+> [!WARNING]
+> **Laser pointer safety.** The laser beam returns directly to the source — which means directly toward your eyes. Aim the laser slightly off-axis from your face. Never look directly along the laser beam toward the reflector. Use low-power (Class 2, under 5mW) lasers only.
 - **Glass mirror edges are sharp.** Handle cut mirrors carefully. Tape the edges of each mirror tile before assembly to prevent cuts. Wear gloves when cutting or handling glass.
 
-## See Also
+## 🔗 See Also
 
 - [Laser Maze](176-laser-maze.md) — another laser optics project with a very different purpose
 - [Laser Fog Projector](017-laser-fog-projector.md) — lasers for visual display instead of precision optics

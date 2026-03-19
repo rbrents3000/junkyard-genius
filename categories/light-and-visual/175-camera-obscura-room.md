@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A camera obscura (Latin for "dark room") is the oldest optical device in history — it predates photography by centuries. The concept is stunningly simple: seal a room from all light except for a single small hole in one wall. Light from the outside scene passes through the hole and projects a full-color, live, moving, upside-down image of the outside world on the opposite wall.
 
 Trees sway, cars drive by, clouds drift — all projected in real time, fully in color, with no electricity, no screen, no lens. It works because each point of the outside scene sends light rays in all directions; the pinhole selects only the rays from one direction per point, creating a coherent image. It's eerie, beautiful, and profoundly demonstrates how light and optics work. It's literally how your eye works, minus the lens.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] A room with a window facing an interesting outdoor scene *(source: your house, free)*
 - [ ] Black plastic sheeting, trash bags, or heavy black fabric *(source: hardware store or around the house, ~$5)*
@@ -27,7 +26,9 @@ Trees sway, cars drive by, clouds drift — all projected in real time, fully in
 - [ ] Pin, nail, or drill for making the hole *(source: around the house)*
 - [ ] Optional: magnifying glass or simple lens for a sharper, brighter image *(source: dollar store, ~$1)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Choose the room.** Pick a room with a window facing a well-lit outdoor scene — a street with movement, a garden, or a landscape. South-facing windows get the most light. Smaller rooms produce brighter images (the projection surface is closer to the hole).
 
@@ -45,12 +46,13 @@ Trees sway, cars drive by, clouds drift — all projected in real time, fully in
 
 8. **Make it an experience.** Set up a comfortable chair facing the projection wall. Invite people in one at a time into the dark room and let them discover the image. The moment of realization — that they're seeing a live image of outside with no technology — is consistently one of the most astonishing experiences you can create for someone.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Ensure the room is well-ventilated.** Sealing a room with plastic sheeting can reduce airflow. Don't seal heating/cooling vents, and don't stay in a sealed room for extended periods without ventilation. Leave the door openable at all times.
+> [!WARNING]
+> **Ensure the room is well-ventilated.** Sealing a room with plastic sheeting can reduce airflow. Don't seal heating/cooling vents, and don't stay in a sealed room for extended periods without ventilation. Leave the door openable at all times.
 - **Trip hazards in the dark.** The room is very dark. Remove loose cables, rugs, and other trip hazards before sealing the room. Have a flashlight available for safe entry and exit.
 
-## See Also
+## 🔗 See Also
 
 - [Schlieren Optics](172-schlieren-optics.md) — another optics project that reveals normally invisible phenomena
 - [Fresnel Lens Solar Forge](020-fresnel-lens-solar-forge.md) — another project that exploits the focusing power of light

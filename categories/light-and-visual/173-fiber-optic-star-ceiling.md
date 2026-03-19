@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A fiber optic star ceiling pushes hundreds (or thousands) of thin fiber optic strands through a ceiling panel or painted surface. A single bright LED or halogen light source behind the panel feeds light into all the fiber bundles simultaneously. Each fiber tip on the visible side glows as a tiny point of light — a "star." By varying fiber thickness, you create brighter and dimmer stars. By adding a slowly rotating color wheel or perforated disc in front of the light source, the stars twinkle and shift color just like a real night sky.
 
 This is a permanent installation that transforms a bedroom, home theater, or bathroom ceiling into a planetarium. At night with the main lights off, you lie in bed and look up at what genuinely looks like a starfield. It's one of the most impressive home improvement projects possible, and once installed, it works for decades.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Fiber optic strands — 0.5mm to 2mm diameter, 200-1000+ strands *(source: fiber optic star ceiling kit online ~$20-40, or bulk fiber optic cable stripped for individual fibers)*
 - [ ] Ceiling panel — existing drywall ceiling, drop ceiling tile, or a separate painted panel *(source: existing ceiling or foam board panel, ~$5-10)*
@@ -29,7 +28,9 @@ This is a permanent installation that transforms a bedroom, home theater, or bat
 - [ ] Pin or small drill bit for making holes *(source: around the house)*
 - [ ] Star chart or random pattern template *(source: print one online, free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Plan the star pattern.** Print a star chart of a familiar constellation region (Orion, Big Dipper, Milky Way) or create a random scatter pattern. Mark the positions on your ceiling or panel. Vary the density — more stars in some areas creates a realistic "galactic band" effect. Plan for 200-1000 fiber points depending on your ambition level.
 
@@ -51,13 +52,14 @@ This is a permanent installation that transforms a bedroom, home theater, or bat
 
 10. **Mount and wire.** If using a panel, mount it on the ceiling with cleats or brackets. Route the illuminator power cable neatly. Add a dimmer switch for the LED if you want adjustable brightness. The motor for twinkle needs its own low-voltage supply.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Ladder safety.** If working on an actual ceiling, you'll spend hours on a ladder. Use a proper step ladder with a stable platform, not a chair. Have someone spot you during the long fiber-threading sessions.
+> [!WARNING]
+> **Ladder safety.** If working on an actual ceiling, you'll spend hours on a ladder. Use a proper step ladder with a stable platform, not a chair. Have someone spot you during the long fiber-threading sessions.
 - **Fiber optic strands can poke and scratch.** When handling bundles of cut fiber, the tips are small and pointy. Wear gloves during threading. Don't rub your eyes after handling fibers.
 - **Heat management.** If using a halogen bulb instead of LED, it generates significant heat in a closed space above your ceiling. LEDs are strongly recommended — they run cool and last virtually forever. Never use a halogen bulb against flammable material like foam panels or insulation.
 
-## See Also
+## 🔗 See Also
 
 - [Infinity Mirror Table](016-infinity-mirror-table.md) — another LED installation that transforms a room
 - [UV Reactive Water Wall](023-uv-reactive-water-wall.md) — another permanent installation using light effects

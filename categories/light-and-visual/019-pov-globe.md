@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A POV (persistence of vision) globe spins a vertical strip of LEDs around a central axis at high speed. By rapidly changing which LEDs are lit as the strip rotates, you can paint a complete spherical image in the air — the human eye blends the fast-moving LEDs into a seemingly solid, floating image. Globes can display Earth maps, text, patterns, animations, and even video.
 
 The concept exploits the fact that human vision retains an image for about 1/25th of a second. If the LED strip completes a full rotation faster than that, the brain merges all the instantaneous LED positions into a continuous image. A strip with 50 LEDs spinning at 20+ rotations per second creates a sphere of 50 x ~300 pixel-equivalents — enough for recognizable images and text floating in mid-air.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Addressable LED strip (APA102 or WS2812B — APA102 preferred for faster data rates) *(source: online, ~$8)*
 - [ ] Microcontroller — ESP32 or Arduino *(source: online, ~$5)*
@@ -30,7 +29,9 @@ The concept exploits the fact that human vision retains an image for about 1/25t
 - [ ] Sturdy base with bearing mount *(source: hardware store or salvaged)*
 - [ ] Balancing weights (small bolts/nuts) *(source: hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Design the spinning frame.** The LED strip mounts along a vertical arm that spins around a central vertical axis. The arm needs to be lightweight but rigid — acrylic, thin aluminum, or 3D-printed. It should be exactly as long as the diameter of your desired display sphere.
 
@@ -50,12 +51,13 @@ The concept exploits the fact that human vision retains an image for about 1/25t
 
 9. **Test and tune.** Spin up to full speed and observe. The image should appear as a stable, floating sphere of light. If it flickers or has gaps, your RPM may be too low or your angular divisions too few. If the image is rotated or distorted, adjust the Hall sensor trigger timing. Adjust brightness for the ambient light conditions.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Spinning at 1,000+ RPM is serious.** If the LED strip or any component detaches, it becomes a projectile. Secure everything with screws, not just glue. Test at low speed first. Stand behind a shield (plexiglass panel) during initial high-speed testing. Never put fingers near the spinning arm.
+> [!WARNING]
+> **Spinning at 1,000+ RPM is serious.** If the LED strip or any component detaches, it becomes a projectile. Secure everything with screws, not just glue. Test at low speed first. Stand behind a shield (plexiglass panel) during initial high-speed testing. Never put fingers near the spinning arm.
 - **Battery safety on spinning components.** If using a LiPo battery on the spinning arm, make sure it's securely mounted and can't shift during rotation. A LiPo battery that detaches at speed will impact something at high velocity, potentially causing a fire.
 
-## See Also
+## 🔗 See Also
 
 - [Holographic Fan Display](022-holographic-fan-display.md) — similar persistence-of-vision concept in a flat form factor
 - [Light Painting Robot](178-light-painting-robot.md) — LEDs creating images through motion, captured by long-exposure photography

@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Many common minerals fluoresce under ultraviolet light — they absorb UV photons and re-emit them as vivid visible light. Calcite glows red or orange. Fluorite (the mineral fluorescence is named after) glows blue or purple. Willemite glows an intense green. Sodalite switches from boring gray to blazing orange. Under normal light, these rocks look completely ordinary. Under UV, they look like props from a sci-fi movie.
 
 Building a UV mineral display means collecting fluorescent specimens and mounting them in a display case with UV LED lighting. Flip a switch and a shelf of ordinary rocks transforms into a collection of glowing alien crystals. It's geology, physics, and interior design all in one.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Fluorescent mineral specimens — calcite, fluorite, willemite, sodalite, scheelite, etc. *(source: rock shows, online mineral shops, or find them yourself — ~$3-15 per specimen)*
 - [ ] UV LED strip or UV flashlight (shortwave 254nm is best for minerals, but longwave 365-395nm works for many) *(source: online, ~$8-15 for LED strip; shortwave UV lamp ~$25-40)*
@@ -28,7 +27,9 @@ Building a UV mineral display means collecting fluorescent specimens and mountin
 - [ ] Toggle switch for UV lights *(source: hardware store, ~$2)*
 - [ ] Power supply for UV LEDs *(source: wall adapter, free-$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Acquire fluorescent minerals.** Start with the "Big Four" that are widely available and dramatically fluorescent: calcite (red/orange/pink), fluorite (blue/purple), willemite (green), and sodalite/hackmanite (orange). Online mineral dealers sell "fluorescent specimen" collections. Local gem and mineral shows are even better — you can test specimens under UV before buying.
 
@@ -46,12 +47,13 @@ Building a UV mineral display means collecting fluorescent specimens and mountin
 
 8. **Optional: add phosphorescent specimens.** Some minerals (like certain calcites) are phosphorescent — they continue to glow after the UV light is turned off. Include these and demonstrate the "afterglow" effect by turning the UV off and watching certain specimens continue to emit light for seconds or minutes.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Shortwave UV (254nm) is dangerous.** UVC light at 254nm causes skin burns and eye damage (photokeratitis — essentially sunburn on your corneas). If using a shortwave UV lamp, wear UV-blocking safety glasses and minimize direct skin exposure. Never look directly at a shortwave UV source. Longwave UV (365-395nm) is much safer but can still cause eye discomfort with prolonged direct exposure.
+> [!WARNING]
+> **Shortwave UV (254nm) is dangerous.** UVC light at 254nm causes skin burns and eye damage (photokeratitis — essentially sunburn on your corneas). If using a shortwave UV lamp, wear UV-blocking safety glasses and minimize direct skin exposure. Never look directly at a shortwave UV source. Longwave UV (365-395nm) is much safer but can still cause eye discomfort with prolonged direct exposure.
 - **Some fluorescent minerals contain toxic elements.** Willemite contains zinc, scheelite contains tungsten, and some uranium-bearing minerals (autunite, torbernite) are mildly radioactive. Wash hands after handling. Don't grind or inhale dust from mineral specimens. Display them, don't eat them.
 
-## See Also
+## 🔗 See Also
 
 - [UV Reactive Water Wall](023-uv-reactive-water-wall.md) — UV fluorescence in liquid form
 - [Polarization Art](174-polarization-art.md) — another hidden visual phenomenon revealed through physics

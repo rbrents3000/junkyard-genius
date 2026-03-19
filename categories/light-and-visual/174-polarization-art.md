@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 When you layer clear cellophane tape on a glass or acrylic surface at different angles and thicknesses, it looks completely transparent — just tape on glass. But place a polarizer film behind the glass and another in front, and suddenly the tape lights up in vivid rainbow colors. Different numbers of layers produce different colors, and different angles produce different hues. You can create stained-glass-window-level art that is literally invisible without the polarizers.
 
 The physics: cellophane tape is birefringent — it bends different polarizations of light by different amounts depending on its thickness and orientation. When placed between two polarizers (crossed at 90 degrees), the tape layers selectively transmit certain wavelengths of light (colors) while blocking others. Multiple layers of tape add up, shifting the transmitted color. The result is a hidden artwork that only reveals itself through polarized light.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Clear cellophane tape (the cheap, slightly yellow-ish kind works best — NOT packing tape) *(source: already own, ~$1)*
 - [ ] Glass or clear acrylic sheet for the canvas *(source: dollar store picture frame, ~$1-2)*
@@ -27,7 +26,9 @@ The physics: cellophane tape is birefringent — it bends different polarization
 - [ ] Scissors and craft knife *(source: around the house)*
 - [ ] Design sketch *(source: paper and pencil)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage or buy polarizer film.** The easiest free source is a broken LCD screen — the front and back layers of every LCD are polarizing film. Carefully peel them off. You need two pieces: one behind your artwork (the "polarizer") and one in front (the "analyzer"). If buying, look for linear polarizer film sheets online.
 
@@ -45,12 +46,13 @@ The physics: cellophane tape is birefringent — it bends different polarization
 
 8. **Frame and display.** Sandwich the finished tape art between the two polarizer films and the glass. Frame it with the backlight behind it (a window works beautifully — the artwork changes character with the sky color throughout the day). For a dramatic reveal, show people the clear glass first, then add the polarizer film and watch their reaction.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Craft knife safety.** When cutting tape shapes with a blade, cut on a cutting mat and keep fingers clear. The glass surface can cause the blade to slip unpredictably.
+> [!WARNING]
+> **Craft knife safety.** When cutting tape shapes with a blade, cut on a cutting mat and keep fingers clear. The glass surface can cause the blade to slip unpredictably.
 - **LCD screen disassembly.** If salvaging polarizer film from a broken LCD, the screen may contain mercury (from CCFL backlights in older models). Work in a ventilated area and don't break the backlighting tubes. LED-backlit screens don't have this issue.
 
-## See Also
+## 🔗 See Also
 
 - [Shadow Chandelier](018-shadow-chandelier.md) — another way to create art through light manipulation
 - [Camera Obscura Room](175-camera-obscura-room.md) — optics creating unexpected visual experiences

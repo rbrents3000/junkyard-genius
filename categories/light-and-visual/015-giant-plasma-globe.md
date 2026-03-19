@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Commercial plasma globes are limited to 6-8 inch spheres because bigger ones need more voltage and better vacuum equipment. But with a microwave oven transformer and some creativity, you can build a plasma globe the size of a mixing bowl or fish bowl — 12 inches or more across. The tendrils of plasma are proportionally larger and more dramatic, reaching out to touch anything conductive (including your hand through the glass).
 
 The principle is identical to a store-bought plasma globe: a central electrode drives high-frequency, high-voltage AC into a partial vacuum inside a sealed glass sphere. The low-pressure gas ionizes into plasma filaments that reach from the central electrode toward the grounded outer glass surface. Touching the glass concentrates the filaments at that point because your body provides a ground path.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Microwave oven transformer (MOT) *(source: dead microwave, free)*
 - [ ] Large round glass bowl, fishbowl, or globe light fixture, 10-14 inches *(source: thrift store, ~$5-10)*
@@ -30,7 +29,9 @@ The principle is identical to a store-bought plasma globe: a central electrode d
 - [ ] Wooden base and mounting hardware *(source: scrap wood)*
 - [ ] 14-gauge wire, rubber mat, kill switch *(source: hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Select and prepare the glass vessel.** Find the largest spherical or near-spherical glass container you can. Fishbowls, round light fixtures, and large brandy snifters work. The glass needs to be thick enough to handle a partial vacuum without imploding. Avoid thin decorative glass. Check for chips or cracks — reject any imperfect glass.
 
@@ -50,13 +51,14 @@ The principle is identical to a store-bought plasma globe: a central electrode d
 
 9. **Seal and finish.** Once you're happy with the plasma behavior, seal the vacuum port permanently. Mount the variac inside the base so you can adjust brightness. Add a power switch and clean up the wiring.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **MOTs are lethal.** The same warnings from every MOT project apply — 2,000V+ at lethal current. Never touch anything on the high-voltage side while powered. Use a remote kill switch. Work on a rubber mat. One hand rule.
+> [!CAUTION]
+> **MOTs are lethal.** The same warnings from every MOT project apply — 2,000V+ at lethal current. Never touch anything on the high-voltage side while powered. Use a remote kill switch. Work on a rubber mat. One hand rule.
 - **Glass under vacuum can implode.** Use only thick, undamaged glass. Wear safety glasses during initial testing. If you hear any cracking sounds, kill power and evacuate the area — an imploding glass sphere throws shrapnel.
 - **UV and ozone.** The plasma discharge produces UV light and ozone. Don't stare at bright tendrils for extended periods. Ventilate the room if you run it for more than 10-15 minutes at a time.
 
-## See Also
+## 🔗 See Also
 
 - [Plasma Tornado Lamp](../fire-and-plasma/001-plasma-tornado-lamp.md) — plasma in a vortex instead of a sphere
 - [Plasma Speaker](../sound-and-music/008-plasma-speaker.md) — plasma that plays music

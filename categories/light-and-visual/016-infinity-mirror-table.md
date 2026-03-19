@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 An infinity mirror exploits the way light bounces between two parallel mirrors. One mirror is a regular mirror (fully reflective), and the other is a one-way mirror (partially reflective, partially transparent). LED strips between the two mirrors create light that bounces back and forth, each reflection appearing slightly dimmer and deeper. Looking through the one-way mirror side, you see what appears to be an endless tunnel of lights receding into infinity.
 
 Built into a coffee table, this becomes a piece of furniture that stops every guest in their tracks. The LED strip color and pattern can be controlled with a simple remote, changing the tunnel from warm white to rainbow to pulsing effects. In a dark room, it looks like a portal to another dimension sitting in your living room.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] One-way mirror film or one-way acrylic mirror sheet *(source: online or auto tint shop, ~$10-15)*
 - [ ] Regular mirror, sized to your table top *(source: thrift store or dollar store, ~$5-10)*
@@ -29,7 +28,9 @@ Built into a coffee table, this becomes a piece of furniture that stops every gu
 - [ ] 5V power supply for LEDs *(source: old phone charger or USB adapter, free-$5)*
 - [ ] Wood stain or paint for the frame *(source: hardware store, ~$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the frame.** Construct a shallow box frame — essentially a picture frame with depth. The depth (gap between mirrors) determines how far apart the reflections appear. 2-4 inches works well for a table. The frame holds the regular mirror on the bottom and the one-way mirror on top. Make it sturdy — it's also the table structure.
 
@@ -47,12 +48,13 @@ Built into a coffee table, this becomes a piece of furniture that stops every gu
 
 8. **Add legs or mount.** Attach table legs, or integrate the infinity mirror panel into an existing table by cutting a hole in the tabletop and recessing the assembly. A wall-mounted version also works well as art.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **The table top is glass or acrylic.** Don't place heavy objects or slam things down on it. Use a clear tempered glass panel if you want it to be functional as a table. Standard glass can shatter if stressed.
+> [!WARNING]
+> **The table top is glass or acrylic.** Don't place heavy objects or slam things down on it. Use a clear tempered glass panel if you want it to be functional as a table. Standard glass can shatter if stressed.
 - **LED strips can get warm.** Ensure some ventilation in the frame (a few small holes on the underside) so heat can escape. Enclosed LED strips running at full brightness for hours can overheat and degrade.
 
-## See Also
+## 🔗 See Also
 
 - [Fiber Optic Star Ceiling](173-fiber-optic-star-ceiling.md) — another LED-based installation that transforms a room
 - [Pepper's Ghost Hologram](171-peppers-ghost-hologram.md) — another optical illusion build using partially reflective surfaces

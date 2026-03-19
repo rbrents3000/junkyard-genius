@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A holographic fan display is a flat persistence-of-vision (POV) device. A bar of LEDs spins rapidly (like a fan blade) and by precisely controlling which LEDs light up at each angular position, it paints a circular 2D image in the air. Because the spinning blade is nearly invisible at speed, the lit LEDs appear to float as a glowing image with no visible support — a fake hologram that looks absolutely real to the naked eye.
 
 Commercial versions of these are used in retail stores and trade shows and cost $300-800. The DIY version uses the same principle: an addressable LED strip on a motor with a microcontroller that synchronizes image data to the rotation. The result is a floating, animated image — logos, text, GIFs, even short video clips hovering in front of a wall.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Addressable LED strip (APA102 preferred for fast data rate), 30-60cm *(source: online, ~$5-8)*
 - [ ] ESP32 or Arduino microcontroller *(source: online, ~$5)*
@@ -30,7 +29,9 @@ Commercial versions of these are used in retail stores and trade shows and cost 
 - [ ] Mounting bracket and motor housing *(source: hardware store, ~$5)*
 - [ ] Counterweight for blade balance *(source: bolts and nuts, ~$1)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the blade.** Mount the LED strip along a rigid arm — aluminum flat bar, a custom PCB, or a 3D-printed blade. The blade needs to be strong enough to withstand centrifugal force at 1500+ RPM. The LED strip runs the full length of one side. The other side gets a counterweight to prevent vibration.
 
@@ -50,12 +51,13 @@ Commercial versions of these are used in retail stores and trade shows and cost 
 
 9. **Optimize and deploy.** Adjust brightness for the ambient light level. Add new images and animations by uploading different data sets. For maximum impact, mount it on a dark wall in a dimly lit area — the image will appear to float in space with no visible hardware.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **The spinning blade is invisible and will cut you.** At operating speed, you cannot see the blade. Never reach toward the display while it's running. Install a clear acrylic shield in front of it for public-facing installations. Keep a safe distance during testing.
+> [!WARNING]
+> **The spinning blade is invisible and will cut you.** At operating speed, you cannot see the blade. Never reach toward the display while it's running. Install a clear acrylic shield in front of it for public-facing installations. Keep a safe distance during testing.
 - **Motor failure throws the blade.** If the hub clamp fails, the blade becomes a projectile. Use a proper set screw or press fit — not just friction. Test at low speed first and verify the blade is secure before going to full RPM. Stand to the side during speed-up, not in the plane of rotation.
 
-## See Also
+## 🔗 See Also
 
 - [POV Globe](019-pov-globe.md) — the spherical version of the same persistence-of-vision concept
 - [Laser Fog Projector](017-laser-fog-projector.md) — another way to create floating visual effects

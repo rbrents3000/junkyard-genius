@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Light painting is a photography technique where you move a light source through the frame during a long exposure — the camera records the entire path of the light as a bright streak. Normally this is done by hand, which limits you to wobbly, imprecise shapes. But mount an LED on a computer-controlled robot arm (even a simple one made from servos), program precise movements, and you get perfect circles, spirals, mathematical curves, 3D wireframes, and geometric patterns drawn in light with inhuman precision.
 
 The photographs look like CGI renders but they're real, single-exposure images. No post-processing, no compositing — the light trail exists in physical space during the exposure. The robot can draw patterns that would take a human years of practice to approximate, and it can reproduce them identically every time. Change the LED color mid-path and you get multicolor designs.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Servo motors — 2-3 standard hobby servos (SG90 or MG996R) *(source: online, ~$2-5 each)*
 - [ ] Arduino or similar microcontroller *(source: online, ~$5)*
@@ -30,7 +29,9 @@ The photographs look like CGI renders but they're real, single-exposure images. 
 - [ ] USB cable and computer for programming *(source: already own)*
 - [ ] Dark room or outdoor nighttime location *(source: free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Design the robot arm.** A simple 2-axis arm (shoulder joint + elbow joint) driven by two servos can reach most of a 2D plane. For 3D light painting, add a third axis or mount the arm on a rotating base. Each servo provides one degree of freedom. Simple is fine — even a single servo sweeping an LED in an arc produces stunning results.
 
@@ -50,12 +51,13 @@ The photographs look like CGI renders but they're real, single-exposure images. 
 
 9. **Scale up.** For larger installations, use bigger servos and longer arms, or mount the whole assembly on a motorized dolly that translates across the frame. A robot arm on a moving platform can fill an entire room with light trails in a single exposure.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Servo motors can pinch.** When the arm is in motion, keep fingers clear of the servo joints and arm segments. Small servos have surprising torque — enough to pinch skin or trap a finger. Don't reach into the arm's sweep zone while a program is running.
+> [!WARNING]
+> **Servo motors can pinch.** When the arm is in motion, keep fingers clear of the servo joints and arm segments. Small servos have surprising torque — enough to pinch skin or trap a finger. Don't reach into the arm's sweep zone while a program is running.
 - **Long-exposure photography in the dark means working in the dark.** Set up the workspace in daylight, then darken it. Know where everything is. Don't trip over the tripod or robot assembly. Mark any obstacles with small glow-in-the-dark tape.
 
-## See Also
+## 🔗 See Also
 
 - [POV Globe](019-pov-globe.md) — LEDs creating images through rapid motion, perceived by the eye instead of captured by camera
 - [Holographic Fan Display](022-holographic-fan-display.md) — another project where LEDs and motion create images

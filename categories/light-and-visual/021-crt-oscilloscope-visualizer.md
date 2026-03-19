@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A CRT (cathode ray tube) TV creates images by steering an electron beam across a phosphor-coated screen using electromagnetic deflection coils. Normally, complex signals from the TV tuner control these coils. But if you disconnect the original electronics and feed audio signals directly into the deflection coils, the electron beam traces patterns on the screen that correspond to the audio waveform. Play music and the beam draws dancing, flowing shapes — circles become spirals, bass hits make the pattern expand, and stereo separation creates complex Lissajous figures.
 
 This is essentially what an oscilloscope does, but on a much larger screen and with the lo-fi charm of phosphor glow and analog warmth. The result is a vintage-looking music visualizer that responds with zero latency to every nuance of the audio — because it IS the audio, directly controlling the beam position.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] CRT TV or monitor, any size *(source: electronics recycler, thrift store, or curb, free-$5)*
 - [ ] Audio amplifier — small stereo amp or two-channel amp board *(source: thrift store or online, ~$5-10)*
@@ -28,7 +27,9 @@ This is essentially what an oscilloscope does, but on a much larger screen and w
 - [ ] Insulated screwdriver *(source: around the house)*
 - [ ] Rubber gloves and mat *(source: hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Discharge the CRT.** THIS IS MANDATORY. Unplug the TV and let it sit for at least 24 hours. Then, wearing rubber gloves and standing on a rubber mat, discharge the anode cap (the suction cup on the CRT with the thick red wire). Connect a high-value resistor (10M ohm) between the anode cap terminal and the chassis ground, using an insulated screwdriver to lift the cap edge. Do this several times. CRTs can hold 25,000+ volts for months.
 
@@ -46,13 +47,14 @@ This is essentially what an oscilloscope does, but on a much larger screen and w
 
 8. **Tune for best visuals.** Different music genres produce different patterns. Electronic music with hard-panned stereo elements creates the most dramatic geometric shapes. Ambient music creates smooth, flowing forms. Try playing dedicated oscilloscope music — artists create tracks specifically designed to draw images on X-Y displays.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **CRTs store lethal charge.** The anode can hold 25,000V+ for months after unplugging. Step 1 (discharge) is not optional — skipping it can kill you. Always discharge multiple times and verify with a multimeter if possible. If you're not comfortable with high-voltage electronics, find someone experienced to help.
+> [!WARNING]
+> **CRTs store lethal charge.** The anode can hold 25,000V+ for months after unplugging. Step 1 (discharge) is not optional — skipping it can kill you. Always discharge multiple times and verify with a multimeter if possible. If you're not comfortable with high-voltage electronics, find someone experienced to help.
 - **Don't break the CRT.** The tube is under vacuum. A broken CRT implodes violently, throwing glass shrapnel. Handle the TV carefully. Don't drop it, don't hit the tube, and don't remove the tube from the housing unless you know what you're doing.
 - **The CRT produces X-rays at high voltage.** This is normal and the leaded glass of the tube shields it, but don't remove the tube from its housing and operate it bare. Keep the shielding intact.
 
-## See Also
+## 🔗 See Also
 
 - [Ferrofluid Speaker](../sound-and-music/011-ferrofluid-speaker.md) — another analog music visualization method
 - [Plasma Speaker](../sound-and-music/008-plasma-speaker.md) — audio driving an electrical phenomenon for a visual+audio experience

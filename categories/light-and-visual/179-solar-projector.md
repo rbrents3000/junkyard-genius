@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Instead of looking through a telescope at the sun (which would instantly and permanently damage your eyes), you aim the telescope at the sun and let the image project out of the eyepiece onto a white screen or card held behind it. The result is a bright, clear, magnified image of the sun's disc showing real features: dark sunspots moving across the surface, bright faculae near the limb, and during eclipses, the moon's shadow crossing the disc in real time.
 
 This technique — called solar projection — was used by astronomers for centuries before solar filters existed. It's completely safe when done correctly (you never look through the telescope), requires no special equipment beyond a basic telescope and a white surface, and produces an image that multiple people can view simultaneously. During a solar eclipse, it's the easiest and safest way to share the view with a crowd.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Telescope or binoculars — any refractor or reflector works, even a cheap one *(source: thrift store, attic, or borrow from a friend, ~$10-30)*
 - [ ] White cardboard, poster board, or a white wall for the projection screen *(source: around the house, free)*
@@ -26,7 +25,9 @@ This technique — called solar projection — was used by astronomers for centu
 - [ ] Cardboard sunshade (to shade the screen from direct sunlight) *(source: scrap cardboard, free)*
 - [ ] Optional: finder scope cap or cap with pinhole for safe aiming *(source: make from cardboard)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up the telescope.** Mount the telescope on its tripod in a sunny location. Remove the lens/dust cap. If the telescope has a finder scope, cap it or remove it entirely — never look through any optic pointed at the sun.
 
@@ -42,13 +43,14 @@ This technique — called solar projection — was used by astronomers for centu
 
 7. **Track solar changes.** Set up the projection at the same time each day and sketch or photograph what you see. Sunspot groups grow, shrink, and move. Solar activity follows an approximately 11-year cycle. During solar maximum, the disc may have dozens of spots; during minimum, it may be perfectly blank for weeks.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **NEVER look through the telescope at the sun.** This will cause immediate, permanent, painless blindness. The telescope concentrates sunlight by a factor of hundreds — it's worse than looking at the sun with the naked eye. Always project the image onto a screen. Cap or remove the finder scope before aiming anywhere near the sun.
+> [!WARNING]
+> **NEVER look through the telescope at the sun.** This will cause immediate, permanent, painless blindness. The telescope concentrates sunlight by a factor of hundreds — it's worse than looking at the sun with the naked eye. Always project the image onto a screen. Cap or remove the finder scope before aiming anywhere near the sun.
 - **Eyepiece heating.** The concentrated sunlight passing through the eyepiece generates significant heat. Don't leave the telescope aimed at the sun for more than a few minutes at a time with cheap plastic eyepieces — they can melt or crack. Metal eyepieces are more durable. If the eyepiece gets hot to the touch, give it a break.
 - **Don't let children look through the telescope.** Even with the projection method set up, children may be tempted to peek through the eyepiece. Supervise closely, or physically block access to the eyepiece end.
 
-## See Also
+## 🔗 See Also
 
 - [Fresnel Lens Solar Forge](020-fresnel-lens-solar-forge.md) — another project harnessing the sun's energy with optics (with very different intent)
 - [Schlieren Optics](172-schlieren-optics.md) — another optics project that reveals normally invisible phenomena

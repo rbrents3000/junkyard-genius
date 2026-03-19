@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A thin sheet of water flows down a clear surface (acrylic or glass panel) while UV LED strips illuminate it from the edges. Fluorescent dye mixed into the water absorbs the UV light and re-emits it as visible light, making the water glow intensely — bright green with fluorescein, bright blue with optical brightener, or vivid orange with rhodamine. The result is a wall of luminous, flowing liquid that glows without any visible light source.
 
 The glow is genuine fluorescence — the dye molecules absorb UV photons and emit lower-energy visible photons. It's the same physics behind black-light posters, but in liquid form flowing down a wall. In a dark room, it looks absolutely alien. It's also surprisingly easy to build and uses non-toxic materials (fluorescein is used in eye exams, and optical brightener is in laundry detergent).
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Clear acrylic or glass panel, 2-4 feet tall *(source: hardware store or window salvage, ~$10-15)*
 - [ ] UV LED strip (395-405nm blacklight) *(source: online, ~$8-12)*
@@ -30,7 +29,9 @@ The glow is genuine fluorescence — the dye molecules absorb UV photons and emi
 - [ ] Silicone sealant *(source: hardware store, ~$5)*
 - [ ] 12V power supply for UV LEDs and pump *(source: old laptop charger, free-$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the frame.** Construct a vertical frame to hold the clear panel. The panel should be slightly tilted back from vertical (5-10 degrees) so water flows down the face instead of dripping away from the surface. Add a catch basin at the bottom — a shallow trough or container that collects the water for recirculation.
 
@@ -48,13 +49,14 @@ The glow is genuine fluorescence — the dye molecules absorb UV photons and emi
 
 8. **Fine-tune.** Add more dye if the glow is faint. Reposition LED strips if there are dark spots. Add a dimmer to the UV strip power for mood control. For extra effect, add a small amount of a second dye color to get gradient effects where they mix.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Fluorescein and optical brighteners are generally non-toxic but can stain.** Fluorescein in particular will stain clothing, countertops, and grout bright yellow-green. Work over a drop cloth during setup. Wear old clothes. If it gets on skin, it washes off with soap and water but may take a few washes.
+> [!WARNING]
+> **Fluorescein and optical brighteners are generally non-toxic but can stain.** Fluorescein in particular will stain clothing, countertops, and grout bright yellow-green. Work over a drop cloth during setup. Wear old clothes. If it gets on skin, it washes off with soap and water but may take a few washes.
 - **UV LEDs can irritate eyes with prolonged direct exposure.** Don't stare directly into the LED strips. Position them so the UV light hits the water, not viewers' eyes. 395-405nm LEDs (near-UV) are safer than shorter wavelength UV, but extended direct exposure is still inadvisable.
 - **Water + electricity.** Make sure all electrical connections (pump, LED strips, power supply) are properly insulated and positioned so splashes can't reach them. Use a GFCI outlet. Keep the power supply well above the water level.
 
-## See Also
+## 🔗 See Also
 
 - [UV Mineral Display](177-uv-mineral-display.md) — UV light revealing hidden fluorescence in natural minerals
 - [Infinity Mirror Table](016-infinity-mirror-table.md) — another LED-based installation that transforms a space

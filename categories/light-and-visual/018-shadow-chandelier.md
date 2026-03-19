@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A shadow chandelier is a hollow sphere (or polyhedron) with intricate patterns cut into its surface. A point light source — a single bright LED or small halogen bulb — sits at the center. The light radiates outward through the cutouts, projecting magnified shadow patterns onto every surface in the room: walls, ceiling, floor, furniture. The room becomes a 360-degree canvas of geometric or organic shadow art.
 
 The beauty is in the math: because light travels in straight lines from a point source, every cutout in the sphere projects a clean, sharp shadow pattern that wraps around the room. Small details in the metalwork become room-sized projections. A 12-inch sphere can fill an entire bedroom with forest silhouettes, geometric tessellations, or gothic cathedral patterns.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Metal sphere or dome — colander, salad bowl, globe light fixture, or sheet metal formed into a sphere *(source: thrift store or kitchen supply, ~$5-10)*
 - [ ] Dremel rotary tool with cutting discs and burrs *(source: own or borrow)*
@@ -29,7 +28,9 @@ The beauty is in the math: because light travels in straight lines from a point 
 - [ ] Safety glasses and gloves *(source: hardware store)*
 - [ ] Fine-point marker for transferring patterns *(source: around the house)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Design the shadow pattern.** Sketch your pattern on paper first. Geometric patterns (Islamic tessellation, sacred geometry, hexagonal grids) are forgiving and always look good. Organic patterns (tree branches, coral, vines) are harder to cut but more dramatic. Remember that the shadows will be magnified — small details in your cut pattern become large shapes on the walls.
 
@@ -47,13 +48,14 @@ The beauty is in the math: because light travels in straight lines from a point 
 
 8. **Hang and adjust.** Hang the chandelier from the ceiling at the desired height. Lower positions project patterns on the ceiling; higher positions emphasize wall coverage. The room should be otherwise dark for maximum impact. The shadows will cover every surface in the room.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Metal cutting produces hot shards and dust.** Wear safety glasses, gloves, and a dust mask when cutting with the Dremel. Secure the workpiece in a vise or clamp — never hold it freehand while cutting.
+> [!WARNING]
+> **Metal cutting produces hot shards and dust.** Wear safety glasses, gloves, and a dust mask when cutting with the Dremel. Secure the workpiece in a vise or clamp — never hold it freehand while cutting.
 - **The bulb inside will generate heat in an enclosed metal sphere.** Use an LED bulb (low heat) rather than halogen (high heat). If the sphere gets too hot to touch, switch to a lower-wattage bulb. Ensure the cord and socket are rated for the bulb's wattage.
 - **Hang securely.** The finished chandelier may weigh several pounds. Use an appropriate ceiling anchor rated for the weight, not just a push-in hook.
 
-## See Also
+## 🔗 See Also
 
 - [Camera Obscura Room](175-camera-obscura-room.md) — another project that transforms an entire room using light projection
 - [Polarization Art](174-polarization-art.md) — hidden visual patterns revealed through optics
