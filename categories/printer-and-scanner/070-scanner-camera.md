@@ -1,5 +1,9 @@
 # #070 — Scanner Camera
 
+<p align="center">
+  <img src="../../images/builds/070-scanner-camera.jpg" alt="Scanner Camera" width="700" />
+</p>
+
 > A flatbed scanner is a giant linear CCD sensor. Add a lens and a light-tight box, and it becomes an ultra-high-resolution camera. Artists use these.
 
 ## Ratings

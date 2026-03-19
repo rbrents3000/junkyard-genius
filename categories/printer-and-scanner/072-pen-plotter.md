@@ -1,5 +1,9 @@
 # #072 — Pen Plotter
 
+<p align="center">
+  <img src="../../images/builds/072-pen-plotter.jpg" alt="Pen Plotter" width="700" />
+</p>
+
 > Printer steppers, timing belts, a servo, and a pen holder. Feed it SVG files and generative art. Real ink on real paper — a quality inkjets cannot match.
 
 ## Ratings
