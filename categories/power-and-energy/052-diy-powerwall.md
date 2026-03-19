@@ -1,5 +1,9 @@
 # #052 — DIY Powerwall
 
+<p align="center">
+  <img src="../../images/builds/052-diy-powerwall.jpg" alt="DIY Powerwall" width="700" />
+</p>
+
 > Hundreds of salvaged 18650 lithium cells from dead laptop batteries, tested, graded, and assembled into a home battery storage system. The Tesla Powerwall for scavengers.
 
 ## Ratings

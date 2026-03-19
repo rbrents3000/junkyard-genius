@@ -1,5 +1,9 @@
 # #289 — Peltier Solar Cooler
 
+<p align="center">
+  <img src="../../images/builds/289-peltier-solar-cooler.jpg" alt="Peltier Solar Cooler" width="700" />
+</p>
+
 > A solar panel, some thermoelectric modules from dead mini-fridges, and a cooler box. No compressor, no refrigerant, no noise. Just silent, sun-powered cold.
 
 ## Ratings

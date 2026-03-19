@@ -1,5 +1,9 @@
 # #288 — Laptop Battery Powerwall
 
+<p align="center">
+  <img src="../../images/builds/288-laptop-battery-powerwall.jpg" alt="Laptop Battery Powerwall" width="700" />
+</p>
+
 > Fifty dead laptops walk into a garage. None of them leave. Their batteries become a wall of stored energy that keeps your lights on when the grid goes dark.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #290 — Hand-Crank Generator
 
+<p align="center">
+  <img src="../../images/builds/290-hand-crank-generator.jpg" alt="Hand-Crank Generator" width="700" />
+</p>
+
 > A dead treadmill motor, some bicycle gears, and a crank handle. When the grid goes down, your arm becomes the power plant.
 
 ## Ratings

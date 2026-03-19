@@ -1,5 +1,9 @@
 # #291 — Capacitor Bank Flash Charger
 
+<p align="center">
+  <img src="../../images/builds/291-capacitor-bank-flash-charger.jpg" alt="Capacitor Bank Flash Charger" width="700" />
+</p>
+
 > Slow charge. Fast dump. A bank of salvaged electrolytic capacitors that stores energy like a battery and releases it like a lightning bolt.
 
 ## Ratings

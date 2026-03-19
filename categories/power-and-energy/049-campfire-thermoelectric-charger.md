@@ -1,5 +1,9 @@
 # #049 — Campfire Thermoelectric Charger
 
+<p align="center">
+  <img src="../../images/builds/049-campfire-thermoelectric-charger.jpg" alt="Campfire Thermoelectric Charger" width="700" />
+</p>
+
 > A Peltier module sandwiched between a hot side (campfire) and a cold side (water pot) generates enough electricity to charge your phone. Power from temperature difference.
 
 ## Ratings
