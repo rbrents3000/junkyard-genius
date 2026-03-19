@@ -1,5 +1,9 @@
 # #048 — CRT Electromagnetic Art
 
+<p align="center">
+  <img src="../../images/builds/048-crt-electromagnetic-art.jpg" alt="CRT Electromagnetic Art" width="700" />
+</p>
+
 > Hold a magnet near an old CRT television and watch the image twist, smear, and bloom into abstract art. The simplest interactive installation you can build.
 
 ## Ratings

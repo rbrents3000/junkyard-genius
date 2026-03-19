@@ -1,5 +1,9 @@
 # #043 — Kinetic Wind Sculpture
 
+<p align="center">
+  <img src="../../images/builds/043-kinetic-wind-sculpture.jpg" alt="Kinetic Wind Sculpture" width="700" />
+</p>
+
 > Scrap metal, salvaged bearings, and balanced arms spin and sway in the wind. Art that moves itself, powered by nothing but air.
 
 ## Ratings
