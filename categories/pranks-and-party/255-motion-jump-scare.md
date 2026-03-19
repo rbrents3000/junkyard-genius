@@ -1,5 +1,9 @@
 # #255 — Motion-Activated Jump Scare
 
+<p align="center">
+  <img src="../../images/builds/255-motion-jump-scare.jpg" alt="Motion-Activated Jump Scare" width="700" />
+</p>
+
 > PIR sensor + Arduino + servo yanks a prop on fishing line. Resets itself, never gets tired. Halloween essential.
 
 ## Ratings

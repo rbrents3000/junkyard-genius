@@ -1,5 +1,9 @@
 # #258 — Self-Pouring Bottle
 
+<p align="center">
+  <img src="../../images/builds/258-self-pouring-bottle.jpg" alt="Self-Pouring Bottle" width="700" />
+</p>
+
 > Hidden pump + tubing inside a bottle. Tilt it and liquid flows on its own. Looks like straight-up witchcraft.
 
 ## Ratings

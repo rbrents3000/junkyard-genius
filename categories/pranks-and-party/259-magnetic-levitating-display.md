@@ -1,5 +1,9 @@
 # #259 — Magnetic Levitating Display Stand
 
+<p align="center">
+  <img src="../../images/builds/259-magnetic-levitating-display.jpg" alt="Magnetic Levitating Display Stand" width="700" />
+</p>
+
 > Electromagnet + hall sensor + PID feedback loop. Objects float in mid-air with no strings, no supports, no tricks.
 
 ## Ratings
