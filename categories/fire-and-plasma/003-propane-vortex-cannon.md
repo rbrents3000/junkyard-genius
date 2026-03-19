@@ -1,5 +1,9 @@
 # #003 — Propane Vortex Cannon
 
+<p align="center">
+  <img src="../../images/builds/003-propane-vortex-cannon.jpg" alt="Propane Vortex Cannon" width="700" />
+</p>
+
 > A trash can that shoots flaming vortex rings across the yard — part physics demo, part backyard artillery.
 
 ## Ratings

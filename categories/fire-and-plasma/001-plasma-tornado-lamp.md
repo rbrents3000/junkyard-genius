@@ -1,5 +1,9 @@
 # #001 — Plasma Tornado Lamp
 
+<p align="center">
+  <img src="../../images/builds/001-plasma-tornado-lamp.jpg" alt="Plasma Tornado Lamp" width="700" />
+</p>
+
 > A swirling column of plasma trapped in glass — part mad science, part living room art piece.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #004 — Thermic Lance
 
+<p align="center">
+  <img src="../../images/builds/004-thermic-lance.jpg" alt="Thermic Lance" width="700" />
+</p>
+
 > A steel pipe packed with iron rods and fed pure oxygen — cuts through concrete, steel, and basically anything else on Earth.
 
 ## Ratings

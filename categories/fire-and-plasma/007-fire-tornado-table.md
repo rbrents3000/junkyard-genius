@@ -1,5 +1,9 @@
 # #007 — Fire Tornado Table
 
+<p align="center">
+  <img src="../../images/builds/007-fire-tornado-table.jpg" alt="Fire Tornado Table" width="700" />
+</p>
+
 > A lazy susan, some mesh screen, and a fuel source — spins up a mesmerizing tabletop fire tornado on demand.
 
 ## Ratings
