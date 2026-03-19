@@ -1,5 +1,9 @@
 # #014 — Bone Conduction Speaker
 
+<p align="center">
+  <img src="../../images/builds/014-bone-conduction-speaker.jpg" alt="Bone Conduction Speaker" width="700" />
+</p>
+
 > A transducer that turns any surface into a speaker — stick it on a table, window, or cardboard box and it plays music through the surface.
 
 ## Ratings

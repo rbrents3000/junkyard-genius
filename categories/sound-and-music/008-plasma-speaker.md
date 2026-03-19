@@ -1,5 +1,9 @@
 # #008 — Plasma Speaker
 
+<p align="center">
+  <img src="../../images/builds/008-plasma-speaker.jpg" alt="Plasma Speaker" width="700" />
+</p>
+
 > A flyback transformer modulates an electrical arc to play music — the speaker cone is literally lightning.
 
 ## Ratings

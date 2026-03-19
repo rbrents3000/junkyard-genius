@@ -1,5 +1,9 @@
 # #010 — Ultrasonic Levitator
 
+<p align="center">
+  <img src="../../images/builds/010-ultrasonic-levitator.jpg" alt="Ultrasonic Levitator" width="700" />
+</p>
+
 > Ultrasonic transducers create standing waves that trap and levitate small objects in mid-air — actual levitation, no tricks.
 
 ## Ratings

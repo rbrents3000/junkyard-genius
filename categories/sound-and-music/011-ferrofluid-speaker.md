@@ -1,5 +1,9 @@
 # #011 — Ferrofluid Speaker
 
+<p align="center">
+  <img src="../../images/builds/011-ferrofluid-speaker.jpg" alt="Ferrofluid Speaker" width="700" />
+</p>
+
 > A speaker magnet meets ferrofluid and creates a living, dancing liquid sculpture that responds to every beat.
 
 ## Ratings
