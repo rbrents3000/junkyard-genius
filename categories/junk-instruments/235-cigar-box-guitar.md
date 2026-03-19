@@ -1,5 +1,9 @@
 # #235 — Cigar Box Guitar
 
+<p align="center">
+  <img src="../../images/builds/235-cigar-box-guitar.jpg" alt="Cigar Box Guitar" width="700" />
+</p>
+
 > A cigar box, a broom handle, and some wire walk into a bar — and actually play a set.
 
 ## Ratings

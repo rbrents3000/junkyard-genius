@@ -1,5 +1,9 @@
 # #236 — PVC Pipe Organ
 
+<p align="center">
+  <img src="../../images/builds/236-pvc-pipe-organ.jpg" alt="PVC Pipe Organ" width="700" />
+</p>
+
 > A leaf blower, some plumbing pipe, and an Arduino walk into a cathedral — and bring the house down.
 
 ## Ratings

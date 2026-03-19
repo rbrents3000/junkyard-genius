@@ -1,5 +1,9 @@
 # #240 — Garden Hose Didgeridoo
 
+<p align="center">
+  <img src="../../images/builds/240-garden-hose-didgeridoo.jpg" alt="Garden Hose Didgeridoo" width="700" />
+</p>
+
 > A coiled garden hose with a funnel bell and PVC mouthpiece. Longer hose means deeper drone. It sounds absolutely ridiculous and absolutely awesome at the same time.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #238 — Tin Can Banjo
 
+<p align="center">
+  <img src="../../images/builds/238-tin-can-banjo.jpg" alt="Tin Can Banjo" width="700" />
+</p>
+
 > A coffee can, a stick, and some strings — the most American instrument you can build for under five bucks.
 
 ## Ratings
