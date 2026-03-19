@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Peltier modules (thermoelectric coolers, TECs) are the solid-state devices inside those small wine coolers, mini-fridges, and portable car coolers that never worked very well. Pass DC current through a Peltier module and one side gets cold while the other side gets hot. No moving parts except the fans that dissipate the heat. The module itself is a thin ceramic square about 40mm on a side — two wires in, heat pumping out. They're terrible at large-scale refrigeration (which is why your dorm mini-fridge was always lukewarm), but they're perfect for a small, portable cooler that just needs to keep drinks cold and food below danger zone temps.
 
@@ -20,7 +18,8 @@ The twist here: power them with a solar panel. A 50-100W panel produces more tha
 
 Source the Peltier modules from dead mini-fridges and wine coolers — they show up at thrift stores and curbside all the time. The modules almost always survive even when the fridge itself is dead (usually the fan or thermostat failed, not the module). Heatsinks and fans come from dead desktop PCs. The solar panel is the only thing you'll probably need to buy new, and a 50W panel runs about $40.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Peltier modules — 2-4 units, TEC1-12706 or similar, salvaged from dead mini-fridges or wine coolers *(thrift stores, curbside, electronics supplier as backup, ~$5 each new)*
 - [ ] Solar panel — 50-100W, 12V output *(solar supplier, ~$40-$80)*
@@ -34,7 +33,9 @@ Source the Peltier modules from dead mini-fridges and wine coolers — they show
 - [ ] Wire — 14-16 AWG, for power runs from panel to controller to modules *(hardware store, ~$10)*
 - [ ] Mounting hardware — bolts, nuts, brackets, and gasket material for mounting modules into cooler wall *(hardware store, ~$5-$10)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Harvest the Peltier modules.** Open up dead mini-fridges and wine coolers by removing the back panel screws. The Peltier module is sandwiched between two heatsinks — one inside the cabinet (cold side) and one outside (hot side, usually with a fan). Unbolt the heatsinks and carefully separate the module. Clean off the old thermal paste with isopropyl alcohol. Test each module by connecting it to a 12V source and checking if one side gets cold within 10 seconds. Save the heatsinks and fans too — you'll use them.
 
@@ -54,14 +55,14 @@ Source the Peltier modules from dead mini-fridges and wine coolers — they show
 
 9. **Make it portable.** Bundle the solar panel, cooler, and battery into a kit. Coil the wiring with quick-disconnect connectors (Anderson Powerpoles or XT60 connectors) so setup at a campsite takes under five minutes. Strap the solar panel to the cooler lid for transport if you want a single-carry solution.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Peltier modules draw significant current — two TEC1-12706 modules pull about 10-12 amps total at 12V. Use appropriately sized wire (14 AWG minimum for the main power runs) and fuse the circuit. Undersized wire overheats.
 - The hot-side heatsinks get genuinely hot — 140°F+ in summer conditions. Don't touch them, and keep the hot side away from anything flammable. The fans must run whenever the modules are on. A module running without hot-side cooling can reach temperatures that damage itself and melt surrounding materials.
 - Sealed lead-acid batteries produce hydrogen gas when overcharging. The charge controller prevents this under normal operation, but don't defeat or bypass it. If using lithium batteries, use a lithium-compatible charge controller.
 - This cooler is good for keeping drinks cold and short-term food storage. It is not a replacement for a real refrigerator for long-term food safety. Use a thermometer and follow food safety guidelines — if the interior can't stay below 40°F consistently, treat it as a cooler for drinks only.
 
-## See Also
+## 🔗 See Also
 
 - [Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger.md)
 - [Solar Water Heater](051-solar-water-heater.md)

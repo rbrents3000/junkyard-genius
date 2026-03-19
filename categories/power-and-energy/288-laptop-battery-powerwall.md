@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A laptop battery pack is a plastic shell wrapped around 4-8 cylindrical 18650 lithium-ion cells wired in series and parallel. The pack usually dies because one cell degrades below the protection circuit's threshold, and the whole thing gets marked as dead. But the other cells? Still perfectly fine. Crack open 50 dead laptop batteries and you'll harvest 200-400 individual cells, most of them with 60-80% of their original capacity. That's not trash — that's a home energy storage system waiting to be assembled.
 
@@ -20,7 +18,8 @@ The concept is the same as the [DIY Powerwall](052-diy-powerwall.md), but this b
 
 The time investment is no joke. Testing cells is a bottleneck — a 4-bay tester processes about 16 cells per day. You're looking at weeks of testing before you even start building packs. But every cell you save is one that doesn't end up in a landfill, and the cost per kWh of storage is a fraction of buying new lithium-ion packs. If you've got patience and a steady supply of dead laptops, this is one of the most practical large-scale salvage builds you can do.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Dead laptop batteries — 50+ packs, yielding 200-400 individual 18650 cells *(IT departments, e-waste recyclers, laptop repair shops, universities — often free)*
 - [ ] 18650 cell holders — modular snap-together PCB-style holders for organizing cells into packs *(online electronics supplier, ~$0.15-$0.30 each)*
@@ -35,7 +34,9 @@ The time investment is no joke. Testing cells is a bottleneck — a 4-bay tester
 - [ ] Heavy gauge wire — 10-12 AWG for module interconnects and main bus *(electrical supplier, ~$15-$25)*
 - [ ] Enclosure — metal cabinet or plywood box with ventilation cutouts for the assembled modules *(hardware store, salvage, ~$20-$50)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Source the batteries.** Contact IT departments at schools, hospitals, and offices — they cycle through laptops every 3-5 years and the old battery packs go straight to recycling. E-waste recyclers often have bins of dead packs. Laptop repair shops pull dead batteries daily. Ask nicely, explain what you're building, and most places will happily hand them over for free. You need volume — target at least 50 packs to make the build worthwhile.
 
@@ -59,7 +60,7 @@ The time investment is no joke. Testing cells is a bottleneck — a 4-bay tester
 
 11. **Commission and monitor.** Charge the full system and verify the BMS on each module is balancing properly — check individual group voltages with a multimeter. Connect a test load (a lamp, a fan) and monitor voltage drop, current draw, and module temperatures. Run for at least a week with light loads before trusting it with anything critical. Check for hot spots with an IR thermometer or your hand — warmth is normal, hot means a problem.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Lithium-ion cells can vent, catch fire, or explode if shorted, overcharged, punctured, or physically crushed. You're building a system that stores kilowatt-hours of energy. Respect it. The BMS is not optional — it is the primary safety system. Never bypass it for any reason.
 - Test every single cell. A weak cell hiding in a parallel group gets reverse-charged by its neighbors, leading to thermal runaway. Matched capacity groups and per-cell fuses are your defense against this failure mode.
@@ -67,7 +68,7 @@ The time investment is no joke. Testing cells is a bottleneck — a 4-bay tester
 - Install a smoke detector directly above the powerwall. Keep a Class D fire extinguisher or a bucket of dry sand within arm's reach. Do not store flammable materials near the powerwall.
 - Dispose of dead and degraded cells properly — most hardware stores and battery retailers accept them for recycling. Do not throw lithium cells in the trash.
 
-## See Also
+## 🔗 See Also
 
 - [DIY Powerwall](052-diy-powerwall.md)
 - [Laptop Battery Power Bank](../computer-and-phone/067-laptop-battery-power-bank.md)

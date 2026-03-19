@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Every DC motor is also a generator. Spin the shaft and it produces voltage proportional to RPM. The problem: the RPM you can produce by hand-cranking is pathetically low compared to what a generator wants. Your arm turns a crank at maybe 60-90 RPM. A treadmill motor produces useful voltage at 1000+ RPM. That's where bicycle gears come in — a gear ratio of 10:1 or 15:1 converts your lazy hand-cranking into generator-appropriate speed, and the motor starts pushing out 12-20V of raw DC power.
 
@@ -20,7 +18,8 @@ Run that through a bridge rectifier to clean up the waveform, then through a buc
 
 The treadmill motor is the heart of this build — they're beefy permanent-magnet DC motors designed for continuous duty, and they show up on curbs and at thrift stores constantly because treadmills are the most abandoned piece of exercise equipment in human history. The bicycle gears and chain provide a proven, durable, low-friction drivetrain that handles the speed multiplication. The rest is just voltage regulation and a mounting base. You can build the whole thing in an afternoon from junkyard parts and have a reliable emergency power source that never runs out of fuel as long as you've got one working arm.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Treadmill motor / DC motor — permanent magnet type, salvaged from a dead treadmill *(curbside, thrift store, gym closeout — treadmills are everywhere)*
 - [ ] Bicycle gears and chain — a large sprocket (40-50 tooth) for the crank and a small sprocket (5-10 tooth) for the motor shaft, plus a matching chain *(dead bicycle, bike shop scrap bin)*
@@ -33,7 +32,9 @@ The treadmill motor is the heart of this build — they're beefy permanent-magne
 - [ ] Bearings — for the crank shaft if not using a bicycle bottom bracket *(hardware store, ~$5-$10)*
 - [ ] Bolts, brackets, and hardware — for mounting the motor, bearings, and sprockets to the base *(hardware store, ~$5-$10)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Extract the treadmill motor.** Remove the motor from the dead treadmill — it's usually bolted to the front roller assembly under the deck. Cut the wires leaving plenty of length. The motor will have two heavy leads (main power) and possibly two thinner leads (speed sensor — ignore these). Test the motor by spinning the shaft by hand while measuring voltage across the main leads with a multimeter. Even a slow hand spin should produce a few volts. If it produces nothing, the permanent magnets may be demagnetized — find a different motor.
 
@@ -53,14 +54,14 @@ The treadmill motor is the heart of this build — they're beefy permanent-magne
 
 9. **Secure and finish.** Bolt or screw all components firmly to the base. Route wires neatly and secure them with cable ties away from the chain and sprockets. Add rubber feet to the base so it doesn't walk across the table while cranking. Label the USB port. Sand any rough plywood edges. You want this to feel like a tool, not a prototype — it might actually save you someday.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Keep fingers, hair, and loose clothing away from the chain and sprockets. The gear ratio means the motor-side sprocket spins fast — a finger caught between chain and sprocket at 1000 RPM will be very unhappy. Consider adding a chain guard fabricated from sheet metal or a plastic enclosure around the drive train.
 - The motor can produce voltages well above 5V at the raw output — potentially 30V+ if you crank very fast with no load. The buck converter handles this, but don't touch the raw output terminals while cranking. If you add a battery charging circuit later, include overvoltage protection.
 - Treadmill motors are heavy — 10-20 pounds. Mount them securely with proper bolts (not screws) into a base that won't tip. The torque from cranking can walk an unsecured unit right off a table.
 - If you later decide to scale this up with a flywheel for energy storage, the flywheel becomes a serious safety concern at speed. That's a different build — don't bolt a heavy spinning mass to this without proper engineering.
 
-## See Also
+## 🔗 See Also
 
 - [Bicycle Generator](050-bicycle-generator.md)
 - [Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger.md)

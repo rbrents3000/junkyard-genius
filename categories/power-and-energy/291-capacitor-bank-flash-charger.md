@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A capacitor stores energy in an electric field. Unlike a battery, which releases energy slowly through a chemical reaction, a capacitor can dump its entire charge in a fraction of a second. A single large electrolytic capacitor from a dead power supply or amplifier can store enough energy to create a loud bang and a bright flash. Wire a bunch of them together in a bank, and you've got a device that charges slowly from a low-power source and discharges fast enough to spot-weld metal, power an electromagnetic coil gun, fire a bank of camera flashes simultaneously, or do things to watermelons that you probably shouldn't describe in writing.
 
@@ -20,7 +18,8 @@ The physics are straightforward: energy stored equals one-half times capacitance
 
 This is a building block more than a finished product. The capacitor bank itself is a general-purpose energy storage and rapid-discharge device. What you do with it determines whether the build is useful, entertaining, or terrifying. At minimum, you'll learn a lot about energy storage, discharge curves, and electrical safety. At maximum, you'll have the power source for a dozen other electromagnetic experiments.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Electrolytic capacitors — salvaged from dead power supplies, CRT monitors, amplifiers, UPS units, and industrial equipment. Match voltage ratings within the bank — never mix ratings. Higher voltage = more energy per farad *(e-waste, ~free)*
 - [ ] Bus bars — copper strip or heavy copper wire for connecting capacitors in parallel *(electrical supplier, hardware store, ~$10-$15)*
@@ -34,7 +33,9 @@ This is a building block more than a finished product. The capacitor bank itself
 - [ ] Safety enclosure — insulating box (plastic or wood, NOT metal) with a lid and clearly labeled HIGH VOLTAGE warnings *(hardware store, ~$10-$20)*
 - [ ] Power supply — bench supply or battery charger for charging the bank, voltage must match or exceed the capacitor rating *(workshop, electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Harvest the capacitors.** Open dead power supplies, amplifiers, CRT monitors, and UPS units. The electrolytic capacitors are the large cylindrical cans — you can't miss them. Before removing anything, discharge each capacitor by touching a resistor (100 ohm, 5W or higher) across its terminals. Hold for 10 seconds, then verify zero voltage with a multimeter. Never assume a capacitor is discharged. CRT capacitors and microwave oven capacitors can hold lethal charges for days after the device is unplugged. Remove the capacitors by desoldering or cutting leads with enough length to work with.
 
@@ -58,7 +59,7 @@ This is a building block more than a finished product. The capacitor bank itself
 
 11. **Calibrate for your application.** A spot welder needs a specific energy level — too little and the weld won't hold, too much and it blows holes. A coil gun needs a specific pulse duration. Camera flash arrays need a specific voltage. Experiment with charge voltage and load resistance to dial in the discharge energy for your specific use case. Keep a log of what works — capacitor bank tuning is empirical.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - A charged capacitor bank can kill you. At 450V and 3300uF, this bank stores 334 joules — roughly the energy of a .22 caliber bullet. The discharge happens in milliseconds, meaning peak current can reach thousands of amps. Treat a charged capacitor bank exactly like a loaded weapon: never point the output at anything you don't intend to destroy, and never work on the internals while charged.
 - Always discharge the bank before opening the enclosure or touching any wiring. Use the dump resistor: clip it across the output terminals with insulated test leads and wait for the voltmeter to read zero. Then wait another 30 seconds. Then verify zero with a multimeter. Then you can touch it.
@@ -67,7 +68,7 @@ This is a building block more than a finished product. The capacitor bank itself
 - Do not charge the bank beyond the rated voltage of any capacitor in the bank. The weakest capacitor sets the limit.
 - Keep one hand in your pocket when working near charged high-voltage circuits. A current path across the chest (hand to hand) is far more dangerous than hand to ground.
 
-## See Also
+## 🔗 See Also
 
 - [DIY Powerwall](052-diy-powerwall.md)
 - [Rail Gun](../mad-scientist/036-rail-gun.md)
