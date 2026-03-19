@@ -65,3 +65,6 @@ Building one from scratch is the hardest project in this entire collection. You 
 
 - [Kirlian Photography](196-kirlian-photography.md) — another project that reveals invisible electromagnetic phenomena visually
 - [Van de Graaff Generator](197-van-de-graaff-generator.md) — high-voltage electrostatics on a more accessible scale
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

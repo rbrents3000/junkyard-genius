@@ -66,3 +66,7 @@ Seal ferrofluid in a flat, transparent chamber and you've got a permanent, mess-
 
 - [Homopolar Motor](198-homopolar-motor.md) — magnetic fields put to work spinning copper wire
 - [Lenz's Law Slow-Mo Magnet](199-lenzs-law-slow-mo-magnet.md) — invisible magnetic fields made visible through their braking force on falling magnets
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

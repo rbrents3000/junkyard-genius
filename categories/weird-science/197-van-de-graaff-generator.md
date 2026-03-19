@@ -63,3 +63,7 @@ Robert Van de Graaff built the first one in 1929 for nuclear physics research. T
 
 - [Kirlian Photography](196-kirlian-photography.md) — another high-voltage electrostatics project with visual results
 - [Homopolar Motor](198-homopolar-motor.md) — electromagnetism at the other extreme — low voltage, high current
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
