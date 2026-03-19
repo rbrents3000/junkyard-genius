@@ -14,8 +14,8 @@
 <meta name="twitter:title" content="Browse All Builds — Junkyard Genius">
 <meta name="twitter:description" content="335 DIY builds from salvaged junk. Search, filter, and sort to find your next project.">
 <meta name="twitter:image" content="https://rbrents3000.github.io/junkyard-genius/images/og-social.jpg">
-<link rel="icon" type="image/png" href="../favicon.png">
-<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="icon" type="image/png" href="../images/favicon.png">
+<link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -188,6 +188,47 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
 .rating-val.clout{color:var(--purple)}
 .rating-val.time{color:var(--text-muted)}
 
+/* ── Random button ── */
+.random-btn{
+  padding:10px 20px;border-radius:var(--radius-sm);border:none;
+  background:linear-gradient(135deg,var(--orange),#e04d18);color:#fff;
+  font-family:inherit;font-size:0.85rem;font-weight:700;cursor:pointer;
+  transition:all 0.2s;white-space:nowrap;
+}
+.random-btn:hover{transform:translateY(-1px);box-shadow:0 4px 16px rgba(255,107,53,0.3)}
+
+/* ── Build of the Day ── */
+.botd-card{
+  background:linear-gradient(135deg,rgba(255,107,53,0.06),rgba(148,102,255,0.06));
+  border:1.5px solid var(--orange);border-radius:var(--radius);
+  padding:4px 4px 4px 20px;margin-bottom:20px;
+  display:flex;align-items:center;gap:16px;
+}
+.botd-card .build-card{border:none;background:transparent;flex:1}
+.botd-label{
+  font-size:0.72rem;font-weight:700;color:var(--orange);
+  text-transform:uppercase;letter-spacing:0.08em;
+  writing-mode:vertical-lr;transform:rotate(180deg);
+}
+
+/* ── Tracker badges on cards ── */
+.card-badge{
+  font-size:0.65rem;font-weight:700;padding:2px 8px;border-radius:10px;
+  margin-left:auto;white-space:nowrap;
+}
+.card-badge.completed{color:var(--green);background:rgba(61,214,140,0.1);border:1px solid rgba(61,214,140,0.3)}
+.card-badge.want{color:var(--orange);background:var(--orange-glow);border:1px solid rgba(255,107,53,0.3)}
+
+/* ── My Builds filter ── */
+.filter-toggle{
+  padding:8px 16px;border-radius:var(--radius-sm);
+  border:1.5px solid var(--border);background:var(--card);
+  color:var(--text-dim);font-family:inherit;font-size:0.85rem;font-weight:600;
+  cursor:pointer;transition:all 0.2s;white-space:nowrap;
+}
+.filter-toggle.active{border-color:var(--green);color:var(--green);background:rgba(61,214,140,0.08)}
+.filter-toggle:hover{border-color:var(--border-hover)}
+
 /* ── No results ── */
 .no-results{
   text-align:center;padding:80px 20px;
@@ -221,12 +262,16 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
     <div class="header-links">
       <a href="../">Home</a>
       <a href="../quiz/">Quiz</a>
+      <a href="../toolbox/">Toolbox</a>
       <a href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">GitHub</a>
     </div>
   </div>
 </div>
 
 <div class="container">
+  <!-- Build of the Day -->
+  <div class="botd-card" id="botdCard"></div>
+
   <!-- Filters -->
   <div class="filters">
     <input type="text" class="search-box" id="searchBox" placeholder="Search builds..." aria-label="Search builds by name">
@@ -246,6 +291,8 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
       <input type="range" id="spicyMax" min="1" max="5" value="5">
       <span class="slider-val" id="spicyVal">5</span>
     </div>
+    <button class="filter-toggle" id="myBuildsFilter">&#9745; My Builds</button>
+    <button class="random-btn" id="randomBtn">&#127922; Feeling Lucky?</button>
   </div>
 
   <!-- Sort bar -->
@@ -281,6 +328,13 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
 <script src="../quiz/build-data.js"></script>
 <script>
 (function(){
+  // Random redirect check (before anything renders)
+  if (window.location.search.indexOf("random=1") !== -1) {
+    var idx = Math.floor(Math.random() * BUILDS.length);
+    window.location.replace("https://rbrents3000.github.io/junkyard-genius/categories/" + BUILDS[idx].category + "/" + BUILDS[idx].slug);
+    return;
+  }
+
   var searchBox = document.getElementById("searchBox");
   var categoryFilter = document.getElementById("categoryFilter");
   var junkFilter = document.getElementById("junkFilter");
@@ -292,9 +346,27 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
   var resultCount = document.getElementById("resultCount");
   var noResults = document.getElementById("noResults");
   var sortPills = document.querySelectorAll(".sort-pill");
+  var myBuildsBtn = document.getElementById("myBuildsFilter");
+  var randomBtn = document.getElementById("randomBtn");
 
   var currentSort = "num";
   var sortAsc = true;
+  var showMyBuilds = false;
+
+  // localStorage helpers
+  function getList(key) {
+    try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { return []; }
+  }
+  var completed = getList("jg-completed");
+  var wantToBuild = getList("jg-wantToBuild");
+
+  // Build of the Day
+  function getBuildOfTheDay() {
+    var d = new Date(), s = d.getFullYear() + "-" + (d.getMonth()+1) + "-" + d.getDate();
+    var h = 0;
+    for (var i = 0; i < s.length; i++) h = ((h << 5) - h) + s.charCodeAt(i) | 0;
+    return BUILDS[Math.abs(h) % BUILDS.length];
+  }
 
   // Populate category dropdown
   var cats = [];
@@ -339,10 +411,15 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
   }
 
   function renderCard(build){
+    var badge = '';
+    if (completed.indexOf(build.num) !== -1) badge = '<span class="card-badge completed">&#10003; Done</span>';
+    else if (wantToBuild.indexOf(build.num) !== -1) badge = '<span class="card-badge want">&#128204; Want</span>';
+
     return '<a class="build-card" href="' + buildUrl(build) + '">'
       + '<div class="card-top">'
       + '<span class="card-num">#' + build.num + '</span>'
       + '<span class="card-name">' + build.name + '</span>'
+      + badge
       + '</div>'
       + '<span class="card-category">' + build.categoryName + '</span>'
       + '<div class="card-ratings">'
@@ -369,6 +446,7 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
       if(junk && b.junk.indexOf(junk) === -1) return false;
       if(b.brain > maxBrain) return false;
       if(b.spicy > maxSpicy) return false;
+      if(showMyBuilds && completed.indexOf(b.num) === -1 && wantToBuild.indexOf(b.num) === -1) return false;
       return true;
     });
   }
@@ -435,6 +513,24 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
       render();
     });
   });
+
+  // Random build button
+  randomBtn.addEventListener("click", function(){
+    var idx = Math.floor(Math.random() * BUILDS.length);
+    window.location.href = buildUrl(BUILDS[idx]);
+  });
+
+  // My Builds filter
+  myBuildsBtn.addEventListener("click", function(){
+    showMyBuilds = !showMyBuilds;
+    this.classList.toggle("active", showMyBuilds);
+    render();
+  });
+
+  // Build of the Day
+  var botd = getBuildOfTheDay();
+  var botdCard = document.getElementById("botdCard");
+  botdCard.innerHTML = '<span class="botd-label">&#9734; Build of the Day</span>' + renderCard(botd);
 
   // Initial render
   render();

@@ -25,6 +25,10 @@ Every build is rated on 6 scales, includes sourced ingredients, step-by-step ins
   <a href="https://rbrents3000.github.io/junkyard-genius/quiz/"><strong>🎯 Take the Build Finder Quiz</strong></a> — answer 6 questions, get personalized recommendations
 
   <a href="https://rbrents3000.github.io/junkyard-genius/browse/"><strong>🔍 Browse All Builds</strong></a> — search, filter, and sort every project
+
+  <a href="https://rbrents3000.github.io/junkyard-genius/browse/?random=1"><strong>🎲 Feeling Lucky?</strong></a> — jump to a random build
+
+  <a href="https://rbrents3000.github.io/junkyard-genius/toolbox/"><strong>🧰 My Toolbox</strong></a> — track your completed and want-to-build projects
   <br><br>
 </p>
 
@@ -32,7 +36,9 @@ Every build is rated on 6 scales, includes sourced ingredients, step-by-step ins
 
 ## Start Here
 
-Pick your comfort level and dive in.
+> **Not sure where to start?** Build [#042 — Grape Plasma](categories/mad-scientist/042-grape-plasma.md). It takes 5 minutes, costs nothing, and you'll see actual plasma in your microwave. That's it. That's the hook.
+
+Pick your comfort level and dive in. Each tier prepares you for the next.
 
 | | | |
 |---|---|---|
@@ -54,6 +60,10 @@ Pick your comfort level and dive in.
 | [#240 — Garden Hose Didgeridoo](categories/junk-instruments/240-garden-hose-didgeridoo.md) | Junk Instruments | ⭐⭐⭐ | ⭐ |
 | [#253 — Rocket Stove](categories/survival-off-grid/253-rocket-stove.md) | Survival | ⭐⭐⭐ | ⭐ |
 
+---
+
+**Ready for Tinkerer?** If you've done Grape Plasma and Homopolar Motor, you understand basic electrical circuits and chemical reactions. Time to start taking things apart.
+
 ### Tinkerer — Brain Melt ⭐⭐
 
 *You own a screwdriver and you're not afraid to void a warranty.*
@@ -65,6 +75,10 @@ Pick your comfort level and dive in.
 | [#256 — Piezo Shock Pen](categories/pranks-and-party/256-shock-pen.md) | Pranks & Party | ⭐⭐⭐ | ⭐ |
 | [#107 — Bismuth Crystal Garden](categories/pyro-and-chemistry/107-bismuth-crystal-garden.md) | Pyro & Chemistry | ⭐⭐⭐⭐ | ⭐ |
 | [#235 — Cigar Box Guitar](categories/junk-instruments/235-cigar-box-guitar.md) | Junk Instruments | ⭐⭐⭐⭐ | ⭐⭐ |
+
+---
+
+**Ready for Builder?** You can identify components inside a dead appliance and you've made something that actually works. Time for the soldering iron.
 
 ### Builder — Brain Melt ⭐⭐⭐
 
@@ -78,6 +92,10 @@ Pick your comfort level and dive in.
 | [#104 — Cold Spark Machine](categories/pyro-and-chemistry/104-cold-spark-machine.md) | Pyro & Chemistry | ⭐⭐⭐⭐⭐ | ⭐⭐ |
 | [#242 — Sound-Reactive LED Jacket](categories/wearable-tech/242-led-jacket.md) | Wearable Tech | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 
+---
+
+**Ready for Hacker?** You can solder clean joints, read circuit diagrams, and you've salvaged your first MOT. Time to combine skills.
+
 ### Hacker — Brain Melt ⭐⭐⭐⭐
 
 *You've bricked at least one Arduino. You own a multimeter and you actually use it.*
@@ -90,6 +108,10 @@ Pick your comfort level and dive in.
 | [#266 — Galvo Laser Light Show](categories/laser-lab/266-laser-galvo-show.md) | Laser Lab | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 | [#046 — Ferrofluid Mirror](categories/art-and-installation/046-ferrofluid-mirror.md) | Art & Installation | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 
+---
+
+**Ready for Mad Scientist?** You've built something that scared your neighbors. You understand high-voltage safety. Welcome to the deep end.
+
 ### Mad Scientist — Brain Melt ⭐⭐⭐⭐⭐
 
 *You know what a flyback transformer is. You have opinions about capacitor brands. Welcome home.*
@@ -101,6 +123,8 @@ Pick your comfort level and dive in.
 | [#200 — DIY Electron Microscope](categories/weird-science/200-diy-electron-microscope.md) | Weird Science | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | [#036 — Rail Gun](categories/mad-scientist/036-rail-gun.md) | Mad Scientist | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | [#302 — Giant Outdoor Tesla Coil](categories/big-builds/302-giant-outdoor-tesla-coil.md) | Big Builds | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+
+> **Want structured learning paths?** Check out the [Skill Trees](reference/skill-trees.md) for step-by-step progression through Electrical, Pyro, Coding, Mechanical, Chemical, Optical, and Woodworking domains.
 
 ---
 
@@ -326,7 +350,7 @@ Find builds based on what you already have lying around. One person's e-waste is
 
 Got a build idea? Found a mistake? Want to add safety info?
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the template, rating system, and submission process.
+See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for the template, rating system, and submission process.
 
 We're especially looking for:
 - Builds from parts we haven't covered yet

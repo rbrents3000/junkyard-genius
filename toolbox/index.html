@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Toolbox — Junkyard Genius</title>
+<meta name="description" content="Track your completed builds and want-to-build list. Your personal Junkyard Genius dashboard.">
+<meta property="og:title" content="My Toolbox — Junkyard Genius">
+<meta property="og:description" content="Track your completed builds and want-to-build list.">
+<meta property="og:type" content="website">
+<link rel="icon" type="image/png" href="../images/favicon.png">
+<link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0a0a0f;--bg-subtle:#0f1016;
+  --card:#13141c;--card-hover:#191a24;
+  --border:#1e2030;--border-hover:#2a2d42;
+  --text:#eaedf3;--text-dim:#7a7f93;--text-muted:#44475a;
+  --orange:#ff6b35;--orange-glow:rgba(255,107,53,0.12);
+  --blue:#5b9cf6;--red:#f06060;--purple:#9466ff;--green:#3dd68c;
+  --yellow:#f0c040;
+  --radius:16px;--radius-sm:10px;--radius-xs:6px;
+}
+html{font-size:16px}
+body{
+  background:var(--bg);color:var(--text);
+  font-family:'Inter',system-ui,-apple-system,sans-serif;
+  line-height:1.6;min-height:100vh;
+}
+body::before{
+  content:'';position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% -20%,rgba(255,107,53,0.06),transparent),
+    radial-gradient(ellipse 60% 40% at 80% 90%,rgba(148,102,255,0.04),transparent);
+}
+a{color:var(--orange);text-decoration:none}
+a:hover{text-decoration:underline}
+
+.header{
+  position:sticky;top:0;z-index:100;
+  background:rgba(10,10,15,0.92);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
+  border-bottom:1px solid var(--border);padding:16px 24px;
+}
+.header-inner{
+  max-width:1100px;margin:0 auto;
+  display:flex;align-items:center;justify-content:space-between;gap:16px;
+}
+.header h1{font-size:1.2rem;font-weight:800;letter-spacing:-0.02em}
+.header h1 .grad{
+  background:linear-gradient(135deg,var(--orange),var(--purple));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+.header-links{display:flex;gap:16px;font-size:0.8rem;font-weight:600}
+.header-links a{color:var(--text-dim)}
+.header-links a:hover{color:var(--orange);text-decoration:none}
+
+.container{position:relative;z-index:1;max-width:1100px;margin:0 auto;padding:24px}
+
+/* Stats */
+.stats{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
+  gap:12px;margin-bottom:24px;
+}
+.stat-card{
+  background:var(--card);border:1px solid var(--border);border-radius:var(--radius-sm);
+  padding:20px;text-align:center;
+}
+.stat-num{font-size:2rem;font-weight:800;letter-spacing:-0.02em;line-height:1}
+.stat-num.green{color:var(--green)}
+.stat-num.orange{color:var(--orange)}
+.stat-num.blue{color:var(--blue)}
+.stat-num.purple{color:var(--purple)}
+.stat-label{font-size:0.75rem;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.06em;margin-top:6px}
+
+/* Tabs */
+.tabs{display:flex;gap:4px;margin-bottom:20px}
+.tab{
+  padding:10px 20px;border-radius:var(--radius-sm) var(--radius-sm) 0 0;
+  border:1px solid var(--border);border-bottom:none;
+  background:var(--bg-subtle);color:var(--text-dim);
+  font-family:inherit;font-size:0.85rem;font-weight:600;cursor:pointer;
+  transition:all 0.2s;
+}
+.tab.active{background:var(--card);color:var(--green);border-color:var(--green)}
+.tab.want.active{color:var(--orange);border-color:var(--orange)}
+.tab .count{
+  font-size:0.7rem;background:var(--border);padding:2px 8px;border-radius:10px;
+  margin-left:6px;
+}
+.tab.active .count{background:rgba(61,214,140,0.15)}
+.tab.want.active .count{background:var(--orange-glow)}
+
+/* Grid */
+.build-grid{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px;
+}
+.build-card{
+  background:var(--card);border:1px solid var(--border);border-radius:var(--radius);
+  padding:20px 24px;transition:all 0.2s;cursor:pointer;text-decoration:none;display:block;color:inherit;
+  position:relative;
+}
+.build-card:hover{border-color:var(--border-hover);transform:translateY(-2px);box-shadow:0 8px 32px rgba(0,0,0,0.25);text-decoration:none}
+.card-top{display:flex;align-items:center;gap:12px;margin-bottom:10px}
+.card-num{font-size:0.75rem;font-weight:800;color:var(--orange);background:var(--orange-glow);padding:4px 10px;border-radius:var(--radius-xs)}
+.card-name{font-size:1rem;font-weight:700;flex:1;line-height:1.3}
+.card-category{display:inline-block;background:var(--bg);border:1px solid var(--border);border-radius:20px;padding:3px 12px;font-size:0.68rem;font-weight:600;color:var(--text-dim);margin-bottom:12px}
+.card-ratings{display:grid;grid-template-columns:repeat(3,1fr);gap:6px 14px}
+.rating-item{display:flex;align-items:center;gap:6px}
+.rating-label{font-size:0.65rem;font-weight:600;color:var(--text-muted);width:34px;text-transform:uppercase;letter-spacing:0.04em}
+.rating-bar{flex:1;height:5px;border-radius:3px;background:var(--border);overflow:hidden}
+.rating-bar-fill{height:100%;border-radius:3px}
+.rating-bar-fill.jaw{background:var(--orange)}
+.rating-bar-fill.brain{background:var(--blue)}
+.rating-bar-fill.wallet{background:var(--green)}
+.rating-bar-fill.spicy{background:var(--red)}
+.rating-bar-fill.clout{background:var(--purple)}
+.rating-bar-fill.time{background:var(--text-muted)}
+.rating-val{font-size:0.65rem;font-weight:600;width:12px;text-align:right}
+.rating-val.jaw{color:var(--orange)}.rating-val.brain{color:var(--blue)}
+.rating-val.wallet{color:var(--green)}.rating-val.spicy{color:var(--red)}
+.rating-val.clout{color:var(--purple)}.rating-val.time{color:var(--text-muted)}
+
+.remove-btn{
+  position:absolute;top:12px;right:12px;
+  background:var(--bg);border:1px solid var(--border);border-radius:var(--radius-xs);
+  color:var(--text-muted);font-size:0.7rem;padding:4px 10px;cursor:pointer;
+  transition:all 0.2s;font-family:inherit;font-weight:600;
+}
+.remove-btn:hover{border-color:var(--red);color:var(--red);background:rgba(240,96,96,0.08)}
+
+/* Empty state */
+.empty{text-align:center;padding:80px 20px}
+.empty .icon{font-size:3rem;margin-bottom:16px}
+.empty h3{font-size:1.3rem;font-weight:700;margin-bottom:8px}
+.empty p{color:var(--text-dim);font-size:0.95rem;margin-bottom:20px}
+.empty a.cta{
+  display:inline-block;padding:12px 24px;border-radius:var(--radius-sm);
+  background:linear-gradient(135deg,var(--orange),#e04d18);color:#fff;
+  font-weight:700;font-size:0.95rem;text-decoration:none;
+}
+.empty a.cta:hover{transform:translateY(-1px);box-shadow:0 4px 16px rgba(255,107,53,0.3);text-decoration:none}
+
+.footer{text-align:center;padding:40px 0 24px;font-size:0.75rem;color:var(--text-muted)}
+
+@media(max-width:600px){
+  .header-inner{flex-direction:column;gap:8px}
+  .stats{grid-template-columns:repeat(2,1fr)}
+  .build-grid{grid-template-columns:1fr}
+  .card-ratings{grid-template-columns:repeat(2,1fr)}
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-inner">
+    <h1>&#129520; <span class="grad">My Toolbox</span></h1>
+    <div class="header-links">
+      <a href="../">Home</a>
+      <a href="../browse/">Browse</a>
+      <a href="../quiz/">Quiz</a>
+      <a href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="stats" id="stats"></div>
+  <div class="tabs" id="tabs">
+    <button class="tab active" data-tab="completed">&#9745; Completed <span class="count" id="completedCount">0</span></button>
+    <button class="tab want" data-tab="want">&#128204; Want to Build <span class="count" id="wantCount">0</span></button>
+  </div>
+  <div class="build-grid" id="buildGrid"></div>
+  <div class="empty" id="emptyState" style="display:none">
+    <div class="icon">&#128736;</div>
+    <h3 id="emptyTitle">No builds tracked yet</h3>
+    <p id="emptyText">Mark builds as completed or "want to build" from any build page.</p>
+    <a class="cta" href="../browse/">Browse All Builds</a>
+  </div>
+  <div class="footer">
+    <a href="../">Junkyard Genius</a> &mdash; 335 builds &middot; 33 categories &middot; zero excuses
+  </div>
+</div>
+
+<script src="../quiz/build-data.js"></script>
+<script>
+(function(){
+  var activeTab = "completed";
+
+  function getList(key) {
+    try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { return []; }
+  }
+  function setList(key, arr) { localStorage.setItem(key, JSON.stringify(arr)); }
+
+  function getBuildsForList(key) {
+    var nums = getList(key);
+    return BUILDS.filter(function(b) { return nums.indexOf(b.num) !== -1; });
+  }
+
+  function buildUrl(build) {
+    return "https://rbrents3000.github.io/junkyard-genius/categories/" + build.category + "/" + build.slug;
+  }
+
+  function ratingBar(label, value, cls) {
+    var pct = (value / 5) * 100;
+    return '<div class="rating-item">'
+      + '<span class="rating-label">' + label + '</span>'
+      + '<div class="rating-bar"><div class="rating-bar-fill ' + cls + '" style="width:' + pct + '%"></div></div>'
+      + '<span class="rating-val ' + cls + '">' + value + '</span>'
+      + '</div>';
+  }
+
+  function renderCard(build, listKey) {
+    return '<div class="build-card" style="cursor:default">'
+      + '<button class="remove-btn" data-num="' + build.num + '" data-key="' + listKey + '">&#10005; Remove</button>'
+      + '<a href="' + buildUrl(build) + '" style="text-decoration:none;color:inherit">'
+      + '<div class="card-top">'
+      + '<span class="card-num">#' + build.num + '</span>'
+      + '<span class="card-name">' + build.name + '</span>'
+      + '</div>'
+      + '<span class="card-category">' + build.categoryName + '</span>'
+      + '<div class="card-ratings">'
+      + ratingBar("Jaw", build.jaw, "jaw")
+      + ratingBar("Brain", build.brain, "brain")
+      + ratingBar("Wallet", build.wallet, "wallet")
+      + ratingBar("Spicy", build.spicy, "spicy")
+      + ratingBar("Clout", build.clout, "clout")
+      + ratingBar("Time", build.time, "time")
+      + '</div>'
+      + '</a></div>';
+  }
+
+  function renderStats() {
+    var completed = getBuildsForList("jg-completed");
+    var want = getBuildsForList("jg-wantToBuild");
+
+    // Categories covered
+    var catSet = {};
+    completed.forEach(function(b) { catSet[b.category] = true; });
+    var catCount = Object.keys(catSet).length;
+
+    // Avg difficulty
+    var avgBrain = 0;
+    if (completed.length) {
+      var total = 0;
+      completed.forEach(function(b) { total += b.brain; });
+      avgBrain = (total / completed.length).toFixed(1);
+    }
+
+    document.getElementById("stats").innerHTML =
+      '<div class="stat-card"><div class="stat-num green">' + completed.length + '</div><div class="stat-label">Completed</div></div>'
+      + '<div class="stat-card"><div class="stat-num orange">' + want.length + '</div><div class="stat-label">Want to Build</div></div>'
+      + '<div class="stat-card"><div class="stat-num blue">' + catCount + '</div><div class="stat-label">Categories Covered</div></div>'
+      + '<div class="stat-card"><div class="stat-num purple">' + avgBrain + '</div><div class="stat-label">Avg Difficulty</div></div>';
+
+    document.getElementById("completedCount").textContent = completed.length;
+    document.getElementById("wantCount").textContent = want.length;
+  }
+
+  function render() {
+    var key = activeTab === "completed" ? "jg-completed" : "jg-wantToBuild";
+    var builds = getBuildsForList(key);
+    var grid = document.getElementById("buildGrid");
+    var empty = document.getElementById("emptyState");
+
+    renderStats();
+
+    if (builds.length === 0) {
+      grid.innerHTML = "";
+      empty.style.display = "block";
+      document.getElementById("emptyTitle").textContent = activeTab === "completed"
+        ? "No completed builds yet" : "No builds on your list yet";
+      document.getElementById("emptyText").textContent = activeTab === "completed"
+        ? "Mark builds as completed from any build page to track your progress."
+        : "Add builds to your want-to-build list from any build page.";
+    } else {
+      empty.style.display = "none";
+      var html = "";
+      builds.forEach(function(b) { html += renderCard(b, key); });
+      grid.innerHTML = html;
+
+      // Add remove button listeners
+      grid.querySelectorAll(".remove-btn").forEach(function(btn) {
+        btn.addEventListener("click", function(e) {
+          e.stopPropagation();
+          var num = parseInt(this.getAttribute("data-num"));
+          var k = this.getAttribute("data-key");
+          var list = getList(k);
+          var idx = list.indexOf(num);
+          if (idx !== -1) { list.splice(idx, 1); setList(k, list); }
+          render();
+        });
+      });
+    }
+  }
+
+  // Tab switching
+  document.querySelectorAll(".tab").forEach(function(tab) {
+    tab.addEventListener("click", function() {
+      activeTab = this.getAttribute("data-tab");
+      document.querySelectorAll(".tab").forEach(function(t) { t.classList.remove("active"); });
+      this.classList.add("active");
+      render();
+    });
+  });
+
+  render();
+})();
+</script>
+</body>
+</html>

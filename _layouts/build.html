@@ -10,6 +10,67 @@ layout: default
 
 {{ content }}
 
+<div class="build-tracker" id="buildTracker">
+  <button class="tracker-btn" id="completedBtn">&#9744; Mark as Completed</button>
+  <button class="tracker-btn tracker-btn-want" id="wantBtn">&#128204; Want to Build</button>
+</div>
+
+<div class="share-buttons" id="shareButtons">
+  <span class="share-label">Share this build:</span>
+  <button class="share-btn" id="copyLinkBtn" aria-label="Copy link">&#128279; Copy Link</button>
+  <a class="share-btn" id="shareTwitter" href="#" target="_blank" rel="noopener" aria-label="Share on X">&#120143; Post</a>
+  <a class="share-btn" id="shareReddit" href="#" target="_blank" rel="noopener" aria-label="Share on Reddit">&#128172; Reddit</a>
+</div>
+
+<script>
+(function(){
+  var buildNum = {{ page.build_number }};
+
+  // Tracker
+  function getList(key) {
+    try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { return []; }
+  }
+  function setList(key, arr) { localStorage.setItem(key, JSON.stringify(arr)); }
+  function toggle(key, num) {
+    var list = getList(key);
+    var idx = list.indexOf(num);
+    if (idx === -1) list.push(num); else list.splice(idx, 1);
+    setList(key, list);
+    return idx === -1;
+  }
+  function updateUI() {
+    var c = getList("jg-completed"), w = getList("jg-wantToBuild");
+    var cBtn = document.getElementById("completedBtn"), wBtn = document.getElementById("wantBtn");
+    if (c.indexOf(buildNum) !== -1) {
+      cBtn.innerHTML = "&#9745; Completed!"; cBtn.classList.add("active");
+    } else {
+      cBtn.innerHTML = "&#9744; Mark as Completed"; cBtn.classList.remove("active");
+    }
+    if (w.indexOf(buildNum) !== -1) {
+      wBtn.innerHTML = "&#128204; On My List!"; wBtn.classList.add("active");
+    } else {
+      wBtn.innerHTML = "&#128204; Want to Build"; wBtn.classList.remove("active");
+    }
+  }
+  document.getElementById("completedBtn").addEventListener("click", function(){ toggle("jg-completed", buildNum); updateUI(); });
+  document.getElementById("wantBtn").addEventListener("click", function(){ toggle("jg-wantToBuild", buildNum); updateUI(); });
+  updateUI();
+
+  // Share buttons
+  var url = window.location.href;
+  var text = "#{{ page.build_number }} {{ page.title }} — Junkyard Genius";
+  document.getElementById("shareTwitter").href = "https://x.com/intent/tweet?text=" + encodeURIComponent(text) + "&url=" + encodeURIComponent(url);
+  document.getElementById("shareReddit").href = "https://reddit.com/submit?url=" + encodeURIComponent(url) + "&title=" + encodeURIComponent(text);
+  document.getElementById("copyLinkBtn").addEventListener("click", function(){
+    var btn = this;
+    navigator.clipboard.writeText(url).then(function(){
+      btn.textContent = "\u2713 Copied!";
+      setTimeout(function(){ btn.innerHTML = "&#128279; Copy Link"; }, 2000);
+    });
+  });
+})();
+</script>
+
 {% assign cat_builds = site.pages | where: "layout", "build" | where: "category", page.category | sort: "build_number" %}
 {% assign prev_build = nil %}
 {% assign next_build = nil %}

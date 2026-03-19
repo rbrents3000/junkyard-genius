@@ -14,8 +14,8 @@
 <meta name="twitter:title" content="Junkyard Genius Build Finder Quiz">
 <meta name="twitter:description" content="335 DIY builds from salvaged junk. Take the quiz to find your perfect project.">
 <meta name="twitter:image" content="https://rbrents3000.github.io/junkyard-genius/images/og-quiz.jpg">
-<link rel="icon" type="image/png" href="../favicon.png">
-<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="icon" type="image/png" href="../images/favicon.png">
+<link rel="apple-touch-icon" href="../images/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -211,6 +211,11 @@ body::before{
   display:flex;justify-content:space-between;align-items:center;
   margin-top:32px;gap:12px;
 }
+.shortcut-legend{
+  text-align:center;font-size:0.72rem;color:var(--text-muted);
+  margin-top:16px;letter-spacing:0.02em;
+}
+@media(max-width:500px){.shortcut-legend{display:none}}
 .btn{
   padding:14px 28px;border-radius:var(--radius-sm);border:none;
   font-family:inherit;font-size:0.95rem;font-weight:600;cursor:pointer;
@@ -598,6 +603,7 @@ function renderQuestions() {
       html += '<button class="btn btn-primary" id="next-'+qi+'" onclick="showResults()" disabled>Find My Builds <span>&#9889;</span></button>';
     }
     html += '</div>';
+    html += '<div class="shortcut-legend">1-' + q.options.length + ' select &middot; &larr;&rarr; navigate &middot; Esc back</div>';
 
     slide.innerHTML = html;
     wrap.appendChild(slide);
@@ -905,6 +911,7 @@ function launchConfetti() {
 }
 
 /* ── Keyboard ── */
+var focusedCardIdx = -1;
 document.addEventListener("keydown", function(e) {
   if (!quizStarted && (e.key === "Enter" || e.key === " ")) {
     e.preventDefault();
@@ -913,12 +920,26 @@ document.addEventListener("keydown", function(e) {
   }
   if (!quizStarted) return;
 
+  if (e.key === "Escape") {
+    e.preventDefault();
+    if (currentQ > 0) window.prevQuestion();
+    else window.retakeQuiz();
+    return;
+  }
   if (e.key === "ArrowRight" || e.key === "Enter") {
     var nextBtn = document.getElementById("next-" + currentQ);
     if (nextBtn && !nextBtn.disabled) nextBtn.click();
   }
   if (e.key === "ArrowLeft") {
     window.prevQuestion();
+  }
+  if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+    e.preventDefault();
+    var cards = document.querySelectorAll("#q-" + currentQ + " .option-card");
+    if (!cards.length) return;
+    if (e.key === "ArrowDown") focusedCardIdx = Math.min(focusedCardIdx + 1, cards.length - 1);
+    else focusedCardIdx = Math.max(focusedCardIdx - 1, 0);
+    cards[focusedCardIdx].focus();
   }
   if (e.key >= "1" && e.key <= "9") {
     var idx = parseInt(e.key) - 1;
