@@ -1,5 +1,9 @@
 # #244 — Sound-Reactive LED Face Mask
 
+<p align="center">
+  <img src="../../images/builds/244-led-mask.jpg" alt="Sound-Reactive LED Face Mask" width="700" />
+</p>
+
 > An LED matrix behind a translucent mask driven by an ESP32 and microphone. Your mouth moves when you talk, your face glows when the beat drops, and everyone at the party wants to know where you got it.
 
 ## Ratings

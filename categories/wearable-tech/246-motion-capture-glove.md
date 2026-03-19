@@ -1,5 +1,9 @@
 # #246 — Motion Capture MIDI Glove
 
+<p align="center">
+  <img src="../../images/builds/246-motion-capture-glove.jpg" alt="Motion Capture MIDI Glove" width="700" />
+</p>
+
 > Flex sensors on each finger, an MPU6050 on the wrist, and an ESP32 brain. Bend your fingers to play notes, tilt your wrist for pitch bend. Air guitar is finally real.
 
 ## Ratings

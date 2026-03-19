@@ -1,5 +1,9 @@
 # #243 — Nichrome Wire Heated Gloves
 
+<p align="center">
+  <img src="../../images/builds/243-heated-gloves.jpg" alt="Nichrome Wire Heated Gloves" width="700" />
+</p>
+
 > Nichrome wire loops stitched into glove fingers, powered by a LiPo battery with MOSFET PWM temperature control. Three hours of toasty warmth when it's freezing outside. Take that, $150 commercial heated gloves.
 
 ## Ratings
