@@ -1,7 +1,11 @@
-# Household Chemistry
+# 🧹 Household Chemistry
 
 <p align="center">
   <img src="../../images/categories/household-chemistry.jpg" alt="Household Chemistry" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-16-orange?style=flat-square" alt="16 Builds" />
 </p>
 
 > Everything under the kitchen sink is an ingredient — bleach, vinegar, baking soda, rubbing alcohol, acetone, hand sanitizer, dish soap, and pool shock are all you need.

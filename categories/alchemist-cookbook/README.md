@@ -1,7 +1,11 @@
-# Alchemist's Cookbook
+# 💥 Alchemist's Cookbook
 
 <p align="center">
   <img src="../../images/categories/alchemist-cookbook.jpg" alt="Alchemist's Cookbook" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-13-orange?style=flat-square" alt="13 Builds" />
 </p>
 
 > Where fireworks meet microwave parts meet chemistry meet car salvage. The most dangerous and spectacular crossover builds in the repo.

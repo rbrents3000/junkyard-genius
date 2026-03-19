@@ -1,7 +1,11 @@
-# Drone Salvage
+# 🚁 Drone Salvage
 
 <p align="center">
   <img src="../../images/categories/drone-salvage.jpg" alt="Drone Salvage" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-8-orange?style=flat-square" alt="8 Builds" />
 </p>
 
 > A $500 drone took a nosedive. You just scored $500 worth of precision motors, cameras, and sensors for free.

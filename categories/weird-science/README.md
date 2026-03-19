@@ -1,7 +1,11 @@
-# Weird Science
+# 🔬 Weird Science
 
 <p align="center">
   <img src="../../images/categories/weird-science.jpg" alt="Weird Science" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-8-orange?style=flat-square" alt="8 Builds" />
 </p>
 
 > The builds that make people ask "wait, is that even legal?" (It is. Probably.)

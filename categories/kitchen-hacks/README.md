@@ -1,7 +1,11 @@
-# Kitchen Appliance Hacks
+# 🍴 Kitchen Appliance Hacks
 
 <p align="center">
   <img src="../../images/categories/kitchen-hacks.jpg" alt="Kitchen Appliance Hacks" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-8-orange?style=flat-square" alt="8 Builds" />
 </p>
 
 > Your toaster oven is a reflow station. Your stand mixer is a pottery wheel. Your kitchen is lying to you about what it can do.

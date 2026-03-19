@@ -1,7 +1,11 @@
-# Light & Visual
+# 💡 Light & Visual
 
 <p align="center">
   <img src="../../images/categories/light-and-visual.jpg" alt="Light & Visual" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-19-orange?style=flat-square" alt="19 Builds" />
 </p>
 
 > Builds that bend, focus, project, and manipulate light in ways that make people question reality — holograms, lasers, optics, and things that glow.

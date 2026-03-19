@@ -1,7 +1,11 @@
-# Scooter & Motor
+# ⚙️ Scooter & Motor
 
 <p align="center">
   <img src="../../images/categories/scooter-and-motor.jpg" alt="Scooter & Motor" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-7-orange?style=flat-square" alt="7 Builds" />
 </p>
 
 > Every dead scooter motor is a brushless beast waiting to power something wilder than a sidewalk ride.

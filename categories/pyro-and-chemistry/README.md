@@ -1,7 +1,11 @@
-# Pyro & Chemistry
+# 🧪 Pyro & Chemistry
 
 <p align="center">
   <img src="../../images/categories/pyro-and-chemistry.jpg" alt="Pyro & Chemistry" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-20-orange?style=flat-square" alt="20 Builds" />
 </p>
 
 > Fire, foam, crystals, and reactions that make your jaw hit the floor.

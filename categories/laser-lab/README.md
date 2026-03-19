@@ -1,7 +1,11 @@
-# Laser Lab
+# 🎯 Laser Lab
 
 <p align="center">
   <img src="../../images/categories/laser-lab.jpg" alt="Laser Lab" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-7-orange?style=flat-square" alt="7 Builds" />
 </p>
 
 > Laser builds from salvaged diodes, pointers, and optics.

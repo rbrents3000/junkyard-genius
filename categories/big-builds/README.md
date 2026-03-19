@@ -1,7 +1,11 @@
-# Big Builds
+# 🏢 Big Builds
 
 <p align="center">
   <img src="../../images/categories/big-builds.jpg" alt="Big Builds" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-8-orange?style=flat-square" alt="8 Builds" />
 </p>
 
 > When your project outgrows the workbench, escapes the garage, and takes over the entire yard. Neighbors will have questions.

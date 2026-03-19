@@ -1,7 +1,11 @@
-# Mechanical & Kinetic
+# 🏗️ Mechanical & Kinetic
 
 <p align="center">
   <img src="../../images/categories/mechanical-and-kinetic.jpg" alt="Mechanical & Kinetic" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-11-orange?style=flat-square" alt="11 Builds" />
 </p>
 
 > Where scrap metal, magnets, and gravity conspire to create motion from nothing.

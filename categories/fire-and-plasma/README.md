@@ -1,7 +1,11 @@
-# Fire & Plasma
+# 🔥 Fire & Plasma
 
 <p align="center">
   <img src="../../images/categories/fire-and-plasma.jpg" alt="Fire & Plasma" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-8-orange?style=flat-square" alt="8 Builds" />
 </p>
 
 > Where discarded microwaves and scrap metal become instruments of pure elemental fury.

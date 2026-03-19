@@ -1,7 +1,11 @@
-# Junkyard Auto
+# 🚗 Junkyard Auto
 
 <p align="center">
   <img src="../../images/categories/junkyard-auto.jpg" alt="Junkyard Auto" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-8-orange?style=flat-square" alt="8 Builds" />
 </p>
 
 > Every car in the scrapyard is a parts bin full of precision-engineered components begging for a second life.

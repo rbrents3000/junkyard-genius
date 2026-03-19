@@ -1,7 +1,11 @@
-# Junk Instruments
+# 🎸 Junk Instruments
 
 <p align="center">
   <img src="../../images/categories/junk-instruments.jpg" alt="Junk Instruments" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-7-orange?style=flat-square" alt="7 Builds" />
 </p>
 
 > Playable instruments from PVC, cigar boxes, and whatever was in the recycling bin this morning.

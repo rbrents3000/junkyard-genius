@@ -1,7 +1,11 @@
-# Functional Machines
+# 🔧 Functional Machines
 
 <p align="center">
   <img src="../../images/categories/functional-machines.jpg" alt="Functional Machines" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-9-orange?style=flat-square" alt="9 Builds" />
 </p>
 
 > Turning junk into machines that actually do real work. No toy builds here — these replace tools you'd otherwise buy.

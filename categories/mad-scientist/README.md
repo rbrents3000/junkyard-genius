@@ -1,7 +1,11 @@
-# Mad Scientist
+# ⚡ Mad Scientist
 
 <p align="center">
   <img src="../../images/categories/mad-scientist.jpg" alt="Mad Scientist" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-10-orange?style=flat-square" alt="10 Builds" />
 </p>
 
 > High voltage, electromagnetic forces, and physics experiments that belong in a government lab but somehow live in your garage. Expect sparks, levitation, and at least one alarmed neighbor.

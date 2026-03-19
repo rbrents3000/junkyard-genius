@@ -1,7 +1,11 @@
-# Chemical & Electronic
+# ⚗️ Chemical & Electronic
 
 <p align="center">
   <img src="../../images/categories/chemical-electronic.jpg" alt="Chemical & Electronic" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-15-orange?style=flat-square" alt="15 Builds" />
 </p>
 
 > Electrons do chemistry. Chemistry makes electronics. This is the category where your workbench needs both a multimeter and safety goggles.

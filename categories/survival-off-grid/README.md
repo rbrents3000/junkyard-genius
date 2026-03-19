@@ -1,7 +1,11 @@
-# Survival & Off-Grid
+# ⛺ Survival & Off-Grid
 
 <p align="center">
   <img src="../../images/categories/survival-off-grid.jpg" alt="Survival & Off-Grid" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-8-orange?style=flat-square" alt="8 Builds" />
 </p>
 
 > The grid is down, the water's off, and you're 40 miles from a Walmart. These builds are why you're fine.

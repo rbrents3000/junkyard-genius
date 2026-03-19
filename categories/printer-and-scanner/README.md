@@ -1,7 +1,11 @@
-# Printer & Scanner
+# 🖨️ Printer & Scanner
 
 <p align="center">
   <img src="../../images/categories/printer-and-scanner.jpg" alt="Printer & Scanner" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-8-orange?style=flat-square" alt="8 Builds" />
 </p>
 
 > Printers are the most underrated source of precision motion components on the planet.

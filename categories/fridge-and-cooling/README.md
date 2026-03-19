@@ -1,7 +1,11 @@
-# Fridge & Cooling
+# ❄️ Fridge & Cooling
 
 <p align="center">
   <img src="../../images/categories/fridge-and-cooling.jpg" alt="Fridge & Cooling" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-9-orange?style=flat-square" alt="9 Builds" />
 </p>
 
 > A fridge compressor is a heat pump. It moves thermal energy from one place to another. Where you put the cold side and the hot side is entirely up to you.

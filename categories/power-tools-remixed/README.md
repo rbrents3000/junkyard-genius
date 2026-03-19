@@ -1,7 +1,11 @@
-# Power Tools Remixed
+# 🔨 Power Tools Remixed
 
 <p align="center">
   <img src="../../images/categories/power-tools-remixed.jpg" alt="Power Tools Remixed" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-8-orange?style=flat-square" alt="8 Builds" />
 </p>
 
 > Every power tool is a motor with an attachment. Change the attachment, change the tool. 10,000 RPM solves a lot of problems.

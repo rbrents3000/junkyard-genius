@@ -1,7 +1,11 @@
-# Python Projects
+# 🐍 Python Projects
 
 <p align="center">
   <img src="../../images/categories/python-projects.jpg" alt="Python Projects" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-15-orange?style=flat-square" alt="15 Builds" />
 </p>
 
 > A webcam is a webcam. A webcam running OpenCV is a face-tracking sentry turret. Python is the difference.

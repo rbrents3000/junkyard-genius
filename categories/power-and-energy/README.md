@@ -1,7 +1,11 @@
-# Power & Energy
+# 🔋 Power & Energy
 
 <p align="center">
   <img src="../../images/categories/power-and-energy.jpg" alt="Power & Energy" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-8-orange?style=flat-square" alt="8 Builds" />
 </p>
 
 > Generate, store, and harvest energy from sources most people throw away.

@@ -1,7 +1,11 @@
-# Pi & Arduino
+# 🤖 Pi & Arduino
 
 <p align="center">
   <img src="../../images/categories/pi-and-arduino.jpg" alt="Pi & Arduino" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-20-orange?style=flat-square" alt="20 Builds" />
 </p>
 
 > Microcontrollers and single-board computers turn junk into smart junk.

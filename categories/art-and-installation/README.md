@@ -1,7 +1,11 @@
-# Art & Installation
+# 🎨 Art & Installation
 
 <p align="center">
   <img src="../../images/categories/art-and-installation.jpg" alt="Art & Installation" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-8-orange?style=flat-square" alt="8 Builds" />
 </p>
 
 > Turning dumpster finds into gallery pieces that make people forget the parts came from a curb.

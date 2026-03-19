@@ -1,7 +1,11 @@
-# Computer & Phone Parts
+# 💻 Computer & Phone Parts
 
 <p align="center">
   <img src="../../images/categories/computer-and-phone.jpg" alt="Computer & Phone Parts" width="700" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/builds-13-orange?style=flat-square" alt="13 Builds" />
 </p>
 
 > Dead laptops, cracked phones, and retired desktops are goldmines of precision-engineered components.
