@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A microwave oven transformer (MOT) is one of the most dangerously useful things you can pull from appliance e-waste. The original secondary winding produces around 2000V at low current — designed to power a magnetron. Knock out that secondary winding and replace it with 2-3 turns of thick welding cable, and you've converted it into a high-current, low-voltage beast: roughly 2-4V at 800-1000 amps. That's enough current to resistance-weld two pieces of metal together in a fraction of a second. Commercial spot welders use the exact same principle.
 
@@ -20,7 +18,8 @@ This build takes that rewound MOT spot welder and mounts it on a robotic arm bui
 
 The result is a semi-automated spot welder that can place welds at programmed coordinates with sub-millimeter repeatability. The killer application: building lithium battery packs. Each cell needs nickel strip tabs welded to its terminals — dozens or hundreds of identical welds at precise spacing. Doing this by hand with a manual spot welder is tedious and error-prone. Doing it with a CNC-positioned welder arm is fast, consistent, and satisfying in a way that only automation can be. But it's equally useful for any repetitive sheet metal joining task — HVAC ductwork seams, electronics enclosures, decorative metalwork.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Microwave oven transformer (MOT) — from a dead microwave, 700W+ rated *(dead microwave, free from appliance recycler or curb)*
 - [ ] Welding cable — 2/0 AWG or thicker, ~3 feet total, for the new secondary winding *(welding supplier, ~$10)*
@@ -37,7 +36,9 @@ The result is a semi-automated spot welder that can place welds at programmed co
 - [ ] Timer circuit — 555 timer or Arduino-controlled, to limit weld pulse duration to milliseconds *(components on hand or ~$2)*
 - [ ] 12V power supply — for the Arduino and stepper motors *(salvage or electronics supplier, ~$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Rewire the microwave transformer.** Remove the MOT from the microwave (unplug it first, obviously, and discharge the high-voltage capacitor by shorting its terminals with an insulated screwdriver — this capacitor can kill you). The MOT has a primary winding (thin wire, many turns) and a secondary winding (thinner wire, many more turns). Keep the primary. Remove the secondary by cutting it and hammering/chiseling it out of the core — this is brute-force work, the winding is varnished in tight. Thread 2-3 turns of your heavy welding cable through the core window as the new secondary. Two turns gives roughly 2V at 800+ amps. Three turns gives 3V at slightly less current. Solder or bolt heavy copper lugs to the cable ends.
 
@@ -59,14 +60,14 @@ The result is a semi-automated spot welder that can place welds at programmed co
 
 10. **Add safety interlocks.** Wire a master power switch for the MOT circuit — this is mains voltage and must be switched with a properly rated contactor or relay, not a signal-level switch. Add an indicator light that shows when the MOT is energized. Consider an enclosure around the work area with a microswitch that kills MOT power if the enclosure is opened. The welding current is low voltage (2-4V) but the MOT primary is mains voltage — respect that boundary.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The microwave oven's high-voltage capacitor can hold a lethal charge (2100V at several microfarads) even when the microwave is unplugged. Discharge it before touching any internal components. Short the capacitor terminals together using an insulated screwdriver. Some microwave capacitors have an internal bleeder resistor, but do not rely on it — always manually discharge.
 - The MOT primary operates at mains voltage (120/240V AC). All mains wiring must use properly rated wire, connectors, and switches. The mains side must be completely enclosed with no exposed terminals. A ground fault on the primary can energize the entire metal frame of the welder. Use a GFCI outlet.
 - The welding secondary produces extremely high current at low voltage. While 2-4V won't shock you, 800+ amps flowing through a ring, watch, or bracelet in contact with both electrodes simultaneously will instantly heat the jewelry red-hot and cause severe burns. Remove all metal jewelry before operating. The copper electrodes themselves get hot during repeated welding — wear leather gloves when handling them after a welding session.
 - The weld flash is brief but intense. Repeated exposure adds up. Wear safety glasses rated for welding flash — standard safety glasses are sufficient for spot welding (it's not arc welding brightness, but it's not nothing either).
 
-## See Also
+## 🔗 See Also
 
 - [Spot Welder](../functional-machines/027-spot-welder.md)
 - [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md)

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Take an array of small sealed glass chambers — test tubes, vials, or custom-blown cells — and fill them with solutions that change color or opacity in response to temperature or applied voltage. Back the entire array with individually addressable RGB LEDs. The LEDs provide the light. The chemistry modulates it. The result is a display that combines the crisp programmability of digital LEDs with the organic, unpredictable behavior of chemical reactions — a grid of glowing cells where colors bloom, fade, and shift through transitions that no purely digital display can replicate.
 
@@ -20,7 +18,8 @@ The chemistry works two ways. The simpler approach uses thermochromic pigment �
 
 The more advanced approach uses electrochromic solutions — tungsten oxide nanoparticles in an electrolyte, sandwiched between conductive glass plates. Apply 1-3V and the solution shifts from transparent to deep blue. Reverse the voltage and it clears. This is the same chemistry used in Boeing 787 Dreamliner windows. The color transition is voltage-controllable, reversible, and can hold its state without continuous power. Combined with the RGB LED behind it, each cell becomes a hybrid pixel: the LED sets the hue, the electrochromic layer controls the saturation and depth, and the interplay between them creates colors and effects that neither technology can produce alone.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] WS2812B LED strip — 60 LEDs/meter density, enough for your panel grid (e.g., 64 LEDs for 8x8) *(electronics supplier, ~$10-$15)*
 - [ ] Arduino Nano — for controlling LEDs and chemical layer *(electronics supplier, ~$5)*
@@ -37,7 +36,9 @@ The more advanced approach uses electrochromic solutions — tungsten oxide nano
 - [ ] Mounting hardware — standoffs, screws, and picture-hanging hardware for wall mounting *(hardware store, ~$5)*
 - [ ] Shift registers — 74HC595 or TLC5940 if driving more than 8-10 heaters from the Arduino's limited pins *(electronics supplier, ~$3)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Design the grid layout.** Decide on your array size — 8x8 (64 cells) is a good balance of visual impact and wiring complexity. Sketch the panel on paper: each grid position has one glass vial, one LED behind it, and one heater element. The panel face is clear acrylic with holes or channels to hold the vials. The back layer holds the LED strip and heater wiring. Total panel size for 8x8 at 20mm spacing is roughly 160mm x 160mm (about 6.5" square) — small enough for a desk display, or scale up to 12x12 or 16x16 for wall-mounted impact.
 
@@ -59,14 +60,14 @@ The more advanced approach uses electrochromic solutions — tungsten oxide nano
 
 10. **Final assembly and mounting.** Assemble the sandwich: back panel (LEDs + heaters + electronics) → diffuser → front panel (vials). Secure with standoff screws at the corners and midpoints. Route the power and data cables out the bottom or through one side. Mount a small project box on the back for the Arduino and power connections. Attach picture-hanging hardware or standoffs for wall mounting. Power it on and enjoy a wall piece that nobody can identify as any technology they've seen before — it's not a screen, it's not a lamp, it's something between chemistry and light that doesn't have a name yet.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Thermochromic pigments are generally non-toxic (they're used in children's toys and food packaging), but avoid inhaling the dry powder during mixing. Work in a ventilated area and wear a dust mask. Once suspended in liquid and sealed in vials, there's no exposure risk.
 - The heater resistors get hot — that's their job. At full power, a 10-ohm resistor at 12V reaches temperatures that can melt acrylic and burn skin. The PWM control should limit average power to 1-3W per element, but a software bug could latch a heater at full duty cycle. Add a thermal fuse (rated just above the thermochromic transition temp plus a margin) in series with each heater, or at minimum a master thermal cutoff on the heater supply that trips if any part of the panel exceeds 60°C.
 - The 5V LED supply and 12V heater supply together can source significant current. Use properly rated wiring throughout (no 28 AWG signal wire carrying 4 amps). Add a fuse on each power supply output matched to the expected maximum draw. A short circuit in the heater array can start a fire if unfused — 12V at 5A is 60 watts of heating concentrated at a fault point.
 - If you pursue the electrochromic approach instead of thermochromic, the tungsten oxide solution is mildly toxic. Handle with gloves, seal the cells permanently, and label the panel so future owners know not to break the vials open.
 
-## See Also
+## 🔗 See Also
 
 - [LED Cube 8x8x8](../pi-and-arduino/122-led-cube-8x8x8.md)
 - [Chemiluminescent Fountain](../pyro-and-chemistry/111-chemiluminescent-fountain.md)

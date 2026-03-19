@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A flyback transformer salvaged from a dead CRT television drives a high-voltage plasma arc between two electrodes inside a glass lamp housing. An audio signal modulates the arc's intensity at audible frequencies. The rapid heating and cooling of air molecules around the arc creates pressure waves — sound — directly from the plasma itself. No speaker cone, no magnet, no membrane. The lightning is the speaker.
 
@@ -20,7 +18,8 @@ Plasma speakers have near-zero mass in their "driver element" (the arc weighs no
 
 This build wraps that plasma speaker in a decorative glass lamp housing — a mason jar, bell jar, or vintage glass insulator — turning it into a functional art piece. Set it on a shelf, plug in your phone, and watch visitors lose their minds when they realize the music is coming from a tiny bolt of lightning inside a lamp. The arc flickers and dances with the beat, brighter on loud passages, dim during quiet moments. It's a conversation piece that actually works as a speaker for mids and highs (you'll still want a subwoofer for bass).
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Flyback transformer — the high-voltage transformer from a CRT TV or monitor *(dead CRT TV from e-waste, free)*
 - [ ] Audio amplifier module — Class D, 10-50W, with analog input *(electronics supplier, ~$5-$10)*
@@ -36,7 +35,9 @@ This build wraps that plasma speaker in a decorative glass lamp housing — a ma
 - [ ] Heatsink — small aluminum heatsink for the MOSFET *(electronics supplier or salvage, ~$2)*
 - [ ] Audio cable — 3.5mm male-to-male *(already own)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Extract the flyback transformer.** Crack open the CRT TV case (discharge the tube first — see Safety Notes). Locate the flyback transformer on the PCB. It's the largest transformer, usually near the back of the tube with a thick red wire going to the CRT's anode cap. Desolder or clip it free. You need the ferrite core with its windings intact. Don't worry about the original drive circuit — you're building your own.
 
@@ -56,14 +57,14 @@ This build wraps that plasma speaker in a decorative glass lamp housing — a ma
 
 9. **Optimize the sound.** The plasma speaker excels at mids and highs (1 kHz - 20 kHz) but rolls off below about 500 Hz. For full-range listening, pair it with a conventional woofer and use a crossover. On its own, it sounds like a very bright, detailed tweeter with supernatural imaging — because it's a true point source with no cabinet diffraction. Vocals and acoustic instruments sound eerily present.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - CRT televisions contain a lethal charge on the anode cap even when unplugged. Before touching anything inside a CRT, short the anode cap to the chassis ground using an insulated screwdriver with a wire clipped from the screwdriver shaft to the TV's metal frame. Do this multiple times. The capacitance in the CRT glass can hold charge for days.
 - The flyback transformer produces 10-30 kV at its output. This is enough to arc across significant gaps and through insulation you thought was sufficient. Never touch the high-voltage output or electrodes while the circuit is powered. Use a physical power switch, not just unplugging — the flyback's internal capacitance can hold charge briefly.
 - The plasma arc produces ozone (O3) and nitrogen oxides (NOx). Both are respiratory irritants. Operate in a well-ventilated room. The glass enclosure concentrates these gases — ensure adequate venting. If you smell a sharp, chlorine-like odor, increase ventilation immediately. Continuous operation in a small closed room is a bad idea.
 - The arc produces UV radiation. The glass housing blocks most of it, but don't stare directly at a bare arc for extended periods. Standard glass attenuates UV-B and UV-C effectively; borosilicate (Pyrex) is even better.
 
-## See Also
+## 🔗 See Also
 
 - [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil.md)
 - [Jacob's Ladder](../mad-scientist/034-jacobs-ladder.md)

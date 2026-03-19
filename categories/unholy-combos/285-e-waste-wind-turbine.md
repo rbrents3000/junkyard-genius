@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Every dead hard drive contains a brushless DC motor with precision bearings, neodymium magnets, and copper coil windings. Spin that motor with external force and it becomes a three-phase AC generator. The problem: hard drive motors are designed to spin at 5400-7200 RPM, and wind turbine blades at this scale spin at maybe 200-500 RPM. The solution: a gear train salvaged from inkjet printers, which are stuffed with precision gears designed for exactly this kind of RPM multiplication.
 
@@ -20,7 +18,8 @@ This build combines three to four hard drive motors wired in parallel, driven th
 
 The engineering challenge isn't any single component — it's making them all work together. The gear train needs to handle the torque without stripping. The blade pitch needs to match the generator's optimal RPM range. The electrical output needs to be conditioned for battery charging. Each of these is a solvable problem using nothing but salvaged parts and basic tools. The whole turbine can be built for effectively zero dollars if you have access to e-waste, which — let's be honest — you do. Everyone does.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Brushless DC motors — from dead hard drives, 3.5" desktop drives preferred over 2.5" laptop drives for higher output (need 3-4) *(dead hard drives, free from any IT department or e-waste bin)*
 - [ ] Printer gear train — the reduction gear assembly from an inkjet printer, intact if possible *(dead inkjet printer, free)*
@@ -36,7 +35,9 @@ The engineering challenge isn't any single component — it's making them all wo
 - [ ] Plywood — 1/2" sheet, for the turbine hub and nacelle base *(hardware store, ~$5)*
 - [ ] Tail vane — sheet aluminum or thin plywood, to keep the turbine facing into the wind *(salvage or hardware store, ~$3)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Harvest and test the motors.** Open each hard drive (Torx T8 screws, often with a hidden one under the label). Remove the platters and head assembly to expose the spindle motor. The motor is the flat, round assembly at the center of the drive with three solder pads on the PCB. Desolder the motor or clip the PCB traces. To test generation capacity, chuck the motor shaft in a power drill, spin it at various RPMs, and measure AC voltage across any two of the three phase wires with a multimeter. At 3000 RPM, a good motor should produce 3-8V AC per phase. Discard any motor producing less than 2V.
 
@@ -56,13 +57,13 @@ The engineering challenge isn't any single component — it's making them all wo
 
 9. **Weatherproof and optimize.** Seal all electrical connections with heat shrink and silicone. Coat exposed plywood with exterior polyurethane or paint. The gear train is the most weather-sensitive component — enclose it completely and consider packing the gears with lithium grease. Check blade balance by spinning the rotor by hand — if it consistently stops in the same position, one blade is heavier. Sand material from the heavy blade until it balances. An unbalanced rotor vibrates, wears bearings, and eventually self-destructs.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Hard drive platters are made of glass (in newer drives) or aluminum and shatter violently if dropped or hit. Wear safety glasses when disassembling hard drives. Handle platters by the edges and set them aside carefully — the glass ones break into razor-sharp shards.
 - Spinning blades are a laceration hazard. At full speed, even lightweight PVC blades carry enough energy to break fingers. Never reach into the blade arc while the turbine is mounted and could catch wind. When working on the nacelle, remove the blades first or tie them to prevent rotation.
 - The gear train can multiply torque in reverse — if a motor shaft seizes, the blades suddenly become much harder to stop and the gears experience shock loads. Ensure all motor shafts spin freely before mounting. A seized motor in the gear train can strip gears or, worse, cause the blade hub to lock suddenly while spinning at speed, which transfers all the rotational energy into the mounting structure.
 
-## See Also
+## 🔗 See Also
 
 - [Bicycle Generator](../power-and-energy/050-bicycle-generator.md)
 - [DIY Powerwall](../power-and-energy/052-diy-powerwall.md)

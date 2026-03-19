@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Thermite is a mixture of aluminum powder and iron oxide (rust) that, once ignited, undergoes an exothermic oxidation-reduction reaction producing molten iron and aluminum oxide slag at approximately 2500°C. That's hot enough to melt through an engine block. Most people light thermite as a spectacle and walk away from a cooling puddle of iron on the ground. This build captures that molten iron and puts it to work — pouring it into a sand casting mold to produce actual steel objects.
 
@@ -20,7 +18,8 @@ The chemistry is straightforward: 2Al + Fe2O3 → Al2O3 + 2Fe + massive heat. Th
 
 A car brake rotor serves as the crucible. Cast iron rotors handle the thermal shock better than almost anything else you'll find for free — they're already designed for extreme heat cycling. The rotor sits inside a steel container lined with fire bricks and sand, with a hole drilled in the bottom that plugs with a clay stopper. Thermite goes on top. Light it, let the reaction complete (about 15-30 seconds depending on batch size), pull the clay stopper, and molten iron pours through the bottom tap hole into your sand mold below. The result is a rough cast iron object that you can grind, machine, and finish into something permanent — a tool, a sculpture, a paperweight made from rust and aluminum cans.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Iron oxide powder (Fe2O3) — fine red rust, 200 mesh or finer *(online chemical supplier or made by rusting steel wool in hydrogen peroxide, ~$15 per pound)*
 - [ ] Aluminum powder — 200 mesh, flake or atomized *(online pyrotechnics supplier, ~$15 per pound)*
@@ -35,7 +34,9 @@ A car brake rotor serves as the crucible. Cast iron rotors handle the thermal sh
 - [ ] Metal rod — 1/4" steel, 3 feet long, for pulling the tap stopper *(hardware store, ~$3)*
 - [ ] Pattern — the object you want to cast, carved from wood, 3D-printed, or made from wax *(already own or ~$5 in material)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the thermite mix.** Measure iron oxide and aluminum powder by weight at a ratio of approximately 8:3 (iron oxide to aluminum) — for example, 800g Fe2O3 to 300g Al. This is stoichiometric. Mix them thoroughly but gently in a plastic container with a wooden stick. Never use metal tools — a spark from metal-on-metal can ignite the mix. Never mix near open flame. Store in a sealed plastic container away from heat. A good first batch is 500g total, which yields roughly 200g of molten iron.
 
@@ -53,14 +54,14 @@ A car brake rotor serves as the crucible. Cast iron rotors handle the thermal sh
 
 8. **Cool and extract.** Let the mold cool for at least one hour. Do not quench it with water. Break apart the sand mold to reveal your casting. The object will be rough, with sprues and risers attached and a sandy surface texture. Cut off the sprue and riser with an angle grinder, then grind and file the casting to final shape. The resulting metal is nearly pure iron — soft, workable, and surprisingly good-looking when polished.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Thermite cannot be extinguished once ignited. Water, sand, and fire extinguishers do not stop it — water makes it dramatically worse by causing a steam explosion that sprays molten iron in all directions. If something goes wrong, evacuate and let it burn out. This is why you do it outdoors on bare ground with nothing flammable within 20 feet.
 - Molten iron at 2500°C will burn through any material it contacts: shoes, skin, concrete, asphalt. Full leather protection is mandatory — synthetic fabrics (polyester, nylon) melt and fuse to skin on contact with radiant heat. Cotton or leather only. Steel-toed leather boots, not sneakers. A single splash of molten iron will cause a severe burn that requires immediate medical attention.
 - The reaction produces intense UV and infrared radiation. Do not look directly at the burning thermite without shade 5+ welding goggles or a welding helmet. A face shield alone is not sufficient to protect your eyes from the radiant intensity. The flash can cause arc eye (welding flash burn) at close range.
 - Check your local regulations. Thermite itself is generally legal to possess and ignite on private property in most US jurisdictions, but local fire codes, burn bans, and HOA rules may apply. Use common sense about location — dry grass and thermite are a wildfire ignition combination.
 
-## See Also
+## 🔗 See Also
 
 - [Desktop Foundry](../fire-and-plasma/005-desktop-foundry.md)
 - [Thermite Flower Pot Forge](../pyro-and-chemistry/105-thermite-flower-pot.md)

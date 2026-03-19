@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A standard cloud chamber (build #041) works at atmospheric pressure. This build takes it further: place the cloud chamber inside a partial vacuum, then add a low-pressure plasma discharge. At reduced pressure, the alcohol vapor supersaturation zone is larger and more uniform. The plasma discharge (a glow discharge in the low-pressure gas) illuminates the entire chamber with an eerie purple-blue glow. Particle tracks cut through the plasma like bright white lines through a neon sign.
 
@@ -20,7 +18,8 @@ The combination is more than aesthetic — the reduced pressure actually improve
 
 This build requires a functioning vacuum chamber (build #039), cloud chamber expertise (build #041), and comfort with high-voltage plasma generation. It's the intersection of three demanding builds.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Vacuum chamber — with viewport, from build #039 *(see [Vacuum Chamber](../mad-scientist/039-vacuum-chamber.md))*
 - [ ] Vacuum pump — capable of reaching 10-50 Torr (not full vacuum — you need residual gas for the plasma and cloud operation) *(fridge compressor or rotary vane pump)*
@@ -34,7 +33,9 @@ This build requires a functioning vacuum chamber (build #039), cloud chamber exp
 - [ ] Pressure gauge — capable of reading 1-100 Torr range *(HVAC supplier, lab supply)*
 - [ ] Needle valve — for fine pressure control *(hardware store, HVAC)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Modify the vacuum chamber.** Install vacuum feedthroughs for: high-voltage wires (to the plasma electrodes), low-voltage wires (to the Peltier cooler if using one), and optionally a viewport window if the chamber doesn't already have one. The feedthroughs must hold vacuum — use proper vacuum epoxy or commercial feedthrough fittings.
 2. **Install the cold plate.** Mount a Peltier cooler (or a metal plate that contacts dry ice from outside the chamber) at the bottom of the chamber. This creates the cold surface that drives the supersaturation. The Peltier's hot side needs a heatsink, which can be the chamber wall itself if it's metal.
@@ -46,13 +47,13 @@ This build requires a functioning vacuum chamber (build #039), cloud chamber exp
 8. **Optimize the pressure.** The ideal pressure balances two competing requirements: low enough for long particle tracks and stable plasma, high enough for adequate alcohol vapor density and cloud formation. Adjust the needle valve while watching for tracks. The sweet spot is usually 20-40 Torr.
 9. **Document and observe.** The visual effect is unlike anything else in this book. Particle tracks illuminated by plasma glow are vivid and otherworldly. A camera set to long exposure captures the tracks beautifully against the purple plasma background.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The high-voltage plasma discharge is dangerous. At 1-2kV, the electrodes can deliver a serious shock. All HV connections must be inside the sealed chamber or behind insulated feedthroughs. Interlock the HV supply so it cuts automatically when the chamber is opened. Never reach into the chamber while HV is applied.
 - The vacuum chamber is under mechanical stress from atmospheric pressure. All safety notes from build #039 apply. The addition of HV feedthroughs creates potential weak points — test vacuum integrity before applying high voltage.
 - Alcohol vapor inside the chamber is flammable. The plasma discharge is a potential ignition source. At the low pressures involved, the risk is reduced (flames don't propagate well below ~100 Torr), but exercise caution when venting the chamber — the vapor concentration increases as pressure rises. Vent slowly, outdoors if possible.
 
-## See Also
+## 🔗 See Also
 
 - [Cloud Chamber](../mad-scientist/041-cloud-chamber.md)
 - [Vacuum Chamber](../mad-scientist/039-vacuum-chamber.md)
