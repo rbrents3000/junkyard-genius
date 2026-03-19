@@ -57,3 +57,7 @@ The patterns emerge because wood grain isn't uniformly conductive. The current b
 
 - [Plasma Tornado Lamp](001-plasma-tornado-lamp.md) — another MOT-based project with a very different aesthetic
 - [Atmospheric Reentry Simulator](006-atmospheric-reentry-simulator.md) — MOT used to heat metal instead of burn wood
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

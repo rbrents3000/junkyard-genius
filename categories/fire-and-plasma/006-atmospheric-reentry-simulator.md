@@ -59,3 +59,7 @@ You can test different metals and alloys side by side: watch how steel glows and
 
 - [Lichtenberg Wood Burner](002-lichtenberg-wood-burner.md) — same MOT, different application (high voltage through wood instead of high current through metal)
 - [Desktop Foundry](005-desktop-foundry.md) — if you want to actually collect and cast the molten metal
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

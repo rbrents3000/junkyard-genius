@@ -62,3 +62,7 @@ The key insight is that plasma follows airflow. By evacuating most of the air fr
 
 - [Plasma Speaker](../sound-and-music/008-plasma-speaker.md) — another MOT plasma project, but this one plays music
 - [Giant Plasma Globe](../light-and-visual/015-giant-plasma-globe.md) — similar concept but spherical
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
