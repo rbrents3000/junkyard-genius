@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A functioning wood or soft-metal lathe powered by a brushless DC motor salvaged from an electric scooter. The motor mounts at the headstock end, drives a spindle through direct coupling or belt, and spins a workpiece while you bring a cutting tool to bear against it. The scooter's speed controller gives you variable RPM from a few hundred to several thousand — exactly what a lathe needs. The bed, tailstock, and tool rest are fabricated from steel bar and angle iron.
 
 A real bench lathe costs $300-$1000+. This one costs the price of some bearings and a few hours of welding. It won't hold the tolerances of a Jet or a Grizzly, but it'll turn wood, aluminum, and brass just fine for hobbyist work.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Scooter brushless DC motor — 250W-500W, with matching ESC *(dead scooter, e-waste)*
 - [ ] Throttle control — twist grip or potentiometer *(from the scooter, or electronics supplier)*
@@ -32,7 +31,9 @@ A real bench lathe costs $300-$1000+. This one costs the price of some bearings 
 - [ ] 24V-48V battery pack or bench power supply *(salvage or electronics supplier)*
 - [ ] Welder, angle grinder, drill press *(workshop)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the lathe bed.** Two parallel lengths of steel channel or heavy angle iron, mounted on a flat base (plywood or steel plate). The bed must be straight and rigid — this is the reference surface everything else rides on. Space the rails 4"-6" apart. Weld cross members every 12" for rigidity.
 2. **Build the headstock.** Weld a steel block or plate at one end of the bed. Press or bolt two bearings into the block, aligned perfectly. Slide the spindle shaft through the bearings. The spindle must spin freely with zero wobble — any runout here gets amplified at the workpiece.
@@ -44,13 +45,13 @@ A real bench lathe costs $300-$1000+. This one costs the price of some bearings 
 8. **Balance and test.** Mount a piece of scrap wood in the chuck. Start at low RPM and check for vibration. If the workpiece wobbles, it's either not centered in the chuck or the spindle has runout. Gradually increase speed. Try a light cut with a sharp chisel held firmly on the tool rest.
 9. **Add a speed indicator.** A small tachometer (from an old bicycle computer or a cheap IR tach) helps you dial in the right RPM for different materials. Wood generally wants 1000-3000 RPM; soft metals want 300-800 RPM.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - A lathe will grab loose clothing, hair, gloves, or rags and pull them (and you) into the spinning workpiece instantly. Never wear gloves while operating a lathe. Tie back long hair. Remove dangling jewelry. Roll up sleeves.
 - Always wear a full face shield, not just safety glasses. A workpiece coming loose at 2000 RPM is a projectile. Ensure the chuck is tight before every power-on.
 - Start at low RPM with new or unbalanced workpieces. An unbalanced piece at high speed will vibrate violently and can shake itself loose.
 
-## See Also
+## 🔗 See Also
 
 - [Electric Go-Kart](024-electric-go-kart.md)
 - [Treadmill Belt Grinder](026-treadmill-belt-grinder.md)

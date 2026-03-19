@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 An electric go-kart built from a steel bed frame chassis, powered by a brushless DC motor pulled from a dead electric scooter, and fed by salvaged lithium battery packs. The bed frame provides the structural rigidity you need — angle iron or square tube steel, already cut to useful lengths, already drilled with holes. The scooter motor provides the torque and RPM. Chain drive to a rear axle, simple steering geometry up front, and you've got a legitimate electric vehicle that can hit 25-30 mph depending on your motor and battery voltage.
 
 This is the build that makes people take junkyard engineering seriously. It moves. It carries a person. It's fast enough to be genuinely fun and genuinely dangerous.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Electric scooter motor — brushless DC, 24V-48V, 250W-1000W *(dead scooter, e-waste)*
 - [ ] Motor controller/ESC — matched to motor voltage and wattage *(from the same scooter, or purchased ~$20)*
@@ -37,7 +36,9 @@ This is the build that makes people take junkyard engineering seriously. It move
 - [ ] Angle grinder, drill, wrenches *(workshop)*
 - [ ] Kill switch — big red button that cuts motor power *(electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Design the frame geometry.** Lay out the bed frame rails on the ground to establish wheelbase and track width. A wheelbase of 48"-60" and track width of 30"-36" gives stable handling. Mark where the rear axle, front steering pivots, and seat will go. Sketch it out before you cut anything.
 2. **Cut and weld the chassis.** Cut the bed frame angle iron to your dimensions. Weld a rectangular base frame, then add cross members for the rear axle mounts and front steering mounts. Gusset every joint — this frame has to hold a person at speed. Grind all welds smooth on surfaces you might contact.
@@ -50,13 +51,13 @@ This is the build that makes people take junkyard engineering seriously. It move
 9. **Test at low speed.** Find a flat, empty parking lot. Power on the system and verify the throttle responds smoothly. Drive at walking speed first. Test steering lock-to-lock. Test brakes from 5 mph, then 10 mph. Check for anything loose or vibrating. Tighten everything.
 10. **Tune and iterate.** Adjust chain tension, brake engagement, and throttle response. If the kart pulls to one side, check wheel alignment and tire pressure. If the motor overheats, you're either undergeared (too much load) or the battery voltage is too low.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - This is a real vehicle. Wear a helmet every single time. At 25 mph on a lightweight frame with no crumple zone, a crash into a curb or wall can cause serious injury. Eye protection and gloves are also non-negotiable.
 - The kill switch must be accessible from the driver's seat with one hand, instantly. Wire it as a normally-open switch in the main power line — if the wire breaks, power cuts. Do not rely on the throttle returning to zero as your only way to stop the motor.
 - Lithium battery packs can catch fire if shorted, punctured, or over-discharged. Mount the battery in a protected location away from the chain and road debris. Use a fuse rated appropriately for your system. Never charge unattended.
 
-## See Also
+## 🔗 See Also
 
 - [DIY Powerwall](../power-and-energy/052-diy-powerwall.md)
 - [Scooter Motor Lathe](025-scooter-motor-lathe.md)

@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A microwave oven transformer (MOT) is designed to step 120V up to 2000V+ for the magnetron. But if you remove the high-voltage secondary winding and replace it with 2-3 turns of thick copper cable, you invert the ratio — now it steps 120V down to about 2-4V at hundreds of amps. That's not enough voltage to shock you, but it's enough current to melt metal at the contact point. Clamp two copper electrodes against thin sheet metal or a battery tab, pulse the power, and you get a clean spot weld in a fraction of a second.
 
 This is the standard method for welding nickel tabs to lithium cells when building battery packs. Commercial spot welders for battery work cost $200-$500. This one costs the price of a few feet of welding cable and an afternoon.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Microwave oven transformer (MOT) *(dead microwave, e-waste)*
 - [ ] Thick copper welding cable — 2/0 or 4/0 gauge, ~3 feet *(electrical supply, scrap yard)*
@@ -30,7 +29,9 @@ This is the standard method for welding nickel tabs to lithium cells when buildi
 - [ ] Hacksaw or angle grinder with cutoff wheel *(workshop)*
 - [ ] Wooden or plastic base *(scrap)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Remove the MOT from the microwave.** Unplug the microwave. Discharge the capacitor first — short the capacitor terminals with an insulated screwdriver (it can hold a lethal charge even when unplugged). Unbolt the transformer from the chassis.
 2. **Remove the secondary winding.** The secondary is the winding with thinner wire and more turns (the high-voltage side). Cut it out with a hacksaw or angle grinder. Be careful not to cut into the primary winding (thicker wire, fewer turns) or the core laminations. A chisel and hammer can help knock out the remaining wire.
@@ -42,13 +43,13 @@ This is the standard method for welding nickel tabs to lithium cells when buildi
 8. **Mount and insulate.** Bolt the transformer to a wooden base. Insulate all mains-voltage connections with heat shrink or electrical tape. Ensure no bare primary wiring is exposed.
 9. **Test on scrap.** Start with two pieces of thin sheet metal. Press the electrodes on opposite sides (or both on the same side for single-sided welding), step on the foot switch, and check the weld. Adjust electrode pressure and pulse duration until you get a clean nugget weld without burn-through.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The primary side of this device runs on mains voltage (120V AC). All mains connections must be fully insulated. Never touch the primary wiring while the unit is plugged in. Use a grounded power cord.
 - The secondary produces extremely high current (300-800A) at low voltage. The electrodes and cable will get hot during extended use. Allow cooling time between welds. The cable can melt its insulation if overworked.
 - When welding lithium battery cells, work in a ventilated area. A bad weld can puncture the cell casing, causing venting or thermal runaway. Practice on scrap before welding live cells. Keep a sand bucket nearby.
 
-## See Also
+## 🔗 See Also
 
 - [DIY Powerwall](../power-and-energy/052-diy-powerwall.md)
 - [Capacitor Discharge Welder](032-capacitor-discharge-welder.md)

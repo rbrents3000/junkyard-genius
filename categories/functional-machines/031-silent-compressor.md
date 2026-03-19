@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Every refrigerator contains a hermetically sealed compressor — a piston pump driven by an electric motor, sealed in a steel canister, running on refrigerant. When the fridge dies, that compressor is almost always still perfectly functional. It's engineered for continuous duty, quiet operation, and extreme reliability (compressors routinely run for 20+ years without maintenance).
 
 Disconnect it from the refrigerant system and plumb it to a small air tank, and it becomes an air compressor that you can run at 2 AM in an apartment without anyone knowing. It won't fill a tank as fast as a shop compressor, and it tops out around 100-120 PSI, but for airbrushing, inflating tires, running small nail guns, blowing off parts, and feeding pneumatic tools intermittently, it's perfect. And it's essentially free.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Fridge compressor — from any dead refrigerator *(curbside, appliance recycler)*
 - [ ] Small air tank — old propane tank (purged), fire extinguisher, or purchased 2-5 gallon tank *(junkyard, hardware store)*
@@ -31,7 +30,9 @@ Disconnect it from the refrigerant system and plumb it to a small air tank, and 
 - [ ] Check valve — prevents tank pressure from backflowing into the compressor *(hardware store)*
 - [ ] Power cord — the compressor needs a start relay and overload protector, usually still attached *(from the fridge)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Recover the compressor.** Cut the refrigerant lines from the compressor (the system is likely already empty if the fridge is dead, but assume it's not — do this outdoors). Keep the start relay and overload protector attached to the compressor's electrical pins — you need them.
 2. **Identify the ports.** A fridge compressor has three copper tubes: suction (intake — larger tube), discharge (output — smaller tube, gets hot when running), and process (sealed stub, used for charging refrigerant). Run the compressor briefly and feel which tube blows air — that's the discharge. The suction tube should suck air.
@@ -43,13 +44,13 @@ Disconnect it from the refrigerant system and plumb it to a small air tank, and 
 8. **Add a drain valve.** Install a petcock or ball valve at the lowest point of the tank. Compressed air produces condensation. Drain the tank after every use to prevent internal rust.
 9. **Test the system.** Power on and listen. The compressor should hum quietly and start building pressure. Check every fitting with soapy water — bubbles reveal leaks. Let it run up to the pressure switch cutoff. Verify the relief valve by temporarily setting the pressure switch above the relief valve's rating (then set it back).
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Compressed air tanks store significant energy. A tank failure at 100 PSI is a fragmentation event. Use only rated pressure vessels. Do not use plastic containers, PVC pipe, or containers not designed for pressure. Test and inspect the tank before first use and periodically.
 - Fridge compressors use oil internally. The discharge air contains oil mist. An oil/water separator is required for any application where oil contamination matters (painting, airbrushing, food). Drain the separator regularly.
 - The compressor's start relay can fail, causing the compressor to hum without starting. This overheats the motor rapidly. If the compressor hums but doesn't run within 2-3 seconds, cut power immediately and check the relay.
 
-## See Also
+## 🔗 See Also
 
 - [Powder Coating Oven](028-powder-coating-oven.md)
 - [Vacuum Chamber](../mad-scientist/039-vacuum-chamber.md)
