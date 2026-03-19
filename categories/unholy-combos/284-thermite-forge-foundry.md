@@ -1,5 +1,9 @@
 # #284 — Thermite Forge Foundry
 
+<p align="center">
+  <img src="../../images/builds/284-thermite-forge-foundry.jpg" alt="Thermite Forge Foundry" width="700" />
+</p>
+
 > Thermite melts steel. A brake rotor catches it. A sand mold shapes it. Home metallurgy at 2500°C — the most violent casting process you'll ever attempt.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #286 — Microwave Spot Welder Arm
 
+<p align="center">
+  <img src="../../images/builds/286-microwave-spot-welder-arm.jpg" alt="Microwave Spot Welder Arm" width="700" />
+</p>
+
 > A robotic arm with a spot welder at the tip. Microwave transformer power meets printer stepper precision — programmable welding for battery packs, sheet metal, and custom fabrication.
 
 ## Ratings

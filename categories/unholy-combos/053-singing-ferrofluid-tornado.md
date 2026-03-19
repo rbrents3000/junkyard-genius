@@ -1,5 +1,9 @@
 # #053 — Singing Ferrofluid Tornado
 
+<p align="center">
+  <img src="../../images/builds/053-singing-ferrofluid-tornado.jpg" alt="Singing Ferrofluid Tornado" width="700" />
+</p>
+
 > Ferrofluid dancing to music inside a rotating magnetic field. A liquid tornado of magnetic spikes that sings. Three builds fused into one unholy creation.
 
 ## Ratings

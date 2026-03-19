@@ -1,5 +1,9 @@
 # #283 — Plasma Speaker Lamp
 
+<p align="center">
+  <img src="../../images/builds/283-plasma-speaker-lamp.jpg" alt="Plasma Speaker Lamp" width="700" />
+</p>
+
 > A lamp that plays music through lightning. The arc IS the speaker — heated air molecules vibrate at audio frequencies, producing sound from pure electricity inside a glass enclosure.
 
 ## Ratings
