@@ -1,5 +1,9 @@
 # #062 — Laptop Screen Light Table
 
+<p align="center">
+  <img src="../../images/builds/062-laptop-screen-light-table.jpg" alt="Laptop Screen Light Table" width="700" />
+</p>
+
 > Strip the LCD layer off a laptop screen and keep the backlight. Ultra-thin, perfectly even light table for tracing art.
 
 ## Ratings

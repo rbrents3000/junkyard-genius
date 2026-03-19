@@ -1,5 +1,9 @@
 # #057 — Hard Drive POV Clock
 
+<p align="center">
+  <img src="../../images/builds/057-hard-drive-pov-clock.jpg" alt="Hard Drive POV Clock" width="700" />
+</p>
+
 > A hard drive platter spins at 7200 RPM. Mount an LED, strobe it in sync, and persistence of vision turns it into a clock.
 
 ## Ratings

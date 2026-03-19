@@ -1,5 +1,9 @@
 # #058 — HDD Platter Wind Chimes
 
+<p align="center">
+  <img src="../../images/builds/058-hdd-platter-wind-chimes.jpg" alt="HDD Platter Wind Chimes" width="700" />
+</p>
+
 > Hard drive platters are precision-polished mirrors that ring like bells. String up a dozen for the most futuristic wind chimes ever made.
 
 ## Ratings

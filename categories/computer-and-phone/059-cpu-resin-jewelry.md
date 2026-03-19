@@ -1,5 +1,9 @@
 # #059 — CPU Resin Jewelry
 
+<p align="center">
+  <img src="../../images/builds/059-cpu-resin-jewelry.jpg" alt="CPU Resin Jewelry" width="700" />
+</p>
+
 > Dead processors and RAM chips are genuinely beautiful at macro scale. Embed them in clear resin for wearable tech art.
 
 ## Ratings

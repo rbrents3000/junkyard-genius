@@ -1,5 +1,9 @@
 # #068 — RAM Stick Ruler
 
+<p align="center">
+  <img src="../../images/builds/068-ram-stick-ruler.jpg" alt="RAM Stick Ruler" width="700" />
+</p>
+
 > RAM sticks are perfectly straight, rigid PCBs with precise dimensions. They make genuinely good rulers. The gold contacts look cool.
 
 ## Ratings
