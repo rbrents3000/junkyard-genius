@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A passive infrared (PIR) sensor detects the body heat of anyone walking through its field of view. An Arduino reads the sensor's trigger signal and fires a servo motor. The servo yanks a fishing line attached to a lightweight scare prop — a hanging ghost, a spring-loaded skeleton arm, a dangling spider — making it lunge toward the victim at exactly the wrong moment. Add a sound module for a scream or growl, and you've got an automated jump scare machine that resets itself after every trigger and never gets bored of its job.
 
@@ -20,7 +18,8 @@ The magic is in the timing. A static Halloween decoration is furniture. A decora
 
 Commercial motion-activated scare props cost $50-100 and have fixed, predictable movements. This one costs $8-15 in parts, has infinitely adjustable timing, speed, and intensity, and can yank any prop of any size in any direction. It's also reusable year after year — swap the prop for a new theme and the mechanism stays the same.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Arduino Nano or Uno *(electronics supplier, $5-15)*
 - [ ] PIR motion sensor module — HC-SR501 is the standard *(electronics supplier, $2)*
@@ -34,7 +33,9 @@ Commercial motion-activated scare props cost $50-100 and have fixed, predictable
 - [ ] Zip ties, tape, screws — for mounting *(junk drawer)*
 - [ ] Jumper wires or hookup wire *(electronics bin)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Wire the PIR sensor to the Arduino.** Connect the HC-SR501 module: VCC to 5V, GND to GND, OUT to digital pin 2. The sensor has two trim potentiometers on the back — the left one controls sensitivity (detection range, adjustable up to about 7 meters) and the right one controls hold time (how long the output stays HIGH after triggering, from 3 seconds to 5 minutes). For a jump scare, set sensitivity to medium-high and hold time to minimum.
 
@@ -56,14 +57,14 @@ Commercial motion-activated scare props cost $50-100 and have fixed, predictable
 
 10. **Deploy on Halloween night.** Position it at a choke point where victims are focused on something else — the end of a dark hallway, around a corner, next to the candy bowl. The best scares happen when attention is directed elsewhere. Dim the lights, hide all wires, and let the machine do its work all night long.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - PIR sensors can false-trigger from pets, HVAC vents blowing warm air, space heaters, and direct sunlight. Position the sensor where only human foot traffic will set it off. Indoor locations away from air vents and windows work best.
 - Make sure the prop cannot physically hit anyone. The fishing line should pull the prop toward an empty space — ceiling, wall, or open area — not directly into the walking path at face height. A swinging prop that contacts a face will end the party fast.
 - People have tripped, punched scare props, thrown their phones, and fallen over backwards from jump scares. Know your audience. Don't deploy this where someone with a heart condition, small child, or person carrying hot coffee will encounter it without warning.
 - The fishing line is nearly invisible and can become a trip or entanglement hazard if it sags. Keep it routed high along the ceiling or tight along walls.
 
-## See Also
+## 🔗 See Also
 
 - [Invisible Bluetooth Speaker](254-invisible-speaker.md)
 - [Piezo Shock Pen](256-shock-pen.md)

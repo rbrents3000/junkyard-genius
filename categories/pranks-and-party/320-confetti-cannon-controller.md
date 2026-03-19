@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A confetti cannon controller uses salvaged solenoids — from dead washing machines, car door lock actuators, or old pinball machines — to fire spring-loaded confetti tubes on command. An Arduino controls the timing, letting you fire individual cannons in sequence, all at once, synced to a music beat, or triggered from a wireless remote across the room. Wire up four to eight cannons positioned around a room, a stage, or a backyard, and you get synchronized celebration effects that look like a professional pyrotechnics show without the fire, the permits, or the budget. Each cannon fires a burst of confetti 10-15 feet in the air. Eight of them going off in a choreographed wave is the kind of thing people pull out their phones to record.
 
@@ -20,7 +18,8 @@ Each cannon is mechanically simple: a PVC tube holds a compressed spring and a p
 
 The controller is where the creativity lives. A basic setup uses a wireless doorbell module as the remote trigger — press the doorbell button from across the room and all cannons fire simultaneously. But with an Arduino in the chain, you can program firing patterns: a sequential wave that ripples across the room left to right, a starburst pattern where cannons fire outward from center, a music-synced mode that triggers on bass hits using a microphone module, or a countdown timer that fires at midnight on New Year's Eve. The relay board handles the electrical switching — each relay controls one solenoid, and the Arduino controls each relay independently. The whole system runs on a single 12V power supply, which can be any old laptop charger rated for 2+ amps. Total cost for an 8-cannon system with wireless remote: about $30 in parts, mostly stuff you already have in a junk drawer.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Solenoid actuators x 4-8 — car door lock solenoids, washing machine water valve solenoids, or pinball machine solenoids *(salvaged from dead appliances — free; or eBay, ~$2 each)*
 - [ ] PVC tubes, 1.5-2" diameter — one per cannon, about 12" long *(hardware store, ~$5 total)*
@@ -38,7 +37,9 @@ The controller is where the creativity lives. A basic setup uses a wireless door
 - [ ] Optional: microphone module — for music-synced triggering *(electronics supplier, ~$2)*
 - [ ] Optional: WS2812B LED strip — for countdown light effects before firing *(electronics supplier, ~$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the cannon tubes.** Cut PVC tubes to 12" lengths. Sand the inside smooth. For each tube, cut a plunger disc from scrap acrylic or stiff cardboard — it should slide freely inside the tube with minimal wobble. Glue the spring to the bottom of the plunger disc (or just let it sit loose underneath — gravity and the tube walls keep it centered). Drop the spring into the tube, place the plunger on top, and press it down to compress the spring. The plunger should launch upward 12-18 inches when released. If the spring is too weak, double it up or find a stiffer one.
 
@@ -58,7 +59,7 @@ The controller is where the creativity lives. A basic setup uses a wireless door
 
 9. **Add music sync (optional).** Connect a microphone module to an Arduino analog input. Write code that detects bass hits above a threshold and triggers a cannon on each beat. Calibrate the threshold so it triggers on heavy beats but ignores conversation and ambient noise. This turns a playlist into a light-and-confetti show.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Solenoids snap with significant force — keep fingers away from the latch mechanism when the system is armed. The pin extraction can pinch or cut if your finger is in the path.
 - Don't aim cannons at faces. The plunger launches with enough force to sting at close range, and confetti in the eyes is unpleasant.
@@ -66,7 +67,7 @@ The controller is where the creativity lives. A basic setup uses a wireless door
 - The 12V power system is low-voltage and safe from electrical shock, but short circuits across the relay board can overheat wires or damage components. Use appropriately rated wire and add an inline fuse on the 12V supply.
 - Clean up confetti after the event. Outdoor confetti should be biodegradable — hole-punched leaves or tissue paper, not metallic foil or plastic.
 
-## See Also
+## 🔗 See Also
 
 - [Motion-Activated Jump Scare](255-motion-jump-scare.md)
 - [Invisible Bluetooth Speaker](254-invisible-speaker.md)

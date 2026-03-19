@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A vortex cannon turns any bucket or trash can into a device that launches perfectly formed smoke rings across a room. Cut a circular hole in the bottom of a trash can, stretch a rubber membrane (shower curtain, exercise band, or even a garbage bag) tightly over the open top, fill the inside with fog, and slap the membrane. A perfect toroidal vortex ring launches out of the hole, holds its shape for 20+ feet, and hits with enough force to blow out candles, knock over cups, or ruffle someone's hair from across the room. The build takes five minutes. The effect looks like a physics simulation escaped into reality.
 
@@ -20,7 +18,8 @@ The magic is in the toroidal vortex itself — a donut-shaped spinning mass of a
 
 The size and speed of the ring depend on two variables: the hole diameter and the slap force. A bigger hole produces a fatter, slower ring that hangs in the air and drifts dramatically. A smaller hole produces a tighter, faster ring that crosses the room in a second and hits harder. The sweet spot for most builds is a 4-6 inch hole in a standard kitchen trash can. Scale it up with a 30-gallon drum and you get rings large enough to engulf a person's entire head. Scale it down with a Pringles can and you get tiny, rapid-fire rings that look like someone is shooting ghost bullets. Either way, this is the single best ratio of build effort to spectacle in this entire collection.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Trash can or 5-gallon bucket — the cannon body; rigid sides work best *(curbside, dollar store — free to $5)*
 - [ ] Rubber sheet or shower curtain — for the membrane; needs to stretch slightly and snap back *(dollar store, ~$1)*
@@ -30,7 +29,9 @@ The size and speed of the ring depend on two variables: the hole diameter and th
 - [ ] Optional: bungee cord or large rubber band — for a tighter membrane seal *(hardware store, ~$2)*
 - [ ] Optional: dry ice + warm water — alternative smoke source if you don't have a fog machine *(grocery store dry ice, ~$3)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Cut the hole.** Turn the trash can or bucket upside down. Trace a circle on the bottom — 4-6 inches in diameter for a standard kitchen trash can, proportionally larger for bigger containers. Cut along the line with scissors, a box cutter, or a jigsaw depending on the material. Smooth any rough edges. This is the muzzle. The rounder and cleaner the hole, the cleaner the vortex rings.
 
@@ -46,14 +47,14 @@ The size and speed of the ring depend on two variables: the hole diameter and th
 
 7. **Scale up for maximum impact.** A 30-gallon trash can with a rubber exercise band membrane and a 10-inch hole produces rings the size of a basketball that travel 30+ feet. Fill it with dense fog machine output and you get room-crossing smoke donuts that look like something out of a movie. At parties, line up a row of candles across the room and blow them all out with a single ring from 20 feet away.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Fog machine fluid can irritate eyes and airways in poorly ventilated spaces. Use in well-ventilated areas or outdoors. People with asthma should stay upwind.
 - The air pulse from a large cannon is surprisingly powerful at close range — don't aim directly at someone's face from under 5 feet. It won't injure, but it's startling and can blow debris into eyes.
 - If using dry ice as a fog source, handle it with gloves or tongs. Dry ice causes frostbite on skin contact. Never seal dry ice in an airtight container — the pressure buildup can cause an explosion.
 - If using candles for demonstration targets, keep them on stable surfaces away from anything flammable. The fog itself is not flammable (standard fog machine fluid is glycol-based), but the air pulse can blow a candle flame sideways onto nearby materials.
 
-## See Also
+## 🔗 See Also
 
 - [Invisible Bluetooth Speaker](254-invisible-speaker.md)
 - [Motion-Activated Jump Scare](255-motion-jump-scare.md)

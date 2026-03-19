@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 An electromagnet mounted above pulls upward on a permanent magnet embedded in a floating object. A hall effect sensor reads the magnetic field strength, which tells the system exactly how far away the floating object is. A PID (Proportional-Integral-Derivative) controller running on an Arduino adjusts the electromagnet's current thousands of times per second: object drifts too close, reduce current; object drops too far, increase current. The result is stable electromagnetic levitation. The object hangs in mid-air with no strings, no supports, no visible mechanism. It just floats.
 
@@ -20,7 +18,8 @@ Earnshaw's theorem (1842) mathematically proved that stable levitation is imposs
 
 You can levitate anything that has a magnet embedded in it: a globe, a light bulb (with wireless power — that's a whole other build), a small potted plant, a figurine, a shoe, a can of beer. The display effect is genuinely stunning. Commercial levitation displays sell for $50-200. This one costs about $15-25 in parts and teaches you control theory that's used in maglev trains, magnetic bearings, and spacecraft attitude control.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Electromagnet — large solenoid or hand-wound coil of magnet wire on a soft iron core *(salvaged from a relay, solenoid valve, pinball machine, or door lock — free; or wind your own with 200+ turns of 20-gauge magnet wire on a large bolt — $5)*
 - [ ] Hall effect sensor — SS49E or A1302 linear analog output *(electronics supplier, $1)*
@@ -34,7 +33,9 @@ You can levitate anything that has a magnet embedded in it: a globe, a light bul
 - [ ] 10K resistor, 100nF capacitor — for sensor filtering *(electronics bin)*
 - [ ] Hookup wire, soldering supplies *(toolbox)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build or salvage the electromagnet.** You need an electromagnet strong enough to support the weight of your floating object from 1-3 inches away. Salvage a large solenoid from an old pinball machine, door lock, or vending machine mechanism. Or wind your own: wrap 200-400 turns of 20-gauge magnet wire tightly around a soft iron core (a large carriage bolt works well). More turns = more force at a given current, but also more resistance and inductance. Test its pull: power it at 12V and see if it can hold a small neodymium magnet at 1-2 inches distance.
 
@@ -62,14 +63,14 @@ You can levitate anything that has a magnet embedded in it: a globe, a light bul
 
 11. **Build the final display.** Hide all electronics in a base pedestal or box below. Run the mounting arm up from the base and out over the levitation zone. Route all wires through the arm or behind it. Add LED strips or a spotlight from below for dramatic effect — a floating object lit from underneath in a dark room is genuinely jaw-dropping. Power on, place the floating object under the electromagnet, release carefully, and let the PID controller take over.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The electromagnet draws significant continuous current and generates heat during operation. Use appropriately rated wire, connectors, and power supply. Add a heatsink to the MOSFET if it gets hot. If the electromagnet itself gets too hot to touch, reduce the maximum PWM duty cycle in the code to limit average current.
 - Neodymium magnets are dangerously strong. N52-grade magnets can pinch skin hard enough to draw blood and shatter into sharp fragments if two magnets collide. Handle with care and keep them far from credit cards, hard drives, pacemakers, and other magnets.
 - If the control loop crashes (code bug, power glitch, sensor failure), the floating object will either snap up to the electromagnet or fall. Design the display height so a falling object won't break anything valuable. Keep fragile items out of the drop zone.
 - The flyback diode across the electromagnet is not optional. Without it, inductive kickback when the MOSFET switches will generate voltage spikes that destroy the MOSFET, and potentially the Arduino, within seconds.
 
-## See Also
+## 🔗 See Also
 
 - [Self-Pouring Bottle](258-self-pouring-bottle.md)
 - [Laser Spirograph](../laser-lab/271-laser-spirograph.md)

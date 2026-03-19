@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A wine bottle or liquor bottle sits on the table. Nobody touches it. Liquid slowly rises from a glass and flows upward into the bottle, defying gravity. Or the reverse — liquid streams out of a perfectly upright, untouched bottle into a glass below. The secret is a small submersible pump hidden in the base or inside the bottle, connected to thin silicone tubing that runs through the liquid. The pump is whisper quiet — ambient conversation or background music covers it completely. The tubing is nearly invisible in dark liquids like red wine, cola, or coffee. A small battery pack and wireless remote trigger hidden under the table let you activate the pour from across the room.
 
@@ -20,7 +18,8 @@ To everyone watching, liquid just decided to ignore the laws of physics. It's th
 
 This build combines the elegance of a stage magic prop with the accessibility of aquarium parts. Everything you need is available at a pet store and a hardware store. The hardest part is drilling a clean hole in glass, and even that can be skipped if you use a bottle with a removable base or build the pump into an external display stand.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Small submersible water pump — 3-6V DC, aquarium dosing pumps are ideal for the slow, steady flow rate *(pet store aquarium section, or electronics supplier — $5-8)*
 - [ ] Clear silicone tubing — match the pump's outlet diameter, typically 4-6mm outer diameter *(pet store aquarium section, hardware store — $2)*
@@ -33,7 +32,9 @@ This build combines the elegance of a stage magic prop with the accessibility of
 - [ ] Dark liquid — red wine, grape juice, cola, cold brew coffee *(kitchen)*
 - [ ] Optional: decorative base or wooden wine coaster — to hide the pump and battery *(thrift store, $1)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Drill the bottle base.** You need a small hole (6-8mm) in the bottom of the bottle for the tubing to pass through. Use a diamond-tipped drill bit at low speed (400-600 RPM) with running water as a coolant — a constant stream from a faucet or a wet sponge underneath. Glass cracks from heat and pressure, so go painfully slow, press lightly, and let the diamond do the work. Drill through the punt (the dimple in the bottom of wine bottles) where the glass is thinnest. Alternatively, skip the drilling entirely: use a bottle with a cork or screw cap, run the tubing through the neck opening, and hide the pump inside a decorative base that the bottle sits on.
 
@@ -53,13 +54,13 @@ This build combines the elegance of a stage magic prop with the accessibility of
 
 9. **Performance tips.** Wait for a natural pause in conversation when attention is near the table but nobody's staring directly at the bottle. Trigger the pump. By the time someone notices, liquid is already flowing the wrong direction and they've missed the start. Act confused. "Hey, is that bottle... did you see that?" Let someone else be the first to point it out — if you call attention to it yourself, people suspect you immediately.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - If using this with actual beverages people will drink, use only food-safe silicone tubing (aquarium-grade is food-safe) and clean the entire tubing and pump system thoroughly with hot water before and after each use. Stagnant liquid in tubing grows bacteria fast.
 - Drilling glass produces sharp edges and fine glass dust. Wear safety glasses and work gloves. Drill under running water to suppress glass dust — inhaling glass particles is a serious respiratory hazard. Work outdoors if possible.
 - Keep all battery connections and switch wiring away from liquid. The pump is submersible by design, but exposed battery terminals and relay boards near spilled wine will short circuit.
 
-## See Also
+## 🔗 See Also
 
 - [Invisible Bluetooth Speaker](254-invisible-speaker.md)
 - [Magnetic Levitating Display Stand](259-magnetic-levitating-display.md)

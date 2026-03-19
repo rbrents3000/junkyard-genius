@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A surface transducer (also called an exciter or bone conduction speaker) doesn't have a cone or a diaphragm like a normal speaker. Instead, it vibrates whatever surface you bolt or tape it to, turning that surface into the speaker. Stick one under a table and the table talks. Stick one on a window and the window sings. Tape one inside a cardboard box and the box becomes a boom box. The transducer itself is completely invisible — it's a small puck about the size of a hockey puck, hidden on the underside or inside of the surface. Pair it with a Bluetooth audio receiver module and a small amplifier, and you can stream audio from your phone to any surface in the room from the next room over.
 
@@ -20,7 +18,8 @@ The effect is deeply disorienting for anyone who doesn't know what's happening. 
 
 The prank applications are obvious: whisper someone's name through a table at 2 AM. Play a faint heartbeat through a wall. Stream barely audible carnival music from a bookshelf. But the legitimate audio applications are real too — surface transducers are used in museum exhibits, commercial displays, and high-end audio installations where visible speakers would ruin the aesthetic. You're just building the same thing from $20 in parts.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Surface transducer / exciter — 20W or higher for decent volume *(electronics supplier, $8-15)*
 - [ ] Bluetooth audio receiver module — small board with 3.5mm or bare wire output *(electronics supplier, $3-5)*
@@ -31,7 +30,9 @@ The prank applications are obvious: whisper someone's name through a table at 2 
 - [ ] Optional: 3.5mm audio cable — if Bluetooth module uses a 3.5mm jack *(junk drawer)*
 - [ ] Optional: USB battery bank — for fully wireless operation *(already own)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Test the transducer by hand first.** Wire the transducer directly to any amplified audio source — even a portable Bluetooth speaker's headphone output works. Press the transducer's flat face firmly against a table, countertop, or wooden door and play music. You should hear the surface produce sound. Try different surfaces: hollow-core doors are loud, thick oak tables have deep bass, metal filing cabinets ring, glass windows produce ethereal highs. Pick your target surface based on what sounds best (or creepiest).
 
@@ -51,13 +52,13 @@ The prank applications are obvious: whisper someone's name through a table at 2 
 
 9. **Deploy for maximum effect.** For pranks: whispering voices, slow breathing sounds, someone saying the target's name at low volume, or faint music that sounds like it's coming from inside the walls. Play at low volume so they question whether they're hearing anything at all. Gradually increase over 30 minutes. For parties: mount under a coffee table and stream music. Guests will spend the first 20 minutes looking for the speaker.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Surface transducers can damage delicate surfaces if driven at high power for extended periods. Antique tables, thin glass, veneered furniture, and instrument soundboards can crack, delaminate, or buzz. Test at low volume first and increase gradually. If you hear rattling or distortion, back off.
 - The transducer gets warm during extended high-volume use. On heat-sensitive surfaces (lacquered wood, plastic laminate, acrylic), keep sessions under an hour at high volume, or run at moderate levels for longer sessions.
 - VHB tape creates a near-permanent bond on smooth surfaces. Removing it may pull up paint, veneer, or finish. Use removable adhesive strips on surfaces you care about.
 
-## See Also
+## 🔗 See Also
 
 - [Motion-Activated Jump Scare](255-motion-jump-scare.md)
 - [Fake Security Camera That Roasts You](257-insult-camera.md)

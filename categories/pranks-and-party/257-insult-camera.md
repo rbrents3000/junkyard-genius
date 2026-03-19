@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A Raspberry Pi Zero with a tiny camera module runs face detection software. When it spots a human face entering its field of view, it picks a random pre-recorded insult from its library and plays it through a hidden speaker. Mount the whole thing inside a picture frame, behind a decorative object, or on a shelf, and it roasts every single person who walks into the room. The camera module is smaller than a postage stamp. The Pi Zero is the size of a credit card. The speaker can be as small as the one in a phone. The entire system hides inside everyday objects and delivers personalized verbal abuse to anyone who dares to exist in its presence.
 
@@ -20,7 +18,8 @@ The face detection runs through OpenCV's Haar cascade classifier — it doesn't 
 
 The first victim alerts everyone else in the house, and then every person has to come see it for themselves — which of course triggers it again with a fresh insult. It's a self-marketing prank. The only limit is how many insults you record and how creative you get with the hiding spot.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Raspberry Pi Zero W — the W model has built-in WiFi for remotely updating insults *(electronics supplier, $10-15)*
 - [ ] Pi Camera Module — v2 or compatible, with the Pi Zero ribbon cable adapter (the Zero uses a smaller connector) *(electronics supplier, $8-12)*
@@ -31,7 +30,9 @@ The first victim alerts everyone else in the house, and then every person has to
 - [ ] Enclosure — picture frame, decorative box, fake plant, bookend, anything that can hide the components *(thrift store, $2-5)*
 - [ ] Optional: PAM8403 mini amplifier board — if your speaker needs more volume *(electronics supplier, $1)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Flash and configure the Pi Zero.** Write Raspberry Pi OS Lite (no desktop needed) to the micro SD card using the Raspberry Pi Imager. Before first boot, enable SSH by placing an empty file called `ssh` in the boot partition. Create a `wpa_supplicant.conf` file in the boot partition with your WiFi credentials so it connects to your network on first boot. Boot the Pi, SSH into it, and run `sudo apt update && sudo apt upgrade`.
 
@@ -59,13 +60,13 @@ The first victim alerts everyone else in the house, and then every person has to
 
 11. **Deploy and enjoy.** Place it in a high-traffic area — kitchen doorway, living room entrance, bathroom mirror shelf (brutal), or office entry. The first person who gets roasted will tell everyone else, and everyone will come investigate, triggering a fresh insult for each of them. If you have WiFi access to the Pi, you can SSH in and swap out the insult library remotely for fresh material.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - This project processes camera input continuously. Be mindful of privacy laws in your jurisdiction — many locations require consent for audio or video recording, even in private homes with guests. Inform people about the camera if you're in a jurisdiction that requires it. The insults are the joke; an undisclosed recording device is not.
 - Keep the insults fun, not cruel. "You look like Monday" is funny. Anything targeting someone's appearance, identity, weight, or personal insecurities is not a prank — it's just being mean. Write your insult library with the assumption that the most sensitive person you know will hear every single clip.
 - The Pi Zero runs warm in an enclosed space with no airflow. Add ventilation holes in the enclosure or leave a gap for air circulation. The Pi's CPU throttles at 80C and can crash at higher temperatures, which means your insult machine goes silent and you have to physically reboot it.
 
-## See Also
+## 🔗 See Also
 
 - [Invisible Bluetooth Speaker](254-invisible-speaker.md)
 - [Self-Pouring Bottle](258-self-pouring-bottle.md)
