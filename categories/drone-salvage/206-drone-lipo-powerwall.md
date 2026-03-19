@@ -53,3 +53,7 @@ The economics are compelling: used drone batteries sell for $5-$15 on eBay as "f
 
 - [Drone Motor Wind Turbine](204-drone-motor-wind-turbine.md) — charge this powerwall with wind energy from drone motors
 - [DIY Powerwall](../power-and-energy/052-diy-powerwall.md) — larger-scale powerwall from laptop 18650 cells
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

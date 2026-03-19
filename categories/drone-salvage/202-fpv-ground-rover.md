@@ -53,3 +53,7 @@ Add the drone's obstacle-avoidance sensors and you've got a rover that warns you
 
 - [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer.md) — add a stabilized camera to this rover for smooth footage
 - [Obstacle-Dodging Robot](205-obstacle-dodging-robot.md) — upgrade this rover with autonomous navigation using drone sensors
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

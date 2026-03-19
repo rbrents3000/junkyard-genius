@@ -51,3 +51,8 @@ The quality of the results is staggering for a build that costs almost nothing.
 
 - [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer.md) — same motors used for handheld video stabilization
 - [Precision Digital Scale](207-precision-digital-scale.md) — another precision application of gimbal motor torque sensing
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

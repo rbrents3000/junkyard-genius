@@ -52,3 +52,8 @@ The key insight is that the motor's torque constant (Kt) relates current to torq
 
 - [Gimbal Motor Star Tracker](203-gimbal-motor-star-tracker.md) — precision positioning application using the same motor type
 - [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer.md) — the original application of these motors' precision control
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

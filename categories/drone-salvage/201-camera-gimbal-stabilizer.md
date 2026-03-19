@@ -53,3 +53,8 @@ The IMU reads the current orientation, the PID loop calculates how far off-level
 
 - [Gimbal Motor Star Tracker](203-gimbal-motor-star-tracker.md) — same motors, different application: tracking stars at sidereal rate
 - [FPV Ground Rover](202-fpv-ground-rover.md) — mount this stabilizer on a rover for smooth mobile footage
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

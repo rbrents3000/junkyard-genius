@@ -53,3 +53,8 @@ The result is a robot that drives itself around a room, hallway, or outdoor spac
 
 - [FPV Ground Rover](202-fpv-ground-rover.md) — add FPV camera for remote viewing of what the robot sees
 - [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer.md) — mount a stabilized camera on this platform for smooth autonomous filming
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

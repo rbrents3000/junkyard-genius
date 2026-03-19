@@ -51,3 +51,7 @@ You won't power your house. But you can trickle-charge a phone, run LED lights, 
 
 - [Drone LiPo Powerwall](206-drone-lipo-powerwall.md) — store wind energy in salvaged drone batteries
 - [Scooter Motor Wind Turbine](../scooter-and-motor/091-wind-phone-charger.md) — larger turbine from e-scooter hub motors
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
