@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A laser line module projects a thin vertical line of light. When that line hits a 3D object, it curves and bends following the object's surface contour. A camera viewing from a fixed angle sees these curves, and software (triangulation math) converts the curve shape into depth information. Put the object on a turntable (a microwave turntable motor spins at exactly the right speed), rotate 360 degrees while capturing frames, and software stitches together a full 3D point cloud of the object. Export as an STL file and 3D print an exact copy. The entire setup costs under $10 if you salvage the turntable motor and webcam — commercial 3D scanners start at $300.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Microwave turntable motor (synchronous AC motor, ~3 RPM) *(dead microwave)*
 - [ ] Webcam or old phone as camera — higher resolution = more detail *(junk drawer)*
@@ -27,7 +26,9 @@ A laser line module projects a thin vertical line of light. When that line hits 
 - [ ] Optional: Arduino — for controlling the turntable motor and triggering camera frames *(~$5)*
 - [ ] Optional: stepper motor — for more precise turntable rotation instead of the synchronous motor *(salvage from printer)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage the turntable motor.** Remove the turntable drive motor from a dead microwave. It's a small synchronous AC motor (usually 21V AC, 3-4 RPM) mounted under the floor of the microwave cavity. Keep the motor coupling that connects to the glass plate.
 2. **Build the turntable.** Mount the motor vertically on your base board. Attach a flat platform (the microwave glass plate works, or cut a circle of plywood) to the motor shaft. The platform should spin smoothly and level — check with a small level while it rotates.
@@ -40,12 +41,12 @@ A laser line module projects a thin vertical line of light. When that line hits 
 9. **Process the scan.** The raw point cloud may have noise, gaps, or alignment errors. Use MeshLab (free) to clean the point cloud: remove outlier points, smooth the surface, fill small holes, and generate a solid mesh.
 10. **Export and use.** Export the cleaned mesh as an STL file. Open in a 3D printing slicer to print a physical copy, or import into Blender or CAD software for further modification. Compare the scan to the original object to assess accuracy.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The laser line module is typically Class 2 or 3R (under 5mW). Do not stare directly into the laser beam. While brief accidental exposure is generally safe, prolonged direct viewing can damage the retina. Keep the laser pointed at the turntable, not at eye level.
 - Microwave turntable motors run on AC power (typically 21V AC from a small transformer, or mains voltage in some models). If wiring directly, use appropriate insulation and never handle live AC connections. Using a low-voltage adapter or an Arduino-controlled stepper motor is much safer.
 
-## See Also
+## 🔗 See Also
 
 - [Scanner Camera](070-scanner-camera.md)
 - [Printer Stepper CNC](069-printer-stepper-cnc.md)

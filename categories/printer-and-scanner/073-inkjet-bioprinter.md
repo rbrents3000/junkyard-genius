@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 An inkjet printer works by firing microscopic droplets through tiny nozzles with extraordinary precision — thousands of droplets per second, each placed within microns of its target. The printer doesn't care what liquid is in the cartridge. Replace ink with conductive silver nanoparticle solution and you can print working circuit board traces on paper or plastic. Replace it with biological solutions and you're in the world of bioprinting — actual university research labs use modified Epson and HP printers for printing cell cultures, biosensors, and tissue scaffolds. This is not science fiction. This is a real technique published in peer-reviewed journals, and you can do it with a $10 thrift store printer.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Old inkjet printer — Epson models with piezoelectric heads work best (thermal HP heads work but heat the liquid) *(thrift store, e-waste bin)*
 - [ ] Empty refillable ink cartridges — for your printer model *(~$5, printer supply store)*
@@ -29,7 +28,9 @@ An inkjet printer works by firing microscopic droplets through tiny nozzles with
 - [ ] Nitrile gloves *(pharmacy)*
 - [ ] Optional: heat gun or oven — for sintering silver traces after printing *(workshop)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Select and test the printer.** Epson printers use piezoelectric print heads (no heat, gentler on custom solutions). HP and Canon use thermal inkjet (heats the liquid briefly). For conductive ink, either works. For biological solutions, piezo is strongly preferred. Confirm the printer still prints a clean test page with its original cartridges.
 2. **Acquire refillable cartridges.** Buy empty, refillable cartridge shells compatible with your printer model. These have removable plugs for filling and often include reset chips so the printer doesn't reject them. Alternatively, thoroughly clean original cartridges by flushing with distilled water.
@@ -42,13 +43,13 @@ An inkjet printer works by firing microscopic droplets through tiny nozzles with
 9. **Test your circuits.** For conductive prints: measure resistance across traces with a multimeter. Good traces should read under 10 ohms per centimeter. Solder or use conductive epoxy to attach components to the printed traces. A working LED circuit on paper is a fantastic proof of concept.
 10. **Iterate and refine.** Experiment with different substrates (paper, plastic, fabric, glass), different numbers of print passes, and different sintering temperatures. Document what works — this is genuine materials science research.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Silver nanoparticle inks contain solvents that produce fumes. Work in a well-ventilated area or under a fume hood. Wear nitrile gloves — silver nanoparticles can be absorbed through skin and their long-term health effects are still being studied.
 - If printing biological materials, maintain sterile technique and never print pathogenic organisms. This is a maker project, not a BSL-2 lab. Stick to food-grade or GRAS (Generally Recognized As Safe) biological materials.
 - Print head cleaning solution and conductive inks can stain surfaces permanently. Protect your work area with disposable covering. Wear gloves and old clothes.
 
-## See Also
+## 🔗 See Also
 
 - [Printer Stepper CNC](069-printer-stepper-cnc.md)
 - [DVD Laser Engraver](071-dvd-laser-engraver.md)

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A salvaged thermal receipt printer — the kind from cash registers, gas station pumps, point-of-sale systems, and parking meters — connected to a Raspberry Pi or Arduino that feeds it a continuous stream of generative algorithmic art. The printer outputs unique patterns onto receipt paper: fractals, cellular automata, Perlin noise landscapes, mathematical spirals, flow fields, dithered photographs, and random geometric compositions. Each print is generated from a random seed, so no two outputs are ever identical. Mount the printer on a wall with the paper cascading downward, and you have a never-ending art installation that grows longer by the minute — an algorithmic gallery that literally prints itself into existence.
 
@@ -20,7 +18,8 @@ Thermal printers are the ideal medium for generative art because they require no
 
 The setup doubles as a functional utility station. Between art sessions, the same printer can output daily to-do lists pulled from a task API, weather forecasts, daily quotes, mini-newspapers with headlines scraped from RSS feeds, or QR codes linking to whatever you want. A physical button on the Raspberry Pi housing can switch between modes: press once for generative art, press twice for today's weather, press three times for a random Wikipedia summary. The thermal printer becomes a single-function physical interface — no screen, no app, no notifications, just a strip of paper with exactly what you asked for. The art mode is the showstopper, but the utility mode is what keeps you using it daily. And the whole thing runs on a $5 printer that was destined for a landfill.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Thermal receipt printer — 58mm or 80mm width, with serial (TTL) or USB interface *(salvaged from dead POS system, cash register, gas pump, parking meter — free to $5 on eBay)*
 - [ ] Raspberry Pi (any model with GPIO) — the brains; a Pi Zero W is perfect for this *(electronics supplier, ~$10; or use an Arduino Mega for simpler setups)*
@@ -33,7 +32,9 @@ The setup doubles as a functional utility station. Between art sessions, the sam
 - [ ] Optional: 3D-printed or cardboard enclosure — to house the Pi and wiring cleanly *(scrap bin or 3D printer)*
 - [ ] Optional: real-time clock module (DS3231) — for time-based prints if the Pi isn't networked *(electronics supplier, ~$1)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Identify the printer interface.** Open the printer or check its label for model information. Most thermal receipt printers use one of three interfaces: TTL serial (a 3-pin or 5-pin connector with TX, RX, and GND — common on small receipt printers), USB (appears as a serial device or printer class device), or RS-232 serial (a DB-9 connector, needs a level shifter to talk to the Pi's 3.3V GPIO). For TTL serial, connect TX from the printer to RX on the Pi GPIO and vice versa — cross the lines. For USB, just plug it in.
 
@@ -55,14 +56,14 @@ The setup doubles as a functional utility station. Between art sessions, the sam
 
 10. **Mount and display.** Attach the printer to a wall, shelf edge, or custom bracket with the paper exit pointing downward. The paper should cascade freely as it prints — gravity keeps it straight and the growing curtain of art is the visual spectacle. Tuck the Raspberry Pi and wiring behind the printer or in a small enclosure. Feed new paper rolls through the top. Tear off finished sections, trim them, and frame the ones you love. Thermal prints fade over time in sunlight (months to years depending on exposure), so frame behind UV-protective glass or scan your favorites for archival digital copies.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The thermal print head reaches temperatures high enough to darken thermal paper — about 70-80 degrees Celsius. Don't touch the print head during or immediately after printing. It cools quickly once printing stops, but give it 30 seconds.
 - Thermal paper rolls are chemically coated (BPA or BPS in some formulations). Wash your hands after handling large quantities. Don't eat while handling thermal paper. For prolonged art sessions, this is a minor concern — for daily receipts at a gas station, less so.
 - The Raspberry Pi operates at 5V — no shock hazard. Ensure the printer's power supply is properly rated and not a damaged unit with exposed wiring.
 - If wall-mounting, secure the printer firmly — a falling printer with a dangling paper trail is a tripping hazard and a mess.
 
-## See Also
+## 🔗 See Also
 
 - [Pen Plotter](072-pen-plotter.md)
 - [Generative Art Plotter](../python-projects/142-generative-art-plotter.md)

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A flatbed scanner captures images by dragging a narrow line sensor slowly across the scanning surface, one pixel row at a time. A typical scan takes 15-30 seconds to sweep from one end of the glass to the other. If you remove the lid, darken the room, and move light sources across the glass during the scan, each column of the output image corresponds to a different moment in time. The result is a long-exposure light painting — but instead of capturing the entire scene at once like a camera, the scanner records it slice by slice, column by column, left to right. Move an LED smoothly across the glass as the scan head approaches and you get a clean, luminous trail. Shake the light rapidly and you get a textured band of oscillating brightness. Swirl it in circles and you get spirals that distort and stretch as time unfolds across the horizontal axis.
 
@@ -20,7 +18,8 @@ The scanner's resolution is what makes this technique extraordinary. A cheap fla
 
 The most mind-bending application is scanner portraiture: place your face on the glass (or hover just above it), illuminate yourself from above with a small light, and hold still during the scan. Any movement — a blink, a smile, a head turn — creates surreal distortions because the scan head captures different parts of your face at different moments. Turn your head slowly during the scan and your face stretches or compresses. Blink and one eye appears closed while the other is open. The result is something between a photograph and a time-lapse, with a quality that's impossible to achieve any other way. This is the most boring piece of e-waste in existence — the flatbed scanner everyone has in a closet and never uses — turned into a fine art tool with zero modification and zero cost.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Flatbed scanner — any working USB or old parallel-port scanner; the older and cheaper the better *(thrift store, ~$3; or free from a closet, garage sale, or office cleanout)*
 - [ ] Computer with scanning software — the scanner's bundled software, or free alternatives like VueScan, NAPS2, or GIMP's scanner plugin *(already own)*
@@ -34,7 +33,9 @@ The most mind-bending application is scanner portraiture: place your face on the
 - [ ] Optional: sparklers — for chaotic, organic light textures *(seasonal/hardware store, ~$3)*
 - [ ] Optional: translucent objects — leaves, feathers, fabric scraps, glass beads — for backlit silhouettes *(nature, junk drawer — free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up the scanner.** Connect the scanner to your computer via USB. Install drivers if needed — most modern operating systems recognize scanners automatically. Open your scanning software and confirm the scanner works with a normal test scan of any document. Remove or prop open the scanner lid so the glass is exposed and accessible from above. The lid's hinge usually lets it stay open at 90 degrees, or remove it entirely by popping it off the hinges.
 
@@ -54,14 +55,14 @@ The most mind-bending application is scanner portraiture: place your face on the
 
 9. **Post-process and print.** The raw scans often benefit from contrast and brightness adjustment. Open in any image editor, boost contrast, adjust levels, and crop to the most interesting section. The files are enormous (a 1200 DPI full-bed scan is 100+ megapixels) — perfect for large-format printing. Frame your favorites. Each scan is unique and unrepeatable, making these genuine one-of-one art prints.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - There is no electrical, chemical, or mechanical hazard. Flatbed scanners operate at USB voltage levels and the scanning lamp is an LED or cold-cathode fluorescent — neither poses any risk.
 - If using sparklers or candles as light sources near the scanner glass, exercise normal fire caution. Don't let molten wax or sparks land on the glass — they can scratch or crack it. Hold them above the glass, not resting on it.
 - Don't press your face hard against the scanner glass — it's not designed to support weight. Hover just above or rest gently.
 - Scanner lamps are safe to look at but can be bright in a dark room. Don't stare directly at the scan head lamp during operation if you've adapted to darkness.
 
-## See Also
+## 🔗 See Also
 
 - [Scanner Camera](070-scanner-camera.md)
 - [Pen Plotter](072-pen-plotter.md)

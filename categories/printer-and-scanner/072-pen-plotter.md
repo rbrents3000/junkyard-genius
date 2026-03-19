@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A pen plotter is a machine that draws with actual pens on actual paper — moving a pen holder across X and Y axes under computer control. The output has a quality that inkjet printers simply cannot replicate: real ink lines with variable pressure, real pen texture, the ability to use any pen (fountain pens, brush pens, metallic markers, even paintbrushes). Feed it SVG vector files or generative art algorithms and it produces drawings that look hand-made because they literally are — just by a very precise, very patient robot. Salvage stepper motors and timing belts from dead printers, add a servo for pen up/down, and you've got a plotter that rivals $200+ commercial AxiDraw machines.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 2 stepper motors (NEMA 17) — salvaged from printers *(e-waste bin)*
 - [ ] Timing belts + pulleys — salvaged from printers *(e-waste bin)*
@@ -29,7 +28,9 @@ A pen plotter is a machine that draws with actual pens on actual paper — movin
 - [ ] Plywood or aluminum extrusion — for frame *(hardware store)*
 - [ ] 12V power supply *(old charger or PC PSU)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Harvest components.** Disassemble dead printers and extract stepper motors, timing belts, pulleys, and linear guide rods. Keep the belt-and-pulley assemblies intact where possible — they're pre-tensioned and pre-aligned.
 2. **Design the motion system.** The most common plotter design is CoreXY (both motors fixed, belts move the head diagonally) or H-bot (simpler but less precise). For a first build, a simpler cartesian design works: one motor moves the pen carriage left/right on a rail (X), another motor moves the paper platform or a gantry front/back (Y).
@@ -42,12 +43,12 @@ A pen plotter is a machine that draws with actual pens on actual paper — movin
 9. **Calibrate.** Draw a test square and measure it. Adjust steps-per-mm until the square is perfectly square and the correct size. Test pen up/down servo positions — the pen should touch paper gently without pressing too hard.
 10. **Create your first plot.** Start with a simple SVG line drawing. Load it in your plotter software, set paper size, and hit plot. Watch the pen trace beautiful, precise lines on real paper. Then try generative art, stippling algorithms, or flow field visualizations for truly mesmerizing output.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Timing belts under tension store energy. If a belt snaps or slips off a pulley, it can whip. Keep fingers clear of moving belts during operation and wear safety glasses for initial testing.
 - Stepper motors and drivers get hot during extended plotting sessions. Ensure adequate ventilation around the electronics. Don't place flammable materials against the motor housings.
 
-## See Also
+## 🔗 See Also
 
 - [Printer Stepper CNC](069-printer-stepper-cnc.md)
 - [DVD Laser Engraver](071-dvd-laser-engraver.md)

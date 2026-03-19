@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 DVD burner drives contain two valuable things: a precision stepper-driven sled mechanism (designed to position a laser to micron accuracy) and a laser diode powerful enough to permanently alter physical media. Two DVD drive sleds mounted perpendicular to each other create X and Y axes with ~40mm travel each. Mount the laser diode from one of the drives, add an Arduino with GRBL firmware and stepper drivers, and you have a tiny laser engraver that can etch detailed images into wood, leather, paper, and dark plastic. The work area is small (about 40x40mm) but the resolution is incredible — finer than most commercial hobby engravers because the DVD sled positioning is absurdly precise.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 2 DVD/Blu-ray drives with burner capability — the burner laser is stronger than a reader *(e-waste bin, old PCs)*
 - [ ] Arduino Uno or Nano *(~$5, electronics supplier)*
@@ -28,7 +27,9 @@ DVD burner drives contain two valuable things: a precision stepper-driven sled m
 - [ ] Small nuts, bolts, and standoffs — for frame assembly *(hardware store)*
 - [ ] Base plate — small piece of plywood, acrylic, or aluminum *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Extract the sled assemblies.** Open both DVD drives by removing their cover screws. Inside, find the laser sled — a small carriage on guide rails driven by a tiny stepper motor via a worm gear. Carefully remove the entire sled assembly from each drive, keeping the stepper motor, guide rails, and carriage intact.
 2. **Extract the laser diode.** From one of the drives (preferably a Blu-ray or DVD burner — they have stronger lasers), remove the laser diode from the optical pickup assembly. It's a small metal can with 3 pins. Handle with care — the lens on the front is fragile and the pins can be damaged by static.
@@ -41,13 +42,13 @@ DVD burner drives contain two valuable things: a precision stepper-driven sled m
 9. **Focus the laser.** Place a test piece of wood or dark paper on the work surface. Jog the laser to the center. Pulse the laser briefly while adjusting the focal height until you get the smallest, brightest dot. Lock the height in place.
 10. **Run your first engraving.** Load a simple design, set conservative power and speed settings. The laser should visibly darken wood or paper along its path. Adjust power, speed, and resolution to dial in quality. Dark materials absorb more laser energy and engrave better.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - DVD burner lasers can cause permanent eye damage in a fraction of a second. ALWAYS wear laser safety goggles rated for your laser's wavelength when the laser is powered. Never look at the dot or its reflection. Never point the laser at anyone.
 - Laser engraving produces smoke and fumes, especially from wood and leather. Work in a well-ventilated area or add a small fan to blow fumes away from the work area. A PC fan works well.
 - The laser diode is extremely sensitive to static electricity and overcurrent. Always use a proper constant-current driver, never connect directly to a voltage source. Ground yourself before handling the bare diode.
 
-## See Also
+## 🔗 See Also
 
 - [Printer Stepper CNC](069-printer-stepper-cnc.md)
 - [Pen Plotter](072-pen-plotter.md)

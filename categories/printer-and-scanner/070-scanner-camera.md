@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A flatbed scanner uses a linear CCD sensor — a single row of thousands of photosites that sweeps across the document. That "sweep" is essentially a very slow, very high-resolution exposure, capturing one line of pixels at a time. At 4800 DPI across 8.5 inches, that's over 40,000 pixels wide. Build a light-tight box with a lens (pinhole or glass) focusing an image onto the scanner glass, and each "scan" becomes a photograph with resolution that makes even professional cameras jealous. The exposure takes 10-30 seconds (the scan time), so moving subjects create surreal motion blur streaks, while still subjects are captured in insane detail. Fine art photographers actually use this technique for large-format-style images.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Flatbed scanner — CCD type preferred over CIS; older scanners often have better CCD sensors *(thrift store, e-waste bin)*
 - [ ] Large lens — magnifying glass, old projector lens, or camera lens with adapter *(thrift store, ~$5)*
@@ -26,7 +25,9 @@ A flatbed scanner uses a linear CCD sensor — a single row of thousands of phot
 - [ ] Computer with scanner software — for controlling scans *(already own)*
 - [ ] Tripod or stable mount — the whole assembly needs to be still during long exposures *(already own)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Test the scanner.** Connect the scanner to your computer and verify it works with scanning software (VueScan, NAPS2, or the manufacturer's software). Do a test scan to confirm the CCD sensor is functional and note the maximum DPI setting.
 2. **Determine focal length.** Measure the distance from your lens to the point where it focuses a distant object to a sharp image. This is the focal length, and it determines how tall your box needs to be. A magnifying glass is typically 100-200mm; a camera lens will have the focal length printed on it.
@@ -39,12 +40,12 @@ A flatbed scanner uses a linear CCD sensor — a single row of thousands of phot
 9. **Post-process.** The raw scan will need rotation (180 degrees to flip the inverted image), color correction, and possibly cropping. The resolution will be enormous — a typical scan at 4800 DPI produces images of 100+ megapixels.
 10. **Experiment with motion.** Photograph moving subjects — the line-by-line capture creates distinctive motion distortion. A person walking past becomes elongated or compressed depending on direction relative to the scan sweep. This is a feature, not a bug.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Scanner lamps (especially on older CCD scanners) get very hot during extended scanning sessions. Let the scanner cool between scans and don't block ventilation.
 - The assembled camera box can be top-heavy when mounted on the scanner. Secure it to prevent tipping, especially if using a heavy glass lens.
 
-## See Also
+## 🔗 See Also
 
 - [DIY 3D Scanner](074-diy-3d-scanner.md)
 - [Laptop Screen Light Table](../computer-and-phone/062-laptop-screen-light-table.md)
