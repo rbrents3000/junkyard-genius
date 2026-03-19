@@ -1,5 +1,9 @@
 # #202 — FPV Ground Rover
 
+<p align="center">
+  <img src="../../images/builds/202-fpv-ground-rover.jpg" alt="FPV Ground Rover" width="700" />
+</p>
+
 > Strap a drone camera and video transmitter onto a wheeled chassis for first-person-view exploration of tunnels, crawl spaces, and anywhere you can't fit.
 
 ## Ratings

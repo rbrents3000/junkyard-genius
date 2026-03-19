@@ -1,5 +1,9 @@
 # #206 — Drone LiPo Powerwall
 
+<p align="center">
+  <img src="../../images/builds/206-drone-lipo-powerwall.jpg" alt="Drone LiPo Powerwall" width="700" />
+</p>
+
 > Harvest lithium polymer cells from dead drone battery packs, test them individually, and assemble a portable power station with real capacity.
 
 ## Ratings
