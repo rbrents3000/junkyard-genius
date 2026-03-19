@@ -1,0 +1,863 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Build Finder Quiz — Junkyard Genius</title>
+<meta name="description" content="Answer a few questions. We'll find your perfect junkyard build.">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0d1117;--card:#161b22;--card-hover:#1c2333;--border:#30363d;
+  --text:#e6edf3;--text-dim:#8b949e;--text-muted:#484f58;
+  --orange:#ff6b35;--blue:#3b82f6;--red:#ef4444;--purple:#7c3aed;--green:#22c55e;
+  --yellow:#eab308;
+  --radius:12px;--radius-sm:8px;
+}
+html{font-size:16px;-webkit-text-size-adjust:100%}
+body{
+  background:var(--bg);color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,sans-serif;
+  line-height:1.6;min-height:100vh;
+  overflow-x:hidden;
+}
+
+/* ── Progress bar ── */
+.progress-wrap{
+  position:fixed;top:0;left:0;right:0;z-index:100;
+  background:var(--bg);border-bottom:1px solid var(--border);
+  padding:12px 20px;
+}
+.progress-bar-track{
+  height:6px;border-radius:3px;background:var(--border);overflow:hidden;
+}
+.progress-bar-fill{
+  height:100%;border-radius:3px;
+  background:linear-gradient(90deg,var(--orange),var(--purple));
+  transition:width 0.5s cubic-bezier(.4,0,.2,1);width:0%;
+}
+.progress-label{
+  font-size:0.75rem;color:var(--text-dim);margin-top:4px;text-align:center;
+}
+
+/* ── Layout ── */
+.container{
+  max-width:720px;margin:0 auto;padding:80px 20px 60px;
+}
+
+/* ── Header ── */
+.header{text-align:center;margin-bottom:48px}
+.header h1{
+  font-size:clamp(1.8rem,5vw,2.8rem);font-weight:800;letter-spacing:-0.02em;
+  background:linear-gradient(135deg,var(--orange),var(--purple));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  background-clip:text;
+}
+.header .subtitle{
+  color:var(--text-dim);font-size:1.05rem;margin-top:8px;
+}
+
+/* ── Question slide ── */
+.question-slide{
+  opacity:0;transform:translateY(30px);
+  transition:opacity 0.5s ease,transform 0.5s ease;
+  display:none;
+}
+.question-slide.active{
+  display:block;opacity:1;transform:translateY(0);
+}
+.question-slide.exit-left{
+  opacity:0;transform:translateX(-60px);
+}
+.question-text{
+  font-size:1.5rem;font-weight:700;margin-bottom:24px;text-align:center;
+}
+.question-hint{
+  font-size:0.85rem;color:var(--text-dim);text-align:center;margin-bottom:20px;
+}
+
+/* ── Option cards ── */
+.options{display:grid;gap:12px}
+.options.two-col{grid-template-columns:1fr 1fr}
+@media(max-width:500px){.options.two-col{grid-template-columns:1fr}}
+
+.option-card{
+  background:var(--card);border:2px solid var(--border);border-radius:var(--radius);
+  padding:18px 20px;cursor:pointer;
+  transition:all 0.2s ease;
+  display:flex;align-items:center;gap:14px;
+  user-select:none;-webkit-user-select:none;
+  position:relative;overflow:hidden;
+}
+.option-card::before{
+  content:'';position:absolute;inset:0;
+  background:linear-gradient(135deg,rgba(255,107,53,0.08),rgba(124,58,237,0.08));
+  opacity:0;transition:opacity 0.3s;
+}
+.option-card:hover{
+  border-color:var(--text-muted);background:var(--card-hover);
+  transform:translateY(-2px);
+  box-shadow:0 8px 24px rgba(0,0,0,0.3);
+}
+.option-card.selected{
+  border-color:var(--orange);
+  box-shadow:0 0 20px rgba(255,107,53,0.15),0 4px 16px rgba(0,0,0,0.3);
+}
+.option-card.selected::before{opacity:1}
+.option-card:active{transform:scale(0.98)}
+
+.option-emoji{font-size:1.6rem;flex-shrink:0;position:relative;z-index:1}
+.option-label{font-size:1rem;font-weight:500;position:relative;z-index:1}
+
+/* Multi-select checkmark */
+.option-card .check{
+  position:absolute;top:10px;right:12px;width:22px;height:22px;
+  border-radius:6px;border:2px solid var(--border);
+  display:flex;align-items:center;justify-content:center;
+  transition:all 0.2s;z-index:1;
+}
+.option-card.selected .check{
+  background:var(--orange);border-color:var(--orange);
+}
+.option-card .check svg{
+  width:14px;height:14px;stroke:#fff;stroke-width:3;
+  fill:none;opacity:0;transition:opacity 0.2s;
+}
+.option-card.selected .check svg{opacity:1}
+
+/* ── Navigation ── */
+.nav-row{
+  display:flex;justify-content:space-between;margin-top:32px;gap:12px;
+}
+.btn{
+  padding:14px 32px;border-radius:var(--radius-sm);border:none;
+  font-size:1rem;font-weight:600;cursor:pointer;
+  transition:all 0.2s;
+}
+.btn-primary{
+  background:linear-gradient(135deg,var(--orange),#e55a2b);
+  color:#fff;
+}
+.btn-primary:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(255,107,53,0.35)}
+.btn-primary:disabled{opacity:0.4;cursor:not-allowed;transform:none;box-shadow:none}
+.btn-secondary{
+  background:var(--card);color:var(--text);border:1px solid var(--border);
+}
+.btn-secondary:hover{border-color:var(--text-muted);background:var(--card-hover)}
+
+/* ── Results ── */
+#results{display:none}
+#results.active{display:block}
+
+.results-header{text-align:center;margin-bottom:36px}
+.results-header h2{
+  font-size:2rem;font-weight:800;
+  background:linear-gradient(135deg,var(--orange),var(--green));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  background-clip:text;
+}
+.results-header p{color:var(--text-dim);margin-top:8px}
+
+.result-card{
+  background:var(--card);border:1px solid var(--border);border-radius:var(--radius);
+  padding:24px;margin-bottom:16px;
+  transition:all 0.3s ease;
+  opacity:0;transform:translateY(20px);
+  animation:cardIn 0.5s ease forwards;
+}
+.result-card:nth-child(1){animation-delay:0.1s}
+.result-card:nth-child(2){animation-delay:0.2s}
+.result-card:nth-child(3){animation-delay:0.3s}
+.result-card:nth-child(4){animation-delay:0.4s}
+.result-card:nth-child(5){animation-delay:0.5s}
+
+@keyframes cardIn{
+  to{opacity:1;transform:translateY(0)}
+}
+
+.result-card:hover{
+  border-color:var(--text-muted);transform:translateY(-3px);
+  box-shadow:0 12px 32px rgba(0,0,0,0.3);
+}
+
+.result-rank{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:32px;height:32px;border-radius:50%;
+  background:linear-gradient(135deg,var(--orange),var(--purple));
+  color:#fff;font-weight:800;font-size:0.85rem;
+  margin-right:12px;flex-shrink:0;
+}
+.result-top{display:flex;align-items:center;margin-bottom:12px}
+.result-name{
+  font-size:1.2rem;font-weight:700;flex:1;
+}
+.result-num{
+  color:var(--text-dim);font-size:0.85rem;font-weight:600;
+}
+.result-category{
+  display:inline-block;
+  background:var(--bg);border:1px solid var(--border);border-radius:20px;
+  padding:3px 12px;font-size:0.75rem;color:var(--text-dim);
+  margin-bottom:12px;
+}
+.result-ratings{
+  display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px;
+}
+.rating-badge{
+  display:inline-flex;align-items:center;gap:4px;
+  padding:4px 10px;border-radius:6px;font-size:0.75rem;font-weight:600;
+  background:rgba(255,255,255,0.05);
+}
+.rating-badge.jaw{color:var(--orange)}
+.rating-badge.brain{color:var(--blue)}
+.rating-badge.wallet{color:var(--green)}
+.rating-badge.spicy{color:var(--red)}
+.rating-badge.clout{color:var(--purple)}
+.rating-badge.time{color:var(--text-dim)}
+
+.result-match{
+  font-size:0.85rem;color:var(--text-dim);margin-bottom:14px;
+  font-style:italic;
+}
+.result-link{
+  display:inline-flex;align-items:center;gap:6px;
+  color:var(--orange);text-decoration:none;font-size:0.9rem;font-weight:600;
+  transition:color 0.2s;
+}
+.result-link:hover{color:#ff8f66;text-decoration:underline}
+
+/* Wildcard section */
+.wildcard-section{margin-top:48px}
+.wildcard-section h3{
+  font-size:1.3rem;font-weight:700;margin-bottom:20px;
+  color:var(--purple);
+}
+.wildcard-cards{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(200px,1fr))}
+.wildcard-card{
+  background:var(--card);border:1px solid var(--border);border-radius:var(--radius);
+  padding:18px;transition:all 0.3s;
+  opacity:0;animation:cardIn 0.5s ease forwards;
+}
+.wildcard-card:nth-child(1){animation-delay:0.7s}
+.wildcard-card:nth-child(2){animation-delay:0.8s}
+.wildcard-card:nth-child(3){animation-delay:0.9s}
+.wildcard-card:hover{
+  border-color:var(--purple);transform:translateY(-3px);
+  box-shadow:0 8px 24px rgba(0,0,0,0.3);
+}
+.wildcard-name{font-weight:700;font-size:0.95rem;margin-bottom:6px}
+.wildcard-cat{font-size:0.75rem;color:var(--text-dim);margin-bottom:10px}
+.wildcard-link{
+  color:var(--purple);text-decoration:none;font-size:0.8rem;font-weight:600;
+}
+.wildcard-link:hover{text-decoration:underline}
+
+/* ── Action buttons ── */
+.results-actions{
+  display:flex;gap:12px;justify-content:center;margin-top:40px;flex-wrap:wrap;
+}
+
+/* ── Footer ── */
+.quiz-footer{
+  text-align:center;margin-top:60px;padding-top:24px;
+  border-top:1px solid var(--border);color:var(--text-muted);font-size:0.8rem;
+}
+.quiz-footer a{color:var(--text-dim);text-decoration:none}
+.quiz-footer a:hover{color:var(--orange)}
+
+/* ── Confetti/celebration ── */
+.celebration{
+  position:fixed;top:0;left:0;right:0;bottom:0;pointer-events:none;z-index:200;
+}
+
+/* ── Loading state ── */
+.loading{text-align:center;padding:80px 20px;color:var(--text-dim)}
+.loading .spinner{
+  width:40px;height:40px;border:3px solid var(--border);
+  border-top-color:var(--orange);border-radius:50%;
+  animation:spin 0.8s linear infinite;margin:0 auto 16px;
+}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* ── Stars ── */
+.stars{letter-spacing:2px;font-size:0.8rem}
+
+/* ── Responsive ── */
+@media(max-width:500px){
+  .container{padding:70px 14px 40px}
+  .question-text{font-size:1.25rem}
+  .option-card{padding:14px 16px}
+  .result-card{padding:18px}
+  .result-ratings{gap:6px}
+  .nav-row{flex-direction:column}
+  .btn{width:100%;text-align:center}
+}
+
+/* ── No-results ── */
+.no-results{
+  text-align:center;padding:40px 20px;
+  background:var(--card);border-radius:var(--radius);border:1px solid var(--border);
+}
+.no-results h3{font-size:1.3rem;margin-bottom:12px}
+.no-results p{color:var(--text-dim)}
+</style>
+</head>
+<body>
+
+<!-- Progress -->
+<div class="progress-wrap" id="progressWrap">
+  <div class="progress-bar-track">
+    <div class="progress-bar-fill" id="progressFill"></div>
+  </div>
+  <div class="progress-label" id="progressLabel">Question 1 of 6</div>
+</div>
+
+<div class="container" id="quizContainer">
+
+  <!-- Header -->
+  <div class="header" id="quizHeader">
+    <h1>&#9889; Junkyard Genius Build Finder</h1>
+    <p class="subtitle">Answer a few questions. We'll find your perfect build.</p>
+  </div>
+
+  <!-- Questions rendered by JS -->
+  <div id="questionsWrap"></div>
+
+  <!-- Results -->
+  <div id="results">
+    <div class="results-header">
+      <h2>&#127942; Your Top Builds</h2>
+      <p id="resultsSubtitle">Based on your answers, here are the builds you'd love.</p>
+    </div>
+    <div id="resultsList"></div>
+
+    <div class="wildcard-section">
+      <h3>&#127922; You might also love...</h3>
+      <div class="wildcard-cards" id="wildcardList"></div>
+    </div>
+
+    <div class="results-actions">
+      <button class="btn btn-primary" onclick="retakeQuiz()">Retake Quiz</button>
+      <a class="btn btn-secondary" href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">&#8592; Back to Repo</a>
+    </div>
+  </div>
+
+  <div class="quiz-footer">
+    <a href="https://github.com/rbrents3000/junkyard-genius">Junkyard Genius</a> &mdash; 335 builds. Zero excuses.
+  </div>
+</div>
+
+<canvas class="celebration" id="confetti"></canvas>
+
+<!-- Build data loaded from companion file -->
+<script src="build-data.js"></script>
+
+<script>
+(function(){
+"use strict";
+
+/* ═══════════════════════════════════════
+   QUESTIONS
+   ═══════════════════════════════════════ */
+const QUESTIONS = [
+  {
+    id: "vibe",
+    text: "What\u2019s your vibe?",
+    multi: false,
+    options: [
+      { emoji:"\ud83c\udf86", label:"I want to impress people", value:"impress", tags:["visual","spectacle"] },
+      { emoji:"\ud83e\udde0", label:"I want to learn something", value:"learn", tags:["educational","skill"] },
+      { emoji:"\ud83d\udd27", label:"I want to build something useful", value:"useful", tags:["functional","practical"] },
+      { emoji:"\ud83d\udca5", label:"I want to blow stuff up (safely)", value:"boom", tags:["pyro","chemistry"] },
+      { emoji:"\ud83c\udfa8", label:"I want to make music or art", value:"art", tags:["creative","art","music"] }
+    ]
+  },
+  {
+    id: "skill",
+    text: "What\u2019s your skill level?",
+    multi: false,
+    options: [
+      { emoji:"\ud83c\udf31", label:"Never soldered", value:2 },
+      { emoji:"\ud83d\udd28", label:"I\u2019ve done some projects", value:3 },
+      { emoji:"\u26a1",       label:"I know my way around a MOT", value:4 },
+      { emoji:"\ud83d\udc80", label:"I have a death wish and a workshop", value:5 }
+    ]
+  },
+  {
+    id: "junk",
+    text: "What\u2019s in your junk pile?",
+    hint: "Select all that apply",
+    multi: true,
+    options: [
+      { emoji:"\ud83d\udcf3", label:"Dead microwave", value:"microwave" },
+      { emoji:"\ud83d\udcbb", label:"Old laptop / phone", value:"laptop" },
+      { emoji:"\ud83d\udda8\ufe0f", label:"Broken printer", value:"printer" },
+      { emoji:"\u2744\ufe0f",  label:"Dead fridge", value:"fridge" },
+      { emoji:"\ud83d\udcfa", label:"Old CRT TV", value:"crt" },
+      { emoji:"\ud83d\udef4", label:"Scooter / motors", value:"scooter" },
+      { emoji:"\ud83e\uddea", label:"Household chemicals", value:"chemical" },
+      { emoji:"\ud83e\udd16", label:"Arduino / Raspberry Pi", value:"arduino" },
+      { emoji:"\ud83e\udd37", label:"Nothing yet", value:"nothing" },
+      { emoji:"\ud83d\udcb3", label:"I\u2019ll buy whatever", value:"buy_all" }
+    ]
+  },
+  {
+    id: "spicy",
+    text: "How spicy can you handle?",
+    multi: false,
+    options: [
+      { emoji:"\ud83d\ude0c", label:"Paper cuts only", value:1 },
+      { emoji:"\ud83e\uddd1\u200d\ud83d\ude92", label:"Safety glasses on", value:3 },
+      { emoji:"\ud83e\udde4", label:"Full PPE and a buddy", value:4 },
+      { emoji:"\ud83d\udccb", label:"Sign the waiver", value:5 }
+    ]
+  },
+  {
+    id: "time",
+    text: "How much time do you have?",
+    multi: false,
+    options: [
+      { emoji:"\u23f0",       label:"An afternoon", value:1 },
+      { emoji:"\ud83d\udcc5", label:"A weekend", value:2 },
+      { emoji:"\ud83d\uddd3\ufe0f", label:"Multiple weekends", value:4 },
+      { emoji:"\u267e\ufe0f",  label:"I\u2019m committed", value:5 }
+    ]
+  },
+  {
+    id: "budget",
+    text: "Budget after salvaging?",
+    multi: false,
+    options: [
+      { emoji:"\ud83d\uddd1\ufe0f", label:"$0 \u2014 pure junk", value:1 },
+      { emoji:"\ud83d\udcb5", label:"Under $20", value:2 },
+      { emoji:"\ud83d\udcb0", label:"Under $50", value:3 },
+      { emoji:"\ud83d\udc8e", label:"$50+ is fine", value:5 }
+    ]
+  }
+];
+
+const TOTAL_Q = QUESTIONS.length;
+let currentQ = 0;
+let answers = {};
+
+/* ═══════════════════════════════════════
+   RENDER QUESTIONS
+   ═══════════════════════════════════════ */
+function renderQuestions() {
+  const wrap = document.getElementById("questionsWrap");
+  wrap.innerHTML = "";
+
+  QUESTIONS.forEach(function(q, qi) {
+    const slide = document.createElement("div");
+    slide.className = "question-slide" + (qi === 0 ? " active" : "");
+    slide.id = "q-" + qi;
+
+    let html = '<div class="question-text">' + q.text + '</div>';
+    if (q.hint) html += '<div class="question-hint">' + q.hint + '</div>';
+
+    const colClass = q.options.length <= 5 && !q.multi ? "" : "";
+    html += '<div class="options ' + colClass + '">';
+
+    q.options.forEach(function(opt, oi) {
+      const checkHtml = q.multi
+        ? '<div class="check"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></div>'
+        : '';
+      html += '<div class="option-card" data-qi="'+qi+'" data-oi="'+oi+'" data-value="'+opt.value+'">'
+        + checkHtml
+        + '<span class="option-emoji">' + opt.emoji + '</span>'
+        + '<span class="option-label">' + opt.label + '</span>'
+        + '</div>';
+    });
+    html += '</div>';
+
+    // Nav
+    html += '<div class="nav-row">';
+    if (qi > 0) {
+      html += '<button class="btn btn-secondary" onclick="prevQuestion()">&#8592; Back</button>';
+    } else {
+      html += '<span></span>';
+    }
+    if (qi < TOTAL_Q - 1) {
+      html += '<button class="btn btn-primary" id="next-'+qi+'" onclick="nextQuestion()" disabled>Next &#8594;</button>';
+    } else {
+      html += '<button class="btn btn-primary" id="next-'+qi+'" onclick="showResults()" disabled>Find My Builds &#9889;</button>';
+    }
+    html += '</div>';
+
+    slide.innerHTML = html;
+    wrap.appendChild(slide);
+  });
+
+  // Attach click handlers
+  document.querySelectorAll(".option-card").forEach(function(card) {
+    card.addEventListener("click", handleOptionClick);
+  });
+}
+
+function handleOptionClick(e) {
+  const card = e.currentTarget;
+  const qi = parseInt(card.dataset.qi);
+  const q = QUESTIONS[qi];
+  const value = card.dataset.value;
+
+  if (q.multi) {
+    // Toggle
+    card.classList.toggle("selected");
+    // Collect all selected
+    const selected = [];
+    document.querySelectorAll('#q-'+qi+' .option-card.selected').forEach(function(c) {
+      selected.push(c.dataset.value);
+    });
+    answers[q.id] = selected;
+  } else {
+    // Single select — clear others
+    document.querySelectorAll('#q-'+qi+' .option-card').forEach(function(c) {
+      c.classList.remove("selected");
+    });
+    card.classList.add("selected");
+    answers[q.id] = value;
+
+    // Auto-advance after brief delay for single select
+    const nextBtn = document.getElementById("next-"+qi);
+    if (nextBtn) nextBtn.disabled = false;
+    setTimeout(function() {
+      if (qi < TOTAL_Q - 1) nextQuestion();
+      else showResults();
+    }, 350);
+    return;
+  }
+
+  // Enable/disable next
+  const nextBtn = document.getElementById("next-"+qi);
+  if (nextBtn) {
+    const hasSelection = q.multi
+      ? (answers[q.id] && answers[q.id].length > 0)
+      : !!answers[q.id];
+    nextBtn.disabled = !hasSelection;
+  }
+}
+
+/* ═══════════════════════════════════════
+   NAVIGATION
+   ═══════════════════════════════════════ */
+function goToQuestion(idx) {
+  const prev = document.querySelector('.question-slide.active');
+  if (prev) {
+    prev.classList.remove('active');
+    prev.classList.add('exit-left');
+    setTimeout(function(){ prev.classList.remove('exit-left'); }, 500);
+  }
+
+  currentQ = idx;
+  const next = document.getElementById('q-' + idx);
+
+  setTimeout(function() {
+    next.classList.add('active');
+    updateProgress();
+  }, 80);
+}
+
+window.nextQuestion = function() {
+  if (currentQ < TOTAL_Q - 1) goToQuestion(currentQ + 1);
+};
+window.prevQuestion = function() {
+  if (currentQ > 0) goToQuestion(currentQ - 1);
+};
+
+function updateProgress() {
+  const pct = ((currentQ + 1) / TOTAL_Q) * 100;
+  document.getElementById("progressFill").style.width = pct + "%";
+  document.getElementById("progressLabel").textContent = "Question " + (currentQ+1) + " of " + TOTAL_Q;
+}
+
+/* ═══════════════════════════════════════
+   SCORING
+   ═══════════════════════════════════════ */
+function computeResults() {
+  // Extract user constraints
+  const vibeAnswer = answers.vibe || "impress";
+  const vibeQ = QUESTIONS[0];
+  const selectedVibe = vibeQ.options.find(function(o){ return o.value === vibeAnswer; });
+  const vibeTags = selectedVibe ? selectedVibe.tags : [];
+
+  const maxBrain = parseInt(answers.skill) || 5;
+  const maxSpicy = parseInt(answers.spicy) || 5;
+  const maxTime = parseInt(answers.time) || 5;
+  const maxWallet = parseInt(answers.budget) || 5;
+
+  const junkItems = answers.junk || [];
+  const hasBuyAll = junkItems.indexOf("buy_all") !== -1;
+  const hasNothing = junkItems.indexOf("nothing") !== -1;
+
+  // Filter builds
+  let candidates = BUILDS.filter(function(b) {
+    return b.brain <= maxBrain && b.spicy <= maxSpicy && b.time <= maxTime && b.wallet <= maxWallet;
+  });
+
+  // Score
+  candidates.forEach(function(b) {
+    let score = 0;
+
+    // Vibe tag match
+    vibeTags.forEach(function(vt) {
+      if (b.tags.indexOf(vt) !== -1) score += 30;
+    });
+
+    // Junk match
+    if (hasBuyAll) {
+      // Bonus for having junk requirements (they can get anything)
+      score += b.junk.length * 10;
+    } else if (!hasNothing) {
+      junkItems.forEach(function(j) {
+        if (j !== "nothing" && j !== "buy_all" && b.junk.indexOf(j) !== -1) score += 20;
+      });
+    }
+
+    // Jaw drop bonus
+    score += b.jaw * 5;
+
+    // Clout bonus
+    score += b.clout * 3;
+
+    b._score = score;
+  });
+
+  // Sort
+  candidates.sort(function(a, b) { return b._score - a._score; });
+
+  return candidates;
+}
+
+function getMatchReason(build, vibeTags, junkItems) {
+  const reasons = [];
+  const matchedVibes = vibeTags.filter(function(t){ return build.tags.indexOf(t) !== -1; });
+  if (matchedVibes.length > 0) {
+    reasons.push("Matches your vibe: " + matchedVibes.join(", "));
+  }
+
+  const realJunk = junkItems.filter(function(j){ return j!=="nothing" && j!=="buy_all"; });
+  const matchedJunk = realJunk.filter(function(j){ return build.junk.indexOf(j) !== -1; });
+  if (matchedJunk.length > 0) {
+    reasons.push("Uses your junk: " + matchedJunk.join(", "));
+  }
+
+  if (build.jaw >= 4) reasons.push("High jaw-drop factor");
+  if (build.clout >= 4) reasons.push("Major clout potential");
+
+  return reasons.length > 0 ? reasons.join(" \u2022 ") : "Great match for your constraints";
+}
+
+function starsStr(n) {
+  let s = "";
+  for (let i = 0; i < n; i++) s += "\u2b50";
+  return s;
+}
+
+function buildGitHubUrl(build) {
+  return "https://github.com/rbrents3000/junkyard-genius/blob/master/categories/" + build.category + "/" + build.slug + ".md";
+}
+
+/* ═══════════════════════════════════════
+   RESULTS
+   ═══════════════════════════════════════ */
+window.showResults = function() {
+  const candidates = computeResults();
+  const top5 = candidates.slice(0, 5);
+
+  // Extract user vibe tags for match reasons
+  const vibeAnswer = answers.vibe || "impress";
+  const vibeQ = QUESTIONS[0];
+  const selectedVibe = vibeQ.options.find(function(o){ return o.value === vibeAnswer; });
+  const vibeTags = selectedVibe ? selectedVibe.tags : [];
+  const junkItems = answers.junk || [];
+
+  // Hide questions
+  document.getElementById("questionsWrap").style.display = "none";
+  document.getElementById("quizHeader").style.display = "none";
+
+  // Update progress
+  document.getElementById("progressFill").style.width = "100%";
+  document.getElementById("progressLabel").textContent = "Results!";
+
+  // Build result cards
+  const listEl = document.getElementById("resultsList");
+
+  if (top5.length === 0) {
+    listEl.innerHTML = '<div class="no-results"><h3>No builds matched!</h3><p>Your filters are too strict. Try loosening up on spicy level, time, or budget.</p></div>';
+  } else {
+    let html = "";
+    top5.forEach(function(b, i) {
+      const url = buildGitHubUrl(b);
+      const reason = getMatchReason(b, vibeTags, junkItems);
+      html += '<div class="result-card">'
+        + '<div class="result-top">'
+        + '<span class="result-rank">' + (i+1) + '</span>'
+        + '<span class="result-name">' + b.name + '</span>'
+        + '<span class="result-num">#' + b.num + '</span>'
+        + '</div>'
+        + '<div class="result-category">' + b.categoryName + '</div>'
+        + '<div class="result-ratings">'
+        + '<span class="rating-badge jaw">Jaw ' + starsStr(b.jaw) + '</span>'
+        + '<span class="rating-badge brain">Brain ' + starsStr(b.brain) + '</span>'
+        + '<span class="rating-badge wallet">Wallet ' + starsStr(b.wallet) + '</span>'
+        + '<span class="rating-badge spicy">Spicy ' + starsStr(b.spicy) + '</span>'
+        + '<span class="rating-badge clout">Clout ' + starsStr(b.clout) + '</span>'
+        + '<span class="rating-badge time">Time ' + starsStr(b.time) + '</span>'
+        + '</div>'
+        + '<div class="result-match">' + reason + '</div>'
+        + '<a class="result-link" href="'+url+'" target="_blank" rel="noopener">View Build Guide &#8594;</a>'
+        + '</div>';
+    });
+    listEl.innerHTML = html;
+  }
+
+  // Wildcards — 3 random from different categories, not in top 5
+  const topSlugs = top5.map(function(b){ return b.slug; });
+  const pool = candidates.filter(function(b){ return topSlugs.indexOf(b.slug) === -1; });
+  const wildcards = [];
+  const usedCats = {};
+  // Shuffle pool
+  for (let i = pool.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const tmp = pool[i]; pool[i] = pool[j]; pool[j] = tmp;
+  }
+  for (let i = 0; i < pool.length && wildcards.length < 3; i++) {
+    if (!usedCats[pool[i].category]) {
+      wildcards.push(pool[i]);
+      usedCats[pool[i].category] = true;
+    }
+  }
+
+  const wcEl = document.getElementById("wildcardList");
+  let wcHtml = "";
+  wildcards.forEach(function(b) {
+    const url = buildGitHubUrl(b);
+    wcHtml += '<div class="wildcard-card">'
+      + '<div class="wildcard-name">#' + b.num + ' ' + b.name + '</div>'
+      + '<div class="wildcard-cat">' + b.categoryName + '</div>'
+      + '<a class="wildcard-link" href="'+url+'" target="_blank" rel="noopener">Check it out &#8594;</a>'
+      + '</div>';
+  });
+  wcEl.innerHTML = wcHtml;
+
+  // Show results
+  document.getElementById("results").classList.add("active");
+
+  // Scroll to top
+  window.scrollTo({ top: 0, behavior: "smooth" });
+
+  // Fire confetti
+  launchConfetti();
+};
+
+/* ═══════════════════════════════════════
+   RETAKE
+   ═══════════════════════════════════════ */
+window.retakeQuiz = function() {
+  answers = {};
+  currentQ = 0;
+
+  document.getElementById("results").classList.remove("active");
+  document.getElementById("questionsWrap").style.display = "";
+  document.getElementById("quizHeader").style.display = "";
+
+  // Re-render questions (resets selections)
+  renderQuestions();
+  updateProgress();
+
+  window.scrollTo({ top: 0, behavior: "smooth" });
+};
+
+/* ═══════════════════════════════════════
+   CONFETTI
+   ═══════════════════════════════════════ */
+function launchConfetti() {
+  const canvas = document.getElementById("confetti");
+  const ctx = canvas.getContext("2d");
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+
+  const colors = ["#ff6b35","#3b82f6","#ef4444","#7c3aed","#22c55e","#eab308"];
+  const particles = [];
+
+  for (let i = 0; i < 120; i++) {
+    particles.push({
+      x: Math.random() * canvas.width,
+      y: -20 - Math.random() * 300,
+      w: 6 + Math.random() * 6,
+      h: 4 + Math.random() * 4,
+      color: colors[Math.floor(Math.random() * colors.length)],
+      vy: 2 + Math.random() * 4,
+      vx: (Math.random() - 0.5) * 3,
+      rot: Math.random() * Math.PI * 2,
+      vr: (Math.random() - 0.5) * 0.15,
+      opacity: 1
+    });
+  }
+
+  let frame = 0;
+  function draw() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    let alive = false;
+
+    particles.forEach(function(p) {
+      if (p.opacity <= 0) return;
+      alive = true;
+
+      ctx.save();
+      ctx.translate(p.x, p.y);
+      ctx.rotate(p.rot);
+      ctx.globalAlpha = p.opacity;
+      ctx.fillStyle = p.color;
+      ctx.fillRect(-p.w/2, -p.h/2, p.w, p.h);
+      ctx.restore();
+
+      p.x += p.vx;
+      p.y += p.vy;
+      p.vy += 0.08;
+      p.rot += p.vr;
+
+      if (p.y > canvas.height + 20) {
+        p.opacity -= 0.05;
+      }
+
+      frame++;
+      if (frame > 3000) p.opacity -= 0.02;
+    });
+
+    if (alive) requestAnimationFrame(draw);
+    else ctx.clearRect(0, 0, canvas.width, canvas.height);
+  }
+
+  requestAnimationFrame(draw);
+}
+
+/* ═══════════════════════════════════════
+   KEYBOARD NAV
+   ═══════════════════════════════════════ */
+document.addEventListener("keydown", function(e) {
+  if (e.key === "ArrowRight" || e.key === "Enter") {
+    const nextBtn = document.getElementById("next-" + currentQ);
+    if (nextBtn && !nextBtn.disabled) nextBtn.click();
+  }
+  if (e.key === "ArrowLeft") {
+    window.prevQuestion();
+  }
+  // Number keys to select options
+  if (e.key >= "1" && e.key <= "9") {
+    const idx = parseInt(e.key) - 1;
+    const cards = document.querySelectorAll("#q-" + currentQ + " .option-card");
+    if (idx < cards.length) cards[idx].click();
+  }
+});
+
+/* ═══════════════════════════════════════
+   INIT
+   ═══════════════════════════════════════ */
+renderQuestions();
+updateProgress();
+
+})();
+</script>
+</body>
+</html>
