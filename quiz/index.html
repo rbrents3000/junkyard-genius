@@ -4,15 +4,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Build Finder Quiz — Junkyard Genius</title>
-<meta name="description" content="Answer 6 questions. We'll match you with the perfect DIY build from 335 salvaged-parts projects.">
+<meta name="description" content="Answer 6 questions. We'll match you with the perfect DIY build from 338 salvaged-parts projects.">
 <meta property="og:title" content="Junkyard Genius Build Finder Quiz">
-<meta property="og:description" content="335 DIY builds from salvaged junk. Take the quiz to find your perfect project.">
+<meta property="og:description" content="338 DIY builds from salvaged junk. Take the quiz to find your perfect project.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://rbrents3000.github.io/junkyard-genius/quiz/">
 <meta property="og:image" content="https://rbrents3000.github.io/junkyard-genius/images/og-quiz.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Junkyard Genius Build Finder Quiz">
-<meta name="twitter:description" content="335 DIY builds from salvaged junk. Take the quiz to find your perfect project.">
+<meta name="twitter:description" content="338 DIY builds from salvaged junk. Take the quiz to find your perfect project.">
 <meta name="twitter:image" content="https://rbrents3000.github.io/junkyard-genius/images/og-quiz.jpg">
 <link rel="icon" type="image/png" href="../favicon.png">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
@@ -418,7 +418,7 @@ body::before{
     <h1><span class="grad">Build Finder</span></h1>
     <p class="desc">Answer 6 quick questions about your skill level, junk pile, and risk tolerance. We'll match you with the perfect DIY project.</p>
     <div class="stats">
-      <div class="stat"><span class="stat-num">335</span><span class="stat-label">Builds</span></div>
+      <div class="stat"><span class="stat-num">338</span><span class="stat-label">Builds</span></div>
       <div class="stat"><span class="stat-num">33</span><span class="stat-label">Categories</span></div>
       <div class="stat"><span class="stat-num">~60s</span><span class="stat-label">To complete</span></div>
     </div>
@@ -449,7 +449,7 @@ body::before{
   </div>
 
   <div class="quiz-footer">
-    <a href="https://github.com/rbrents3000/junkyard-genius">Junkyard Genius</a> &mdash; 335 builds &middot; 33 categories &middot; zero excuses
+    <a href="https://github.com/rbrents3000/junkyard-genius">Junkyard Genius</a> &mdash; 338 builds &middot; 33 categories &middot; zero excuses
   </div>
 </div>
 
@@ -741,7 +741,7 @@ function getMatchReason(build, vibeTags, junkItems) {
 }
 
 function buildGitHubUrl(build) {
-  return "https://github.com/rbrents3000/junkyard-genius/blob/master/categories/" + build.category + "/" + build.slug + ".md";
+  return "https://rbrents3000.github.io/junkyard-genius/categories/" + build.category + "/" + build.slug;
 }
 
 function ratingBar(label, value, cls) {
