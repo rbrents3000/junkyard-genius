@@ -54,53 +54,71 @@ Or pick your comfort level and dive in.
 
 | | | |
 |---|---|---|
-| 🟢 **[Beginner ↓](#beginner--brain-melt-)** | Never soldered, no special tools | Battery + magnet = motor |
-| 🟡 **[Intermediate ↓](#intermediate--brain-melt--to-)** | Own a soldering iron, comfortable with teardowns | Salvaged parts → real machines |
-| 🔴 **[Advanced ↓](#advanced--brain-melt--to-)** | You know what a flyback transformer is | Tesla coils, rail guns, marble machines |
+| 🟢 **[Total Newbie ↓](#total-newbie--brain-melt-)** | No tools, no experience, just curiosity | Grapes + microwave = plasma |
+| 🔵 **[Tinkerer ↓](#tinkerer--brain-melt-)** | Basic hand tools, comfortable taking things apart | Dead appliances → cool projects |
+| 🟡 **[Builder ↓](#builder--brain-melt-)** | Own a soldering iron, can read a circuit diagram | Salvaged parts → real machines |
+| 🟠 **[Hacker ↓](#hacker--brain-melt-)** | Comfortable with microcontrollers, power electronics, chemistry | Arduino + e-waste → jaw-dropping builds |
+| 🔴 **[Mad Scientist ↓](#mad-scientist--brain-melt-)** | You know what a flyback transformer is and you've been shocked by one | Tesla coils, rail guns, electron microscopes |
 
-### Beginner — Brain Melt ⭐
+### Total Newbie — Brain Melt ⭐
 
-*No soldering iron? No problem. These builds use household items and basic tools.*
+*No tools needed. Seriously. These builds use stuff already in your house.*
 
 | Build | Category | Jaw Drop | Time |
 |---|---|---|---|
+| [#042 — Grape Plasma](categories/mad-scientist/042-grape-plasma.md) | Mad Scientist | ⭐⭐⭐⭐ | ⭐ |
 | [#198 — Homopolar Motor](categories/weird-science/198-homopolar-motor.md) | Weird Science | ⭐⭐⭐⭐ | ⭐ |
 | [#184 — Chain Fountain](categories/mechanical-and-kinetic/184-chain-fountain.md) | Mechanical | ⭐⭐⭐⭐ | ⭐ |
-| [#175 — Camera Obscura Room](categories/light-and-visual/175-camera-obscura-room.md) | Light & Visual | ⭐⭐⭐⭐⭐ | ⭐ |
-| [#042 — Grape Plasma](categories/mad-scientist/042-grape-plasma.md) | Mad Scientist | ⭐⭐⭐⭐ | ⭐ |
 | [#240 — Garden Hose Didgeridoo](categories/junk-instruments/240-garden-hose-didgeridoo.md) | Junk Instruments | ⭐⭐⭐ | ⭐ |
-| [#106 — Gallium Melting Spoon](categories/pyro-and-chemistry/106-gallium-melting-spoon.md) | Pyro & Chemistry | ⭐⭐⭐⭐ | ⭐ |
-| [#256 — Piezo Shock Pen](categories/pranks-and-party/256-shock-pen.md) | Pranks & Party | ⭐⭐⭐ | ⭐ |
 | [#253 — Rocket Stove](categories/survival-off-grid/253-rocket-stove.md) | Survival | ⭐⭐⭐ | ⭐ |
 
-### Intermediate — Brain Melt ⭐⭐ to ⭐⭐⭐
+### Tinkerer — Brain Melt ⭐⭐
+
+*You own a screwdriver and you're not afraid to void a warranty.*
+
+| Build | Category | Jaw Drop | Time |
+|---|---|---|---|
+| [#175 — Camera Obscura Room](categories/light-and-visual/175-camera-obscura-room.md) | Light & Visual | ⭐⭐⭐⭐⭐ | ⭐ |
+| [#106 — Gallium Melting Spoon](categories/pyro-and-chemistry/106-gallium-melting-spoon.md) | Pyro & Chemistry | ⭐⭐⭐⭐ | ⭐ |
+| [#256 — Piezo Shock Pen](categories/pranks-and-party/256-shock-pen.md) | Pranks & Party | ⭐⭐⭐ | ⭐ |
+| [#107 — Bismuth Crystal Garden](categories/pyro-and-chemistry/107-bismuth-crystal-garden.md) | Pyro & Chemistry | ⭐⭐⭐⭐ | ⭐ |
+| [#235 — Cigar Box Guitar](categories/junk-instruments/235-cigar-box-guitar.md) | Junk Instruments | ⭐⭐⭐⭐ | ⭐⭐ |
+
+### Builder — Brain Melt ⭐⭐⭐
 
 *Time to break out the soldering iron and start salvaging parts from dead appliances.*
 
 | Build | Category | Jaw Drop | Time |
 |---|---|---|---|
-| [#002 — Lichtenberg Wood Burner](categories/fire-and-plasma/002-lichtenberg-wood-burner.md) | Fire & Plasma | ⭐⭐⭐⭐⭐ | ⭐ |
 | [#041 — Cloud Chamber](categories/mad-scientist/041-cloud-chamber.md) | Mad Scientist | ⭐⭐⭐⭐⭐ | ⭐ |
-| [#107 — Bismuth Crystal Garden](categories/pyro-and-chemistry/107-bismuth-crystal-garden.md) | Pyro & Chemistry | ⭐⭐⭐⭐ | ⭐ |
-| [#235 — Cigar Box Guitar](categories/junk-instruments/235-cigar-box-guitar.md) | Junk Instruments | ⭐⭐⭐⭐ | ⭐⭐ |
 | [#009 — Rubens' Tube](categories/sound-and-music/009-rubens-tube.md) | Sound & Music | ⭐⭐⭐⭐⭐ | ⭐⭐ |
 | [#260 — Toaster Reflow Oven](categories/kitchen-hacks/260-toaster-reflow-oven.md) | Kitchen Hacks | ⭐⭐⭐⭐ | ⭐⭐ |
 | [#104 — Cold Spark Machine](categories/pyro-and-chemistry/104-cold-spark-machine.md) | Pyro & Chemistry | ⭐⭐⭐⭐⭐ | ⭐⭐ |
 | [#242 — Sound-Reactive LED Jacket](categories/wearable-tech/242-led-jacket.md) | Wearable Tech | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 
-### Advanced — Brain Melt ⭐⭐⭐⭐ to ⭐⭐⭐⭐⭐
+### Hacker — Brain Melt ⭐⭐⭐⭐
+
+*You've bricked at least one Arduino. You own a multimeter and you actually use it.*
+
+| Build | Category | Jaw Drop | Time |
+|---|---|---|---|
+| [#002 — Lichtenberg Wood Burner](categories/fire-and-plasma/002-lichtenberg-wood-burner.md) | Fire & Plasma | ⭐⭐⭐⭐⭐ | ⭐ |
+| [#033 — Musical Tesla Coil](categories/mad-scientist/033-musical-tesla-coil.md) | Mad Scientist | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+| [#122 — LED Cube 8x8x8](categories/pi-and-arduino/122-led-cube-8x8x8.md) | Pi & Arduino | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| [#266 — Galvo Laser Light Show](categories/laser-lab/266-laser-galvo-show.md) | Laser Lab | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+| [#046 — Ferrofluid Mirror](categories/art-and-installation/046-ferrofluid-mirror.md) | Art & Installation | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+
+### Mad Scientist — Brain Melt ⭐⭐⭐⭐⭐
 
 *You know what a flyback transformer is. You have opinions about capacitor brands. Welcome home.*
 
 | Build | Category | Jaw Drop | Time |
 |---|---|---|---|
-| [#033 — Musical Tesla Coil](categories/mad-scientist/033-musical-tesla-coil.md) | Mad Scientist | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
-| [#122 — LED Cube 8x8x8](categories/pi-and-arduino/122-led-cube-8x8x8.md) | Pi & Arduino | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| [#266 — Galvo Laser Light Show](categories/laser-lab/266-laser-galvo-show.md) | Laser Lab | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
-| [#046 — Ferrofluid Mirror](categories/art-and-installation/046-ferrofluid-mirror.md) | Art & Installation | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | [#245 — DIY HUD Glasses](categories/wearable-tech/245-hud-glasses.md) | Wearable Tech | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | [#181 — Musical Marble Machine](categories/mechanical-and-kinetic/181-musical-marble-machine.md) | Mechanical | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 | [#200 — DIY Electron Microscope](categories/weird-science/200-diy-electron-microscope.md) | Weird Science | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+| [#036 — Rail Gun](categories/mad-scientist/036-rail-gun.md) | Mad Scientist | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+| [#302 — Giant Outdoor Tesla Coil](categories/big-builds/302-giant-outdoor-tesla-coil.md) | Big Builds | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
 ---
 
