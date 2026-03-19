@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A wood lathe is a motor, a headstock that spins the workpiece, a tailstock that supports the other end, and a tool rest.
 That's the whole machine.
@@ -33,7 +31,8 @@ It works shockingly well.
 The whole rig costs essentially nothing if you have a drill and a scrap pile, versus $150-400 for even a cheap benchtop lathe.
 And when you're done, pull the drill out of the cradle and it's a hand drill again — no permanent modifications.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Hand drill — corded preferred for sustained RPM, cordless works for short sessions *(already own)*
 - [ ] 2x4 lumber — about 4 feet total for cradle blocks, tailstock block, and tool rest post *(scrap pile)*
@@ -51,7 +50,9 @@ And when you're done, pull the drill out of the cradle and it's a hand drill aga
 - [ ] Optional: paste wax or friction polish — for finishing turned pieces *(woodworking store, ~$8)*
 - [ ] Optional: plug-in variable speed controller — precise RPM without holding the trigger *(online, ~$15-20)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the bed.**
 Cut a 3/4" plywood base about 28-30" long and 8" wide.
@@ -119,7 +120,7 @@ Apply paste wax or friction polish while spinning for a uniform coat.
 Larger diameter = slower RPM: 4" bowl at 300-500, 2" spindle at 800-1200, 1" pen blank at 2000-3000.
 If the workpiece vibrates or the drill bogs down, you're going too fast or cutting too aggressively. Back off.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - A spinning workpiece catches loose clothing, hair, jewelry, and gloves faster than you can react.
 Roll up sleeves, tie back hair, remove rings, and never wear gloves while the lathe runs.
@@ -136,7 +137,7 @@ Roll up sleeves, tie back hair, remove rings, and never wear gloves while the la
 
 - Clamp the entire jig to your workbench. Turning forces during roughing can walk it across the bench or tip it.
 
-## See Also
+## 🔗 See Also
 
 - [Hand Drill Press](080-hand-drill-press.md)
 - [Circular Saw Table Saw](082-circular-saw-table-saw.md)

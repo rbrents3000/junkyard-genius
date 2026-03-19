@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A belt sander attachment bolts to an angle grinder's guard mounting holes and turns it into a compact, viciously aggressive belt sander.
 The attachment is a metal bracket holding two rollers — a drive roller on the grinder's spindle and an idler roller on a spring-loaded tensioning arm.
@@ -31,7 +29,8 @@ Different grit belts go from brutal stock removal (36 grit) to mirror polish (40
 Sharpen knives on a flat platen. Round edges on steel tubing. Clean up MIG welds. Strip paint. Shape wood handles. Profile blade bevels.
 The grinder's size means you bring the sander to the workpiece instead of the other way around — which matters when the workpiece is a welded gate or a staircase railing.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Angle grinder — 4.5" (115mm), any brand, variable speed preferred *(already own or thrift store)*
 - [ ] Belt sander attachment — commercial bracket with drive roller, idler roller, tensioning arm *(online, ~$15-30)*
@@ -46,7 +45,9 @@ The grinder's size means you bring the sander to the workpiece instead of the ot
 - [ ] Optional: flat steel platen — hardened steel plate behind the belt for dead-flat sanding *(scrap or supplier, ~$10)*
 - [ ] Optional: belt cleaning stick — rubber/crepe stick that cleans loaded belts *(woodworking store, ~$6)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 ### Option A: Commercial Attachment (Recommended)
 
@@ -122,7 +123,7 @@ An old file ground flat makes an excellent platen. Mount with countersunk screws
 Mount everything. Install a 120-grit belt. Adjust tension and tracking per steps 5-6.
 Let the belt run 30 seconds at low speed, watching tracking. Test on scrap metal with light pressure. The removal rate will be faster than you expect.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The belt runs at extreme surface speed — faster than any benchtop belt sander. Material removal is instant on contact.
 A moment of inattention gouges the workpiece, grinds through thin material, or catches skin. Light pressure, keep moving, never hold stationary.
@@ -143,7 +144,7 @@ Practice on scrap before real work.
 - Keep the area clear of flammables. Metal sparks ignite sawdust, oily rags, and solvent fumes.
 Wood sanding dust is itself a fire hazard at high concentrations. Work in a clean, ventilated space with a fire extinguisher within arm's reach.
 
-## See Also
+## 🔗 See Also
 
 - [Angle Grinder Forge Blower](079-angle-grinder-forge-blower.md)
 - [Sawzall Power Hammer](081-sawzall-power-hammer.md)

@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A CNC spindle is a high-speed motor with a collet that holds cutting bits. Commercial CNC spindles cost $100-500+. A wood router is literally the same thing — a high-speed motor (25,000-30,000 RPM) with a precision collet that holds 1/4" or 1/8" shank bits. Mount a router on your CNC machine's Z-axis instead of buying a dedicated spindle, and you get more power, higher speed, and better runout accuracy than cheap imported spindles. Most DIY CNC machines in the maker community actually use routers — the DeWalt DWP611, Makita RT0701, and Bosch Colt are the community favorites. Even a beat-up thrift store router outperforms budget CNC spindles.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Wood router — compact/trim router preferred (lighter, easier to mount) *(already own or thrift store)*
 - [ ] CNC machine — your existing build or a kit *(see [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md))*
@@ -25,7 +24,9 @@ A CNC spindle is a high-speed motor with a collet that holds cutting bits. Comme
 - [ ] CNC end mills — 1/8" shank, upcut spiral for wood/plastic, single-flute for aluminum *(~$10 for a set, tool supplier)*
 - [ ] Dust collection boot — to capture chips at the source *(3D print or improvise)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Select the router.** Compact/trim routers are ideal for CNC use — they're lightweight (important for not overloading the Z-axis), have variable speed, and fit standard 65mm or 71mm mounts. Full-size routers work but are heavy and may stress your CNC frame.
 2. **Check the collet.** Most routers come with a 1/4" collet. CNC bits commonly have 1/8" shanks. Buy a 1/8" collet or collet adapter for your specific router model. Precision collets from Elaire Corp or PreciseBits give better runout than cheap adapters.
@@ -37,13 +38,13 @@ A CNC spindle is a high-speed motor with a collet that holds cutting bits. Comme
 8. **Add dust collection.** Routers at CNC speeds produce enormous amounts of chips and dust. Attach a dust collection boot around the bit that connects to a shop vac or dust collector. Clearing chips prevents re-cutting, improves surface finish, and keeps the workspace safe.
 9. **Test cut.** Run a simple test program (engrave a square, cut a circle) in scrap material. Check that the router runs smoothly, cuts are clean, and dimensions are accurate. Listen for chatter (vibration) — it indicates the feed rate is too high or the bit is dull.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Router bits at 25,000 RPM can eject broken bits, workpiece fragments, or loose clamps at lethal velocity. Always wear safety glasses. Ensure the workpiece is securely clamped to the CNC bed. Never leave a running CNC machine unattended.
 - Routers generate significant dust, especially in MDF and hardwood. Wood dust is a known carcinogen with long-term exposure. Use dust collection and wear a respirator. Do not rely on the dust boot alone.
 - The router draws high current (7-12 amps). Ensure your CNC's power system and wiring can handle the router's draw in addition to the stepper motors. Use separate circuits if needed.
 
-## See Also
+## 🔗 See Also
 
 - [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md)
 - [Hand Drill Press](080-hand-drill-press.md)

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A scroll saw is a jigsaw mounted to a table.
 That's the entire concept.
@@ -33,7 +31,8 @@ Your conversion has no upper blade support, so the blade can flex on tight curve
 For thin plywood (1/4" to 1/2"), soft metals, and plastic under about 12" wide, none of that matters — it cuts beautifully.
 If you discover you love scrollwork, you'll eventually want a dedicated saw. But this gets you started for free to find out.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Jigsaw — any brand, variable speed preferred *(already own or thrift store, ~$15-30 used)*
 - [ ] 3/4" plywood — about 24"x20" for the table surface, smooth one side *(scrap pile or hardware store, ~$8)*
@@ -50,7 +49,9 @@ If you discover you love scrollwork, you'll eventually want a dedicated saw. But
 - [ ] Optional: shop vac — dust collection at the blade slot *(already own)*
 - [ ] Wood screws *(workshop)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the table top.**
 Cut 3/4" plywood at least 24"x20". Sand the top face to 220 grit — any roughness catches thin workpieces.
@@ -117,7 +118,7 @@ Print your pattern on paper, spray-glue it to the workpiece, cut along the lines
 For repeatable work, make hardboard templates. The internet has thousands of free scroll saw patterns ready to print.
 Start simple — a Christmas ornament, a name cutout — and work up to stacked fretwork and 3D puzzles.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Keep fingers at least 2 inches from the blade at all times. A jigsaw blade is wider than a scroll saw wire blade and causes deep lacerations.
 Use a push stick for small pieces. Never push anything smaller than 2"x2" freehand.
@@ -137,7 +138,7 @@ Tug firmly — it should feel seated with zero play.
 - Do not force the cut. Pushing faster than the blade can cut causes flex, heat buildup, and blade breakage.
 Broken jigsaw blades are sharp and hot. Let the blade set the pace.
 
-## See Also
+## 🔗 See Also
 
 - [Circular Saw Table Saw](082-circular-saw-table-saw.md)
 - [Hand Drill Press](080-hand-drill-press.md)
