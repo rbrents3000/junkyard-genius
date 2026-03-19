@@ -61,3 +61,7 @@ This is a permanent installation that transforms a bedroom, home theater, or bat
 
 - [Infinity Mirror Table](016-infinity-mirror-table.md) — another LED installation that transforms a room
 - [UV Reactive Water Wall](023-uv-reactive-water-wall.md) — another permanent installation using light effects
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

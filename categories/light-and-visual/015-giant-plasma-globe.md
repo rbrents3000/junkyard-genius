@@ -60,3 +60,7 @@ The principle is identical to a store-bought plasma globe: a central electrode d
 
 - [Plasma Tornado Lamp](../fire-and-plasma/001-plasma-tornado-lamp.md) — plasma in a vortex instead of a sphere
 - [Plasma Speaker](../sound-and-music/008-plasma-speaker.md) — plasma that plays music
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

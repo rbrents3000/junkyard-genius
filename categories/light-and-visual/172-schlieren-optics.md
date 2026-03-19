@@ -57,3 +57,7 @@ The setup uses a concave mirror, a point light source, and a razor blade or shar
 
 - [Ultrasonic Levitator](../sound-and-music/010-ultrasonic-levitator.md) — another way to interact with invisible pressure waves in air
 - [Camera Obscura Room](175-camera-obscura-room.md) — another optics project that reveals hidden visual phenomena
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

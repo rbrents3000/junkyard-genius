@@ -55,3 +55,7 @@ This is the core technology behind professional laser light shows, stripped down
 
 - [Laser Maze](176-laser-maze.md) — lasers used for an interactive installation instead of visual projection
 - [Holographic Fan Display](022-holographic-fan-display.md) — another way to create floating visual effects
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
