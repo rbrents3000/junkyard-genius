@@ -1,5 +1,8 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
-  - name: Discussion
+  - name: "💬 Discussion"
     url: https://github.com/rbrents3000/junkyard-genius/discussions
     about: "Ask questions, share your builds, or suggest ideas in Discussions"
+  - name: "📸 Show Off Your Build"
+    url: https://github.com/rbrents3000/junkyard-genius/discussions/new?category=build-showcase
+    about: "Completed a build? Share photos and tips with the community"

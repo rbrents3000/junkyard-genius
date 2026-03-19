@@ -1,14 +1,34 @@
-name: "Bug Report / Correction"
-description: "Report broken links, incorrect info, safety concerns, or other issues"
+name: "🐛 Bug Report / Correction"
+description: "Report broken links, incorrect info, or other issues with build files"
 title: "[Fix] "
 labels: ["bug"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the repo! Please fill in as much as you can.
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: Type of issue
+      options:
+        - "Broken link"
+        - "Incorrect build step"
+        - "Wrong or missing ingredient"
+        - "Inaccurate rating"
+        - "Formatting / typo"
+        - "Image issue"
+        - "Other"
+    validations:
+      required: true
+
   - type: textarea
     id: problem
     attributes:
       label: What's wrong?
-      description: "Describe the issue"
-      placeholder: "e.g., Link to build #042 is broken, ingredient list is missing a key component"
+      description: "Describe the issue in detail"
+      placeholder: "e.g., Step 3 says to use a 10K resistor but the circuit diagram shows 4.7K"
     validations:
       required: true
 
@@ -16,20 +36,25 @@ body:
     id: file
     attributes:
       label: Which file(s)?
-      description: "Path to the affected file(s)"
-      placeholder: "e.g., categories/mad-scientist/042-grape-plasma.md"
+      description: "Path or build number"
+      placeholder: "e.g., #042 Grape Plasma or categories/mad-scientist/042-grape-plasma.md"
     validations:
       required: true
 
   - type: textarea
     id: fix
     attributes:
-      label: What should it say instead?
+      label: Suggested fix
       description: "If you know the correct information, include it here"
+      placeholder: "e.g., The resistor value should be 4.7K to match the voltage divider calculation"
 
-  - type: checkboxes
-    id: safety-concern
+  - type: dropdown
+    id: tried-build
     attributes:
-      label: Safety
+      label: Did you attempt this build?
       options:
-        - label: "This is a safety concern (incorrect safety info, missing warnings, dangerous instructions)"
+        - "Yes — found the issue while building"
+        - "No — found it while reading"
+        - "N/A"
+    validations:
+      required: true

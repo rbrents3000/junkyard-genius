@@ -1,0 +1,63 @@
+name: "🚨 Safety Concern"
+description: "Report dangerous, incorrect, or missing safety information — highest priority"
+title: "[SAFETY] "
+labels: ["safety", "priority"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ⚠️ **Safety reports are our highest priority and are triaged immediately.**
+
+        If a build has incorrect safety info, missing warnings, or dangerous instructions, we need to know. Don't worry about being "that person" — speaking up keeps people safe.
+
+  - type: input
+    id: build
+    attributes:
+      label: Which build?
+      description: "Build number and name"
+      placeholder: "e.g., #002 Lichtenberg Wood Burner"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: "How dangerous is this if someone follows the instructions as written?"
+      options:
+        - "🔴 Could cause serious injury or death"
+        - "🟠 Could cause moderate injury (burns, cuts, chemical exposure)"
+        - "🟡 Missing safety info that should be there"
+        - "⚪ Spicy Level rating seems too low"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's the safety issue?
+      description: "Be specific — what's wrong, what could happen, and what the correct information should be"
+      placeholder: |
+        e.g., Safety notes don't mention that the capacitor stores lethal energy even when unplugged.
+        Someone could discharge it through their body while handling the assembly.
+        Should include: "Discharge capacitor with a 10K resistor before handling. Verify 0V with multimeter."
+    validations:
+      required: true
+
+  - type: textarea
+    id: correct-info
+    attributes:
+      label: What should it say instead?
+      description: "The correct safety information, if you know it"
+
+  - type: dropdown
+    id: experience
+    attributes:
+      label: Your experience with this hazard type
+      options:
+        - "Professional (electrician, chemist, engineer, etc.)"
+        - "Experienced hobbyist"
+        - "I researched this concern"
+        - "General concern — needs expert review"
+    validations:
+      required: true

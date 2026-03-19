@@ -1,8 +1,13 @@
-name: "New Build Idea"
+name: "💡 New Build Idea"
 description: "Suggest a new DIY build for the repo"
 title: "[Build Idea] "
 labels: ["new-build"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Got a build idea? The best builds start with dead appliances, salvaged parts, or cheap materials — and end with something that makes people say "wait, you made that from *what*?"
+
   - type: input
     id: build-name
     attributes:
@@ -12,45 +17,54 @@ body:
     validations:
       required: true
 
+  - type: textarea
+    id: elevator-pitch
+    attributes:
+      label: Elevator Pitch
+      description: "One or two sentences — what is it and why is it cool?"
+      placeholder: "e.g., Turn a stainless steel washing machine drum into a portable fire pit with perfect airflow. The perforated drum creates a vortex effect that burns cleaner and hotter than a store-bought pit."
+    validations:
+      required: true
+
   - type: dropdown
     id: category
     attributes:
       label: Category
       description: "Which category does this build fit in?"
       options:
-        - Fire & Plasma
-        - Sound & Music
-        - Light & Visual
-        - Functional Machines
-        - Mad Scientist
-        - Art & Installation
-        - Power & Energy
-        - Computer & Phone Parts
-        - Printer & Scanner
-        - Vacuum Cleaner
-        - Power Tools Remixed
-        - Humidifier & Water
-        - Scooter & Motor
-        - Fridge & Cooling
-        - Pyro & Chemistry
-        - Raspberry Pi & Arduino
-        - Python Projects
-        - Chemical + Electronic
-        - Mechanical & Kinetic
-        - Big Builds
-        - Weird Science
-        - Unholy Combos
-        - Drone Salvage
-        - Household Chemistry
-        - Junkyard Auto
-        - Alchemist Cookbook
-        - Junk Instruments
-        - Wearable Tech
-        - Survival & Off-Grid
-        - Pranks & Party
-        - Kitchen Hacks
-        - Laser Lab
-        - New Category (describe below)
+        - "🔥 Fire & Plasma"
+        - "🔊 Sound & Music"
+        - "💡 Light & Visual"
+        - "🔧 Functional Machines"
+        - "⚡ Mad Scientist"
+        - "🎨 Art & Installation"
+        - "🔋 Power & Energy"
+        - "💻 Computer & Phone Parts"
+        - "🖨️ Printer & Scanner"
+        - "🌀 Vacuum Cleaner"
+        - "🔨 Power Tools Remixed"
+        - "💧 Humidifier & Water"
+        - "⚙️ Scooter & Motor"
+        - "❄️ Fridge & Cooling"
+        - "🧪 Pyro & Chemistry"
+        - "🤖 Raspberry Pi & Arduino"
+        - "🐍 Python Projects"
+        - "⚗️ Chemical + Electronic"
+        - "🏗️ Mechanical & Kinetic"
+        - "🏢 Big Builds"
+        - "🔬 Weird Science"
+        - "💀 Unholy Combos"
+        - "🚁 Drone Salvage"
+        - "🧹 Household Chemistry"
+        - "🚗 Junkyard Auto"
+        - "💥 Alchemist Cookbook"
+        - "🎸 Junk Instruments"
+        - "👕 Wearable Tech"
+        - "⛺ Survival & Off-Grid"
+        - "👻 Pranks & Party"
+        - "🍴 Kitchen Hacks"
+        - "🎯 Laser Lab"
+        - "📦 New Category (describe below)"
     validations:
       required: true
 
@@ -59,11 +73,24 @@ body:
     attributes:
       label: Brain Melt Level (Difficulty)
       options:
-        - "⭐ Easy peasy"
-        - "⭐⭐ Some googling"
-        - "⭐⭐⭐ Real project"
-        - "⭐⭐⭐⭐ Advanced"
-        - "⭐⭐⭐⭐⭐ PhD energy"
+        - "⭐ Easy peasy — basic tools, no special skills"
+        - "⭐⭐ Some googling — learn one new thing"
+        - "⭐⭐⭐ Real project — plan a weekend"
+        - "⭐⭐⭐⭐ Advanced — specialized tools or knowledge"
+        - "⭐⭐⭐⭐⭐ PhD energy — you'll learn a lot the hard way"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: spicy
+    attributes:
+      label: Spicy Level (Danger)
+      options:
+        - "⭐ Mild — worst case is a paper cut"
+        - "⭐⭐ Warm — wear safety glasses"
+        - "⭐⭐⭐ Hot — real hazards, PPE required"
+        - "⭐⭐⭐⭐ Habanero — one mistake away from the ER"
+        - "⭐⭐⭐⭐⭐ Carolina Reaper — lethal if you screw up"
     validations:
       required: true
 
@@ -71,11 +98,11 @@ body:
     id: ingredients
     attributes:
       label: Key Ingredients / Parts
-      description: "What salvaged parts or materials does this build need?"
+      description: "What salvaged parts or materials does this build need? Include where to find them."
       placeholder: |
-        - Motor from a dead drill
-        - 12V power supply
-        - Scrap wood
+        - Stainless steel washing machine drum (dead washer — free from curb)
+        - Angle grinder with cutting disc
+        - Steel legs or fire pit base (~$15 at hardware store)
     validations:
       required: true
 
@@ -83,7 +110,7 @@ body:
     id: description
     attributes:
       label: Build Description
-      description: "Describe the build — what it does, why it's cool, any science/engineering behind it"
+      description: "How does it work? What's the science or engineering behind it? Any tricky steps?"
     validations:
       required: true
 
@@ -91,5 +118,12 @@ body:
     id: safety
     attributes:
       label: Safety Considerations
-      description: "Any hazards or safety notes?"
-      placeholder: "e.g., Involves high voltage, requires safety glasses, etc."
+      description: "What could go wrong? What PPE is needed?"
+      placeholder: "e.g., Cutting stainless steel produces sharp edges and sparks. Wear gloves and safety glasses. Hot metal after use — let cool before moving."
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References / Inspiration
+      description: "Links to videos, articles, or other builds that inspired this idea"
+      placeholder: "e.g., Saw this on YouTube: [link], but their version used a propane torch — I think salvaged microwave parts would work better"

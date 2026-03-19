@@ -1,0 +1,57 @@
+name: "⭐ Rating Dispute"
+description: "A build's difficulty, cost, time, or danger rating seems wrong"
+title: "[Rating] "
+labels: ["rating-dispute"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ratings help builders pick the right project for their skill level. If a rating is off, it matters — especially the Spicy Level (danger).
+
+  - type: input
+    id: build
+    attributes:
+      label: Which build?
+      description: "Build number and name"
+      placeholder: "e.g., #094 DIY Freeze Dryer"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: which-rating
+    attributes:
+      label: Which rating is wrong?
+      multiple: true
+      options:
+        - "Jaw Drop (impressiveness)"
+        - "Brain Melt (difficulty)"
+        - "Wallet Damage (cost)"
+        - "Spicy Level (danger)"
+        - "Clout Potential (shareability)"
+        - "Time to Build"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current-vs-correct
+    attributes:
+      label: Current rating vs. what it should be
+      description: "What is it now, and what do you think it should be?"
+      placeholder: |
+        Current: Brain Melt ⭐⭐ (Some googling)
+        Should be: Brain Melt ⭐⭐⭐⭐ (Advanced)
+        Reason: The vacuum chamber fabrication requires machine shop tools and the pressure calculations are non-trivial
+    validations:
+      required: true
+
+  - type: dropdown
+    id: attempted
+    attributes:
+      label: Did you attempt this build?
+      options:
+        - "Yes — completed it"
+        - "Yes — in progress"
+        - "Yes — gave up (too hard / expensive / dangerous)"
+        - "No — assessment based on reading"
+    validations:
+      required: true
