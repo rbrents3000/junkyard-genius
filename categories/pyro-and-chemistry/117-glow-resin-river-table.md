@@ -52,3 +52,6 @@ River tables are live-edge wood slabs split down the middle with a "river" of cl
 
 - [Electroplating Station](../chemical-electronic/156-electroplating-station.md)
 - [Bismuth Crystal Garden](107-bismuth-crystal-garden.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

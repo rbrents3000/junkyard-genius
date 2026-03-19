@@ -52,3 +52,6 @@ Thermite is a mixture of iron oxide (rust) and aluminum powder. When ignited, th
 
 - [Permanganate Auto-Ignition](115-permanganate-auto-ignition.md)
 - [Colored Fire](101-colored-fire.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

@@ -47,3 +47,6 @@ Bismuth melts at 520°F — hot, but achievable on a kitchen stove. When it cool
 
 - [Gallium Melting Spoon](106-gallium-melting-spoon.md)
 - [Copper Crystal Tree](../chemical-electronic/161-copper-crystal-tree.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

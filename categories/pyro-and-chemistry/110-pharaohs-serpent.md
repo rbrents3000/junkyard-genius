@@ -46,3 +46,6 @@ When sugar burns in the presence of baking soda, the heat causes the baking soda
 
 - [Colored Fire](101-colored-fire.md)
 - [Permanganate Auto-Ignition](115-permanganate-auto-ignition.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

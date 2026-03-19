@@ -48,3 +48,6 @@ Mix cornstarch and water at the right ratio and you get a non-Newtonian fluid â€
 
 - [Music Visualizer LED Wall](../python-projects/145-music-visualizer-led-wall.md)
 - [Elephant Toothpaste](102-elephant-toothpaste.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

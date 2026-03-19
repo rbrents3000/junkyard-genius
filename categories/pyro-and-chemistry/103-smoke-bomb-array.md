@@ -52,3 +52,9 @@ Potassium nitrate (stump remover from the hardware store) mixed with sugar creat
 
 - [Fireworks Sequencer](../pi-and-arduino/121-fireworks-sequencer.md)
 - [Colored Fire](101-colored-fire.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

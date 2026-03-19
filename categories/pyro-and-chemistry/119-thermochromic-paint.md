@@ -47,3 +47,6 @@ Thermochromic pigment changes color at a specific temperature. Below the activat
 
 - [Thermochromic Mug](../chemical-electronic/168-thermochromic-mug.md)
 - [pH Reactive Paint](../chemical-electronic/163-ph-reactive-paint.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

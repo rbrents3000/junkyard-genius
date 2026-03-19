@@ -50,3 +50,8 @@ Hydrogen peroxide naturally decomposes into water and oxygen gas, but it does it
 
 - [Dry Ice Bubble Cauldron](120-dry-ice-bubble-cauldron.md)
 - [Chemiluminescent Fountain](111-chemiluminescent-fountain.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)

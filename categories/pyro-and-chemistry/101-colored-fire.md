@@ -49,3 +49,6 @@ Every metal produces a characteristic color when heated — it's how astronomers
 
 - [Pharaoh's Serpent](110-pharaohs-serpent.md)
 - [Steel Wool Photography](113-steel-wool-photography.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)
