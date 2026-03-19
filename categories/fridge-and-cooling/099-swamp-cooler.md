@@ -1,5 +1,9 @@
 # #099 — Swamp Cooler
 
+<p align="center">
+  <img src="../../images/builds/099-swamp-cooler.jpg" alt="Swamp Cooler" width="700" />
+</p>
+
 > Evaporative AC from a bucket, a fan, and a pump. Drops room temperature 15-20°F using only water.
 
 ## Ratings

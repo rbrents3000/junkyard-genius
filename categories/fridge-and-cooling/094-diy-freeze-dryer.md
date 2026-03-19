@@ -1,5 +1,9 @@
 # #094 — DIY Freeze Dryer
 
+<p align="center">
+  <img src="../../images/builds/094-diy-freeze-dryer.jpg" alt="DIY Freeze Dryer" width="700" />
+</p>
+
 > Fridge compressor + vacuum pump + vacuum chamber + cold trap. Freeze-dried food at home. Commercial freeze dryers cost $2000+.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #100 — Thermoelectric Beverage Chiller
 
+<p align="center">
+  <img src="../../images/builds/100-beverage-chiller.jpg" alt="Thermoelectric Beverage Chiller" width="700" />
+</p>
+
 > CPU cooler heatsink + Peltier module = a desktop drink chiller that gets your can ice cold in 5 minutes.
 
 ## Ratings

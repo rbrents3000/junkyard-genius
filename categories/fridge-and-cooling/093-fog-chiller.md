@@ -1,5 +1,9 @@
 # #093 — Fog Chiller
 
+<p align="center">
+  <img src="../../images/builds/093-fog-chiller.jpg" alt="Fog Chiller" width="700" />
+</p>
+
 > Fridge compressor + copper coil + insulated box + fog machine. Cold fog hugs the ground. Infinitely more dramatic. Essential for Halloween.
 
 ## Ratings

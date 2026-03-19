@@ -1,5 +1,9 @@
 # #092 — Fermentation Chamber
 
+<p align="center">
+  <img src="../../images/builds/092-fermentation-chamber.jpg" alt="Fermentation Chamber" width="700" />
+</p>
+
 > Mini-fridge + $12 temperature controller + heating pad. Exact temperature for beer, cheese, kombucha, tempeh. Lab-grade incubator for $15.
 
 ## Ratings

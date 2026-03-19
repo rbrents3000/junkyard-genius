@@ -1,5 +1,9 @@
 # #096 — Peltier Portable Cooler
 
+<p align="center">
+  <img src="../../images/builds/096-peltier-portable-cooler.jpg" alt="Peltier Portable Cooler" width="700" />
+</p>
+
 > Thermoelectric modules from mini fridges become a portable cooler that runs off a car battery.
 
 ## Ratings
