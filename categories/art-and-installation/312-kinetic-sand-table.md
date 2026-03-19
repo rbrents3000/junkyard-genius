@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A glass-topped table with a thin layer of fine white sand inside. Beneath the glass, a CNC gantry system moves a powerful magnet along programmed paths. Above the glass, a steel ball bearing follows the magnet, dragging through the sand and leaving a continuous trail. The patterns never repeat — spirals dissolve into starbursts, starbursts morph into fractals, fractals unwind into waves. The table runs silently and indefinitely.
 
@@ -20,7 +18,8 @@ Commercial versions of this concept (Sisyphus Industries, Sandsara) sell for $60
 
 The result is one of the most elegant objects you can build from salvaged parts. It belongs on a coffee table, in a gallery, or on display at a restaurant. Guests can't stop watching. The ball moves slowly enough to be meditative, and the patterns it leaves behind are genuinely beautiful. When a new pattern starts, it draws over the previous one — the erasure is part of the art.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 2× NEMA-17 stepper motors *(source: dead inkjet printers — nearly every printer has at least one, free)*
 - [ ] GT2 timing belts + pulleys *(source: printer carriage assemblies — the belt and pulleys are already matched, free)*
@@ -36,7 +35,9 @@ The result is one of the most elegant objects you can build from salvaged parts.
 - [ ] 3D-printed or fabricated magnet carriage *(source: print on any FDM printer, or build from scrap aluminum and hot glue)*
 - [ ] Microcontroller code — polar coordinate pattern generator *(source: open-source Sisyphus/Sandify community, free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the gantry frame.** This is a CoreXY or H-bot mechanism — the same motion system used in most 3D printers. Mount two smooth rods parallel to each other along the X axis. Mount two more along the Y axis, perpendicular. The magnet carriage rides on the Y rods, which themselves ride on the X rods. The two steppers stay stationary and drive the belts in a crossed pattern so that coordinated rotation of both motors produces X/Y motion. If you've ever built a 3D printer, you already know this mechanism.
 
@@ -56,13 +57,14 @@ The result is one of the most elegant objects you can build from salvaged parts.
 
 9. **Finishing touches.** Add LED strips underneath the sand tray for dramatic uplighting — the ball's trail glows through the sand. Build a clean enclosure that hides the electronics and gantry completely. The final product should look like a piece of furniture, not a science project. The only visible elements are the glass surface, the sand, and the silently moving ball.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Zero danger during operation.** No high voltage, no fire, no chemicals. The ball and sand are inert. The strongest magnets in the build are the hard drive magnets under the table — keep credit cards, pacemakers, and mechanical watches away from the underside.
+> [!WARNING]
+> **Zero danger during operation.** No high voltage, no fire, no chemicals. The ball and sand are inert. The strongest magnets in the build are the hard drive magnets under the table — keep credit cards, pacemakers, and mechanical watches away from the underside.
 - **Pinch hazard during assembly.** The CoreXY belt system has moving parts that can pinch fingers. Keep hands clear of the gantry when the motors are energized. Add a safety cover over the belt runs.
 - **Glass handling.** Tempered glass is strongly recommended — if standard glass breaks over the mechanism, you'll have shards mixed with fine sand. Tempered glass breaks into small, relatively safe cubes.
 
-## See Also
+## 🔗 See Also
 
 - [Ferrofluid Mirror](046-ferrofluid-mirror.md) — another mesmerizing display piece using magnetic forces
 - [Anti-Gravity Water Fountain](044-antigravity-water-fountain.md) — stroboscopic illusion art

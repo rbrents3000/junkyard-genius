@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A kinetic wind sculpture is a balanced mechanical structure that moves in response to wind. Arms pivot on low-friction bearings, catching the breeze and translating it into smooth, mesmerizing rotation. The best ones look like they defy gravity — long arms with counterweights that seem too delicate to exist, spinning and orbiting each other in complex patterns that never quite repeat.
 
 Anthony Howe's massive kinetic sculptures sell for hundreds of thousands of dollars. The principles are identical at any scale: balance, low friction, and surfaces that catch the wind. Scrap metal provides the structure. Bearings from dead appliances (hard drives, fans, washing machines, skateboard wheels) provide the pivots. Sheet metal or repurposed panels provide the wind-catching surfaces. The design is where the art lives — the engineering just makes it possible.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Steel rod or tubing — various diameters, for arms and central shaft *(scrap metal, hardware store)*
 - [ ] Ball bearings — sealed bearings from dead appliances: hard drives, fans, motors, skateboard wheels *(e-waste, skate shop)*
@@ -30,7 +29,9 @@ Anthony Howe's massive kinetic sculptures sell for hundreds of thousands of doll
 - [ ] Balancing setup — a knife edge or bearing mount for checking balance *(workshop)*
 - [ ] Rust-resistant finish — clear coat, galvanizing spray, or powder coat *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Design the geometry.** Sketch your sculpture on paper. Start simple — a single arm balanced on a central pivot, with a wind-catching paddle on one end and a counterweight on the other. More complex designs use multiple arms nested on each other, each spinning independently. The rule: every arm must be balanced around its pivot point.
 2. **Select and test bearings.** Spin each salvaged bearing by hand. You want bearings with minimal friction — a flick should produce 5+ seconds of free spin. Hard drive bearings and skateboard bearings are excellent. Washing machine bearings are larger but sometimes rougher. Clean and re-grease any sticky bearings.
@@ -42,13 +43,13 @@ Anthony Howe's massive kinetic sculptures sell for hundreds of thousands of doll
 8. **Apply finish.** Bare steel rusts. Apply a clear coat, galvanizing spray, or powder coat to all surfaces. Pay special attention to joints and welds. For an intentional rust aesthetic, apply rust patina to the surfaces but still grease the bearings.
 9. **Install outdoors.** Mount the sculpture on a post, fence, or ground stake in an area with consistent wind exposure. Elevated positions catch more wind. Watch it in different wind conditions and adjust paddle angles if needed.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Spinning metal arms have momentum. In strong winds, a large sculpture can whip its arms fast enough to cause injury. Size the paddles appropriately for your location — too large in a windy area means dangerous speeds. Position the sculpture where people can't walk into the arc of the spinning arms.
 - Welded joints are stress points. Fatigue failure from constant wind loading can cause an arm to break off and become a projectile. Inspect welds periodically. Over-engineer the joints rather than under-engineer them.
 - Sharp sheet metal edges cut easily. Sand or file all edges smooth during construction. Wear gloves when handling raw sheet metal.
 
-## See Also
+## 🔗 See Also
 
 - [Scrap Metal Sculpture](045-scrap-metal-sculpture.md)
 - [Anti-Gravity Water Fountain](044-antigravity-water-fountain.md)

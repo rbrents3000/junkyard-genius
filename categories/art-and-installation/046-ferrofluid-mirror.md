@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Ferrofluid is a colloidal suspension of nanoscale magnetic particles in a carrier oil. In the presence of a magnetic field, it forms dramatic spikes and ridges that follow the field lines — it looks like liquid alien metal. Place a thin layer of ferrofluid between two glass sheets, mount an array of individually controlled electromagnets behind it, and you've got a living display that can form patterns, ripple, spike, flow, and morph in response to programmed sequences or audio input.
 
@@ -20,7 +18,8 @@ Commercial ferrofluid displays (like the ones from Concept Zero or Ferroflow) se
 
 The result looks like something from a science fiction film. Visitors can't stop watching it.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Ferrofluid — 50-100ml, oil-based *(online supplier, ~$15-$30)*
 - [ ] Glass sheets x2 — tempered glass, 8"x10" or larger, with silicone spacer to create a thin gap *(glass shop, hardware store)*
@@ -34,7 +33,9 @@ The result looks like something from a science fiction film. Visitors can't stop
 - [ ] Silicone sealant — to seal the glass sandwich *(hardware store)*
 - [ ] Audio input module (optional) — 3.5mm jack + analog envelope follower or FFT on the Arduino *(electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the glass cell.** Clean two glass sheets thoroughly — any dust or fingerprints on the inside faces will be trapped permanently. Apply a thin bead of silicone sealant around three edges, creating a ~2mm gap between the sheets. Leave the top edge open. Clamp and let the silicone cure for 24 hours.
 2. **Fill with ferrofluid.** Tilt the glass cell and carefully pour ferrofluid through the open top edge. You want a thin layer — about 1-2mm deep when the cell is laid flat. Too much fluid and the response becomes sluggish. Too little and the patterns are thin and weak. Seal the top edge with silicone after filling.
@@ -46,13 +47,13 @@ The result looks like something from a science fiction film. Visitors can't stop
 8. **Build the frame and display.** Mount the glass cell in a vertical frame with the coil array directly behind it. Backlight with LEDs for dramatic effect — the ferrofluid is opaque black, so backlighting creates silhouettes. Side lighting reveals the 3D texture of the spikes through the glass.
 9. **Tune and refine.** Adjust PWM duty cycles for each coil to compensate for any variation in coil strength or distance from the glass. The ferrofluid response should look organic and fluid, not jerky. Slower transitions between patterns look more natural than instant switches.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Ferrofluid stains everything it touches permanently. It is nearly impossible to remove from skin, clothing, and porous surfaces. Wear nitrile gloves when handling it. Work on a surface covered with disposable material. If it contacts skin, mineral oil helps dissolve it — water makes it worse.
 - The glass cell is fragile and under no structural load, but if it breaks, ferrofluid goes everywhere. Use tempered glass, and consider building the frame with a catch tray below the display in case of leaks.
 - The electromagnet array draws significant current when many coils are active simultaneously. Size the power supply and wiring accordingly. Coils that are left on continuously will heat up — use PWM to limit average current and prevent overheating.
 
-## See Also
+## 🔗 See Also
 
 - [Anti-Gravity Water Fountain](044-antigravity-water-fountain.md)
 - [Singing Ferrofluid Tornado](../unholy-combos/053-singing-ferrofluid-tornado.md)

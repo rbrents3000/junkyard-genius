@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Scrap metal sculpture takes components from dead machines — the gears from a washing machine, the springs from a dryer, the brackets from a microwave, the rods from a printer — and welds them into figurative or abstract art. The best pieces are recognizable as art made from junk, where each component's industrial origin adds texture and narrative. A figure made from wrenches and bolts. An animal built from motorcycle chains and sprockets. An abstract form from twisted steel and circuit boards.
 
 The materials are free. The only cost is welding consumables and finishing supplies. The only skill required beyond basic welding is an eye for form — seeing the sculpture inside the pile of parts, the way a stone carver sees the statue inside the rock. The difference is you're adding material, not removing it. You get to iterate, tack pieces on, step back, re-evaluate, and adjust.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Scrap metal parts — gears, springs, rods, brackets, casings, bolts, nuts, chains, wire *(dead appliances, junkyard, workshop scrap pile)*
 - [ ] Steel base plate — heavy enough that the sculpture doesn't tip *(scrap metal)*
@@ -29,7 +28,9 @@ The materials are free. The only cost is welding consumables and finishing suppl
 - [ ] Clear coat or paint — for finishing *(hardware store)*
 - [ ] Safety gear — welding helmet, gloves, jacket *(workshop)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Collect and sort your materials.** Disassemble 3-5 dead appliances and sort the components by type: flat pieces (brackets, panels), round pieces (shafts, rods, tubes), fasteners (bolts, nuts, screws), springs, gears, chains, and oddities. Lay everything out on a table so you can see your inventory.
 2. **Choose a subject or concept.** Figurative sculptures (animals, people, robots) are crowd-pleasers. Abstract forms emphasize shape and texture. Functional art (lamp bases, bookends, coat racks) adds utility. Sketch a rough idea, but stay flexible — the materials will suggest directions you didn't plan.
@@ -40,13 +41,13 @@ The materials are free. The only cost is welding consumables and finishing suppl
 7. **Finish the surface.** Wire-brush the entire piece to remove scale and spatter. For a raw industrial look, apply clear coat to prevent rust while keeping the metal visible. For color, use spray paint or powder coat. For an intentional patina, apply a vinegar-and-salt solution and let it rust, then clear-coat to freeze the patina.
 8. **Mount and display.** Weld the sculpture to a heavy base plate. For outdoor installation, ensure the base is weighted or staked to prevent tipping in wind. Indoor pieces can use a lighter base.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Welding produces UV radiation, hot spatter, and toxic fumes (especially when welding galvanized or painted metals). Always wear a proper welding helmet, leather gloves, and a long-sleeve jacket. Weld in a ventilated area. If welding galvanized metal, use a respirator — zinc fumes cause metal fume fever, which feels like a severe flu.
 - Scrap metal often has sharp edges, burrs, and hidden fasteners. Wear leather gloves when handling raw materials. Tetanus risk is real with rusty metal — keep your tetanus vaccination current.
 - Large sculptures are top-heavy during construction. Clamp or secure the piece to the workbench while building to prevent it from falling over. A falling sculpture made of sharp metal parts is a serious hazard.
 
-## See Also
+## 🔗 See Also
 
 - [Kinetic Wind Sculpture](043-kinetic-wind-sculpture.md)
 - [CRT Electromagnetic Art](048-crt-electromagnetic-art.md)

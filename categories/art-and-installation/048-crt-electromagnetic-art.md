@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A CRT (cathode ray tube) television creates images by shooting a beam of electrons at a phosphor-coated screen. Magnetic fields bend the electron beam — that's actually how the image is steered in the first place (the deflection yoke is an electromagnet). When you bring an external magnet near the screen, you add your own magnetic field on top of the TV's deflection field, warping the electron beam and distorting the image.
 
@@ -20,7 +18,8 @@ Colors shift and separate. Straight lines bend into curves. The image blooms, st
 
 Nam June Paik pioneered this as an art form in the 1960s, creating "Magnet TV" — one of the earliest works of video art. The same technique works today with any CRT you can find at a thrift store. It requires no modification to the TV at all.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] CRT television or monitor — any size, must be functional (displays an image) *(thrift store, curbside, grandma's garage)*
 - [ ] Strong magnets — neodymium magnets from dead hard drives are ideal *(e-waste)*
@@ -28,7 +27,9 @@ Nam June Paik pioneered this as an art form in the 1960s, creating "Magnet TV" �
 - [ ] Video cables — whatever the CRT accepts (composite, S-video, coax) *(junk drawer)*
 - [ ] Camera or phone — for documenting the art *(already own)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Acquire a working CRT.** The TV must actually power on and display an image. Test it before bringing it home. The larger the screen, the more dramatic the distortions — but even a 13" CRT produces beautiful effects. Color CRTs are essential — black-and-white tubes show shape distortion but miss the color separation effect entirely.
 2. **Set up a video source.** Feed the CRT a signal. A solid color screen (use a DVD menu or a test pattern) shows the purest distortion effects. Video content with faces or recognizable imagery creates surreal, unsettling warps. Abstract video or screen savers provide a constantly changing canvas for the magnetic distortion.
@@ -38,13 +39,13 @@ Nam June Paik pioneered this as an art form in the 1960s, creating "Magnet TV" �
 6. **Document the results.** Photograph or video the screen with a camera. Phone cameras work fine but may show moiré patterns from the CRT's phosphor mask. Shooting at a slight angle eliminates moiré. Long exposures capture the glow and color beautifully.
 7. **Degauss when done (optional).** A strong magnet can magnetize the CRT's shadow mask, leaving color distortion even after the magnet is removed. Most CRTs have a built-in degaussing coil that fires when the TV is turned on — power-cycle the TV to degauss. For stubborn magnetization, use a handheld degaussing coil (from an old CRT monitor) waved slowly across the screen.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - CRT televisions contain high voltage internally — the flyback transformer charges the CRT anode to 20-30kV. Never open the case of a CRT while it's plugged in, and be aware that the anode can hold charge for days after unplugging. This build does not require opening the case — all interaction is external through the screen.
 - Strong neodymium magnets can pinch fingers severely and will snap to the CRT's steel chassis if brought too close. Hard drive magnets are especially dangerous because they're powerful and flat — they slam together with finger-crushing force.
 - Prolonged magnet exposure can permanently magnetize the shadow mask, causing color purity issues that degaussing won't fully fix. If you value the CRT for normal viewing, use magnets sparingly. If it's dedicated art, magnetize away.
 
-## See Also
+## 🔗 See Also
 
 - [Dryer Drum Planetarium](047-dryer-drum-planetarium.md)
 - [Scrap Metal Sculpture](045-scrap-metal-sculpture.md)

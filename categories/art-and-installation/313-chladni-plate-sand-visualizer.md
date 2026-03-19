@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A metal plate (cookie sheet, aluminum sheet, or square steel plate) is vibrated by a speaker or exciter mounted underneath. Sand sprinkled on top migrates to the nodal lines — the places where the plate isn't vibrating — revealing standing wave patterns as intricate geometric shapes. Different frequencies produce different patterns. Low frequencies create simple shapes with just a few lines. High frequencies create impossibly detailed mandalas with dozens of symmetrical cells. This phenomenon is called Chladni patterns, after the physicist Ernst Chladni who discovered them in 1787 by drawing a violin bow across the edge of a metal plate. It looks like sorcery.
 
@@ -20,7 +18,8 @@ The physics is elegant: every vibrating plate has regions of maximum displacemen
 
 Square plates produce the most symmetrical, photogenic patterns because the geometry supports clean orthogonal modes. Circular plates create concentric ring patterns. Odd shapes create asymmetric patterns that are still beautiful but less orderly. Thicker plates require more power to drive but produce sharper, more defined nodal lines.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Metal plate — cookie sheet, salvaged sheet metal, or square steel plate, ~12"x12" preferred *(kitchen, scrap yard, or hardware store, ~$0-10)*
 - [ ] Speaker or exciter — 4-6" woofer or tactile transducer *(dead soundbar, Bluetooth speaker, or car audio — free from e-waste)*
@@ -31,7 +30,9 @@ Square plates produce the most symmetrical, photogenic patterns because the geom
 - [ ] Sand or salt — fine grain for detailed patterns *(kitchen, free)*
 - [ ] Clamp or bracket — to secure the speaker to a stable base *(workshop, free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the plate.** If using a cookie sheet, cut it into a square if possible — square plates produce the most symmetrical patterns. File or sand any sharp edges. Drill a small hole dead center of the plate for the mounting bolt.
 
@@ -49,13 +50,13 @@ Square plates produce the most symmetrical, photogenic patterns because the geom
 
 8. **Experiment with different plates.** Try circular plates, rectangular plates, different thicknesses, and different materials (aluminum vs. steel vs. brass). Each produces its own family of patterns. Brass plates resonate more cleanly and produce the sharpest nodal lines.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The amplifier can get loud at high volume, especially at resonant frequencies where the plate rings efficiently. Wear hearing protection if you're sweeping through frequencies for extended periods.
 - Vibration can walk the entire assembly off a table if the base isn't heavy or clamped down. Secure the speaker mount before cranking up the power.
 - Fine sand gets everywhere. Do this on a surface you can sweep easily, or outdoors.
 
-## See Also
+## 🔗 See Also
 
 - [Kinetic Sand Table](312-kinetic-sand-table.md)
 - [Non-Newtonian Speaker](../pyro-and-chemistry/112-non-newtonian-speaker.md)
