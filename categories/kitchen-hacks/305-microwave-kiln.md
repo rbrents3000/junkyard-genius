@@ -69,3 +69,7 @@ The applications are genuinely surprising. Fuse glass — layer pieces of dichro
 
 - [Toaster Reflow Oven](260-toaster-reflow-oven.md)
 - [Waffle Iron Heat Press](264-waffle-iron-press.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

@@ -67,3 +67,7 @@ The conversion is straightforward: build an adapter that fits the PTO drive shaf
 - [Coffee Maker Essential Oil Distiller](262-coffee-maker-distiller.md)
 - [Waffle Iron Heat Press](264-waffle-iron-press.md)
 - [Toaster Reflow Oven](260-toaster-reflow-oven.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

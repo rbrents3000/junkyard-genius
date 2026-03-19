@@ -62,3 +62,7 @@ The one critical requirement is balance. An unbalanced rotor at 10,000 RPM doesn
 
 - [Toaster Reflow Oven](260-toaster-reflow-oven.md)
 - [Coffee Maker Distiller](262-coffee-maker-distiller.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
