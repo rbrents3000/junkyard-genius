@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Every DC motor is also a generator — spin the shaft and it produces electricity instead of consuming it. That motor inside your dead cordless drill, hand mixer, or printer is a perfectly good power source waiting to be unlocked. The problem is that your hand turns a crank at maybe 2-3 revolutions per second, and a small motor needs hundreds or thousands of RPM to generate useful voltage. That's where gear reduction comes in: a large gear on the crank drives a small gear on the motor shaft, multiplying your slow hand speed into high-RPM rotation.
 
@@ -20,7 +18,8 @@ Wire the motor's output through a Schottky diode (to prevent backflow), a big ca
 
 This is the same fundamental mechanism inside every commercial hand-crank flashlight and emergency radio, except you're building it from salvaged parts for nearly free. The engineering is dead simple and the satisfaction of generating your own electricity from muscle power is unreasonably high.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] DC motor (12V-24V range) — the higher the voltage rating, the easier it generates at low RPM *(dead cordless drill, electric screwdriver, hand mixer, or printer — free from e-waste pile)*
 - [ ] Gear set or pulleys — need roughly 10:1 speed increase from crank to motor shaft *(old hand drill gearbox, bicycle gears, printer gear train — salvage or $2-5 at thrift store)*
@@ -34,7 +33,9 @@ This is the same fundamental mechanism inside every commercial hand-crank flashl
 - [ ] Soldering iron + solder + wire *(toolbox)*
 - [ ] Multimeter — essential for checking voltage output *(toolbox, or $10 budget model)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Harvest the motor.** Crack open your dead appliance and extract the DC motor. Cordless drills are ideal because they already have a planetary gearbox attached — you might get the motor and gear reduction in one step. Note which wires are positive and negative, or just test with a multimeter when you spin the shaft — the voltage polarity tells you. Printer motors are also excellent: they're high-quality, have tight tolerances, and often come with gear trains still attached.
 
@@ -56,14 +57,14 @@ This is the same fundamental mechanism inside every commercial hand-crank flashl
 
 10. **Enclose and ruggedize.** Mount everything in a sturdy box or frame. Protect the electronics from rain and dust. Add a carrying handle or strap. Consider mounting the whole unit in a surplus ammo can — they're waterproof, sturdy, and look appropriately apocalyptic. Label the USB port so future-you remembers what this contraption does.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Spinning gears can catch fingers, hair, and loose clothing. Keep the gear train enclosed or shielded with a guard made from scrap sheet metal or a cut-up tin can. This is especially important if anyone else will use it.
 - Some motors can generate surprisingly high voltage at high RPM. If your raw motor output exceeds 25V, crank slower or add a 24V zener diode across the output to clamp voltage and protect your regulator.
 - The Schottky diode is not optional. Without it, your phone's battery will back-drive the motor when you stop cranking and drain itself. A regular 1N4007 diode works but drops 0.7V. A Schottky drops only 0.3V — every fraction of a volt matters when you're generating power with your arm.
 - Never connect a motor directly to a phone without the voltage regulator. Unregulated voltage spikes from speed changes can permanently damage phone charging circuits.
 
-## See Also
+## 🔗 See Also
 
 - [Faraday Cage](252-faraday-cage.md)
 - [Biogas Generator](249-biogas-generator.md)

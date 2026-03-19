@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A Faraday cage is a sealed conductive enclosure that blocks electromagnetic fields from getting in or out. Put your phone inside and it goes completely silent — no calls, no texts, no WiFi, no GPS, no Bluetooth. It's not airplane mode. It's not a signal-blocking pouch. It's a complete electromagnetic void. Radio waves hit the metal shell and the free electrons in the conductor rearrange themselves to cancel the incoming field. Nothing penetrates. Michael Faraday demonstrated this principle in 1836, and the physics hasn't changed since.
 
@@ -20,7 +18,8 @@ The build is almost insultingly simple: a galvanized steel trash can with a tigh
 
 Why would you want one? EMP preparedness is the headline answer — a coronal mass ejection or high-altitude electromagnetic pulse could fry unshielded electronics across entire regions. But there are plenty of practical uses too: RF-quiet testing environments for electronics projects, storing sensitive equipment away from interference, RFID-blocking storage for key fobs and access cards, or just proving to your skeptical friends that yes, the physics is real. Drop a phone inside, call it from another phone, and watch it go straight to voicemail. That demonstration alone is worth the build.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Galvanized steel trash can with tight-fitting lid — 10 or 20 gallon *(hardware store $15-20, or dumpster behind a hardware store — free)*
 - [ ] Conductive gasket tape — adhesive-backed copper or aluminum mesh tape, minimum 2" wide *(electronics supplier or HVAC supply, $5-10 per roll)*
@@ -29,7 +28,9 @@ Why would you want one? EMP preparedness is the headline answer — a coronal ma
 - [ ] Cardboard or foam padding — insulation layer to prevent contents from touching the metal shell *(any box, free)*
 - [ ] A phone or portable radio — for testing *(you already own one)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Inspect the can.** Look for dents, holes, rust spots, or seam gaps. Run your finger along every weld and seam. Any gap wider than 1mm is a potential leak point for higher frequencies. Small dents are fine — they don't break electrical conductivity. Rust spots need to be sanded back to bare metal with steel wool or sandpaper. If the can has a rolled seam on the side, inspect it closely — these are usually tight enough, but check for pinholes.
 
@@ -53,14 +54,14 @@ Why would you want one? EMP preparedness is the headline answer — a coronal ma
 
 11. **Maintain and re-test.** Check the cage every few months with the phone test. Corrosion, dents from bumping the can around, or adhesive deterioration on the gasket tape can open gaps over time. Re-tape and re-test as needed. The cage is only as good as its weakest seal.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - A Faraday cage blocks signals in both directions. If you store a phone inside, no one can reach you — including emergency services. Do not lock away your only communication device.
 - Galvanized steel contains a zinc coating that produces toxic fumes if heated (welding, grinding, cutting with a torch). Light sanding outdoors is fine, but do not weld or grind on the cage without proper ventilation and a respirator.
 - This cage is designed for EMP and RF protection, not lightning. A direct lightning strike carries thousands of amps and requires a proper ground rod and heavy-gauge conductor. Don't put this on your roof and don't rely on it during a thunderstorm.
 - Don't store anything with a lithium battery in a sealed Faraday cage long-term without periodic checks. Lithium batteries that swell or vent in an enclosed space create a hazard.
 
-## See Also
+## 🔗 See Also
 
 - [Hand-Crank Phone Charger](251-hand-crank-charger.md)
 - [Laser Tripwire Security System](../laser-lab/268-laser-tripwire-alarm.md)

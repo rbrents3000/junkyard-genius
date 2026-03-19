@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A solar still uses the sun to evaporate water from moist soil, contaminated water, or even vegetation, then condenses the vapor on a plastic sheet and drips it into a collection cup. It's the same water cycle that makes rain, just miniaturized into a hole in the ground. The sun heats the air under the plastic, moisture evaporates from whatever's in the pit, rises to hit the cooler plastic sheet, condenses into droplets, and gravity pulls them down to the lowest point — where your cup is waiting. The output is distilled water: no salt, no bacteria, no sediment. It won't win any speed contests — expect half a liter to a liter per day from a good-sized still — but when there's no other option, it's the difference between hydration and heat stroke.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Clear plastic sheeting — 6x6 feet minimum, thicker is better *(hardware store, trash bags in a pinch)*
 - [ ] Shovel or digging tool *(toolbox, sharp stick in a real emergency)*
@@ -26,7 +25,9 @@ A solar still uses the sun to evaporate water from moist soil, contaminated wate
 - [ ] Optional: surgical tubing or straw — lets you drink without dismantling the still *(pharmacy, aquarium supply)*
 - [ ] Optional: contaminated water or vegetation — to increase moisture in the pit *(any water source, green leaves)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Choose your location.** Pick a spot with maximum sun exposure throughout the day. South-facing slopes are ideal in the northern hemisphere. Avoid shade from trees or structures. Low ground where moisture naturally collects gives you a head start.
 2. **Dig the pit.** Excavate a bowl-shaped hole about 3 feet across and 2 feet deep. The wider and deeper, the more surface area for evaporation. Slope the sides smoothly — you don't want dirt crumbling in later.
@@ -37,13 +38,13 @@ A solar still uses the sun to evaporate water from moist soil, contaminated wate
 7. **Wait.** The still needs full sun and time to work. Leave it undisturbed for at least 4-6 hours. Opening it releases the trapped humid air and resets the process. Check and harvest water in the evening.
 8. **Harvest and reset.** Carefully lift one edge of the plastic, remove the cup, and drink. Replace any vegetation that has dried out with fresh material. Re-seal and repeat daily.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Solar stills purify water through evaporation and condensation, but this process does not remove volatile organic compounds or chemicals with boiling points near water. Do not use with fuel-contaminated or chemically polluted water.
 - Output is low — a solar still is a supplement, not a primary water source. In a real survival situation, pursue multiple water strategies simultaneously.
 - In desert environments, the energy you spend digging the pit can cause you to sweat out more water than the still produces. Dig during cool hours (dawn or dusk), not in peak sun.
 
-## See Also
+## 🔗 See Also
 
 - [Gravity Water Filter](250-gravity-water-filter.md)
 - [Rocket Stove](253-rocket-stove.md)

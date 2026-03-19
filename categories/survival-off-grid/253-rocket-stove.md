@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A rocket stove is a hyper-efficient wood-burning cook stove that uses an insulated L-shaped combustion chamber to create a powerful self-reinforcing updraft. Small sticks feed into the horizontal opening at the bottom. The fire burns at the elbow of the L. Hot gases rocket up the vertical insulated chimney and blast directly into the bottom of your pot. The insulation keeps the heat inside the chamber instead of radiating uselessly outward. Result: you boil a quart of water with a handful of twigs that you'd normally ignore as kindling.
 
@@ -20,7 +18,8 @@ An open campfire wastes roughly 85-90% of the wood's energy — heat radiates in
 
 The design was developed in the 1980s by Dr. Larry Winiarski for use in developing countries where deforestation from inefficient cooking fires was destroying ecosystems and smoke inhalation was killing people. The World Health Organization and dozens of NGOs have deployed millions of rocket stove variants worldwide. You can build one from three tin cans and some ash in about 30 minutes. Upgrade to a #10 institutional-sized can with vermiculite insulation and you've got something that'll serve you for years.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Large can (#10 size, ~6" diameter) — the outer body and insulation shell *(restaurant dumpster, bulk food section — free)*
 - [ ] Medium can (~4" diameter) — the inner combustion chimney/riser *(standard vegetable or coffee can — free)*
@@ -32,7 +31,9 @@ The design was developed in the 1980s by Dr. Larry Winiarski for use in developi
 - [ ] Wire coat hanger — for pot support grate *(closet — free)*
 - [ ] Small piece of hardware cloth or expanded metal — fuel shelf inside the feed tube *(hardware store $2, or cut from a salvaged grate)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the outer can.** Remove the top of the large #10 can if it's not already open. Leave the bottom intact. This is the outer shell that holds insulation and provides structure. File or bend any sharp edges inward — you'll be reaching inside this can repeatedly.
 
@@ -56,7 +57,7 @@ The design was developed in the 1980s by Dr. Larry Winiarski for use in developi
 
 11. **Dial in the feed rate.** Don't stuff the feed tube full of wood. You want 3-5 sticks at a time, pushed in gradually as they burn. Overloading chokes the air supply and produces smoke — the exact thing this design eliminates. Underloading starves the fire. The sweet spot is a hot, nearly smokeless burn with a visible jet of flame rising from the chimney. If you see heavy smoke, your fuel is either too wet, too thick, or too tightly packed.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The outer can gets extremely hot during operation — hot enough to cause serious burns instantly. Place the stove on bare ground, concrete, gravel, or a fireproof surface. Never on a wooden deck, dry grass, a picnic table, or inside a tent or structure.
 - Use outdoors only with good ventilation. Even efficient combustion produces carbon monoxide. In a confined space, rocket stoves are lethal.
@@ -64,7 +65,7 @@ The design was developed in the 1980s by Dr. Larry Winiarski for use in developi
 - Cut tin edges are extremely sharp and become even more hazardous when heated (metal expands and edges can split). Wear gloves during construction and file every cut edge smooth.
 - Let the stove cool completely before moving or storing it. The insulation retains heat for a surprisingly long time — what feels cool on the outside may still have glowing embers inside.
 
-## See Also
+## 🔗 See Also
 
 - [Gravity Water Filter](250-gravity-water-filter.md)
 - [Solar Still](248-solar-still.md)

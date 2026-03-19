@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Anaerobic bacteria eat organic waste and produce methane — the same natural gas that powers your kitchen stove. A biogas generator is just a sealed container where you feed these bacteria kitchen scraps, manure, or any organic waste, and collect the gas that comes off. The concept is ancient. Farmers in India and China have used biogas digesters for centuries. The engineering is simple: a sealed drum with an inlet for waste, an outlet for gas, and a way to drain the spent slurry (which happens to be excellent fertilizer). A well-fed household digester can produce enough methane to cook for 2-4 hours per day. You are literally cooking dinner with yesterday's dinner.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 55-gallon plastic drum with sealable lid — must be airtight *(hardware store, industrial surplus)*
 - [ ] Smaller bucket or drum — for gas collection/storage *(hardware store)*
@@ -29,7 +28,9 @@ Anaerobic bacteria eat organic waste and produce methane — the same natural ga
 - [ ] Organic waste — kitchen scraps, manure, grass clippings *(kitchen, yard)*
 - [ ] Water *(tap)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the digester drum.** Drill a 3" hole near the top of the drum for the waste inlet pipe. Drill a 1" hole in the lid for the gas outlet pipe. Every penetration must be sealed airtight with silicone — any air leak introduces oxygen, which kills the anaerobic bacteria and stops gas production.
 2. **Install the inlet pipe.** Insert a 3" PVC pipe through the side hole, angled downward into the drum. This is where you'll feed in waste. Add a removable cap or funnel on the outside. The pipe should extend below the liquid level inside the drum to create a water seal that prevents gas from escaping through the inlet.
@@ -42,13 +43,13 @@ Anaerobic bacteria eat organic waste and produce methane — the same natural ga
 9. **Test the gas.** Before connecting to a burner, bleed the first batch of gas outdoors. Early gas production is mostly carbon dioxide with some methane — it won't burn well. Once you can ignite the gas from the tube with a match and it burns with a steady blue flame, you're producing quality methane.
 10. **Connect to the burner.** Route the gas line to your stove burner. Biogas burns at lower pressure than propane, so you may need to open up the burner jet slightly with a drill bit one size larger. Adjust the air intake for a clean blue flame.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Methane is flammable and explosive when mixed with air at 5-15% concentration. Never use the biogas system indoors without ventilation. Test all connections with soapy water — bubbles mean leaks. Fix every leak before use.
 - Hydrogen sulfide (rotten egg smell) is produced alongside methane. It's toxic in high concentrations. Always operate the digester outdoors and stand upwind when opening the drum.
 - Never use a flame to check for gas leaks. Use soapy water or a commercial gas leak detector.
 
-## See Also
+## 🔗 See Also
 
 - [Rocket Stove](253-rocket-stove.md)
 - [Gravity Water Filter](250-gravity-water-filter.md)

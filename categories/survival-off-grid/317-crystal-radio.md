@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A radio receiver that uses no batteries and no external power source of any kind. A long wire antenna captures AM radio waves. A hand-wound coil paired with a variable capacitor forms a tuned circuit that selects a single station from the electromagnetic soup. A diode — or, for maximum junkyard credibility, a razor blade touched by a pencil lead acting as a crude semiconductor junction — demodulates the AM signal, stripping away the carrier frequency and leaving only the audio. A high-impedance crystal earpiece converts that audio signal into sound. The energy to drive the earpiece comes entirely from the broadcast signal itself. The radio station's transmitter, possibly dozens of miles away, is providing your power.
 
@@ -20,7 +18,8 @@ This is how radio worked in 1906. Guglielmo Marconi's original receivers used a 
 
 The sound is quiet — you'll need a crystal earpiece, not regular earbuds or a speaker, because crystal earpieces are high-impedance and extract maximum audio from the tiny signal. But the fact that you're hearing a human voice transmitted from miles away using nothing but wire, a razor blade, and a toilet paper tube is genuinely magical. This is the ultimate survival radio. No power grid, no batteries, no solar panel, no charging cable. Just physics, copper wire, and your ability to wind a coil.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Magnet wire — 24-28 AWG, about 50 feet *(dead motor or transformer winding — free from e-waste)*
 - [ ] Cardboard tube — toilet paper roll or paper towel roll *(recycling bin, free)*
@@ -32,7 +31,9 @@ The sound is quiet — you'll need a crystal earpiece, not regular earbuds or a 
 - [ ] Alligator clips and hookup wire — for making connections *(electronics bin, ~$2)*
 - [ ] Small capacitor, 100pF-1nF — for filtering *(electronics bin, free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Wind the tuning coil.** Wrap 60-80 turns of magnet wire tightly around the cardboard tube. Keep the turns close together and even — no gaps or overlaps. Leave 6-inch wire tails at each end for connections. Optionally, make taps (small loops pulled out from the coil) every 15-20 turns. These taps allow you to coarse-tune the inductance by selecting different portions of the coil, which changes the frequency range.
 
@@ -48,13 +49,13 @@ The sound is quiet — you'll need a crystal earpiece, not regular earbuds or a 
 
 7. **Tune and listen.** Put in the crystal earpiece. Slowly rotate the variable capacitor. At each AM station's frequency, you'll hear audio fade in, peak in clarity, and then fade out as you tune past. Nearby AM stations with strong transmitters will come through clearly. Distant stations will be faint but audible, especially on quiet nights when AM signals bounce off the ionosphere and travel hundreds of miles. If using the cat's whisker, you may need to readjust the contact point when changing stations.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Zero electrical danger. The voltage in the circuit is measured in millivolts — far below any level that could cause harm.
 - The loudest possible signal from a nearby AM tower is still barely audible through the crystal earpiece. No hearing damage risk.
 - The only physical hazard is the razor blade if you're building the cat's whisker detector. Handle it carefully during setup and mount it securely so it doesn't slide around.
 
-## See Also
+## 🔗 See Also
 
 - [Faraday Flashlight](318-faraday-flashlight.md)
 - [Hand-Crank Phone Charger](251-hand-crank-charger.md)
