@@ -1,5 +1,9 @@
 # #123 — Smart Mirror
 
+<p align="center">
+  <img src="../../images/builds/123-smart-mirror.jpg" alt="Smart Mirror" width="700" />
+</p>
+
 > An old monitor behind one-way mirror glass, running a Pi with MagicMirror² — time, weather, calendar, and news at a glance.
 
 ## Ratings

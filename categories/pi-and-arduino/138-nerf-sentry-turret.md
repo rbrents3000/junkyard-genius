@@ -1,5 +1,9 @@
 # #138 — Nerf Sentry Turret
 
+<p align="center">
+  <img src="../../images/builds/138-nerf-sentry-turret.jpg" alt="Nerf Sentry Turret" width="700" />
+</p>
+
 > A motorized Nerf gun on pan/tilt servos with ultrasonic sensors or Pi camera — auto-targeting that can recognize faces.
 
 ## Ratings

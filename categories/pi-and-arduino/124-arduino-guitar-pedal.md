@@ -1,5 +1,9 @@
 # #124 — Arduino Guitar Pedal
 
+<p align="center">
+  <img src="../../images/builds/124-arduino-guitar-pedal.jpg" alt="Arduino Guitar Pedal" width="700" />
+</p>
+
 > An Arduino reads analog audio and applies digital effects — distortion, delay, chorus — housed in a dead hard drive chassis.
 
 ## Ratings

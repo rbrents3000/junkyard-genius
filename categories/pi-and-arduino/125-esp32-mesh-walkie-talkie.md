@@ -1,5 +1,9 @@
 # #125 — ESP32 Mesh Walkie-Talkie
 
+<p align="center">
+  <img src="../../images/builds/125-esp32-mesh-walkie-talkie.jpg" alt="ESP32 Mesh Walkie-Talkie" width="700" />
+</p>
+
 > Multiple ESP32 boards with mics and speakers form a mesh radio network — decentralized communication with no infrastructure.
 
 ## Ratings

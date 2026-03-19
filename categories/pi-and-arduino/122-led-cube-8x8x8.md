@@ -1,5 +1,9 @@
 # #122 — LED Cube 8x8x8
 
+<p align="center">
+  <img src="../../images/builds/122-led-cube-8x8x8.jpg" alt="LED Cube 8x8x8" width="700" />
+</p>
+
 > 512 LEDs soldered into a 3D matrix — animations, text, fire effects, and audio-reactive patterns floating in space.
 
 ## Ratings

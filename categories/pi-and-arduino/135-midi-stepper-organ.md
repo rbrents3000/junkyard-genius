@@ -1,5 +1,9 @@
 # #135 — MIDI Stepper Organ
 
+<p align="center">
+  <img src="../../images/builds/135-midi-stepper-organ.jpg" alt="MIDI Stepper Organ" width="700" />
+</p>
+
 > Stepper motors whine at frequencies controlled by step rate — send MIDI notes and the motors play music. Floppy drives work too.
 
 ## Ratings

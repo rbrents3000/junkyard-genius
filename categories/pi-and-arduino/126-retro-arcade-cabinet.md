@@ -1,5 +1,9 @@
 # #126 — Retro Arcade Cabinet
 
+<p align="center">
+  <img src="../../images/builds/126-retro-arcade-cabinet.jpg" alt="Retro Arcade Cabinet" width="700" />
+</p>
+
 > A Pi 4 running RetroPie in a repurposed furniture cabinet with arcade buttons — 10,000+ retro games.
 
 ## Ratings

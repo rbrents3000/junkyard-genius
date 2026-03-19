@@ -1,5 +1,9 @@
 # #129 — Printer Robot Arm
 
+<p align="center">
+  <img src="../../images/builds/129-printer-robot-arm.jpg" alt="Printer Robot Arm" width="700" />
+</p>
+
 > Stepper motors from dead printers + 3D printed joints = a working robotic arm that teaches positions and replays them.
 
 ## Ratings

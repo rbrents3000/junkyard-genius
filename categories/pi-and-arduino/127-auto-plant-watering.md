@@ -1,5 +1,9 @@
 # #127 — Auto Plant Watering
 
+<p align="center">
+  <img src="../../images/builds/127-auto-plant-watering.jpg" alt="Auto Plant Watering" width="700" />
+</p>
+
 > Soil moisture sensors trigger a pump through an Arduino relay — your plants water themselves and log the data.
 
 ## Ratings

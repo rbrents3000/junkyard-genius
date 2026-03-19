@@ -1,5 +1,9 @@
 # #130 — AI Doorbell
 
+<p align="center">
+  <img src="../../images/builds/130-ai-doorbell.jpg" alt="AI Doorbell" width="700" />
+</p>
+
 > Pi camera with face recognition — identifies family by name, logs strangers, sends photos to your phone.
 
 ## Ratings

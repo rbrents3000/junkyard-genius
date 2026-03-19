@@ -1,5 +1,9 @@
 # #121 — Fireworks Sequencer
 
+<p align="center">
+  <img src="../../images/builds/121-fireworks-sequencer.jpg" alt="Fireworks Sequencer" width="700" />
+</p>
+
 > A Raspberry Pi with a relay board and nichrome igniters gives you professional-grade fireworks show timing.
 
 ## Ratings

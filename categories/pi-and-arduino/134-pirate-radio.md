@@ -1,5 +1,9 @@
 # #134 — Pirate Radio
 
+<p align="center">
+  <img src="../../images/builds/134-pirate-radio.jpg" alt="Pirate Radio" width="700" />
+</p>
+
 > A Raspberry Pi with a wire on a GPIO pin becomes an FM transmitter — broadcast to any FM radio within 100 feet.
 
 ## Ratings
