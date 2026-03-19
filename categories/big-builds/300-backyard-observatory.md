@@ -1,5 +1,9 @@
 # #300 — Backyard Observatory
 
+<p align="center">
+  <img src="../../images/builds/300-backyard-observatory.jpg" alt="Backyard Observatory" width="700" />
+</p>
+
 > A rotating dome, a telescope, and a Raspberry Pi that tracks Jupiter for you while you drink coffee. Your HOA will hate it. Your neighbors will love it.
 
 ## Ratings

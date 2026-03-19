@@ -1,5 +1,9 @@
 # #192 — Weather Balloon Launch
 
+<p align="center">
+  <img src="../../images/builds/192-weather-balloon-launch.jpg" alt="Weather Balloon Launch" width="700" />
+</p>
+
 > Send a camera to the edge of space on a helium balloon and get it back — for less than the cost of a plane ticket.
 
 ## Ratings

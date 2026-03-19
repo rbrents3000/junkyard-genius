@@ -1,5 +1,9 @@
 # #195 — Underground Root Cellar
 
+<p align="center">
+  <img src="../../images/builds/195-underground-root-cellar.jpg" alt="Underground Root Cellar" width="700" />
+</p>
+
 > Dig a hole, line it, insulate it, monitor it — and store food at perfect temperature year-round without electricity.
 
 ## Ratings

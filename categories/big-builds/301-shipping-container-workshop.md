@@ -1,5 +1,9 @@
 # #301 — Shipping Container Workshop
 
+<p align="center">
+  <img src="../../images/builds/301-shipping-container-workshop.jpg" alt="Shipping Container Workshop" width="700" />
+</p>
+
 > A 320-square-foot steel box that locks, survives hurricanes, and holds every tool you own. Just add insulation, power, and ambition.
 
 ## Ratings

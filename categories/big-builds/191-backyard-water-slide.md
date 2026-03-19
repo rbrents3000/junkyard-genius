@@ -1,5 +1,9 @@
 # #191 — Backyard Water Slide
 
+<p align="center">
+  <img src="../../images/builds/191-backyard-water-slide.jpg" alt="Backyard Water Slide" width="700" />
+</p>
+
 > 100 feet of tarp, PVC, and a recirculating pump — because water parks charge too much and your yard is just sitting there.
 
 ## Ratings
