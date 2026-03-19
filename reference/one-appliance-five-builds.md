@@ -212,6 +212,7 @@ Mostly extinct in the wild, but if you find one, it's a treasure chest of high-v
 | 3 | [#048 -- CRT Electromagnetic Art](../categories/art-and-installation/048-crt-electromagnetic-art.md) | Intermediate | High | Whole CRT + yoke |
 | 4 | [#021 -- CRT Oscilloscope Visualizer](../categories/light-and-visual/021-crt-oscilloscope-visualizer.md) | Advanced | High | Whole CRT + yoke |
 | 5 | [#196 -- Kirlian Photography](../categories/weird-science/196-kirlian-photography.md) | Advanced | Insane | Flyback transformer |
+| 6 | [#335 -- CRT Electron Art Array](../categories/visual-showstoppers/335-crt-electron-art-array.md) | Advanced | High | Whole CRTs + magnets + audio amp |
 
 **Bonus parts:** CRT TVs also contain the [#015 Giant Plasma Globe](../categories/light-and-visual/015-giant-plasma-globe.md) ingredients — the flyback is the heart of that build too. The deflection yoke coils contain fine-gauge enameled copper wire useful for winding your own transformers and coils. The speakers are often surprisingly good full-range units.
 

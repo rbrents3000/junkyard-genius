@@ -197,6 +197,7 @@ Place your build in the category that best fits. Current categories:
 | Pranks & Party | `pranks-and-party/` | Smoke ring cannons, confetti launchers, shock gadgets |
 | Kitchen Hacks | `kitchen-hacks/` | Toaster reflow ovens, microwave kilns, appliance repurposing |
 | Laser Lab | `laser-lab/` | Laser harps, galvo light shows, Blu-ray cutters |
+| Visual Showstoppers | `visual-showstoppers/` | Cloud chamber tables, fire organs, ferrofluid walls, infinity rooms, flip-dot displays |
 
 If your build doesn't fit any existing category, propose a new one in your PR description with a name, tagline, and at least 3 build ideas that would fit.
 

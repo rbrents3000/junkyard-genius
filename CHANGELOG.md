@@ -4,6 +4,23 @@ All notable milestones for this project are documented here.
 
 ---
 
+## v2.1.0 — Visual Showstoppers + Build Finder Quiz (March 2026)
+
+- **9 new builds** in a new category → 335 total builds, 33 categories
+  - 👁️ Visual Showstoppers (#330-#338): Cloud Chamber Coffee Table, Fire Organ, Dead Appliance Rube Goldberg, Ferrofluid Wall, Water Vortex Table, CRT Electron Art Array, Water Droplet Time Fountain, Infinity Room, Mechanical Flip-Dot Display
+- **Interactive Build Finder Quiz** on GitHub Pages — 6-question branching quiz with scoring algorithm across all 335 builds
+  - Quiz linked from README nav bar, Start Here section, and OG meta tags
+- **Cross-linking pass** — 245 builds linked to relevant reference docs (safety, electronics, chemicals, teardown, glossary)
+- **Visual polish** across all builds:
+  - Shields.io rating badges replacing plain star tables
+  - Emoji section headers (🧪 🧰 🔨 ⚠️ 🔗)
+  - Collapsible `<details>` ingredient lists
+  - GitHub `> [!CAUTION]` / `> [!WARNING]` alert blocks on 68 high-spice builds
+- **Category README polish** — emoji prefixes + shields.io build count badges on all 33 category READMEs
+- **Issue template improvements** — 4 templates (bug report, new build idea, safety report, rating dispute)
+- **Dependabot auto-merge workflow** for dependency PRs
+- **GitHub Pages** enabled with Midnight dark theme
+
 ## Phase 6 — Crown Jewels & Missing Classics (March 2026)
 
 - **15 new builds** across 9 categories → 326 total builds

@@ -64,6 +64,7 @@ body:
         - "👻 Pranks & Party"
         - "🍴 Kitchen Hacks"
         - "🎯 Laser Lab"
+        - "👁️ Visual Showstoppers"
         - "📦 New Category (describe below)"
     validations:
       required: true
