@@ -18,6 +18,8 @@
     {% include head-custom.html %}
   </head>
   <body>
+    <a class="skip-link" href="#main">Skip to main content</a>
+
       <div id="header">
         <nav>
           <ul>
@@ -34,15 +36,17 @@
     <div class="wrapper">
 
       <section>
-        <div id="title">
+        <header id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>
           <hr>
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
-        </div>
+        </header>
 
+        <main id="main">
         {{ content }}
+        </main>
 
       </section>
 

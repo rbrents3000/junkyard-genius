@@ -530,6 +530,34 @@ input[type="checkbox"] {
   #header nav ul li a { font-size: 0.7rem !important; padding: 6px 10px !important; }
 }
 
+/* ── Reduced Motion ── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ── Skip Link ── */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 16px;
+  z-index: 999;
+  padding: 8px 16px;
+  background: var(--orange);
+  color: #fff !important;
+  font-weight: 700;
+  font-size: 0.85rem;
+  border-radius: var(--radius-xs);
+  text-decoration: none !important;
+}
+.skip-link:focus {
+  top: 8px;
+}
+
 /* ── Print Stylesheet ── */
 @media print {
   #header,

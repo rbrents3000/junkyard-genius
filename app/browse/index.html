@@ -406,7 +406,7 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
     var pct = (value / 5) * 100;
     return '<div class="rating-item">'
       + '<span class="rating-label">' + label + '</span>'
-      + '<div class="rating-bar"><div class="rating-bar-fill ' + cls + '" style="width:' + pct + '%"></div></div>'
+      + '<div class="rating-bar" role="meter" aria-label="' + label + '" aria-valuenow="' + value + '" aria-valuemin="0" aria-valuemax="5"><div class="rating-bar-fill ' + cls + '" style="width:' + pct + '%"></div></div>'
       + '<span class="rating-val ' + cls + '">' + value + '</span>'
       + '</div>';
   }
