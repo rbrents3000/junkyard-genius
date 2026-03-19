@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Two ultrasonic transducers (the same kind used in cheap mist makers and range finders) are positioned facing each other. When driven at the same frequency (typically 40 kHz — above human hearing), they create a standing wave pattern between them. At the nodes of the standing wave, the air pressure is stable enough to trap and suspend small, lightweight objects: styrofoam beads, water droplets, small insects, tiny screws.
 
 The objects literally float in mid-air with no visible support. You can levitate multiple objects at once, stacked vertically at each node of the standing wave (spaced at half-wavelength intervals). It's one of the most mind-bending physics demonstrations possible — actual acoustic levitation using $10 worth of parts.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Ultrasonic transducers (40 kHz), at least 2 but ideally an array of 10-20 *(source: HC-SR04 ultrasonic sensor modules from electronics supplier, ~$1 each)*
 - [ ] Arduino Nano or similar microcontroller *(source: electronics supplier, ~$5)*
@@ -29,7 +28,9 @@ The objects literally float in mid-air with no visible support. You can levitate
 - [ ] Wire, solder, perfboard *(source: electronics supplier, ~$3)*
 - [ ] Tweezers for placing objects *(source: already own)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Harvest the transducers.** If using HC-SR04 modules, desolder the two ultrasonic transducers (the silver cans) from each module. You want as many as you can get — a pair works, but an array of 10+ on each side creates a much stronger levitation field. Sort them into transmitters and receivers (they're labeled T and R on the module).
 
@@ -49,12 +50,13 @@ The objects literally float in mid-air with no visible support. You can levitate
 
 9. **Advanced: single-sided levitation.** Instead of two opposing arrays, use one array with a curved reflector above it. The reflector bounces the sound waves back, creating standing waves above a single surface. This looks even more magical because there's nothing visible above the floating objects.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Ultrasound at high power can cause discomfort.** While 40 kHz is above hearing range, high-power ultrasonic fields can cause headaches, nausea, or ear discomfort in some people, especially at harmonic frequencies that are within hearing range. If you feel discomfort, reduce the power or add shielding.
+> [!WARNING]
+> **Ultrasound at high power can cause discomfort.** While 40 kHz is above hearing range, high-power ultrasonic fields can cause headaches, nausea, or ear discomfort in some people, especially at harmonic frequencies that are within hearing range. If you feel discomfort, reduce the power or add shielding.
 - **Keep the transducer arrays aligned.** Misaligned arrays produce unpredictable standing wave patterns. Secure the mounting hardware so nothing shifts during operation.
 
-## See Also
+## 🔗 See Also
 
 - [Ferrofluid Speaker](011-ferrofluid-speaker.md) — another way to make invisible forces visible through physical media
 - [Schlieren Optics](../light-and-visual/172-schlieren-optics.md) — visualize the sound waves themselves instead of levitating objects in them

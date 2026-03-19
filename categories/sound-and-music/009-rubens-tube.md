@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A Rubens' tube is a metal pipe sealed at both ends with a row of small holes drilled along the top. One end has a gas inlet (propane), and the other end has a speaker membrane. When you fill the tube with propane and light the holes, you get a row of small flames. Play a tone through the speaker, and the sound waves create pressure variations inside the tube — the flames at pressure nodes shrink, and the flames at antinodes grow taller. You get a real-time, physical visualization of standing wave patterns drawn in fire.
 
 Change the frequency and the flame pattern changes instantly. Low frequencies produce long, lazy waves with a few peaks. High frequencies produce many short peaks. Play music and the flames dance to the beat. It's physics and fire art simultaneously.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Steel or aluminum tube, 4-6 feet long, 2-3 inch diameter *(source: hardware store or scrap metal, ~$10-15)*
 - [ ] Propane tank with regulator and hose *(source: BBQ supply, ~$10 for regulator if you already have a tank)*
@@ -30,7 +29,9 @@ Change the frequency and the flame pattern changes instantly. Low frequencies pr
 - [ ] JB Weld or high-temp silicone sealant *(source: hardware store, ~$5)*
 - [ ] Phone or signal generator for audio source *(source: already own)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Drill the flame holes.** Mark a straight line along the top of your tube using a chalk line or tape. Drill holes every 1/2 inch (about 1cm apart) along the entire length. Use a 1/16" or 1mm drill bit. Keep the holes evenly spaced — uneven spacing produces uneven baseline flame heights. Deburr each hole.
 
@@ -50,13 +51,14 @@ Change the frequency and the flame pattern changes instantly. Low frequencies pr
 
 9. **Play music.** Switch from sine waves to actual music. Bass-heavy music with clear beats works best — the flames will jump and dance with the rhythm. Electronic music, hip-hop, and anything with deep bass creates the most dramatic visual response.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Propane is explosive.** A gas leak near the tube can accumulate and ignite explosively. Do this outdoors or in a very well-ventilated area. If the flames go out but gas is still flowing, shut off the gas immediately and let the area ventilate before relighting. Never relight if you smell accumulated gas.
+> [!WARNING]
+> **Propane is explosive.** A gas leak near the tube can accumulate and ignite explosively. Do this outdoors or in a very well-ventilated area. If the flames go out but gas is still flowing, shut off the gas immediately and let the area ventilate before relighting. Never relight if you smell accumulated gas.
 - **The tube gets hot.** After running for more than a few minutes, the metal tube will be too hot to touch. Support it on non-flammable stands and don't grab it bare-handed to reposition. Let it cool fully before storing.
 - **Keep the propane tank at a safe distance.** Use a hose at least 6 feet long between the tank and the tube. If the fire somehow travels back down the hose (flashback), you want the tank far away. A flashback arrestor fitting on the hose is a worthwhile $10 investment.
 
-## See Also
+## 🔗 See Also
 
 - [Propane Vortex Cannon](../fire-and-plasma/003-propane-vortex-cannon.md) — another propane project with dramatic fire effects
 - [Plasma Speaker](008-plasma-speaker.md) — visualize sound with an electrical arc instead of fire

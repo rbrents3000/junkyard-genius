@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Ferrofluid is a liquid suspension of nanoscale magnetic particles in a carrier oil. When exposed to a magnetic field, it forms dramatic spiky structures as the particles align with field lines. By placing ferrofluid on the magnet of a speaker and playing music, the changing electromagnetic field from the voice coil modulates the magnetic field strength, causing the ferrofluid to dance, spike, and flow in real time with the audio.
 
 The result is mesmerizing — a jet-black liquid that seems alive, growing spines and tentacles with every bass hit and collapsing into smooth pools during quiet moments. Mounted in a clear container with backlighting, it becomes a kinetic art piece that responds to whatever you're listening to.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Ferrofluid, 2-4 oz *(source: online science supplier or make your own from toner powder and vegetable oil, ~$10-15)*
 - [ ] Speaker with exposed magnet, 3-6 inch *(source: dead boom box, car speaker, or thrift store, free-$3)*
@@ -28,7 +27,9 @@ The result is mesmerizing — a jet-black liquid that seems alive, growing spine
 - [ ] LED strip or small flashlight for backlighting *(source: dollar store or around the house, ~$3)*
 - [ ] Plastic wrap or clear acrylic sheet for containment *(source: around the house)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the speaker.** Remove the speaker from its enclosure so the magnet on the back is exposed. The magnet is the heavy disc on the rear of the speaker — this is what the ferrofluid will respond to. Clean the magnet surface so it's flat and free of debris.
 
@@ -46,12 +47,13 @@ The result is mesmerizing — a jet-black liquid that seems alive, growing spine
 
 8. **Experiment with audio.** Try different genres. Deep bass produces large, slow spike movements. Midrange vocals create rapid surface ripples. Try a pure sine wave sweep from 20 Hz to 1 kHz and watch how the fluid responds differently at each frequency.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Ferrofluid stains everything permanently.** It contains nanoscale iron particles in oil — it will stain skin, clothing, countertops, and wood on contact. Work over newspaper or a disposable surface. Wear gloves when handling. If it gets on skin, mineral oil or rubbing alcohol helps remove it faster than soap.
+> [!WARNING]
+> **Ferrofluid stains everything permanently.** It contains nanoscale iron particles in oil — it will stain skin, clothing, countertops, and wood on contact. Work over newspaper or a disposable surface. Wear gloves when handling. If it gets on skin, mineral oil or rubbing alcohol helps remove it faster than soap.
 - **Keep ferrofluid away from electronics and credit cards.** The magnetic particles can damage magnetic strips, hard drives, and sensitive electronics. Work away from laptops and phones, and wash hands thoroughly before handling other devices.
 
-## See Also
+## 🔗 See Also
 
 - [Ultrasonic Levitator](010-ultrasonic-levitator.md) — another way to make invisible physical forces create visible wonder
 - [CRT Oscilloscope Visualizer](../light-and-visual/021-crt-oscilloscope-visualizer.md) — visualize music on a screen instead of in a liquid

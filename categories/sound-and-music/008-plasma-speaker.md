@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A plasma speaker uses a high-voltage arc (produced by a flyback transformer driven by a simple oscillator circuit) as the sound-producing element instead of a traditional speaker cone. An audio signal modulates the arc's intensity at audio frequencies, and the rapidly expanding and contracting plasma creates pressure waves — sound. The arc is the speaker.
 
 The sound quality is surprisingly good for treble and midrange, though bass is virtually nonexistent (the arc is too small to move enough air for low frequencies). What makes it jaw-dropping is the visual: a bright purple-white arc of electricity dancing and buzzing in time with the music, clearly producing the sound you hear. No speaker cone, no membrane — just raw electricity vibrating the air.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Flyback transformer from a CRT TV or monitor *(source: dead CRT TV, free from electronics recycler)*
 - [ ] MOSFET transistor — IRFP250 or similar *(source: electronics supplier or salvaged power supply, ~$3)*
@@ -31,7 +30,9 @@ The sound quality is surprisingly good for treble and midrange, though bass is v
 - [ ] Insulated wire and alligator clips *(source: hardware store)*
 - [ ] Pointed electrodes — nails or thick copper wire *(source: junk drawer)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage the flyback transformer.** Open a dead CRT TV (after discharging the CRT — see safety notes). The flyback transformer is the component with the thick red wire going to the suction cup on the CRT. Desolder or cut it free from the board. Keep the red high-voltage output wire and find the primary pins on the bottom.
 
@@ -51,13 +52,14 @@ The sound quality is surprisingly good for treble and midrange, though bass is v
 
 9. **Tune the sound.** Adjust the base oscillation frequency, electrode gap, and audio input volume. Higher base frequencies generally produce clearer audio. Too much audio input overmodulates and sounds distorted. Find the sweet spot where the music is clear and the arc is stable.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **CRT discharge is mandatory before salvage.** CRT tubes hold lethal charge (up to 25,000V) for weeks or months after being unplugged. Before opening any CRT TV, discharge the anode cap to chassis ground using an insulated screwdriver with a wire clipped to the TV's chassis ground. Do this multiple times to be sure.
+> [!CAUTION]
+> **CRT discharge is mandatory before salvage.** CRT tubes hold lethal charge (up to 25,000V) for weeks or months after being unplugged. Before opening any CRT TV, discharge the anode cap to chassis ground using an insulated screwdriver with a wire clipped to the TV's chassis ground. Do this multiple times to be sure.
 - **The flyback output is high voltage (5,000-30,000V).** While the current is relatively low, it can still cause painful shocks and burns. Never touch the electrodes or high-voltage wire while the circuit is powered. Keep one hand in your pocket when making adjustments near the high-voltage side.
 - **Ozone production.** The electrical arc produces ozone (O3), which is toxic in concentration. Run the plasma speaker in a well-ventilated area. If you smell a sharp, metallic/electrical smell, you're breathing ozone — increase ventilation.
 
-## See Also
+## 🔗 See Also
 
 - [Plasma Tornado Lamp](../fire-and-plasma/001-plasma-tornado-lamp.md) — plasma as visual art instead of audio
 - [Rubens' Tube](009-rubens-tube.md) — another way to visualize sound, using fire instead of plasma

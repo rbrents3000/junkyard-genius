@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 An Aeolian harp is a stringed instrument played by the wind. Multiple strings of different thicknesses are stretched between two points on a soundboard, tuned to the same pitch but with different gauges. When wind blows across them, each string vibrates at its natural harmonics — not the fundamental pitch, but the overtones. Different wind speeds excite different harmonics, so the harp produces eerie, shifting chords that change constantly with the breeze.
 
 Named after Aeolus, the Greek god of wind, these instruments date back thousands of years. The sound is genuinely otherworldly — sustained, evolving harmonics that sound like a choir of ghosts. Place one in a window or on a rooftop and it will serenade you whenever the wind blows.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Wooden board or box for the soundboard, ~24-36 inches long *(source: scrap wood, an old drawer, or a wooden wine box, free)*
 - [ ] Two wooden bridges, ~1 inch tall *(source: cut from scrap wood dowel, free)*
@@ -27,7 +26,9 @@ Named after Aeolus, the Greek god of wind, these instruments date back thousands
 - [ ] Wood glue *(source: hardware store, ~$3)*
 - [ ] Sandpaper *(source: hardware store, ~$2)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build or find the soundboard.** A hollow wooden box works best — a cigar box, wine box, or drawer bottom glued into a frame. The soundboard amplifies the string vibrations. If you're starting from a flat board, attach it over a shallow enclosed air space (even propping it up over a baking sheet with spacers works as a crude resonating chamber).
 
@@ -45,12 +46,13 @@ Named after Aeolus, the Greek god of wind, these instruments date back thousands
 
 8. **Weather protection.** If leaving the harp outdoors, apply a coat of polyurethane or outdoor wood sealer to the soundboard. Use nylon strings (fishing line) rather than steel to avoid rust. Bring it indoors during heavy rain.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Secure it against high winds.** A strong gust can blow a lightweight harp off a window sill or fence. Secure it with clamps, screws, or tie-downs. A harp falling from height can damage property or injure someone below.
+> [!WARNING]
+> **Secure it against high winds.** A strong gust can blow a lightweight harp off a window sill or fence. Secure it with clamps, screws, or tie-downs. A harp falling from height can damage property or injure someone below.
 - **String tension stores energy.** When stringing or adjusting, a string can snap and whip. Wear eye protection when adjusting tension, and never put your face directly over a string being tightened.
 
-## See Also
+## 🔗 See Also
 
 - [Thunder Drum](012-thunder-drum.md) — another instrument that produces sounds from natural/ambient forces
 - [Fire Tornado Table](../fire-and-plasma/007-fire-tornado-table.md) — another project that harnesses natural forces for dramatic effect

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A solid-state Tesla coil (SSTC or DRSSTC) with an audio interrupter circuit that accepts guitar input. Instead of producing a continuous arc, the coil's discharge is modulated by the guitar signal — the arc length, brightness, and intensity follow the audio waveform. The rapidly heating and cooling air around the arc creates pressure waves (sound), so the lightning bolt literally becomes a speaker. Every note you play is a visible bolt of electricity that you can hear. Power chords have never been this literal.
 
@@ -20,7 +18,8 @@ The DRSSTC (Dual Resonant Solid State Tesla Coil) is the preferred topology beca
 
 The DRSSTC works by driving a primary coil at the resonant frequency of the secondary coil, using an H-bridge of IGBT transistors. The secondary resonates at tens to hundreds of kilohertz, building up voltage until it breaks down the air at the toroid and produces an arc. The audio interrupter controls when the H-bridge fires — modulating on-time and repetition rate to encode the guitar signal into the discharge pattern. The arc acts as a plasma speaker: the superheated air channel expands and contracts with each pulse, creating sound waves that carry the guitar signal to your ears. The frequency response is limited (roughly 200 Hz to 10 kHz), but for guitar, that covers the entire musical range with character to spare.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] DRSSTC driver board or H-bridge — IGBT modules rated for high pulse current *(salvage from inverter welder, UPS, or induction cooktop — or buy assembled driver board, ~$40)*
 - [ ] Secondary coil form — PVC pipe, 3-4" diameter, 12-18" long *(hardware store, ~$5)*
@@ -35,7 +34,9 @@ The DRSSTC works by driving a primary coil at the resonant frequency of the seco
 - [ ] RF ground — copper pipe or ground rod + heavy gauge wire *(hardware store, ~$10)*
 - [ ] Polyurethane coating — for secondary coil insulation *(hardware store, ~$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Wind the secondary coil.** Mount the PVC pipe in a lathe, slow drill, or winding jig. Wind approximately 1000 turns of 28-32 AWG magnet wire in a single, tight layer. Keep the turns even and close together — gaps reduce the coil's Q factor and produce weaker arcs. Leave 2" bare at each end. Apply 3-4 coats of polyurethane, letting each coat dry fully, to insulate the windings against high-voltage breakdown.
 
@@ -55,9 +56,10 @@ The DRSSTC works by driving a primary coil at the resonant frequency of the seco
 
 9. **Connect the guitar and play.** Plug the guitar into the interrupter's 1/4" input jack. Power up the coil. Play a simple riff — single notes at first — and adjust the interrupter gain and duty cycle until the arc clearly reproduces the audio. You should be able to hear the notes from several feet away, produced entirely by the arc. Adjust the maximum duty cycle to control arc length and volume. Higher duty cycle means longer arcs and louder audio, but also more stress on the IGBTs.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **This is a lethal high-voltage device.** The primary circuit carries hundreds of amps at kilovolt-level voltages. A direct contact with the primary bus or MMC bank can kill instantly. Full high-voltage safety protocols apply at all times. Never reach toward any part of the circuit while powered. Use a variac or current-limited power supply during testing.
+> [!CAUTION]
+> **This is a lethal high-voltage device.** The primary circuit carries hundreds of amps at kilovolt-level voltages. A direct contact with the primary bus or MMC bank can kill instantly. Full high-voltage safety protocols apply at all times. Never reach toward any part of the circuit while powered. Use a variac or current-limited power supply during testing.
 - **The MMC bank stores lethal energy even after power-off.** Always discharge capacitors with a grounded shorting stick before touching anything. Bleeder resistors help but are not a substitute for active discharge verification.
 - **RF ground is mandatory.** Without it, the return current path is unpredictable and potentially through nearby electronics, building wiring, or people.
 - **The arc produces UV radiation and ozone.** Prolonged exposure to the arc's UV output can cause eye irritation and skin burns. Ozone buildup in enclosed spaces causes respiratory irritation. Operate outdoors or in a well-ventilated area.
@@ -65,7 +67,7 @@ The DRSSTC works by driving a primary coil at the resonant frequency of the seco
 - **Build a kill switch** that you can reach without approaching the coil — a clearly marked, easily accessible emergency power cutoff.
 - **This build is for experienced high-voltage builders only.** If you have not built and safely operated high-voltage circuits before, start with lower-voltage projects first.
 
-## See Also
+## 🔗 See Also
 
 - [Plasma Speaker](008-plasma-speaker.md)
 - [Plasma Speaker Lamp](../unholy-combos/283-plasma-speaker-lamp.md)
