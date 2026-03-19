@@ -69,3 +69,8 @@ This is one of those builds where the result is wildly disproportionate to the c
 - [Laser Harp](267-laser-harp.md)
 - [Motorized Laser Spirograph](271-laser-spirograph.md)
 - [Laser Voice Communicator](265-laser-communicator.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

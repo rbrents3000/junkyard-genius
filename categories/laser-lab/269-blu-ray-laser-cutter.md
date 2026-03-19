@@ -68,3 +68,8 @@ The result is a legitimate laser engraver/cutter built entirely from salvaged el
 - [Laser Scanning Microscope](270-laser-microscope.md)
 - [Galvanometer Laser Light Show](266-laser-galvo-show.md)
 - [Toaster Reflow Oven](../kitchen-hacks/260-toaster-reflow-oven.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

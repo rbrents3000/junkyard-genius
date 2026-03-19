@@ -71,3 +71,8 @@ The physics is delightfully simple. Each laser beam shines continuously toward a
 - [Galvanometer Laser Light Show](266-laser-galvo-show.md)
 - [Motorized Laser Spirograph](271-laser-spirograph.md)
 - [Laser Voice Communicator](265-laser-communicator.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
