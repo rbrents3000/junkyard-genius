@@ -60,6 +60,8 @@ A spark plug is a precision ignition device designed to reliably fire a spark ac
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - This is a combustion device that generates significant pressure. Never use sealed barrels, PVC rated below Schedule 40, or metal pipes with visible corrosion or cracks. If the combustion chamber fails, it fragments into shrapnel. Inspect before every use.
 - Never look down the barrel after a misfire. Wait 30 seconds, ventilate the chamber by blowing air through it, then re-inject fuel and try again. Propane is heavier than air and can pool in the chamber.
 - Only use soft projectiles (tennis balls, potatoes, foam). Hard or sharp projectiles turn this into a weapon. Even soft projectiles can injure at close range. Never aim at people, animals, or property.

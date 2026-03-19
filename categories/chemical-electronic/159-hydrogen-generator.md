@@ -61,6 +61,8 @@ Electrolysis splits water into hydrogen and oxygen using electricity. Add lye (s
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 - Hydrogen is EXTREMELY flammable and explosive when mixed with air at concentrations of 4-75%. Never collect hydrogen in a sealed container that could build pressure. Always collect over water or in open balloons. Never accumulate large quantities indoors.
 - Keep ALL ignition sources away from the electrolysis cell and collection apparatus. The gases are produced at the electrode surfaces — a spark near the cell could ignite the gases before they're collected.
 - Sodium hydroxide (lye) is caustic and causes severe burns on skin and eyes. Wear gloves and goggles when handling. If lye solution contacts skin, flush immediately with running water for 15 minutes.

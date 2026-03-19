@@ -61,6 +61,8 @@ It's the prop from every mad scientist movie ever made, and it's genuinely one o
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 - A microwave oven transformer outputs approximately 2000V at up to 500mA — well above the lethal threshold. This is the most dangerous build in this category. Never touch the rods, the secondary wiring, or anything connected to the high-voltage side while the unit is powered or for several seconds after power-off. The MOT has enough stored energy in its magnetic field to deliver a lethal shock even after the switch is flipped off.
 - The arc produces intense UV light, ozone, and nitrogen oxides. Operate outdoors or in a very well-ventilated space. Do not stare directly at the arc — it can cause arc eye (UV burns to the cornea), similar to welding flash. Safety glasses with UV protection are recommended.
 - Keep all flammable materials far from the device. The arc temperature exceeds 5000°F. Paper, fabric, or solvents near the arc will ignite.

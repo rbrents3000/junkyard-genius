@@ -60,6 +60,8 @@ Standard smoke bombs use KNO3 (potassium nitrate) as the oxidizer and sugar as t
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - Potassium permanganate is a strong oxidizer that stains everything it touches a deep brown/purple. Wear gloves. It also reacts with many organic materials, not just glycerin. Keep it away from paper, wood shavings, and other combustibles. Store it in its original container, sealed, away from heat.
 - The permanganate/glycerin reaction produces intense heat and flame. Once glycerin is applied, the reaction cannot be stopped. Do not attempt to smother or douse it with water until the reaction completes — water can splatter hot permanganate. Stand clear and let it burn out.
 - Smoke bombs produce thick, opaque smoke that can obscure vision and irritate lungs. Use outdoors only, in open areas with wind to disperse the smoke. Never use in enclosed spaces, near roadways, or near anyone with respiratory conditions.

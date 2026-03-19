@@ -64,6 +64,8 @@ This is the same principle behind electromagnetic forming used in aerospace manu
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 - This is a high-energy capacitor bank at lethal voltage. Everything in the safety notes for the Capacitor Discharge Welder applies here, multiplied. The energy levels here are higher. Treat the charged bank as a lethal hazard at all times. Verify discharge before touching anything. Bleed resistors must be installed and functional.
 - The discharge produces an extremely loud bang at high energy levels — comparable to a gunshot. Hearing protection is required. The electromagnetic pulse can also damage nearby electronics — keep phones, computers, and credit cards well away from the coil.
 - Aluminum fragments can be ejected if the can tears instead of crushing cleanly. Always operate behind a polycarbonate shield. Never put your hands inside or near the coil when the bank is charged.

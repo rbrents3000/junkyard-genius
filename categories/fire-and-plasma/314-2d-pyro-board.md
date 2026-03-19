@@ -77,6 +77,8 @@ The engineering is a scaled-up version of the Rubens' Tube, with one critical di
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 > [!CAUTION]
 > **Outdoors only.** Propane accumulation in an enclosed space is explosive. This project uses significantly more propane than a standard Rubens' Tube. Never operate indoors or in a garage with the door closed.
 - **Keep the propane tank at a safe distance.** Use a hose at least 10 feet long between the tank and the pyro board. A flashback arrestor on the hose is mandatory, not optional.

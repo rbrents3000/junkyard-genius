@@ -64,6 +64,8 @@ Anaerobic bacteria eat organic waste and produce methane — the same natural ga
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - Methane is flammable and explosive when mixed with air at 5-15% concentration. Never use the biogas system indoors without ventilation. Test all connections with soapy water — bubbles mean leaks. Fix every leak before use.
 - Hydrogen sulfide (rotten egg smell) is produced alongside methane. It's toxic in high concentrations. Always operate the digester outdoors and stand upwind when opening the drum.
 - Never use a flame to check for gas leaks. Use soapy water or a commercial gas leak detector.

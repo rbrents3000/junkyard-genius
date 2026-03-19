@@ -63,6 +63,8 @@ A car starter motor is a DC motor designed to crank a cold engine against compre
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - Starter motors draw 150-300 amps. The wiring, solenoid, and battery connections must be rated for this current. Undersized wires will melt and cause electrical fires. Use battery cable (4 AWG or thicker) for all power connections. Fuse the circuit with an appropriately rated fuse or fusible link.
 - This vehicle has no suspension, minimal brakes, and violent acceleration. Wear a helmet. Start slow. Test brakes before testing speed. Never ride near traffic, pedestrians, or on hills until you trust the braking system completely.
 - The starter motor is designed for 10-second duty cycles, not continuous use. Running it for extended periods will cause the motor to overheat, potentially melting insulation and shorting the windings. Monitor motor temperature by touch (carefully, with the power off) and let it cool between runs.

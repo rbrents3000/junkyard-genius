@@ -73,6 +73,8 @@ This version uses a steel bed frame for the main structure, concrete-filled buck
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 > [!WARNING]
 > **Projectile trajectory is unpredictable during tuning.** Until the release angle is dialed in, projectiles can go sideways, straight up, or backward. Clear a wide area (100+ feet in all directions) during test shots. Never stand in front of or beside the machine during firing.
 - **Counterweight drop zone.** The falling counterweight has enormous momentum. Keep hands, feet, and spectators away from the drop path. A finger caught under 100 lbs of concrete will not be a finger anymore.

@@ -73,6 +73,8 @@ The applications are surprisingly broad. You can do rapid esterification reactio
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - Microwave radiation at 2.45 GHz cooks tissue. Ensure all cavity ports are properly shielded and check for leakage before every use. Never operate the magnetron with the cavity open or damaged.
 - The magnetron requires lethal high voltage (2100V+) from the MOT/capacitor circuit. Discharge the capacitor before any maintenance. Follow all high-voltage safety protocols.
 - Never microwave sealed containers — pressure buildup causes explosions. Always use open or vented glassware with a reflux condenser.

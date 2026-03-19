@@ -84,6 +84,8 @@ This is not a build you rush. The propane system demands respect, the electrical
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 > [!CAUTION]
 > **This build combines open propane flames with electrical systems. Take it seriously.** A propane leak near an electrical spark source can cause an explosion. Every propane joint must be leak-tested before every session. The master shutoff valve must be accessible from your playing position. Never leave the propane on with the pilot flame unlit — unburned gas accumulates fast.
 - **Flashback arrestors are mandatory, not optional.** A flame traveling backward down a propane line into the manifold or tank is catastrophic. Install one between the tank and the manifold AND individual arrestors at each nozzle. Both locations are required — the tank-side arrestor protects against catastrophic tank involvement, and per-nozzle arrestors prevent cross-ignition between pipes through the manifold.

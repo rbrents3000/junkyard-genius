@@ -59,6 +59,8 @@ Steel wool is made of ultra-thin iron strands with massive surface area. Touch a
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - Burning steel wool sparks land at 1000°F+ and will ignite dry leaves, grass, clothing, and hair. Wear a hat, long sleeves made of non-synthetic material (cotton, not polyester), closed shoes, and safety glasses. Synthetic fabrics melt when hit by sparks.
 - NEVER do this in dry conditions, near forests, or anywhere a wildfire could start. Many steel wool photography fires have made the news. Bring a fire extinguisher and a bucket of water. Check for burn bans in your area.
 - The spinning whisk is heavy and on fire. Practice the spinning motion without steel wool first. If the cable breaks or the whisk flies off, it becomes a flaming projectile. Inspect the cable attachment before every spin.

@@ -70,6 +70,8 @@ Once the mixture is smooth and liquid, you pour it into molds — cardboard tube
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - The cooking step is the most dangerous part. KNO3/sugar can ignite if overheated, and once it ignites, it cannot be extinguished with water (the KNO3 provides its own oxygen). Cook on the LOWEST heat setting, stir constantly, and keep a metal lid nearby to smother the pot if ignition occurs. Never walk away from the pot.
 - Perform all cooking outdoors or in a very well-ventilated area on an electric stove. Do NOT use a gas stove — the open flame is an ignition risk.
 - Smoke bombs produce very dense smoke that is an irritant in high concentrations. Do not use in enclosed spaces. Stand upwind when lighting.

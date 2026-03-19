@@ -77,6 +77,8 @@ The result is a legitimate laser engraver/cutter built entirely from salvaged el
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 > [!WARNING]
 > **405nm laser light is genuinely dangerous to eyes.** Wear laser safety goggles rated for 405nm (OD4 or higher) whenever the laser is powered, even if it is not actively cutting. The beam and its reflections from any shiny surface can cause permanent retinal damage faster than the blink reflex. This is the single most important safety requirement for this build.
 - The laser burns materials by design — it will also burn skin, clothing, paper, and anything else in the beam path. Never reach into the cut area while the laser is powered. Never leave the cutter running unattended. Keep a fire extinguisher or bucket of water within arm's reach.

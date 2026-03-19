@@ -76,6 +76,8 @@ The DRSSTC works by driving a primary coil at the resonant frequency of the seco
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 > [!CAUTION]
 > **This is a lethal high-voltage device.** The primary circuit carries hundreds of amps at kilovolt-level voltages. A direct contact with the primary bus or MMC bank can kill instantly. Full high-voltage safety protocols apply at all times. Never reach toward any part of the circuit while powered. Use a variac or current-limited power supply during testing.
 - **The MMC bank stores lethal energy even after power-off.** Always discharge capacitors with a grounded shorting stick before touching anything. Bleeder resistors help but are not a substitute for active discharge verification.

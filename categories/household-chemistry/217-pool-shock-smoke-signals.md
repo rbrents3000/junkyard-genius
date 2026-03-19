@@ -61,6 +61,8 @@ This is a serious chemistry reaction with real hazards. The reaction produces ex
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - The fumes from this reaction contain chlorine gas and hydrochloric acid vapor, both of which are toxic to inhale. Stay upwind at all times. If you smell a sharp, acrid, swimming-pool-like odor, you are too close — move further upwind immediately. Prolonged inhalation can cause chemical burns to the lungs.
 - The reaction is exothermic and self-sustaining once started. It cannot be stopped. Do not attempt to extinguish with water — adding water to hot calcium hypochlorite can cause a violent steam explosion and release more chlorine gas. If the fire spreads, use a dry chemical (ABC) extinguisher.
 - Store pool shock and brake fluid separately, in sealed containers, away from heat and each other. Calcium hypochlorite is a strong oxidizer that can spontaneously ignite if it contacts organic materials (oils, solvents, wood dust). Never store it near fuels or solvents.

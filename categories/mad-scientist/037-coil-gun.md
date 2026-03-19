@@ -66,6 +66,8 @@ Compared to a rail gun, a coil gun is cleaner (no rail erosion), quieter (no pla
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 - Even a modest coil gun can launch projectiles fast enough to cause injury. Always use a backstop. Never point it at anyone. Treat it as you would any projectile launcher.
 - Camera flash capacitors at 300V can deliver a painful and potentially dangerous shock. Microwave capacitors at 2000V+ are lethal. Always discharge capacitors before working on the circuit. Bleed resistors must be installed and verified functional.
 - The magnetic field from the coils is strong enough to attract nearby ferromagnetic objects (tools, screws, keys). Keep the work area clear of loose metal when the coils are energized.

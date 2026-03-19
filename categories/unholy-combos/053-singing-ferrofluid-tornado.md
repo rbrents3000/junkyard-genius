@@ -69,6 +69,8 @@ The spinning ferrofluid sits in a shallow glass dish on a custom-wound stator. T
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - Ferrofluid stains permanently. If it splashes out of the dish (and it will during testing), it will ruin any surface it contacts. Test on a disposable surface. Wear clothes you don't care about. The enclosed dome prevents splatter during normal operation.
 - The stator coils draw significant current and produce heat. Monitor coil temperature during extended operation. If any coil becomes too hot to touch, reduce the duty cycle or add cooling. Overheated coils can melt their enamel insulation and short.
 - The audio input circuit must be isolated from the high-current drive circuit. Ground loops between the audio source and the stator driver can inject noise, damage the audio source, or cause erratic behavior. An optocoupler or isolation transformer on the audio input prevents this.

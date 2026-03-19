@@ -61,6 +61,8 @@ Potassium nitrate (KNO3) and sugar, when melted together and hardened, form a so
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - R-candy is a legitimate solid propellant. Once ignited, it cannot be extinguished by conventional means — it supplies its own oxygen. Do not attempt to smother it, stamp it out, or pour water on it to extinguish it (water doesn't work; that's the whole point of this build). Let it burn to completion. Keep all combustible materials well clear.
 - The flame jet is 1,500-2,000°F and can cause severe burns instantly. Never point the nozzle toward people, structures, or anything flammable. Maintain a 15-foot safety radius around the combustion tube. The underwater demo produces boiling water and steam that can scald — stand back.
 - Never scale up the fuel grain beyond small demonstration quantities (50-100g). Larger fuel grains burn longer and hotter, and if the tube fails (cracks, welds blow out), you have a CATO (catastrophic failure) that sprays burning propellant. Use thick-wall steel tubing and inspect for defects before every use.

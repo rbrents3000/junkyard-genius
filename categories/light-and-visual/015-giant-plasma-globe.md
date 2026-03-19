@@ -71,6 +71,8 @@ The principle is identical to a store-bought plasma globe: a central electrode d
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 > [!CAUTION]
 > **MOTs are lethal.** The same warnings from every MOT project apply — 2,000V+ at lethal current. Never touch anything on the high-voltage side while powered. Use a remote kill switch. Work on a rubber mat. One hand rule.
 - **Glass under vacuum can implode.** Use only thick, undamaged glass. Wear safety glasses during initial testing. If you hear any cracking sounds, kill power and evacuate the area — an imploding glass sphere throws shrapnel.

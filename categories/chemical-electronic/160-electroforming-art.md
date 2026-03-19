@@ -62,6 +62,8 @@ Electroplating deposits a thin coating. Electroforming deposits a THICK one — 
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 - Copper sulfate solution is toxic. The addition of sulfuric acid makes it caustic as well. Wear gloves, goggles, and a lab apron. Work in a ventilated area. Keep away from food, children, and pets.
 - Electroforming runs for days unattended. Ensure the setup is stable and can't be knocked over. A spilled acid bath creates a dangerous mess. Place the tub in a secondary containment tray.
 - Dissolving PLA in sodium hydroxide produces heat and fumes. Do this outdoors or under a fume hood with proper PPE.

@@ -62,6 +62,8 @@ Anodizing is the process that gives aluminum its colored, scratch-resistant fini
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 - Sulfuric acid causes severe chemical burns on contact with skin and eyes, and destroys clothing instantly. Wear acid-resistant gloves, a face shield, and old clothes. Have a neutralizing agent (baking soda) and running water nearby at all times. Work outdoors or in a well-ventilated area.
 - ALWAYS add acid to water, never water to acid. Adding water to concentrated sulfuric acid causes an exothermic reaction that can splash boiling acid.
 - The anodizing process produces hydrogen gas at the cathode. Hydrogen is flammable and explosive when concentrated. Ensure excellent ventilation and keep all ignition sources away from the bath.

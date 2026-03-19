@@ -76,6 +76,8 @@ Building one from scratch is the hardest project in this entire collection. You 
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 > [!CAUTION]
 > **CRT implosion.** CRT tubes are under hard vacuum and can implode with violent force, sending glass shrapnel in all directions. Always wear a full face shield and heavy gloves when cutting or breaking CRT glass. Work in a contained area. Never strike or drop a CRT.
 - **High voltage.** The electron gun operates at 1-15kV. The flyback transformer can produce 30kV. These voltages are lethal. Never reach into the chamber or touch any electrical connection while the system is powered. Use a discharge stick on all capacitors before servicing. Work with one hand (keep the other in your pocket) to prevent current paths across your chest.

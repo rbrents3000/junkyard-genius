@@ -70,6 +70,8 @@ The key to good smoke is temperature control. Too cool and the glycerin just poo
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - The heating element operates at mains voltage and reaches 400°C+. Do not touch the element or the inside of the can during operation. Allow 10 minutes to cool after use. Keep the power cord away from the hot surfaces.
 - Glycerin vapor in high concentrations is an irritant. Use this outdoors or in very well-ventilated spaces. Do not use in enclosed spaces where people will be breathing the smoke for extended periods.
 - Overheating glycerin produces acrolein, which is a toxic irritant at high concentrations. If the smoke smells sharp and acrid instead of mild and sweet, your element is too hot — turn down the dimmer.

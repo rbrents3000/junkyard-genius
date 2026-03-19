@@ -77,6 +77,8 @@ The applications are genuinely surprising. Fuse glass — layer pieces of dichro
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - The kiln interior reaches 1500°F+. Treat it like the forge it is. Use proper tongs or kiln gloves rated for high temperature — regular oven mitts are not rated for this and will scorch through. Keep a fire brick or ceramic tile as a dedicated landing surface. Never set the hot kiln on a wooden table, plastic cutting board, or anything that burns or melts.
 - Microwave radiation is shielded by the oven door, but verify your microwave door seal is intact before use. A simple test: place your cell phone inside the closed microwave (DON'T turn it on) and call it. If it rings, the shielding is compromised and the microwave should not be used. If the call fails, the Faraday cage is intact.
 - Firing glass and metal clay can produce fumes — burning binder from PMC smells like an organic chemistry lab, and some glass coatings release trace metals when heated. Run the microwave in a ventilated area. An open window and a box fan pointing outward is sufficient for occasional hobby use.

@@ -59,6 +59,8 @@ The bottle is reusable. Just swirl in more alcohol and fire again. One bottle of
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - Perform this outdoors only, in a clear area with nothing breakable or flammable downrange. The projectile can travel 50+ feet with real force. Never aim at people, animals, windows, or anything you don't want to hit.
 - Use polycarbonate jugs only — not glass. Glass jugs can shatter from thermal shock or pressure, creating deadly shrapnel. Polycarbonate deforms but doesn't fragment.
 - The flame inside the jug can persist for a second or two. Do not immediately pour more alcohol into a jug that just fired — let it cool for 30 seconds and verify there's no residual flame. Pouring liquid alcohol into a hot jug ignites the stream.

@@ -80,6 +80,8 @@ The result is a semi-automated spot welder that can place welds at programmed co
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - The microwave oven's high-voltage capacitor can hold a lethal charge (2100V at several microfarads) even when the microwave is unplugged. Discharge it before touching any internal components. Short the capacitor terminals together using an insulated screwdriver. Some microwave capacitors have an internal bleeder resistor, but do not rely on it — always manually discharge.
 - The MOT primary operates at mains voltage (120/240V AC). All mains wiring must use properly rated wire, connectors, and switches. The mains side must be completely enclosed with no exposed terminals. A ground fault on the primary can energize the entire metal frame of the welder. Use a GFCI outlet.
 - The welding secondary produces extremely high current at low voltage. While 2-4V won't shock you, 800+ amps flowing through a ring, watch, or bracelet in contact with both electrodes simultaneously will instantly heat the jewelry red-hot and cause severe burns. Remove all metal jewelry before operating. The copper electrodes themselves get hot during repeated welding — wear leather gloves when handling them after a welding session.

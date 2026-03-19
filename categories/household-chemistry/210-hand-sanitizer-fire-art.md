@@ -58,6 +58,8 @@ This is the build that goes viral. Fire writing in a dark room, filmed from abov
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - The flame is real fire. It will ignite paper, fabric, hair, and anything flammable it contacts. Clear the area thoroughly. Have a damp towel within reach to smother any accidental spread. Keep the hand sanitizer container sealed and away from the active flames — the entire container can ignite if the flame reaches it.
 - Blue alcohol flames are nearly invisible in bright light. People have been burned by "invisible fire" they couldn't see. Always work in dim conditions so the flame is visible, and never walk through an area where fire was burning until you're certain it's fully extinguished.
 - Alcohol vapor is heavier than air and pools in low spots. Don't do this in a basement, pit, or poorly ventilated space. The vapors can travel along the ground and ignite from a distant source.

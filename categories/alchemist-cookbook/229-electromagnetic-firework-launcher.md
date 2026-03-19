@@ -64,6 +64,8 @@ A traditional firework mortar uses a black powder lift charge to hurl a shell sk
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - The capacitor bank stores lethal energy. At 400V and 50,000µF, the stored energy is 4,000 joules — enough to kill on contact. Always discharge the capacitor bank through a high-wattage resistor (not a screwdriver — that welds tips and sprays sparks) before touching any part of the circuit. Install a safety discharge switch and a bleeder resistor that automatically drains the bank when the system is powered down. Treat the charged capacitor bank with the same respect you'd give a loaded firearm.
 - Firework shells are explosive. Follow all applicable laws. The electromagnetic launch does not change the legal classification of the firework — it's still a firework, and the same distance, age, and permit requirements apply. This build is illegal in many jurisdictions regardless of the launch method.
 - The coil gun generates intense electromagnetic fields during discharge. Keep pacemakers, credit cards, hard drives, and sensitive electronics far from the coil. The pulse can also induce currents in nearby metal objects, causing unexpected heating or movement.

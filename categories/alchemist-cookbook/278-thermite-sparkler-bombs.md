@@ -65,6 +65,8 @@ The ingredients are shockingly accessible. Iron oxide is literally rust — you 
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - Thermite burns at 2,500°C and produces molten iron. There is no way to extinguish it once started. Do NOT use water — steam explosions will scatter molten metal. The only safe approach is to let it burn out completely.
 - Perform this outdoors on non-flammable surfaces (concrete, bare dirt, sand) with nothing flammable within 15 feet in any direction. Molten iron spatter can travel surprisingly far.
 - Wear long sleeves, long pants, closed shoes, and safety glasses at minimum. Stay at least 30 feet away during the reaction. Do not look directly at the reaction without welding-shade eye protection — it’s bright enough to cause eye damage.

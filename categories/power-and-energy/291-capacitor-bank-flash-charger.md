@@ -79,6 +79,8 @@ This is a building block more than a finished product. The capacitor bank itself
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 - A charged capacitor bank can kill you. At 450V and 3300uF, this bank stores 334 joules — roughly the energy of a .22 caliber bullet. The discharge happens in milliseconds, meaning peak current can reach thousands of amps. Treat a charged capacitor bank exactly like a loaded weapon: never point the output at anything you don't intend to destroy, and never work on the internals while charged.
 - Always discharge the bank before opening the enclosure or touching any wiring. Use the dump resistor: clip it across the output terminals with insulated test leads and wait for the voltmeter to read zero. Then wait another 30 seconds. Then verify zero with a multimeter. Then you can touch it.
 - Electrolytic capacitors can fail catastrophically if reverse-charged, overcharged, or physically damaged. A failing capacitor vents hot electrolyte and can shoot its end cap across the room. Wear safety glasses when working with or near a charged bank. The charging fuse is your protection against overcharge — size it correctly.

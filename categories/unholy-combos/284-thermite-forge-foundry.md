@@ -74,6 +74,8 @@ A car brake rotor serves as the crucible. Cast iron rotors handle the thermal sh
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - Thermite cannot be extinguished once ignited. Water, sand, and fire extinguishers do not stop it — water makes it dramatically worse by causing a steam explosion that sprays molten iron in all directions. If something goes wrong, evacuate and let it burn out. This is why you do it outdoors on bare ground with nothing flammable within 20 feet.
 - Molten iron at 2500°C will burn through any material it contacts: shoes, skin, concrete, asphalt. Full leather protection is mandatory — synthetic fabrics (polyester, nylon) melt and fuse to skin on contact with radiant heat. Cotton or leather only. Steel-toed leather boots, not sneakers. A single splash of molten iron will cause a severe burn that requires immediate medical attention.
 - The reaction produces intense UV and infrared radiation. Do not look directly at the burning thermite without shade 5+ welding goggles or a welding helmet. A face shield alone is not sufficient to protect your eyes from the radiant intensity. The flash can cause arc eye (welding flash burn) at close range.

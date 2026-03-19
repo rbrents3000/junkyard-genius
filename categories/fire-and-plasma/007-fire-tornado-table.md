@@ -64,6 +64,8 @@ The physics is the same as a real tornado — angular momentum concentrates the 
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 > [!WARNING]
 > **Keep the fire tornado away from overhead flammables.** The flame column can easily reach 3 feet tall and sometimes throws sparks. Do this outdoors or under a high, non-flammable ceiling. Not under a canopy, tree, or garage ceiling.
 - **The spinning mesh can throw embers outward.** Clear the area around the device of paper, dry leaves, and other tinder. Keep a fire extinguisher or water bucket within reach.

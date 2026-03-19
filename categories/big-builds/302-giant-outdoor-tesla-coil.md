@@ -193,6 +193,8 @@ demonstration device a human being can build in a garage.
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 > [!CAUTION]
 > **This build can kill you.** Not hypothetically — the DC bus voltage (340-680V), the primary circuit peak currents (hundreds of amps), and the secondary output (hundreds of thousands of volts) are each independently capable of stopping a human heart. There is no safe way to touch any powered component. Treat the entire system as lethal any time the power supply is plugged into the wall, even if the variac is at zero.
 - **Capacitors store lethal charge after power-off.** The bus capacitors and the MMC bank retain dangerous voltage for minutes after unplugging. Bleeder resistors drain them slowly, but slowly isn't the same as safely. After every power-down, wait 60 seconds, then verify zero voltage on the bus caps and MMC with a multimeter before touching anything. Use a shorting stick (insulated handle, grounded probe tip) on each capacitor group as a final step. Make this a ritual. Skip it once and statistics catch up with you.

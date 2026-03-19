@@ -64,6 +64,8 @@ The economics are compelling: used drone batteries sell for $5-$15 on eBay as "f
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - Lithium polymer cells can catch fire or explode if punctured, short-circuited, or overcharged. Work on a non-flammable surface. Keep a bucket of sand or a Class D fire extinguisher nearby. Never use water on a lithium battery fire.
 - When opening battery packs, the cells may be at different voltages. Shorting two cells together with a metal tool can cause immediate, violent sparking and fire. Use plastic tools and work on one cell at a time. Tape exposed terminals immediately after disconnecting.
 - Always charge through the BMS in a fireproof LiPo bag, especially for the first few cycles. Never leave the pack charging unattended until you've verified the BMS is functioning correctly and all cells are balanced.

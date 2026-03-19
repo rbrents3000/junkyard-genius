@@ -61,6 +61,8 @@ Commercial drones are marvels of engineering — but the core technology isn't t
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - Spinning propellers can cut skin and are dangerous to eyes. Always use propeller guards during development. Never reach toward a drone with spinning props. Keep fingers, hair, and loose clothing clear.
 - LiPo batteries are dangerous if mistreated. Never discharge below 3.0V (damages the cells permanently). Never charge unattended. Never use a puffy or damaged battery. Store in a fireproof LiPo bag.
 - First flights WILL crash. Start over soft surfaces (grass) and at low altitude. Tether with a light string until the PID is tuned. A poorly tuned PID loop will flip the drone violently — this happens in milliseconds, faster than you can react.

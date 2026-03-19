@@ -67,6 +67,8 @@ This build requires a functioning vacuum chamber (build #039), cloud chamber exp
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - The high-voltage plasma discharge is dangerous. At 1-2kV, the electrodes can deliver a serious shock. All HV connections must be inside the sealed chamber or behind insulated feedthroughs. Interlock the HV supply so it cuts automatically when the chamber is opened. Never reach into the chamber while HV is applied.
 - The vacuum chamber is under mechanical stress from atmospheric pressure. All safety notes from build #039 apply. The addition of HV feedthroughs creates potential weak points — test vacuum integrity before applying high voltage.
 - Alcohol vapor inside the chamber is flammable. The plasma discharge is a potential ignition source. At the low pressures involved, the risk is reduced (flames don't propagate well below ~100 Torr), but exercise caution when venting the chamber — the vapor concentration increases as pressure rises. Vent slowly, outdoors if possible.

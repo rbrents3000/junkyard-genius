@@ -68,6 +68,8 @@ These have been known since the 1600s (Prince Rupert of the Rhine brought them t
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 > [!WARNING]
 > **Glass shrapnel is the primary hazard.** When a Prince Rupert's Drop explodes, it sends fine glass powder and small shards in all directions. Always wear safety glasses. Do the tail-breaking step inside a clear container or wrapped in a towel to contain fragments.
 - **Molten glass burns.** Glass at working temperature (800-1000 degrees C) will cause severe burns instantly. Never reach over the water bath when dropping glass. Use long tweezers and keep your face and arms out of the splash zone. Molten glass that hits water can splatter.

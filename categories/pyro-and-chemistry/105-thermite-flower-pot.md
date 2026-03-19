@@ -63,6 +63,8 @@ Thermite is a mixture of iron oxide (rust) and aluminum powder. When ignited, th
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - Thermite produces molten iron at 4000°F+ and intense UV radiation. NEVER look directly at the reaction without welding-grade eye protection (shade 5 minimum). It is brighter than arc welding.
 - Molten iron spatters can travel several feet. Wear long sleeves, closed shoes, and fire-resistant gloves. Keep skin fully covered. Do not stand over the pot when lighting.
 - Thermite cannot be extinguished with water. Water hitting molten thermite causes a steam explosion that sprays molten metal in all directions. If something goes wrong, step back and let it burn out. It's self-limiting — once the mixture is consumed, the reaction stops.

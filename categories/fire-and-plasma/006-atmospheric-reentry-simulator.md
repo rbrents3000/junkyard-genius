@@ -70,6 +70,8 @@ You can test different metals and alloys side by side: watch how steel glows and
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 > [!CAUTION]
 > **The secondary output is low voltage but extremely high current.** While 2-4 volts won't shock you through dry skin, the current is enough to instantly weld metal. Never touch the electrodes or sample while powered — a ring on your finger across the terminals could result in a severe burn. Remove all jewelry before operating.
 - **Metals at white heat radiate intense infrared and some UV.** Don't stare at white-hot samples without eye protection. Welding-shade glasses or at minimum dark sunglasses. A face shield protects from spatter.

@@ -68,6 +68,8 @@ The patterns emerge because wood grain isn't uniformly conductive. The current b
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 > [!CAUTION]
 > **This build has killed people.** MOTs deliver lethal voltage and current. Never touch the wood, electrodes, or any wire while the unit is energized. Use a remote switch. Work alone only if you must — if you work with a partner, make sure they know where the kill switch is.
 - **Fire risk is real.** The wood is literally burning. Keep a fire extinguisher or bucket of water within arm's reach. Never leave a burn unattended. Do this outdoors or in a well-ventilated workshop, never indoors on carpet or near flammable materials.

@@ -66,6 +66,8 @@ This is technically a solid-state Tesla coil (SSTC) in its simplest form. True m
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 - The flyback output produces 10-30kV at low current. While the current is typically not lethal, a shock from a flyback is extremely painful and can cause involuntary muscle contraction that throws you into other hazards. Never touch the high-voltage output or come within arcing distance while the unit is powered. Stand clear.
 - The arc produces UV radiation, ozone, and nitrogen oxides. Prolonged exposure causes eye irritation and respiratory discomfort. Operate in a well-ventilated area. Don't stare directly at the arc for extended periods.
 - The MOSFET and flyback primary handle high current and generate significant heat. Mount the MOSFET on a proper heatsink. If the MOSFET fails short, the flyback primary becomes a dead short across the power supply — include a fuse in the power supply line.

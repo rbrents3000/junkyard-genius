@@ -63,6 +63,8 @@ Potassium nitrate (stump remover from the hardware store) mixed with sugar creat
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - Cook the KNO3/sugar mixture OUTDOORS only. If the mixture ignites during cooking (rare but possible if heated too fast), do not pour water on it. Let it burn out in the saucepan. Have a fire extinguisher nearby.
 - Potassium nitrate is an oxidizer. Store it away from flammable materials. Do not store assembled smoke bombs near heat sources.
 - Nichrome wire gets extremely hot when current flows through it. Never touch it while the system is armed. Always have a master kill switch (physical toggle) between the power supply and relay board.

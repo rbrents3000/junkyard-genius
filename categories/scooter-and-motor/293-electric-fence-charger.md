@@ -164,6 +164,8 @@ It should feel like a sharp snap — startling and unpleasant, not agonizing.
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - The secondary output of an ignition coil can produce 20,000+ volts.
 While the current is very low and the pulse is extremely brief (making it non-lethal under normal circumstances), it is still a painful shock.
 Never touch the secondary output terminal or fence wire while the charger is on.

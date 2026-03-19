@@ -59,6 +59,8 @@ Absorption refrigeration uses heat to drive a cooling cycle — no compressor, n
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - Ammonia is toxic and corrosive. Work outdoors or in extremely well-ventilated areas. Wear chemical splash goggles and nitrile gloves. If you smell ammonia during operation, you have a leak — shut down and ventilate immediately.
 - The system operates under modest pressure. Use properly rated tubing and silver solder (not soft solder). Pressure-test with air before charging with ammonia.
 - Keep the heat source away from the ammonia side of the system. Ammonia is flammable in high concentrations.

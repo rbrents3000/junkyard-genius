@@ -77,6 +77,8 @@ This build wraps that plasma speaker in a decorative glass lamp housing — a ma
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - CRT televisions contain a lethal charge on the anode cap even when unplugged. Before touching anything inside a CRT, short the anode cap to the chassis ground using an insulated screwdriver with a wire clipped from the screwdriver shaft to the TV's metal frame. Do this multiple times. The capacitance in the CRT glass can hold charge for days.
 - The flyback transformer produces 10-30 kV at its output. This is enough to arc across significant gaps and through insulation you thought was sufficient. Never touch the high-voltage output or electrodes while the circuit is powered. Use a physical power switch, not just unplugging — the flyback's internal capacitance can hold charge briefly.
 - The plasma arc produces ozone (O3) and nitrogen oxides (NOx). Both are respiratory irritants. Operate in a well-ventilated room. The glass enclosure concentrates these gases — ensure adequate venting. If you smell a sharp, chlorine-like odor, increase ventilation immediately. Continuous operation in a small closed room is a bad idea.

@@ -63,6 +63,8 @@ Calcium carbide is a gray, rocky mineral. Add water and it produces acetylene ga
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - Acetylene is explosive in air at concentrations from 2.5% to 81% — one of the widest explosive ranges of any fuel gas. Never use this device indoors or in any enclosed space. A gas leak + any ignition source = detonation. The system must be outdoors with natural ventilation.
 - This device produces repeated detonations comparable in volume to gunshots. Use ear protection. Alert neighbors. Be aware of local noise ordinances. The repeating nature means it doesn't sound accidental — expect attention.
 - Calcium carbide reacts with any moisture, including humidity. Store it sealed and dry. The reaction produces calcium hydroxide (slaked lime), which is caustic — avoid skin and eye contact. Wear gloves when handling spent slurry. The acetylene gas itself is an asphyxiant in high concentrations and has an anesthetic effect — don't breathe it.

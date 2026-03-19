@@ -76,6 +76,8 @@ Now multiply that by six. Mount 3-6 modified CRTs in a grid on a wall, each rece
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 > [!CAUTION]
 > **CRT flyback transformers operate at 15,000-25,000 volts.** This is a lethal voltage at sufficient current to stop a human heart. Even unplugged, CRTs store charge in the anode capacitor for days or weeks. Always discharge the tube before touching anything inside the case. Never work alone. Never reach inside a powered CRT. Keep one hand in your pocket when probing near high-voltage sections. If you haven't worked with high voltage before, practice the discharge procedure on a small TV before scaling up.
 - **The CRT is a vacuum tube.** If the glass envelope is cracked or broken, it will implode violently, scattering glass shards. Never strike, drop, or apply pressure to the tube face or neck. Wear safety glasses whenever the case is off. If a tube has visible damage, do not power it on — dispose of it at an e-waste facility.

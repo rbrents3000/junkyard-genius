@@ -61,6 +61,8 @@ A car alternator is a three-phase AC generator that outputs 13.8V at up to 100+ 
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 - This is a real welder producing real UV radiation and molten metal. Wear a proper welding helmet (auto-darkening shade 10+), leather gloves, and long sleeves. Welding flash burns your corneas and you won't feel it until hours later.
 - The alternator output is low voltage (14V) but extremely high current. A short circuit across the output cables can melt copper instantly and start a fire. Always disconnect the battery when not welding. Never let the output cables touch each other without a welding rod in the circuit.
 - Hot metal, sparks, and slag are part of the process. Work on a non-flammable surface, keep a fire extinguisher within reach, and never weld near fuel, solvents, or dry grass.

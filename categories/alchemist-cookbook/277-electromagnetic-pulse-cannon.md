@@ -73,6 +73,8 @@ The effective range is short — we’re talking a few feet at most with junkyar
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - This device stores lethal electrical energy. The capacitor bank can kill you. Follow all high-voltage safety protocols: discharge before handling, one-hand rule, never work alone, bleeder resistors on every capacitor.
 - The EMP will destroy any unshielded electronics in range. Keep your phone, laptop, and anything you value far away from the business end. Seriously — put them in another room.
 - Using an EMP device against electronics you don’t own is illegal in most jurisdictions. This is for educational demonstration on your own equipment only.

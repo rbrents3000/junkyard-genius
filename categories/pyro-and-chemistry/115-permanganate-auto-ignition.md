@@ -57,6 +57,8 @@ Potassium permanganate is a powerful oxidizer. Glycerin is a thick, syrupy fuel.
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+
 - Potassium permanganate is a powerful oxidizer and stains everything it contacts a deep purple/brown. Wear gloves and old clothes. The stains on skin fade in a few days but are nearly impossible to remove from fabric.
 - The auto-ignition delay is variable and unpredictable. Never lean over the mixture to check on it. Always step back after adding glycerin and observe from a safe distance. On hot days, ignition can occur in under 20 seconds.
 - Potassium permanganate is harmful if ingested and irritating to eyes and respiratory tract. Handle in well-ventilated areas. Store away from all organic materials (wood, paper, cloth) as it is an oxidizer that can spontaneously ignite flammable materials in concentrated form.

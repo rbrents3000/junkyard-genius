@@ -71,6 +71,8 @@ Change the frequency and the flame pattern changes instantly. Low frequencies pr
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+
 > [!WARNING]
 > **Propane is explosive.** A gas leak near the tube can accumulate and ignite explosively. Do this outdoors or in a very well-ventilated area. If the flames go out but gas is still flowing, shut off the gas immediately and let the area ventilate before relighting. Never relight if you smell accumulated gas.
 - **The tube gets hot.** After running for more than a few minutes, the metal tube will be too hot to touch. Support it on non-flammable stands and don't grab it bare-handed to reposition. Let it cool fully before storing.

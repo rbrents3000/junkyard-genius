@@ -63,6 +63,8 @@ Real neon signs are glass tubes filled with gas that glows when high voltage exc
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 - Neon sign transformers output 15,000 VOLTS. This is lethal. Never touch the electrodes or GTO wire while the transformer is energized. Always disconnect power before working on connections. Use insulated tools only. This is NOT a beginner project — respect the voltage.
 - Glassblowing involves extreme heat and hot glass that looks identical to cold glass. Always assume glass is hot after working it. Wear safety glasses rated for infrared (didymium lenses ideal for glasswork). Burns are the most common glassblowing injury.
 - The vacuum pump and gas filling system must be properly sealed. Gas leaks result in tubes that don't glow or glow dimly. Vacuum system leaks introduce air that contaminates the fill.

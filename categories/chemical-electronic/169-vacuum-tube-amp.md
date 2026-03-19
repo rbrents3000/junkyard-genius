@@ -62,6 +62,8 @@ Before transistors, all electronics ran on vacuum tubes — glass bottles with g
 
 ## ⚠️ Safety Notes
 
+> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+
 - Tube amplifiers contain LETHAL voltages (250-400V DC on the plates, 300V+ stored in filter capacitors). The capacitors hold charge even after power off. ALWAYS discharge filter capacitors through a bleeder resistor before working inside the chassis. Treat every wire as potentially live.
 - Never operate a tube amplifier without a speaker connected. The output transformer can be damaged by the reflected impedance of an open circuit, leading to insulation breakdown and potential transformer failure.
 - Tubes get extremely hot during operation (200-300°C envelope temperature). Don't touch them while running or for several minutes after power off. Keep flammable materials away from the chassis. Ensure ventilation holes in the chassis allow heat to escape.
