@@ -26,7 +26,7 @@ This repo contains builds involving high voltage, molten metal, pressurized gas,
 
 1. **Include complete safety notes** in every build that involves risk.
 2. **Never downplay danger** to make a build seem more accessible. If it's dangerous, say so clearly.
-3. **Report safety concerns** by opening an issue or contacting the maintainer directly (see [SECURITY.md](.github/SECURITY.md)).
+3. **Report safety concerns** by opening an issue or contacting the maintainer directly (see [SECURITY.md](SECURITY.md)).
 
 ### Enforcement
 
