@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Fractals are infinitely detailed mathematical structures — the Mandelbrot set, Julia sets, Sierpinski triangles, Koch snowflakes. Rendered at extreme resolution, they contain an infinite amount of detail: spirals within spirals within spirals. Now burn them into physical material with a laser engraver. The laser's power modulation maps to the grayscale of the fractal image — darker areas get more burn, lighter areas get less. The result is mathematical art permanently etched into wood, leather, or anodized aluminum. Each piece is literally a visual representation of an equation, burned into matter with coherent light. Math, physics, and art fused into a single object.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Computer with Python and numpy *(already own)*
 - [ ] Laser engraver — diode laser (5W+) or CO2 laser *(electronics supplier, ~$200 for entry-level diode)*
@@ -27,7 +26,9 @@ Fractals are infinitely detailed mathematical structures — the Mandelbrot set,
 - [ ] Safety goggles — rated for your laser wavelength *(laser supplier)*
 - [ ] Ventilation — fume extractor or outdoor setup *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Write the fractal renderer.** Use Python with numpy to calculate Mandelbrot or Julia sets. For each pixel, iterate the equation z = z² + c and count how many iterations before the value escapes. Map iteration count to grayscale. Use numba's @jit decorator for 100x speedup.
 2. **Explore interesting regions.** The beauty of fractals is in the edge regions. Zoom into the boundary of the Mandelbrot set to find spirals, seahorses, elephant valleys, and mini-brots. Adjust the coordinate window and maximum iteration count to find stunning compositions.
@@ -39,13 +40,13 @@ Fractals are infinitely detailed mathematical structures — the Mandelbrot set,
 8. **Finish the piece.** Sand lightly if there's smoke residue on wood. Apply a clear coat or finishing oil to enhance contrast and protect the engraving. For coasters, apply a food-safe sealant. Frame pieces for wall display.
 9. **Create a series.** Generate a sequence of images zooming progressively into one region of the fractal. Engrave each zoom level on a separate piece for a gallery installation showing infinite zoom in physical form.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Laser engravers produce invisible beams that cause INSTANT permanent eye damage. Always wear safety goggles rated for your laser's wavelength (typically OD5+ at 445nm for diode lasers, OD5+ at 10600nm for CO2). Never look at the laser dot without goggles.
 - Laser engraving produces toxic fumes, especially on wood (smoke), leather (burned protein), and plastics (toxic gases). Always operate with active ventilation — a fume extractor or outdoors. Never engrave PVC or vinyl, which release chlorine gas.
 - Keep a fire extinguisher nearby. Wood and leather can ignite if the laser dwells too long in one spot (due to a software glitch or mechanical jam). Never leave a running laser engraver unattended.
 
-## See Also
+## 🔗 See Also
 
 - [Generative Art Plotter](142-generative-art-plotter.md)
 - [Glow Resin River Table](../pyro-and-chemistry/117-glow-resin-river-table.md)

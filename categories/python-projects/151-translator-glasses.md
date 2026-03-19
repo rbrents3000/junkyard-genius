@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Look at a sign in a foreign language. Within seconds, the translated text appears on a tiny display mounted near the corner of your glasses. A Pi Zero with a small camera module captures what you're looking at. Tesseract OCR extracts the text. A translation library converts it to your language. The result is displayed on a micro OLED screen positioned just below your line of sight. The entire system fits on a pair of glasses (bulky glasses, but wearable). This is essentially what Google Lens does on your phone, but without needing to pull out your phone — the translation is always in your peripheral vision. Perfect for travel, language learning, or feeling like a cyberpunk character.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Raspberry Pi Zero 2 W — small, light, wireless *(electronics supplier)*
 - [ ] Pi Camera Module — v2 or v3 mini *(electronics supplier)*
@@ -29,7 +28,9 @@ Look at a sign in a foreign language. Within seconds, the translated text appear
 - [ ] Thin wire and hot glue — for mounting components to frames *(workshop)*
 - [ ] Button — to trigger capture/translation *(electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up OCR on the Pi Zero.** Install Tesseract: `sudo apt install tesseract-ocr`. Install language packs for the source languages you want to translate. Install pytesseract Python wrapper. Test by feeding a photo of text to Tesseract and verifying the output.
 2. **Set up translation.** For offline translation, install Argos Translate: `pip install argostranslate`. Download language packs. For online translation (requires WiFi), use the googletrans library. Test the full pipeline: image -> OCR -> translation.
@@ -41,13 +42,13 @@ Look at a sign in a foreign language. Within seconds, the translated text appear
 8. **Add continuous mode (optional).** Instead of button-triggered, capture and process frames every 3-5 seconds. This is more battery-intensive but provides a seamless experience. Only update the display when new text is detected to avoid flickering.
 9. **Optimize for wearability.** Minimize weight by trimming circuit boards, using thin wiring, and choosing the smallest battery that provides acceptable runtime. Apply sugru or hot glue to smooth edges and secure components. The glasses should be wearable for at least 30 minutes without discomfort.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Do not wear these while driving, cycling, or operating machinery. The display obstructs peripheral vision, and the processing delay means you're looking at the camera frame from seconds ago, not the current view.
 - LiPo batteries near your face require careful handling. Use a battery with built-in protection circuit. If the battery is damaged, swells, or gets hot, remove the glasses immediately. Never charge while wearing.
 - The micro OLED is positioned near your eye. Use the lowest brightness setting that's readable to avoid eye strain. The display should be in peripheral vision, not direct gaze. Take breaks every 20-30 minutes.
 
-## See Also
+## 🔗 See Also
 
 - [AI Photo Booth](143-ai-photo-booth.md)
 - [Deepfake Mirror](153-deepfake-mirror.md)

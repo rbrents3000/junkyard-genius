@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A microphone picks up conversation. Speech recognition converts it to text. Natural language processing analyzes the sentiment — positive, negative, excited, calm, angry. LED lights around the room change color to reflect the emotional tone: warm golden for happy conversation, cool blue for calm discussion, red pulses for heated arguments, green for agreement, purple for contemplative topics. The room literally responds to the emotional temperature of the people in it. It's part art installation, part ambient computing, and deeply weird to experience in person. Conversations become self-aware when the lighting starts shifting.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Raspberry Pi 4 (for continuous speech processing) *(electronics supplier)*
 - [ ] USB microphone — omnidirectional for room pickup *(electronics supplier)*
@@ -26,7 +25,9 @@ A microphone picks up conversation. Speech recognition converts it to text. Natu
 - [ ] Python with speech recognition and NLP libraries *(pip install)*
 - [ ] WiFi smart bulbs — alternative to LED strips for simpler setup (optional) *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up speech recognition.** Install the SpeechRecognition library and Vosk (offline speech-to-text engine — no cloud required). Test by speaking into the USB mic and verifying accurate transcription. Vosk runs locally on the Pi, keeping all conversation data private.
 2. **Implement sentiment analysis.** Install NLTK or TextBlob: `pip install textblob`. Feed transcribed text through the sentiment analyzer, which returns a polarity score (-1.0 negative to +1.0 positive) and subjectivity score. Test with sample sentences to verify scoring accuracy.
@@ -38,13 +39,13 @@ A microphone picks up conversation. Speech recognition converts it to text. Natu
 8. **Add ambient modes.** When no one is talking, the lights can slowly cycle through calming colors, respond to ambient noise level (louder = brighter), or display a time-of-day pattern (warm sunrise colors in morning, cool blue at night).
 9. **Privacy mode.** Add a physical switch that disables the microphone and reverts to a static lighting mode. People need to be able to opt out of having their conversation analyzed, even locally.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - All speech processing should happen locally on the Pi. Never send conversation audio or text to cloud services — this system is in people's living spaces capturing private conversations. Privacy is non-negotiable.
 - LED strips at full brightness draw significant current. A 5-meter strip of WS2812B LEDs can draw 15+ amps at full white. Ensure your power supply is rated appropriately and wiring is adequate gauge. Undersized wiring gets hot.
 - Inform everyone in the space that the system is analyzing conversation for lighting effects. Even though it's local and fun, people deserve to know a microphone is active. The physical off switch is essential.
 
-## See Also
+## 🔗 See Also
 
 - [Music Visualizer LED Wall](145-music-visualizer-led-wall.md)
 - [Voice Home Automation](149-voice-home-automation.md)

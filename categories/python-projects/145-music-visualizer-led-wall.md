@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Concert LED walls react to the music — bass pulses, melodies ripple, beats flash. Build your own with a grid of addressable LEDs (WS2812B strips arranged in parallel rows) behind a frosted acrylic diffuser panel. A Raspberry Pi or laptop captures audio, performs FFT (Fast Fourier Transform) to decompose the music into frequency bands, and maps those bands to LED animations. Bass frequencies pulse the bottom rows, mids illuminate the middle, treble sparkles across the top. The diffuser smooths the individual LEDs into a glowing, organic display. Mounted on a wall behind your desk, DJ setup, or home theater, it transforms any room into a venue.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] WS2812B LED strip — 30 or 60 LEDs/meter, enough for a grid (e.g., 16x16 = 256 LEDs) *(electronics supplier)*
 - [ ] Frosted acrylic panel — same dimensions as the LED grid, 3mm thick *(plastics supplier, hardware store)*
@@ -28,7 +27,9 @@ Concert LED walls react to the music — bass pulses, melodies ripple, beats fla
 - [ ] 3.5mm audio cable or microphone — for audio input *(junk drawer)*
 - [ ] Python with numpy and pyaudio *(pip install)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the LED grid.** Cut the WS2812B strip into equal rows and mount them on a flat board (MDF, foam board, or 3D printed grid). Space rows evenly. Wire the data line in a serpentine pattern (left-to-right on row 1, right-to-left on row 2, etc.) for efficient addressing.
 2. **Wire the power.** A 16x16 grid (256 LEDs) at full white draws up to 15A. Wire 5V power at BOTH ends of the strip to prevent voltage drop. Use thick wire (14-16 gauge) for the power runs. Add a 1000µF capacitor across the power supply output.
@@ -40,13 +41,13 @@ Concert LED walls react to the music — bass pulses, melodies ripple, beats fla
 8. **Send data to the LEDs.** Use the rpi_ws281x library (Pi) or serial protocol (laptop to Arduino) to update the LED grid at 30-60 FPS. Each frame calculates the color of every LED based on the current audio analysis and visualization mode.
 9. **Wall mount and enjoy.** Hang the completed panel on the wall. Connect audio and power. Play music and watch the wall come alive. Adjust sensitivity, color palettes, and visualization modes to match your taste.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - A full LED grid at maximum brightness draws enormous current. Never power the LED strip from the Pi or Arduino — use a dedicated power supply rated for the full load. Undersized power supplies overheat and create fire hazards.
 - Ensure adequate ventilation behind the panel. 256+ LEDs at high brightness generate noticeable heat. The acrylic diffuser traps heat if there's no airflow. Add ventilation gaps at the top and bottom of the frame.
 - Strobe effects and rapid flashing can trigger photosensitive seizures. Avoid visualization modes that flash the entire grid on/off rapidly. Smooth transitions and gradual changes are both safer and more visually appealing.
 
-## See Also
+## 🔗 See Also
 
 - [Non-Newtonian Speaker](../pyro-and-chemistry/112-non-newtonian-speaker.md)
 - [LED Cube 8x8x8](../pi-and-arduino/122-led-cube-8x8x8.md)
