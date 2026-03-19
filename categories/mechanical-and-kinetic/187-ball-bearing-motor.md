@@ -1,5 +1,9 @@
 # #187 — Ball Bearing Motor
 
+<p align="center">
+  <img src="../../images/builds/187-ball-bearing-motor.jpg" alt="Ball Bearing Motor" width="700" />
+</p>
+
 > One battery, one magnet, one ball bearing — the world's simplest electric motor, assembled in 60 seconds.
 
 ## Ratings

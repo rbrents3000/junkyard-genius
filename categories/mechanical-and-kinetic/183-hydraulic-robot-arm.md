@@ -1,5 +1,9 @@
 # #183 — Hydraulic Robot Arm
 
+<p align="center">
+  <img src="../../images/builds/183-hydraulic-robot-arm.jpg" alt="Hydraulic Robot Arm" width="700" />
+</p>
+
 > Syringes and tubing do the heavy lifting — literally — no motors or electricity needed.
 
 ## Ratings

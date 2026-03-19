@@ -1,5 +1,9 @@
 # #188 — Magnetic Gear Train
 
+<p align="center">
+  <img src="../../images/builds/188-magnetic-gear-train.jpg" alt="Magnetic Gear Train" width="700" />
+</p>
+
 > Gears that mesh and transfer torque through pure magnetic force — they never touch, and it looks like witchcraft.
 
 ## Ratings

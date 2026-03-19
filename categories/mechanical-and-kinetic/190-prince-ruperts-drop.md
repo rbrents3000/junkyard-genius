@@ -1,5 +1,9 @@
 # #190 — Prince Rupert's Drop
 
+<p align="center">
+  <img src="../../images/builds/190-prince-ruperts-drop.jpg" alt="Prince Rupert's Drop" width="700" />
+</p>
+
 > Molten glass dropped in water creates a tadpole that shrugs off a hammer blow — then explodes if you breathe on its tail.
 
 ## Ratings

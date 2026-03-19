@@ -1,5 +1,9 @@
 # #186 — Eddy Current Brake
 
+<p align="center">
+  <img src="../../images/builds/186-eddy-current-brake.jpg" alt="Eddy Current Brake" width="700" />
+</p>
+
 > Drop a neodymium magnet into a copper pipe and watch it fall in slow motion — no tricks, just physics flexing.
 
 ## Ratings

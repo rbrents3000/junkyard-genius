@@ -1,5 +1,9 @@
 # #189 — Curie Engine
 
+<p align="center">
+  <img src="../../images/builds/189-curie-engine.jpg" alt="Curie Engine" width="700" />
+</p>
+
 > A candle-powered motor that runs on the moment nickel stops being magnetic — thermodynamics and magnetism tag-teaming.
 
 ## Ratings

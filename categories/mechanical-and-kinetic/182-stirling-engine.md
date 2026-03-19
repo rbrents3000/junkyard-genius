@@ -1,5 +1,9 @@
 # #182 — Stirling Engine
 
+<p align="center">
+  <img src="../../images/builds/182-stirling-engine.jpg" alt="Stirling Engine" width="700" />
+</p>
+
 > Two soda cans, a balloon, and a candle walk into a garage — and walk out as a working heat engine.
 
 ## Ratings
