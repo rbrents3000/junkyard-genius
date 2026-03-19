@@ -1,5 +1,9 @@
 # #267 — Laser Harp
 
+<p align="center">
+  <img src="../../images/builds/267-laser-harp.jpg" alt="Laser Harp" width="700" />
+</p>
+
 > Play music by waving your hands through beams of light. Jean-Michel Jarre made these famous. You can build one for $25.
 
 ## Ratings

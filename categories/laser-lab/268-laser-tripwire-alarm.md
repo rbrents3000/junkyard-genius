@@ -1,5 +1,9 @@
 # #268 — Laser Tripwire Security System
 
+<p align="center">
+  <img src="../../images/builds/268-laser-tripwire-alarm.jpg" alt="Laser Tripwire Security System" width="700" />
+</p>
+
 > Invisible security from a $2 laser. Every spy movie you have ever watched just became a weekend project.
 
 ## Ratings

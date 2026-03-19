@@ -1,5 +1,9 @@
 # #265 — Laser Voice Communicator
 
+<p align="center">
+  <img src="../../images/builds/265-laser-communicator.jpg" alt="Laser Voice Communicator" width="700" />
+</p>
+
 > Talk to someone across a field using nothing but a beam of light. Alexander Graham Bell did it in 1880. Your turn.
 
 ## Ratings
