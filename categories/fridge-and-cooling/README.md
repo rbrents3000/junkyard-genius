@@ -33,7 +33,7 @@ Einstein literally patented a fridge design. This category is physics royalty.
 Start with passive cooling, progress toward thermodynamic systems:
 
 1. **[#099 — Swamp Cooler](099-swamp-cooler.md)** — Passive evaporative cooling. No electronics.
-2. **[#100 — Thermoelectric Beverage Chiller](100-thermoelectric-beverage-chiller.md)** — Peltier introduction.
+2. **[#100 — Thermoelectric Beverage Chiller](100-beverage-chiller.md)** — Peltier introduction.
 3. **[#092 — Fermentation Chamber](092-fermentation-chamber.md)** — Temperature controller basics.
 4. **[#096 — Peltier Portable Cooler](096-peltier-portable-cooler.md)** — Builds on Peltier knowledge.
 5. **[#098 — Junk Ice Cream Maker](098-junk-ice-cream-maker.md)** — Phase-change materials.
