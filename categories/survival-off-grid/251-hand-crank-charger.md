@@ -68,3 +68,7 @@ This is the same fundamental mechanism inside every commercial hand-crank flashl
 - [Faraday Cage](252-faraday-cage.md)
 - [Biogas Generator](249-biogas-generator.md)
 - [Solar Still](248-solar-still.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
