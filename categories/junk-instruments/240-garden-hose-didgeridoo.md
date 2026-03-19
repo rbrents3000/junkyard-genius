@@ -55,3 +55,7 @@ The build takes about 15 minutes. Cut a short length of PVC pipe for a comfortab
 
 - [PVC Pipe Organ](236-pvc-pipe-organ.md)
 - [Cigar Box Guitar](235-cigar-box-guitar.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

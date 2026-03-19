@@ -64,3 +64,6 @@ The automated version is where this gets genuinely impressive. Mount small solen
 
 - [PVC Pipe Organ](236-pvc-pipe-organ.md)
 - [Steel Tongue Drum](239-steel-tongue-drum.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
