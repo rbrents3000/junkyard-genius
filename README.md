@@ -1,9 +1,9 @@
 <p align="center">
   <h1 align="center">Junkyard Genius</h1>
-  <p align="center"><strong>326 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
+  <p align="center"><strong>335 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/builds-326-orange?style=for-the-badge" alt="326 Builds" />
-    <img src="https://img.shields.io/badge/categories-32-blue?style=for-the-badge" alt="32 Categories" />
+    <img src="https://img.shields.io/badge/builds-335-orange?style=for-the-badge" alt="335 Builds" />
+    <img src="https://img.shields.io/badge/categories-33-blue?style=for-the-badge" alt="33 Categories" />
     <img src="https://img.shields.io/github/license/rbrents3000/junkyard-genius?style=for-the-badge" alt="License" />
     <img src="https://img.shields.io/github/stars/rbrents3000/junkyard-genius?style=for-the-badge" alt="Stars" />
   </p>
@@ -25,7 +25,7 @@ Your microwave, fridge, old phones, dead laptops, busted printers, and that vacu
 
 This repo is a cookbook for builders, makers, mad scientists, and anyone who looks at a pile of junk and sees potential. Every build includes rated difficulty, sourced ingredients, step-by-step instructions, and safety notes.
 
-> **326 builds** &middot; **32 categories** &middot; **14 reference guides** &middot; **4 safety docs**
+> **335 builds** &middot; **33 categories** &middot; **14 reference guides** &middot; **4 safety docs**
 >
 > From "I just need a battery and a magnet" to "I'm building a rail gun from a microwave and a prayer."
 >
@@ -193,6 +193,7 @@ Every build is rated on 6 scales. Calibrate your ambition accordingly.
 | 30 | 👻 | [Pranks & Party](categories/pranks-and-party/) | 8 | Smoke ring cannons, confetti launchers, invisible speakers, insult cameras |
 | 31 | 🍴 | [Kitchen Hacks](categories/kitchen-hacks/) | 8 | Toaster reflow ovens, microwave kilns, rice cooker electroplating |
 | 32 | 🎯 | [Laser Lab](categories/laser-lab/) | 7 | Laser harps, galvo light shows, Blu-ray cutters, laser microscopes |
+| 33 | 👁️ | [Visual Showstoppers](categories/visual-showstoppers/) | 9 | Cloud chamber tables, fire organs, ferrofluid walls, infinity rooms, flip-dot displays |
 
 ---
 
