@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Electroplating is one of those industrial processes that sounds impossibly complex until you realize it’s just a battery, two wires, and a jar of slightly angry liquid. The concept: dissolve a metal into a solution (creating metal ions floating in liquid), then use electrical current to force those ions to deposit onto another object, coating it in a thin, even layer of metal. Factories do this with cyanide baths and precisely controlled rectifiers. You’re going to do it with vinegar, table salt, some copper wire, and a 9V battery.
 
@@ -20,7 +18,8 @@ The setup is dead simple. Strip the insulation from a length of copper wire and 
 
 Within 30 minutes, your target object will have a visible copper coating. Leave it for a few hours and the coating thickens into a durable, shiny copper layer that can be buffed to a mirror finish. You can plate keys, coins, bolts, jewelry findings, 3D prints coated in conductive paint, or basically anything that conducts electricity. The results look professional — genuinely indistinguishable from factory-plated items if you control the current and solution concentration properly.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] White vinegar — standard 5% acidity *(grocery store, ~$2)*
 - [ ] Table salt — 1-2 tablespoons *(kitchen, free)*
@@ -33,7 +32,9 @@ Within 30 minutes, your target object will have a visible copper coating. Leave 
 - [ ] Baking soda — for neutralizing and cleaning *(kitchen, free)*
 - [ ] Rubbing alcohol — for final degreasing *(medicine cabinet, ~$2)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Make the plating solution.** Dissolve 1 tablespoon of salt in 2 cups of white vinegar in your glass jar. Drop in a coil of bare copper wire and let it sit for 24 hours. The solution will turn blue-green as copper dissolves. For faster results, heat the vinegar to near-boiling before adding the salt and copper — dissolution happens in 2-3 hours. The stronger the blue-green color, the more copper ions are available for plating.
 
@@ -49,14 +50,14 @@ Within 30 minutes, your target object will have a visible copper coating. Leave 
 
 7. **Finish and polish.** Remove the plated object, rinse in clean water, and neutralize any remaining acid by dipping in a baking soda solution. Pat dry. The coating will be somewhat dull — buff it with a soft cloth or polishing compound to bring out a brilliant copper shine. For long-term protection, coat with clear lacquer or Renaissance wax.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The plating solution is acidic and contains dissolved copper salts. Wear gloves to avoid skin irritation. Don’t drink it (copper sulfate is toxic in significant quantities). Dispose of the used solution responsibly — don’t pour it down the drain in large quantities.
 - The electrolysis process produces small amounts of hydrogen gas and chlorine gas (from the salt). Both are hazardous in concentration. Work in a well-ventilated area. If you smell a swimming-pool-like odor (chlorine), increase ventilation immediately.
 - The battery voltage used here is safe — no shock risk. But don’t upgrade to a car battery charger without understanding the current involved. High current through a small plating bath can overheat the solution.
 - Wash hands thoroughly after handling the plating solution and plated objects before the final rinse.
 
-## See Also
+## 🔗 See Also
 
 - [Electrolysis Rust Eraser](212-electrolysis-rust-eraser.md)
 - [Bleach Crystal Garden](213-bleach-crystal-garden.md)

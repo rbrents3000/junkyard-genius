@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 The classic baking soda and vinegar volcano, scaled up and weaponized. When sodium bicarbonate (baking soda) reacts with acetic acid (vinegar), the acid-base reaction produces carbon dioxide gas, water, and sodium acetate. In an open container, the CO2 just fizzes out. In a sealed container, it pressurizes. Put a cork in a 2-liter bottle with vinegar on the bottom and baking soda dropped in from above, and the CO2 pressure builds until it ejects the cork with a satisfying POP — or, if you flip the bottle upside down (cork on the ground), the entire bottle launches straight up like a rocket.
 
@@ -20,7 +18,8 @@ The key to maximum height is maximizing the rate of CO2 production. More baking 
 
 This is the build that every kid remembers. Scaling it up with a 2-liter bottle makes it genuinely impressive.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 2-liter plastic soda bottle — empty and clean *(recycling bin — free)*
 - [ ] Baking soda — 3-4 tablespoons per launch *(grocery store, ~$1)*
@@ -31,7 +30,9 @@ This is the build that every kid remembers. Scaling it up with a 2-liter bottle 
 - [ ] Tape — masking or duct *(hardware store)*
 - [ ] Launch pad — a flat board with a ring or pipe fitting to hold the bottle upside down *(hardware store scrap)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the launch pad.** Nail or screw a PVC pipe coupling (sized to loosely hold a 2-liter bottle neck) to a flat piece of plywood. The bottle sits inverted in this ring with the cork pointing down. The pad keeps the rocket vertical during the pressure buildup phase and provides a stable base for launch. Alternatively, just hold the bottle upside down by hand and run (less dignified, more exciting).
 2. **Add fins and nose cone (optional).** Cut three or four triangular fins from cardboard and tape them symmetrically around the bottom of the bottle (which becomes the top during flight, since the bottle launches upside down). Add a cardboard cone taped over the bottle's base (the top of the rocket in flight). Fins and a nose cone don't add thrust, but they dramatically improve flight stability — without them, the bottle tumbles wildly.
@@ -42,13 +43,13 @@ This is the build that every kid remembers. Scaling it up with a 2-liter bottle 
 7. **Wait for launch.** The vinegar soaks through the paper towel, contacts the baking soda, and CO2 production begins. Pressure builds inside the sealed bottle. After 5-20 seconds (depending on paper towel thickness and vinegar temperature), the cork ejects with a POP and the bottle launches upward on a jet of foamy vinegar and CO2.
 8. **Iterate and optimize.** Experiment with ratios: more baking soda increases total gas but slows the reaction (alkaline environment). More vinegar ensures complete reaction. The sweet spot is roughly 4 tablespoons baking soda to 1.5 cups vinegar in a 2-liter bottle. Try different cork tightness — tighter corks build more pressure but risk splitting the bottle.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Never use glass bottles. The pressure can cause catastrophic failure, and glass shrapnel is lethal. Plastic 2-liter bottles are designed to hold carbonation pressure and deform rather than fragment.
 - Stand well back after corking and flipping — the launch is unpredictable in timing. Never look directly into the bottle opening while pressurizing. A cork ejected at high velocity can cause eye injury.
 - This launch produces a vinegar spray zone around the launch pad. Don't launch near cars, pets, or anything you don't want smelling like vinegar. Launch in an open field or driveway with clear sky above.
 
-## See Also
+## 🔗 See Also
 
 - [Alcohol Vapor Cannon](209-alcohol-vapor-cannon.md) — another household-chemical projectile launcher (combustion instead of acid-base)
 - [Hydrogen Generator](../chemical-electronic/159-hydrogen-generator.md) — electrolysis-based gas production for more controlled experiments

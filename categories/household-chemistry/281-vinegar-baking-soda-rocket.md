@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Every kid who’s ever mixed vinegar and baking soda in a volcano model has felt the primal thrill of a chemical reaction doing physical work. Acetic acid meets sodium bicarbonate, hydrogen ions swap partners, and CO2 gas rushes out of solution. In an open container, it just fizzes and overflows — boring. But seal that reaction inside a container with a weak point, and pressure builds until the seal fails catastrophically. That’s a rocket. Newton’s third law in a fizzy, sour-smelling package.
 
@@ -20,7 +18,8 @@ The classic version uses a 35mm film canister (remember those?) with a snap-on l
 
 Scale up to a 2-liter soda bottle and you enter a different league entirely. A cork or rubber stopper seals the neck, and the pressure builds much higher before the seal fails. A 2-liter bottle can handle around 100 PSI before the cork blows. At that pressure, launches of 50-100 feet are routine. Add a PVC launch tube for guidance, some cardboard fins for stability, and a nose cone for aerodynamics, and you’ve got a legit rocket that rivals the commercial water rockets sold for $30. The whole thing costs about $3 in consumables per launch.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Film canisters — Fuji-style with internal snap lid (not the external lid type) *(camera store, eBay, or ask a photo lab, ~$1)*
 - [ ] 2-liter soda bottles — for the scaled-up version *(recycling bin, free)*
@@ -33,7 +32,9 @@ Scale up to a 2-liter soda bottle and you enter a different league entirely. A c
 - [ ] Tissue paper — for wrapping baking soda into a time-delay packet *(existing supply)*
 - [ ] Safety glasses — for launches *(dollar store, ~$1)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Start with film canisters (beginner version).** Drop 1 teaspoon of baking soda into a film canister. Quickly add 2 teaspoons of vinegar, snap the lid on tight, flip the canister upside down (lid on the ground), and back up 10 feet. The lid pops off within 5-10 seconds and the canister flies 15-20 feet up. Experiment with ratios — more vinegar isn’t always better, since you need gas volume AND pressure.
 
@@ -49,7 +50,7 @@ Scale up to a 2-liter soda bottle and you enter a different league entirely. A c
 
 7. **Optimize for altitude.** Experiment with vinegar-to-baking-soda ratios, cork tightness (tighter = more pressure before release = higher launch), bottle size, and fin design. Keep a log of each launch configuration and estimated altitude. The current record for a vinegar-and-baking-soda bottle rocket is surprisingly high — well over 100 feet with optimized ratios.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Always wear safety glasses during launches. A cork or bottle bottom blown out under pressure can cause eye injuries.
 - Never stand over a pressurized bottle. Once the cork is in and the baking soda packet is dissolving, back away immediately. Misfires happen — sometimes the cork is too tight and the bottle bursts instead of launching.
@@ -57,7 +58,7 @@ Scale up to a 2-liter soda bottle and you enter a different league entirely. A c
 - Launch in open areas away from people, cars, windows, and overhead power lines. A 2-liter rocket at 100 feet altitude comes down fast and hard.
 - This is messy. Vinegar spray goes everywhere when the rocket launches. Don’t do this near anything that shouldn’t get wet and smell like salad dressing.
 
-## See Also
+## 🔗 See Also
 
 - [Alcohol Vapor Cannon](209-alcohol-vapor-cannon.md)
 - [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste.md)

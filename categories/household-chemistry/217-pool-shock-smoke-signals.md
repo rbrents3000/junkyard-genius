@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Pool shock (calcium hypochlorite, Ca(ClO)2) is a powerful oxidizer sold at hardware stores for sanitizing swimming pools. When it contacts a glycol-based fluid like DOT 3 brake fluid, a vigorous exothermic oxidation reaction begins — but not instantly. There's a delay of 30-90 seconds while the brake fluid absorbs into the granules, then the reaction kicks off with a burst of heat, producing dense white smoke composed of calcium chloride particles, water vapor, and combustion byproducts. The smoke column is thick, opaque, and persistent, rising 10-20 feet in still air and lasting 2-5 minutes from a single charge.
 
@@ -20,7 +18,8 @@ The time delay is the killer feature. You pour, walk away, and the smoke starts 
 
 This is a serious chemistry reaction with real hazards. The reaction produces extreme heat and toxic fumes. Treat it with the same respect you'd give any pyrotechnic build.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Pool shock (calcium hypochlorite) — granular, 65-73% concentration *(pool supply store or hardware store, ~$5 per pound)*
 - [ ] DOT 3 brake fluid — glycol-based, standard automotive *(auto parts store, ~$4)*
@@ -29,7 +28,9 @@ This is a serious chemistry reaction with real hazards. The reaction produces ex
 - [ ] Fire extinguisher — ABC rated *(hardware store or existing)*
 - [ ] Non-flammable outdoor surface — concrete, dirt, gravel *(outdoors — free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Choose the location carefully.** This reaction produces toxic chlorine-containing fumes. Perform outdoors only, in an open area with wind to disperse the smoke. Stay upwind at all times. Keep a minimum 30-foot clear radius from anything flammable — the reaction generates enough heat to ignite dry grass, paper, and wood. Concrete, gravel, or bare dirt is the only acceptable surface.
 2. **Prepare the container.** Place a ceramic bowl, terracotta flower pot, or steel can on the ground in your clear area. The container must be heat-resistant — the reaction temperature exceeds 400 degrees F. Do not use aluminum (it can react with calcium hypochlorite), plastic (it melts), or glass (it can crack from thermal shock).
@@ -40,13 +41,13 @@ This is a serious chemistry reaction with real hazards. The reaction produces ex
 7. **Wait for complete burnout.** The reaction is complete when no more smoke is produced and the residue in the container has stopped bubbling. Wait an additional 10 minutes before approaching. The container and residue will be extremely hot. Let everything cool fully before handling.
 8. **Dispose of residue.** The leftover residue is primarily calcium chloride and carbon — non-toxic once cooled. Rinse the container with water and dispose of the rinse water in a drain (calcium chloride is water-soluble and non-hazardous). Clean the container thoroughly before any other use.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The fumes from this reaction contain chlorine gas and hydrochloric acid vapor, both of which are toxic to inhale. Stay upwind at all times. If you smell a sharp, acrid, swimming-pool-like odor, you are too close — move further upwind immediately. Prolonged inhalation can cause chemical burns to the lungs.
 - The reaction is exothermic and self-sustaining once started. It cannot be stopped. Do not attempt to extinguish with water — adding water to hot calcium hypochlorite can cause a violent steam explosion and release more chlorine gas. If the fire spreads, use a dry chemical (ABC) extinguisher.
 - Store pool shock and brake fluid separately, in sealed containers, away from heat and each other. Calcium hypochlorite is a strong oxidizer that can spontaneously ignite if it contacts organic materials (oils, solvents, wood dust). Never store it near fuels or solvents.
 
-## See Also
+## 🔗 See Also
 
 - [Colored Fire](../pyro-and-chemistry/101-colored-fire.md) — other chemical reactions that produce dramatic visual effects
 - [Alcohol Vapor Cannon](209-alcohol-vapor-cannon.md) — another build combining household chemicals and combustion

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 KNO3 smoke bombs are the entry point to amateur pyrotechnics, and for good reason — the ingredients are dirt cheap, the process is basically candy-making, and the results are genuinely impressive. The chemistry is straightforward: potassium nitrate (KNO3, also known as saltpeter) is an oxidizer that provides oxygen to sustain combustion. Sugar (sucrose) is the fuel. When you melt them together, you get a caramel-like substance called “rocket candy” in the hobby rocketry world. Light it, and it burns at a controlled rate, producing a massive volume of thick white smoke made of potassium carbonate particles, CO2, water vapor, and various organic aerosols.
 
@@ -20,7 +18,8 @@ The cooking process is critical and is where most beginners mess up. You’re he
 
 Once the mixture is smooth and liquid, you pour it into molds — cardboard tubes, tin cans, or rolled paper cylinders. Insert a fuse (a piece of visco cannon fuse or even a homemade KNO3-soaked string), let it cool and harden, and you’ve got a smoke bomb that would make a paintball field jealous. For colored smoke, add organic dye powder to the mixture before pouring — red, blue, green, purple, whatever you want. The smoke density is remarkable: a single smoke bomb the size of a toilet paper tube can obscure a 50-foot area for a solid minute.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Potassium nitrate (KNO3) — stump remover brand is pure KNO3 *(garden center or hardware store, ~$5)*
 - [ ] Granulated sugar — plain white table sugar *(grocery store, ~$2)*
@@ -33,7 +32,9 @@ Once the mixture is smooth and liquid, you pour it into molds — cardboard tube
 - [ ] Kitchen scale — for measuring ratios *(existing, or ~$10)*
 - [ ] Duct tape — for sealing tube ends *(existing)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Measure the mixture.** Weigh out a 3:2 ratio of KNO3 to sugar — 60g KNO3 to 40g sugar is a good starting batch. This ratio burns slowly and produces maximum smoke. More KNO3 makes it burn faster and hotter with less smoke. More sugar makes it harder to ignite and smokier. The 3:2 ratio is the sweet spot (pun intended).
 
@@ -49,7 +50,7 @@ Once the mixture is smooth and liquid, you pour it into molds — cardboard tube
 
 7. **Light and enjoy.** Set the smoke bomb on a non-flammable surface (concrete, gravel, bare dirt). Light the fuse and step back 10 feet. The bomb should start producing thick smoke within 5-10 seconds of the fuse burning down to the composition. Burn time is 30-60 seconds depending on size. Smoke output is impressive — perfect for photography, airsoft, or just looking like a movie scene in your backyard.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The cooking step is the most dangerous part. KNO3/sugar can ignite if overheated, and once it ignites, it cannot be extinguished with water (the KNO3 provides its own oxygen). Cook on the LOWEST heat setting, stir constantly, and keep a metal lid nearby to smother the pot if ignition occurs. Never walk away from the pot.
 - Perform all cooking outdoors or in a very well-ventilated area on an electric stove. Do NOT use a gas stove — the open flame is an ignition risk.
@@ -57,7 +58,7 @@ Once the mixture is smooth and liquid, you pour it into molds — cardboard tube
 - Check local regulations regarding smoke-producing pyrotechnic devices. They may be legal to make but illegal to use in certain areas.
 - Store finished smoke bombs in a cool, dry place away from heat sources. They are stable at room temperature but will ignite readily from an open flame.
 
-## See Also
+## 🔗 See Also
 
 - [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste.md)
 - [Chemical Smoke Screen Machine](../alchemist-cookbook/276-chemical-smoke-screen-machine.md)

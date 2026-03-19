@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A density tower is a column of immiscible liquids stacked by density in a tall, clear container. Each liquid has a different density (mass per volume), so heavier liquids sink to the bottom and lighter ones float on top. Because many of these liquids don't mix with each other, the layers remain distinct and visible — creating a rainbow column of colored bands.
 
@@ -20,7 +18,8 @@ The classic tower uses 7-9 layers: honey (1.42 g/cm3), corn syrup (1.33), maple 
 
 It's a beautiful physics demonstration that takes 20 minutes to build with ingredients entirely from the kitchen and bathroom.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Honey — darkest/densest layer *(grocery store)*
 - [ ] Corn syrup or maple syrup — light or dark *(grocery store)*
@@ -33,7 +32,9 @@ It's a beautiful physics demonstration that takes 20 minutes to build with ingre
 - [ ] Tall clear glass, jar, or vase *(kitchen or dollar store)*
 - [ ] Small dense objects — grape, cherry tomato, bolt, coin, cork, ping pong ball, die, bead *(around the house — free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Choose the container.** A tall, narrow, clear container shows the layers best. A 1-liter graduated cylinder is ideal if you have one. A tall glass vase, a clear water bottle with the top cut off, or a mason jar all work. The taller the container, the more distinct the layers appear.
 2. **Pour the heaviest liquid first.** Start with honey. Pour it slowly down the center of the container. It should form a thick pool at the bottom. Pour about 1/2 inch to 1 inch of depth.
@@ -43,13 +44,13 @@ It's a beautiful physics demonstration that takes 20 minutes to build with ingre
 6. **Drop objects.** The payoff: drop small objects into the tower one at a time. A grape (density ~1.1) sinks through the alcohol, oil, and water but floats on the syrup. A cherry tomato (density ~0.95) floats on the water. A small bolt (density ~7.8) sinks all the way to the bottom through every layer. A cork (density ~0.2) stays on top of the alcohol. Each object finding its level demonstrates density in a viscerally satisfying way.
 7. **Photograph from the side.** Backlight the tower with a white light source (phone flashlight, desk lamp) for maximum visual impact. Each layer glows with its own color and transparency. The suspended objects add visual interest at multiple heights.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Rubbing alcohol is flammable. Keep it away from open flames and heat sources. Cap the bottle when not pouring.
 - This build uses food-safe ingredients, but the combination is not edible. Don't drink the tower or let young children taste it. The dish soap and rubbing alcohol are the main concerns.
 - Cleanup is easy — pour the tower into the trash (not the sink — the oil and honey can clog drains). Wipe the container with paper towels before washing.
 
-## See Also
+## 🔗 See Also
 
 - [Acetone Styrofoam Sculptor](211-acetone-styrofoam-sculptor.md) — another build demonstrating how different materials interact chemically
 - [Invisible Ink Message Board](216-invisible-ink-message-board.md) — another kitchen-science visual demonstration

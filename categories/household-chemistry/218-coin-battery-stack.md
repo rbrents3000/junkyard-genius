@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 In 1800, Alessandro Volta invented the first true battery by stacking alternating discs of copper and zinc separated by brine-soaked cardboard. Each copper-zinc pair generates about 0.7-1.0 volts through an electrochemical reaction: the zinc oxidizes (loses electrons), the copper reduces (gains electrons), and the acidic electrolyte (vinegar) carries ions between them. Stack 10 pairs and you get 7-10 volts — enough to power an LED, a small buzzer, or a calculator.
 
@@ -20,7 +18,8 @@ You can build Volta's original invention using pennies (copper-plated zinc since
 
 It's the most fundamental demonstration of electrochemistry — you are literally building electricity from metal and acid. The same reaction happening in your coin stack is what powers every zinc-carbon and alkaline battery ever made.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Copper pennies x10-20 — pre-1982 are solid copper (best), post-1982 work too *(pocket change — free)*
 - [ ] Galvanized (zinc-coated) washers x10-20 — flat washers roughly penny-sized *(hardware store, ~$2)*
@@ -31,7 +30,9 @@ It's the most fundamental demonstration of electrochemistry — you are literall
 - [ ] Small dish — for soaking cardboard *(kitchen — free)*
 - [ ] Electrical tape — to hold the stack together *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Clean the pennies.** Dirty pennies have an oxide layer that reduces conductivity. Soak them in vinegar for 5 minutes, then scrub with salt and rinse. They should be bright and shiny. This step significantly improves cell voltage.
 2. **Cut the cardboard spacers.** Cut cardboard into discs roughly the same diameter as the pennies. You need one spacer for each cell. The spacers should be thick enough to hold vinegar (corrugated cardboard works well) but not so thick that the internal resistance is too high. One layer of cereal box cardboard is ideal.
@@ -42,13 +43,13 @@ It's the most fundamental demonstration of electrochemistry — you are literall
 7. **Connect the LED.** Touch one wire from the bottom zinc washer (negative) to the shorter LED leg (cathode). Touch another wire from the top penny (positive) to the longer LED leg (anode). The LED should glow. If it doesn't, check the stack alignment (cells may be shorted), the cardboard saturation (may have dried out), and the LED polarity (reverse the leads).
 8. **Experiment with configurations.** Try different electrolytes: lemon juice, salt water, Gatorade. Try different metals: aluminum foil instead of zinc, steel washers instead of copper. Measure each cell's voltage with a multimeter and compare. This is how early battery researchers worked — systematic testing of metal pairs and electrolytes.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The voltages produced are far too low to cause electric shock. This is one of the safest electrical builds possible.
 - Vinegar is a mild acid that can irritate cuts and eyes. Wash hands after handling soaked components. If vinegar contacts eyes, rinse with water for several minutes.
 - After the experiment, the zinc washers and pennies may have a light coating of corrosion products (zinc acetate, copper acetate). These are mildly toxic if ingested. Don't let young children put the coins in their mouths after use. Wash all components before returning pennies to circulation.
 
-## See Also
+## 🔗 See Also
 
 - [Electrolysis Rust Eraser](212-electrolysis-rust-eraser.md) — the reverse electrochemical process: using electricity to drive a reaction instead of generating it
 - [Electroplating Station](../chemical-electronic/156-electroplating-station.md) — another electrochemistry build using copper and acid solutions

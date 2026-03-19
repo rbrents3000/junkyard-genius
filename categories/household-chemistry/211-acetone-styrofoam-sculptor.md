@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Expanded polystyrene (EPS) — the white foam used in packing peanuts, takeout containers, and shipping blocks — is 98% air by volume. The remaining 2% is polystyrene plastic. Acetone (the active ingredient in nail polish remover) is a powerful organic solvent that dissolves polystyrene instantly. When you drop a styrofoam block into acetone, it collapses like a deflating balloon as the solvent breaks down the foam structure and releases all that trapped air. A cubic foot of styrofoam reduces to a golf-ball-sized blob of gooey plastic.
 
@@ -20,7 +18,8 @@ That blob is moldable. While the acetone is still present, the polystyrene is a 
 
 The visual effect of styrofoam dissolving in acetone is dramatic on its own — it looks like the foam is being eaten. The sculpting applications are a bonus.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Acetone — 100% pure, not nail polish remover with additives *(hardware store or beauty supply, ~$5 per quart)*
 - [ ] Expanded polystyrene (EPS) — packing peanuts, shipping blocks, takeout containers *(source: free from packages, moving supplies, dumpsters)*
@@ -29,7 +28,9 @@ The visual effect of styrofoam dissolving in acetone is dramatic on its own — 
 - [ ] Nitrile gloves *(pharmacy or hardware store)*
 - [ ] Sculpting tools (optional) — toothpicks, plastic knives, wooden skewers *(around the house — free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up the workspace.** Work outdoors or in a very well-ventilated area. Acetone vapor is flammable and can cause dizziness in enclosed spaces. Cover your work surface with aluminum foil — acetone dissolves or damages most painted surfaces, varnishes, and many plastics. Do not use a styrofoam, polycarbonate, or ABS container for the acetone.
 2. **Pour the acetone.** Add 1-2 cups of acetone to a glass or metal bowl. You need less than you think — the acetone is recycled as each batch of foam dissolves.
@@ -39,13 +40,13 @@ The visual effect of styrofoam dissolving in acetone is dramatic on its own — 
 6. **Dry and cure.** Place the molded or sculpted pieces in a ventilated area to dry. Drying time depends on thickness: thin pieces (under 1/4 inch) cure in 12-24 hours, thicker pieces take 48-72 hours. The acetone must fully evaporate for the piece to reach maximum hardness. The finished product is dense, hard polystyrene — lighter than solid plastic but much denser than the original foam.
 7. **Finish (optional).** Once fully cured, the hardened polystyrene can be sanded, drilled, painted, or coated with epoxy for a smooth, glossy finish. It accepts spray paint and acrylic paint well.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Acetone is highly flammable — vapor can ignite from sparks, pilot lights, or static discharge. No open flames anywhere near the workspace. Do not smoke. Keep the acetone container capped when not actively dissolving foam.
 - Work in a ventilated area. Acetone vapor causes headaches, dizziness, and nausea with prolonged exposure. Outdoors is best. If indoors, use a fan blowing vapors away from you and open multiple windows.
 - Wear nitrile gloves (not latex — acetone degrades latex). Acetone strips oils from skin, causing dryness and cracking. If it contacts skin, wash with soap and water and apply moisturizer.
 
-## See Also
+## 🔗 See Also
 
 - [Density Tower](280-density-tower.md) — another build that exploits liquid-material interactions for visual effect
 - [Electroforming Art](../chemical-electronic/160-electroforming-art.md) — coat your polystyrene sculptures in real copper

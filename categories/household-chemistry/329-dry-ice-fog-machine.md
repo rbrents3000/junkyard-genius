@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Dry ice is frozen carbon dioxide — solid CO2 at -78.5°C (-109°F). Unlike regular ice, it doesn’t melt into a liquid. It sublimates directly from solid to gas. When you drop chunks of dry ice into hot water, the rapid sublimation produces a massive volume of CO2 gas, but that’s not what you see. The visible fog is actually water vapor — the extremely cold CO2 gas condenses the moisture in the surrounding air into tiny water droplets, creating a thick, white fog that’s heavier than air and sinks to the ground. It’s the same physics that makes your breath visible on a cold day, just weaponized for maximum theatrical effect.
 
@@ -20,7 +18,8 @@ The beauty of dry ice fog compared to commercial fog machines (which use heated 
 
 Building a controllable fog machine from a cooler takes about five minutes. A Styrofoam or plastic cooler serves as the reservoir. Hot water in the bottom provides the thermal energy for rapid sublimation. A fan (PC fan, desk fan, or even a hair dryer on cool) mounted to a port in the cooler wall pushes the fog out through a PVC pipe or dryer vent hose, letting you aim the fog wherever you want. Drop dry ice into the hot water, close the lid, and fog pours out of the outlet for 15-30 minutes per batch. Refill the hot water periodically to maintain output — as the water cools, sublimation slows down.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Dry ice — 5-10 pounds for a good session *(grocery stores, ice cream shops, or welding supply, ~$1-2/lb)*
 - [ ] Styrofoam cooler — medium size, 20-30 quart *(hardware or grocery store, ~$5)*
@@ -32,7 +31,9 @@ Building a controllable fog machine from a cooler takes about five minutes. A St
 - [ ] Insulated gloves — for handling dry ice *(hardware store, ~$5 or existing winter gloves)*
 - [ ] Tongs — for placing dry ice in water *(kitchen, existing)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Cut the outlet port.** On one end of the cooler, near the bottom, cut a circular hole sized to fit your PVC pipe or dryer vent hose. The outlet should be near the bottom because the cold, dense fog naturally settles to the lowest point inside the cooler. Seal the pipe or hose into the hole with duct tape — it doesn’t need to be airtight, just snug.
 
@@ -48,7 +49,7 @@ Building a controllable fog machine from a cooler takes about five minutes. A St
 
 7. **Maintain the output.** The water cools over 15-20 minutes and fog production drops off. Add more hot water (carefully — open the lid slowly to avoid a fog blast to the face) to revive the output. Add more dry ice as needed. With 10 pounds of dry ice and periodic hot water refills, you can run this for 2-3 hours.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Dry ice is -78.5°C and will cause frostbite on contact with skin. Always handle with insulated gloves or tongs. Never put dry ice in your mouth or touch it with bare hands.
 - CO2 is an asphyxiant. In enclosed spaces, large quantities of dry ice can displace oxygen and create a suffocation hazard. Use in well-ventilated areas. If you feel dizzy or short of breath, move to fresh air immediately. Do not use in small, sealed rooms.
@@ -56,7 +57,7 @@ Building a controllable fog machine from a cooler takes about five minutes. A St
 - Hot water in the cooler is a scald hazard. Pour carefully and don’t let kids reach into the cooler.
 - Transport dry ice in a vehicle with windows cracked. CO2 buildup in a sealed car can cause drowsiness and disorientation.
 
-## See Also
+## 🔗 See Also
 
 - [Chemical Smoke Screen Machine](../alchemist-cookbook/276-chemical-smoke-screen-machine.md)
 - [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste.md)

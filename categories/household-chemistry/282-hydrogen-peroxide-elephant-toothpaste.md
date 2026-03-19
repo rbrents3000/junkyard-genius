@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Elephant toothpaste is the undisputed champion of visual chemistry demonstrations. The reaction is simple: hydrogen peroxide (H2O2) naturally decomposes into water and oxygen gas, but at room temperature this happens so slowly you’d never notice. Add a catalyst — potassium iodide (KI) — and the decomposition happens all at once, violently fast. The oxygen gas gets trapped in dish soap mixed into the solution, creating a massive eruption of warm, foamy goodness that looks exactly like a giant tube of toothpaste being squeezed by an invisible elephant.
 
@@ -20,7 +18,8 @@ The store-bought 3% hydrogen peroxide from the pharmacy produces a decent demo, 
 
 The chemistry is beautifully elegant. The iodide ion (I-) from the potassium iodide acts as a true catalyst — it participates in the reaction but gets regenerated at the end. It strips one oxygen atom from H2O2, temporarily forming hypoiodite (IO-), which then reacts with another H2O2 molecule to release O2 gas and regenerate the I-. The catalyst isn’t consumed, the oxygen comes from the peroxide, and the dish soap captures it all in glorious, pillowy foam. This is catalysis 101, and it’s spectacular.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Hydrogen peroxide — 12% salon grade minimum, 30% for maximum effect *(beauty supply store or online, ~$8-15)*
 - [ ] Potassium iodide — powder or saturated solution *(online chemical supplier, ~$8 for 100g)*
@@ -32,7 +31,9 @@ The chemistry is beautifully elegant. The iodide ion (I-) from the potassium iod
 - [ ] Safety goggles and gloves — mandatory with concentrated peroxide *(~$5)*
 - [ ] Measuring cups and spoons *(existing kitchen supplies)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the catalyst solution.** Dissolve 2 tablespoons of potassium iodide in 3 tablespoons of warm water. Stir until fully dissolved. This saturated KI solution is your trigger — set it aside in a small cup. You can also use a packet of dry active yeast dissolved in warm water as a weaker but more accessible catalyst.
 
@@ -48,7 +49,7 @@ The chemistry is beautifully elegant. The iodide ion (I-) from the potassium iod
 
 7. **Clean up.** The foam is just oxygen, water, dish soap, and a trace of potassium iodide. It’s safe to wash down a drain or hose off grass. The foam dissipates on its own within 30 minutes as the bubbles pop.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Concentrated hydrogen peroxide (12-30%) is a strong oxidizer that will bleach skin and clothing on contact and can cause chemical burns. Always wear nitrile gloves and safety goggles when handling it. If it contacts skin, flush immediately with large amounts of water.
 - Do not inhale the steam from the reaction. While the products are non-toxic (water, oxygen, soap), the steam from high-concentration peroxide can irritate airways. Stand upwind.
@@ -56,7 +57,7 @@ The chemistry is beautifully elegant. The iodide ion (I-) from the potassium iod
 - Store concentrated hydrogen peroxide in its original container, away from heat and organic materials. It’s a powerful oxidizer — spills on clothing, paper, or wood can eventually cause spontaneous ignition as the material is slowly oxidized.
 - The 3% pharmacy-grade peroxide is safe for anyone. If working with kids, stick to 3% and use yeast as the catalyst for a gentler, safer version that still produces an impressive foam tower.
 
-## See Also
+## 🔗 See Also
 
 - [Vinegar Baking Soda Rocket](281-vinegar-baking-soda-rocket.md)
 - [Sugar Smoke Bombs](327-sugar-smoke-bombs.md)
