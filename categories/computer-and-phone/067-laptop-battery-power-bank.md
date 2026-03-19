@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 When a laptop battery "dies," usually only 1-2 of the 6-9 cells inside have failed. The rest are perfectly good 18650 lithium-ion cells — the same cells Tesla uses in their cars, and the same cells sold individually for $3-5 each. Crack open the battery pack, test each cell, keep the good ones, and wire them to a Battery Management System (BMS) board with a USB boost converter. You get a massive power bank — often 15,000-25,000+ mAh — for about $5 in parts. Commercial power banks with the same capacity cost $25-40.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Dead laptop battery pack — from any laptop *(e-waste bin, junk drawer)*
 - [ ] BMS board (3S or 4S lithium battery management system) — handles charging and protection *(~$3, electronics supplier)*
@@ -27,7 +26,9 @@ When a laptop battery "dies," usually only 1-2 of the 6-9 cells inside have fail
 - [ ] Small enclosure — 3D printed, old plastic box, or wrapped in heat shrink *(junk drawer)*
 - [ ] Pry tools — plastic spudger, flathead screwdriver *(workshop)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Crack open the battery pack.** Laptop battery packs are sealed with clips, glue, or ultrasonic welds. Use a plastic spudger or flathead screwdriver to pry along the seam. Work slowly — you don't want to puncture any cells. Some packs require a vice and chisel for the ultrasonic welds.
 2. **Identify the cells.** Inside you'll find 4-9 cylindrical 18650 cells (or sometimes pouch cells in ultrabooks). They're connected in series and parallel with nickel strips spot-welded to the terminals.
@@ -40,13 +41,13 @@ When a laptop battery "dies," usually only 1-2 of the 6-9 cells inside have fail
 9. **Test the complete bank.** Charge the bank fully via the input port. Test USB output with a phone — it should charge normally. Verify the BMS cuts off charging at full and prevents over-discharge.
 10. **Build the enclosure.** Wrap the pack in heat shrink tubing or mount in a small plastic box. Ensure the USB ports are accessible. Label the capacity and voltage.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Lithium-ion cells can catch fire or explode if punctured, short-circuited, or overheated. Never use metal tools near cell terminals. Work on a non-flammable surface. Keep a fire extinguisher or sand nearby. NEVER skip the BMS — it's your safety net against overcharge and short circuits.
 - Cells below 2.0V may have internal damage and could be unstable when charged. Discard them at a battery recycling point — do not attempt to revive deeply discharged cells.
 - When soldering to cell terminals, work fast (under 3 seconds per joint). Prolonged heat can damage internal cell components and create an internal short circuit.
 
-## See Also
+## 🔗 See Also
 
 - [Phone Sensor Network](064-phone-sensor-network.md)
 - [RAM Stick Ruler](068-ram-stick-ruler.md)

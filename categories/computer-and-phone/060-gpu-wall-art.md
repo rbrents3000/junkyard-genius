@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Graphics cards are some of the most visually striking pieces of engineering ever mass-produced. The PCBs are covered in intricate traces, banks of memory chips, massive voltage regulators, and complex cooling solutions. Mount 6-12 dead GPUs on a backing board with LED strip backlighting, and you've got an industrial art piece that's part sculpture, part museum exhibit. Title it "Proof of Work" (a crypto joke that also describes the engineering effort visible in every board). Dead mining GPUs are particularly poetic for this. The LEDs cast the circuit board traces in sharp relief and make the whole thing glow.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 6-12 dead graphics cards — mix generations and brands for visual variety *(e-waste bin, dead mining rigs, thrift stores)*
 - [ ] Backing board — plywood, MDF, or black acrylic panel, sized to fit your layout *(hardware store)*
@@ -26,7 +25,9 @@ Graphics cards are some of the most visually striking pieces of engineering ever
 - [ ] Picture frame wire or French cleat — for wall hanging *(hardware store)*
 - [ ] Optional: small nameplate or label maker — for the title *(craft store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Collect and sort GPUs.** Gather dead graphics cards from e-waste, old gaming PCs, or dead crypto mining rigs. Remove heatsinks and fans to expose the bare PCBs — the raw board is the art. Keep a few with coolers attached for visual contrast if you prefer.
 2. **Design the layout.** Arrange the cards on your backing board. Try different configurations — grid pattern, staggered rows, a radiating pattern from center. Mix card sizes (single-slot, dual-slot) for visual rhythm. Mark mounting positions with pencil.
@@ -38,12 +39,12 @@ Graphics cards are some of the most visually striking pieces of engineering ever
 8. **Add the title.** Create a small nameplate or label reading "Proof of Work" and mount it below the piece. Use a label maker, engraved metal plate, or hand-lettered card — whatever fits your aesthetic.
 9. **Mount on the wall.** Attach a French cleat or heavy-duty picture wire to the back. GPUs are heavy — use appropriate wall anchors. Ensure the piece hangs level.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Dead GPUs may still have charged capacitors on the board. Before handling, short across any large capacitors with an insulated screwdriver or let the cards sit unpowered for 24+ hours.
 - Older graphics cards may contain lead solder. Wash hands after handling, and avoid sanding or cutting PCBs without a dust mask.
 
-## See Also
+## 🔗 See Also
 
 - [CPU Resin Jewelry](059-cpu-resin-jewelry.md)
 - [Laptop Screen Monitor](061-laptop-screen-monitor.md)

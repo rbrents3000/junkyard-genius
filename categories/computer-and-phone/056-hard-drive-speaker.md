@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A hard drive's read/write head moves using a voice coil actuator — the exact same technology inside every speaker on the planet. A coil of wire sits in a magnetic field, and when current flows through it, the coil moves. In a speaker, that moves a cone. In a hard drive, it moves the arm. Feed an amplified audio signal into the voice coil, and the arm vibrates. The platter acts as a sounding board, and the whole drive plays music. The sound is tinny and lo-fi, but unmistakably music coming from a hard drive. It's deeply weird and deeply satisfying.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Dead hard drive — 3.5" desktop drives work best, louder than 2.5" laptop drives *(e-waste bin, old PC)*
 - [ ] Small audio amplifier module — PAM8403 or similar, $2 *(electronics supplier)*
@@ -26,7 +25,9 @@ A hard drive's read/write head moves using a voice coil actuator — the exact s
 - [ ] Soldering iron + solder *(workshop)*
 - [ ] Audio source — phone, laptop, MP3 player *(already own)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Open the hard drive.** Remove all visible Torx screws from the top cover, including any hidden under labels. Pry the cover off carefully. There's often a hidden screw under the center label — check for it.
 2. **Identify the voice coil.** The read/write arm pivots on a bearing near the back of the drive. At the base of the arm, you'll see a flat coil of wire sitting between two powerful neodymium magnets. This is the voice coil actuator.
@@ -39,13 +40,13 @@ A hard drive's read/write head moves using a voice coil actuator — the exact s
 9. **Tune the sound.** Try placing the drive on different surfaces — wood desks amplify bass, metal surfaces add brightness. You can also try removing or adding platters to change the resonance.
 10. **Optional: leave the drive spinning.** If the drive's motor still works, you can power the spindle motor separately. A spinning platter creates a different acoustic character and looks spectacular while playing.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The neodymium magnets inside hard drives are extremely strong. They can pinch skin hard enough to draw blood and will shatter if they snap together. Handle with care and keep away from credit cards, phones, and pacemakers.
 - Keep volume moderate. Overdriving the voice coil with too much current can overheat the coil or demagnetize the magnets. If the arm stops moving, you've pushed too hard.
 - Torx screws sometimes strip. Use the correct size (T8 for most drives) and press firmly while turning.
 
-## See Also
+## 🔗 See Also
 
 - [HDD Platter Wind Chimes](058-hdd-platter-wind-chimes.md)
 - [Hard Drive POV Clock](057-hard-drive-pov-clock.md)

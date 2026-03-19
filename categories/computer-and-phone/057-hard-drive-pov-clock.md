@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Hard drive platters spin at exactly 7200 RPM (or 5400 on some drives) — incredibly consistent, motor-controlled precision. That means each revolution takes exactly 8.33 milliseconds. Mount an LED on the read/write arm or on a bracket above the platter, use the drive's index pulse (one signal per revolution) to synchronize strobing, and persistence of vision does the rest. By flashing the LED at precise microsecond intervals during each revolution, you can draw clock hands, numbers, or any pattern that appears to float on the spinning platter. The result is a clock where the display literally doesn't exist — it's just light and timing.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Dead hard drive with working spindle motor — 3.5" 7200 RPM preferred *(e-waste bin)*
 - [ ] Arduino Nano or similar microcontroller *(~$5, electronics supplier)*
@@ -29,7 +28,9 @@ Hard drive platters spin at exactly 7200 RPM (or 5400 on some drives) — incred
 - [ ] Torx T8 screwdriver *(hardware store)*
 - [ ] RTC module (DS3231) — for accurate timekeeping *(~$2, electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Open the hard drive** and remove the top cover. Keep the spindle motor and platters intact — you need the motor to spin. Remove the read/write arm assembly (heads, arm, voice coil) to make space.
 2. **Test the spindle motor.** HDD motors are 3-phase brushless DC motors. You can spin them using an ESC (electronic speed controller) from the RC hobby world, or use a dedicated HDD motor driver. Connect 12V through the ESC and confirm the platter spins up smoothly.
@@ -42,13 +43,13 @@ Hard drive platters spin at exactly 7200 RPM (or 5400 on some drives) — incred
 9. **Calibrate and fine-tune.** The display may appear to drift or wobble if timing is slightly off. Adjust the segment timing until the display is stable. Temperature changes can slightly affect motor speed, so recalibrate the period every few revolutions using the index pulse.
 10. **Build an enclosure.** The open spinning platter is mesmerizing but exposed. Consider a clear acrylic cover for dust protection while keeping full visibility. Add a dark background behind the platter to improve contrast.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The platter spins at 7200 RPM. Never touch it while spinning — it will cut skin or catch loose clothing/hair. Keep fingers, cables, and tools clear.
 - Hard drive magnets are brutally strong. When removing the voice coil assembly, they can snap together and crush fingertips. Pry them apart carefully with a flathead screwdriver.
 - The LED strobe effect can trigger photosensitive epilepsy in susceptible individuals. Do not stare directly at the strobing display for extended periods.
 
-## See Also
+## 🔗 See Also
 
 - [Hard Drive Speaker](056-hard-drive-speaker.md)
 - [HDD Platter Wind Chimes](058-hdd-platter-wind-chimes.md)

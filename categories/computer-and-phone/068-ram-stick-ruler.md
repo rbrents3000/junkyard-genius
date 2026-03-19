@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 This is the simplest build in the entire book, and it's also the most satisfying in a "why didn't I think of this" way. Desktop DDR RAM sticks are precision-manufactured fiberglass PCBs with perfectly straight edges, consistent width, and exact length. A standard DIMM is 133.35mm long — mark millimeter lines along the edge and you have a ruler that's straighter than most cheap rulers from the store. The gold-plated contact fingers along the bottom edge look incredible, and the rows of memory chips give it a cyberpunk aesthetic that no office supply store can match. It's genuinely useful and it's a conversation piece.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Dead DDR RAM stick — desktop DIMM preferred for length, laptop SO-DIMM works for a shorter ruler *(e-waste bin, dead PCs)*
 - [ ] Fine-point permanent marker or paint pen — for marking measurements *(office supply store)*
@@ -24,7 +23,9 @@ This is the simplest build in the entire book, and it's also the most satisfying
 - [ ] Optional: clear coat spray — to protect your markings *(hardware store)*
 - [ ] Optional: small file — to smooth any rough edges on the PCB *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Select your RAM stick.** Desktop DIMMs (DDR2, DDR3, DDR4) are all the same length: 133.35mm. Pick one with a visually interesting layout — green PCBs with black chips are classic, but black PCBs with gold heatspreaders look premium.
 2. **Clean the stick.** Wipe down with isopropyl alcohol to remove dust, fingerprints, and any residue. Let it dry completely.
@@ -34,12 +35,12 @@ This is the simplest build in the entire book, and it's also the most satisfying
 6. **Seal the markings.** Spray a thin coat of clear lacquer over the marked edge to prevent the marker from rubbing off with use. Let it dry fully before handling.
 7. **Use it.** Keep it on your desk, in your pencil cup, or in your workshop. It draws straight lines, measures small objects, and sparks conversations. It's also an excellent letter opener.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Older RAM sticks may contain lead solder. Wash hands after handling, especially before eating. This is a low-risk concern for occasional use but worth noting.
 - PCB edges can have microscopic fiberglass splinters. If an edge feels rough, file it smooth before using the stick regularly.
 
-## See Also
+## 🔗 See Also
 
 - [CPU Resin Jewelry](059-cpu-resin-jewelry.md)
 - [GPU Wall Art](060-gpu-wall-art.md)

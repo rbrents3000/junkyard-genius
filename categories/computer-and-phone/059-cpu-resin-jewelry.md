@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 CPUs, RAM sticks, and IC chips contain some of the most intricate patterns humans have ever created — billions of transistors laid out in fractal-like geometries on silicon dies. The gold-plated pins, the ceramic substrates, the tiny surface-mount components — all of it looks incredible when embedded in crystal-clear epoxy resin. Make keychains, pendants, coasters, paperweights, or earrings. The die patterns are genuinely beautiful at macro scale, and every piece is unique because every chip has a different layout. It's wearable industrial art that starts conversations every time.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Dead CPUs — variety of sizes and eras for different looks *(e-waste bin, old PCs)*
 - [ ] RAM sticks — cut into smaller sections for pendants *(e-waste bin)*
@@ -28,7 +27,9 @@ CPUs, RAM sticks, and IC chips contain some of the most intricate patterns human
 - [ ] Fine sandpaper (400-2000 grit) + polishing compound *(hardware store)*
 - [ ] Mixing cups, stir sticks, gloves *(craft store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Harvest components.** Remove CPUs from motherboard sockets (lift the ZIF lever for modern CPUs, or gently pry older soldered ones). Pull RAM sticks. Desolder interesting-looking ICs from dead circuit boards with a heat gun.
 2. **Prepare the chips.** Clean all components with isopropyl alcohol to remove dust and thermal paste. For CPUs with heat spreaders, you can leave them on for the classic look, or carefully remove the IHS with a razor blade to expose the actual silicon die underneath — the die is the real showpiece.
@@ -41,13 +42,13 @@ CPUs, RAM sticks, and IC chips contain some of the most intricate patterns human
 9. **Demold and finish.** Pop the piece out of the mold. Sand any rough edges starting at 400 grit and working up to 2000 grit. Apply polishing compound for a glass-clear finish.
 10. **Add hardware.** Drill a small hole near the top for pendant bails or keychain rings. Attach appropriate jewelry hardware. For coasters, add felt pads to the bottom.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Epoxy resin is a skin sensitizer — once you develop an allergy, it's permanent. Always wear nitrile gloves and work in a ventilated area. Avoid skin contact with uncured resin.
 - Sanding cured resin produces fine dust. Wear a dust mask and sand wet when possible to keep particles down.
 - Some older CPUs and circuit boards contain lead solder. Wash hands after handling, and don't sand or grind components without a mask.
 
-## See Also
+## 🔗 See Also
 
 - [GPU Wall Art](060-gpu-wall-art.md)
 - [RAM Stick Ruler](068-ram-stick-ruler.md)

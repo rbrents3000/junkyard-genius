@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Old phones with OLED screens can display pure, vivid colors with perfect black backgrounds — each pixel is its own light source. Lay the phone flat, display a solid color or gradient, place water droplets on the screen, and shoot from above with a macro lens (or another phone with a macro mode). Each water droplet acts as a tiny lens, refracting the screen's colors into swirling, kaleidoscopic patterns. The results look like images from the Hubble telescope — abstract, colorful, and genuinely stunning. No Photoshop, no filters. Just physics. Change the displayed color and each droplet transforms instantly.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Old phone with OLED/AMOLED screen — cracked glass is fine as long as the display works *(junk drawer)*
 - [ ] Macro lens — clip-on phone macro lens ($5-10), or DSLR with macro lens *(camera store)*
@@ -26,7 +25,9 @@ Old phones with OLED screens can display pure, vivid colors with perfect black b
 - [ ] Tripod or phone mount — to keep the shooting camera steady *(already own or ~$10)*
 - [ ] Second phone or camera — to take the actual photos *(already own)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up the OLED phone.** Lay the old phone flat on a stable surface. Set screen brightness to maximum and disable auto-lock/sleep so the screen stays on continuously.
 2. **Display a background.** Open a solid color app or display a full-screen image. Start with vibrant gradients — rainbow, sunset, or nebula images work spectacularly. Solid colors (deep blue, magenta, green) also produce striking results.
@@ -37,12 +38,12 @@ Old phones with OLED screens can display pure, vivid colors with perfect black b
 7. **Adjust lighting.** Darken the room completely so the OLED screen is the only light source. This eliminates reflections and makes the droplet colors maximally vivid.
 8. **Post-process minimally.** These images usually need nothing more than a slight contrast boost. The raw captures are already surreal. Crop tight on individual droplets for the most impact.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Water on electronics: use an old phone you don't care about. Even water-resistant phones can be damaged by prolonged water contact. Place only small droplets and wipe dry after the session.
 - If using glycerin, it's non-toxic but slippery. Clean surfaces afterward to prevent slipping hazards.
 
-## See Also
+## 🔗 See Also
 
 - [Phone IR Camera](066-phone-ir-camera.md)
 - [Laptop Screen Light Table](062-laptop-screen-light-table.md)
