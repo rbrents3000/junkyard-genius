@@ -70,3 +70,8 @@ The controller is where the creativity lives. A basic setup uses a wireless door
 
 - [Motion-Activated Jump Scare](255-motion-jump-scare.md)
 - [Invisible Bluetooth Speaker](254-invisible-speaker.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

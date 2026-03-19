@@ -58,3 +58,7 @@ The size and speed of the ring depend on two variables: the hole diameter and th
 - [Invisible Bluetooth Speaker](254-invisible-speaker.md)
 - [Motion-Activated Jump Scare](255-motion-jump-scare.md)
 - [Propane Vortex Cannon](../fire-and-plasma/003-propane-vortex-cannon.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

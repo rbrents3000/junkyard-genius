@@ -64,3 +64,7 @@ This build combines the elegance of a stage magic prop with the accessibility of
 - [Invisible Bluetooth Speaker](254-invisible-speaker.md)
 - [Magnetic Levitating Display Stand](259-magnetic-levitating-display.md)
 - [Fake Security Camera That Roasts You](257-insult-camera.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

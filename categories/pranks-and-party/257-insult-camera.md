@@ -70,3 +70,8 @@ The first victim alerts everyone else in the house, and then every person has to
 - [Invisible Bluetooth Speaker](254-invisible-speaker.md)
 - [Self-Pouring Bottle](258-self-pouring-bottle.md)
 - [Motion-Activated Jump Scare](255-motion-jump-scare.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
