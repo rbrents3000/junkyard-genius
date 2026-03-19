@@ -147,7 +147,7 @@ Pick your comfort level and dive in.
 
 Find builds based on what you already have lying around. One person's e-waste is another person's electron microscope.
 
-<details>
+<details markdown="1">
 <summary><strong>Find builds by what you already have</strong> (click to expand)</summary>
 
 | You Have... | Start With |
@@ -181,7 +181,7 @@ Find builds based on what you already have lying around. One person's e-waste is
 
 ## Categories
 
-<details open>
+<details open markdown="1">
 <summary><strong>🔥 Fire, Plasma & Chemistry</strong> — 64 builds</summary>
 
 | | Category | Builds | Vibe |
@@ -194,7 +194,7 @@ Find builds based on what you already have lying around. One person's e-waste is
 
 </details>
 
-<details open>
+<details open markdown="1">
 <summary><strong>⚡ Electronics & Code</strong> — 45 builds</summary>
 
 | | Category | Builds | Vibe |
@@ -205,7 +205,7 @@ Find builds based on what you already have lying around. One person's e-waste is
 
 </details>
 
-<details open>
+<details open markdown="1">
 <summary><strong>💡 Light, Sound & Visual</strong> — 43 builds</summary>
 
 | | Category | Builds | Vibe |
@@ -217,7 +217,7 @@ Find builds based on what you already have lying around. One person's e-waste is
 
 </details>
 
-<details open>
+<details open markdown="1">
 <summary><strong>🔧 Machines & Mechanical</strong> — 53 builds</summary>
 
 | | Category | Builds | Vibe |
@@ -231,7 +231,7 @@ Find builds based on what you already have lying around. One person's e-waste is
 
 </details>
 
-<details open>
+<details open markdown="1">
 <summary><strong>♻️ Salvage by Appliance</strong> — 72 builds</summary>
 
 | | Category | Builds | Vibe |
@@ -248,7 +248,7 @@ Find builds based on what you already have lying around. One person's e-waste is
 
 </details>
 
-<details open>
+<details open markdown="1">
 <summary><strong>🎨 Art, Wearables & Fun</strong> — 50 builds</summary>
 
 | | Category | Builds | Vibe |
@@ -266,7 +266,7 @@ Find builds based on what you already have lying around. One person's e-waste is
 
 ## Reference & Safety
 
-<details>
+<details markdown="1">
 <summary><strong>📚 14 Reference Guides</strong> (click to expand)</summary>
 
 **Start here:**
@@ -291,7 +291,7 @@ Find builds based on what you already have lying around. One person's e-waste is
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>⚠️ Safety Docs — Read before your first build</strong></summary>
 
 We're not your mom, but she'd want you to read these. Especially anything above Spicy ⭐⭐.
@@ -303,7 +303,7 @@ We're not your mom, but she'd want you to read these. Especially anything above 
 
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong>💀 Most Dangerous Builds (Spicy ⭐⭐⭐⭐⭐)</strong> — can kill you if you're careless. Not in a funny way.</summary>
 
 Read the safety docs first. Respect the process. Tell someone where you are and what you're doing.
