@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 In 1851, Leon Foucault hung a 67-meter wire from the dome of the Pantheon in Paris, attached a 28-kilogram brass bob to the end, pulled it to one side, and let go. Over the following hours, the plane of the pendulum's swing slowly rotated — about 11 degrees per hour in Paris. The pendulum itself wasn't changing direction. The building was. The entire Earth was rotating underneath the swinging weight, and for the first time in history, you could sit in a chair and watch it happen in real time.
 
@@ -20,7 +18,8 @@ This is not an abstraction or an inference or a thought experiment. The pendulum
 
 The build itself is mechanically simple: a heavy weight, a long wire, and a sturdy mounting point. The physics is profound. Everything about this project is about minimizing interference — air currents, asymmetric mounting, wire flex — so the pendulum can do its thing unmolested. Get it right and you've built an instrument that detects the rotation of a planet. With hardware store supplies and patience.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Heavy pendulum bob — 10-25 lbs, symmetrical shape (lead fishing weight, steel ball, or brass plumb bob) *(source: fishing supply store, hardware store, or scrap metal — $5-20)*
 - [ ] Steel wire or piano wire, 15-30 feet long, 0.5-1mm diameter *(source: music store or hardware store — $5-10)*
@@ -34,7 +33,9 @@ The build itself is mechanically simple: a heavy weight, a long wire, and a stur
 - [ ] Optional: protractor or printed degree markings for the trace ring *(source: print your own)*
 - [ ] Optional: magnetic damping ring (copper pipe section) to suppress elliptical drift *(source: plumbing supply — $5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Find your mounting point.** This is the single most important decision. You need a high, rock-solid anchor point. Minimum 10 feet of clearance, ideally 15-30 feet. Higher = longer wire = longer swing period = less sensitivity to disturbances = better data. A cathedral ceiling, exposed roof beam, stairwell, barn rafter, tall tree branch, or second-story balcony overhang all work. The mount must not flex, sway, or vibrate. If the anchor moves even slightly, it feeds energy into the pendulum and corrupts the precession signal.
 
@@ -56,13 +57,14 @@ The build itself is mechanically simple: a heavy weight, a long wire, and a stur
 
 10. **Calculate and verify.** Measure the total precession angle and the elapsed time. Divide to get degrees per hour. Compare to the theoretical prediction: 15° × sin(latitude) per hour. At 40°N, that's 15 × 0.643 = 9.64°/hour. At 30°N, it's 7.5°/hour. At 51°N (London), it's 11.67°/hour. If your measurement is within 10-15% of the prediction, your pendulum is working correctly and you've just independently verified the rotation of the Earth with a rock on a string.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Overhead mounting must be bomb-proof.** A 10-25 lb bob swinging on a long wire exerts significant dynamic force on the mount point, well beyond its static weight. Use lag bolts into solid structural members — joists, beams, rafters. Never mount into drywall, plaster, or a suspended ceiling grid. If the mount fails, you've got a cannonball on a whip. Test the mount by hanging twice the bob's weight from it statically before swinging anything.
+> [!WARNING]
+> **Overhead mounting must be bomb-proof.** A 10-25 lb bob swinging on a long wire exerts significant dynamic force on the mount point, well beyond its static weight. Use lag bolts into solid structural members — joists, beams, rafters. Never mount into drywall, plaster, or a suspended ceiling grid. If the mount fails, you've got a cannonball on a whip. Test the mount by hanging twice the bob's weight from it statically before swinging anything.
 - **Swinging weight hazard.** A 15-lb bob swinging on a 20-foot wire covers a lot of ground. Clear the swing radius of furniture, pets, children, and anything breakable. Mark the swing zone on the floor with tape. The bob has real momentum and will not stop for a shin or a vase.
 - **Wire tension.** Piano wire under tension can snap and whip. Inspect the wire for kinks, corrosion, or fatigue marks before each run. Use wire rated well above the bob's weight. Stand to the side when releasing the pendulum, not in the swing plane. Wear eye protection during setup and release.
 
-## See Also
+## 🔗 See Also
 
 - [Van de Graaff Generator](197-van-de-graaff-generator.md) — another build that makes an invisible force tangibly, dramatically real
 - [Homopolar Motor](198-homopolar-motor.md) — rotational physics in a form you can hold in your hand

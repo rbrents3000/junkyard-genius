@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Lenz's Law states that an induced current flows in a direction that opposes the change that caused it. When a strong neodymium magnet falls through a copper pipe, its changing magnetic flux induces eddy currents in the copper. Those currents create their own magnetic field that pushes back against the falling magnet, slowing it to a fraction of its normal free-fall speed. The magnet floats down the pipe like it's moving through honey.
 
 This is the same physics as the Eddy Current Brake (#186), but explored as a standalone weird science demo with deeper experiments. The magnet never touches the pipe. There's no friction. Copper isn't magnetic. Yet gravity seems to have been dialed down to near zero. It's the kind of thing that makes people question reality until you explain the physics — and then it's even cooler.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Neodymium cylinder or disc magnets, sized to fit inside the pipe with 2-3mm clearance *(source: Amazon or hard drive magnets — $5-10)*
 - [ ] Thick-walled copper pipe, 3-4 feet long, 3/4" or 1" inner diameter *(source: plumbing supply, scrap yard — $10-25)*
@@ -30,7 +29,9 @@ This is the same physics as the Eddy Current Brake (#186), but explored as a sta
 - [ ] Thermometer or IR temperature gun (for temperature experiments) *(source: kitchen or hardware store)*
 - [ ] Stand or clamp to hold pipes vertically *(source: lab stand or build from scrap wood)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up the comparison pipes.** Mount three or four pipes vertically side by side on a wooden stand or clamp: thick copper, thin copper (if available), aluminum, and PVC. All should be the same length. This side-by-side comparison is the best possible demonstration — drop the same magnet through each and the difference is jaw-dropping.
 
@@ -48,12 +49,13 @@ This is the same physics as the Eddy Current Brake (#186), but explored as a sta
 
 8. **Build a presentation stand.** For science fair or demo purposes, build a polished stand that holds all the comparison pipes with clear labels. Add a printed card explaining Lenz's Law, Faraday's Law, and eddy currents. Include a magnifying glass so viewers can confirm the magnet never touches the pipe walls.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Strong neodymium magnets are a pinch hazard.** Two magnets snapping together, or a magnet snapping to a steel surface, can crush skin, bruise fingers, and crack the magnet itself (sending sharp fragments flying). Handle one magnet at a time and keep extras in separate containers.
+> [!WARNING]
+> **Strong neodymium magnets are a pinch hazard.** Two magnets snapping together, or a magnet snapping to a steel surface, can crush skin, bruise fingers, and crack the magnet itself (sending sharp fragments flying). Handle one magnet at a time and keep extras in separate containers.
 - **Keep magnets away from electronics.** Neodymium magnets can wipe magnetic storage media, damage screens, and interfere with pacemakers. Maintain a 3-foot buffer from laptops, phones, credit cards, and anyone with medical implants.
 
-## See Also
+## 🔗 See Also
 
 - [Eddy Current Brake](../mechanical-and-kinetic/186-eddy-current-brake.md) — the same physics in the Mechanical & Kinetic category
 - [Homopolar Motor](198-homopolar-motor.md) — another demonstration of the intimate relationship between current and magnetic fields

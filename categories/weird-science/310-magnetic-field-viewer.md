@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Magnetic field lines are one of the most fundamental things in physics, and you can't see them. Every textbook draws them as neat curves arcing from north to south, but those diagrams are abstractions — nobody has ever looked at a magnetic field with their eyes. Iron filings on paper get you a flat, static snapshot. Ferrofluid gets you the real thing: a three-dimensional, dynamic, visceral display of magnetic force that responds to every movement in real time.
 
@@ -20,7 +18,8 @@ Ferrofluid is a colloidal suspension of nanoscale magnetite (Fe3O4) particles in
 
 Seal ferrofluid in a flat, transparent chamber and you've got a permanent, mess-free magnetic field visualizer. Slide a magnet underneath and the field appears as a living pattern of spikes and valleys. Move the magnet and the pattern follows. Bring two magnets close and watch the fields merge, repel, or twist around each other. It's a physics instrument and a desk toy and a conversation starter, all built in under an hour.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Ferrofluid, 50-100ml *(source: Amazon or educational science supplier — $10-15 for a bottle)*
 - [ ] Two sheets of glass or clear acrylic, roughly 6x6 inches *(source: picture frame glass or hardware store — $3-5)*
@@ -32,7 +31,9 @@ Seal ferrofluid in a flat, transparent chamber and you've got a permanent, mess-
 - [ ] Optional: white acrylic sheet for a backlight-friendly background *(source: hardware store)*
 - [ ] Optional: LED strip for backlighting *(source: Amazon — $5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the glass.** Clean both glass sheets thoroughly with isopropyl alcohol and a lint-free cloth. Any dust, fingerprints, or smudges will be sealed inside forever and visible against the dark ferrofluid. Work in a clean area. Handle by the edges only. Clean them again — you missed a spot.
 
@@ -56,13 +57,14 @@ Seal ferrofluid in a flat, transparent chamber and you've got a permanent, mess-
 
 11. **Build a display stand.** Mount the sealed viewer at a slight angle on a wooden or acrylic stand. Attach a magnet to a handle or wand that viewers can wave underneath. Label the different magnets by type. This makes an excellent interactive science fair display — people will play with it for twenty minutes straight and still not get bored.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Ferrofluid stains permanently.** It's magnetite nanoparticles in oil. It will stain skin (temporary), clothing (permanent), wood (permanent), and countertops (permanent). Work over disposable coverings. Wear gloves and old clothes during assembly. Keep paper towels within reach. If it gets on something valuable, you're too late.
+> [!WARNING]
+> **Ferrofluid stains permanently.** It's magnetite nanoparticles in oil. It will stain skin (temporary), clothing (permanent), wood (permanent), and countertops (permanent). Work over disposable coverings. Wear gloves and old clothes during assembly. Keep paper towels within reach. If it gets on something valuable, you're too late.
 - **Neodymium magnet safety.** Large neodymium magnets (N52 grade especially) snap together with enough force to break fingers. They shatter on impact, sending sharp fragments flying. Handle one at a time, store them in separate padded containers, and keep them away from anyone with pacemakers or other implanted medical devices.
 - **Glass breakage.** If using real glass (not acrylic), the viewer can shatter if dropped, releasing ferrofluid onto whatever surface it hits. Acrylic is safer but scratches more easily. If you build with glass, consider wrapping the edges with a bumper of rubber or silicone tubing.
 
-## See Also
+## 🔗 See Also
 
 - [Homopolar Motor](198-homopolar-motor.md) — magnetic fields put to work spinning copper wire
 - [Lenz's Law Slow-Mo Magnet](199-lenzs-law-slow-mo-magnet.md) — invisible magnetic fields made visible through their braking force on falling magnets

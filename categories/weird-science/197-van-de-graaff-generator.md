@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A Van de Graaff generator is an electrostatic machine that accumulates charge on a hollow metal sphere (or in our case, a salad bowl) by transporting it on a moving belt. A motor spins a rubber belt inside a PVC column. At the bottom, a comb-like electrode strips electrons from the belt. At the top, another comb collects the charge and transfers it to the metal dome. Charge builds up until the dome reaches tens or hundreds of thousands of volts — enough to make your hair stand on end, throw sparks several inches, and attract or repel lightweight objects.
 
 Robert Van de Graaff built the first one in 1929 for nuclear physics research. The junkyard version uses the same principles and can hit 50,000-100,000 volts depending on dome size and humidity. The voltage sounds scary, but the current is negligible — the worst you'll get is a zappy static shock, like touching a doorknob in winter, just bigger and more theatrical.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] PVC pipe, 3-4 inch diameter, 18-24 inches long, for the column *(source: hardware store — ~$5)*
 - [ ] Aluminum salad bowl or large mixing bowl for the dome *(source: thrift store — ~$3)*
@@ -31,7 +30,9 @@ Robert Van de Graaff built the first one in 1929 for nuclear physics research. T
 - [ ] 9V battery or small power supply for the motor *(source: junk drawer)*
 - [ ] Hot glue, tape, and assorted hardware *(source: craft store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the column.** The PVC pipe is the main support and belt housing. It needs to be tall enough to separate the top and bottom rollers by at least 12 inches. Clean the inside and outside with rubbing alcohol — any grease will leak charge.
 
@@ -53,13 +54,14 @@ Robert Van de Graaff built the first one in 1929 for nuclear physics research. T
 
 10. **Spark experiments.** Bring a grounded metal sphere (doorknob on a wire) near the dome to draw longer, more dramatic sparks. Try placing the generator near a fluorescent tube — the tube may light up from the electric field alone. Stack aluminum pie tins on the dome and watch them fly off one by one as charge repels them.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Pacemakers and electronic implants.** Anyone with a pacemaker or similar device should stay well away from the generator. The electric field can interfere with medical electronics.
+> [!WARNING]
+> **Pacemakers and electronic implants.** Anyone with a pacemaker or similar device should stay well away from the generator. The electric field can interfere with medical electronics.
 - **Electronic devices.** The sparks from a Van de Graaff can damage sensitive electronics. Keep phones, laptops, and other devices several feet away during operation. Don't touch the dome and then touch your computer.
 - **Static shock.** While not dangerous to healthy individuals, the sparks are startling and mildly painful. Warn spectators before demonstrations. People with heart conditions should not participate in the hair-raising demo.
 
-## See Also
+## 🔗 See Also
 
 - [Kirlian Photography](196-kirlian-photography.md) — another high-voltage electrostatics project with visual results
 - [Homopolar Motor](198-homopolar-motor.md) — electromagnetism at the other extreme — low voltage, high current

@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A scanning electron microscope (SEM) fires a focused beam of electrons at a sample and detects the secondary electrons that bounce back to build an image. The wavelength of electrons is thousands of times shorter than visible light, which means electron microscopes can resolve details that are physically impossible for any optical microscope to see — individual cells, crystal grain boundaries, insect compound eye facets, pollen grain surfaces.
 
 Building one from scratch is the hardest project in this entire collection. You need a vacuum chamber, an electron source (salvaged from a CRT), electromagnetic lenses to focus the beam, scanning coils to raster the beam across the sample, a secondary electron detector, and software to reconstruct the image. It has been done by determined hobbyists, and the images they produce rival $100,000 commercial instruments at low magnification. This is the Mount Everest of junkyard builds.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] CRT (cathode ray tube) from a dead TV or oscilloscope — the electron gun assembly *(source: old TV or oscilloscope — free from electronics recycler)*
 - [ ] Vacuum pump, capable of reaching at least 10^-3 torr (rotary vane pump minimum, turbomolecular pump ideal) *(source: surplus scientific equipment, eBay — $50-200)*
@@ -33,7 +32,9 @@ Building one from scratch is the hardest project in this entire collection. You 
 - [ ] DAC (digital-to-analog converter) for scan coil drive *(source: electronics store — ~$10)*
 - [ ] Sample stubs and conductive carbon tape *(source: eBay or microscopy supplier — ~$10)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage the electron gun.** Carefully remove the neck of a CRT tube. The electron gun is the assembly in the narrow neck — it contains a heated cathode (electron source), a Wehnelt cylinder (beam control), and accelerating anodes. This is your beam source. Handle CRTs with extreme care — they are under vacuum and can implode violently. Score the neck with a glass cutter and break it in a controlled way, or use a diamond wheel.
 
@@ -55,13 +56,14 @@ Building one from scratch is the hardest project in this entire collection. You 
 
 10. **Optimize and image.** Once you have a basic image, spend time optimizing: adjust accelerating voltage (higher = better resolution but more sample damage), fine-tune lens currents for sharpest focus, slow down the scan rate for cleaner images. Try biological samples coated with a thin layer of gold or carbon (sputter coating) for best results. When you see the hexagonal facets of a fly's eye or the surface of a pollen grain, you've officially done something extraordinary.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **CRT implosion.** CRT tubes are under hard vacuum and can implode with violent force, sending glass shrapnel in all directions. Always wear a full face shield and heavy gloves when cutting or breaking CRT glass. Work in a contained area. Never strike or drop a CRT.
+> [!CAUTION]
+> **CRT implosion.** CRT tubes are under hard vacuum and can implode with violent force, sending glass shrapnel in all directions. Always wear a full face shield and heavy gloves when cutting or breaking CRT glass. Work in a contained area. Never strike or drop a CRT.
 - **High voltage.** The electron gun operates at 1-15kV. The flyback transformer can produce 30kV. These voltages are lethal. Never reach into the chamber or touch any electrical connection while the system is powered. Use a discharge stick on all capacitors before servicing. Work with one hand (keep the other in your pocket) to prevent current paths across your chest.
 - **X-ray emission.** Accelerated electrons striking a metal target produce X-rays. At voltages above 5kV, X-ray production becomes significant. The metal vacuum chamber provides shielding, but verify with a dosimeter if possible. Never operate the electron gun outside of a shielded enclosure. Limit exposure time during testing.
 
-## See Also
+## 🔗 See Also
 
 - [Kirlian Photography](196-kirlian-photography.md) — another project that reveals invisible electromagnetic phenomena visually
 - [Van de Graaff Generator](197-van-de-graaff-generator.md) — high-voltage electrostatics on a more accessible scale
