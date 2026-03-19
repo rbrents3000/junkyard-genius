@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 When a massive pulse of current flows through a coil, it creates a rapidly expanding magnetic field. If an aluminum can sits inside that coil, the changing field induces eddy currents in the can's walls. Those eddy currents generate their own magnetic field, which opposes the coil's field. The result: the can wall is squeezed inward by magnetic pressure. With enough current flowing fast enough, the can collapses to a fraction of its diameter in a few milliseconds — often with a satisfying bang like a gunshot.
 
 This is the same principle behind electromagnetic forming used in aerospace manufacturing. You're just doing it with a capacitor bank made from salvaged microwave capacitors and a coil wound from heavy copper wire. The can never touches anything. It's crushed by an invisible magnetic force. It's one of the most dramatic demonstrations of electromagnetism you can build.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Capacitor bank — 6-12 microwave oven capacitors (~1µF at 2100V each) wired in parallel *(dead microwaves, e-waste)*
 - [ ] Heavy copper wire — 8-10 AWG solid or stranded, ~15 feet for the crushing coil *(electrical supplier)*
@@ -32,7 +31,9 @@ This is the same principle behind electromagnetic forming used in aerospace manu
 - [ ] Insulated enclosure for the capacitor bank *(plywood box)*
 - [ ] Safety shield — polycarbonate or plexiglass sheet *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the capacitor bank.** Wire 6-12 microwave capacitors in parallel — positive to positive, negative to negative. Mount them securely in a plywood or plastic enclosure. Label polarity clearly. Install bleed resistors across the bank. Install a voltmeter across the terminals.
 2. **Build the charging circuit.** A variac feeding a bridge rectifier provides adjustable DC voltage. Include a current-limiting resistor (50-100 ohm, high-wattage) in series to prevent inrush damage. Charge slowly — monitor the voltage and stop at your target (typically 1500-2000V).
@@ -43,13 +44,13 @@ This is the same principle behind electromagnetic forming used in aerospace manu
 7. **Tune for maximum crush.** Higher voltage = more energy = harder crush. More capacitance = more energy at the same voltage. Tighter coil turns = more uniform field. A well-built system at 2000V with 10µF of capacitance will crush a can to about 1/3 its original diameter. The bang is loud.
 8. **Document everything.** Slow-motion video of the crush is spectacular. The can collapses faster than the eye can follow at full power. A phone camera at 240fps captures the deformation beautifully.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - This is a high-energy capacitor bank at lethal voltage. Everything in the safety notes for the Capacitor Discharge Welder applies here, multiplied. The energy levels here are higher. Treat the charged bank as a lethal hazard at all times. Verify discharge before touching anything. Bleed resistors must be installed and functional.
 - The discharge produces an extremely loud bang at high energy levels — comparable to a gunshot. Hearing protection is required. The electromagnetic pulse can also damage nearby electronics — keep phones, computers, and credit cards well away from the coil.
 - Aluminum fragments can be ejected if the can tears instead of crushing cleanly. Always operate behind a polycarbonate shield. Never put your hands inside or near the coil when the bank is charged.
 
-## See Also
+## 🔗 See Also
 
 - [Rail Gun](036-rail-gun.md)
 - [Coil Gun](037-coil-gun.md)

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A mass spectrometer separates atoms or molecules by their mass-to-charge ratio. The basic principle: ionize a sample (strip electrons from atoms to give them a charge), accelerate the ions through an electric field, then bend their path with a magnetic field. Lighter ions curve more, heavier ions curve less. A detector at different positions identifies which masses are present. It's how scientists identify unknown substances, detect isotopes, and verify the composition of materials.
 
@@ -20,7 +18,8 @@ Building one at home requires a vacuum (ions need a clear path without air molec
 
 This is the most intellectually demanding build in the book. But the payoff is insane — you're doing real analytical chemistry with salvaged parts.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Vacuum chamber — from build #039 or similar, capable of reaching <1 Torr *(see [Vacuum Chamber](039-vacuum-chamber.md))*
 - [ ] CRT electron gun assembly — provides hot filament and accelerating electrodes *(dead CRT TV)*
@@ -33,7 +32,9 @@ This is the most intellectually demanding build in the book. But the payoff is i
 - [ ] Adjustable mounting hardware — to position the detector at different angles/positions *(hardware store)*
 - [ ] Insulating standoffs — ceramic or PTFE *(hardware store, lab supply)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up the vacuum system.** You need a vacuum chamber that can reach at least moderate vacuum (below 1 Torr, ideally below 0.1 Torr). The fridge compressor vacuum pump from build #039 may not go deep enough alone — consider adding a second stage or using a rotary vane pump from salvage (old HVAC equipment).
 2. **Prepare the ionization source.** The simplest method: a hot tungsten filament (from an incandescent bulb) heated by passing current through it. Electrons boil off the filament (thermionic emission). Place the sample material near the filament — the hot electrons bombard the sample atoms and knock electrons loose, creating positive ions. Alternatively, use the electron gun assembly from a CRT, which already has a filament, grid, and accelerating anode.
@@ -45,13 +46,13 @@ This is the most intellectually demanding build in the book. But the payoff is i
 8. **Calibrate with known samples.** Start with a known element — copper wire heated on the filament, for instance. The mass spectrum of copper should show peaks at mass 63 and 65 (the two natural isotopes). If you can distinguish these two peaks, your spectrometer has useful resolution.
 9. **Analyze unknowns.** Once calibrated, introduce unknown metal samples. The mass spectrum identifies the elements present by their atomic masses. Even crude resolution can distinguish iron (56) from copper (63) from zinc (65) from lead (207).
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The high-voltage power supply is a serious electrical hazard. All HV connections must be inside the sealed vacuum chamber or properly insulated. Never open the chamber while the HV is energized. Include interlocks that cut HV when the chamber is vented.
 - Heating unknown materials can release toxic fumes. Even inside a vacuum chamber, the material may outgas when you vent. Vent the chamber outdoors or into a fume hood. Do not vaporize lead, mercury, cadmium, or other toxic metals without proper containment.
 - The vacuum chamber is under mechanical stress (atmospheric pressure pushing inward). All the safety notes from build #039 apply.
 
-## See Also
+## 🔗 See Also
 
 - [Vacuum Chamber](039-vacuum-chamber.md)
 - [Cloud Chamber](041-cloud-chamber.md)

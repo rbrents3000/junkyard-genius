@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A coil gun (also called a Gauss gun) uses a solenoid electromagnet to accelerate a ferromagnetic projectile (typically a steel or iron slug) down a barrel. When current flows through the coil, it creates a strong magnetic field that pulls the slug toward the coil's center. The trick is timing — you have to cut the current just as the projectile reaches the center. If you leave it on, the same magnetic field that pulled the projectile in will now pull it back, decelerating it. Time it right and the projectile exits the coil at speed.
 
@@ -20,7 +18,8 @@ Multi-stage coil guns use several coils in sequence, each one firing as the proj
 
 Compared to a rail gun, a coil gun is cleaner (no rail erosion), quieter (no plasma flash), and easier on components. It's also more mechanically elegant — the projectile doesn't touch the barrel.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Capacitor bank — camera flash capacitors (330µF, 300-400V) or microwave caps *(disposable cameras, e-waste)*
 - [ ] Barrel — non-magnetic tube (brass, aluminum, or plastic), inner diameter matched to the projectile *(hardware store, hobby shop)*
@@ -34,7 +33,9 @@ Compared to a rail gun, a coil gun is cleaner (no rail erosion), quieter (no pla
 - [ ] Freewheeling diodes — across each coil to absorb inductive kickback *(electronics supplier)*
 - [ ] Insulated project enclosure *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Wind the coils.** Wrap 50-100 turns of magnet wire tightly around the barrel to form a solenoid coil. For a single-stage gun, one coil is all you need. For multi-stage, wind 3-5 identical coils spaced along the barrel. Each coil should be slightly longer than the projectile. Secure windings with epoxy or varnish.
 2. **Build the capacitor bank.** For camera flash caps: wire multiple 330µF capacitors in parallel per stage. Each stage gets its own capacitor bank. Install bleed resistors across each bank. For microwave caps: use one per stage — they store more energy but at higher voltage, requiring more careful handling.
@@ -45,13 +46,13 @@ Compared to a rail gun, a coil gun is cleaner (no rail erosion), quieter (no pla
 7. **Load and fire.** Drop a projectile into the breech end of the barrel. Charge all stages. The projectile should be positioned just behind the first coil. Fire the first stage (manually for single-stage, or give the projectile a gentle push to trigger the first sensor for multi-stage). The projectile accelerates through each stage and exits the muzzle.
 8. **Measure and optimize.** Use a chronograph or ballistic pendulum to measure muzzle velocity. Experiment with coil length, number of turns, capacitor voltage, and sensor placement. The biggest efficiency gains come from precise timing — the coil must turn off before the projectile passes center.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Even a modest coil gun can launch projectiles fast enough to cause injury. Always use a backstop. Never point it at anyone. Treat it as you would any projectile launcher.
 - Camera flash capacitors at 300V can deliver a painful and potentially dangerous shock. Microwave capacitors at 2000V+ are lethal. Always discharge capacitors before working on the circuit. Bleed resistors must be installed and verified functional.
 - The magnetic field from the coils is strong enough to attract nearby ferromagnetic objects (tools, screws, keys). Keep the work area clear of loose metal when the coils are energized.
 
-## See Also
+## 🔗 See Also
 
 - [Rail Gun](036-rail-gun.md)
 - [Electromagnetic Levitator](038-electromagnetic-levitator.md)

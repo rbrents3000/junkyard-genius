@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A rail gun uses the Lorentz force to accelerate a projectile. Two parallel conducting rails sit side by side. A conductive armature (the projectile) bridges the gap between them. When massive current flows down one rail, across the armature, and back up the other rail, the current-carrying armature sits in its own magnetic field. The Lorentz force (current x magnetic field) pushes the armature down the rails and out the barrel at high speed.
 
@@ -20,7 +18,8 @@ The US Navy spent billions developing rail guns that launch projectiles at Mach 
 
 This is one of the most advanced builds in this book. It requires understanding of high-current electrical systems, material science, and basic ballistics. It's also one of the most rewarding.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Capacitor bank — large, 10-50µF at 400-2000V (from microwave caps, camera flash caps, or purchased) *(e-waste, electronics supplier)*
 - [ ] Copper rail stock — 1/4" x 1" flat copper bar, two pieces, 12"-24" long *(electrical supplier, metal supplier)*
@@ -34,7 +33,9 @@ This is one of the most advanced builds in this book. It requires understanding 
 - [ ] Backstop — sand bucket, ballistic gel, or thick wood block to catch projectiles *(hardware store)*
 - [ ] Safety shield — polycarbonate sheet *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the capacitor bank.** Wire capacitors in parallel for maximum current delivery. The bank needs to be low-impedance — use bolted copper bus bar connections, not wire. Every milliohm of resistance reduces peak current and projectile velocity. Mount capacitors in an insulated enclosure with bleed resistors.
 2. **Machine the rail housing.** Mill or route two parallel grooves in a block of non-conductive material (G10 fiberglass is ideal — it's strong, insulating, and heat-resistant). The grooves should hold the copper rails parallel with a gap of 1/4"-3/8" between them. The rails must be perfectly straight and parallel.
@@ -47,13 +48,13 @@ This is one of the most advanced builds in this book. It requires understanding 
 9. **Inspect rails after each shot.** The armature scours the rail surface on each firing. Pitting and erosion are normal but degrade performance over time. Sand the rails smooth between shots. Copper armatures are gentler on the rails than aluminum.
 10. **Document muzzle velocity.** Two chronograph screens or a ballistic pendulum let you measure projectile speed. This lets you calculate the system's efficiency (kinetic energy out / electrical energy in). Expect 1-5% efficiency — most energy goes into heating the rails and armature.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - This device launches projectiles. Treat it with the same respect as a firearm. Never point it at anything you don't intend to destroy. Always use a backstop. Clear the range before firing. Be aware of local laws regarding electromagnetic launchers — some jurisdictions regulate them.
 - The capacitor bank is a lethal electrical hazard at the voltages involved. All capacitor safety rules apply: bleed resistors, voltmeter verification, insulated enclosure, never touch when charged. The energy stored in a 50µF bank at 2000V is 100 joules — enough to cause fatal cardiac arrest.
 - The breech flash produces intense light, UV radiation, and vaporized copper particles. Wear safety glasses (welding shade if available), hearing protection, and do not breathe the copper vapor. Operate outdoors or in a very well-ventilated space.
 
-## See Also
+## 🔗 See Also
 
 - [Coil Gun](037-coil-gun.md)
 - [Electromagnetic Can Crusher](035-electromagnetic-can-crusher.md)

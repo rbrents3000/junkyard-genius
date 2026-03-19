@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A grape is roughly the right size to act as an antenna for microwave radiation at 2.45 GHz — the frequency used by household microwave ovens. When you cut a grape nearly in half (leaving a thin skin bridge between the two halves) and microwave it, the electromagnetic energy concentrates at the narrow bridge between the halves. The intense field ionizes the air at that point, creating a small but vivid plasma ball that rises from the grape like a tiny lightning bolt.
 
@@ -20,7 +18,8 @@ The physics was properly explained only in 2019 by researchers at McMaster Unive
 
 It takes 3 seconds, costs nothing, and produces genuine plasma — the fourth state of matter — in your kitchen. It's the lowest-effort, highest-payoff physics demo that exists.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Grapes — regular size, with skin on *(grocery store)*
 - [ ] Sharp knife *(kitchen)*
@@ -28,7 +27,9 @@ It takes 3 seconds, costs nothing, and produces genuine plasma — the fourth st
 - [ ] Small glass or cup — to cover the grape and contain the plasma (optional but recommended) *(kitchen)*
 - [ ] Cutting board *(kitchen)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Cut the grape.** Slice a grape lengthwise, almost all the way through, leaving a thin bridge of skin connecting the two halves. The halves should lie open like a book, connected by about 2-3mm of skin. This bridge is where the plasma forms.
 2. **Position in the microwave.** Place the grape halves skin-bridge-up on the microwave's turntable or a microwave-safe plate. Optionally, place a small glass cup upside down over the grape — this contains the plasma and makes the fireball more visible as it rises and reflects inside the glass.
@@ -37,13 +38,13 @@ It takes 3 seconds, costs nothing, and produces genuine plasma — the fourth st
 5. **Try variations.** Two whole grapes touching: place them side by side so they barely touch. Two hydrogel beads: same effect, different colors. Cherry tomatoes: work similarly. Any water-rich sphere of the right size can act as a dielectric resonator. Experiment with different fruits and positions.
 6. **Observe the aftermath.** The grape at the bridge point will be charred black. The plasma was thousands of degrees at its core. The scorch mark shows exactly where the energy concentrated.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Do not run the microwave for extended periods with just a grape inside. The magnetron needs a load to absorb energy — without enough material in the chamber, reflected energy can damage the magnetron. Keep demonstrations to under 10 seconds.
 - The plasma can scorch the microwave turntable or interior walls. Use a microwave-safe plate under the grape. Clean any scorch marks promptly.
 - Do not touch the grape immediately after microwaving — the bridge point is extremely hot and the rest of the grape is superheated. Let it cool for a minute.
 
-## See Also
+## 🔗 See Also
 
 - [Musical Tesla Coil](033-musical-tesla-coil.md)
 - [Jacob's Ladder](034-jacobs-ladder.md)

@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Electromagnetic levitation works on a beautifully simple principle that's devilishly hard to execute. An electromagnet above an object pulls it upward. A sensor (usually a Hall effect sensor) measures the object's position. A control circuit adjusts the electromagnet's current in real time — if the object drops too far, increase current to pull harder; if it rises too close, decrease current to let gravity pull it back. The object hovers in the balance point between gravity pulling down and the magnet pulling up.
 
 The control loop runs thousands of times per second. Without feedback, the system is inherently unstable — the magnet either grabs the object and slams it against the coil, or lets it drop. But with a properly tuned PID controller (proportional-integral-derivative), the object hangs motionless in space. It's one of the most mesmerizing things you can build, and one of the best introductions to control theory.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Electromagnet — wound from magnet wire around an iron bolt or soft iron core *(hardware store, electronics supplier)*
 - [ ] Hall effect sensor — analog output (e.g., SS49E or A1302) *(electronics supplier, ~$2)*
@@ -31,7 +30,9 @@ The control loop runs thousands of times per second. Without feedback, the syste
 - [ ] Frame/stand — to hold the electromagnet above the levitation point *(scrap wood or metal)*
 - [ ] Perfboard or PCB *(electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Wind the electromagnet.** Wrap 200-400 turns of 20-24 AWG magnet wire around a 3/8"-1/2" iron bolt. More turns = stronger field but more resistance. A bolt about 3" long with a 1" wide head works well — the flat head provides a broad attraction surface. Leave leads for wiring.
 2. **Mount the electromagnet.** Build a frame that holds the electromagnet pointing downward with the head about 2-3 inches above the table surface. The frame must be rigid — any flex defeats the control loop. A wooden or metal bracket clamped to a shelf or stand works.
@@ -42,13 +43,13 @@ The control loop runs thousands of times per second. Without feedback, the syste
 7. **Tune the controller.** Start with proportional gain only (I and D set to zero). Slowly increase P gain until the object jitters — it should alternate between pulling up and dropping. Then add derivative gain to dampen the oscillation. Finally, add a small amount of integral gain to eliminate steady-state offset. Tuning is the hardest part — expect to spend an hour adjusting.
 8. **Stabilize and refine.** Once the object floats, gently push it sideways — the magnet should pull it back. If it swings wildly, reduce P gain. If it drifts and drops, increase I gain. A well-tuned system will hold an object rock-steady indefinitely with no visible movement.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The electromagnet gets hot under continuous operation. The wire resistance converts electrical energy to heat. If the coil is warm to the touch, it's fine. If it's too hot to touch, increase wire gauge or reduce duty cycle. An overheating coil can melt its enamel insulation, causing shorted turns and eventual failure.
 - Strong neodymium magnets used as the levitating object can pinch fingers severely if they snap to the electromagnet during testing. Handle them carefully and keep fingers clear when the system is powered.
 - If using a microcontroller, a software crash drops the object. This is usually harmless but can be startling. Consider adding a physical catch tray below the levitation point, especially if levitating anything breakable.
 
-## See Also
+## 🔗 See Also
 
 - [Coil Gun](037-coil-gun.md)
 - [Levitating Plasma Speaker](../unholy-combos/055-levitating-plasma-speaker.md)

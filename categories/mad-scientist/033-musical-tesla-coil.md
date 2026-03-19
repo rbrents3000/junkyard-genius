@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A plasma arc is a channel of superheated ionized air. When you modulate the power driving that arc at audio frequencies, the rapid heating and cooling of the air creates pressure waves — sound. The arc literally becomes a speaker with no cone, no magnet, and no moving parts. Just lightning that sings.
 
@@ -20,7 +18,8 @@ A flyback transformer from an old CRT TV generates the high voltage needed to su
 
 This is technically a solid-state Tesla coil (SSTC) in its simplest form. True musical Tesla coils (DRSSTCs) are more complex, but the flyback version captures the same magic at beginner-level difficulty.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Flyback transformer — from a dead CRT TV or monitor *(e-waste, thrift store)*
 - [ ] MOSFET — IRFP250N or similar, rated for 30A+ *(electronics supplier, ~$3)*
@@ -34,7 +33,9 @@ This is technically a solid-state Tesla coil (SSTC) in its simplest form. True m
 - [ ] Perfboard or PCB for the driver circuit *(electronics supplier)*
 - [ ] High-voltage wire — silicone-insulated *(electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage the flyback.** Remove the flyback transformer from a dead CRT TV. It's the component with the thick red wire going to the CRT's suction cup anode. Desolder or cut it free from the circuit board. Identify the primary pins — there are usually 2-4 pins on the bottom for the primary winding.
 2. **Build the driver circuit.** Wire a basic MOSFET driver: the MOSFET's drain connects to one end of the flyback primary, the other end of the primary connects to the positive power supply, and the MOSFET's source goes to ground. The gate is driven by a square wave — either from a 555 timer oscillator or a dedicated gate driver IC. The oscillation frequency should be in the 20-50 kHz range to match the flyback's resonant frequency.
@@ -45,13 +46,13 @@ This is technically a solid-state Tesla coil (SSTC) in its simplest form. True m
 7. **Mount everything.** Secure the flyback and driver circuit to a non-conductive base (wood, acrylic). Ensure the high-voltage output is elevated and away from the low-voltage electronics. Keep the audio source and its cable well away from the arc — electromagnetic interference from the arc will inject noise into nearby electronics.
 8. **Add a kill switch.** Mount a clearly labeled power switch that cuts the DC supply to the driver. Do not rely on unplugging as the primary shutdown method.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The flyback output produces 10-30kV at low current. While the current is typically not lethal, a shock from a flyback is extremely painful and can cause involuntary muscle contraction that throws you into other hazards. Never touch the high-voltage output or come within arcing distance while the unit is powered. Stand clear.
 - The arc produces UV radiation, ozone, and nitrogen oxides. Prolonged exposure causes eye irritation and respiratory discomfort. Operate in a well-ventilated area. Don't stare directly at the arc for extended periods.
 - The MOSFET and flyback primary handle high current and generate significant heat. Mount the MOSFET on a proper heatsink. If the MOSFET fails short, the flyback primary becomes a dead short across the power supply — include a fuse in the power supply line.
 
-## See Also
+## 🔗 See Also
 
 - [Jacob's Ladder](034-jacobs-ladder.md)
 - [Levitating Plasma Speaker](../unholy-combos/055-levitating-plasma-speaker.md)

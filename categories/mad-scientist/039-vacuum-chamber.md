@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A vacuum chamber removes the air from an enclosed space, allowing you to observe what happens to objects and phenomena when atmospheric pressure is absent. Marshmallows expand to grotesque sizes. Water boils at room temperature. Shaving cream expands into a mountain. Sound vanishes — a ringing bell goes silent as you watch it vibrate. Electric arcs change character. Balloons inflate until they fill the chamber.
 
 A refrigerator compressor is a positive-displacement pump. Normally it compresses refrigerant, but it works on air too. Connect the suction side to a sealed container and it'll pull the air out, reaching vacuum levels of 25-29 inches of mercury — more than adequate for dramatic experiments. A thick-walled glass bell jar or a heavy acrylic chamber provides the viewport. A vacuum gauge tells you how deep you've gone.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Fridge compressor — with start relay and overload protector *(dead fridge, curbside)*
 - [ ] Bell jar or acrylic vacuum chamber — thick-walled, rated for vacuum service *(lab supply, online, ~$30-$80)*
@@ -31,7 +30,9 @@ A refrigerator compressor is a positive-displacement pump. Normally it compresse
 - [ ] Vacuum grease — for sealing the gasket *(lab supply, auto parts)*
 - [ ] Power cord *(from the fridge)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the compressor.** Cut the refrigerant lines from the compressor. Identify the suction port (draws air in — the larger tube) and the discharge port (pushes air out — the smaller tube, gets hot). Leave the process tube capped. The electrical system (start relay + overload protector) should stay attached.
 2. **Prepare the base plate.** Drill a hole through the base plate for the vacuum hose fitting. Install a hose barb fitting with an airtight seal (epoxy or O-ring). The bell jar will sit on top of this plate with a gasket between them.
@@ -42,13 +43,13 @@ A refrigerator compressor is a positive-displacement pump. Normally it compresse
 7. **Pull your first vacuum.** Place the bell jar on the gasket. Power on the compressor. Watch the vacuum gauge drop. The jar should pull down against the plate as the air is evacuated. Full vacuum takes 2-5 minutes depending on chamber volume and compressor size. You'll hear the compressor's tone change as the load decreases.
 8. **Run experiments.** Place objects inside the chamber before evacuating: marshmallows, shaving cream, a partially inflated balloon, a cup of warm water, a ringing alarm clock. Observe as the atmosphere is removed. When done, crack the ball valve slowly to let air back in — a sudden rush of air can knock things over inside the chamber.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Glass bell jars under vacuum are under significant mechanical stress — atmospheric pressure pushes inward with about 14.7 PSI on every square inch of surface. A cracked or flawed jar can implode, sending glass fragments outward. Inspect the jar for cracks, chips, or scratches before every use. Consider wrapping it in clear packing tape as a fragmentation shield, or use an acrylic chamber instead.
 - The compressor can overheat if run continuously for long periods under hard vacuum. Fridge compressors are designed for intermittent duty with rest cycles. Let it rest for 5 minutes every 15-20 minutes of continuous pumping.
 - Never put sealed containers, pressurized items, or liquids with low vapor pressure into the vacuum chamber — they can burst, boil explosively, or splatter the inside of the jar.
 
-## See Also
+## 🔗 See Also
 
 - [Silent Compressor](../functional-machines/031-silent-compressor.md)
 - [Cloud Chamber](041-cloud-chamber.md)
