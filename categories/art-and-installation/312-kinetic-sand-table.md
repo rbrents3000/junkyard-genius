@@ -68,3 +68,8 @@ The result is one of the most elegant objects you can build from salvaged parts.
 - [Anti-Gravity Water Fountain](044-antigravity-water-fountain.md) — stroboscopic illusion art
 - [Pen Plotter](../printer-and-scanner/072-pen-plotter.md) — same CNC motion concept, different output
 - [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md) — the CNC foundation this build is based on
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

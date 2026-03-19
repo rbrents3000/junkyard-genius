@@ -56,3 +56,6 @@ The result looks like something from a science fiction film. Visitors can't stop
 
 - [Anti-Gravity Water Fountain](044-antigravity-water-fountain.md)
 - [Singing Ferrofluid Tornado](../unholy-combos/053-singing-ferrofluid-tornado.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
