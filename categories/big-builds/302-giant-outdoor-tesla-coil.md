@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A large-scale dual-resonant solid-state Tesla coil (DRSSTC) that throws 6-10 foot electrical arcs
 into the night sky — and plays recognizable music through the sound of the discharge. The arcs are
@@ -34,7 +32,8 @@ None of this is theoretical — get the resonance wrong and you blow $60 worth o
 safety wrong and you're dead. But get it right, and you own the single most spectacular
 demonstration device a human being can build in a garage.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Secondary coil form: PVC pipe, 6-8 inch diameter, 3-4 feet long *(source: hardware store — ~$20-30)*
 - [ ] Magnet wire for secondary, 24-28 AWG, ~2,000 feet *(source: dead transformers or buy a spool — ~$30-50)*
@@ -58,7 +57,9 @@ demonstration device a human being can build in a garage.
 - [ ] Bleeder resistors, 10M ohm, one per MMC cap *(source: electronics supplier — ~$5 total)*
 - [ ] Fiber optic cable for isolated interrupter signal transmission *(source: electronics supplier — ~$10-15)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Wind the secondary coil.** This is the tall coil that produces the output voltage, and winding
    it is the most tedious part of the build. Mount the PVC pipe horizontally on a winding jig — a
@@ -172,16 +173,17 @@ demonstration device a human being can build in a garage.
    area for maximum visual impact. Run the coil outdoors only, on clear dry ground, never in rain.
    Hit record. This thing films like nothing else you'll ever build.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **This build can kill you.** Not hypothetically — the DC bus voltage (340-680V), the primary circuit peak currents (hundreds of amps), and the secondary output (hundreds of thousands of volts) are each independently capable of stopping a human heart. There is no safe way to touch any powered component. Treat the entire system as lethal any time the power supply is plugged into the wall, even if the variac is at zero.
+> [!CAUTION]
+> **This build can kill you.** Not hypothetically — the DC bus voltage (340-680V), the primary circuit peak currents (hundreds of amps), and the secondary output (hundreds of thousands of volts) are each independently capable of stopping a human heart. There is no safe way to touch any powered component. Treat the entire system as lethal any time the power supply is plugged into the wall, even if the variac is at zero.
 - **Capacitors store lethal charge after power-off.** The bus capacitors and the MMC bank retain dangerous voltage for minutes after unplugging. Bleeder resistors drain them slowly, but slowly isn't the same as safely. After every power-down, wait 60 seconds, then verify zero voltage on the bus caps and MMC with a multimeter before touching anything. Use a shorting stick (insulated handle, grounded probe tip) on each capacitor group as a final step. Make this a ritual. Skip it once and statistics catch up with you.
 - **RF interference destroys electronics.** A DRSSTC at full power radiates intense broadband electromagnetic energy. Phones, laptops, hearing aids, pacemakers, Wi-Fi routers, garage door openers, car key fobs, and LED drivers within range will malfunction or suffer permanent damage. Keep all electronics at least 50 feet away. Anyone with a pacemaker or implanted defibrillator must stay at least 100 feet away — the RF field can cause implanted devices to misfire, pace erratically, or reset.
 - **Fire is a real and immediate risk.** Arcs from the topload reach 6-10 feet and are hot enough to ignite dry grass, leaves, paper, hair, and synthetic clothing on contact. Operate on cleared, non-combustible ground — dirt, concrete, or wet grass at minimum. Remove all combustible material within the arc reach radius plus a generous safety margin. Keep a CO2 or dry-chemical fire extinguisher (never water — not around this much electricity) within arm's reach of the kill switch at all times.
 - **The kill switch is not optional.** Wire a clearly marked, high-visibility emergency disconnect that cuts all mains power to the entire system with a single action. Mount it where the operator can reach it without crossing through the arc zone. A second person should stand at the kill switch during all operation. Practice the shutdown sequence cold before the first power-up.
 - **Never operate alone.** Always have a second person present who knows three things: where the kill switch is, how to call 911, and not to touch a person in contact with the coil while it's energized. If the operator goes down, the protocol is: kill power, call emergency services, then render aid. Touching someone who's in the circuit makes two casualties.
 
-## See Also
+## 🔗 See Also
 
 - [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil.md) — the smaller, tabletop version of this concept
 - [Jacob's Ladder](../mad-scientist/034-jacobs-ladder.md) — a simpler high-voltage arc project to cut your teeth on

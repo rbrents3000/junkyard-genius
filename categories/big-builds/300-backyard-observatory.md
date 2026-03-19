@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A real, functional observatory in your backyard — rotating dome and all. The dome is built from a
 salvaged satellite dish or formed sheet metal, mounted on a circular plywood base with a motorized
@@ -30,7 +28,8 @@ This is a serious build. You're combining structural fabrication (the dome), mec
 into one project. But the result is something most people assume costs $15,000+ from a commercial
 vendor. You're building it for a fraction of that, and you'll understand every piece of it.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Satellite dish (6-10 foot diameter) or sheet metal for dome panels *(source: telecom surplus, Craigslist, or scrap yard — ~$0-100)*
 - [ ] 3/4-inch plywood sheets (4x8) for the base platform and dome ring, ~6 sheets *(source: lumber yard — ~$30-45 each)*
@@ -50,7 +49,9 @@ vendor. You're building it for a fraction of that, and you'll understand every p
 - [ ] 12V power supply or deep-cycle battery *(source: your shop or auto parts store)*
 - [ ] Slip ring (electrical rotary connector) for passing power through the rotating joint *(source: electronics supplier or robotics vendor — ~$15-30)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Choose your site and pour footings.** Pick a spot with the clearest view of the sky — away from
    trees, buildings, and streetlights. South-facing exposure is ideal in the northern hemisphere.
@@ -152,14 +153,15 @@ vendor. You're building it for a fraction of that, and you'll understand every p
    house on freezing nights. A dew heater strip around the telescope's secondary mirror prevents dew
    from forming on the optics, which is the most common reason for cutting a session short.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Structural integrity matters.** The dome is heavy and sits on an elevated platform. Over-engineer the base and the rotation track. A dome that detaches from its track in a windstorm becomes a projectile. Use guy wires or hurricane clips if you're in a high-wind area. Check local building codes — some jurisdictions require permits for structures above a certain height.
+> [!WARNING]
+> **Structural integrity matters.** The dome is heavy and sits on an elevated platform. Over-engineer the base and the rotation track. A dome that detaches from its track in a windstorm becomes a projectile. Use guy wires or hurricane clips if you're in a high-wind area. Check local building codes — some jurisdictions require permits for structures above a certain height.
 - **Pinch and crush hazards.** The rotating dome and motorized mount have gears, wheels, and moving parts that don't care about fingers. Install an emergency stop button accessible from inside the dome and another at the base outside. Never reach into the rotation track while the motor is powered.
 - **Electrical safety in a wet environment.** Observatories collect dew on everything — walls, floor, equipment, wiring. All electrical connections should be in weatherproof enclosures or conformal-coated. Use GFCI-protected circuits for any mains power. Keep the slip ring contacts clean and dry.
 - **Ladder and lifting injuries.** Mounting the dome requires lifting a heavy, awkward shell overhead. Use enough people (four minimum) and consider rigging a temporary A-frame hoist. Wear hard hats. Falls from the knee wall during construction are a real risk — it's not high, but it's high enough to break an ankle.
 
-## See Also
+## 🔗 See Also
 
 - [Weather Balloon Launch](192-weather-balloon-launch.md) — another way to get above the atmosphere, at least temporarily
 - [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse.md) — similar dome construction principles, different purpose

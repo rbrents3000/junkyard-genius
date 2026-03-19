@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A high-altitude balloon launch sends a payload to 80,000-120,000 feet — the stratosphere, where the sky turns black and the curvature of the Earth is visible. The balloon expands as atmospheric pressure drops until it bursts, and the payload parachutes back to Earth. A GPS tracker guides you to the landing site for recovery.
 
 The photos and video from near-space are genuinely breathtaking. You can see weather systems from above, the thin blue line of atmosphere, and the darkness of space in the same frame. People spend thousands going skydiving for this view — you can get it for $150 and a Saturday morning.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Weather balloon, 1200g latex (e.g., Hwoyee or Totex brand) *(source: online, ~$30-50)*
 - [ ] Helium tank, 80 cubic feet minimum *(source: party supply store or welding supply — ~$40-60 rental)*
@@ -33,7 +32,9 @@ The photos and video from near-space are genuinely breathtaking. You can see wea
 - [ ] Zip ties, duct tape, and cable ties *(source: hardware store)*
 - [ ] AA lithium batteries (critical — alkaline batteries fail at -40 degrees) *(source: electronics store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Check the regulations.** In the US, FAA regulations (14 CFR 101) allow unmanned free balloon launches under certain payload weight and size limits without prior authorization. Your total payload must be under 4 pounds and no individual package over 6 pounds. Verify current regulations for your country. File a NOTAM (Notice to Air Missions) if required.
 
@@ -55,13 +56,14 @@ The photos and video from near-space are genuinely breathtaking. You can see wea
 
 10. **Review the footage.** The first time you see the curved Earth and black sky from your own camera, shot from a cooler you packed in your kitchen, is a moment. Pull the SD card, review the photos and video, and export the GPS track. Overlay the track on a map for a complete flight profile.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Helium is an asphyxiant.** Fill the balloon outdoors only. Helium displaces oxygen — in an enclosed space it can cause suffocation without warning. Never inhale helium from the tank.
+> [!WARNING]
+> **Helium is an asphyxiant.** Fill the balloon outdoors only. Helium displaces oxygen — in an enclosed space it can cause suffocation without warning. Never inhale helium from the tank.
 - **Balloon burst hazard.** A fully inflated weather balloon is under significant tension. If it pops during filling (rare but possible), the snap can sting exposed skin. Wear gloves during filling and keep your face away.
 - **Aviation safety is paramount.** You are launching an object into controlled airspace. Follow all FAA/CAA regulations without exception. Never launch near airports, in restricted airspace, or in conditions where the flight path crosses major air corridors. If in doubt, call your local FAA Flight Standards District Office.
 
-## See Also
+## 🔗 See Also
 
 - [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse.md) — another big build combining physical structure with electronics
 - [Ham Radio from Scratch](193-ham-radio-from-scratch.md) — another way to reach beyond your neighborhood using DIY technology

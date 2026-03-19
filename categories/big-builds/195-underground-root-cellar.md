@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A root cellar is an underground storage room that uses the Earth's natural insulation to maintain a stable temperature (typically 32-40 degrees F) and high humidity (85-95%) year-round — ideal conditions for storing root vegetables, canned goods, fermented foods, and beverages for months without refrigeration. Humans have been building these for thousands of years, and they still outperform a refrigerator for bulk storage.
 
 This build combines old-world construction (dig, line, insulate) with modern monitoring (Pi-based temperature and humidity logging) so you know exactly what's happening underground without climbing down to check. The hardest part is the digging. Everything after that is surprisingly straightforward.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Shovel, pickaxe, and strong back (or rent a mini excavator for $200/day) *(source: hardware store and determination)*
 - [ ] Cinder blocks or poured concrete for walls, ~100-200 blocks *(source: masonry supply — ~$1-2 each)*
@@ -33,7 +32,9 @@ This build combines old-world construction (dig, line, insulate) with modern mon
 - [ ] Raspberry Pi with DHT22 sensor for climate monitoring *(source: online — ~$45 total)*
 - [ ] Shelving — wooden or metal freestanding units *(source: thrift store or build from lumber)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Check codes and utilities.** Call 811 (in the US) to mark underground utilities before digging. Check local building codes — some jurisdictions require permits for underground structures. Choose a location with good drainage (hillside is ideal) and no large tree roots.
 
@@ -55,13 +56,14 @@ This build combines old-world construction (dig, line, insulate) with modern mon
 
 10. **Stock and organize.** Install freestanding shelving units (don't anchor to walls — moisture will rot wood fastened to concrete). Store root vegetables (potatoes, carrots, beets, turnips) in bins of damp sand. Store apples and pears separately (they emit ethylene gas that spoils other produce). Canned goods go on upper shelves. Check stock monthly and rotate.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Cave-in risk during excavation is the biggest danger.** Unsupported excavation walls can collapse without warning, burying workers. For holes deeper than 4 feet, use trench boxes, sloped walls (1:1 ratio), or benched cuts. Never work alone in an excavation.
+> [!WARNING]
+> **Cave-in risk during excavation is the biggest danger.** Unsupported excavation walls can collapse without warning, burying workers. For holes deeper than 4 feet, use trench boxes, sloped walls (1:1 ratio), or benched cuts. Never work alone in an excavation.
 - **Carbon dioxide accumulation.** Root cellars can accumulate CO2, especially when storing large quantities of produce (which respires). Before entering a sealed cellar, open the door and let it ventilate for several minutes. If you feel dizzy or short of breath inside, leave immediately.
 - **Structural load.** The finished ceiling must support the weight of soil backfill plus any surface loads (people walking, lawn mower). Over-engineer the ceiling — use larger joists and shorter spans than you think you need. A collapsing ceiling underground is not survivable.
 
-## See Also
+## 🔗 See Also
 
 - [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse.md) — grow the food that you store in the root cellar
 - [Ham Radio from Scratch](193-ham-radio-from-scratch.md) — another project that rewards patience and manual craftsmanship

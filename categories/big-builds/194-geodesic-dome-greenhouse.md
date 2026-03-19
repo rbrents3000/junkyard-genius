@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A geodesic dome greenhouse built from electrical conduit (EMT) with a polyethylene or polycarbonate skin and a Raspberry Pi running climate control — monitoring temperature, humidity, and soil moisture, and automatically triggering fans, vents, and irrigation. The dome structure is wildly strong for its weight (Buckminster Fuller's genius), resists wind and snow loads that would crush a traditional greenhouse, and looks incredible in any backyard.
 
 The build breaks into two satisfying phases: the physical structure (cutting, flattening, bolting conduit into a geometric framework) and the electronics (Pi, sensors, relays, and a simple control script). When it's done, you have a structure that grows tomatoes in February and monitors itself while you sleep.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 3/4" EMT conduit (electrical metallic tubing), ~25 sticks of 10-foot lengths *(source: hardware store or electrical supply — ~$3-5 each)*
 - [ ] Star connector hubs (6-way and 5-way), steel or 3D-printed *(source: online geodesic dome suppliers, or 3D print your own — ~$50-80 for a set)*
@@ -34,7 +33,9 @@ The build breaks into two satisfying phases: the physical structure (cutting, fl
 - [ ] Conduit bender (or a pipe bender) *(source: hardware store — ~$20)*
 - [ ] Raised bed or ground-level planting area inside the dome *(source: lumber or cinder blocks)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Choose your dome frequency.** A 2V (2-frequency) dome is the simplest and uses only two strut lengths. A 3V dome is more spherical and stronger but requires three strut lengths and more hubs. For a first build, a 2V dome with a 12-foot diameter is the sweet spot — big enough to walk in, small enough to build in a weekend.
 
@@ -56,13 +57,14 @@ The build breaks into two satisfying phases: the physical structure (cutting, fl
 
 10. **Plant and grow.** Fill raised beds with soil, start your seeds or transplants, and let the dome do its thing. The geodesic shape distributes light beautifully throughout the day as the sun angle changes — no dark corners like a rectangular greenhouse.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Conduit cutting produces sharp edges.** Always deburr cut ends and wear gloves during cutting and assembly. A conduit end can slice skin like a knife.
+> [!WARNING]
+> **Conduit cutting produces sharp edges.** Always deburr cut ends and wear gloves during cutting and assembly. A conduit end can slice skin like a knife.
 - **Wind load during construction.** A partially assembled dome is a sail, not a structure. If wind picks up during assembly, stop and stake what you have. A half-built dome can lift and tumble.
 - **Electrical safety.** The Pi and relay module run on low voltage, but the irrigation solenoid may run on 24V AC. Use appropriate waterproof enclosures for all electronics inside the humid greenhouse environment. Keep 120V connections (if any) in GFCI-protected weatherproof boxes.
 
-## See Also
+## 🔗 See Also
 
 - [Underground Root Cellar](195-underground-root-cellar.md) — food storage to complement your food production
 - [Weather Balloon Launch](192-weather-balloon-launch.md) — another big build that combines structure and electronics

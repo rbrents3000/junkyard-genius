@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A from-scratch amateur radio transceiver: you wind the coils, solder the oscillator, build the amplifier, and string the antenna. The result is a working radio capable of sending and receiving Morse code (CW) or even voice on the amateur bands. On a good night with the right atmospheric conditions, a 5-watt homemade transmitter can reach thousands of miles by bouncing signals off the ionosphere.
 
 This is the original DIY — ham radio operators have been building their own gear since the early 1900s. The beauty of starting from scratch is that you understand every component because you built it. There's no black box. When you make your first contact on a radio you wound by hand, the dopamine hit is indescribable.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Magnet wire, 22-28 gauge, at least 100 feet *(source: dead transformer — unwind it — or buy a spool, ~$8)*
 - [ ] Quartz crystal for your target frequency (e.g., 7.030 MHz for 40m CW) *(source: electronics supplier or QRP kit vendor — ~$3)*
@@ -33,7 +32,9 @@ This is the original DIY — ham radio operators have been building their own ge
 - [ ] Headphones or small speaker *(source: junk drawer)*
 - [ ] Soldering iron and solder *(source: your shop)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Get your license.** In the US, you need at minimum a Technician class amateur radio license (FCC Part 97). The test is 35 multiple-choice questions and costs ~$15. Study with free online resources — most people pass after a week of casual studying. You need the license before transmitting (receiving is legal without one).
 
@@ -53,13 +54,14 @@ This is the original DIY — ham radio operators have been building their own ge
 
 9. **Make your first contact.** Connect the antenna, power up the receiver, and tune around 7.030 MHz. Listen for CW signals. When you hear a station calling CQ (general call), respond with their callsign, then yours. When they acknowledge, you've made your first contact on a radio you built from scratch. Log it — this is a moment you'll remember.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **RF burns.** Even 5 watts of RF at HF frequencies can cause painful RF burns if you touch the antenna or feedline while transmitting. Never touch antenna connections while the transmitter is keyed.
+> [!WARNING]
+> **RF burns.** Even 5 watts of RF at HF frequencies can cause painful RF burns if you touch the antenna or feedline while transmitting. Never touch antenna connections while the transmitter is keyed.
 - **High voltage in amplifier stage.** Some transmitter designs use voltages above 50V in the power amplifier. Treat all amplifier circuits as live when power is connected. Discharge filter capacitors before servicing.
 - **Antenna safety.** Keep antennas away from power lines — an antenna touching a power line is immediately lethal. Maintain at least twice the antenna length in clearance from any power line.
 
-## See Also
+## 🔗 See Also
 
 - [Weather Balloon Launch](192-weather-balloon-launch.md) — another way to reach beyond your horizon with homebrew technology
 - [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse.md) — a different kind of big build with electronics integration

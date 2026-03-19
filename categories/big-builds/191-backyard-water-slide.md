@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A full-length backyard water slide built from heavy-duty tarp material, PVC pipe framing for the raised launch section, and a submersible pump that recirculates water from the splash pool at the bottom back to the top. The tarp is lubricated with a continuous flow of water (and optionally dish soap), turning your yard into a 100-foot slip-and-slide that actually works for adults without shredding your ribcage on dry spots.
 
 The key upgrade over a store-bought slip-and-slide is the raised launch ramp (3-5 feet high) and the recirculating water system. You're not running a garden hose — you're running a proper pump loop that keeps the entire surface flooded. Add a natural slope in your yard and you're dealing with genuinely dangerous speeds. Perfect.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Heavy-duty polyethylene tarp, 10x100 feet minimum (6 mil or thicker) *(source: hardware store or farm supply — ~$30-50)*
 - [ ] PVC pipe, 1.5-2 inch diameter, ~50 feet for the launch ramp frame *(source: hardware store — ~$20)*
@@ -31,7 +30,9 @@ The key upgrade over a store-bought slip-and-slide is the raised launch ramp (3-
 - [ ] Dish soap (cheap, unscented) *(source: grocery store)*
 - [ ] Hay bales or foam pads for the deceleration zone *(source: farm supply or gym surplus)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Survey your yard.** Find the longest, straightest slope you have. Even a gentle grade makes a massive difference. Mark the run from top to bottom — 60-100 feet is ideal. Note any rocks, roots, or sprinkler heads that need to be covered or avoided.
 
@@ -53,13 +54,14 @@ The key upgrade over a store-bought slip-and-slide is the raised launch ramp (3-
 
 10. **Send it.** Run, launch off the ramp, and slide. The first person to go full speed will tell you everything you need to fix. Common issues: dry spots mid-run (add more water volume), flying off curves (build edges higher), and not enough deceleration at the bottom (add more hay bales).
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Spinal injuries are the real risk.** Diving headfirst onto a water slide can cause neck and spinal injuries if the surface isn't properly padded and lubricated. Enforce a feet-first or belly-first rule. No headfirst diving.
+> [!WARNING]
+> **Spinal injuries are the real risk.** Diving headfirst onto a water slide can cause neck and spinal injuries if the surface isn't properly padded and lubricated. Enforce a feet-first or belly-first rule. No headfirst diving.
 - **Deceleration zone is non-negotiable.** A 150-pound human sliding at 20+ mph into a hard surface can cause serious injury. The splash pool and hay bales must be positioned to give riders at least 10 feet of deceleration distance. Test at low speed first.
 - **Drowning risk.** If using a deep splash pool, never operate without a spotter. Kids can get disoriented after a fast slide and end up face-down in even shallow water.
 
-## See Also
+## 🔗 See Also
 
 - [Trebuchet](../mechanical-and-kinetic/185-trebuchet.md) — another big outdoor build with a high fun-to-danger ratio
 - [Weather Balloon Launch](192-weather-balloon-launch.md) — take the "big builds" concept literally vertical

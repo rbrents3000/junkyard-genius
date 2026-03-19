@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A used 40-foot shipping container converted into a fully equipped maker workshop — insulated, wired,
 lit, ventilated, and organized. You get 320 square feet of lockable, weather-proof, rodent-proof,
@@ -31,7 +29,8 @@ or shipping yards. The full conversion runs another $1,500-3,000 in materials de
 you take the finish work. Compare that to a $15,000+ stick-built outbuilding or a $30,000 garage
 addition. The container arrives structurally complete — you're just making it livable.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Used 40-foot high-cube shipping container (8'6" wide x 9'6" tall x 40' long) *(source: shipping surplus depot, port auction, or Craigslist — ~$1,000-2,000 delivered)*
 - [ ] Angle grinder with cutoff wheels and flap discs *(source: your shop or hardware store — ~$30-50 for grinder, ~$15 for discs)*
@@ -54,7 +53,9 @@ addition. The container arrives structurally complete — you're just making it 
 - [ ] Gravel or crushed stone for the pad, ~5-10 tons *(source: landscape supply — ~$150-300 delivered)*
 - [ ] Carbon monoxide detector *(source: hardware store — ~$25)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Source and deliver the container.** Buy a used "wind and water tight" (WWT) grade container —
    these have cosmetic damage but are structurally sound and don't leak. High-cube (9'6" tall vs
@@ -176,15 +177,16 @@ addition. The container arrives structurally complete — you're just making it 
    clear. Step back, look at what you built, and accept that you're going to spend more time in here
    than in your house.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Ventilation is critical in a sealed steel box.** Running a gas engine, propane heater, or even certain adhesives in an unventilated container can produce lethal CO concentrations in minutes. The exhaust fan is not optional. If you weld or use solvents, open the cargo doors fully and run the fan simultaneously. The CO detector is your last line of defense, not your first.
+> [!WARNING]
+> **Ventilation is critical in a sealed steel box.** Running a gas engine, propane heater, or even certain adhesives in an unventilated container can produce lethal CO concentrations in minutes. The exhaust fan is not optional. If you weld or use solvents, open the cargo doors fully and run the fan simultaneously. The CO detector is your last line of defense, not your first.
 - **Electrical work in a metal structure requires extra care.** The entire container shell is a grounded conductor. Your electrical system must be properly grounded and bonded to the container. Any hot wire touching the steel wall creates a fault that energizes the entire structure. Use GFCI protection on all circuits. Test your ground bond with a meter after installation.
 - **Cutting steel produces sparks, sharp edges, and dangerous noise levels.** Wear a full face shield (not just safety glasses), hearing protection rated for 100+ dB, leather gloves, and long sleeves when grinding. Deburr every cut edge immediately with a flap disc — fresh-cut corrugated steel will slice through a leather glove without slowing down.
 - **Container floors may contain pesticide residue.** Marine containers are routinely fumigated with methyl bromide or phosphine. Wear a P100 respirator while cleaning the interior for the first time. If the floor smells chemical or your eyes burn, ventilate aggressively for several days before working inside. Sealing the floor with epoxy before installing mats adds a barrier layer.
 - **Fire in a steel box is survivable only if you can get out.** The personnel door and the cargo doors give you two exits. Never block either one. Keep a fire extinguisher (ABC-rated) mounted near the personnel door. Cutting and grinding operations throw sparks that can ignite sawdust — clean your dust collector and sweep the floor before doing any metal work.
 
-## See Also
+## 🔗 See Also
 
 - [Underground Root Cellar](195-underground-root-cellar.md) — another permanent structure build, but going down instead of staying above ground
 - [Ham Radio from Scratch](193-ham-radio-from-scratch.md) — fill your new workshop with a project the day it's finished
