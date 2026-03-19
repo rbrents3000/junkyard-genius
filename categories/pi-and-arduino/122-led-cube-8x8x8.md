@@ -51,3 +51,6 @@ An 8x8x8 LED cube is 512 LEDs soldered into a three-dimensional grid, each indiv
 
 - [Music Visualizer LED Wall](../python-projects/145-music-visualizer-led-wall.md)
 - [MIDI Stepper Organ](135-midi-stepper-organ.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

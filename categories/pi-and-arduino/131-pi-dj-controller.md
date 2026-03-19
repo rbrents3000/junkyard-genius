@@ -50,3 +50,8 @@ A DJ controller is just knobs, sliders, and buttons connected to audio software.
 
 - [Arduino Guitar Pedal](124-arduino-guitar-pedal.md)
 - [Music Visualizer LED Wall](../python-projects/145-music-visualizer-led-wall.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

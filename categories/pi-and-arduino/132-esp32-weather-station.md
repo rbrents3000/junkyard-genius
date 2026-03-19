@@ -50,3 +50,8 @@ Commercial weather stations give you current conditions. A DIY ESP32 weather sta
 
 - [Auto Plant Watering](127-auto-plant-watering.md)
 - [Earthquake Detector](../python-projects/146-earthquake-detector.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

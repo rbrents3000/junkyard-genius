@@ -45,3 +45,6 @@ Every ad on every website starts with a DNS lookup — your device asks "what's 
 
 - [ESP32-CAM Security](128-esp32-cam-security.md)
 - [Smart Mirror](123-smart-mirror.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

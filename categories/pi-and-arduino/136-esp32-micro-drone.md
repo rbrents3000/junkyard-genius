@@ -50,3 +50,8 @@ Commercial drones are marvels of engineering — but the core technology isn't t
 
 - [Star Tracker](137-star-tracker.md)
 - [Nerf Sentry Turret](138-nerf-sentry-turret.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

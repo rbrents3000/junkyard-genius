@@ -46,3 +46,8 @@ The Raspberry Pi can generate FM radio signals directly from a GPIO pin — no a
 
 - [ESP32 Mesh Walkie-Talkie](125-esp32-mesh-walkie-talkie.md)
 - [Pi DJ Controller](131-pi-dj-controller.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

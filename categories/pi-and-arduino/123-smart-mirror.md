@@ -51,3 +51,6 @@ A smart mirror looks like a normal mirror until it turns on — then text and gr
 
 - [Deepfake Mirror](../python-projects/153-deepfake-mirror.md)
 - [Pi-hole Ad Blocker](139-pi-hole-ad-blocker.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

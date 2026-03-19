@@ -50,3 +50,8 @@ Ring doorbell costs $100+ and sends your video to Amazon's cloud. Build your own
 
 - [ESP32-CAM Security](128-esp32-cam-security.md)
 - [Face Tracking Laser](../python-projects/141-face-tracking-laser.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

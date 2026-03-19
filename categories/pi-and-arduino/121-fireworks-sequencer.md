@@ -51,3 +51,6 @@ Professional fireworks shows aren't lit by hand — they're fired by computer-co
 
 - [Smoke Bomb Array](../pyro-and-chemistry/103-smoke-bomb-array.md)
 - [Cold Spark Machine](../pyro-and-chemistry/104-cold-spark-machine.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

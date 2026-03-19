@@ -50,3 +50,6 @@ Guitar effect pedals are just analog-to-digital converters, signal processing, a
 
 - [Pi DJ Controller](131-pi-dj-controller.md)
 - [MIDI Stepper Organ](135-midi-stepper-organ.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

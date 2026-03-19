@@ -49,3 +49,8 @@ Electromagnetic fields are everywhere — power lines, appliances, phone signals
 
 - [Arduino Breathalyzer](133-arduino-breathalyzer.md)
 - [Earthquake Detector](../python-projects/146-earthquake-detector.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

@@ -49,3 +49,8 @@ Plants die because people forget to water them. Solve this permanently with sens
 
 - [ESP32 Weather Station](132-esp32-weather-station.md)
 - [ESP32-CAM Security](128-esp32-cam-security.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
