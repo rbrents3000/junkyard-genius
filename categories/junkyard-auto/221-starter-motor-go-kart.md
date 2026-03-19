@@ -52,3 +52,7 @@ A car starter motor is a DC motor designed to crank a cold engine against compre
 
 - [Electric Go-Kart](../functional-machines/024-electric-go-kart.md)
 - [Electric Skateboard](../scooter-and-motor/088-electric-skateboard.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
