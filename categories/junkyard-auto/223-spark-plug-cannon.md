@@ -1,5 +1,9 @@
 # #223 — Spark Plug Cannon
 
+<p align="center">
+  <img src="../../images/builds/223-spark-plug-cannon.jpg" alt="Spark Plug Cannon" width="700" />
+</p>
+
 > Spark plug + pipe combustion chamber + propane = a single-shot cannon that runs on the same principle as every internal combustion engine ever made.
 
 ## Ratings

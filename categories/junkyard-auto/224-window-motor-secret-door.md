@@ -1,5 +1,9 @@
 # #224 — Window Motor Secret Door
 
+<p align="center">
+  <img src="../../images/builds/224-window-motor-secret-door.jpg" alt="Window Motor Secret Door" width="700" />
+</p>
+
 > A power window motor drives a bookshelf that swings open to reveal a hidden passage. Every house deserves a Scooby-Doo moment.
 
 ## Ratings

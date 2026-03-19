@@ -1,5 +1,9 @@
 # #220 — Ignition Coil Tesla Coil
 
+<p align="center">
+  <img src="../../images/builds/220-ignition-coil-tesla-coil.jpg" alt="Ignition Coil Tesla Coil" width="700" />
+</p>
+
 > Car ignition coil + 555 timer at audio frequencies = musical sparks at 40kV. A singing arc of purple lightning from junkyard parts.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #219 — Alternator Welder
 
+<p align="center">
+  <img src="../../images/builds/219-alternator-welder.jpg" alt="Alternator Welder" width="700" />
+</p>
+
 > Car alternator + car battery = field stick welder capable of 60-100A output. Weld anywhere there's a running engine.
 
 ## Ratings
