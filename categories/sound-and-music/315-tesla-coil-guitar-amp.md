@@ -69,3 +69,8 @@ The DRSSTC works by driving a primary coil at the resonant frequency of the seco
 
 - [Plasma Speaker](008-plasma-speaker.md)
 - [Plasma Speaker Lamp](../unholy-combos/283-plasma-speaker-lamp.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

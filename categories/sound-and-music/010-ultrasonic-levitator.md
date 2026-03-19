@@ -58,3 +58,8 @@ The objects literally float in mid-air with no visible support. You can levitate
 
 - [Ferrofluid Speaker](011-ferrofluid-speaker.md) — another way to make invisible forces visible through physical media
 - [Schlieren Optics](../light-and-visual/172-schlieren-optics.md) — visualize the sound waves themselves instead of levitating objects in them
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
