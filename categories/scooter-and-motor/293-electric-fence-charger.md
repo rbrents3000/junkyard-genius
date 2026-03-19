@@ -174,3 +174,7 @@ Many municipalities have specific rules about placement, signage, voltage limits
 
 - [Electric Skateboard](088-electric-skateboard.md)
 - [Jacob's Ladder](../mad-scientist/034-jacobs-ladder.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

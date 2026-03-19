@@ -51,3 +51,8 @@ A camera slider creates smooth, linear tracking shots — the kind of cinematic 
 
 - [Electric Winch](090-electric-winch.md)
 - [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

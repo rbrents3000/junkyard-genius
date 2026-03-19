@@ -153,3 +153,8 @@ Keep fingers, hair, and loose clothing away from the gap between the spinning pl
 
 - [Motor-Powered Pottery Wheel](292-motor-powered-pottery-wheel.md)
 - [Electric Skateboard](088-electric-skateboard.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

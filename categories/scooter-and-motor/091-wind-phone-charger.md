@@ -52,3 +52,7 @@ Every electric motor is also a generator — spin the shaft externally and it pr
 
 - [Electric Skateboard](088-electric-skateboard.md)
 - [Electric Winch](090-electric-winch.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
