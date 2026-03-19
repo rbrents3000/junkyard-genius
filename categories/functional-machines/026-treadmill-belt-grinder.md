@@ -1,5 +1,9 @@
 # #026 — Treadmill Belt Grinder
 
+<p align="center">
+  <img src="../../images/builds/026-treadmill-belt-grinder.jpg" alt="Treadmill Belt Grinder" width="700" />
+</p>
+
 > The motor in a dead treadmill is a precision variable-speed DC motor. Strap a sanding belt to it and you've got a knife-maker's best friend.
 
 ## Ratings

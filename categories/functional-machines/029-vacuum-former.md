@@ -1,5 +1,9 @@
 # #029 — Vacuum Former
 
+<p align="center">
+  <img src="../../images/builds/029-vacuum-former.jpg" alt="Vacuum Former" width="700" />
+</p>
+
 > Heat plastic sheet, drape it over a mold, suck the air out. Perfect copies of anything, for almost nothing.
 
 ## Ratings

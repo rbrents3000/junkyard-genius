@@ -1,5 +1,9 @@
 # #027 — Spot Welder
 
+<p align="center">
+  <img src="../../images/builds/027-spot-welder.jpg" alt="Spot Welder" width="700" />
+</p>
+
 > A microwave oven transformer rewound with thick copper cable becomes a spot welder that fuses metal with a single pulse. Battery tab welding for a dollar in copper.
 
 ## Ratings

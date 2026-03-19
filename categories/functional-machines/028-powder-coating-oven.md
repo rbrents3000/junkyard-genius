@@ -1,5 +1,9 @@
 # #028 — Powder Coating Oven
 
+<p align="center">
+  <img src="../../images/builds/028-powder-coating-oven.jpg" alt="Powder Coating Oven" width="700" />
+</p>
+
 > An old kitchen oven, a thrift-store toaster oven for small parts, and an electrostatic gun turn raw metal into factory-finish coated parts.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #030 — Electrostatic Precipitator
 
+<p align="center">
+  <img src="../../images/builds/030-electrostatic-precipitator.jpg" alt="Electrostatic Precipitator" width="700" />
+</p>
+
 > A high-voltage wire between grounded plates ionizes smoke and dust particles, then yanks them out of the air. Industrial-grade air cleaning from junkyard parts.
 
 ## Ratings
