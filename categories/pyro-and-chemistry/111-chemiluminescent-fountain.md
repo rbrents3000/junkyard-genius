@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Luminol and glow stick chemistry produce light without heat — chemiluminescence. Now imagine that glowing liquid pumped through a fountain, cascading down tiers, splashing into a basin, all in total darkness. No external lights. The liquid itself is the light source. Using a dishwasher pump salvaged from a dead appliance, you circulate the glowing solution through fountain tubing and nozzles. The effect is otherworldly — a flowing, splashing light source that looks like something from an alien planet. Mix multiple colors from different chemiluminescent reactions for a multi-hued display.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Luminol or glow stick fluid — multiple colors; crack glow sticks open or buy luminol powder *(party supply, chemistry supplier)*
 - [ ] Hydrogen peroxide 3% — activator for luminol *(pharmacy)*
@@ -29,7 +28,9 @@ Luminol and glow stick chemistry produce light without heat — chemiluminescenc
 - [ ] Dark room or outdoor night setting *(any dark space)*
 - [ ] Copper sulfate solution — catalyst to boost luminol glow (optional) *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage the pump.** Pull the circulation pump from a dead dishwasher. It's typically located at the bottom of the unit, connected to the spray arms. You need the pump motor, impeller housing, and inlet/outlet fittings. Clean it thoroughly.
 2. **Build the fountain frame.** Create a tiered structure using bowls, plates, or custom-built shelves. The liquid needs to flow from a high nozzle point down through tiers back into a bottom basin where the pump recirculates it. The structure should be stable and leak-proof.
@@ -41,13 +42,13 @@ Luminol and glow stick chemistry produce light without heat — chemiluminescenc
 8. **Run the fountain.** Power on the pump and watch glowing liquid arc from the nozzle, cascade down the tiers, and splash into the basin. The turbulence of splashing actually intensifies the glow by mixing the reactants.
 9. **Maintain the glow.** Luminol glow fades as the reactants are consumed (typically 30-60 minutes). Have extra hydrogen peroxide ready to add to the basin to refresh the reaction. Glow stick fluid fades more slowly but cannot be refreshed.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Sodium hydroxide (lye) is caustic. Wear gloves when mixing and handling the luminol solution. If the fountain splashes, the dilute solution is not dangerous but should be washed off skin and clothes promptly.
 - Glow stick fluid contains chemicals that can irritate skin and eyes. The glass ampule inside glow sticks can cut fingers when cracking them open. Wear gloves and crack over a container, not your hands.
 - The pump runs on electricity near water. Use a GFCI outlet or battery power. Ensure all electrical connections are above the water line and sealed from splashes.
 
-## See Also
+## 🔗 See Also
 
 - [Luminol Crime Scene](109-luminol-crime-scene.md)
 - [Fluorescein Blacklight Fountain](118-fluorescein-blacklight-fountain.md)

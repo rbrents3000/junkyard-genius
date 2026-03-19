@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 River tables are live-edge wood slabs split down the middle with a "river" of clear epoxy resin flowing between the two halves. They sell for $500-2000+ on Etsy. Now add strontium aluminate glow pigment to the resin. During the day, the table looks like a beautiful clear-river table. But charge it with sunlight or room light, kill the lights, and the river glows an intense blue-green for 12+ hours. Strontium aluminate is the strongest commercially available phosphorescent pigment — it's not like cheap glow paint that fades in minutes. This stuff BLAZES in the dark and keeps going all night. The combination of natural wood grain and a glowing river between the halves is otherworldly.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Live-edge wood slab — walnut, maple, or similar hardwood, split or with a natural void *(lumber yard, online slab dealers, Craigslist)*
 - [ ] Epoxy resin — deep pour formula (cures in thick layers without overheating) *(craft supply, online)*
@@ -29,7 +28,9 @@ River tables are live-edge wood slabs split down the middle with a "river" of cl
 - [ ] Table legs — hairpin legs, steel pipe, or custom *(hardware store, online)*
 - [ ] Mixing buckets, stir sticks, nitrile gloves, respirator *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the wood slab.** If using a single slab, split it or route a river channel down the middle. If using two halves, arrange them bark-edge-inward with a river gap of 3-6 inches. Sand the surfaces to 120 grit. Seal the wood with a thin coat of epoxy to prevent bubbles from off-gassing during the main pour.
 2. **Build the mold.** Create a melamine or plywood box that fits snugly around the slab with walls extending above the highest point. The mold bottom and walls should be covered in mold release wax or packing tape so the cured resin releases cleanly. Seal all edges with silicone caulk — any gap leaks resin.
@@ -42,13 +43,13 @@ River tables are live-edge wood slabs split down the middle with a "river" of cl
 9. **Attach legs.** Mount hairpin legs, steel pipe legs, or custom fabricated legs to the underside. Use threaded inserts in the wood for the cleanest attachment.
 10. **Test the glow.** Charge the table by placing it in sunlight or under bright room lights for 15-30 minutes. Kill the lights. The river should glow intensely for 2-4 hours at full brightness, then continue glowing dimly for 12+ hours.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Epoxy resin fumes are irritating and potentially sensitizing. Always work in a well-ventilated area or wear a respirator with organic vapor cartridges. Once cured, epoxy is inert and safe.
 - Uncured epoxy is a skin sensitizer — repeated exposure without gloves can cause permanent allergic reactions. Always wear nitrile gloves. If resin contacts skin, wash with soap immediately (not solvents).
 - Deep resin pours generate significant heat (exothermic reaction). Pouring too deep too fast can cause the resin to overheat, crack, yellow, or even smoke. Follow the manufacturer's maximum pour depth strictly.
 
-## See Also
+## 🔗 See Also
 
 - [Electroplating Station](../chemical-electronic/156-electroplating-station.md)
 - [Bismuth Crystal Garden](107-bismuth-crystal-garden.md)

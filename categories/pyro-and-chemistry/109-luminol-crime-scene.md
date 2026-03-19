@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Luminol is the chemical forensic investigators spray at crime scenes to reveal traces of blood. When luminol contacts iron (the iron in hemoglobin, or any iron compound), it produces a striking blue chemiluminescent glow in the dark. You don't need actual blood — any iron-containing solution works. Dissolve a rusty nail in water, paint it on surfaces, spray with luminol, and kill the lights. Glowing blue handprints, footprints, splatter patterns, and cryptic messages appear from nowhere. Perfect for Halloween haunted houses, escape rooms, or the most over-the-top murder mystery party ever.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Luminol powder — 5-10 grams *(chemistry supplier, online)*
 - [ ] Hydrogen peroxide 3% — the activator *(pharmacy)*
@@ -27,7 +26,9 @@ Luminol is the chemical forensic investigators spray at crime scenes to reveal t
 - [ ] Distilled water *(grocery store)*
 - [ ] Measuring spoons and cups *(kitchen)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Make the iron solution.** Soak rusty nails or steel wool in warm water with a splash of vinegar for 24 hours. The resulting rust-colored water contains dissolved iron. Strain out the solids. This is your "blood substitute."
 2. **Paint the crime scene.** Using brushes, sponges, or your hands (gloves recommended — iron solution stains), apply the iron solution to surfaces. Paint handprints on walls, drip trails on the floor, write messages, create splatter patterns. Let everything dry completely. Once dry, the marks become nearly invisible.
@@ -38,13 +39,13 @@ Luminol is the chemical forensic investigators spray at crime scenes to reveal t
 7. **Spray and reveal.** Spray the luminol solution across the surfaces where you applied the iron. An eerie blue glow appears instantly wherever iron is present. The glow lasts 30-60 seconds before fading, but you can spray again for another round.
 8. **Layer the reveals.** For escape rooms, put different clues in different locations. Guests discover them as they spray different walls and surfaces. A message on the ceiling they didn't think to check. Footprints leading to a hidden compartment.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Sodium hydroxide (lye) is caustic and can cause chemical burns. Wear gloves and goggles when mixing the luminol solution. If it contacts skin, flush immediately with water.
 - Luminol solution can stain clothing and surfaces blue. Protect floors and furniture you don't want stained. The stains fade with washing but can be persistent on porous surfaces.
 - Use in well-ventilated areas. The spray creates a mist that contains hydrogen peroxide and lye in dilute concentrations — not dangerous in open air but irritating in enclosed spaces.
 
-## See Also
+## 🔗 See Also
 
 - [Chemiluminescent Fountain](111-chemiluminescent-fountain.md)
 - [Fluorescein Blacklight Fountain](118-fluorescein-blacklight-fountain.md)

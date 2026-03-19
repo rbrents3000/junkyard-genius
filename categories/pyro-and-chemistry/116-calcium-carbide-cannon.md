@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Calcium carbide is a gray rock that reacts violently with water to produce acetylene gas — the same gas used in welding torches. In an enclosed chamber with a small nozzle, the acetylene builds up pressure. Ignite it and you get a thunderous BANG and a jet of flame. Old-school "carbide cannons" were traditional toys in parts of Europe, used to celebrate New Year's. A PVC or metal tube, some carbide chunks, a splash of water, and a spark source is all you need. The gas builds for 30-60 seconds, you hit the igniter, and the report echoes off buildings. It's primitive, loud, and enormously satisfying.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Calcium carbide — chunks/granules *(welding supply, online, cave/mining supply)*
 - [ ] PVC pipe — 3-4 inch diameter, 12-18 inches long with one end cap *(hardware store)*
@@ -28,7 +27,9 @@ Calcium carbide is a gray rock that reacts violently with water to produce acety
 - [ ] Ear protection — this is LOUD *(hardware store)*
 - [ ] Safety goggles *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the chamber.** Glue the PVC end cap onto one end of the pipe using PVC cement. This is the sealed end where the gas builds up. Let the cement cure fully according to instructions — a weak seal can fail under pressure.
 2. **Install the igniter.** Drill a small hole in the PVC end cap or near the closed end of the tube, just large enough for the piezo igniter tip. Mount the piezo igniter so the spark gap is inside the tube. Seal around it with silicone to make it gas-tight. The igniter button should be accessible from outside.
@@ -40,13 +41,13 @@ Calcium carbide is a gray rock that reacts violently with water to produce acety
 8. **Fire.** Point the open end in a SAFE direction, away from people, animals, and flammable objects. Click the piezo igniter. The acetylene detonates with a loud bang and a visible flame jet exits the open end.
 9. **Reload.** Dump out the spent slurry, rinse the tube, and reload with fresh carbide and water. Each firing cycle takes about 2 minutes.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Acetylene is explosive when mixed with air at concentrations between 2.5% and 81%. Never use this device indoors. Never hold your face over the open end of the tube. Never try to increase the pressure by using a tighter seal — you're building a contained gas ignition device, not a pipe bomb.
 - This is EXTREMELY loud — comparable to a gunshot. Wear ear protection. Alert neighbors before use. Be aware of local noise ordinances. Never fire near animals.
 - Calcium carbide reacts with moisture, including humidity in air. Store it in a sealed, dry container. The reaction produces calcium hydroxide (lime), which is caustic. Wash hands after handling and avoid breathing the acetylene gas directly.
 
-## See Also
+## 🔗 See Also
 
 - [Hydrogen Generator](../chemical-electronic/159-hydrogen-generator.md)
 - [Smoke Bomb Array](103-smoke-bomb-array.md)

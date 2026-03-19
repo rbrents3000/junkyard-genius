@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Hydrogen peroxide naturally decomposes into water and oxygen gas, but it does it slowly — a bottle of the stuff lasts months in your medicine cabinet. Add potassium iodide as a catalyst and dish soap as a foaming agent, and the decomposition happens all at once. The oxygen gas inflates the soap into a massive column of warm foam that erupts out of whatever container you use. With 12% salon-grade peroxide in a narrow-necked bottle, you can get eruptions over 10 feet tall. It's exothermic (the foam is warm to the touch), completely non-toxic, and the single most reliable crowd-pleaser in all of kitchen chemistry.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Hydrogen peroxide 12% (40-volume) — salon/beauty supply grade *(beauty supply store, online)*
 - [ ] Potassium iodide powder — the catalyst *(chemistry supplier, online)*
@@ -29,7 +28,9 @@ Hydrogen peroxide naturally decomposes into water and oxygen gas, but it does it
 - [ ] Rubber gloves *(pharmacy)*
 - [ ] Tarp or outdoor area — this makes a mess *(garage, yard)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up the mess zone.** Lay a tarp on the ground outdoors or in a garage. The foam expands rapidly and goes everywhere. This is not an indoor-on-the-kitchen-counter experiment. Place your bottle in the center of the tarp.
 2. **Prepare the bottle.** Pour 1 cup (240 mL) of 12% hydrogen peroxide into the bottle. Add a generous squirt of dish soap — about 2 tablespoons. Add food coloring if desired. For a striped effect, drizzle different colors down the inside walls of the bottle before adding peroxide.
@@ -40,13 +41,13 @@ Hydrogen peroxide naturally decomposes into water and oxygen gas, but it does it
 7. **Scale it up.** For truly massive eruptions, use a 5-gallon bucket, a full liter of 30% peroxide (industrial grade), and proportionally more catalyst. This is how the viral YouTube videos get 30+ foot columns.
 8. **Clean up.** The foam is just soapy water with dissolved iodide. Hose it off the tarp. It's safe for grass and drains.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Hydrogen peroxide above 12% can cause chemical burns on skin and will bleach clothing on contact. Wear gloves and goggles. If it contacts skin, flush immediately with water.
 - The reaction is exothermic — the foam comes out warm, around 100-130°F. Not dangerous but surprising if you stick your hand in the column mid-eruption.
 - Never seal hydrogen peroxide in a closed container. Decomposition produces oxygen gas, and a sealed container becomes a pressure bomb.
 
-## See Also
+## 🔗 See Also
 
 - [Dry Ice Bubble Cauldron](120-dry-ice-bubble-cauldron.md)
 - [Chemiluminescent Fountain](111-chemiluminescent-fountain.md)

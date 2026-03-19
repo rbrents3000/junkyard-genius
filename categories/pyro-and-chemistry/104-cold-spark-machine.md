@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Cold spark machines are the secret behind the indoor pyrotechnics you see at concerts, weddings, and award shows. They launch tiny granules of titanium powder through a heating element that makes them glow brilliantly — but the sparks cool almost instantly and won't burn skin, set clothes on fire, or damage ceilings. Commercial cold spark machines cost $300-500 each. The core technology is straightforward: a heating element, a motorized feed mechanism, and titanium composite powder. Build your own for a fraction of the cost and suddenly every backyard party looks like a stadium concert.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Titanium composite powder (Ti granules) — specifically rated for cold spark machines *(specialty pyro supplier, online)*
 - [ ] Nichrome heating coil — 20-gauge, shaped into a small chamber *(electronics supplier)*
@@ -29,7 +28,9 @@ Cold spark machines are the secret behind the indoor pyrotechnics you see at con
 - [ ] Arduino or Pi — for DMX/remote control (optional) *(electronics supplier)*
 - [ ] Steel base plate — keeps the unit stable *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the heating chamber.** Coil nichrome wire into a small basket or cup shape, roughly 1 inch diameter. This is where the titanium granules will momentarily contact the hot wire before being launched upward. Mount it inside the base of your steel tube.
 2. **Create the feed mechanism.** Mount a small funnel or hopper above the heating element. The granules need to fall by gravity onto the hot coil at a controlled rate. A small vibration motor on the hopper helps maintain consistent flow.
@@ -41,13 +42,13 @@ Cold spark machines are the secret behind the indoor pyrotechnics you see at con
 8. **Calibrate the flow rate.** Adjust the hopper feed rate and fan speed until you get a consistent fountain of sparks. Too many granules = clumping and dull sparks. Too few = sparse effect. The sweet spot produces a shower 4-8 feet tall.
 9. **Add remote control.** Wire the MOSFET gate to an Arduino or Pi GPIO pin. Control via button, DMX signal, or even music-reactive code that fires the machine on beat drops.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Use ONLY titanium composite powder rated for cold spark machines. Other metal powders (aluminum, magnesium, iron) burn much hotter and are genuinely dangerous. Titanium cold spark granules are engineered to cool rapidly.
 - Even though the sparks are "cold," the heating element itself is extremely hot. Never reach into the machine while it's powered on. Always use the master kill switch before any adjustments.
 - Operate in well-ventilated areas. While the sparks themselves are cool, the heating element can produce fumes. Not suitable for small enclosed rooms without ventilation.
 
-## See Also
+## 🔗 See Also
 
 - [Fireworks Sequencer](../pi-and-arduino/121-fireworks-sequencer.md)
 - [Steel Wool Photography](113-steel-wool-photography.md)

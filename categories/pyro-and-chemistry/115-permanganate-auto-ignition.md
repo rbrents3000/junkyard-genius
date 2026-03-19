@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Potassium permanganate is a powerful oxidizer. Glycerin is a thick, syrupy fuel. When you pour glycerin onto a pile of potassium permanganate powder, nothing happens immediately. Then, after a 30-60 second delay, the exothermic oxidation reaction reaches ignition temperature and the mixture spontaneously bursts into vivid purple-tinged flames. No spark, no match, no lighter — just two liquids/powders meeting and chemistry taking its course. The delay is what makes it spectacular. You pour the glycerin, step back, and wait. The anticipation builds. Then — fire from nothing. It's the most dramatic demonstration of chemical auto-ignition you can do with hardware store ingredients.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Potassium permanganate (KMnO4) — purple crystals *(water treatment supplier, online, some hardware stores)*
 - [ ] Glycerin (glycerol) — pharmaceutical grade *(pharmacy, craft store — sold as soap-making ingredient)*
@@ -25,7 +24,9 @@ Potassium permanganate is a powerful oxidizer. Glycerin is a thick, syrupy fuel.
 - [ ] Safety goggles *(hardware store)*
 - [ ] Fire-resistant gloves *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up outdoors.** This must be done on a non-flammable surface in an outdoor area. Use a ceramic plate, metal tray, or concrete pad. Clear the area of any flammable materials within a 5-foot radius.
 2. **Create the permanganate mound.** Pour a tablespoon of potassium permanganate into a small mound on the fireproof surface. Shape a small well or depression in the center of the mound to hold the glycerin.
@@ -36,13 +37,13 @@ Potassium permanganate is a powerful oxidizer. Glycerin is a thick, syrupy fuel.
 7. **Experiment with variables.** Finer permanganate powder ignites faster. Warmer ambient temperature shortens the delay. More glycerin produces a larger flame. The delay can be extended by using less glycerin or coarser crystals.
 8. **Film in slow motion.** The moment of auto-ignition — where smoke transitions to flame — is incredibly cinematic in slow motion. Set up a camera at a safe distance before pouring the glycerin.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Potassium permanganate is a powerful oxidizer and stains everything it contacts a deep purple/brown. Wear gloves and old clothes. The stains on skin fade in a few days but are nearly impossible to remove from fabric.
 - The auto-ignition delay is variable and unpredictable. Never lean over the mixture to check on it. Always step back after adding glycerin and observe from a safe distance. On hot days, ignition can occur in under 20 seconds.
 - Potassium permanganate is harmful if ingested and irritating to eyes and respiratory tract. Handle in well-ventilated areas. Store away from all organic materials (wood, paper, cloth) as it is an oxidizer that can spontaneously ignite flammable materials in concentrated form.
 
-## See Also
+## 🔗 See Also
 
 - [Thermite Flower Pot](105-thermite-flower-pot.md)
 - [Pharaoh's Serpent](110-pharaohs-serpent.md)

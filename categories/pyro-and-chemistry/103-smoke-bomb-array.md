@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Potassium nitrate (stump remover from the hardware store) mixed with sugar creates a smoke composition that burns slowly and produces thick, voluminous smoke. Add organic dye powder and the smoke takes on vivid color. Build multiple smoke bombs in different colors, wire them with nichrome igniter wire to a relay board, and program a Raspberry Pi to fire them in sequence. Timed to music, fired in choreographed patterns — this is how professionals create smoke effects for film, photography, and gender reveals. Except you built it for $20 instead of paying $200.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Potassium nitrate (KNO3) — sold as stump remover (Spectracide brand) *(hardware store)*
 - [ ] Plain white sugar *(grocery store)*
@@ -29,7 +28,9 @@ Potassium nitrate (stump remover from the hardware store) mixed with sugar creat
 - [ ] Aluminum foil *(kitchen)*
 - [ ] Old saucepan — dedicated, never use for food again *(thrift store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Cook the smoke composition.** Mix 3 parts KNO3 to 2 parts sugar by weight in an old saucepan over LOW heat. Stir constantly. The sugar melts first, then the mixture turns into a thick brown paste resembling peanut butter. Do this OUTDOORS on a hot plate or camp stove. Never use your kitchen stove.
 2. **Add the dye.** Once the mixture reaches peanut butter consistency, remove from heat and quickly stir in organic dye powder — about 1-2 tablespoons per batch. Work fast; it starts to harden as it cools.
@@ -42,13 +43,13 @@ Potassium nitrate (stump remover from the hardware store) mixed with sugar creat
 9. **Fire the sequence.** Run the script. Each relay sends current through its nichrome wire, which heats red-hot and ignites the smoke composition. Colored smoke billows up in programmed sequence.
 10. **Film it.** Set up a camera at a safe distance. Slow-motion captures the smoke beautifully. Sunset light behind smoke creates insane backlit color effects.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Cook the KNO3/sugar mixture OUTDOORS only. If the mixture ignites during cooking (rare but possible if heated too fast), do not pour water on it. Let it burn out in the saucepan. Have a fire extinguisher nearby.
 - Potassium nitrate is an oxidizer. Store it away from flammable materials. Do not store assembled smoke bombs near heat sources.
 - Nichrome wire gets extremely hot when current flows through it. Never touch it while the system is armed. Always have a master kill switch (physical toggle) between the power supply and relay board.
 
-## See Also
+## 🔗 See Also
 
 - [Fireworks Sequencer](../pi-and-arduino/121-fireworks-sequencer.md)
 - [Colored Fire](101-colored-fire.md)

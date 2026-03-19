@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Thermite is a mixture of iron oxide (rust) and aluminum powder. When ignited, the aluminum steals the oxygen from the iron oxide in a violently exothermic reaction that produces molten iron at over 4000°F — hotter than lava. Suspend a clay flower pot above a sand mold, pack it with thermite, light it with a magnesium ribbon, and watch as white-hot molten iron drips through the drain hole into the mold below. When it cools, you have a solid iron casting made from two powders and a flower pot. This is foundational metallurgy — literally smelting metal from oxide — done in the most dramatic way possible.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Iron oxide (rust) powder — fine red/black iron oxide, Fe2O3 *(online, art supply stores, or make by soaking steel wool in vinegar)*
 - [ ] Aluminum powder — fine mesh, 200-325 mesh *(online pyro suppliers)*
@@ -29,7 +28,9 @@ Thermite is a mixture of iron oxide (rust) and aluminum powder. When ignited, th
 - [ ] Safety goggles — shade 5 or welding goggles, the reaction is BRIGHT *(hardware store)*
 - [ ] Fire-resistant gloves *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Choose your location.** This must be done outdoors on bare dirt, concrete, or gravel. NEVER on a wood deck, near grass, or near structures. Clear a 15-foot radius. This is the real deal — 4000°F molten metal.
 2. **Build the support structure.** Stack cinder blocks or weld a steel frame to hold the clay pot about 18-24 inches above the sand mold. The pot must be stable and the drain hole centered over the mold cavity.
@@ -42,13 +43,13 @@ Thermite is a mixture of iron oxide (rust) and aluminum powder. When ignited, th
 9. **Let it cool.** The reaction lasts 30-60 seconds. Let everything cool for at least 30 minutes before approaching. The iron casting and pot will remain dangerously hot long after the visible reaction stops.
 10. **Retrieve your casting.** Dig the cooled iron out of the sand mold. Clean off the sand. You now have a solid iron casting made from rust, aluminum, and a flower pot.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Thermite produces molten iron at 4000°F+ and intense UV radiation. NEVER look directly at the reaction without welding-grade eye protection (shade 5 minimum). It is brighter than arc welding.
 - Molten iron spatters can travel several feet. Wear long sleeves, closed shoes, and fire-resistant gloves. Keep skin fully covered. Do not stand over the pot when lighting.
 - Thermite cannot be extinguished with water. Water hitting molten thermite causes a steam explosion that sprays molten metal in all directions. If something goes wrong, step back and let it burn out. It's self-limiting — once the mixture is consumed, the reaction stops.
 
-## See Also
+## 🔗 See Also
 
 - [Permanganate Auto-Ignition](115-permanganate-auto-ignition.md)
 - [Colored Fire](101-colored-fire.md)
