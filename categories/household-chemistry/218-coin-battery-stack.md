@@ -52,3 +52,6 @@ It's the most fundamental demonstration of electrochemistry — you are literall
 
 - [Electrolysis Rust Eraser](212-electrolysis-rust-eraser.md) — the reverse electrochemical process: using electricity to drive a reaction instead of generating it
 - [Electroplating Station](../chemical-electronic/156-electroplating-station.md) — another electrochemistry build using copper and acid solutions
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

@@ -50,3 +50,8 @@ This is a serious chemistry reaction with real hazards. The reaction produces ex
 
 - [Colored Fire](../pyro-and-chemistry/101-colored-fire.md) — other chemical reactions that produce dramatic visual effects
 - [Alcohol Vapor Cannon](209-alcohol-vapor-cannon.md) — another build combining household chemicals and combustion
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)

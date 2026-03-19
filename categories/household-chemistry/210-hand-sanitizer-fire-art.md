@@ -47,3 +47,8 @@ This is the build that goes viral. Fire writing in a dark room, filmed from abov
 
 - [Alcohol Vapor Cannon](209-alcohol-vapor-cannon.md) — another build exploiting alcohol combustion
 - [Colored Fire](../pyro-and-chemistry/101-colored-fire.md) — different chemical approaches to colored flames
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)

@@ -58,3 +58,6 @@ The really fun part is adding color. Drop food coloring directly onto the charco
 
 - [Copper Plating with Vinegar](328-copper-plating-with-vinegar.md)
 - [Electrolysis Rust Eraser](212-electrolysis-rust-eraser.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

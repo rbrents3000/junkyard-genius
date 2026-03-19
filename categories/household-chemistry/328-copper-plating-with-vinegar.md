@@ -60,3 +60,6 @@ Within 30 minutes, your target object will have a visible copper coating. Leave 
 
 - [Electrolysis Rust Eraser](212-electrolysis-rust-eraser.md)
 - [Bleach Crystal Garden](213-bleach-crystal-garden.md)
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)

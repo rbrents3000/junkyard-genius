@@ -61,3 +61,8 @@ Once the mixture is smooth and liquid, you pour it into molds — cardboard tube
 
 - [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste.md)
 - [Chemical Smoke Screen Machine](../alchemist-cookbook/276-chemical-smoke-screen-machine.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Chemicals Reference](../../reference/chemicals.md)

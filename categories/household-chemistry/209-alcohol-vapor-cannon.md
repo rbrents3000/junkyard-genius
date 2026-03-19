@@ -48,3 +48,6 @@ The bottle is reusable. Just swirl in more alcohol and fire again. One bottle of
 
 - [Baking Soda Vinegar Rocket](215-baking-soda-vinegar-rocket.md) — pressure-based projectile launch without combustion
 - [Hand Sanitizer Fire Art](210-hand-sanitizer-fire-art.md) — another controlled combustion build using household alcohol
+
+**References:**
+- [Chemicals Reference](../../reference/chemicals.md)
