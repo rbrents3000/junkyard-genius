@@ -63,3 +63,8 @@ Battery life is the engineering challenge. A full jacket with 150+ LEDs at full 
 
 - [Sound-Reactive LED Face Mask](244-led-mask.md)
 - [Motion Capture MIDI Glove](246-motion-capture-glove.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

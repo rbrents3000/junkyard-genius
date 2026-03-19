@@ -64,3 +64,8 @@ The ESP32 reads all the sensors, maps them to MIDI messages, and sends those mes
 
 - [Sound-Reactive LED Jacket](242-led-jacket.md)
 - [Heads-Up Display Glasses](245-hud-glasses.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

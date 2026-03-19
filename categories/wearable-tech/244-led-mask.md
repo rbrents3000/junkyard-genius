@@ -64,3 +64,6 @@ The mouth tracking is the killer feature. The microphone picks up your voice (it
 
 - [Sound-Reactive LED Jacket](242-led-jacket.md)
 - [Heads-Up Display Glasses](245-hud-glasses.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
