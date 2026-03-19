@@ -51,3 +51,8 @@ A pen plotter is a machine that draws with actual pens on actual paper — movin
 
 - [Printer Stepper CNC](069-printer-stepper-cnc.md)
 - [DVD Laser Engraver](071-dvd-laser-engraver.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

@@ -51,3 +51,8 @@ DVD burner drives contain two valuable things: a precision stepper-driven sled m
 
 - [Printer Stepper CNC](069-printer-stepper-cnc.md)
 - [Pen Plotter](072-pen-plotter.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
