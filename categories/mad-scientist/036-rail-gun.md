@@ -68,7 +68,7 @@ This is one of the most advanced builds in this book. It requires understanding 
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 - This device launches projectiles. Treat it with the same respect as a firearm. Never point it at anything you don't intend to destroy. Always use a backstop. Clear the range before firing. Be aware of local laws regarding electromagnetic launchers — some jurisdictions regulate them.
 - The capacitor bank is a lethal electrical hazard at the voltages involved. All capacitor safety rules apply: bleed resistors, voltmeter verification, insulated enclosure, never touch when charged. The energy stored in a 50µF bank at 2000V is 100 joules — enough to cause fatal cardiac arrest.

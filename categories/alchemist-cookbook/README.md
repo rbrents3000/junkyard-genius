@@ -71,7 +71,7 @@ Start with simple chemistry spectacles, progress toward extreme electromagnetic 
 
 ## 📚 Reference Guides
 
-- [Accessible Chemicals Guide](../../reference/chemicals.md)
-- [Tools Needed](../../reference/tools-needed.md)
-- [Sourcing Guide](../../reference/sourcing-guide.md)
-- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)
+- [Accessible Chemicals Guide](../../docs/reference/chemicals.md)
+- [Tools Needed](../../docs/reference/tools-needed.md)
+- [Sourcing Guide](../../docs/reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../docs/reference/difficulty-guide.md)

@@ -72,6 +72,6 @@ The Earth rotates once every 24 hours. Point a camera at the sky and take a long
 - [ESP32 Weather Station](132-esp32-weather-station.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

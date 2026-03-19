@@ -81,4 +81,4 @@ Within 30 minutes, your target object will have a visible copper coating. Leave 
 - [Bleach Crystal Garden](213-bleach-crystal-garden.md)
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

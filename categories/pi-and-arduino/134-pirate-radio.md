@@ -67,6 +67,6 @@ The Raspberry Pi can generate FM radio signals directly from a GPIO pin — no a
 - [Pi DJ Controller](131-pi-dj-controller.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

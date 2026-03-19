@@ -61,7 +61,7 @@ Potassium nitrate (KNO3) and sugar, when melted together and hardened, form a so
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
 
 - R-candy is a legitimate solid propellant. Once ignited, it cannot be extinguished by conventional means — it supplies its own oxygen. Do not attempt to smother it, stamp it out, or pour water on it to extinguish it (water doesn't work; that's the whole point of this build). Let it burn to completion. Keep all combustible materials well clear.
 - The flame jet is 1,500-2,000°F and can cause severe burns instantly. Never point the nozzle toward people, structures, or anything flammable. Maintain a 15-foot safety radius around the combustion tube. The underwater demo produces boiling water and steam that can scald — stand back.
@@ -73,6 +73,6 @@ Potassium nitrate (KNO3) and sugar, when melted together and hardened, form a so
 - [Colored Fire](../pyro-and-chemistry/101-colored-fire.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

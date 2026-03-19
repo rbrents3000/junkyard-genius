@@ -69,6 +69,6 @@ A microphone picks up conversation. Speech recognition converts it to text. Natu
 - [Voice Home Automation](149-voice-home-automation.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

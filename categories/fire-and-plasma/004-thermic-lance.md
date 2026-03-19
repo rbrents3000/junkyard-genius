@@ -67,7 +67,7 @@ This is the same tool demolition crews use to cut apart bridges and industrial e
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 > [!CAUTION]
 > **This operates at temperatures that will instantly ignite anything flammable.** Molten slag at 4,500degF sprays in unpredictable directions. Do this outdoors on bare dirt or concrete, far from any structure. Have a fire extinguisher AND a garden hose ready. The slag can start fires 10+ feet away.

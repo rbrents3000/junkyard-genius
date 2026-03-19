@@ -94,5 +94,5 @@ Place a model car in the test section and watch the smoke streamlines split arou
 - [Pneumatic Launcher](299-pneumatic-launcher.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

@@ -72,4 +72,4 @@ Rochelle salt (potassium sodium tartrate) is one of the strongest known piezoele
 - [Instant Ice Sculpture](../pyro-and-chemistry/108-instant-ice-sculpture.md)
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

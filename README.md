@@ -22,13 +22,13 @@ Every build is rated on 6 scales, includes sourced ingredients, step-by-step ins
 
 <p align="center">
   <br>
-  <a href="https://rbrents3000.github.io/junkyard-genius/quiz/"><strong>🎯 Take the Build Finder Quiz</strong></a> — answer 6 questions, get personalized recommendations
+  <a href="https://rbrents3000.github.io/junkyard-genius/app/quiz/"><strong>🎯 Take the Build Finder Quiz</strong></a> — answer 6 questions, get personalized recommendations
 
-  <a href="https://rbrents3000.github.io/junkyard-genius/browse/"><strong>🔍 Browse All Builds</strong></a> — search, filter, and sort every project
+  <a href="https://rbrents3000.github.io/junkyard-genius/app/browse/"><strong>🔍 Browse All Builds</strong></a> — search, filter, and sort every project
 
-  <a href="https://rbrents3000.github.io/junkyard-genius/browse/?random=1"><strong>🎲 Feeling Lucky?</strong></a> — jump to a random build
+  <a href="https://rbrents3000.github.io/junkyard-genius/app/browse/?random=1"><strong>🎲 Feeling Lucky?</strong></a> — jump to a random build
 
-  <a href="https://rbrents3000.github.io/junkyard-genius/toolbox/"><strong>🧰 My Toolbox</strong></a> — track your completed and want-to-build projects
+  <a href="https://rbrents3000.github.io/junkyard-genius/app/toolbox/"><strong>🧰 My Toolbox</strong></a> — track your completed and want-to-build projects
   <br><br>
 </p>
 
@@ -124,7 +124,7 @@ Pick your comfort level and dive in. Each tier prepares you for the next.
 | [#036 — Rail Gun](categories/mad-scientist/036-rail-gun.md) | Mad Scientist | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 | [#302 — Giant Outdoor Tesla Coil](categories/big-builds/302-giant-outdoor-tesla-coil.md) | Big Builds | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
 
-> **Want structured learning paths?** Check out the [Skill Trees](reference/skill-trees.md) for step-by-step progression through Electrical, Pyro, Coding, Mechanical, Chemical, Optical, and Woodworking domains.
+> **Want structured learning paths?** Check out the [Skill Trees](docs/reference/skill-trees.md) for step-by-step progression through Electrical, Pyro, Coding, Mechanical, Chemical, Optical, and Woodworking domains.
 
 ---
 
@@ -280,28 +280,28 @@ Find builds based on what you already have lying around. One person's e-waste is
 
 <p><strong>Start here:</strong></p>
 <ul>
-<li><a href="reference/appliance-teardown-guide.md">Appliance Teardown Guide</a> — 13 appliances: what to salvage, teardown safety, tools needed</li>
-<li><a href="reference/tools-needed.md">Tools Needed</a> — the minimum toolbox, tiered from $0 to $300+</li>
-<li><a href="reference/sourcing-guide.md">Sourcing Guide</a> — where to find free junk: bulk trash days, Craigslist, ReStore, e-waste recyclers</li>
-<li><a href="reference/one-appliance-five-builds.md">One Appliance, Five Builds</a> — "You scored a dead microwave — now what?"</li>
+<li><a href="docs/reference/appliance-teardown-guide.md">Appliance Teardown Guide</a> — 13 appliances: what to salvage, teardown safety, tools needed</li>
+<li><a href="docs/reference/tools-needed.md">Tools Needed</a> — the minimum toolbox, tiered from $0 to $300+</li>
+<li><a href="docs/reference/sourcing-guide.md">Sourcing Guide</a> — where to find free junk: bulk trash days, Craigslist, ReStore, e-waste recyclers</li>
+<li><a href="docs/reference/one-appliance-five-builds.md">One Appliance, Five Builds</a> — "You scored a dead microwave — now what?"</li>
 </ul>
 
 <p><strong>Go deeper:</strong></p>
 <ul>
-<li><a href="reference/electronics-and-microcontrollers.md">Electronics &amp; Microcontrollers</a> — Pi vs Arduino vs ESP32, sensors, power</li>
-<li><a href="reference/chemicals.md">Chemicals Guide</a> — 30+ chemicals: where to buy, cost, safety, which builds use them</li>
-<li><a href="reference/skill-trees.md">Skill Trees</a> — progression paths from beginner to advanced</li>
-<li><a href="reference/ingredient-index.md">Ingredient Index</a> — reverse lookup: every component → every build</li>
-<li><a href="reference/difficulty-guide.md">Difficulty &amp; Ratings Guide</a> — the 6-scale rating system explained</li>
-<li><a href="reference/glossary.md">Glossary</a> — 60+ technical terms decoded</li>
+<li><a href="docs/reference/electronics-and-microcontrollers.md">Electronics &amp; Microcontrollers</a> — Pi vs Arduino vs ESP32, sensors, power</li>
+<li><a href="docs/reference/chemicals.md">Chemicals Guide</a> — 30+ chemicals: where to buy, cost, safety, which builds use them</li>
+<li><a href="docs/reference/skill-trees.md">Skill Trees</a> — progression paths from beginner to advanced</li>
+<li><a href="docs/reference/ingredient-index.md">Ingredient Index</a> — reverse lookup: every component → every build</li>
+<li><a href="docs/reference/difficulty-guide.md">Difficulty &amp; Ratings Guide</a> — the 6-scale rating system explained</li>
+<li><a href="docs/reference/glossary.md">Glossary</a> — 60+ technical terms decoded</li>
 </ul>
 
 <p><strong>Extras:</strong></p>
 <ul>
-<li><a href="reference/filming-guide.md">Filming Guide</a> — how to film for TikTok/YouTube</li>
-<li><a href="reference/seasonal-builds.md">Seasonal Builds</a> — builds by holiday</li>
-<li><a href="reference/python-libraries.md">Python Libraries</a> — 18 key packages for software builds</li>
-<li><a href="reference/android-apps.md">Android Apps</a> — sensor apps, controllers, cameras</li>
+<li><a href="docs/reference/filming-guide.md">Filming Guide</a> — how to film for TikTok/YouTube</li>
+<li><a href="docs/reference/seasonal-builds.md">Seasonal Builds</a> — builds by holiday</li>
+<li><a href="docs/reference/python-libraries.md">Python Libraries</a> — 18 key packages for software builds</li>
+<li><a href="docs/reference/android-apps.md">Android Apps</a> — sensor apps, controllers, cameras</li>
 </ul>
 
 </details>
@@ -312,10 +312,10 @@ Find builds based on what you already have lying around. One person's e-waste is
 <p>We're not your mom, but she'd want you to read these. Especially anything above Spicy ⭐⭐.</p>
 
 <ul>
-<li><a href="safety/README.md">General Safety</a> — universal rules, emergency contacts, legal considerations</li>
-<li><a href="safety/high-voltage.md">High Voltage Safety</a> — capacitor discharge, one-hand rule, shock first aid</li>
-<li><a href="safety/chemicals.md">Chemical Safety</a> — PPE, storage, disposal, dangerous combinations</li>
-<li><a href="safety/fire-and-pyro.md">Fire &amp; Pyro Safety</a> — extinguisher types, burn treatment, safe distances</li>
+<li><a href="docs/safety/README.md">General Safety</a> — universal rules, emergency contacts, legal considerations</li>
+<li><a href="docs/safety/high-voltage.md">High Voltage Safety</a> — capacitor discharge, one-hand rule, shock first aid</li>
+<li><a href="docs/safety/chemicals.md">Chemical Safety</a> — PPE, storage, disposal, dangerous combinations</li>
+<li><a href="docs/safety/fire-and-pyro.md">Fire &amp; Pyro Safety</a> — extinguisher types, burn treatment, safe distances</li>
 </ul>
 
 </details>

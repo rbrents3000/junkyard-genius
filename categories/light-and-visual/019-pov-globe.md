@@ -81,6 +81,6 @@ The concept exploits the fact that human vision retains an image for about 1/25t
 - [Light Painting Robot](178-light-painting-robot.md) — LEDs creating images through motion, captured by long-exposure photography
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

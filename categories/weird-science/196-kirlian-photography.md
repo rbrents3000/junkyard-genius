@@ -72,7 +72,7 @@ Semyon Kirlian discovered this in 1939, and it immediately attracted mystical ex
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
 
 > [!WARNING]
 > **High voltage.** The flyback output is 10-30kV. While the current is low (microamps to low milliamps), it can deliver a painful shock and cause involuntary muscle contraction. Never touch the metal plate or any exposed conductor while the driver is powered. Use a physical kill switch within arm's reach and always disconnect power before adjusting anything.

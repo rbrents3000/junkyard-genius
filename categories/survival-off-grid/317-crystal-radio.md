@@ -80,5 +80,5 @@ The sound is quiet — you'll need a crystal earpiece, not regular earbuds or a 
 - [Faraday Cage](252-faraday-cage.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

@@ -73,4 +73,4 @@ A Dungeon Master runs the story, controls the NPCs, describes the world, and adj
 - [Music Visualizer LED Wall](145-music-visualizer-led-wall.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

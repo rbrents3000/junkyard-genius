@@ -71,4 +71,4 @@ Concert LED walls react to the music — bass pulses, melodies ripple, beats fla
 - [LED Cube 8x8x8](../pi-and-arduino/122-led-cube-8x8x8.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

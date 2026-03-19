@@ -95,4 +95,4 @@ You can levitate anything that has a magnet embedded in it: a globe, a light bul
 - [Invisible Bluetooth Speaker](254-invisible-speaker.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

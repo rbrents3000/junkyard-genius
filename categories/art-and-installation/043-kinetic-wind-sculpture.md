@@ -73,5 +73,5 @@ Anthony Howe's massive kinetic sculptures sell for hundreds of thousands of doll
 - [Anti-Gravity Water Fountain](044-antigravity-water-fountain.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

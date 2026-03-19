@@ -73,7 +73,7 @@ The key insight is that plasma follows airflow. By evacuating most of the air fr
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 > [!CAUTION]
 > **MOTs can kill you.** The secondary outputs around 2,000V at high current — enough to stop your heart. Never touch any exposed conductor while the unit is powered. Always use one hand only (keep the other in your pocket) and stand on a rubber mat. Wire a kill switch within arm's reach.
@@ -86,5 +86,5 @@ The key insight is that plasma follows airflow. By evacuating most of the air fr
 - [Giant Plasma Globe](../light-and-visual/015-giant-plasma-globe.md) — similar concept but spherical
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

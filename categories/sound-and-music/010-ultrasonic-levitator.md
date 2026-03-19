@@ -80,6 +80,6 @@ The objects literally float in mid-air with no visible support. You can levitate
 - [Schlieren Optics](../light-and-visual/172-schlieren-optics.md) — visualize the sound waves themselves instead of levitating objects in them
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

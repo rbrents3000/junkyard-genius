@@ -32,7 +32,7 @@ If you find a security issue with the **GitHub Actions workflows** or **reposito
 
 ## Safety Resources
 
-- [General Safety Guide](../safety/README.md)
-- [High Voltage Safety](../safety/high-voltage.md)
-- [Chemical Safety](../safety/chemicals.md)
-- [Fire & Pyro Safety](../safety/fire-and-pyro.md)
+- [General Safety Guide](../docs/safety/README.md)
+- [High Voltage Safety](../docs/safety/high-voltage.md)
+- [Chemical Safety](../docs/safety/chemicals.md)
+- [Fire & Pyro Safety](../docs/safety/fire-and-pyro.md)

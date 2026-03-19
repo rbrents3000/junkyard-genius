@@ -71,5 +71,5 @@ The materials are free. The only cost is welding consumables and finishing suppl
 - [CRT Electromagnetic Art](048-crt-electromagnetic-art.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

@@ -63,7 +63,7 @@ This is the standard method for welding nickel tabs to lithium cells when buildi
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
 
 - The primary side of this device runs on mains voltage (120V AC). All mains connections must be fully insulated. Never touch the primary wiring while the unit is plugged in. Use a grounded power cord.
 - The secondary produces extremely high current (300-800A) at low voltage. The electrodes and cable will get hot during extended use. Allow cooling time between welds. The cable can melt its insulation if overworked.
@@ -75,5 +75,5 @@ This is the standard method for welding nickel tabs to lithium cells when buildi
 - [Capacitor Discharge Welder](032-capacitor-discharge-welder.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

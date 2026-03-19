@@ -69,4 +69,4 @@ Neural style transfer is a machine learning technique that takes the content of 
 - [Body Pose Music](152-body-pose-music.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -123,7 +123,7 @@ Total cost of purchased materials (not counting salvaged/free parts).
 
 ### Spicy Level
 
-How dangerous is this build? See [General Safety](../safety/README.md) for detailed descriptions of each level.
+How dangerous is this build? See [General Safety](../docs/safety/README.md) for detailed descriptions of each level.
 
 | Stars | Level | Description |
 |---|---|---|
@@ -258,18 +258,18 @@ Each step is numbered, with a bold title and detailed explanation:
 
 If your build uses a chemical, component, or tool not covered in the reference docs, update the relevant guide:
 
-- [Chemicals Guide](../reference/chemicals.md) — add new chemicals with the same format (what, where, cost, builds, safety)
-- [Appliance Teardown Guide](../reference/appliance-teardown-guide.md) — add new appliance types or parts
-- [Electronics & Microcontrollers](../reference/electronics-and-microcontrollers.md) — add new sensors, modules, or platforms
-- [Android Apps](../reference/android-apps.md) — add new apps used in builds
-- [Python Libraries](../reference/python-libraries.md) — add new packages
+- [Chemicals Guide](../docs/reference/chemicals.md) — add new chemicals with the same format (what, where, cost, builds, safety)
+- [Appliance Teardown Guide](../docs/reference/appliance-teardown-guide.md) — add new appliance types or parts
+- [Electronics & Microcontrollers](../docs/reference/electronics-and-microcontrollers.md) — add new sensors, modules, or platforms
+- [Android Apps](../docs/reference/android-apps.md) — add new apps used in builds
+- [Python Libraries](../docs/reference/python-libraries.md) — add new packages
 
 If your build involves new safety considerations not covered in the existing safety guides, update:
 
-- [General Safety](../safety/README.md)
-- [High Voltage Safety](../safety/high-voltage.md)
-- [Chemical Safety](../safety/chemicals.md)
-- [Fire & Pyro Safety](../safety/fire-and-pyro.md)
+- [General Safety](../docs/safety/README.md)
+- [High Voltage Safety](../docs/safety/high-voltage.md)
+- [Chemical Safety](../docs/safety/chemicals.md)
+- [Fire & Pyro Safety](../docs/safety/fire-and-pyro.md)
 
 ---
 

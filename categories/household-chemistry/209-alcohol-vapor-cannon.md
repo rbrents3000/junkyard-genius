@@ -59,7 +59,7 @@ The bottle is reusable. Just swirl in more alcohol and fire again. One bottle of
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
 
 - Perform this outdoors only, in a clear area with nothing breakable or flammable downrange. The projectile can travel 50+ feet with real force. Never aim at people, animals, windows, or anything you don't want to hit.
 - Use polycarbonate jugs only — not glass. Glass jugs can shatter from thermal shock or pressure, creating deadly shrapnel. Polycarbonate deforms but doesn't fragment.
@@ -71,4 +71,4 @@ The bottle is reusable. Just swirl in more alcohol and fire again. One bottle of
 - [Hand Sanitizer Fire Art](210-hand-sanitizer-fire-art.md) — another controlled combustion build using household alcohol
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

@@ -72,5 +72,5 @@ You won't power your house. But you can trickle-charge a phone, run LED lights, 
 - [Scooter Motor Wind Turbine](../scooter-and-motor/091-wind-phone-charger.md) — larger turbine from e-scooter hub motors
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

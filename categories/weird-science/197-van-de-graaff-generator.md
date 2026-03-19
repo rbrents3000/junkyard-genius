@@ -85,5 +85,5 @@ Robert Van de Graaff built the first one in 1929 for nuclear physics research. T
 - [Homopolar Motor](198-homopolar-motor.md) — electromagnetism at the other extreme — low voltage, high current
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

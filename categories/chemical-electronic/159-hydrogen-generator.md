@@ -61,7 +61,7 @@ Electrolysis splits water into hydrogen and oxygen using electricity. Add lye (s
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 - Hydrogen is EXTREMELY flammable and explosive when mixed with air at concentrations of 4-75%. Never collect hydrogen in a sealed container that could build pressure. Always collect over water or in open balloons. Never accumulate large quantities indoors.
 - Keep ALL ignition sources away from the electrolysis cell and collection apparatus. The gases are produced at the electrode surfaces — a spark near the cell could ignite the gases before they're collected.
@@ -73,4 +73,4 @@ Electrolysis splits water into hydrogen and oxygen using electricity. Add lye (s
 - [Electroplating Station](156-electroplating-station.md)
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

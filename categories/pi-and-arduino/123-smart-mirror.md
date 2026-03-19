@@ -72,4 +72,4 @@ A smart mirror looks like a normal mirror until it turns on — then text and gr
 - [Pi-hole Ad Blocker](139-pi-hole-ad-blocker.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

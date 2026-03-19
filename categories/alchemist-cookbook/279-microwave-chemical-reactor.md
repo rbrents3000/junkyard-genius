@@ -73,7 +73,7 @@ The applications are surprisingly broad. You can do rapid esterification reactio
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
 
 - Microwave radiation at 2.45 GHz cooks tissue. Ensure all cavity ports are properly shielded and check for leakage before every use. Never operate the magnetron with the cavity open or damaged.
 - The magnetron requires lethal high voltage (2100V+) from the MOT/capacitor circuit. Discharge the capacitor before any maintenance. Follow all high-voltage safety protocols.
@@ -87,6 +87,6 @@ The applications are surprisingly broad. You can do rapid esterification reactio
 - [Electrolysis Rust Eraser](../household-chemistry/212-electrolysis-rust-eraser.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

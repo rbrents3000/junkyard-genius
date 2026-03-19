@@ -62,7 +62,7 @@ Every fridge you've ever seen uses a compressor — an electric motor that press
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
 
 - Ammonia is toxic and corrosive. Even household ammonia cleaner produces irritating fumes. Work outdoors or in a very well-ventilated area. Wear chemical splash goggles and nitrile gloves. Concentrated ammonia (anhydrous) is far more dangerous — do not use it without proper training and PPE. If ammonia contacts eyes, flush with water for 15+ minutes and seek medical attention immediately.
 - This system operates under pressure with a flammable and toxic refrigerant. ALL joints must be pressure-tested before charging with ammonia. A leak in a pressurized ammonia system releases toxic gas rapidly. The pressure relief valve is not optional — it prevents catastrophic rupture. Never heat a sealed system without a functioning relief valve.
@@ -74,5 +74,5 @@ Every fridge you've ever seen uses a compressor — an electric motor that press
 - [Fermentation Chamber](092-fermentation-chamber.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

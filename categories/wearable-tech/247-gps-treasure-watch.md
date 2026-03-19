@@ -85,4 +85,4 @@ The applications go way beyond geocaching. Program it with the coordinates of yo
 - [Nichrome Wire Heated Gloves](243-heated-gloves.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

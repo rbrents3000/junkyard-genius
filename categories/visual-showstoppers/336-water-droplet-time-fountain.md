@@ -87,6 +87,6 @@ In a dark room, visitors wave their hands through the "frozen" droplets and comp
 - [POV Globe](../light-and-visual/019-pov-globe.md) — another persistence-of-vision build, but with LEDs instead of water
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

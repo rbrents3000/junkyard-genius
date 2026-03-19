@@ -85,5 +85,5 @@ The magic is in the programming wheel — a large rotating cylinder with adjusta
 - [Magnetic Gear Train](188-magnetic-gear-train.md) — contactless gear meshing for when you want motion without friction
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

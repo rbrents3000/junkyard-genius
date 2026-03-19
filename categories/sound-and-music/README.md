@@ -59,6 +59,6 @@ Start with simple acoustic physics and build toward high-voltage audio:
 
 ## 📚 Reference Guides
 
-- [Tools Needed](../../reference/tools-needed.md)
-- [Sourcing Guide](../../reference/sourcing-guide.md)
-- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)
+- [Tools Needed](../../docs/reference/tools-needed.md)
+- [Sourcing Guide](../../docs/reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../docs/reference/difficulty-guide.md)

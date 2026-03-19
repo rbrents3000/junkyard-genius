@@ -72,5 +72,5 @@ The physics is still debated, but the leading explanation involves the rigid lin
 - [Prince Rupert's Drop](190-prince-ruperts-drop.md) — counterintuitive material science that looks like magic
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

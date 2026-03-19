@@ -77,5 +77,5 @@ The result is mesmerizing — a jet-black liquid that seems alive, growing spine
 - [CRT Oscilloscope Visualizer](../light-and-visual/021-crt-oscilloscope-visualizer.md) — visualize music on a screen instead of in a liquid
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

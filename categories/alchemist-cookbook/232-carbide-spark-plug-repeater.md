@@ -63,7 +63,7 @@ Calcium carbide is a gray, rocky mineral. Add water and it produces acetylene ga
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
 
 - Acetylene is explosive in air at concentrations from 2.5% to 81% — one of the widest explosive ranges of any fuel gas. Never use this device indoors or in any enclosed space. A gas leak + any ignition source = detonation. The system must be outdoors with natural ventilation.
 - This device produces repeated detonations comparable in volume to gunshots. Use ear protection. Alert neighbors. Be aware of local noise ordinances. The repeating nature means it doesn't sound accidental — expect attention.
@@ -75,5 +75,5 @@ Calcium carbide is a gray, rocky mineral. Add water and it produces acetylene ga
 - [Spark Plug Cannon](../junkyard-auto/223-spark-plug-cannon.md)
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

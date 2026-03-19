@@ -120,7 +120,7 @@ The critical component is the release valve. A ball valve works but requires a q
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
 
 - PVC pipe is not rated for pneumatic pressure service. Schedule 40 PVC handles water pressure, but air pressure failures are more dangerous because compressed air stores energy — water doesn't. PVC fails by shattering into sharp fragments, not by splitting. Stay under 20 PSI for this build. The safety relief valve is your insurance policy.
 - Never stand in front of the barrel. Never point the barrel at anyone, even when the chamber is "empty." Treat it like a firearm: always pointed in a safe direction, always assume it's loaded.
@@ -145,5 +145,5 @@ The critical component is the release valve. A ball valve works but requires a q
 - [Wall-Climbing Robot](076-wall-climbing-robot.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

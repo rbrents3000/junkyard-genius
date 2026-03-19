@@ -76,5 +76,5 @@ The "weird science" angle: you can bend the wire into any shape — a dancer, a 
 - [Van de Graaff Generator](197-van-de-graaff-generator.md) — electromagnetism at the other extreme: high voltage, zero current
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

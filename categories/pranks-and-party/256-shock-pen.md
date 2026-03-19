@@ -81,5 +81,5 @@ This is the simplest prank build in the entire collection. No programming, no ba
 - [Self-Pouring Bottle](258-self-pouring-bottle.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

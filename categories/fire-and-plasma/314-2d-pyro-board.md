@@ -77,7 +77,7 @@ The engineering is a scaled-up version of the Rubens' Tube, with one critical di
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 > [!CAUTION]
 > **Outdoors only.** Propane accumulation in an enclosed space is explosive. This project uses significantly more propane than a standard Rubens' Tube. Never operate indoors or in a garage with the door closed.

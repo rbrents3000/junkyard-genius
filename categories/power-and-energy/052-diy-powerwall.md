@@ -69,7 +69,7 @@ This is a serious project. It takes weeks to months of cell collection and testi
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 - Lithium-ion batteries can catch fire or explode if shorted, overcharged, or physically damaged. A powerwall contains enough energy to cause a serious fire. The BMS is your primary safety system — never bypass it. Install smoke detectors near the powerwall. Keep a Class D fire extinguisher (or sand bucket) nearby. Do not install inside living spaces.
 - Individual cell testing is tedious but non-negotiable. A single weak cell in a parallel group can be forced into reverse polarity by the stronger cells, leading to venting and thermal runaway. Matched capacity groups prevent this. The fuse on each cell or group is the second line of defense.

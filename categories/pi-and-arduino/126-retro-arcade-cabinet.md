@@ -72,4 +72,4 @@ A full-sized arcade cabinet running thousands of classic games — Pac-Man, Stre
 - [Flight Sim Cockpit](../python-projects/154-flight-sim-cockpit.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

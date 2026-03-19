@@ -74,7 +74,7 @@ This is the gateway drug to metalcasting. Once you realize you can melt metal in
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 > [!CAUTION]
 > **Molten aluminum is invisible-hot.** It looks like silver liquid but it's over 1,200degF. A single splash will cause a severe burn. Wear leather boots (not sneakers), long pants, leather gloves, and a face shield. Never wear synthetic fabrics — they melt into skin.

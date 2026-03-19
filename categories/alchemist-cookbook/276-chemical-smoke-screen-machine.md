@@ -70,7 +70,7 @@ The key to good smoke is temperature control. Too cool and the glycerin just poo
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
 
 - The heating element operates at mains voltage and reaches 400°C+. Do not touch the element or the inside of the can during operation. Allow 10 minutes to cool after use. Keep the power cord away from the hot surfaces.
 - Glycerin vapor in high concentrations is an irritant. Use this outdoors or in very well-ventilated spaces. Do not use in enclosed spaces where people will be breathing the smoke for extended periods.
@@ -83,4 +83,4 @@ The key to good smoke is temperature control. Too cool and the glycerin just poo
 - [Chemical Trigger Color Bombs](228-chemical-trigger-color-bombs.md)
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

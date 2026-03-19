@@ -69,7 +69,7 @@ The spinning ferrofluid sits in a shallow glass dish on a custom-wound stator. T
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
 
 - Ferrofluid stains permanently. If it splashes out of the dish (and it will during testing), it will ruin any surface it contacts. Test on a disposable surface. Wear clothes you don't care about. The enclosed dome prevents splatter during normal operation.
 - The stator coils draw significant current and produce heat. Monitor coil temperature during extended operation. If any coil becomes too hot to touch, reduce the duty cycle or add cooling. Overheated coils can melt their enamel insulation and short.
@@ -81,6 +81,6 @@ The spinning ferrofluid sits in a shallow glass dish on a custom-wound stator. T
 - [Levitating Plasma Speaker](055-levitating-plasma-speaker.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

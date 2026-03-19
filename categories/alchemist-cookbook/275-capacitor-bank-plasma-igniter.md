@@ -72,7 +72,7 @@ Building one requires respecting the energy involved. A charged MOT capacitor is
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md) before starting.
+> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
 
 - MOT capacitors store lethal energy. A 2100V capacitor charged to full voltage can deliver a fatal shock. Always discharge capacitors through a resistor before touching anything. Never work on this project alone. Keep one hand in your pocket when working near charged components.
 - The plasma arc produces intense UV light, ozone, and nitrogen oxides. Do not stare directly at the arc. Use this outdoors or in extremely well-ventilated areas. Prolonged ozone exposure causes respiratory damage.
@@ -85,6 +85,6 @@ Building one requires respecting the energy involved. A charged MOT capacitor is
 - [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

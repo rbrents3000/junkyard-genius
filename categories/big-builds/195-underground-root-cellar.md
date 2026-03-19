@@ -87,4 +87,4 @@ This build combines old-world construction (dig, line, insulate) with modern mon
 - [Ham Radio from Scratch](193-ham-radio-from-scratch.md) — another project that rewards patience and manual craftsmanship
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

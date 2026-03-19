@@ -72,7 +72,7 @@ The sound quality is surprisingly good for treble and midrange, though bass is v
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
 
 > [!CAUTION]
 > **CRT discharge is mandatory before salvage.** CRT tubes hold lethal charge (up to 25,000V) for weeks or months after being unplugged. Before opening any CRT TV, discharge the anode cap to chassis ground using an insulated screwdriver with a wire clipped to the TV's chassis ground. Do this multiple times to be sure.

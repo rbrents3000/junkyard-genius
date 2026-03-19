@@ -67,7 +67,7 @@ The vortex ring stays coherent because of angular momentum — the donut shape i
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 > [!CAUTION]
 > **Do this outdoors only, far from structures.** The fire rings travel 20+ feet and can ignite dry grass, leaves, or anything flammable in their path. Have a garden hose ready. Do not fire toward buildings, cars, or people.

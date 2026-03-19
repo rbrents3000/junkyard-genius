@@ -71,4 +71,4 @@ The ESP32 has built-in WiFi that can operate in ad-hoc mode — no router requir
 - [ESP32 Weather Station](132-esp32-weather-station.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

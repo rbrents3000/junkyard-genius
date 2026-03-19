@@ -72,7 +72,7 @@ Cold spark machines are the secret behind the indoor pyrotechnics you see at con
 - [Steel Wool Photography](113-steel-wool-photography.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Chemicals Reference](../../reference/chemicals.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -79,5 +79,5 @@ This is the same physics as the Eddy Current Brake (#186), but explored as a sta
 - [Homopolar Motor](198-homopolar-motor.md) — another demonstration of the intimate relationship between current and magnetic fields
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

@@ -91,4 +91,4 @@ Commercial ferrofluid displays this size run $2,000-$5,000. This build costs und
 - [Music Visualizer LED Wall](../python-projects/145-music-visualizer-led-wall.md) — music-reactive display using LEDs instead of ferrofluid
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

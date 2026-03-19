@@ -68,4 +68,4 @@ Thermochromic pigment changes color at a specific temperature. Below the activat
 - [pH Reactive Paint](../chemical-electronic/163-ph-reactive-paint.md)
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

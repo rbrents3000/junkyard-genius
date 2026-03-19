@@ -77,5 +77,5 @@ This is the core technology behind professional laser light shows, stripped down
 - [Holographic Fan Display](022-holographic-fan-display.md) — another way to create floating visual effects
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

@@ -74,6 +74,6 @@ The IMU reads the current orientation, the PID loop calculates how far off-level
 - [FPV Ground Rover](202-fpv-ground-rover.md) — mount this stabilizer on a rover for smooth mobile footage
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

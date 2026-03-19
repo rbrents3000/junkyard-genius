@@ -61,7 +61,7 @@ A table saw is just a circular saw mounted upside down under a flat table with t
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
 
 - This is the most dangerous build in this category. Table saws cause more woodworking injuries than any other tool. A DIY version without commercial safety features (riving knife, anti-kickback pawls, flesh-sensing technology) is inherently riskier. Build and use a blade guard. Use push sticks religiously. Never reach over or behind the blade. Respect the blade at all times.
 - Kickback is the primary hazard — it occurs when the workpiece pinches the blade or contacts the rising teeth at the back. The blade can launch the workpiece back at the operator at high speed. Always use a rip fence for rip cuts and keep material firmly against the fence throughout the cut.

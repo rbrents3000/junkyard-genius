@@ -79,4 +79,4 @@ The really fun part is adding color. Drop food coloring directly onto the charco
 - [Electrolysis Rust Eraser](212-electrolysis-rust-eraser.md)
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

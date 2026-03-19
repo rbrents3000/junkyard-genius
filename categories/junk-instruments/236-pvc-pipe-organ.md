@@ -85,4 +85,4 @@ The sound is breathy and warm — more pan flute than cathedral organ — but it
 - [Plasma Speaker](../sound-and-music/008-plasma-speaker.md) — if you want your music source to be even more dramatic
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

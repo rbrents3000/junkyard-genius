@@ -185,7 +185,7 @@ vendor. You're building it for a fraction of that, and you'll understand every p
 - [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse.md) — similar dome construction principles, different purpose
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)
 

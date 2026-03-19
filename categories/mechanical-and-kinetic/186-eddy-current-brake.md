@@ -72,5 +72,5 @@ The pipe isn't magnetic. The magnet isn't touching the walls. There's no frictio
 - [Chain Fountain](184-chain-fountain.md) — another "that can't be real" physics demo
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

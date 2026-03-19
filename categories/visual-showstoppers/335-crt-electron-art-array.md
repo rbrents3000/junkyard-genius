@@ -76,7 +76,7 @@ Now multiply that by six. Mount 3-6 modified CRTs in a grid on a wall, each rece
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
 
 > [!CAUTION]
 > **CRT flyback transformers operate at 15,000-25,000 volts.** This is a lethal voltage at sufficient current to stop a human heart. Even unplugged, CRTs store charge in the anode capacitor for days or weeks. Always discharge the tube before touching anything inside the case. Never work alone. Never reach inside a powered CRT. Keep one hand in your pocket when probing near high-voltage sections. If you haven't worked with high voltage before, practice the discharge procedure on a small TV before scaling up.
@@ -90,5 +90,5 @@ Now multiply that by six. Mount 3-6 modified CRTs in a grid on a wall, each rece
 - [Hard Drive POV Clock](../computer-and-phone/057-hard-drive-pov-clock.md) — another persistence-of-vision display from salvaged parts
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

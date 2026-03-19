@@ -80,5 +80,5 @@ The glow is genuine fluorescence — the dye molecules absorb UV photons and emi
 - [Infinity Mirror Table](016-infinity-mirror-table.md) — another LED-based installation that transforms a space
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

@@ -63,7 +63,7 @@ Real neon signs are glass tubes filled with gas that glows when high voltage exc
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 - Neon sign transformers output 15,000 VOLTS. This is lethal. Never touch the electrodes or GTO wire while the transformer is energized. Always disconnect power before working on connections. Use insulated tools only. This is NOT a beginner project — respect the voltage.
 - Glassblowing involves extreme heat and hot glass that looks identical to cold glass. Always assume glass is hot after working it. Wear safety glasses rated for infrared (didymium lenses ideal for glasswork). Burns are the most common glassblowing injury.
@@ -75,4 +75,4 @@ Real neon signs are glass tubes filled with gas that glows when high voltage exc
 - [Ozone Generator](167-ozone-generator.md)
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

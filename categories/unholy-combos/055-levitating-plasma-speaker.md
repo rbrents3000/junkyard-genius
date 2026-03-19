@@ -67,7 +67,7 @@ The control systems are independent: the levitation PID loop stabilizes the elec
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
 
 - This build combines the hazards of electromagnetic levitation (hot coils, strong magnets) with the hazards of high-voltage plasma (10-30kV, UV radiation, ozone). Review the safety notes for both build #033 and build #038 before attempting this combination. The hazards don't just add — they multiply, because a levitation failure drops a live HV electrode.
 - If the levitation fails while the arc is active, the electrode falls and the arc follows it. This can cause the arc to strike an unintended target. Design the system so that HV cuts automatically if the levitation loop detects a drop (monitor the PID output — a sudden spike means the object left the control zone). An interlock on the HV supply tied to the levitation controller is strongly recommended.

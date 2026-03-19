@@ -66,7 +66,7 @@ This is the most intellectually demanding build in the book. But the payoff is i
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 - The high-voltage power supply is a serious electrical hazard. All HV connections must be inside the sealed vacuum chamber or properly insulated. Never open the chamber while the HV is energized. Include interlocks that cut HV when the chamber is vented.
 - Heating unknown materials can release toxic fumes. Even inside a vacuum chamber, the material may outgas when you vent. Vent the chamber outdoors or into a fume hood. Do not vaporize lead, mercury, cadmium, or other toxic metals without proper containment.
@@ -78,5 +78,5 @@ This is the most intellectually demanding build in the book. But the payoff is i
 - [Cloud Chamber](041-cloud-chamber.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

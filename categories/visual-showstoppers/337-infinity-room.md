@@ -83,5 +83,5 @@ Yayoi Kusama charges museum admission for this. You can build it from thrift sto
 - [Fiber Optic Star Ceiling](../light-and-visual/173-fiber-optic-star-ceiling.md) — another immersive light installation using different tech
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

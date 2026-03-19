@@ -67,5 +67,5 @@ Every digital camera sensor can see near-infrared light — but manufacturers pu
 - [Phone Sensor Network](064-phone-sensor-network.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

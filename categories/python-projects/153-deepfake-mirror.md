@@ -68,4 +68,4 @@ Real-time face swapping takes your face from the webcam and replaces it with som
 - [AI Photo Booth](143-ai-photo-booth.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

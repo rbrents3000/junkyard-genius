@@ -161,5 +161,5 @@ Roll up sleeves, tie back hair, remove rings, and never wear gloves while the la
 - [Circular Saw Table Saw](082-circular-saw-table-saw.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

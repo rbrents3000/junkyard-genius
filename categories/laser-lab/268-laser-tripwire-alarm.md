@@ -89,4 +89,4 @@ Add an ESP32 or ESP8266 instead of a basic Arduino and you get WiFi connectivity
 - [Faraday Cage](../survival-off-grid/252-faraday-cage.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

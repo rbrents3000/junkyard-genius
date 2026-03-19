@@ -69,5 +69,5 @@ A winch is a motor connected to a spool that winds rope or cable. Electric scoot
 - [Wind Phone Charger](091-wind-phone-charger.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

@@ -73,4 +73,4 @@ It's the most fundamental demonstration of electrochemistry — you are literall
 - [Electroplating Station](../chemical-electronic/156-electroplating-station.md) — another electrochemistry build using copper and acid solutions
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

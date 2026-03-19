@@ -89,5 +89,5 @@ This is the same fundamental mechanism inside every commercial hand-crank flashl
 - [Solar Still](248-solar-still.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

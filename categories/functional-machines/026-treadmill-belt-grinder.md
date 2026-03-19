@@ -73,5 +73,5 @@ The treadmill's speed controller board usually survives when the tread belt or d
 - [Spot Welder](027-spot-welder.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

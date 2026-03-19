@@ -80,7 +80,7 @@ The time investment is no joke. Testing cells is a bottleneck — a 4-bay tester
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 - Lithium-ion cells can vent, catch fire, or explode if shorted, overcharged, punctured, or physically crushed. You're building a system that stores kilowatt-hours of energy. Respect it. The BMS is not optional — it is the primary safety system. Never bypass it for any reason.
 - Test every single cell. A weak cell hiding in a parallel group gets reverse-charged by its neighbors, leading to thermal runaway. Matched capacity groups and per-cell fuses are your defense against this failure mode.

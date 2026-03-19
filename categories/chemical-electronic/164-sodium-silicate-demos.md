@@ -67,6 +67,6 @@ Sodium silicate (water glass) is a liquid glass solution used in industry for fi
 - [Instant Ice Sculpture](../pyro-and-chemistry/108-instant-ice-sculpture.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

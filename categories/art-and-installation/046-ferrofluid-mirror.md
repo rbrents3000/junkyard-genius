@@ -77,4 +77,4 @@ The result looks like something from a science fiction film. Visitors can't stop
 - [Singing Ferrofluid Tornado](../unholy-combos/053-singing-ferrofluid-tornado.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

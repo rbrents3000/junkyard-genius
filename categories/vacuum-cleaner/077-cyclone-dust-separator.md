@@ -67,5 +67,5 @@ Cyclonic separation uses centrifugal force to separate particles from an air str
 - [Vacuum Hovercraft](075-vacuum-hovercraft.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

@@ -77,7 +77,7 @@ The result is a legitimate laser engraver/cutter built entirely from salvaged el
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 > [!WARNING]
 > **405nm laser light is genuinely dangerous to eyes.** Wear laser safety goggles rated for 405nm (OD4 or higher) whenever the laser is powered, even if it is not actively cutting. The beam and its reflections from any shiny surface can cause permanent retinal damage faster than the blink reflex. This is the single most important safety requirement for this build.
@@ -92,6 +92,6 @@ The result is a legitimate laser engraver/cutter built entirely from salvaged el
 - [Toaster Reflow Oven](../kitchen-hacks/260-toaster-reflow-oven.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -168,5 +168,5 @@ Wood sanding dust is itself a fire hazard at high concentrations. Work in a clea
 - [Sawzall Power Hammer](081-sawzall-power-hammer.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

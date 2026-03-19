@@ -64,7 +64,7 @@ The physics is the same as a real tornado — angular momentum concentrates the 
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 > [!WARNING]
 > **Keep the fire tornado away from overhead flammables.** The flame column can easily reach 3 feet tall and sometimes throws sparks. Do this outdoors or under a high, non-flammable ceiling. Not under a canopy, tree, or garage ceiling.

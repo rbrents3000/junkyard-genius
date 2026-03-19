@@ -69,4 +69,4 @@ It's simple, it's cheap, and the reveal moment never fails to impress.
 - [Bleach Pen Tie-Dye](214-bleach-pen-tie-dye.md) — another build using chemical reactions to create visible patterns
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

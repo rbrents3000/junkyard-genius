@@ -88,5 +88,5 @@ The build itself is mechanically simple: a heavy weight, a long wire, and a stur
 - [Homopolar Motor](198-homopolar-motor.md) — rotational physics in a form you can hold in your hand
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

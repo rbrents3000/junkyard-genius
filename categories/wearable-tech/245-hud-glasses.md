@@ -85,4 +85,4 @@ A Raspberry Pi Zero (or ESP32 for lighter weight) drives the display. It can sho
 - [GPS Treasure Hunt Watch](247-gps-treasure-watch.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

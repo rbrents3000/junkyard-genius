@@ -85,4 +85,4 @@ People will sit on your couch and stare at this thing for twenty minutes straigh
 - [Fog Waterfall Table](../humidifier-and-water/086-fog-waterfall-table.md) — similar table concept but with cascading fog instead of water
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)

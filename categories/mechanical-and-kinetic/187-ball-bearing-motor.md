@@ -72,5 +72,5 @@ It's the perfect gateway build — zero tools required, impossible to mess up, a
 - [Magnetic Gear Train](188-magnetic-gear-train.md) — magnets creating motion through a different mechanism
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

@@ -65,5 +65,5 @@ Every vacuum cleaner has a blow side — air comes in through the intake, passes
 - [Cyclone Dust Separator](077-cyclone-dust-separator.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

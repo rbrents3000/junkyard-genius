@@ -81,4 +81,4 @@ Total cost is under $15 if you scrounge the buckets. A commercial electronic dru
 - [Steel Tongue Drum](239-steel-tongue-drum.md) — a more melodic percussion build from salvaged metal
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

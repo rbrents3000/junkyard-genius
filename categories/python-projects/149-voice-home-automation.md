@@ -70,4 +70,4 @@ Alexa and Google Home are convenient but they send every word you say to corpora
 - [Pi-hole Ad Blocker](../pi-and-arduino/139-pi-hole-ad-blocker.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -77,5 +77,5 @@ Pierre Curie described this temperature threshold in 1895, and it's one of those
 - [Eddy Current Brake](186-eddy-current-brake.md) — another intersection of magnetism and motion with surprising results
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

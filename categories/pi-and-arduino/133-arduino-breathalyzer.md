@@ -70,4 +70,4 @@ The MQ-3 is a gas sensor specifically tuned to detect ethanol vapor — the alco
 - [Voice Home Automation](../python-projects/149-voice-home-automation.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

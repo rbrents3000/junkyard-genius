@@ -83,5 +83,5 @@ This is a permanent installation that transforms a bedroom, home theater, or bat
 - [UV Reactive Water Wall](023-uv-reactive-water-wall.md) — another permanent installation using light effects
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

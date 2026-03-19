@@ -81,5 +81,5 @@ This is Pascal's law made tangible: pressure applied to a confined fluid transmi
 - [Ball Bearing Motor](187-ball-bearing-motor.md) — the simplest possible motor if you want something that moves with zero complexity
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

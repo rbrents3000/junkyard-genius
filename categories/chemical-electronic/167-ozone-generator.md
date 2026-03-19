@@ -59,7 +59,7 @@ Ozone (O3) is a powerful oxidizer — it destroys bacteria, viruses, and organic
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 - Ozone is toxic to breathe at concentrations above 0.1 ppm. It causes respiratory irritation, chest pain, and lung damage. NEVER run an ozone generator in an occupied room. Treat the space while empty and ventilate thoroughly before re-entering. You should not be able to smell ozone — if you can, the concentration is too high.
 - Corona discharge systems use high voltage (thousands of volts). Follow all high-voltage safety precautions. Insulate connections. Never touch the discharge cell while energized.
@@ -71,4 +71,4 @@ Ozone (O3) is a powerful oxidizer — it destroys bacteria, viruses, and organic
 - [DIY Neon Sign](166-diy-neon-sign.md)
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

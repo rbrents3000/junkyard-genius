@@ -62,7 +62,7 @@ Professional fireworks shows aren't lit by hand — they're fired by computer-co
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
 
 - This is a real pyrotechnic firing system. Treat it with the same respect as a professional installation. Never wire igniters to fireworks until you are ready to fire. The master kill switch must physically disconnect the battery — never rely on software alone.
 - Follow all local fireworks laws. Many jurisdictions require permits for electronically fired displays. Check your local regulations before building or using this system.
@@ -74,4 +74,4 @@ Professional fireworks shows aren't lit by hand — they're fired by computer-co
 - [Cold Spark Machine](../pyro-and-chemistry/104-cold-spark-machine.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -68,7 +68,7 @@ The patterns emerge because wood grain isn't uniformly conductive. The current b
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../safety/README.md) and [Chemical Safety](../../safety/chemicals.md), [Fire & Pyro Safety](../../safety/fire-and-pyro.md), [High Voltage Safety](../../safety/high-voltage.md) before starting.
+> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 > [!CAUTION]
 > **This build has killed people.** MOTs deliver lethal voltage and current. Never touch the wood, electrodes, or any wire while the unit is energized. Use a remote switch. Work alone only if you must — if you work with a partner, make sure they know where the kill switch is.
@@ -81,5 +81,5 @@ The patterns emerge because wood grain isn't uniformly conductive. The current b
 - [Atmospheric Reentry Simulator](006-atmospheric-reentry-simulator.md) — MOT used to heat metal instead of burn wood
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

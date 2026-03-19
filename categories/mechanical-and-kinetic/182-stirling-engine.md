@@ -81,5 +81,5 @@ This build uses two soda cans as the hot and cold chambers, a balloon membrane a
 - [Musical Marble Machine](181-musical-marble-machine.md) — a much larger mechanical build if you want to level up
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

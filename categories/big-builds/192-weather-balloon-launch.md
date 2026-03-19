@@ -87,4 +87,4 @@ The photos and video from near-space are genuinely breathtaking. You can see wea
 - [Ham Radio from Scratch](193-ham-radio-from-scratch.md) — another way to reach beyond your neighborhood using DIY technology
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

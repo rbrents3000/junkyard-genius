@@ -97,4 +97,4 @@ This is genuinely one of the most useful tool conversions in the entire collecti
 - [Blu-Ray Laser Cutter](../laser-lab/269-blu-ray-laser-cutter.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

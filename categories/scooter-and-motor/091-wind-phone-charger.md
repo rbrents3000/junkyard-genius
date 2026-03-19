@@ -73,5 +73,5 @@ Every electric motor is also a generator — spin the shaft externally and it pr
 - [Electric Winch](090-electric-winch.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

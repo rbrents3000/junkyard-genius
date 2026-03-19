@@ -69,4 +69,4 @@ Every dead laptop contains a perfectly good LCD panel — the screen almost neve
 - [Tablet AI Picture Frame](065-tablet-ai-picture-frame.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

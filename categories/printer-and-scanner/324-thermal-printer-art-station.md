@@ -88,4 +88,4 @@ The setup doubles as a functional utility station. Between art sessions, the sam
 - [Inkjet Bioprinter](073-inkjet-bioprinter.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

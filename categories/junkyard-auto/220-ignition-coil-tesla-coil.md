@@ -62,7 +62,7 @@ An automotive ignition coil is a step-up transformer designed to convert 12V int
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../safety/README.md) before starting.
+> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
 
 - The ignition coil outputs 20,000-40,000V. While the current is limited (milliamps), a shock from the high-voltage side is painful and can cause involuntary muscle contraction that throws you into other hazards. Never touch the high-voltage output or spark gap while powered. Keep one hand in your pocket when working near the circuit.
 - The arc produces UV radiation, ozone (O3), and nitrogen oxides. Run this in a well-ventilated area. If you smell a sharp, metallic odor, that's ozone — step away and ventilate. Prolonged ozone exposure irritates the lungs.
@@ -74,5 +74,5 @@ An automotive ignition coil is a step-up transformer designed to convert 12V int
 - [Plasma Speaker](../sound-and-music/008-plasma-speaker.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)

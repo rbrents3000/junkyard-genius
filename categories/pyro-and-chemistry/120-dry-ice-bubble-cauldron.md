@@ -70,4 +70,4 @@ Drop dry ice into warm water in a bowl or cauldron and it produces thick, low-ly
 - [Elephant Toothpaste](102-elephant-toothpaste.md)
 
 **References:**
-- [Chemicals Reference](../../reference/chemicals.md)
+- [Chemicals Reference](../../docs/reference/chemicals.md)

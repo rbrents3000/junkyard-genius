@@ -234,4 +234,4 @@ more transducers.
 - [Nebula Lamp](087-nebula-lamp.md)
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

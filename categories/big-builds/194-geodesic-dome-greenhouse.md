@@ -88,4 +88,4 @@ The build breaks into two satisfying phases: the physical structure (cutting, fl
 - [Weather Balloon Launch](192-weather-balloon-launch.md) — another big build that combines structure and electronics
 
 **References:**
-- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

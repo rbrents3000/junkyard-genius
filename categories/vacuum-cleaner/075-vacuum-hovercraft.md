@@ -71,5 +71,5 @@ A hovercraft works by trapping a cushion of high-pressure air under a platform. 
 - [Vacuum Leaf Blower](078-vacuum-leaf-blower.md)
 
 **References:**
-- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../reference/glossary.md)
+- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../docs/reference/glossary.md)
