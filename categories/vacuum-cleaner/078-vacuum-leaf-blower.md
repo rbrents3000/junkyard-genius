@@ -1,5 +1,9 @@
 # #078 — Vacuum Leaf Blower
 
+<p align="center">
+  <img src="../../images/builds/078-vacuum-leaf-blower.jpg" alt="Vacuum Leaf Blower" width="700" />
+</p>
+
 > Vacuum motors blow as hard as they suck. Add a PVC nozzle to the exhaust side. 100+ mph air. Free yard tool from a dead vacuum.
 
 ## Ratings

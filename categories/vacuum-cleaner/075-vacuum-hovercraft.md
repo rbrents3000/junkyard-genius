@@ -1,5 +1,9 @@
 # #075 — Vacuum Hovercraft
 
+<p align="center">
+  <img src="../../images/builds/075-vacuum-hovercraft.jpg" alt="Vacuum Hovercraft" width="700" />
+</p>
+
 > Reverse a vacuum motor to blow downward through a plywood platform. Add a trash bag skirt. It floats. Actually floats.
 
 ## Ratings

@@ -1,5 +1,9 @@
 # #298 — Vacuum Sandblaster
 
+<p align="center">
+  <img src="../../images/builds/298-vacuum-sandblaster.jpg" alt="Vacuum Sandblaster" width="700" />
+</p>
+
 > A reversed vacuum motor feeds pressurized air through a siphon tube,
 > picks up sand from a bucket, and blasts it out a nozzle. Strips paint,
 > kills rust, etches glass. A $200 tool built from trash and plumbing parts.
