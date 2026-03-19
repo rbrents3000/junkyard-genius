@@ -26,7 +26,7 @@ A 16x16 grid gives you 256 pixels — enough for text, simple graphics, animatio
 - [ ] Pivot pins or short lengths of 1mm steel wire — for the disc axles *(source: sewing pins, paperclips, hardware store)*
 - [ ] Disc blanks — 10-15mm diameter, thin material painted yellow on one side and black on the other *(source: sheet metal, plastic, or 3D-printed — $5-10 in material)*
 - [ ] Shift registers (74HC595) — 32 needed for 256 outputs *(source: electronics supplier, ~$8 for 40-pack)*
-- [ ] H-bridge driver ICs (L293D or ULN2803) — to reverse coil polarity *(source: electronics supplier, ~$10)*
+- [ ] H-bridge driver ICs (L293D or L298N) — to reverse coil polarity for bidirectional flipping *(source: electronics supplier, ~$10)*
 - [ ] Arduino Mega or ESP32 — needs enough I/O for the shift register chain *(source: online, ~$8-15)*
 - [ ] Frame material — plywood, acrylic, or 3D-printed grid panels for mounting the dot mechanisms *(source: hardware store, scrap pile)*
 - [ ] Perfboard or custom PCB — for mounting shift registers and drivers *(source: electronics supplier)*

@@ -19,7 +19,7 @@ An automotive ignition coil is a step-up transformer designed to convert 12V int
 
 - [ ] Automotive ignition coil — standard canister-type or coil-on-plug *(junkyard, any car)*
 - [ ] 555 timer IC *(electronics supplier, ~$0.50)*
-- [ ] MOSFET — IRFP250 or similar logic-level N-channel *(electronics supplier, ~$2)*
+- [ ] MOSFET — IRLZ44N or IRFZ44N (logic-level N-channel, conducts fully at 5V gate drive) *(electronics supplier, ~$2)*
 - [ ] Resistors and capacitors — for the 555 timer circuit *(electronics supplier, pennies)*
 - [ ] Potentiometer — 10k-100k, to adjust frequency *(electronics supplier, ~$1)*
 - [ ] 12V car battery or 12V power supply *(junkyard or existing)*

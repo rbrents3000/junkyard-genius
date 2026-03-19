@@ -21,7 +21,7 @@ Commercial ferrofluid displays this size run $2,000-$5,000. This build costs und
 <details>
 <summary><strong>🧰 Ingredients</strong></summary>
 
-- [ ] Ferrofluid — 100-200ml, oil-based *(online supplier, ~$25-$50; or DIY from laser printer toner + vegetable oil)*
+- [ ] Ferrofluid — 100-200ml, oil-based *(online supplier such as Amazon or Ferrotec, ~$25-$50)*
 - [ ] Clear acrylic sheets x2 — 1/4" thick, sized to your desired display area *(hardware store or plastics supplier, ~$20-$30)*
 - [ ] Silicone gasket material or O-ring cord — for sealing the acrylic sandwich *(hardware store)*
 - [ ] Electromagnets x16-24 — salvaged from old door locks, relays, or solenoids *(source: e-waste, dead appliances — free)*

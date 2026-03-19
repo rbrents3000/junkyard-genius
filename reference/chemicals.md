@@ -156,7 +156,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 
 ## Gallium
 
-**What it is:** A silvery metal with an absurdly low melting point — 85.6°F (29.8°C). It melts in your hand. Liquid gallium looks like mercury but is non-toxic. It aggressively attacks aluminum, creating dramatic structural failure demonstrations.
+**What it is:** A silvery metal with an absurdly low melting point — 85.6°F (29.8°C). It melts slowly in your hand over 10-30 seconds of contact. Liquid gallium looks like mercury but is non-toxic. It aggressively attacks aluminum, creating dramatic structural failure demonstrations.
 
 **Where to buy:** Online (Amazon, Gallium Source). Sold in small quantities (20-100g). Purity should be 99.99%.
 
@@ -256,7 +256,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 
 ## Magnesium Ribbon
 
-**What it is:** Thin strips of magnesium metal. Burns at approximately 3,100°F (1,700°C) with an intensely bright white flame. Used as an igniter for thermite and other high-temperature pyrotechnic reactions that need extreme heat to start.
+**What it is:** Thin strips of magnesium metal. Burns at approximately 5,600°F (3,100°C) with an intensely bright white flame. Used as an igniter for thermite and other high-temperature pyrotechnic reactions that need extreme heat to start.
 
 **Where to buy:** Online chemistry/education suppliers (Home Science Tools, Amazon). Also available from pyrotechnic suppliers (Skylighter).
 

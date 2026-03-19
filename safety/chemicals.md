@@ -155,7 +155,7 @@ These combinations produce dangerous reactions. Some of them are INTENTIONAL in 
 | Chemical A | Chemical B | Reaction | Danger Level |
 |---|---|---|---|
 | Muriatic acid (HCl) | Bleach (NaOCl) | Produces chlorine gas | **LETHAL** — chlorine gas kills |
-| Muriatic acid (HCl) | Ammonia | Produces chloramine gas | **LETHAL** — toxic gas |
+| Muriatic acid (HCl) | Ammonia | Produces ammonium chloride (NH₄Cl) vapor/fumes | **TOXIC** — irritant fumes, corrosive |
 | Sulfuric acid (conc.) | Potassium permanganate | Produces Mn2O7 | **EXPLOSIVE** — shock-sensitive |
 | Sulfuric acid (conc.) | Water (added wrong) | Violent exothermic boiling | **Severe burns** — add acid TO water |
 | Potassium permanganate | Glycerin | Spontaneous ignition | **Fire** — used intentionally in build #115 |
