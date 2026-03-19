@@ -1,5 +1,9 @@
 # #085 — Ultrasonic Parts Cleaner
 
+<p align="center">
+  <img src="../../images/builds/085-ultrasonic-parts-cleaner.jpg" alt="Ultrasonic Parts Cleaner" width="700" />
+</p>
+
 > Same transducers, higher power. Cavitation bubbles blast contaminants off surfaces. Clean jewelry, carburetors, and circuit boards.
 
 ## Ratings

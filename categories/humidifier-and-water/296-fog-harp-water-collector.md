@@ -1,5 +1,9 @@
 # #296 — Fog Harp Water Collector
 
+<p align="center">
+  <img src="../../images/builds/296-fog-harp-water-collector.jpg" alt="Fog Harp Water Collector" width="700" />
+</p>
+
 > Make fog. Catch fog. Harvest water from thin air. It's beautiful, educational, and slightly more useful than you'd expect.
 
 ## Ratings

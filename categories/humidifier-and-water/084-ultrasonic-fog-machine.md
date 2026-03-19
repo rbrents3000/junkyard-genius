@@ -1,5 +1,9 @@
 # #084 — Ultrasonic Fog Machine
 
+<p align="center">
+  <img src="../../images/builds/084-ultrasonic-fog-machine.jpg" alt="Ultrasonic Fog Machine" width="700" />
+</p>
+
 > A humidifier's ultrasonic disc creates cold fog that's denser than air. It pools on the ground like a horror movie. Pump it through tubes for cascading effects.
 
 ## Ratings

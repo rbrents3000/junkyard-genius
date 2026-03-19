@@ -1,5 +1,9 @@
 # #295 — Ultrasonic Parts Cleaner Pro
 
+<p align="center">
+  <img src="../../images/builds/295-ultrasonic-parts-cleaner-pro.jpg" alt="Ultrasonic Parts Cleaner Pro" width="700" />
+</p>
+
 > Six transducers, a heated stainless tank, and enough cavitation to strip carbon off a carburetor. This is not your jeweler's ultrasonic bath.
 
 ## Ratings

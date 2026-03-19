@@ -1,5 +1,9 @@
 # #086 — Fog Waterfall Table
 
+<p align="center">
+  <img src="../../images/builds/086-fog-waterfall-table.jpg" alt="Fog Waterfall Table" width="700" />
+</p>
+
 > Mist maker under a glass table. Small openings at the edges. Cold fog cascades over the sides like a waterfall. LED strips create colored fog falls.
 
 ## Ratings

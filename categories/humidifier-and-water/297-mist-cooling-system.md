@@ -1,5 +1,9 @@
 # #297 — Mist Cooling System
 
+<p align="center">
+  <img src="../../images/builds/297-mist-cooling-system.jpg" alt="Mist Cooling System" width="700" />
+</p>
+
 > Blow ultrasonic mist across a patio and drop the temperature 15 degrees. No wet surfaces. No plumbing. Just dead humidifiers and physics.
 
 ## Ratings
