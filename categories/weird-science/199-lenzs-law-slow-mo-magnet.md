@@ -1,5 +1,9 @@
 # #199 — Lenz's Law Slow-Mo Magnet
 
+<p align="center">
+  <img src="../../images/builds/199-lenzs-law-slow-mo-magnet.jpg" alt="Lenz's Law Slow-Mo Magnet" width="700" />
+</p>
+
 > A magnet falls through a copper pipe in dreamlike slow motion — no strings, no tricks, just electromagnetic braking.
 
 ## Ratings

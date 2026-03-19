@@ -1,5 +1,9 @@
 # #197 — Van de Graaff Generator
 
+<p align="center">
+  <img src="../../images/builds/197-van-de-graaff-generator.jpg" alt="Van de Graaff Generator" width="700" />
+</p>
+
 > PVC pipe, a rubber belt, a small motor, and an aluminum salad bowl — 100,000 volts of hair-raising static electricity.
 
 ## Ratings

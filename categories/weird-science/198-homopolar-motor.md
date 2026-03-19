@@ -1,5 +1,9 @@
 # #198 — Homopolar Motor
 
+<p align="center">
+  <img src="../../images/builds/198-homopolar-motor.jpg" alt="Homopolar Motor" width="700" />
+</p>
+
 > Battery + magnet + wire = a spinning motor in 30 seconds flat. The simplest electric motor possible.
 
 ## Ratings

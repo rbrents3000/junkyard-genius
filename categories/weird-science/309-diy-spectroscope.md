@@ -1,5 +1,9 @@
 # #309 — DIY Spectroscope
 
+<p align="center">
+  <img src="../../images/builds/309-diy-spectroscope.jpg" alt="DIY Spectroscope" width="700" />
+</p>
+
 > Split light into its fingerprint with a dead DVD and a cereal box. Actual spectroscopy with trash.
 
 ## Ratings
