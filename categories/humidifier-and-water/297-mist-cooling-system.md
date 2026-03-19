@@ -213,3 +213,6 @@ more transducers.
 - [Fog Harp Water Collector](296-fog-harp-water-collector.md)
 - [Fog Waterfall Table](086-fog-waterfall-table.md)
 - [Nebula Lamp](087-nebula-lamp.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

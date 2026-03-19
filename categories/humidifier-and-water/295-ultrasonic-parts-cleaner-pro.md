@@ -202,3 +202,7 @@ ultrasonically clean things that don't need cleaning.
 - [Ultrasonic Fog Machine](084-ultrasonic-fog-machine.md)
 - [Fog Waterfall Table](086-fog-waterfall-table.md)
 - [Nebula Lamp](087-nebula-lamp.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

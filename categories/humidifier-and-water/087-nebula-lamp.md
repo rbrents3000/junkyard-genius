@@ -50,3 +50,8 @@ Take a large, clear glass enclosure — a vase, jar, dome, or custom acrylic box
 
 - [Ultrasonic Fog Machine](084-ultrasonic-fog-machine.md)
 - [Fog Waterfall Table](086-fog-waterfall-table.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
