@@ -53,3 +53,7 @@ Disconnect it from the refrigerant system and plumb it to a small air tank, and 
 
 - [Powder Coating Oven](028-powder-coating-oven.md)
 - [Vacuum Chamber](../mad-scientist/039-vacuum-chamber.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

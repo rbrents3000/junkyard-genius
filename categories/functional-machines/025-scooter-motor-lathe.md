@@ -54,3 +54,7 @@ A real bench lathe costs $300-$1000+. This one costs the price of some bearings 
 
 - [Electric Go-Kart](024-electric-go-kart.md)
 - [Treadmill Belt Grinder](026-treadmill-belt-grinder.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

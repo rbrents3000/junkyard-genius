@@ -60,3 +60,7 @@ This is the build that makes people take junkyard engineering seriously. It move
 
 - [DIY Powerwall](../power-and-energy/052-diy-powerwall.md)
 - [Scooter Motor Lathe](025-scooter-motor-lathe.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
