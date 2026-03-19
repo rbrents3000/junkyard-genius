@@ -1,5 +1,9 @@
 # #033 — Musical Tesla Coil
 
+<p align="center">
+  <img src="../../images/builds/033-musical-tesla-coil.jpg" alt="Musical Tesla Coil" width="700" />
+</p>
+
 > A flyback transformer driven at audio frequencies turns electrical arcs into a speaker. Lightning that plays the Imperial March.
 
 ## Ratings

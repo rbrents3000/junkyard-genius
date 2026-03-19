@@ -1,5 +1,9 @@
 # #041 — Cloud Chamber
 
+<p align="center">
+  <img src="../../images/builds/041-cloud-chamber.jpg" alt="Cloud Chamber" width="700" />
+</p>
+
 > Supersaturated alcohol vapor makes invisible radiation visible. Watch alpha particles, beta particles, and cosmic rays leave vapor trails in real time. In your kitchen.
 
 ## Ratings

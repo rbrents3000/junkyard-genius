@@ -1,5 +1,9 @@
 # #037 — Coil Gun
 
+<p align="center">
+  <img src="../../images/builds/037-coil-gun.jpg" alt="Coil Gun" width="700" />
+</p>
+
 > A solenoid coil plus a capacitor bank yanks a ferromagnetic projectile down a barrel at high speed. Quieter and cleaner than a rail gun, and arguably more elegant.
 
 ## Ratings

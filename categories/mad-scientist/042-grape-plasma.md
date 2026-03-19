@@ -1,5 +1,9 @@
 # #042 — Grape Plasma
 
+<p align="center">
+  <img src="../../images/builds/042-grape-plasma.jpg" alt="Grape Plasma" width="700" />
+</p>
+
 > Cut a grape almost in half, microwave it, and watch plasma balls form where the halves connect. The simplest plasma demonstration in existence.
 
 ## Ratings

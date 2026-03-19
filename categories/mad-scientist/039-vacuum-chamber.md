@@ -1,5 +1,9 @@
 # #039 — Vacuum Chamber
 
+<p align="center">
+  <img src="../../images/builds/039-vacuum-chamber.jpg" alt="Vacuum Chamber" width="700" />
+</p>
+
 > A fridge compressor run backward becomes a vacuum pump. Add a bell jar and suddenly you're doing experiments that normally require a university lab.
 
 ## Ratings

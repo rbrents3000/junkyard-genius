@@ -1,5 +1,9 @@
 # #038 — Electromagnetic Levitator
 
+<p align="center">
+  <img src="../../images/builds/038-electromagnetic-levitator.jpg" alt="Electromagnetic Levitator" width="700" />
+</p>
+
 > A feedback-controlled electromagnet holds an object floating in mid-air. No strings. No tricks. Just a magnet, a sensor, and a control loop.
 
 ## Ratings

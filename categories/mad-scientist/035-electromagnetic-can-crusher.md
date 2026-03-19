@@ -1,5 +1,9 @@
 # #035 — Electromagnetic Can Crusher
 
+<p align="center">
+  <img src="../../images/builds/035-electromagnetic-can-crusher.jpg" alt="Electromagnetic Can Crusher" width="700" />
+</p>
+
 > A massive capacitor bank discharges through a coil wrapped around an aluminum can. Eddy currents generate an opposing magnetic field that crushes the can inward in milliseconds. Physics at its most violent.
 
 ## Ratings
