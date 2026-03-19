@@ -14,7 +14,7 @@
 
 A playable pipe organ built from PVC tubes, driven by a salvaged vacuum cleaner blower, where each pipe is paired with a propane jet that fires when the note plays. An Arduino reads MIDI input — from a keyboard, a computer, or a sequencer — and triggers solenoid valves that do two things simultaneously per note: open an air gate to sound the pipe, and open a propane valve to feed a jet nozzle mounted at the pipe's mouth. A piezo igniter keeps a pilot flame lit at each nozzle. The result is an instrument that produces real organ tones accompanied by columns of fire that dance in time with the music. Play a chord and three flames erupt. Run a scale and fire ripples across the pipes like a wave.
 
-The organ side is straightforward — PVC pipe organs are a well-established DIY build. Each pipe's pitch is determined by its length, and a blower provides continuous air pressure to a wind chest that distributes air to individual pipes via valves. The fire side adds a parallel propane manifold with its own set of solenoid valves, one per pipe. The Arduino fires both the air solenoid and the propane solenoid together so the sound and flame are perfectly synchronized. The solenoid valves are the key salvage — washing machine water inlet valves and dishwasher fill valves are 12V solenoids designed to handle fluid flow, and they work just fine for low-pressure propane gas.
+The organ side is straightforward — PVC pipe organs are a well-established DIY build. Each pipe's pitch is determined by its length, and a blower provides continuous air pressure to a wind chest that distributes air to individual pipes via valves. The fire side adds a parallel propane manifold with its own set of solenoid valves, one per pipe. The Arduino fires both the air solenoid and the propane solenoid together so the sound and flame are perfectly synchronized. The solenoid valves are the key component — the air-side valves can be salvaged washing machine water inlet valves, but the propane-side valves MUST be gas-rated, normally-closed solenoid valves designed for flammable gas service.
 
 This is not a build you rush. The propane system demands respect, the electrical system demands reliability, and the whole thing demands thorough testing before you stand in front of it and play "Toccata and Fugue in D Minor" while fire shoots out of every pipe. But when it works — and it does work — there is nothing else like it. This is the build that gets you on the local news.
 
@@ -23,10 +23,10 @@ This is not a build you rush. The propane system demands respect, the electrical
 
 - [ ] PVC pipes, schedule 40, various lengths for different pitches — 1.5" to 2" diameter *(source: hardware store or construction scrap, ~$15-25 for a full octave)*
 - [ ] Salvaged vacuum cleaner blower motor *(source: dead upright vacuum — you want the motor + fan assembly, free)*
-- [ ] Solenoid valves, 12V DC, one per pipe — need two sets: air and propane *(source: dead washing machines, dishwashers — each has 1-3 inlet valves, free)*
+- [ ] Solenoid valves, 12V DC, one per pipe — need two sets: air and propane. **Propane solenoids MUST be gas-rated, normally-closed valves** — standard washing machine water inlet valves are NOT rated for flammable gas service and may leak. Source gas-rated solenoids from welding supply or HVAC suppliers *(~$8-15 each)*. Air-side valves can be salvaged water inlet valves *(source: dead washing machines, dishwashers — free)*
 - [ ] Arduino Uno or Mega *(source: own or ~$10-15)*
 - [ ] MIDI shield or USB-MIDI adapter for Arduino *(source: electronics supplier, ~$10)*
-- [ ] Propane tank with adjustable regulator and hose *(source: BBQ supply, ~$15 for regulator)*
+- [ ] Propane tank with **low-pressure adjustable regulator** (0-5 PSI output — NOT a standard BBQ regulator, which outputs 10-30 PSI) and hose *(source: welding supply or specialty propane supplier, ~$20-30 for a 0-5 PSI regulator)*
 - [ ] Copper or steel tubing for the propane manifold, 1/4" *(source: hardware store or dead fridge, ~$10)*
 - [ ] Brass fittings, tees, and needle valves for propane distribution *(source: hardware store, ~$15-20)*
 - [ ] Piezo igniters — one per pipe or a shared pilot flame system *(source: dead BBQ grills or gas stoves, free)*

@@ -35,7 +35,7 @@ MOT capacitors are typically rated at ~2,100V and 1µF. They store enough energy
 
 **Discharge procedure:**
 1. **Unplug the microwave** and wait 60 seconds.
-2. **Build a discharge tool:** Connect a 10k ohm, 10-watt resistor between two insulated-handle screwdrivers or probes. The resistor limits the discharge current, preventing violent arcing.
+2. **Build a discharge tool:** Connect a 10k ohm, **50-watt** resistor between two insulated-handle screwdrivers or probes. The resistor limits the discharge current, preventing violent arcing. A 10W resistor is NOT sufficient — peak power during discharge can exceed 400W momentarily, and an undersized resistor can fail open, leaving the capacitor still charged.
 3. **Touch both probes to the capacitor terminals simultaneously.** Hold for 10 seconds. You may see a small spark — that's the stored charge dissipating through the resistor.
 4. **Verify with a multimeter** set to DC voltage. Read across the capacitor terminals. The reading should be less than 1V. If it's higher, discharge again.
 5. **Short the terminals** with a screwdriver (insulated handle) as a final safety measure. You should see no spark if the discharge was successful.
@@ -48,7 +48,7 @@ The CRT tube itself acts as a capacitor. The inner coating (aquadag) and outer c
 
 **Discharge procedure:**
 1. **Unplug the TV** and wait at least 5 minutes.
-2. **Build a discharge tool:** Connect a 10M ohm, 5-watt resistor to a thick insulated wire, with one end clipped to the chassis ground (metal frame or the grounding strap on the CRT).
+2. **Build a discharge tool:** Connect a 10M ohm, **25-watt** resistor to a thick insulated wire, with one end clipped to the chassis ground (metal frame or the grounding strap on the CRT). Peak power during discharge can reach 10W, and a 5W resistor can fail — use a higher-rated resistor for safety margin.
 3. **Wearing insulated gloves,** slide the other end of the wire under the rubber anode cap on the side of the CRT tube. You should hear a loud SNAP — that's the stored charge.
 4. **Leave the discharge wire connected for 30 seconds** to drain any residual charge.
 5. **Verify:** Disconnect and reconnect the discharge tool. If there's a second snap (smaller), repeat. Some CRTs have "bounce back" — they rebuild a partial charge after initial discharge.

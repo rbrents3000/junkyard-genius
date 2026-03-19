@@ -24,6 +24,7 @@ Anaerobic bacteria eat organic waste and produce methane — the same natural ga
 - [ ] Silicone sealant — to make all connections airtight *(hardware store)*
 - [ ] Garden hose or flexible tubing — for gas delivery to burner *(junk drawer)*
 - [ ] Inner tube from a tire — makes a flexible gas storage bladder *(bike shop, junkyard)*
+- [ ] Pressure relief valve — spring-loaded, set to 2-3 PSI *(hardware store, plumbing supply, ~$5-10)*
 - [ ] Single-burner propane stove — repurposed for biogas *(camping supply, thrift store)*
 - [ ] Organic waste — kitchen scraps, manure, grass clippings *(kitchen, yard)*
 - [ ] Water *(tap)*
@@ -34,7 +35,7 @@ Anaerobic bacteria eat organic waste and produce methane — the same natural ga
 
 1. **Prepare the digester drum.** Drill a 3" hole near the top of the drum for the waste inlet pipe. Drill a 1" hole in the lid for the gas outlet pipe. Every penetration must be sealed airtight with silicone — any air leak introduces oxygen, which kills the anaerobic bacteria and stops gas production.
 2. **Install the inlet pipe.** Insert a 3" PVC pipe through the side hole, angled downward into the drum. This is where you'll feed in waste. Add a removable cap or funnel on the outside. The pipe should extend below the liquid level inside the drum to create a water seal that prevents gas from escaping through the inlet.
-3. **Install the gas outlet.** Thread a 1" PVC pipe through the lid hole and seal it. Connect the ball valve on the outside. This is your gas control point. Run flexible tubing from the valve to either a gas storage bladder or directly to your burner.
+3. **Install the gas outlet.** Thread a 1" PVC pipe through the lid hole and seal it. Connect the ball valve on the outside. This is your gas control point. Run flexible tubing from the valve to either a gas storage bladder or directly to your burner. **Install a pressure relief valve on the lid** set to 2-3 PSI — this is critical. Without it, the sealed drum becomes a pressure vessel that can rupture or explode as gas accumulates. The relief valve vents excess gas safely if the outlet is blocked or the ball valve is closed.
 4. **Build a gas storage bladder.** Inflate an old inner tube slightly and connect its valve stem to the gas line via a barbed fitting. As gas is produced, it inflates the tube. When you need to cook, open the valve and the tube's elasticity pushes gas to the burner. This also acts as a pressure indicator — if the tube is firm, you have gas.
 5. **Add the slurry drain.** Install a spigot or valve at the bottom of the drum. The spent slurry needs to be drained periodically to make room for fresh waste. This liquid is nutrient-rich fertilizer — use it on your garden.
 6. **Charge the digester.** Fill the drum about one-third full with a slurry of manure and water. Cow or pig manure contains the anaerobic bacteria you need to seed the system. Mix to the consistency of a thick milkshake. Top off with water to about two-thirds full.
