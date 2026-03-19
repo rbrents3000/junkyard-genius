@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/fridge-and-cooling/
 title: "❄️ Fridge & Cooling"
 description: "A fridge compressor is a heat pump. It moves thermal energy from one place to another. Where you put the cold side and the hot side is entirely up to you."
 image: /images/categories/fridge-and-cooling.jpg

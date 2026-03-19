@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/weird-science/
 title: "🔬 Weird Science"
 description: 'The builds that make people ask "wait, is that even legal?" (It is. Probably.)'
 image: /images/categories/weird-science.jpg

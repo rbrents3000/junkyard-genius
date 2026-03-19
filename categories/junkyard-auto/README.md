@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/junkyard-auto/
 title: "🚗 Junkyard Auto"
 description: "Every car in the scrapyard is a parts bin full of precision-engineered components begging for a second life."
 image: /images/categories/junkyard-auto.jpg

@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/junk-instruments/
 title: "🎸 Junk Instruments"
 description: "Playable instruments from PVC, cigar boxes, and whatever was in the recycling bin this morning."
 image: /images/categories/junk-instruments.jpg

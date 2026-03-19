@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/humidifier-and-water/
 title: "💧 Humidifier & Water"
 description: "Ultrasonic transducers vibrate at 1.7 million times per second. At that frequency, water doesn't know if it should be liquid or gas."
 image: /images/categories/humidifier-and-water.jpg

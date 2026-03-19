@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/pyro-and-chemistry/
 title: "🧪 Pyro & Chemistry"
 description: "Fire, foam, crystals, and reactions that make your jaw hit the floor."
 image: /images/categories/pyro-and-chemistry.jpg

@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/big-builds/
 title: "🏢 Big Builds"
 description: "When your project outgrows the workbench, escapes the garage, and takes over the entire yard. Neighbors will have questions."
 image: /images/categories/big-builds.jpg

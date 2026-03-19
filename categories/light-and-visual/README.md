@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/light-and-visual/
 title: "💡 Light & Visual"
 description: "Builds that bend, focus, project, and manipulate light in ways that make people question reality — holograms, lasers, optics, and things that glow."
 image: /images/categories/light-and-visual.jpg

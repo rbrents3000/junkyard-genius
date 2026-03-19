@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/sound-and-music/
 title: "🔊 Sound & Music"
 description: "Builds that make noise in ways that shouldn't be possible — speakers made from lightning, fire that dances to bass, and objects floating on invisible waves."
 image: /images/categories/sound-and-music.jpg

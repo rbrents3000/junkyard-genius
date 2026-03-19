@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/unholy-combos/
 title: "💀 Unholy Combos"
 description: "Two categories walk into a workshop. Something beautiful and terrifying walks out."
 image: /images/categories/unholy-combos.jpg

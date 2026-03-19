@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/scooter-and-motor/
 title: "⚙️ Scooter & Motor"
 description: "Every dead scooter motor is a brushless beast waiting to power something wilder than a sidewalk ride."
 image: /images/categories/scooter-and-motor.jpg

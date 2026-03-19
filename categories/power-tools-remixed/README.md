@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/power-tools-remixed/
 title: "🔨 Power Tools Remixed"
 description: "Every power tool is a motor with an attachment. Change the attachment, change the tool. 10,000 RPM solves a lot of problems."
 image: /images/categories/power-tools-remixed.jpg

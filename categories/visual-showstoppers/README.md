@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/visual-showstoppers/
 title: "👁️ Visual Showstoppers"
 description: "Builds that break brains through your eyeballs. Every project here exists for one reason: to make people physically stop and stare."
 image: /images/categories/visual-showstoppers.jpg

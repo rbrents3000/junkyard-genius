@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/survival-off-grid/
 title: "⛺ Survival & Off-Grid"
 description: "The grid is down, the water's off, and you're 40 miles from a Walmart. These builds are why you're fine."
 image: /images/categories/survival-off-grid.jpg

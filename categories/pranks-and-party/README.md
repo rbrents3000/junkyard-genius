@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/pranks-and-party/
 title: "👻 Pranks & Party Tricks"
 description: "Your friends will never trust a doorway, chair, or pen in your house again."
 image: /images/categories/pranks-and-party.jpg

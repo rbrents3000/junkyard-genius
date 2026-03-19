@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/vacuum-cleaner/
 title: "🌀 Vacuum Cleaner"
 description: "A vacuum cleaner is a high-RPM motor attached to an impeller. That's a jet engine's job description."
 image: /images/categories/vacuum-cleaner.jpg

@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/drone-salvage/
 title: "🚁 Drone Salvage"
 description: "A $500 drone took a nosedive. You just scored $500 worth of precision motors, cameras, and sensors for free."
 image: /images/categories/drone-salvage.jpg

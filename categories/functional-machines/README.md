@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/functional-machines/
 title: "🔧 Functional Machines"
 description: "Turning junk into machines that actually do real work. No toy builds here — these replace tools you'd otherwise buy."
 image: /images/categories/functional-machines.jpg

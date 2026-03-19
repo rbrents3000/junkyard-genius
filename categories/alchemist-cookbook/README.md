@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/alchemist-cookbook/
 title: "💥 Alchemist's Cookbook"
 description: "Where fireworks meet microwave parts meet chemistry meet car salvage. The most dangerous and spectacular crossover builds in the repo."
 image: /images/categories/alchemist-cookbook.jpg

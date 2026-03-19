@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/python-projects/
 title: "🐍 Python Projects"
 description: "A webcam is a webcam. A webcam running OpenCV is a face-tracking sentry turret. Python is the difference."
 image: /images/categories/python-projects.jpg

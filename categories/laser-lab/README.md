@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/laser-lab/
 title: "🎯 Laser Lab"
 description: "Laser builds from salvaged diodes, pointers, and optics."
 image: /images/categories/laser-lab.jpg

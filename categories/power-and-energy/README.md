@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/power-and-energy/
 title: "🔋 Power & Energy"
 description: "Generate, store, and harvest energy from sources most people throw away."
 image: /images/categories/power-and-energy.jpg

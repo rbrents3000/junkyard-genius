@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/mad-scientist/
 title: "⚡ Mad Scientist"
 description: "High voltage, electromagnetic forces, and physics experiments that belong in a government lab but somehow live in your garage. Expect sparks, levitation, and at least one alarmed neighbor."
 image: /images/categories/mad-scientist.jpg

@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/computer-and-phone/
 title: "💻 Computer & Phone Parts"
 description: "Dead laptops, cracked phones, and retired desktops are goldmines of precision-engineered components."
 image: /images/categories/computer-and-phone.jpg

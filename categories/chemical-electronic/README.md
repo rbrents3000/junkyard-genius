@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/chemical-electronic/
 title: "⚗️ Chemical & Electronic"
 description: "Electrons do chemistry. Chemistry makes electronics. This is the category where your workbench needs both a multimeter and safety goggles."
 image: /images/categories/chemical-electronic.jpg

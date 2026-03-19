@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/mechanical-and-kinetic/
 title: "🏗️ Mechanical & Kinetic"
 description: "Where scrap metal, magnets, and gravity conspire to create motion from nothing."
 image: /images/categories/mechanical-and-kinetic.jpg

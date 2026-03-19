@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/kitchen-hacks/
 title: "🍴 Kitchen Appliance Hacks"
 description: "Your toaster oven is a reflow station. Your stand mixer is a pottery wheel. Your kitchen is lying to you about what it can do."
 image: /images/categories/kitchen-hacks.jpg

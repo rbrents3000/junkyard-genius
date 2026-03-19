@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/pi-and-arduino/
 title: "🤖 Pi & Arduino"
 description: "Microcontrollers and single-board computers turn junk into smart junk."
 image: /images/categories/pi-and-arduino.jpg

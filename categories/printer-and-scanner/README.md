@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/printer-and-scanner/
 title: "🖨️ Printer & Scanner"
 description: "Printers are the most underrated source of precision motion components on the planet."
 image: /images/categories/printer-and-scanner.jpg

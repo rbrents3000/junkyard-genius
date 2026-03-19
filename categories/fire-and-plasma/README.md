@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/fire-and-plasma/
 title: "🔥 Fire & Plasma"
 description: "Where discarded microwaves and scrap metal become instruments of pure elemental fury."
 image: /images/categories/fire-and-plasma.jpg

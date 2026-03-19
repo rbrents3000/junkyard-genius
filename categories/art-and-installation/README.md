@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/art-and-installation/
 title: "🎨 Art & Installation"
 description: "Turning dumpster finds into gallery pieces that make people forget the parts came from a curb."
 image: /images/categories/art-and-installation.jpg

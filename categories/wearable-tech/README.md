@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /categories/wearable-tech/
 title: "👕 Wearable Tech"
 description: "Turn old clothes and cheap electronics into cyberpunk wearables."
 image: /images/categories/wearable-tech.jpg
