@@ -57,3 +57,7 @@ These have been known since the 1600s (Prince Rupert of the Rhine brought them t
 
 - [Chain Fountain](184-chain-fountain.md) — another jaw-dropping physics demo with minimal components
 - [Eddy Current Brake](186-eddy-current-brake.md) — counterintuitive physics you can hold in your hands
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

@@ -61,3 +61,7 @@ This is one of the most elegant physics demonstrations ever conceived, and it co
 - [Musical Marble Machine](181-musical-marble-machine.md)
 - [Magnetic Gear Train](188-magnetic-gear-train.md)
 - [Foucault Pendulum](../weird-science/311-foucault-pendulum.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

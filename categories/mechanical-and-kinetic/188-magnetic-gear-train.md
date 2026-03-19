@@ -56,3 +56,7 @@ The effect is hypnotic: two discs floating in space, one driving the other with 
 
 - [Ball Bearing Motor](187-ball-bearing-motor.md) — the simplest electromagnetic motion build
 - [Musical Marble Machine](181-musical-marble-machine.md) — traditional mechanical gearing taken to artistic extremes
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

@@ -50,3 +50,7 @@ It's the perfect gateway build — zero tools required, impossible to mess up, a
 
 - [Homopolar Motor](../weird-science/198-homopolar-motor.md) — the Weird Science take on this same principle with fancier builds
 - [Magnetic Gear Train](188-magnetic-gear-train.md) — magnets creating motion through a different mechanism
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

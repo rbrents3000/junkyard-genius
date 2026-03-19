@@ -50,3 +50,7 @@ The physics is still debated, but the leading explanation involves the rigid lin
 
 - [Eddy Current Brake](186-eddy-current-brake.md) — another "wait, that shouldn't be possible" physics demo
 - [Prince Rupert's Drop](190-prince-ruperts-drop.md) — counterintuitive material science that looks like magic
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

@@ -63,3 +63,7 @@ The magic is in the programming wheel — a large rotating cylinder with adjusta
 
 - [Stirling Engine](182-stirling-engine.md) — another mechanical build powered by simple physics
 - [Magnetic Gear Train](188-magnetic-gear-train.md) — contactless gear meshing for when you want motion without friction
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

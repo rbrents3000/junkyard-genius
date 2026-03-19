@@ -59,3 +59,7 @@ This is Pascal's law made tangible: pressure applied to a confined fluid transmi
 
 - [Trebuchet](185-trebuchet.md) — mechanical advantage on a much larger and more violent scale
 - [Ball Bearing Motor](187-ball-bearing-motor.md) — the simplest possible motor if you want something that moves with zero complexity
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
