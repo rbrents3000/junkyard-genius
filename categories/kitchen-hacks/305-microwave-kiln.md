@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Microwaves heat food by blasting it with 2.45 GHz electromagnetic radiation, which excites water molecules. Most non-food materials — ceramics, glass, metals — don't absorb microwave radiation efficiently at room temperature. But silicon carbide does. Silicon carbide is a synthetic mineral that absorbs microwave energy and converts it directly into heat with terrifying efficiency. A shell of silicon carbide inside a microwave becomes a radiant furnace, reaching 1500–1800°F in under 10 minutes. Everything inside the shell gets heated by radiant energy from the glowing walls. Everything outside the shell — including the microwave oven itself — stays relatively cool because the insulating housing blocks the heat from escaping.
 
@@ -20,7 +18,8 @@ This is the microwave kiln: a hollow cylinder made of a silicon carbide inner sh
 
 The applications are genuinely surprising. Fuse glass — layer pieces of dichroic and art glass, fire them for 3–5 minutes, and they melt together into jewelry pendants, tiles, and decorative pieces. Fire silver metal clay (PMC) — a material that's pure silver particles suspended in an organic binder; the kiln burns off the binder and sinters the silver particles into solid .999 fine silver. Anneal hardened steel — heat a knife blade or tool to cherry red and let it cool slowly to relieve internal stresses. Fire small ceramic pieces — glaze tests, beads, figurines. Melt small quantities of bronze, silver, or gold in a crucible for lost-wax casting. All of this in a microwave, in your kitchen, in minutes instead of the hours a conventional kiln requires.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Microwave kiln — the silicon carbide/ceramic fiber insert; available commercially as "microwave kiln" or "fuseworks kiln" *(craft supplier, online, $25–40)*
 - [ ] Microwave oven — standard 1000W+ countertop model; higher wattage reaches temperature faster *(thrift store, $10–20)*
@@ -34,7 +33,9 @@ The applications are genuinely surprising. Fuse glass — layer pieces of dichro
 - [ ] Infrared thermometer or pyrometer — for monitoring temperature through the microwave door *(hardware store, $12–15)*
 - [ ] Safety glasses — IR-rated if watching the kiln through the door for extended periods *(safety supplier, $5–10)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Select and test your microwave.** You need at least 1000W — check the label on the back. Higher wattage (1100–1200W) reaches kiln temperatures faster and holds them more reliably. The microwave must have a functioning turntable — the kiln needs to rotate so all sides absorb microwave energy evenly. A stationary kiln develops hot spots on one side and cold spots on the other. Test the microwave empty for 30 seconds to verify the magnetron works and the turntable rotates. Thrift store microwaves are perfect for this. Dedicate this microwave to kiln use only — don't go back to making popcorn in it afterward.
 
@@ -56,7 +57,7 @@ The applications are genuinely surprising. Fuse glass — layer pieces of dichro
 
 10. **Maintain the kiln.** After every few firings, inspect the silicon carbide coating on the inner surface of the kiln. If it's cracking, flaking, or showing bare ceramic fiber, the kiln is losing efficiency — the exposed fiber doesn't absorb microwaves, so the kiln heats slower and unevenly. Patch bare spots with silicon carbide kiln wash (available from ceramic suppliers) or replace the kiln. A well-maintained kiln lasts 50–100 firings. At $30 per kiln and 75 firings, that's $0.40 per firing. A conventional kiln uses $2–5 of electricity per firing. The microwave uses about $0.03 of electricity per firing. The math is absurd.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The kiln interior reaches 1500°F+. Treat it like the forge it is. Use proper tongs or kiln gloves rated for high temperature — regular oven mitts are not rated for this and will scorch through. Keep a fire brick or ceramic tile as a dedicated landing surface. Never set the hot kiln on a wooden table, plastic cutting board, or anything that burns or melts.
 - Microwave radiation is shielded by the oven door, but verify your microwave door seal is intact before use. A simple test: place your cell phone inside the closed microwave (DON'T turn it on) and call it. If it rings, the shielding is compromised and the microwave should not be used. If the call fails, the Faraday cage is intact.
@@ -65,7 +66,7 @@ The applications are genuinely surprising. Fuse glass — layer pieces of dichro
 - Do not attempt to fire closed containers, sealed objects, or anything with trapped moisture in the kiln. Steam from trapped water expands explosively at kiln temperatures. Greenware ceramics must be bone-dry before firing. Found objects and rocks should be avoided — some contain pockets of moisture or volatile minerals that pop like popcorn at 1400°F.
 - This microwave is now a kiln accessory. Label it. Do not reheat leftover soup in your forge.
 
-## See Also
+## 🔗 See Also
 
 - [Toaster Reflow Oven](260-toaster-reflow-oven.md)
 - [Waffle Iron Heat Press](264-waffle-iron-press.md)

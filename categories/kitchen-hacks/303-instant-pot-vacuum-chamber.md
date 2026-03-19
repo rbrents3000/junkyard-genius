@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A vacuum chamber is a sealed container from which air has been removed. Labs use them for degassing epoxy and silicone (pulling dissolved air bubbles out of mixed resin before it cures), vacuum forming (sucking heated plastic sheet tight against a mold), dehydrating samples at low temperature (boiling point drops with pressure — water boils at room temperature in a strong enough vacuum), and dozens of other tasks that require air to go away. Commercial vacuum chambers start at $80 for a thin-walled aluminum pot and climb into the thousands for anything with a sight glass and proper fittings. They're all fundamentally the same thing: a strong sealed vessel with a port for a vacuum pump.
 
@@ -20,7 +18,8 @@ An Instant Pot is a strong sealed vessel with a port on top. The stainless steel
 
 The modification is almost disappointingly simple. Unscrew or remove the steam release valve, thread or epoxy a vacuum-rated hose barb into the hole, connect a length of thick-walled silicone tubing to a hand vacuum pump or small electric vacuum pump, and pull vacuum. The lid gasket seats against the rim and holds. The locking mechanism prevents the lid from lifting under the external atmospheric pressure trying to push it inward. You end up with a usable vacuum chamber that reaches 25–28 inHg of vacuum (depending on your pump) for the cost of a thrift store Instant Pot and a $25 brake bleeder hand pump. A proper lab vacuum chamber with comparable volume runs $150–400.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Electric pressure cooker — Instant Pot or similar with locking lid and removable steam valve *(thrift store, $8–15)*
 - [ ] Vacuum pump — hand-operated brake bleeder pump works fine; electric pump for sustained vacuum *(auto parts store, $15–25 for hand pump; $35–50 for electric)*
@@ -31,7 +30,9 @@ The modification is almost disappointingly simple. Unscrew or remove the steam r
 - [ ] Hose clamps — to secure tubing on barb fittings *(hardware store, $1–2)*
 - [ ] Optional: clear acrylic disc cut to lid size — replaces the metal lid for a sight glass so you can watch degassing happen *(plastics supplier, $10–15)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Choose the right pressure cooker.** You want a model with a removable steam release valve — most Instant Pot models have a pop-out valve on top of the lid that lifts straight out. Examine the hole it leaves behind. Measure the diameter. Models with a simple round hole are ideal because a hose barb fitting can thread directly in or be sealed with silicone. Avoid models where the valve mechanism is integrated into a complex assembly — you want a clean, simple port. The 6-quart size is the sweet spot: enough volume to degas a reasonable batch of resin while staying small enough for a hand pump to evacuate efficiently.
 
@@ -51,7 +52,7 @@ The modification is almost disappointingly simple. Unscrew or remove the steam r
 
 9. **Low-temperature dehydration.** Water boils at 133°F at 25 inHg of vacuum instead of the usual 212°F. Put herbs, fruit slices, or flowers on the trivet inside the pot, seal it, and pump down. The residual ambient heat in the room is enough to slowly evaporate moisture from the samples. It takes longer than a heated dehydrator but preserves volatile oils, colors, and flavors that high-temperature dehydration destroys. Lavender dried this way smells noticeably better than oven-dried — the essential oils stay put instead of evaporating off.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Never use a cracked, dented, or damaged inner pot. Pressure differentials stress the vessel walls — a weakened pot under vacuum could implode inward, sending stainless steel fragments into the chamber contents. Inspect before every use.
 - The locking lid is under significant inward force when vacuum is applied. Do not attempt to force the lid open while under vacuum. Always release vacuum fully through the bleed valve before unlocking. The lid will not open easily under vacuum — this is the safety mechanism working correctly, not a malfunction.
@@ -59,7 +60,7 @@ The modification is almost disappointingly simple. Unscrew or remove the steam r
 - If using an electric vacuum pump, never run it against a sealed system for extended periods without a bleed valve or pressure switch. Pumps overheat when they can't move air. A $5 inline pressure switch from the auto parts store protects a $40 pump.
 - Degassing solvents or volatile chemicals in a vacuum chamber rapidly accelerates their evaporation. Only degas materials in well-ventilated spaces and never degas flammable solvents near ignition sources.
 
-## See Also
+## 🔗 See Also
 
 - [Coffee Maker Distiller](262-coffee-maker-distiller.md)
 - [Blender Vortex Centrifuge](263-blender-centrifuge.md)

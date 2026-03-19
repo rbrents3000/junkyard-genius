@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Surface-mount electronics (SMD) are soldered using a precise temperature profile: ramp up slowly to preheat the board and components, soak at an intermediate temperature to activate the flux in the solder paste, spike to reflow temperature (230-250C for lead-free solder) where the paste melts and wets the pads, then cool down in a controlled curve. Every professional PCB assembly line uses a reflow oven for this. The ovens cost $500-5000. A thrift store toaster oven costs $5 and reaches the exact same temperatures — it just has no idea what temperature it's actually at and no ability to follow a programmed curve.
 
@@ -20,7 +18,8 @@ Add a thermocouple (a temperature sensor rated for extreme heat), a solid-state 
 
 This is genuinely one of the most useful tool conversions in the entire collection. If you build electronics, a reflow oven transforms your capabilities. Hand-soldering 0402-sized components and QFN packages is miserable work with poor results. A reflow oven lets you stencil solder paste onto a PCB, place components with tweezers, slide the board in, press a button, and walk away. Six minutes later you have solder joints that are indistinguishable from factory work. Every maker space should have one, and now yours lives inside a Goodwill toaster oven.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Toaster oven — countertop model, convection (with fan) preferred for even heating *(thrift store, $5-8)*
 - [ ] K-type thermocouple — fiberglass insulated, rated to 400C+ *(electronics supplier, $3)*
@@ -36,7 +35,9 @@ This is genuinely one of the most useful tool conversions in the entire collecti
 - [ ] Enclosure or mounting plate — for the controller electronics *(scrap aluminum, project box, $2)*
 - [ ] Solder paste — Sn63/Pb37 (leaded, easier, lower temp) or SAC305 (lead-free) *(electronics supplier, $5-15 syringe)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Choose the toaster oven.** Convection models with an internal fan distribute heat more evenly — temperature can vary 20-30C between spots in a non-convection oven, which means some components reflow while others don't. Small ovens are better: less thermal mass means faster heat-up, tighter temperature control, and quicker recovery after opening the door. Test the oven at max temperature with an oven thermometer to verify it reaches at least 250C.
 
@@ -63,7 +64,7 @@ This is genuinely one of the most useful tool conversions in the entire collecti
 
 10. **Mark the oven permanently.** Write "NOT FOR FOOD" on every visible surface in permanent marker. Add tape over the plug when stored. Once used for reflow soldering, the interior is contaminated with flux residue and (if using leaded paste) lead. This oven can never be used for food again. Ever. Label it so your roommate doesn't make pizza rolls in your reflow oven.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - This project involves mains voltage (120V/240V AC). All high-voltage wiring must be done with the oven unplugged. Use appropriately rated wire, connectors, and insulation. Double-check all connections before plugging in. If you're not experienced with mains wiring, get hands-on help from someone who is. Mains voltage kills.
 - Mount the SSR on a proper heatsink. An SSR at 10A drops about 1.5V across its output, dissipating 15W of heat. Without a heatsink, it will overheat and fail — potentially failing "on," which means your oven runs at full power with no control.
@@ -71,7 +72,7 @@ This is genuinely one of the most useful tool conversions in the entire collecti
 - Once used for soldering, the oven is permanently contaminated. Lead solder residue is toxic — ingestion of even small amounts causes cumulative neurological damage. NEVER return this oven to food use.
 - The oven exterior gets very hot during reflow cycles (250C+ inside). Keep flammable materials well away. Place the oven on a heat-resistant surface. Do not leave it unattended during a cycle.
 
-## See Also
+## 🔗 See Also
 
 - [Stand Mixer Pottery Wheel](261-stand-mixer-pottery-wheel.md)
 - [Coffee Maker Essential Oil Distiller](262-coffee-maker-distiller.md)

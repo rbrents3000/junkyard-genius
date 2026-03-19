@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A centrifuge is one of those pieces of lab equipment that sounds intimidating until you realize what it actually does: spin things really fast so heavy stuff goes to the outside and light stuff stays near the middle. Lab centrifuges spin at 3,000–15,000 RPM and cost hundreds of dollars. A thrift store blender motor spins at 10,000–20,000 RPM and costs three bucks. The physics doesn't care about the price tag.
 
@@ -20,7 +18,8 @@ Replace the blade assembly with a balanced rotor — a flat disc that holds samp
 
 The one critical requirement is balance. An unbalanced rotor at 10,000 RPM doesn't vibrate politely — it tries to leave the building. Get the balance right and this thing is whisper-quiet. Get it wrong and you'll understand why lab centrifuges have locking lids.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Blender with working motor — countertop type, any brand *(thrift store, $3–5)*
 - [ ] Flat disc of wood, plastic, or metal — 4–6" diameter for the rotor *(scrap bin, hardware store, free–$2)*
@@ -31,7 +30,9 @@ The one critical requirement is balance. An unbalanced rotor at 10,000 RPM doesn
 - [ ] Counterweights — coins, nuts, washers for balancing *(junk drawer, free)*
 - [ ] Heavy bucket or plywood box — containment shield *(garage, free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Remove the blender jar and blade assembly.** Unscrew the blade assembly from the base coupling. You need access to the motor's drive shaft — the stubby part that normally spins the blade. Note how it couples: most blenders use a square or splined shaft that mates with the blade housing. You'll replicate this connection with your rotor.
 
@@ -51,14 +52,14 @@ The one critical requirement is balance. An unbalanced rotor at 10,000 RPM doesn
 
 9. **Harvest your separated layers.** Power off and wait for the rotor to stop completely before touching anything. Remove tubes carefully — the separated layers will be clearly visible. Use a pipette or eyedropper to extract the layer you want without disturbing the boundary. For DNA extraction, the clear layer on top is what you want; the cell debris is compacted at the bottom.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Always balance tubes in matched pairs of equal weight on opposite sides. Never run with an odd number of filled tubes — the imbalance at speed is dangerous.
 - Always operate inside a containment shield. Tube failures, rotor cracks, and coupling failures fling fragments at high velocity. A bucket around the blender base is the bare minimum.
 - If you hear grinding, rattling, or rising vibration, stop immediately. These are signs of imbalance or mechanical failure. Nothing good has ever come from ignoring strange noises at 10,000 RPM.
 - The blender motor can overheat during extended runs. Limit continuous operation to 5 minutes, then let the motor cool for a few minutes before the next spin.
 
-## See Also
+## 🔗 See Also
 
 - [Toaster Reflow Oven](260-toaster-reflow-oven.md)
 - [Coffee Maker Distiller](262-coffee-maker-distiller.md)

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Take a step back and look at what a waffle iron actually is: two heated plates that clamp together with even pressure and a built-in thermostat. That's the exact definition of a heat press. The only difference between your aunt's waffle iron and a professional T-shirt press is flat plates and a marketing department.
 
@@ -20,7 +18,8 @@ The fix is almost comically simple. Bolt or lay flat aluminum plates over the wa
 
 Professional T-shirt printers will tell you this can't possibly work as well as their $500 Hotronix. They're technically right — commercial presses have more uniform pressure distribution, precise digital temperature control, and larger platen areas. But for personal projects, custom one-offs, small craft batches, and "I need a printed shirt in 20 minutes" situations, the waffle iron gets it done. The results are visually indistinguishable on most materials. Your shirts won't know the difference.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Waffle iron — Belgian style or flat-grid style; flatter grids need thinner shim plates *(thrift store, $3-5)*
 - [ ] Flat aluminum sheet — 1/16" to 1/8" thick, cut to fit the waffle grid area on both top and bottom plates *(hardware store, $3-5)*
@@ -31,7 +30,9 @@ Professional T-shirt printers will tell you this can't possibly work as well as 
 - [ ] Tin snips — for cutting aluminum sheet *(toolbox)*
 - [ ] Optional: lamp dimmer rated for the waffle iron's wattage — for fine temperature control *(hardware store, $8)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Measure the waffle grid surface.** Open the waffle iron fully and measure the flat area on both the top and bottom plates. Note the depth of the grid pattern — deep Belgian waffle grids need thicker shim material between the grid and the aluminum plate. Also note the overall closure height — you need room for the aluminum plates plus your work material without preventing the iron from closing fully.
 
@@ -51,14 +52,14 @@ Professional T-shirt printers will tell you this can't possibly work as well as 
 
 9. **Explore other applications.** The flat heat-and-clamp setup works for: laminating paper in thermal lamination pouches, curing contact cement between surfaces, heat-setting fabric dye, softening thermoplastics (Worbla, Kydex) for forming, melting wax for encaustic art, activating heat-shrink labels on bottles, and — remove the aluminum plates and use the original waffle grid — making panini with proper grill marks. This might be the most versatile kitchen appliance conversion in the entire collection.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Aluminum plates retain heat long after the waffle iron is unplugged. Use oven mitts to handle plates and let everything cool on a heat-resistant surface. The plates stay dangerously hot for 10+ minutes after power-off.
 - Heat-transfer vinyl produces fumes when heated. Work in a ventilated area or near an open window. If you smell burning plastic, the temperature is too high — open immediately, let it cool, and reduce heat before trying again.
 - Never leave a clamped waffle iron unattended while hot. Without waffle batter absorbing thermal energy, the plates can overshoot temperature and scorch fabric or ignite paper-based transfer material. Stay within arm's reach.
 - If using a lamp dimmer for temperature control, verify it's rated for the waffle iron's wattage. Most waffle irons draw 800-1200W. A dimmer rated for 600W will overheat and potentially catch fire. Use a dimmer rated for at least the iron's wattage.
 
-## See Also
+## 🔗 See Also
 
 - [Blender Vortex Centrifuge](263-blender-centrifuge.md)
 - [Toaster Reflow Oven](260-toaster-reflow-oven.md)

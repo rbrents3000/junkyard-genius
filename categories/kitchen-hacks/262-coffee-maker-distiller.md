@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Steam distillation is the standard method for extracting essential oils from plants, and it's been used for over a thousand years. Water is heated to produce steam. The steam passes through plant material — lavender, rosemary, peppermint, eucalyptus, whatever you're extracting from. The heat and moisture cause the plant's oil glands to rupture, releasing volatile aromatic compounds into the steam. The oil-laden steam then travels through a condenser (a coiled tube cooled by cold water), where it turns back into liquid. Oil and water don't mix, so the essential oil floats on top and can be separated.
 
@@ -20,7 +18,8 @@ A drip coffee maker already does 90% of this job. It heats water in a reservoir,
 
 You won't produce industrial quantities — a single coffee-maker run yields a few milliliters of essential oil from a basket full of plant material. But a few milliliters of pure lavender or peppermint oil is enough for dozens of soap batches, candles, diffusers, balms, and cleaning solutions. It's also a gorgeous demonstration of a 1000-year-old chemical process running on a kitchen appliance that costs less than lunch.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Drip coffee maker — standard Mr. Coffee style with top basket and glass carafe *(thrift store, $3-5)*
 - [ ] Copper tubing — 1/4" OD soft copper, 4-6 feet *(hardware store plumbing section, $5-8)*
@@ -33,7 +32,9 @@ You won't produce industrial quantities — a single coffee-maker run yields a f
 - [ ] Dowel or broomstick — to wrap the copper coil around *(junk pile — free)*
 - [ ] Optional: pipette, turkey baster, or separating funnel — for separating oil from hydrosol *(kitchen, lab supply, $2-5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Clean and test the coffee maker.** Run 2-3 cycles of plain water through the coffee maker to flush out any old coffee oils and residue. Observe the steam/water path: water heats in the base reservoir, steam pressure pushes hot water up the internal riser tube, and it drips from the showerhead onto the filter basket below. For distillation, the hot water passes through herbs in the basket (picking up aromatic compounds) and exits the brew spout. You'll redirect that output through a condenser instead of letting it fall into the carafe.
 
@@ -55,7 +56,7 @@ You won't produce industrial quantities — a single coffee-maker run yields a f
 
 10. **Clean and store.** Run a full cycle of plain water through the coffee maker to flush herb residue from the riser tube and showerhead. Flush the copper condenser with hot water and let it dry completely to prevent oxidation. Store the system assembled or disassembled in a clean, dry place.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Not all plants are safe to distill. Some produce toxic compounds when steam-distilled. Stick to well-known culinary and aromatic herbs: lavender, rosemary, peppermint, eucalyptus, chamomile, thyme, sage, citrus peel. Do not distill unknown plants, ornamental flowers treated with pesticides, or anything you can't positively identify.
 - Essential oils are concentrated and potent. Never apply undiluted essential oil directly to skin — many cause chemical burns and allergic reactions at full concentration. Always dilute in a carrier oil (coconut, jojoba, olive) for topical use.
@@ -63,7 +64,7 @@ You won't produce industrial quantities — a single coffee-maker run yields a f
 - The coffee maker and copper coil get hot during operation. Don't touch the riser tube, basket area, or inlet end of the condenser during a run. Let the system cool before disassembling or changing herb loads.
 - Once dedicated to distillation, the coffee maker should not return to food use. Herb residues and essential oils are difficult to completely remove from the internal water path and can impart off-flavors.
 
-## See Also
+## 🔗 See Also
 
 - [Blender Vortex Centrifuge](263-blender-centrifuge.md)
 - [Stand Mixer Pottery Wheel](261-stand-mixer-pottery-wheel.md)
