@@ -67,3 +67,6 @@ This build wraps that plasma speaker in a decorative glass lamp housing — a ma
 
 - [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil.md)
 - [Jacob's Ladder](../mad-scientist/034-jacobs-ladder.md)
+
+**References:**
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

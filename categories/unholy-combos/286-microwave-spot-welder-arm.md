@@ -70,3 +70,8 @@ The result is a semi-automated spot welder that can place welds at programmed co
 
 - [Spot Welder](../functional-machines/027-spot-welder.md)
 - [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

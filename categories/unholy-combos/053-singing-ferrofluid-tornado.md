@@ -58,3 +58,8 @@ The spinning ferrofluid sits in a shallow glass dish on a custom-wound stator. T
 
 - [Ferrofluid Mirror](../art-and-installation/046-ferrofluid-mirror.md)
 - [Levitating Plasma Speaker](055-levitating-plasma-speaker.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)
