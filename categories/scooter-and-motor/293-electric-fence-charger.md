@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Electric fence chargers (also called energizers or fencers) produce short, high-voltage pulses — typically 2,000 to 10,000 volts — that travel through a wire fence.
 When an animal touches the wire and completes the circuit to ground, it gets a sharp, painful shock that teaches it to respect the fence boundary.
@@ -32,7 +30,8 @@ This is the same operating principle as every commercial fence charger on the ma
 The 555 timer is one of the most well-understood ICs in electronics history (designed in 1971, still in mass production, billions sold).
 The circuit is about as complex as a flashlight with a few extra components.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Ignition coil — standard 12V automotive ignition coil, any make/model *(junkyard, ~$0-5)*
 - [ ] 555 timer IC — the classic NE555 or equivalent *(electronics supplier, ~$0.25)*
@@ -50,7 +49,9 @@ The circuit is about as complex as a flashlight with a few extra components.
 - [ ] Perfboard — for permanent soldering after breadboard prototyping *(electronics supplier, ~$1)*
 - [ ] Toggle switch — main power on/off *(salvage or ~$1)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Pull an ignition coil.**
 Find any car at a junkyard and pull the ignition coil.
@@ -143,7 +144,7 @@ Trim vegetation along the fence line regularly.
 Touch the fence briefly with the back of your hand (not a gripping hand — this is important) to confirm the shock is noticeable.
 It should feel like a sharp snap — startling and unpleasant, not agonizing.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The secondary output of an ignition coil can produce 20,000+ volts.
 While the current is very low and the pulse is extremely brief (making it non-lethal under normal circumstances), it is still a painful shock.
@@ -170,7 +171,7 @@ Charge in a ventilated area, away from sparks or flame.
 - Check local regulations before installing an electric fence.
 Many municipalities have specific rules about placement, signage, voltage limits, and proximity to public walkways.
 
-## See Also
+## 🔗 See Also
 
 - [Electric Skateboard](088-electric-skateboard.md)
 - [Jacob's Ladder](../mad-scientist/034-jacobs-ladder.md)

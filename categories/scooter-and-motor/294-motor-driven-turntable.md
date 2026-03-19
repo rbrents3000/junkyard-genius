@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A motor-driven turntable is a rotating platform that spins at a controlled, consistent speed. The immediate use case is product photography — set a product on the platform, hit record, and get a smooth 360-degree rotation without touching anything. But the applications pile up fast: 3D scanning (most photogrammetry software expects consistent rotation), spray-painting small parts (spin the part instead of walking around it), drying coatings evenly, displaying models or collectibles, and even spin-coating thin films onto flat surfaces. Anywhere you need something to rotate slowly and smoothly, this is the tool.
 
@@ -20,7 +18,8 @@ The secret weapon here is the microwave turntable motor. Every microwave oven ha
 
 The DC motor route gives you adjustable RPM, which matters for photography (slower = smoother video) versus painting (faster = more even coating). Either way, the build is dead simple. This is a one-afternoon project, possibly the easiest motorized build in this entire collection. The hardest part is cutting a clean circle for the platform, and even that's optional if you use a pre-made lazy susan or salvaged turntable platter.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Microwave turntable motor — synchronous AC motor, 3-6 RPM, with D-shaft coupler *(dead microwave, ~$0)*
 - [ ] **OR** small geared DC motor — 12V, 5-30 RPM range *(dead printer, power tool, or online ~$5-8)*
@@ -34,7 +33,9 @@ The DC motor route gives you adjustable RPM, which matters for photography (slow
 - [ ] Optional: Arduino Nano + motor driver (L298N or similar) — for programmable speed, direction, and timed rotation *(~$7 total)*
 - [ ] Optional: white foam board or fabric backdrop — instant mini photo studio *(dollar store ~$2)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage the motor.**
 If using a microwave motor: unplug the microwave, then discharge the capacitor.
@@ -130,7 +131,7 @@ Stepper motors are ideal for this since they move in precise angular increments.
 If you have a NEMA 17 from a dead printer, swap it in for the DC motor and use an A4988 driver for exact angular control.
 Ten degrees per step, 36 steps per revolution, one photo per step — that's a complete 3D scan orbit with no manual intervention.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - If salvaging a microwave turntable motor, you must discharge the magnetron capacitor first.
 Microwave capacitors can retain a lethal charge (2000V+) for days after the oven is unplugged.
@@ -149,7 +150,7 @@ Keep fingers, hair, and loose clothing away from the gap between the spinning pl
 
 - If using a lithium battery pack for a portable DC version, follow standard lithium safety: don't charge unattended, inspect for swelling, and store on a non-flammable surface.
 
-## See Also
+## 🔗 See Also
 
 - [Motor-Powered Pottery Wheel](292-motor-powered-pottery-wheel.md)
 - [Electric Skateboard](088-electric-skateboard.md)

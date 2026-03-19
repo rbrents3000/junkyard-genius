@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A camera slider creates smooth, linear tracking shots — the kind of cinematic movement you see in documentaries, product videos, and real estate tours. Professional motorized sliders cost $200-800. But a camera slider is just a linear rail with a carriage that moves a camera at a controlled speed. Salvage a stepper motor from a printer, use full-extension drawer slides as the linear rail, drive the carriage with a belt or lead screw, and control the speed with an Arduino. The result is buttery-smooth tracking shots that transform amateur video into professional-looking content. Add a second motor for pan control and you have a motion-controlled rig that rivals gear costing 10x more.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Stepper motor (NEMA 17) — salvaged from a printer *(e-waste bin)*
 - [ ] Full-extension drawer slides (18-24 inches) — as the linear rail *(salvage from old furniture, or ~$8)*
@@ -29,7 +28,9 @@ A camera slider creates smooth, linear tracking shots — the kind of cinematic 
 - [ ] Plywood or aluminum extrusion — for the base *(hardware store)*
 - [ ] Potentiometer — for speed control *(~$1, electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the rail base.** Cut a piece of plywood or aluminum extrusion to your desired slider length (18-24 inches is typical). This is the foundation. It needs to be straight and rigid — any flex or bow translates into wobbly footage.
 2. **Mount the drawer slides.** Attach the fixed part of the drawer slides to the base, running the full length. Use one or two drawer slides depending on the weight of your camera. Full-extension ball-bearing slides provide the smoothest motion. Ensure they're perfectly parallel if using two.
@@ -42,12 +43,12 @@ A camera slider creates smooth, linear tracking shots — the kind of cinematic 
 9. **Test with your camera.** Mount the camera (or phone), set focus, hit record, and start the slider. Review the footage. If you see jitter, the stepper is stepping too coarsely — enable microstepping on the A4988 driver (set the MS1/MS2/MS3 pins for 1/16 or 1/32 microstepping).
 10. **Optional: add pan motor.** Mount a second stepper motor on the camera carriage with a small geared turntable. This rotates the camera while it slides, creating sweeping pan-and-track shots. Coordinate both motors in code for complex camera movements.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Camera equipment is expensive and fragile. Test the slider with a weighted dummy (water bottle, bag of rice) before mounting your camera. Verify that the carriage stops at the rail ends and doesn't run off — add end stops (limit switches or physical bumpers).
 - The stepper motor and driver generate heat during extended time-lapse sequences (hours). Ensure ventilation and don't wrap electronics in insulating material. Consider reducing motor current during pauses.
 
-## See Also
+## 🔗 See Also
 
 - [Electric Winch](090-electric-winch.md)
 - [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md)

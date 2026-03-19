@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Electric skateboards from brands like Boosted, Meepo, and Evolve cost $400-2000. The core components are a brushless motor, an ESC (electronic speed controller), a lithium battery pack, and a wireless remote. All of these exist inside a dead electric scooter or hoverboard. Salvage the motor, ESC, and controller. Build a battery pack from harvested laptop 18650 cells (or reuse the scooter's battery). Mount everything under a regular skateboard deck. Belt-drive or hub-motor — both work. The result is a 15-20 mph electric skateboard that cost you nothing but time and ingenuity, while commercial equivalents cost hundreds.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Brushless DC motor — hub motor from a scooter/hoverboard, or a belt-drive motor *(dead electric scooter/hoverboard)*
 - [ ] ESC (electronic speed controller) — matched to your motor *(salvage from scooter, or ~$15-25)*
@@ -28,7 +27,9 @@ Electric skateboards from brands like Boosted, Meepo, and Evolve cost $400-2000.
 - [ ] Drive belt + pulleys — if using belt-drive motor *(~$10, hobby supplier)*
 - [ ] Enclosure — for battery and ESC, mount under the deck *(3D print, sheet metal, or plastic box)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Salvage the motor system.** Disassemble the dead scooter or hoverboard. Extract the motor (hub motor or belt-drive motor), the ESC/controller board, and the battery pack if it's still functional. Keep the wiring harness intact — the connectors save you soldering work.
 2. **Choose your drive configuration.** Hub motors mount directly to the skateboard truck — the motor IS the wheel. Belt-drive motors mount next to the truck and connect to the wheel via a belt and pulley. Hub motors are simpler to install; belt motors give more torque and better hill climbing.
@@ -41,13 +42,13 @@ Electric skateboards from brands like Boosted, Meepo, and Evolve cost $400-2000.
 9. **Test at low speed.** Prop the board up so the wheels spin freely. Power on, test the remote, verify motor direction (forward, not backward). Check braking. Then set the board down and test ride at walking speed in a safe, open area. Wear a helmet.
 10. **Tune and ride.** Gradually increase the speed limit as you gain confidence. Adjust braking strength, acceleration curves, and remote sensitivity to your preference. Tighten all bolts after the first few rides — vibration loosens things.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Electric skateboards can reach 15-25 mph. At these speeds, falls cause serious injuries — road rash, broken bones, and head trauma. ALWAYS wear a helmet. Wrist guards, knee pads, and elbow pads are strongly recommended, especially while learning.
 - Lithium battery packs can catch fire if damaged, short-circuited, or improperly charged. Always use a BMS. Never charge unattended. Inspect the pack after any impact or crash. Store and charge on a non-flammable surface.
 - Test brakes thoroughly before riding at speed. ESC braking is regenerative (motor acts as generator) — if the battery is full, regenerative braking may not work because the battery can't accept more charge. Always start a ride with a partially charged battery, never 100%.
 
-## See Also
+## 🔗 See Also
 
 - [Laptop Battery Power Bank](../computer-and-phone/067-laptop-battery-power-bank.md)
 - [Wind Phone Charger](091-wind-phone-charger.md)

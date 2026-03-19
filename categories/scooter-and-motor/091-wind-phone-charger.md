@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Every electric motor is also a generator — spin the shaft externally and it produces electricity. Electric scooter motors are particularly good generators because they're brushless (efficient, no wear parts) and produce usable voltage at relatively low RPM. Cut airfoil-shaped blades from PVC pipe, mount them on a hub attached to the motor shaft, add a charge controller and a small battery, and you have a legitimate wind turbine that charges phones, powers LED lights, or runs small electronics. It won't power your house, but it absolutely will charge a phone in moderate wind — and the engineering principles are identical to the 100-meter turbines in commercial wind farms.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Brushless DC motor from electric scooter — high pole count motors generate at lower RPM *(dead scooter)*
 - [ ] PVC pipe (6-8 inch diameter) — for cutting airfoil blades *(hardware store)*
@@ -29,7 +28,9 @@ Every electric motor is also a generator — spin the shaft externally and it pr
 - [ ] Sheet metal or plywood — for the tail vane (keeps turbine facing into wind) *(hardware store)*
 - [ ] Bolts, bearings, pipe clamps *(hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Test the motor as a generator.** Chuck the motor shaft in a drill and spin it. Measure the voltage output with a multimeter across the motor's phase wires. A good scooter motor should produce 12-20V at moderate RPM (500-1000 RPM). If the voltage is too low, the motor has too few poles for wind generator use — try a different motor.
 2. **Build the rectifier.** Brushless motors produce 3-phase AC when used as generators. Wire a 3-phase bridge rectifier (6 diodes in a bridge configuration, or buy a pre-made 3-phase bridge) to convert AC to DC. Connect the motor's three phase wires to the AC inputs and take DC output from the rectifier's + and - terminals.
@@ -42,13 +43,13 @@ Every electric motor is also a generator — spin the shaft externally and it pr
 9. **Wire the electrical system.** Connect the rectifier output to the solar charge controller's input (it doesn't care that it's wind, not solar — DC is DC). Connect the charge controller's battery terminals to your 12V battery. Connect the USB buck converter to the battery output for phone charging.
 10. **Test in wind.** Wait for a breezy day (10+ mph). The blades should spin up and the charge controller should show charging current. Measure the output at the USB port — you should get a steady 5V capable of charging a phone. In moderate wind (15-20 mph), expect 5-15 watts of power.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Spinning blades are dangerous. A 3-foot diameter rotor at 500 RPM has blade tips moving at 50+ mph. Keep hands, faces, and pets clear. Mount the turbine high enough that nobody can walk into the blades. Never work on the rotor while it can spin — tie the blades or disconnect the motor.
 - In high winds (30+ mph), the turbine can overspeed, damaging the blades, motor bearings, or throwing a blade. Add a furling mechanism (tail folds, turning the rotor out of the wind) or a braking resistor (shorts the motor leads through a high-wattage resistor, slowing the rotor electromagnetically).
 - The tower must be secured against toppling. A falling turbine mast can cause serious injury or property damage. Use guy wires at 120-degree intervals, or a heavy weighted base. Check all fasteners periodically.
 
-## See Also
+## 🔗 See Also
 
 - [Electric Skateboard](088-electric-skateboard.md)
 - [Electric Winch](090-electric-winch.md)

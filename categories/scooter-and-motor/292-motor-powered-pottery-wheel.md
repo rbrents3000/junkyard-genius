@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A pottery wheel is a flat disc that spins at a controlled speed while you shape wet clay on top of it.
 Commercial pottery wheels cost $300-800 and use a dedicated motor with a speed controller and foot pedal.
@@ -32,7 +30,8 @@ Most scooter hub motors top out around 200-400 RPM unloaded, and the ESC provide
 That's exactly the range you need.
 The motor also has more than enough torque to resist the pressure of your hands shaping clay — centering a 5 lb lump of clay takes maybe 2-3 Nm of torque, and even a small scooter hub motor produces 5-10 Nm easily.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Hub motor — the flat disc motor from an electric scooter, 250W or larger *(dead electric scooter, e-waste recycler, ~$0-15)*
 - [ ] ESC (electronic speed controller) — the original scooter controller matched to the motor *(salvage from same scooter)*
@@ -47,7 +46,9 @@ The motor also has more than enough torque to resist the pressure of your hands 
 - [ ] Silicone caulk — to seal the gap between the splash pan and motor body *(hardware store ~$4)*
 - [ ] Rubber feet — 4x stick-on pads to keep the base from walking across the table *(hardware store or dollar store ~$2)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Extract the hub motor.**
 Remove the wheel from the dead scooter.
@@ -133,7 +134,7 @@ Wet the surface, slap on a lump of wedged clay, and start throwing.
 The motor won't even notice the load — you could center a bowling ball on this thing.
 Start at low speed for centering, increase to medium for pulling up walls, and drop back to low for trimming and finishing.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Keep water away from electrical connections.
 The motor itself tolerates some moisture, but the ESC, wiring connectors, and power supply do not.
@@ -157,7 +158,7 @@ This is a pottery safety issue, not specific to the motor, but worth knowing sin
 Stalling doesn't damage the motor, but it does draw high current from the battery or supply, which generates heat in the ESC.
 If the wheel stops, release the foot pedal before re-engaging.
 
-## See Also
+## 🔗 See Also
 
 - [Electric Skateboard](088-electric-skateboard.md)
 - [Scooter Motor Lathe](../functional-machines/025-scooter-motor-lathe.md)
