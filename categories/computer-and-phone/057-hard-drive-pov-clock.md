@@ -52,3 +52,8 @@ Hard drive platters spin at exactly 7200 RPM (or 5400 on some drives) — incred
 
 - [Hard Drive Speaker](056-hard-drive-speaker.md)
 - [HDD Platter Wind Chimes](058-hdd-platter-wind-chimes.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
+- [Electronics & Microcontrollers Guide](../../reference/electronics-and-microcontrollers.md)

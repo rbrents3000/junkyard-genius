@@ -44,3 +44,7 @@ Hard drive platters are made from precision-polished aluminum or glass, machined
 
 - [Hard Drive Speaker](056-hard-drive-speaker.md)
 - [CPU Resin Jewelry](059-cpu-resin-jewelry.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)

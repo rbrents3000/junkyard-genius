@@ -49,3 +49,7 @@ A hard drive's read/write head moves using a voice coil actuator — the exact s
 
 - [HDD Platter Wind Chimes](058-hdd-platter-wind-chimes.md)
 - [Hard Drive POV Clock](057-hard-drive-pov-clock.md)
+
+**References:**
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Technical Glossary](../../reference/glossary.md)
