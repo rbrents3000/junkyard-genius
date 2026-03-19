@@ -1,7 +1,7 @@
 # Fire & Pyrotechnic Safety
 
 <p align="center">
-  <img src="../images/safety/fire.jpg" alt="Fire & Pyro Safety" width="700" />
+  <img src="../../images/safety/fire.jpg" alt="Fire & Pyro Safety" width="700" />
 </p>
 
 > Fire is the oldest technology and the one that demands the most respect. It has no off switch. Once ignited, it follows physics, not your plans.
@@ -99,30 +99,30 @@ These produce fumes, gas, or smoke that are dangerous in enclosed spaces:
 
 | Build | Why Outdoors |
 |---|---|
-| [Thermite Flower Pot](../categories/pyro-and-chemistry/105-thermite-flower-pot.md) | Molten metal, intense heat, sparks, UV radiation |
-| [Colored Fire](../categories/pyro-and-chemistry/101-colored-fire.md) | Metal salt smoke is toxic — do not breathe |
-| [Steel Wool Photography](../categories/pyro-and-chemistry/113-steel-wool-photography.md) | Sparks travel 15+ feet, fire risk |
-| [Calcium Carbide Cannon](../categories/pyro-and-chemistry/116-calcium-carbide-cannon.md) | Acetylene gas is explosive |
-| [Smoke Bomb Array](../categories/pyro-and-chemistry/103-smoke-bomb-array.md) | Dense smoke, KNO3 combustion products |
-| [Permanganate Auto-Ignition](../categories/pyro-and-chemistry/115-permanganate-auto-ignition.md) | Spontaneous fire, fumes |
-| [Pharaoh's Serpent](../categories/pyro-and-chemistry/110-pharaohs-serpent.md) | Toxic combustion products |
-| [Fire Tornado Table](../categories/fire-and-plasma/007-fire-tornado-table.md) | Open flame, heat column |
-| [Propane Vortex Cannon](../categories/fire-and-plasma/003-propane-vortex-cannon.md) | Propane, open flame |
-| [Desktop Foundry](../categories/fire-and-plasma/005-desktop-foundry.md) | Extreme heat, potential for metal splatter |
-| [Fireworks Sequencer](../categories/pi-and-arduino/121-fireworks-sequencer.md) | Pyrotechnic devices |
-| [Lichtenberg Wood Burner](../categories/fire-and-plasma/002-lichtenberg-wood-burner.md) | Burning wood produces smoke, fire risk |
+| [Thermite Flower Pot](../../categories/pyro-and-chemistry/105-thermite-flower-pot.md) | Molten metal, intense heat, sparks, UV radiation |
+| [Colored Fire](../../categories/pyro-and-chemistry/101-colored-fire.md) | Metal salt smoke is toxic — do not breathe |
+| [Steel Wool Photography](../../categories/pyro-and-chemistry/113-steel-wool-photography.md) | Sparks travel 15+ feet, fire risk |
+| [Calcium Carbide Cannon](../../categories/pyro-and-chemistry/116-calcium-carbide-cannon.md) | Acetylene gas is explosive |
+| [Smoke Bomb Array](../../categories/pyro-and-chemistry/103-smoke-bomb-array.md) | Dense smoke, KNO3 combustion products |
+| [Permanganate Auto-Ignition](../../categories/pyro-and-chemistry/115-permanganate-auto-ignition.md) | Spontaneous fire, fumes |
+| [Pharaoh's Serpent](../../categories/pyro-and-chemistry/110-pharaohs-serpent.md) | Toxic combustion products |
+| [Fire Tornado Table](../../categories/fire-and-plasma/007-fire-tornado-table.md) | Open flame, heat column |
+| [Propane Vortex Cannon](../../categories/fire-and-plasma/003-propane-vortex-cannon.md) | Propane, open flame |
+| [Desktop Foundry](../../categories/fire-and-plasma/005-desktop-foundry.md) | Extreme heat, potential for metal splatter |
+| [Fireworks Sequencer](../../categories/pi-and-arduino/121-fireworks-sequencer.md) | Pyrotechnic devices |
+| [Lichtenberg Wood Burner](../../categories/fire-and-plasma/002-lichtenberg-wood-burner.md) | Burning wood produces smoke, fire risk |
 
 ### Builds That Need Good Ventilation (Garage with Open Door, Workshop with Fan)
 
 | Build | Why Ventilation |
 |---|---|
-| [PCB Etching Station](../categories/chemical-electronic/158-pcb-etching-station.md) | Ferric chloride fumes |
-| [Electroplating Station](../categories/chemical-electronic/156-electroplating-station.md) | Small amounts of hydrogen gas at cathode |
-| [Hydrogen Generator](../categories/chemical-electronic/159-hydrogen-generator.md) | Hydrogen gas production |
-| [Luminol Crime Scene](../categories/pyro-and-chemistry/109-luminol-crime-scene.md) | Spray mist contains NaOH and H2O2 |
-| [Anodizing Setup](../categories/chemical-electronic/157-anodizing-setup.md) | Acid fumes |
+| [PCB Etching Station](../../categories/chemical-electronic/158-pcb-etching-station.md) | Ferric chloride fumes |
+| [Electroplating Station](../../categories/chemical-electronic/156-electroplating-station.md) | Small amounts of hydrogen gas at cathode |
+| [Hydrogen Generator](../../categories/chemical-electronic/159-hydrogen-generator.md) | Hydrogen gas production |
+| [Luminol Crime Scene](../../categories/pyro-and-chemistry/109-luminol-crime-scene.md) | Spray mist contains NaOH and H2O2 |
+| [Anodizing Setup](../../categories/chemical-electronic/157-anodizing-setup.md) | Acid fumes |
 | [Soldering](any build with soldering) | Flux fumes are respiratory irritants |
-| [Bismuth Crystal Garden](../categories/pyro-and-chemistry/107-bismuth-crystal-garden.md) | Metal oxide fumes at temperature |
+| [Bismuth Crystal Garden](../../categories/pyro-and-chemistry/107-bismuth-crystal-garden.md) | Metal oxide fumes at temperature |
 
 ---
 
@@ -154,7 +154,7 @@ Fireworks laws vary enormously by jurisdiction. This is NOT a comprehensive lega
 - **Completely banned:** Some states and many cities ban all consumer fireworks, including sparklers.
 - **Limited legal:** Many states allow "safe and sane" fireworks (ground-based, non-aerial) but ban aerial shells and rockets.
 - **Mostly legal:** Some states allow most consumer fireworks with minimal restrictions.
-- **Permits:** Electronically fired displays ([Fireworks Sequencer](../categories/pi-and-arduino/121-fireworks-sequencer.md)) may require a display permit in many jurisdictions, even for consumer fireworks. Check with your local fire marshal.
+- **Permits:** Electronically fired displays ([Fireworks Sequencer](../../categories/pi-and-arduino/121-fireworks-sequencer.md)) may require a display permit in many jurisdictions, even for consumer fireworks. Check with your local fire marshal.
 
 ### Open Burning Regulations
 

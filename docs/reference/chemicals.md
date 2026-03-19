@@ -7,7 +7,7 @@ image: /images/reference/chemicals.jpg
 # Accessible Chemicals Guide
 
 <p align="center">
-  <img src="../images/reference/chemicals.jpg" alt="Chemicals Guide" width="700" />
+  <img src="../../images/reference/chemicals.jpg" alt="Chemicals Guide" width="700" />
 </p>
 
 > Every chemical used across builds — what it is, where to buy it, what it costs, and how not to hurt yourself with it.
@@ -25,7 +25,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $5-8/quart
 
 **Used in builds:**
-- [PCB Etching Station](../categories/chemical-electronic/158-pcb-etching-station.md) — removing toner after etching
+- [PCB Etching Station](../../categories/chemical-electronic/158-pcb-etching-station.md) — removing toner after etching
 
 **Safety notes:** Extremely flammable. Vapors are heavier than air and travel to ignition sources. Use in well-ventilated areas, away from open flame. Prolonged skin contact causes drying and irritation. Wear nitrile gloves (note: acetone dissolves latex gloves — use nitrile).
 
@@ -40,7 +40,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $10-15/lb
 
 **Used in builds:**
-- [Thermite Flower Pot](../categories/pyro-and-chemistry/105-thermite-flower-pot.md) — fuel for thermite reaction
+- [Thermite Flower Pot](../../categories/pyro-and-chemistry/105-thermite-flower-pot.md) — fuel for thermite reaction
 
 **Safety notes:** Fine aluminum powder is flammable and can form explosive dust clouds when suspended in air. Store in sealed containers away from oxidizers (iron oxide, potassium permanganate, etc.) and moisture. Never use metal tools or containers when mixing with oxidizers — a single spark can ignite the mixture. Ground yourself to prevent static discharge when handling.
 
@@ -55,7 +55,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $12-18/lb
 
 **Used in builds:**
-- [Bismuth Crystal Garden](../categories/pyro-and-chemistry/107-bismuth-crystal-garden.md) — growing iridescent hopper crystals
+- [Bismuth Crystal Garden](../../categories/pyro-and-chemistry/107-bismuth-crystal-garden.md) — growing iridescent hopper crystals
 
 **Safety notes:** The metal itself is non-toxic, but molten bismuth is over 500°F. Wear heat-resistant gloves and safety goggles. Never introduce moisture into the melt — steam explosions can splatter molten metal. Dedicate any cookware used for bismuth — never reuse for food. Work in a ventilated area; oxide fumes at temperature can irritate.
 
@@ -70,7 +70,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $5/4 lbs
 
 **Used in builds:**
-- [Colored Fire](../categories/pyro-and-chemistry/101-colored-fire.md) — boric acid (a borax derivative) produces green flames
+- [Colored Fire](../../categories/pyro-and-chemistry/101-colored-fire.md) — boric acid (a borax derivative) produces green flames
 - Various soldering/brazing builds — as a flux
 
 **Safety notes:** Low toxicity, but do not ingest. Can irritate eyes and skin with prolonged contact. Keep away from children and pets. Wear gloves when handling concentrated solutions.
@@ -86,7 +86,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $10-15/lb
 
 **Used in builds:**
-- [Calcium Carbide Cannon](../categories/pyro-and-chemistry/116-calcium-carbide-cannon.md) — acetylene gas production for ignition
+- [Calcium Carbide Cannon](../../categories/pyro-and-chemistry/116-calcium-carbide-cannon.md) — acetylene gas production for ignition
 
 **Safety notes:** Reacts with ANY moisture, including humidity. Store in airtight, completely dry containers. Acetylene gas is explosive in air at concentrations between 2.5% and 81%. NEVER use indoors. The calcium hydroxide byproduct is caustic — wear gloves. Keep away from open flame until you are ready to ignite intentionally.
 
@@ -101,11 +101,11 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $8-12/lb (root killer grade), $15-20/lb (lab grade)
 
 **Used in builds:**
-- [Electroplating Station](../categories/chemical-electronic/156-electroplating-station.md) — copper plating electrolyte
-- [Electroforming Art](../categories/chemical-electronic/160-electroforming-art.md) — electroforming electrolyte
-- [Copper Crystal Tree](../categories/chemical-electronic/161-copper-crystal-tree.md) — growing copper crystals
-- [Colored Fire](../categories/pyro-and-chemistry/101-colored-fire.md) — blue-green flame color
-- [Sodium Silicate Demos](../categories/chemical-electronic/164-sodium-silicate-demos.md) — blue tubes in chemical garden
+- [Electroplating Station](../../categories/chemical-electronic/156-electroplating-station.md) — copper plating electrolyte
+- [Electroforming Art](../../categories/chemical-electronic/160-electroforming-art.md) — electroforming electrolyte
+- [Copper Crystal Tree](../../categories/chemical-electronic/161-copper-crystal-tree.md) — growing copper crystals
+- [Colored Fire](../../categories/pyro-and-chemistry/101-colored-fire.md) — blue-green flame color
+- [Sodium Silicate Demos](../../categories/chemical-electronic/164-sodium-silicate-demos.md) — blue tubes in chemical garden
 
 **Safety notes:** Toxic if ingested. Irritates skin and eyes — wear gloves. Stains everything blue. Do NOT pour solutions down the drain — copper is toxic to aquatic life. Neutralize with baking soda and dispose through local hazardous waste facilities.
 
@@ -120,11 +120,11 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $1-3/lb
 
 **Used in builds:**
-- [Dry Ice Comet Balls](../categories/pyro-and-chemistry/114-dry-ice-comet-balls.md) — visual effects
-- [Dry Ice Bubble Cauldron](../categories/pyro-and-chemistry/120-dry-ice-bubble-cauldron.md) — ground fog effects
-- [Ultrasonic Fog Machine](../categories/humidifier-and-water/084-ultrasonic-fog-machine.md) — enhanced fog density
-- [Fog Chiller](../categories/fridge-and-cooling/093-fog-chiller.md) — cooling fog for ground-hugging effect
-- [Cloud Chamber](../categories/mad-scientist/041-cloud-chamber.md) — cooling the chamber
+- [Dry Ice Comet Balls](../../categories/pyro-and-chemistry/114-dry-ice-comet-balls.md) — visual effects
+- [Dry Ice Bubble Cauldron](../../categories/pyro-and-chemistry/120-dry-ice-bubble-cauldron.md) — ground fog effects
+- [Ultrasonic Fog Machine](../../categories/humidifier-and-water/084-ultrasonic-fog-machine.md) — enhanced fog density
+- [Fog Chiller](../../categories/fridge-and-cooling/093-fog-chiller.md) — cooling fog for ground-hugging effect
+- [Cloud Chamber](../../categories/mad-scientist/041-cloud-chamber.md) — cooling the chamber
 
 **Safety notes:** NEVER handle with bare hands — instant frostbite. Use insulated gloves or tongs. NEVER store in a sealed container — sublimation builds pressure and can cause an explosion. In enclosed spaces, displaces oxygen and can cause asphyxiation. Always use in well-ventilated areas. Never ingest.
 
@@ -139,7 +139,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $10-15/quart
 
 **Used in builds:**
-- [PCB Etching Station](../categories/chemical-electronic/158-pcb-etching-station.md) — etching copper from circuit boards
+- [PCB Etching Station](../../categories/chemical-electronic/158-pcb-etching-station.md) — etching copper from circuit boards
 
 **Safety notes:** PERMANENTLY stains everything — skin, clothes, countertops, sinks. Wear gloves and old clothes. Work on disposable surfaces. Corrosive to metals. NEVER pour down the drain — it corrodes plumbing and is toxic to aquatic life. Neutralize with baking soda, then dispose through hazardous waste. Store in plastic containers only (it eats metal containers).
 
@@ -154,7 +154,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $8-12 for 100g (enough for hundreds of demonstrations)
 
 **Used in builds:**
-- [Fluorescein Blacklight Fountain](../categories/pyro-and-chemistry/118-fluorescein-blacklight-fountain.md) — glowing water fountain
+- [Fluorescein Blacklight Fountain](../../categories/pyro-and-chemistry/118-fluorescein-blacklight-fountain.md) — glowing water fountain
 
 **Safety notes:** Non-toxic at demo concentrations, but stains skin and clothing bright yellow-green for 24-48 hours. Wear gloves. The dye washes out of most fabrics eventually. In water features, use sparingly — a tiny amount goes a very long way. Check local regulations before adding to outdoor water features or drains.
 
@@ -169,7 +169,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $15-25 for 50g
 
 **Used in builds:**
-- [Gallium Melting Spoon](../categories/pyro-and-chemistry/106-gallium-melting-spoon.md) — spoons that dissolve in hot drinks
+- [Gallium Melting Spoon](../../categories/pyro-and-chemistry/106-gallium-melting-spoon.md) — spoons that dissolve in hot drinks
 
 **Safety notes:** Non-toxic to handle, but liquid gallium permanently destroys aluminum objects. Keep it away from aluminum cans, foil, tools, or anything aluminum you want to keep. It also attacks other metals over prolonged contact. Gallium stains skin with a gray residue (washes off). Use glass or stainless steel containers only.
 
@@ -187,9 +187,9 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $1-2 (3%), $5-8 (12%), $15-25/liter (30%+)
 
 **Used in builds:**
-- [Elephant Toothpaste](../categories/pyro-and-chemistry/102-elephant-toothpaste.md) — the main reactant (higher concentration = bigger eruption)
-- [Luminol Crime Scene](../categories/pyro-and-chemistry/109-luminol-crime-scene.md) — luminol activator
-- [Chemiluminescent Fountain](../categories/pyro-and-chemistry/111-chemiluminescent-fountain.md) — oxidizer for chemiluminescence
+- [Elephant Toothpaste](../../categories/pyro-and-chemistry/102-elephant-toothpaste.md) — the main reactant (higher concentration = bigger eruption)
+- [Luminol Crime Scene](../../categories/pyro-and-chemistry/109-luminol-crime-scene.md) — luminol activator
+- [Chemiluminescent Fountain](../../categories/pyro-and-chemistry/111-chemiluminescent-fountain.md) — oxidizer for chemiluminescence
 
 **Safety notes:** 3% is relatively safe. 12%+ causes chemical burns on skin contact and bleaches clothing instantly. 30%+ is a serious oxidizer — causes severe burns, can ignite combustible materials on contact, and decomposes explosively if contaminated. Wear gloves and goggles at ALL concentrations above 3%. Store in original containers in a cool, dark place. Never mix with acetone, alcohol, or other organic solvents.
 
@@ -204,10 +204,10 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $8-12/lb (purchased), free (homemade from steel wool and vinegar)
 
 **Used in builds:**
-- [Thermite Flower Pot](../categories/pyro-and-chemistry/105-thermite-flower-pot.md) — oxidizer for thermite
-- [Luminol Crime Scene](../categories/pyro-and-chemistry/109-luminol-crime-scene.md) — iron source for luminol reaction
+- [Thermite Flower Pot](../../categories/pyro-and-chemistry/105-thermite-flower-pot.md) — oxidizer for thermite
+- [Luminol Crime Scene](../../categories/pyro-and-chemistry/109-luminol-crime-scene.md) — iron source for luminol reaction
 
-**Safety notes:** Iron oxide powder itself is not particularly dangerous — it's just rust. However, fine powder can be an inhalation irritant. Wear a dust mask when handling. The danger comes from mixing it with aluminum powder (thermite). Once mixed, treat thermite with extreme caution — see the [Thermite Flower Pot](../categories/pyro-and-chemistry/105-thermite-flower-pot.md) build for full safety protocols.
+**Safety notes:** Iron oxide powder itself is not particularly dangerous — it's just rust. However, fine powder can be an inhalation irritant. Wear a dust mask when handling. The danger comes from mixing it with aluminum powder (thermite). Once mixed, treat thermite with extreme caution — see the [Thermite Flower Pot](../../categories/pyro-and-chemistry/105-thermite-flower-pot.md) build for full safety protocols.
 
 ---
 
@@ -237,8 +237,8 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $1-3/liter, but the dewar costs $100-300
 
 **Used in builds:**
-- [DIY Freeze Dryer](../categories/fridge-and-cooling/094-diy-freeze-dryer.md) — rapid freezing
-- [Supercooled Water](../categories/chemical-electronic/170-supercooled-water.md) — rapid cooling demonstrations
+- [DIY Freeze Dryer](../../categories/fridge-and-cooling/094-diy-freeze-dryer.md) — rapid freezing
+- [Supercooled Water](../../categories/chemical-electronic/170-supercooled-water.md) — rapid cooling demonstrations
 
 **Safety notes:** Extreme cold causes instant frostbite on skin contact. Boils rapidly at room temperature — 1 liter of liquid becomes ~700 liters of gas, which can displace oxygen in enclosed spaces and cause asphyxiation without warning. NEVER seal in a closed container (pressure explosion). NEVER pour on a person. Use only in well-ventilated areas. Wear cryogenic gloves (not regular gloves — most gloves absorb liquid nitrogen and make burns worse). Safety goggles mandatory.
 
@@ -253,8 +253,8 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $10-20 for 5-10g (enough for multiple demonstrations)
 
 **Used in builds:**
-- [Luminol Crime Scene](../categories/pyro-and-chemistry/109-luminol-crime-scene.md) — creating glowing crime scene effects
-- [Chemiluminescent Fountain](../categories/pyro-and-chemistry/111-chemiluminescent-fountain.md) — glowing water effects
+- [Luminol Crime Scene](../../categories/pyro-and-chemistry/109-luminol-crime-scene.md) — creating glowing crime scene effects
+- [Chemiluminescent Fountain](../../categories/pyro-and-chemistry/111-chemiluminescent-fountain.md) — glowing water effects
 
 **Safety notes:** The luminol powder itself is a mild irritant. The mixed solution contains sodium hydroxide and hydrogen peroxide, which are the real hazards — wear gloves and goggles when mixing and spraying. The blue glow is not UV — it's chemiluminescence and is safe to look at. Use in ventilated areas due to the spray mist. Stains clothing and porous surfaces.
 
@@ -269,8 +269,8 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $5-10 for 25 feet
 
 **Used in builds:**
-- [Thermite Flower Pot](../categories/pyro-and-chemistry/105-thermite-flower-pot.md) — ignition source for thermite
-- [Steel Wool Photography](../categories/pyro-and-chemistry/113-steel-wool-photography.md) — bright flame source
+- [Thermite Flower Pot](../../categories/pyro-and-chemistry/105-thermite-flower-pot.md) — ignition source for thermite
+- [Steel Wool Photography](../../categories/pyro-and-chemistry/113-steel-wool-photography.md) — bright flame source
 
 **Safety notes:** Burns extremely hot and produces intense UV-rich light. NEVER look directly at burning magnesium without welding-grade eye protection (shade 5 minimum). Cannot be extinguished with water — water decomposes and fuels the fire. Use a Class D fire extinguisher or smother with dry sand. Store in a dry place; it reacts slowly with moisture. Once lit, a piece of magnesium ribbon burns to completion — it cannot be "put out" conventionally.
 
@@ -285,8 +285,8 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $8-12/gallon
 
 **Used in builds:**
-- [Anodizing Setup](../categories/chemical-electronic/157-anodizing-setup.md) — surface preparation
-- [Hydrogen Generator](../categories/chemical-electronic/159-hydrogen-generator.md) — acid electrolyte
+- [Anodizing Setup](../../categories/chemical-electronic/157-anodizing-setup.md) — surface preparation
+- [Hydrogen Generator](../../categories/chemical-electronic/159-hydrogen-generator.md) — acid electrolyte
 
 **Safety notes:** Produces toxic fumes (hydrogen chloride gas) immediately upon opening. ALWAYS use outdoors or in a fume hood. Causes severe chemical burns on skin and eye contact. Corrodes metals rapidly. Wear acid-resistant gloves, chemical splash goggles, and a respirator. Reacts violently with bases (sodium hydroxide) — causes splashing and heat. Store in original container. Never mix with bleach — produces toxic chlorine gas.
 
@@ -301,8 +301,8 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $1-5 per magnet depending on size (bulk is cheaper)
 
 **Used in builds:**
-- [Electromagnetic Levitator](../categories/mad-scientist/038-electromagnetic-levitator.md) — magnetic base
-- [Plasma Tornado Lamp](../categories/fire-and-plasma/001-plasma-tornado-lamp.md) — vortex generation
+- [Electromagnetic Levitator](../../categories/mad-scientist/038-electromagnetic-levitator.md) — magnetic base
+- [Plasma Tornado Lamp](../../categories/fire-and-plasma/001-plasma-tornado-lamp.md) — vortex generation
 - Various motor and generator builds throughout the repo
 
 **Safety notes:** Large neodymium magnets are genuinely dangerous. Two magnets snapping together can crush fingers, pinch skin, and shatter into sharp shrapnel. Keep away from pacemakers, credit cards, hard drives, and electronics. They are brittle — impacts cause them to shatter, and the fragments are sharp and still magnetic. Wear gloves when handling large magnets. Keep them away from children.
@@ -318,7 +318,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $5-10 for 25 feet (purchased), free (salvaged from appliances)
 
 **Used in builds:**
-- [Fireworks Sequencer](../categories/pi-and-arduino/121-fireworks-sequencer.md) — fuse igniters
+- [Fireworks Sequencer](../../categories/pi-and-arduino/121-fireworks-sequencer.md) — fuse igniters
 - Various heating-element builds
 
 **Safety notes:** Nichrome glows at 1,000-2,000°F when energized. It can ignite fuses, paper, fabric, and skin instantly. Never handle energized nichrome. Use a physical kill switch in all igniter circuits. When used as igniters in pyrotechnic builds, never wire to fireworks until you are ready to fire.
@@ -335,7 +335,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 
 **Used in builds:**
 - Metal preparation and rust removal across many builds
-- [Anodizing Setup](../categories/chemical-electronic/157-anodizing-setup.md) — anodizing electrolyte
+- [Anodizing Setup](../../categories/chemical-electronic/157-anodizing-setup.md) — anodizing electrolyte
 
 **Safety notes:** Less aggressive than muriatic or sulfuric acid, but still causes skin and eye irritation at higher concentrations. Wear gloves and goggles. The commercial rust converter products are relatively safe to handle. Pure phosphoric acid requires the same precautions as any strong acid.
 
@@ -350,9 +350,9 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $8-12/lb
 
 **Used in builds:**
-- [Smoke Bomb Array](../categories/pyro-and-chemistry/103-smoke-bomb-array.md) — oxidizer for smoke composition
-- [Pharaoh's Serpent](../categories/pyro-and-chemistry/110-pharaohs-serpent.md) — oxidizer
-- [Colored Fire](../categories/pyro-and-chemistry/101-colored-fire.md) — oxidizer for sustained color
+- [Smoke Bomb Array](../../categories/pyro-and-chemistry/103-smoke-bomb-array.md) — oxidizer for smoke composition
+- [Pharaoh's Serpent](../../categories/pyro-and-chemistry/110-pharaohs-serpent.md) — oxidizer
+- [Colored Fire](../../categories/pyro-and-chemistry/101-colored-fire.md) — oxidizer for sustained color
 
 **Safety notes:** Strong oxidizer — do not store near fuels, organic materials, or reducing agents. Can cause fires if mixed with sugar, charcoal, or other fuels and exposed to heat or friction. Store in a cool, dry place in the original container. Wear gloves when handling. Legal to purchase, but large quantities may raise questions.
 
@@ -367,8 +367,8 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $8-15/lb
 
 **Used in builds:**
-- [Permanganate Auto-Ignition](../categories/pyro-and-chemistry/115-permanganate-auto-ignition.md) — spontaneous fire demonstration
-- [Chemiluminescent Fountain](../categories/pyro-and-chemistry/111-chemiluminescent-fountain.md) — oxidizer
+- [Permanganate Auto-Ignition](../../categories/pyro-and-chemistry/115-permanganate-auto-ignition.md) — spontaneous fire demonstration
+- [Chemiluminescent Fountain](../../categories/pyro-and-chemistry/111-chemiluminescent-fountain.md) — oxidizer
 
 **Safety notes:** Strong oxidizer that stains skin, clothing, and surfaces deep purple/brown (stains last days on skin). Reacts exothermically with glycerin, antifreeze, sugar, and many organic compounds — can cause spontaneous fire. Store away from organic materials and fuels. Concentrated solutions cause chemical burns. Wear gloves and goggles. Never mix with sulfuric acid (produces explosive Mn2O7).
 
@@ -383,7 +383,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $10-15/lb (purchased), essentially free (homemade)
 
 **Used in builds:**
-- [Instant Ice Sculpture](../categories/pyro-and-chemistry/108-instant-ice-sculpture.md) — supersaturated solution that crystallizes on demand
+- [Instant Ice Sculpture](../../categories/pyro-and-chemistry/108-instant-ice-sculpture.md) — supersaturated solution that crystallizes on demand
 
 **Safety notes:** Very safe. The crystallization releases heat (exothermic), but the temperature rise is modest — warm, not hot. Non-toxic. The main hazard is the hot plate/stove used to dissolve and supersaturate the solution. Be patient during the supersaturation step — boiling too vigorously spatters hot solution.
 
@@ -398,8 +398,8 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $5-10/lb
 
 **Used in builds:**
-- [Luminol Crime Scene](../categories/pyro-and-chemistry/109-luminol-crime-scene.md) — making luminol solution alkaline
-- [Hydrogen Generator](../categories/chemical-electronic/159-hydrogen-generator.md) — electrolyte
+- [Luminol Crime Scene](../../categories/pyro-and-chemistry/109-luminol-crime-scene.md) — making luminol solution alkaline
+- [Hydrogen Generator](../../categories/chemical-electronic/159-hydrogen-generator.md) — electrolyte
 - Various cleaning and degreasing steps
 
 **Safety notes:** Causes severe chemical burns on skin and eyes — more insidious than acids because you may not feel the burn immediately. Generates intense heat when dissolved in water (always add lye TO water, never water to lye — it can boil and splash). Wear chemical splash goggles and nitrile gloves. If it contacts skin, flush with water for 15+ minutes. Reacts with aluminum to produce flammable hydrogen gas. Store in a tightly sealed container — it absorbs moisture and CO2 from air.
@@ -415,7 +415,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $10-20/gallon
 
 **Used in builds:**
-- [Sodium Silicate Demos](../categories/chemical-electronic/164-sodium-silicate-demos.md) — fireproof paper and chemical gardens
+- [Sodium Silicate Demos](../../categories/chemical-electronic/164-sodium-silicate-demos.md) — fireproof paper and chemical gardens
 
 **Safety notes:** Strong base (pH ~12). Irritates skin and eyes. Wear gloves. Dries to a hard, glassy coating that is extremely difficult to remove from surfaces — protect your work area. The metal salt crystals used in chemical gardens (copper, cobalt, nickel compounds) are the real hazard — handle with gloves and dispose properly.
 
@@ -430,7 +430,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $10-20 for 100g
 
 **Used in builds:**
-- [Glow Resin River Table](../categories/pyro-and-chemistry/117-glow-resin-river-table.md) — glowing resin fill
+- [Glow Resin River Table](../../categories/pyro-and-chemistry/117-glow-resin-river-table.md) — glowing resin fill
 
 **Safety notes:** The powder is an inhalation irritant — wear a dust mask when mixing into resin or paint. Once embedded in a cured matrix (resin, paint), it's completely safe. Non-toxic. Store in a sealed container to prevent clumping from moisture absorption.
 
@@ -445,7 +445,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $5-8/lb
 
 **Used in builds:**
-- [Pharaoh's Serpent](../categories/pyro-and-chemistry/110-pharaohs-serpent.md) — component of the ash snake reaction
+- [Pharaoh's Serpent](../../categories/pyro-and-chemistry/110-pharaohs-serpent.md) — component of the ash snake reaction
 - Various pyrotechnic compositions
 
 **Safety notes:** Flammable — burns with a blue flame that is nearly invisible in daylight. Burning sulfur produces sulfur dioxide gas (SO2), which is toxic and severely irritating to lungs. NEVER burn sulfur indoors. Combustible dust hazard when powdered — keep away from sparks and flame. Store in sealed containers.
@@ -461,7 +461,7 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $5-10 (battery acid), $15-25/liter (concentrated)
 
 **Used in builds:**
-- [Anodizing Setup](../categories/chemical-electronic/157-anodizing-setup.md) — anodizing electrolyte
+- [Anodizing Setup](../../categories/chemical-electronic/157-anodizing-setup.md) — anodizing electrolyte
 
 **Safety notes:** Concentrated sulfuric acid is extremely dangerous. Causes severe, deep chemical burns on skin contact. Generates extreme heat when mixed with water — ALWAYS add acid to water, never water to acid (the heat can cause the water to flash-boil and spray acid everywhere). Chars paper, cloth, and skin (dehydration reaction). Wear acid-resistant gloves, chemical splash goggles, and a face shield when handling concentrated acid. Keep baking soda (sodium bicarbonate) nearby to neutralize spills.
 
@@ -476,8 +476,8 @@ This guide covers the chemicals and chemical-adjacent materials referenced in Ju
 **Approximate cost:** $8-15 for 50g (enough for several projects)
 
 **Used in builds:**
-- [Thermochromic Paint](../categories/pyro-and-chemistry/119-thermochromic-paint.md) — heat-reactive wall paint
-- [Thermochromic Mug](../categories/chemical-electronic/168-thermochromic-mug.md) — color-changing drinkware
+- [Thermochromic Paint](../../categories/pyro-and-chemistry/119-thermochromic-paint.md) — heat-reactive wall paint
+- [Thermochromic Mug](../../categories/chemical-electronic/168-thermochromic-mug.md) — color-changing drinkware
 
 **Safety notes:** Non-toxic once mixed into paint or resin. The dry powder is a mild inhalation irritant — wear a dust mask when mixing. Degrades with prolonged UV exposure (direct sunlight). Use UV-protective clear coat for outdoor applications. Not food-safe unless specifically rated — do not apply to surfaces that contact food without a food-safe clear coat barrier.
 

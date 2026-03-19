@@ -1,7 +1,7 @@
 # Chemical Safety
 
 <p align="center">
-  <img src="../images/safety/chemicals.jpg" alt="Chemical Safety" width="700" />
+  <img src="../../images/safety/chemicals.jpg" alt="Chemical Safety" width="700" />
 </p>
 
 > Chemicals don't forgive mistakes. They don't wait for you to put gloves on. They react instantly and exactly as chemistry dictates, whether you're ready or not.

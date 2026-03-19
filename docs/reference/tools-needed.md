@@ -6,7 +6,7 @@ description: "You don't need a fully equipped workshop to start. You need a scre
 # The Minimum Toolbox
 
 <p align="center">
-  <img src="../images/reference/tools.jpg" alt="The Minimum Toolbox" width="700" />
+  <img src="../../images/reference/tools.jpg" alt="The Minimum Toolbox" width="700" />
 </p>
 
 > You don't need a fully equipped workshop to start. You need a screwdriver, some pliers, and the refusal to throw anything away.
@@ -47,7 +47,7 @@ You can do a surprising number of builds with tools you already have, borrow fro
 | **Tape measure** | Measuring before cutting. The builder's golden rule: measure twice, cut once, swear anyway. | Every build that involves cutting |
 | **Scissors** | Cutting wire, trimming heat shrink, cutting tape and labels. Dedicated shop scissors that you don't have to return to the kitchen. | Every build |
 
-**What these unlock:** Every appliance teardown. Basic mechanical builds like [#184 Chain Fountain](../categories/mechanical-and-kinetic/184-chain-fountain.md), [#058 HDD Platter Wind Chimes](../categories/computer-and-phone/058-hdd-platter-wind-chimes.md), and [#068 Ram Stick Ruler](../categories/computer-and-phone/068-ram-stick-ruler.md). Simple chemistry builds like [#101 Colored Fire](../categories/pyro-and-chemistry/101-colored-fire.md) and [#213 Density Tower](../categories/household-chemistry/280-density-tower.md). Art projects like [#059 CPU Resin Jewelry](../categories/computer-and-phone/059-cpu-resin-jewelry.md) and [#060 GPU Wall Art](../categories/computer-and-phone/060-gpu-wall-art.md).
+**What these unlock:** Every appliance teardown. Basic mechanical builds like [#184 Chain Fountain](../../categories/mechanical-and-kinetic/184-chain-fountain.md), [#058 HDD Platter Wind Chimes](../../categories/computer-and-phone/058-hdd-platter-wind-chimes.md), and [#068 Ram Stick Ruler](../../categories/computer-and-phone/068-ram-stick-ruler.md). Simple chemistry builds like [#101 Colored Fire](../../categories/pyro-and-chemistry/101-colored-fire.md) and [#213 Density Tower](../../categories/household-chemistry/280-density-tower.md). Art projects like [#059 CPU Resin Jewelry](../../categories/computer-and-phone/059-cpu-resin-jewelry.md) and [#060 GPU Wall Art](../../categories/computer-and-phone/060-gpu-wall-art.md).
 
 **Where to scrounge tools for free:**
 - Garage sales and estate sales often have tools for $1-5 each
@@ -73,7 +73,7 @@ This is the investment that unlocks the majority of builds in the repo. At $50, 
 
 **Total: ~$50**
 
-**What this unlocks:** Every beginner build. Most intermediate builds. All appliance teardowns. Specifically: the entire [Pi & Arduino](../categories/pi-and-arduino/) and [Python Projects](../categories/python-projects/) categories (electronics assembly + soldering), [#198 Homopolar Motor](../categories/weird-science/198-homopolar-motor.md), [#187 Ball Bearing Motor](../categories/mechanical-and-kinetic/187-ball-bearing-motor.md), [#042 Grape Plasma](../categories/mad-scientist/042-grape-plasma.md), [#067 Laptop Battery Power Bank](../categories/computer-and-phone/067-laptop-battery-power-bank.md), [#122 LED Cube 8x8x8](../categories/pi-and-arduino/122-led-cube-8x8x8.md), [#127 Auto Plant Watering](../categories/pi-and-arduino/127-auto-plant-watering.md), and dozens more.
+**What this unlocks:** Every beginner build. Most intermediate builds. All appliance teardowns. Specifically: the entire [Pi & Arduino](../../categories/pi-and-arduino/) and [Python Projects](../../categories/python-projects/) categories (electronics assembly + soldering), [#198 Homopolar Motor](../../categories/weird-science/198-homopolar-motor.md), [#187 Ball Bearing Motor](../../categories/mechanical-and-kinetic/187-ball-bearing-motor.md), [#042 Grape Plasma](../../categories/mad-scientist/042-grape-plasma.md), [#067 Laptop Battery Power Bank](../../categories/computer-and-phone/067-laptop-battery-power-bank.md), [#122 LED Cube 8x8x8](../../categories/pi-and-arduino/122-led-cube-8x8x8.md), [#127 Auto Plant Watering](../../categories/pi-and-arduino/127-auto-plant-watering.md), and dozens more.
 
 ---
 
@@ -95,7 +95,7 @@ At this level, you can tackle advanced builds, debug problems that would have st
 
 **Total: ~$150 (cumulative with Starter Kit)**
 
-**What this unlocks:** All intermediate builds, most advanced builds. Metal fabrication projects. Signal debugging. Component-level salvage from circuit boards. Specifically: [#033 Musical Tesla Coil](../categories/mad-scientist/033-musical-tesla-coil.md), [#034 Jacob's Ladder](../categories/mad-scientist/034-jacobs-ladder.md), [#005 Desktop Foundry](../categories/fire-and-plasma/005-desktop-foundry.md), [#088 Electric Skateboard](../categories/scooter-and-motor/088-electric-skateboard.md), [#156 Electroplating Station](../categories/chemical-electronic/156-electroplating-station.md), [#182 Stirling Engine](../categories/mechanical-and-kinetic/182-stirling-engine.md), and the entire [Functional Machines](../categories/functional-machines/) category.
+**What this unlocks:** All intermediate builds, most advanced builds. Metal fabrication projects. Signal debugging. Component-level salvage from circuit boards. Specifically: [#033 Musical Tesla Coil](../../categories/mad-scientist/033-musical-tesla-coil.md), [#034 Jacob's Ladder](../../categories/mad-scientist/034-jacobs-ladder.md), [#005 Desktop Foundry](../../categories/fire-and-plasma/005-desktop-foundry.md), [#088 Electric Skateboard](../../categories/scooter-and-motor/088-electric-skateboard.md), [#156 Electroplating Station](../../categories/chemical-electronic/156-electroplating-station.md), [#182 Stirling Engine](../../categories/mechanical-and-kinetic/182-stirling-engine.md), and the entire [Functional Machines](../../categories/functional-machines/) category.
 
 ---
 
@@ -105,18 +105,18 @@ This is the endgame tier. At this level, your workshop can produce almost anythi
 
 | Tool | Approx. Cost | Why You Need It |
 |---|---|---|
-| **Welder** (stick or MIG) | $80-150 | Joining steel permanently. A stick welder (SMAW) is the cheapest way in — runs on 120V and welds mild steel. A MIG welder is easier to learn with cleaner welds. Either opens up structural metal fabrication: go-kart frames, forge bodies, sculpture armatures, trebuchet frames. Or build [#219 Alternator Welder](../categories/junkyard-auto/219-alternator-welder.md) from a car alternator for almost free. |
+| **Welder** (stick or MIG) | $80-150 | Joining steel permanently. A stick welder (SMAW) is the cheapest way in — runs on 120V and welds mild steel. A MIG welder is easier to learn with cleaner welds. Either opens up structural metal fabrication: go-kart frames, forge bodies, sculpture armatures, trebuchet frames. Or build [#219 Alternator Welder](../../categories/junkyard-auto/219-alternator-welder.md) from a car alternator for almost free. |
 | **3D printer** (Ender 3 clone) | $100 | Custom enclosures, brackets, gears, adapters, and parts that don't exist anywhere else. An Ender 3 or its clones print PLA and PETG with enough precision for functional parts. Once you have a 3D printer, you'll wonder why you ever made enclosures out of cardboard. |
 | **Bench vise** | $25-50 | Clamping workpieces solid while you cut, drill, file, grind, or hammer. Bolts to your workbench. A 4-5" jaw vise handles most tasks. Seems optional until you use one — then you wonder how you ever built anything without it. |
 | **Bench grinder** | $30-40 | Shaping metal, sharpening tools, removing material quickly. Two wheels: one coarse (for rough shaping), one fine (for finishing). Essential companion to welding — every weld needs cleanup. |
-| **Drill press or lathe** | Build it | A drill press puts precisely vertical holes exactly where you want them. A lathe turns cylindrical parts to exact dimensions. Build them: [#080 Hand Drill Press](../categories/power-tools-remixed/080-hand-drill-press.md) and [#025 Scooter Motor Lathe](../categories/functional-machines/025-scooter-motor-lathe.md). |
+| **Drill press or lathe** | Build it | A drill press puts precisely vertical holes exactly where you want them. A lathe turns cylindrical parts to exact dimensions. Build them: [#080 Hand Drill Press](../../categories/power-tools-remixed/080-hand-drill-press.md) and [#025 Scooter Motor Lathe](../../categories/functional-machines/025-scooter-motor-lathe.md). |
 | **Logic analyzer** | $15 | Reading digital communication protocols (I2C, SPI, UART, PWM) in real time. When your Arduino isn't talking to your sensor and you don't know why, the logic analyzer shows you exactly what's happening on the wire. A Saleae clone covers most protocols. |
 | **Bench power supply** (serious) | $50 | Upgrade to a dual-channel, higher-current supply. When one project needs 5V for logic and 24V for motors simultaneously, you need two channels. |
 | **Tap and die set** | $15-30 | Cutting threads into metal. When you need a bolt to thread into a piece of steel, you drill a hole and tap it. A metric + SAE set in common sizes (M3-M12, #6-1/2") covers most needs. |
 
 **Total: ~$300-500 (cumulative with previous tiers)**
 
-**What this unlocks:** Every build in the repo, including the endgame builds like [#036 Rail Gun](../categories/mad-scientist/036-rail-gun.md), [#200 DIY Electron Microscope](../categories/weird-science/200-diy-electron-microscope.md), [#181 Musical Marble Machine](../categories/mechanical-and-kinetic/181-musical-marble-machine.md), [#046 Ferrofluid Mirror](../categories/art-and-installation/046-ferrofluid-mirror.md), [#024 Electric Go-Kart](../categories/functional-machines/024-electric-go-kart.md), [#185 Trebuchet](../categories/mechanical-and-kinetic/185-trebuchet.md), and every build in the [Big Builds](../categories/big-builds/) category.
+**What this unlocks:** Every build in the repo, including the endgame builds like [#036 Rail Gun](../../categories/mad-scientist/036-rail-gun.md), [#200 DIY Electron Microscope](../../categories/weird-science/200-diy-electron-microscope.md), [#181 Musical Marble Machine](../../categories/mechanical-and-kinetic/181-musical-marble-machine.md), [#046 Ferrofluid Mirror](../../categories/art-and-installation/046-ferrofluid-mirror.md), [#024 Electric Go-Kart](../../categories/functional-machines/024-electric-go-kart.md), [#185 Trebuchet](../../categories/mechanical-and-kinetic/185-trebuchet.md), and every build in the [Big Builds](../../categories/big-builds/) category.
 
 ---
 
@@ -126,18 +126,18 @@ Why buy it when you can build it from junk?
 
 | Tool | Build | Source Materials |
 |---|---|---|
-| Spot welder | [#027](../categories/functional-machines/027-spot-welder.md) | Dead microwave (MOT) |
-| Drill press | [#080](../categories/power-tools-remixed/080-hand-drill-press.md) | Hand drill + scrap wood/metal |
-| Lathe | [#025](../categories/functional-machines/025-scooter-motor-lathe.md) | Dead electric scooter motor |
-| Belt grinder | [#026](../categories/functional-machines/026-treadmill-belt-grinder.md) | Dead treadmill motor |
-| CNC machine | [#069](../categories/printer-and-scanner/069-printer-stepper-cnc.md) | Dead printers (2-3 of them) |
-| Welder | [#219](../categories/junkyard-auto/219-alternator-welder.md) | Car alternator from junkyard |
-| Vacuum former | [#029](../categories/functional-machines/029-vacuum-former.md) | Vacuum cleaner + toaster oven |
-| Power hammer | [#081](../categories/power-tools-remixed/081-sawzall-power-hammer.md) | Dead reciprocating saw |
-| Silent compressor | [#031](../categories/functional-machines/031-silent-compressor.md) | Dead fridge compressor |
-| Table saw | [#082](../categories/power-tools-remixed/082-circular-saw-table-saw.md) | Circular saw + scrap wood |
-| Oscilloscope visualizer | [#021](../categories/light-and-visual/021-crt-oscilloscope-visualizer.md) | Old CRT TV |
-| Forge blower | [#079](../categories/power-tools-remixed/079-angle-grinder-forge-blower.md) | Angle grinder |
+| Spot welder | [#027](../../categories/functional-machines/027-spot-welder.md) | Dead microwave (MOT) |
+| Drill press | [#080](../../categories/power-tools-remixed/080-hand-drill-press.md) | Hand drill + scrap wood/metal |
+| Lathe | [#025](../../categories/functional-machines/025-scooter-motor-lathe.md) | Dead electric scooter motor |
+| Belt grinder | [#026](../../categories/functional-machines/026-treadmill-belt-grinder.md) | Dead treadmill motor |
+| CNC machine | [#069](../../categories/printer-and-scanner/069-printer-stepper-cnc.md) | Dead printers (2-3 of them) |
+| Welder | [#219](../../categories/junkyard-auto/219-alternator-welder.md) | Car alternator from junkyard |
+| Vacuum former | [#029](../../categories/functional-machines/029-vacuum-former.md) | Vacuum cleaner + toaster oven |
+| Power hammer | [#081](../../categories/power-tools-remixed/081-sawzall-power-hammer.md) | Dead reciprocating saw |
+| Silent compressor | [#031](../../categories/functional-machines/031-silent-compressor.md) | Dead fridge compressor |
+| Table saw | [#082](../../categories/power-tools-remixed/082-circular-saw-table-saw.md) | Circular saw + scrap wood |
+| Oscilloscope visualizer | [#021](../../categories/light-and-visual/021-crt-oscilloscope-visualizer.md) | Old CRT TV |
+| Forge blower | [#079](../../categories/power-tools-remixed/079-angle-grinder-forge-blower.md) | Angle grinder |
 
 The ultimate flex: building the tools to build the tools. Start with a screwdriver and a free microwave. End with a full machine shop.
 

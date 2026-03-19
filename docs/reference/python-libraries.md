@@ -6,7 +6,7 @@ description: "Key Python packages that power the software side of Junkyard Geniu
 # Python Libraries for Builds
 
 <p align="center">
-  <img src="../images/reference/python.jpg" alt="Python Libraries" width="700" />
+  <img src="../../images/reference/python.jpg" alt="Python Libraries" width="700" />
 </p>
 
 > Key Python packages that power the software side of Junkyard Genius builds — computer vision, audio processing, machine learning, and hardware control.
@@ -28,12 +28,12 @@ pip install opencv-python-headless  # No GUI — use on headless Pi
 ```
 
 **Used in builds:**
-- [Face Tracking Laser](../categories/python-projects/141-face-tracking-laser.md) — face detection and tracking
-- [AI Photo Booth](../categories/python-projects/143-ai-photo-booth.md) — real-time image processing
-- [Automated Microscope](../categories/python-projects/148-automated-microscope.md) — image capture and focus stacking
-- [Deepfake Mirror](../categories/python-projects/153-deepfake-mirror.md) — face swapping pipeline
-- [AI Doorbell](../categories/pi-and-arduino/130-ai-doorbell.md) — person detection
-- [Nerf Sentry Turret](../categories/pi-and-arduino/138-nerf-sentry-turret.md) — target detection
+- [Face Tracking Laser](../../categories/python-projects/141-face-tracking-laser.md) — face detection and tracking
+- [AI Photo Booth](../../categories/python-projects/143-ai-photo-booth.md) — real-time image processing
+- [Automated Microscope](../../categories/python-projects/148-automated-microscope.md) — image capture and focus stacking
+- [Deepfake Mirror](../../categories/python-projects/153-deepfake-mirror.md) — face swapping pipeline
+- [AI Doorbell](../../categories/pi-and-arduino/130-ai-doorbell.md) — person detection
+- [Nerf Sentry Turret](../../categories/pi-and-arduino/138-nerf-sentry-turret.md) — target detection
 
 **Key functions you'll use:**
 - `cv2.VideoCapture()` — open camera or video stream
@@ -53,10 +53,10 @@ pip install mediapipe
 ```
 
 **Used in builds:**
-- [Face Tracking Laser](../categories/python-projects/141-face-tracking-laser.md) — high-accuracy face detection
-- [Body Pose Music](../categories/python-projects/152-body-pose-music.md) — full body pose estimation
-- [AI Photo Booth](../categories/python-projects/143-ai-photo-booth.md) — face and hand landmarks
-- [Translator Glasses](../categories/python-projects/151-translator-glasses.md) — gesture recognition
+- [Face Tracking Laser](../../categories/python-projects/141-face-tracking-laser.md) — high-accuracy face detection
+- [Body Pose Music](../../categories/python-projects/152-body-pose-music.md) — full body pose estimation
+- [AI Photo Booth](../../categories/python-projects/143-ai-photo-booth.md) — face and hand landmarks
+- [Translator Glasses](../../categories/python-projects/151-translator-glasses.md) — gesture recognition
 
 **Key functions you'll use:**
 - `mp.solutions.face_detection` — face bounding boxes
@@ -78,9 +78,9 @@ pip install librosa
 ```
 
 **Used in builds:**
-- [Music Visualizer LED Wall](../categories/python-projects/145-music-visualizer-led-wall.md) — beat detection and frequency analysis
-- [Pi DJ Controller](../categories/pi-and-arduino/131-pi-dj-controller.md) — BPM detection and audio analysis
-- [Body Pose Music](../categories/python-projects/152-body-pose-music.md) — audio feature extraction
+- [Music Visualizer LED Wall](../../categories/python-projects/145-music-visualizer-led-wall.md) — beat detection and frequency analysis
+- [Pi DJ Controller](../../categories/pi-and-arduino/131-pi-dj-controller.md) — BPM detection and audio analysis
+- [Body Pose Music](../../categories/python-projects/152-body-pose-music.md) — audio feature extraction
 
 **Key functions you'll use:**
 - `librosa.load()` — load audio file
@@ -109,9 +109,9 @@ pip install pyaudio
 ```
 
 **Used in builds:**
-- [Music Visualizer LED Wall](../categories/python-projects/145-music-visualizer-led-wall.md) — real-time audio capture
-- [Arduino Guitar Pedal](../categories/pi-and-arduino/124-arduino-guitar-pedal.md) — audio I/O
-- [Earthquake Detector](../categories/python-projects/146-earthquake-detector.md) — vibration capture via microphone
+- [Music Visualizer LED Wall](../../categories/python-projects/145-music-visualizer-led-wall.md) — real-time audio capture
+- [Arduino Guitar Pedal](../../categories/pi-and-arduino/124-arduino-guitar-pedal.md) — audio I/O
+- [Earthquake Detector](../../categories/python-projects/146-earthquake-detector.md) — vibration capture via microphone
 - Any build that captures live audio
 
 **Key functions you'll use:**
@@ -137,8 +137,8 @@ pip install pyfluidsynth
 ```
 
 **Used in builds:**
-- [Body Pose Music](../categories/python-projects/152-body-pose-music.md) — converting pose data to MIDI sounds
-- [MIDI Stepper Organ](../categories/pi-and-arduino/135-midi-stepper-organ.md) — MIDI processing
+- [Body Pose Music](../../categories/python-projects/152-body-pose-music.md) — converting pose data to MIDI sounds
+- [MIDI Stepper Organ](../../categories/pi-and-arduino/135-midi-stepper-organ.md) — MIDI processing
 - Any build that generates music from sensor data
 
 ---
@@ -155,7 +155,7 @@ pip install numpy
 ```
 
 **Used in builds:** Virtually every Python build in the repo. Specific uses:
-- FFT for audio spectrum analysis ([Music Visualizer LED Wall](../categories/python-projects/145-music-visualizer-led-wall.md))
+- FFT for audio spectrum analysis ([Music Visualizer LED Wall](../../categories/python-projects/145-music-visualizer-led-wall.md))
 - Matrix operations for image processing
 - Signal processing and filtering
 - Data manipulation and averaging
@@ -172,8 +172,8 @@ pip install scipy
 ```
 
 **Used in builds:**
-- [Earthquake Detector](../categories/python-projects/146-earthquake-detector.md) — signal filtering and frequency analysis
-- [Arduino Guitar Pedal](../categories/pi-and-arduino/124-arduino-guitar-pedal.md) — audio DSP filters
+- [Earthquake Detector](../../categories/python-projects/146-earthquake-detector.md) — signal filtering and frequency analysis
+- [Arduino Guitar Pedal](../../categories/pi-and-arduino/124-arduino-guitar-pedal.md) — audio DSP filters
 - Signal processing in sensor-heavy builds
 
 **Key functions you'll use:**
@@ -193,8 +193,8 @@ pip install matplotlib
 ```
 
 **Used in builds:**
-- [Earthquake Detector](../categories/python-projects/146-earthquake-detector.md) — seismogram plots
-- [ESP32 Weather Station](../categories/pi-and-arduino/132-esp32-weather-station.md) — historical data graphs
+- [Earthquake Detector](../../categories/python-projects/146-earthquake-detector.md) — seismogram plots
+- [ESP32 Weather Station](../../categories/pi-and-arduino/132-esp32-weather-station.md) — historical data graphs
 - Debugging and data visualization across all builds
 
 ---
@@ -211,8 +211,8 @@ pip install scikit-learn
 ```
 
 **Used in builds:**
-- [AI Metal Detector](../categories/python-projects/147-ai-metal-detector.md) — classifying metal types from sensor signatures
-- [Sentiment Room Lighting](../categories/python-projects/144-sentiment-room-lighting.md) — text sentiment classification
+- [AI Metal Detector](../../categories/python-projects/147-ai-metal-detector.md) — classifying metal types from sensor signatures
+- [Sentiment Room Lighting](../../categories/python-projects/144-sentiment-room-lighting.md) — text sentiment classification
 
 ---
 
@@ -226,9 +226,9 @@ pip install tflite-runtime
 ```
 
 **Used in builds:**
-- [AI Doorbell](../categories/pi-and-arduino/130-ai-doorbell.md) — person detection on Pi
-- [AI Photo Booth](../categories/python-projects/143-ai-photo-booth.md) — style transfer
-- [Translator Glasses](../categories/python-projects/151-translator-glasses.md) — text recognition
+- [AI Doorbell](../../categories/pi-and-arduino/130-ai-doorbell.md) — person detection on Pi
+- [AI Photo Booth](../../categories/python-projects/143-ai-photo-booth.md) — style transfer
+- [Translator Glasses](../../categories/python-projects/151-translator-glasses.md) — text recognition
 
 **Note:** Use `tflite-runtime` on Pi (lightweight), not the full `tensorflow` package (too heavy for Pi). Pre-trained models are available from Google's TFHub and the TensorFlow Lite model zoo.
 
@@ -244,8 +244,8 @@ pip install torch torchvision  # CPU version
 ```
 
 **Used in builds:**
-- [Deepfake Mirror](../categories/python-projects/153-deepfake-mirror.md) — face generation models
-- [Generative Art Plotter](../categories/python-projects/142-generative-art-plotter.md) — style transfer models
+- [Deepfake Mirror](../../categories/python-projects/153-deepfake-mirror.md) — face generation models
+- [Generative Art Plotter](../../categories/python-projects/142-generative-art-plotter.md) — style transfer models
 - Advanced builds needing custom model training
 
 **Note:** PyTorch is heavy. On Raspberry Pi, prefer TensorFlow Lite for inference. Use PyTorch on a laptop for training, then export models for Pi deployment.
@@ -264,8 +264,8 @@ pip install vosk
 ```
 
 **Used in builds:**
-- [Voice Home Automation](../categories/python-projects/149-voice-home-automation.md) — voice command recognition
-- [AI Dungeon Master](../categories/python-projects/155-ai-dungeon-master.md) — voice input
+- [Voice Home Automation](../../categories/python-projects/149-voice-home-automation.md) — voice command recognition
+- [AI Dungeon Master](../../categories/python-projects/155-ai-dungeon-master.md) — voice input
 - Any build needing offline voice control
 
 **Note:** Download the language model separately from [alphacephei.com/vosk/models](https://alphacephei.com/vosk/models). The "small" English model works well for command recognition on Pi.
@@ -282,8 +282,8 @@ pip install openai-whisper
 ```
 
 **Used in builds:**
-- [Translator Glasses](../categories/python-projects/151-translator-glasses.md) — speech-to-text for translation
-- [AI Dungeon Master](../categories/python-projects/155-ai-dungeon-master.md) — high-accuracy speech input
+- [Translator Glasses](../../categories/python-projects/151-translator-glasses.md) — speech-to-text for translation
+- [AI Dungeon Master](../../categories/python-projects/155-ai-dungeon-master.md) — high-accuracy speech input
 
 **Note:** The "tiny" and "base" models run on Pi 4 (slowly). For real-time use, run on a laptop or use Vosk instead. The "small" model is a good accuracy/speed tradeoff on a laptop.
 
@@ -301,9 +301,9 @@ pip install flask
 ```
 
 **Used in builds:**
-- [ESP32 Weather Station](../categories/pi-and-arduino/132-esp32-weather-station.md) — web dashboard for sensor data
-- [Smart Mirror](../categories/pi-and-arduino/123-smart-mirror.md) — configuration interface
-- [AI Photo Booth](../categories/python-projects/143-ai-photo-booth.md) — photo gallery and controls
+- [ESP32 Weather Station](../../categories/pi-and-arduino/132-esp32-weather-station.md) — web dashboard for sensor data
+- [Smart Mirror](../../categories/pi-and-arduino/123-smart-mirror.md) — configuration interface
+- [AI Photo Booth](../../categories/python-projects/143-ai-photo-booth.md) — photo gallery and controls
 - Any build needing a web-based control panel
 
 ---
@@ -318,8 +318,8 @@ pip install gradio
 ```
 
 **Used in builds:**
-- [AI Photo Booth](../categories/python-projects/143-ai-photo-booth.md) — quick demo interface
-- [Deepfake Mirror](../categories/python-projects/153-deepfake-mirror.md) — face swap demo interface
+- [AI Photo Booth](../../categories/python-projects/143-ai-photo-booth.md) — quick demo interface
+- [Deepfake Mirror](../../categories/python-projects/153-deepfake-mirror.md) — face swap demo interface
 - Any build needing a quick web demo
 
 ---
@@ -336,9 +336,9 @@ pip install pyserial
 ```
 
 **Used in builds:**
-- [Fractal Laser Engraver](../categories/python-projects/150-fractal-laser-engraver.md) — sending G-code to Arduino
-- [Generative Art Plotter](../categories/python-projects/142-generative-art-plotter.md) — sending coordinates to plotter
-- [Music Visualizer LED Wall](../categories/python-projects/145-music-visualizer-led-wall.md) — serial to Arduino LED controller
+- [Fractal Laser Engraver](../../categories/python-projects/150-fractal-laser-engraver.md) — sending G-code to Arduino
+- [Generative Art Plotter](../../categories/python-projects/142-generative-art-plotter.md) — sending coordinates to plotter
+- [Music Visualizer LED Wall](../../categories/python-projects/145-music-visualizer-led-wall.md) — serial to Arduino LED controller
 - Any build where Python on a computer controls an Arduino
 
 **Key usage:**
@@ -361,8 +361,8 @@ pip install RPi.GPIO  # Usually pre-installed on Pi
 ```
 
 **Used in builds:**
-- [Fireworks Sequencer](../categories/pi-and-arduino/121-fireworks-sequencer.md) — relay control via GPIO
-- [Auto Plant Watering](../categories/pi-and-arduino/127-auto-plant-watering.md) — pump relay control
+- [Fireworks Sequencer](../../categories/pi-and-arduino/121-fireworks-sequencer.md) — relay control via GPIO
+- [Auto Plant Watering](../../categories/pi-and-arduino/127-auto-plant-watering.md) — pump relay control
 - Most Pi-based hardware control builds
 
 ---

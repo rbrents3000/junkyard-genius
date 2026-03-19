@@ -6,7 +6,7 @@ description: "The brains, sensors, actuators, and power systems that bring junky
 # Electronics & Microcontrollers Guide
 
 <p align="center">
-  <img src="../images/reference/electronics.jpg" alt="Electronics & Microcontrollers" width="700" />
+  <img src="../../images/reference/electronics.jpg" alt="Electronics & Microcontrollers" width="700" />
 </p>
 
 > The brains, sensors, actuators, and power systems that bring junkyard builds to life.
@@ -31,13 +31,13 @@ A full Linux computer the size of a credit card. Runs Python, has GPIO pins for 
 **When to use a Pi:** When you need to run Python scripts, process images or audio, serve a web interface, or do anything that requires an operating system. If you're running OpenCV, a web server, or complex logic — use a Pi.
 
 **Used in builds:**
-- [Fireworks Sequencer](../categories/pi-and-arduino/121-fireworks-sequencer.md) — GPIO relay control
-- [Smart Mirror](../categories/pi-and-arduino/123-smart-mirror.md) — web display
-- [Retro Arcade Cabinet](../categories/pi-and-arduino/126-retro-arcade-cabinet.md) — emulation
-- [Pi DJ Controller](../categories/pi-and-arduino/131-pi-dj-controller.md) — audio processing
-- [Pi-Hole Ad Blocker](../categories/pi-and-arduino/139-pi-hole-ad-blocker.md) — DNS server
-- [Face Tracking Laser](../categories/python-projects/141-face-tracking-laser.md) — OpenCV processing
-- [Music Visualizer LED Wall](../categories/python-projects/145-music-visualizer-led-wall.md) — audio FFT + LED control
+- [Fireworks Sequencer](../../categories/pi-and-arduino/121-fireworks-sequencer.md) — GPIO relay control
+- [Smart Mirror](../../categories/pi-and-arduino/123-smart-mirror.md) — web display
+- [Retro Arcade Cabinet](../../categories/pi-and-arduino/126-retro-arcade-cabinet.md) — emulation
+- [Pi DJ Controller](../../categories/pi-and-arduino/131-pi-dj-controller.md) — audio processing
+- [Pi-Hole Ad Blocker](../../categories/pi-and-arduino/139-pi-hole-ad-blocker.md) — DNS server
+- [Face Tracking Laser](../../categories/python-projects/141-face-tracking-laser.md) — OpenCV processing
+- [Music Visualizer LED Wall](../../categories/python-projects/145-music-visualizer-led-wall.md) — audio FFT + LED control
 - All Python Projects category builds
 
 ---
@@ -55,13 +55,13 @@ An open-source microcontroller board. No operating system — it runs one progra
 **When to use an Arduino:** When you need real-time hardware control without the overhead of an operating system. Reading sensors, driving motors, controlling relays, running LED animations. If the task is "read input, do thing, repeat" — use an Arduino.
 
 **Used in builds:**
-- [Arduino Guitar Pedal](../categories/pi-and-arduino/124-arduino-guitar-pedal.md) — real-time audio DSP
-- [Auto Plant Watering](../categories/pi-and-arduino/127-auto-plant-watering.md) — sensor reading + relay control
-- [Arduino Breathalyzer](../categories/pi-and-arduino/133-arduino-breathalyzer.md) — MQ sensor reading
-- [LED Cube 8x8x8](../categories/pi-and-arduino/122-led-cube-8x8x8.md) — high-speed LED multiplexing
-- [MIDI Stepper Organ](../categories/pi-and-arduino/135-midi-stepper-organ.md) — precise stepper timing
-- [Nerf Sentry Turret](../categories/pi-and-arduino/138-nerf-sentry-turret.md) — servo control
-- [EMF Ghost Detector](../categories/pi-and-arduino/140-emf-ghost-detector.md) — analog sensing
+- [Arduino Guitar Pedal](../../categories/pi-and-arduino/124-arduino-guitar-pedal.md) — real-time audio DSP
+- [Auto Plant Watering](../../categories/pi-and-arduino/127-auto-plant-watering.md) — sensor reading + relay control
+- [Arduino Breathalyzer](../../categories/pi-and-arduino/133-arduino-breathalyzer.md) — MQ sensor reading
+- [LED Cube 8x8x8](../../categories/pi-and-arduino/122-led-cube-8x8x8.md) — high-speed LED multiplexing
+- [MIDI Stepper Organ](../../categories/pi-and-arduino/135-midi-stepper-organ.md) — precise stepper timing
+- [Nerf Sentry Turret](../../categories/pi-and-arduino/138-nerf-sentry-turret.md) — servo control
+- [EMF Ghost Detector](../../categories/pi-and-arduino/140-emf-ghost-detector.md) — analog sensing
 
 ---
 
@@ -78,11 +78,11 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 **When to use an ESP32:** When you need WiFi or Bluetooth connectivity, or when the project needs more processing power than an Arduino but doesn't need a full OS. Mesh networks, IoT sensors, wireless controllers, and camera projects are ESP32 territory.
 
 **Used in builds:**
-- [ESP32 Mesh Walkie-Talkie](../categories/pi-and-arduino/125-esp32-mesh-walkie-talkie.md) — mesh WiFi communication
-- [ESP32-CAM Security](../categories/pi-and-arduino/128-esp32-cam-security.md) — video streaming
-- [ESP32 Weather Station](../categories/pi-and-arduino/132-esp32-weather-station.md) — sensor data over WiFi
-- [ESP32 Micro Drone](../categories/pi-and-arduino/136-esp32-micro-drone.md) — flight controller
-- [Star Tracker](../categories/pi-and-arduino/137-star-tracker.md) — stepper motor control with mobile app
+- [ESP32 Mesh Walkie-Talkie](../../categories/pi-and-arduino/125-esp32-mesh-walkie-talkie.md) — mesh WiFi communication
+- [ESP32-CAM Security](../../categories/pi-and-arduino/128-esp32-cam-security.md) — video streaming
+- [ESP32 Weather Station](../../categories/pi-and-arduino/132-esp32-weather-station.md) — sensor data over WiFi
+- [ESP32 Micro Drone](../../categories/pi-and-arduino/136-esp32-micro-drone.md) — flight controller
+- [Star Tracker](../../categories/pi-and-arduino/137-star-tracker.md) — stepper motor control with mobile app
 
 ---
 
@@ -109,7 +109,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $3-5
 
-**Used in builds:** [ESP32 Weather Station](../categories/pi-and-arduino/132-esp32-weather-station.md), [Fermentation Chamber](../categories/fridge-and-cooling/092-fermentation-chamber.md)
+**Used in builds:** [ESP32 Weather Station](../../categories/pi-and-arduino/132-esp32-weather-station.md), [Fermentation Chamber](../../categories/fridge-and-cooling/092-fermentation-chamber.md)
 
 ---
 
@@ -119,7 +119,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $2-4
 
-**Used in builds:** [Earthquake Detector](../categories/python-projects/146-earthquake-detector.md), [ESP32 Micro Drone](../categories/pi-and-arduino/136-esp32-micro-drone.md), [Body Pose Music](../categories/python-projects/152-body-pose-music.md)
+**Used in builds:** [Earthquake Detector](../../categories/python-projects/146-earthquake-detector.md), [ESP32 Micro Drone](../../categories/pi-and-arduino/136-esp32-micro-drone.md), [Body Pose Music](../../categories/python-projects/152-body-pose-music.md)
 
 ---
 
@@ -129,7 +129,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $1-3
 
-**Used in builds:** [Nerf Sentry Turret](../categories/pi-and-arduino/138-nerf-sentry-turret.md) (proximity detection), general obstacle avoidance
+**Used in builds:** [Nerf Sentry Turret](../../categories/pi-and-arduino/138-nerf-sentry-turret.md) (proximity detection), general obstacle avoidance
 
 ---
 
@@ -143,7 +143,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $2-5 each
 
-**Used in builds:** [Arduino Breathalyzer](../categories/pi-and-arduino/133-arduino-breathalyzer.md) (MQ-3), environmental monitoring
+**Used in builds:** [Arduino Breathalyzer](../../categories/pi-and-arduino/133-arduino-breathalyzer.md) (MQ-3), environmental monitoring
 
 ---
 
@@ -153,7 +153,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $1-3 (resistive), $3-5 (capacitive)
 
-**Used in builds:** [Auto Plant Watering](../categories/pi-and-arduino/127-auto-plant-watering.md)
+**Used in builds:** [Auto Plant Watering](../../categories/pi-and-arduino/127-auto-plant-watering.md)
 
 ---
 
@@ -163,7 +163,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $0.10-0.50 each (usually sold in packs of 20-50)
 
-**Used in builds:** [Star Tracker](../categories/pi-and-arduino/137-star-tracker.md) (ambient light detection), various light-activated builds
+**Used in builds:** [Star Tracker](../../categories/pi-and-arduino/137-star-tracker.md) (ambient light detection), various light-activated builds
 
 ---
 
@@ -175,7 +175,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $2-3 (micro), $5-8 (standard metal gear)
 
-**Used in builds:** [Face Tracking Laser](../categories/python-projects/141-face-tracking-laser.md), [Nerf Sentry Turret](../categories/pi-and-arduino/138-nerf-sentry-turret.md), [Star Tracker](../categories/pi-and-arduino/137-star-tracker.md)
+**Used in builds:** [Face Tracking Laser](../../categories/python-projects/141-face-tracking-laser.md), [Nerf Sentry Turret](../../categories/pi-and-arduino/138-nerf-sentry-turret.md), [Star Tracker](../../categories/pi-and-arduino/137-star-tracker.md)
 
 **Power note:** ALWAYS power servos from a separate 5V supply, not from the microcontroller's 5V pin. Servos draw current spikes that cause brownouts and resets.
 
@@ -187,7 +187,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $5-15 (NEMA 17), free (salvaged from printers — see [Appliance Teardown Guide](appliance-teardown-guide.md))
 
-**Used in builds:** [Printer Stepper CNC](../categories/printer-and-scanner/069-printer-stepper-cnc.md), [Pen Plotter](../categories/printer-and-scanner/072-pen-plotter.md), [MIDI Stepper Organ](../categories/pi-and-arduino/135-midi-stepper-organ.md), [Printer Robot Arm](../categories/pi-and-arduino/129-printer-robot-arm.md), [Motorized Camera Slider](../categories/scooter-and-motor/089-motorized-camera-slider.md)
+**Used in builds:** [Printer Stepper CNC](../../categories/printer-and-scanner/069-printer-stepper-cnc.md), [Pen Plotter](../../categories/printer-and-scanner/072-pen-plotter.md), [MIDI Stepper Organ](../../categories/pi-and-arduino/135-midi-stepper-organ.md), [Printer Robot Arm](../../categories/pi-and-arduino/129-printer-robot-arm.md), [Motorized Camera Slider](../../categories/scooter-and-motor/089-motorized-camera-slider.md)
 
 ---
 
@@ -197,7 +197,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $2-3 (single), $5-8 (8-channel), $8-12 (16-channel)
 
-**Used in builds:** [Fireworks Sequencer](../categories/pi-and-arduino/121-fireworks-sequencer.md), [Auto Plant Watering](../categories/pi-and-arduino/127-auto-plant-watering.md), [Sentiment Room Lighting](../categories/python-projects/144-sentiment-room-lighting.md), [Voice Home Automation](../categories/python-projects/149-voice-home-automation.md)
+**Used in builds:** [Fireworks Sequencer](../../categories/pi-and-arduino/121-fireworks-sequencer.md), [Auto Plant Watering](../../categories/pi-and-arduino/127-auto-plant-watering.md), [Sentiment Room Lighting](../../categories/python-projects/144-sentiment-room-lighting.md), [Voice Home Automation](../../categories/python-projects/149-voice-home-automation.md)
 
 **Safety note:** When switching mains voltage (120V/240V) through relays, use optically isolated relay modules. Verify the relay is rated for the voltage and current you're switching. Use proper wire gauge and connectors — not breadboard jumper wires.
 
@@ -211,7 +211,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $3-5
 
-**Used in builds:** [ESP32 Weather Station](../categories/pi-and-arduino/132-esp32-weather-station.md), [Arduino Breathalyzer](../categories/pi-and-arduino/133-arduino-breathalyzer.md), [EMF Ghost Detector](../categories/pi-and-arduino/140-emf-ghost-detector.md)
+**Used in builds:** [ESP32 Weather Station](../../categories/pi-and-arduino/132-esp32-weather-station.md), [Arduino Breathalyzer](../../categories/pi-and-arduino/133-arduino-breathalyzer.md), [EMF Ghost Detector](../../categories/pi-and-arduino/140-emf-ghost-detector.md)
 
 ---
 
@@ -221,7 +221,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $3-5 per 8x8 module (with MAX7219 driver)
 
-**Used in builds:** [LED Cube 8x8x8](../categories/pi-and-arduino/122-led-cube-8x8x8.md)
+**Used in builds:** [LED Cube 8x8x8](../../categories/pi-and-arduino/122-led-cube-8x8x8.md)
 
 ---
 
@@ -231,7 +231,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $5-10 per meter (30 LEDs/m), $10-20 per meter (60 LEDs/m)
 
-**Used in builds:** [Music Visualizer LED Wall](../categories/python-projects/145-music-visualizer-led-wall.md), [LED Cube 8x8x8](../categories/pi-and-arduino/122-led-cube-8x8x8.md), [Sentiment Room Lighting](../categories/python-projects/144-sentiment-room-lighting.md)
+**Used in builds:** [Music Visualizer LED Wall](../../categories/python-projects/145-music-visualizer-led-wall.md), [LED Cube 8x8x8](../../categories/pi-and-arduino/122-led-cube-8x8x8.md), [Sentiment Room Lighting](../../categories/python-projects/144-sentiment-room-lighting.md)
 
 **Power note:** Each LED draws up to 60mA at full white. A strip of 300 LEDs can draw 18A. Use a beefy 5V power supply and inject power at multiple points along the strip to prevent voltage drop. Use a level shifter (3.3V to 5V) when driving from ESP32 or Pi.
 
@@ -271,7 +271,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $10-30 depending on capacity and cell count
 
-**Used in builds:** [ESP32 Micro Drone](../categories/pi-and-arduino/136-esp32-micro-drone.md), portable builds
+**Used in builds:** [ESP32 Micro Drone](../../categories/pi-and-arduino/136-esp32-micro-drone.md), portable builds
 
 **Safety note:** LiPo batteries can catch fire if overcharged, over-discharged, punctured, or short-circuited. Always use with a proper BMS or charger. Store in a LiPo-safe bag. Never charge unattended.
 
@@ -283,7 +283,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $0.50-1 each (often sold in packs of 5-10)
 
-**Used in builds:** Any portable build powered by a single lithium cell. [Laptop Battery Power Bank](../categories/computer-and-phone/067-laptop-battery-power-bank.md)
+**Used in builds:** Any portable build powered by a single lithium cell. [Laptop Battery Power Bank](../../categories/computer-and-phone/067-laptop-battery-power-bank.md)
 
 ---
 
@@ -295,7 +295,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $3-5
 
-**Used in builds:** [ESP32 Mesh Walkie-Talkie](../categories/pi-and-arduino/125-esp32-mesh-walkie-talkie.md), [Earthquake Detector](../categories/python-projects/146-earthquake-detector.md) (vibration as audio), audio capture projects
+**Used in builds:** [ESP32 Mesh Walkie-Talkie](../../categories/pi-and-arduino/125-esp32-mesh-walkie-talkie.md), [Earthquake Detector](../../categories/python-projects/146-earthquake-detector.md) (vibration as audio), audio capture projects
 
 ---
 
@@ -305,7 +305,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $0 (salvaged) to $3 (purchased)
 
-**Used in builds:** [Hard Drive Speaker](../categories/computer-and-phone/056-hard-drive-speaker.md), [Pirate Radio](../categories/pi-and-arduino/134-pirate-radio.md), audio output for any build
+**Used in builds:** [Hard Drive Speaker](../../categories/computer-and-phone/056-hard-drive-speaker.md), [Pirate Radio](../../categories/pi-and-arduino/134-pirate-radio.md), audio output for any build
 
 ---
 
@@ -315,7 +315,7 @@ A WiFi + Bluetooth microcontroller that costs less than a coffee. The sweet spot
 
 **Approximate cost:** $0.50-1 each
 
-**Used in builds:** Alert/notification sounds across many builds, [EMF Ghost Detector](../categories/pi-and-arduino/140-emf-ghost-detector.md)
+**Used in builds:** Alert/notification sounds across many builds, [EMF Ghost Detector](../../categories/pi-and-arduino/140-emf-ghost-detector.md)
 
 ---
 

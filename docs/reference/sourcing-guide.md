@@ -6,7 +6,7 @@ description: 'The best builds start at the curb, not at the checkout counter. Yo
 # Where to Find Free Junk
 
 <p align="center">
-  <img src="../images/reference/sourcing.jpg" alt="Sourcing Guide" width="700" />
+  <img src="../../images/reference/sourcing.jpg" alt="Sourcing Guide" width="700" />
 </p>
 
 > The best builds start at the curb, not at the checkout counter. Your next masterpiece is sitting in someone's driveway right now, with a "FREE" sign taped to it.
@@ -211,14 +211,14 @@ Goodwill, Salvation Army, Value Village, and local thrift shops are underrated p
 Self-service junkyards (Pull-A-Part, LKQ Pick Your Part, U-Pull-It) charge a flat entry fee ($1-3) and let you walk the yard with tools, removing whatever you want. Parts are priced by type, not by vehicle — and they're absurdly cheap for what you get.
 
 ### What to pull:
-- **Alternators ($10-15)** — three-phase generators capable of 100+ amps. Core of [#219 Alternator Welder](../categories/junkyard-auto/219-alternator-welder.md).
-- **Starter motors ($10-15)** — brutal torque, compact size. Heart of [#221 Starter Motor Go-Kart](../categories/junkyard-auto/221-starter-motor-go-kart.md).
-- **Ignition coils ($2-5)** — step up 12V to 40,000V. Perfect for [#220 Ignition Coil Tesla Coil](../categories/junkyard-auto/220-ignition-coil-tesla-coil.md).
-- **Window motors ($3-5)** — geared DC motors with serious force. Great for [#224 Window Motor Secret Door](../categories/junkyard-auto/224-window-motor-secret-door.md).
-- **Wiper motors ($3-5)** — slow, high-torque rotation through a worm gear. Ideal for [#222 Wiper Motor Rotisserie](../categories/junkyard-auto/222-wiper-motor-rotisserie.md).
-- **Spark plugs ($0.50-1)** — reliable ignition source for [#223 Spark Plug Cannon](../categories/junkyard-auto/223-spark-plug-cannon.md).
-- **Seat heater pads** — flexible resistance heating elements for [#225 Seat Heater Sous Vide](../categories/junkyard-auto/225-seat-heater-sous-vide.md).
-- **HID headlight ballasts** — high-voltage drivers for [#226 HID Headlight UV Curer](../categories/junkyard-auto/226-hid-headlight-uv-curer.md).
+- **Alternators ($10-15)** — three-phase generators capable of 100+ amps. Core of [#219 Alternator Welder](../../categories/junkyard-auto/219-alternator-welder.md).
+- **Starter motors ($10-15)** — brutal torque, compact size. Heart of [#221 Starter Motor Go-Kart](../../categories/junkyard-auto/221-starter-motor-go-kart.md).
+- **Ignition coils ($2-5)** — step up 12V to 40,000V. Perfect for [#220 Ignition Coil Tesla Coil](../../categories/junkyard-auto/220-ignition-coil-tesla-coil.md).
+- **Window motors ($3-5)** — geared DC motors with serious force. Great for [#224 Window Motor Secret Door](../../categories/junkyard-auto/224-window-motor-secret-door.md).
+- **Wiper motors ($3-5)** — slow, high-torque rotation through a worm gear. Ideal for [#222 Wiper Motor Rotisserie](../../categories/junkyard-auto/222-wiper-motor-rotisserie.md).
+- **Spark plugs ($0.50-1)** — reliable ignition source for [#223 Spark Plug Cannon](../../categories/junkyard-auto/223-spark-plug-cannon.md).
+- **Seat heater pads** — flexible resistance heating elements for [#225 Seat Heater Sous Vide](../../categories/junkyard-auto/225-seat-heater-sous-vide.md).
+- **HID headlight ballasts** — high-voltage drivers for [#226 HID Headlight UV Curer](../../categories/junkyard-auto/226-hid-headlight-uv-curer.md).
 - **12V batteries** — even a "dead" car battery can deliver massive current for short bursts
 - **Copper wiring harnesses** — yards of insulated copper wire in every vehicle
 - **Relays and fuse boxes** — automotive relays are beefy and reliable

@@ -1,7 +1,7 @@
 # General Safety
 
 <p align="center">
-  <img src="../images/safety/safety-overview.jpg" alt="Safety First" width="700" />
+  <img src="../../images/safety/safety-overview.jpg" alt="Safety First" width="700" />
 </p>
 
 > Universal safety rules for every build in this repo. Read this before you build anything.
@@ -113,7 +113,7 @@ Seriously consider skipping a build if:
 - **Fireworks:** Laws vary wildly by state, county, and city. Some jurisdictions ban all consumer fireworks. Others allow them only on specific dates. Electronically fired displays may require additional permits. Research your local laws.
 
 ### FCC Rules (Radio Builds)
-- **FM transmitters** ([Pirate Radio](../categories/pi-and-arduino/134-pirate-radio.md)) are legal at very low power (Part 15 rules — signal cannot be received beyond approximately 200 feet). Higher-power transmitters require an FCC license.
+- **FM transmitters** ([Pirate Radio](../../categories/pi-and-arduino/134-pirate-radio.md)) are legal at very low power (Part 15 rules — signal cannot be received beyond approximately 200 feet). Higher-power transmitters require an FCC license.
 - **WiFi and Bluetooth** devices (ESP32, Pi) operate on unlicensed bands and are legal for normal use.
 - **Mesh radio networks** must operate within Part 15 limits or on licensed amateur radio frequencies (requires a ham radio license).
 

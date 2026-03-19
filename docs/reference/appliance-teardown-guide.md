@@ -6,7 +6,7 @@ description: "What's inside each appliance, what to salvage, and what to watch o
 # Appliance Teardown Guide
 
 <p align="center">
-  <img src="../images/reference/teardown.jpg" alt="Appliance Teardown Guide" width="700" />
+  <img src="../../images/reference/teardown.jpg" alt="Appliance Teardown Guide" width="700" />
 </p>
 
 > What's inside each appliance, what to salvage, and what to watch out for while taking it apart.
@@ -23,11 +23,11 @@ The single most valuable salvage appliance in this repo. A dead microwave yields
 
 | Part | What It Is | Builds That Use It |
 |---|---|---|
-| **Microwave Oven Transformer (MOT)** | Heavy iron-core transformer. Primary winding takes 120V AC, secondary outputs ~2,000V at high current. The most dangerous and most useful part. | [Plasma Tornado Lamp](../categories/fire-and-plasma/001-plasma-tornado-lamp.md), [Lichtenberg Wood Burner](../categories/fire-and-plasma/002-lichtenberg-wood-burner.md), [Atmospheric Reentry Simulator](../categories/fire-and-plasma/006-atmospheric-reentry-simulator.md) |
+| **Microwave Oven Transformer (MOT)** | Heavy iron-core transformer. Primary winding takes 120V AC, secondary outputs ~2,000V at high current. The most dangerous and most useful part. | [Plasma Tornado Lamp](../../categories/fire-and-plasma/001-plasma-tornado-lamp.md), [Lichtenberg Wood Burner](../../categories/fire-and-plasma/002-lichtenberg-wood-burner.md), [Atmospheric Reentry Simulator](../../categories/fire-and-plasma/006-atmospheric-reentry-simulator.md) |
 | **Magnetron** | The microwave-generating vacuum tube. Contains strong ceramic magnets inside. The tube itself is less useful for builds, but the magnets are excellent. | Magnets used across many builds |
-| **High-Voltage Capacitor** | Oil-filled capacitor rated at ~2,100V, 1µF. Stores enough energy to kill. Even dead microwaves may have this charged. | [Electromagnetic Can Crusher](../categories/mad-scientist/035-electromagnetic-can-crusher.md), capacitor bank projects |
+| **High-Voltage Capacitor** | Oil-filled capacitor rated at ~2,100V, 1µF. Stores enough energy to kill. Even dead microwaves may have this charged. | [Electromagnetic Can Crusher](../../categories/mad-scientist/035-electromagnetic-can-crusher.md), capacitor bank projects |
 | **Turntable Motor** | Small synchronous AC motor (typically 3-5 RPM). Runs on mains voltage. Slow, steady rotation. | Display turntables, slow-rotation builds |
-| **Cooling Fan** | 120V AC fan, usually 80-120mm. Reliable and quiet. | Ventilation for any build, [Forge Blower](../categories/power-tools-remixed/079-angle-grinder-forge-blower.md) |
+| **Cooling Fan** | 120V AC fan, usually 80-120mm. Reliable and quiet. | Ventilation for any build, [Forge Blower](../../categories/power-tools-remixed/079-angle-grinder-forge-blower.md) |
 | **Door Switches** | Multiple interlock switches (safety). Rated for mains voltage and current. | General-purpose safety switches |
 | **Control Panel / Touchpad** | Membrane switches with a control board. Limited reuse, but the buttons and display can be repurposed. | Creative control panels |
 | **Sheet Metal Housing** | Thick, welded steel panels. Good scrap material. | Enclosures, brackets |
@@ -56,12 +56,12 @@ Refrigerators are heavy, awkward, and full of useful parts — especially the co
 
 | Part | What It Is | Builds That Use It |
 |---|---|---|
-| **Compressor** | Hermetically sealed motor/pump that circulates refrigerant. Powerful, reliable, and nearly indestructible. Can be repurposed as a vacuum pump or air compressor (with modifications). | [DIY Freeze Dryer](../categories/fridge-and-cooling/094-diy-freeze-dryer.md), [Vacuum Chamber](../categories/mad-scientist/039-vacuum-chamber.md), [Absorption Cooler](../categories/fridge-and-cooling/095-absorption-cooler.md) |
-| **Condenser Coils** | Copper or aluminum tubing in a serpentine pattern. Excellent heat exchanger material. | Heat exchanger projects, [Absorption Cooler](../categories/fridge-and-cooling/095-absorption-cooler.md) |
+| **Compressor** | Hermetically sealed motor/pump that circulates refrigerant. Powerful, reliable, and nearly indestructible. Can be repurposed as a vacuum pump or air compressor (with modifications). | [DIY Freeze Dryer](../../categories/fridge-and-cooling/094-diy-freeze-dryer.md), [Vacuum Chamber](../../categories/mad-scientist/039-vacuum-chamber.md), [Absorption Cooler](../../categories/fridge-and-cooling/095-absorption-cooler.md) |
+| **Condenser Coils** | Copper or aluminum tubing in a serpentine pattern. Excellent heat exchanger material. | Heat exchanger projects, [Absorption Cooler](../../categories/fridge-and-cooling/095-absorption-cooler.md) |
 | **Evaporator Coils** | Same as condenser coils, but inside the fridge. Often aluminum. | Same uses as condenser coils |
 | **Thermostat** | Mechanical or electronic temperature controller. | Temperature-controlled builds |
 | **Fan Motors** | Condenser fan and evaporator fan — small, reliable 120V motors. | Ventilation, cooling |
-| **Peltier Module** (mini fridges only) | Thermoelectric cooler — applies voltage, one side gets hot, the other gets cold. No moving parts. | [Fermentation Chamber](../categories/fridge-and-cooling/092-fermentation-chamber.md), cooling projects |
+| **Peltier Module** (mini fridges only) | Thermoelectric cooler — applies voltage, one side gets hot, the other gets cold. No moving parts. | [Fermentation Chamber](../../categories/fridge-and-cooling/092-fermentation-chamber.md), cooling projects |
 | **Shelving and Drawers** | Tempered glass, plastic bins. Not electronics, but useful workshop storage. | Workshop organization |
 
 ### Teardown Safety
@@ -88,13 +88,13 @@ Washing machines contain some of the beefiest motors and heaviest-duty mechanica
 
 | Part | What It Is | Builds That Use It |
 |---|---|---|
-| **Motor** | Older top-loaders: universal (brushed) motor, 1/2 HP+. Newer front-loaders: brushless DC motor (variable speed, very powerful). Both are excellent for repurposing. | [Electric Skateboard](../categories/scooter-and-motor/088-electric-skateboard.md), [Belt Grinder](../categories/functional-machines/) projects, generators |
-| **Drum** | Stainless steel cylinder with holes. Perfect for fire pits, or as a centrifuge drum. | Fire pits, [Desktop Foundry](../categories/fire-and-plasma/005-desktop-foundry.md) (as a forge body) |
-| **Pump** | AC or DC water pump. Rated for continuous duty. | Water circulation, [Fountain](../categories/pyro-and-chemistry/118-fluorescein-blacklight-fountain.md) builds |
+| **Motor** | Older top-loaders: universal (brushed) motor, 1/2 HP+. Newer front-loaders: brushless DC motor (variable speed, very powerful). Both are excellent for repurposing. | [Electric Skateboard](../../categories/scooter-and-motor/088-electric-skateboard.md), [Belt Grinder](../../categories/functional-machines/) projects, generators |
+| **Drum** | Stainless steel cylinder with holes. Perfect for fire pits, or as a centrifuge drum. | Fire pits, [Desktop Foundry](../../categories/fire-and-plasma/005-desktop-foundry.md) (as a forge body) |
+| **Pump** | AC or DC water pump. Rated for continuous duty. | Water circulation, [Fountain](../../categories/pyro-and-chemistry/118-fluorescein-blacklight-fountain.md) builds |
 | **Bearings** | Heavy-duty sealed bearings. Expensive to buy new. | Any mechanical build needing bearings |
 | **Counterweight** | A 20-40 lb concrete or cast iron block. | Ballast, anvil substitute for light work |
 | **Control Board** | Modern machines have sophisticated control boards with triacs, relays, and microcontrollers. | Component harvesting (relays, triacs, connectors) |
-| **Solenoid Valves** | Water inlet valves — 120V solenoid-operated. | Automated water control builds, [Auto Plant Watering](../categories/pi-and-arduino/127-auto-plant-watering.md) |
+| **Solenoid Valves** | Water inlet valves — 120V solenoid-operated. | Automated water control builds, [Auto Plant Watering](../../categories/pi-and-arduino/127-auto-plant-watering.md) |
 
 ### Teardown Safety
 
@@ -119,9 +119,9 @@ Dryers are simpler machines than washers, but the motor and heating element are 
 
 | Part | What It Is | Builds That Use It |
 |---|---|---|
-| **Motor** | 1/4 to 1/3 HP AC motor. Reliable, high-RPM. Often has a blower wheel attached. | Fan builds, [Cyclone Dust Separator](../categories/vacuum-cleaner/077-cyclone-dust-separator.md) |
+| **Motor** | 1/4 to 1/3 HP AC motor. Reliable, high-RPM. Often has a blower wheel attached. | Fan builds, [Cyclone Dust Separator](../../categories/vacuum-cleaner/077-cyclone-dust-separator.md) |
 | **Drum** | Large steel cylinder. Can be repurposed as a fire pit, compost tumbler, or large enclosure. | Fire pit, large project housings |
-| **Heating Element** | Coiled nichrome wire in a housing, rated for 4,000-5,500 watts at 240V. Serious heat output. | [Desktop Foundry](../categories/fire-and-plasma/005-desktop-foundry.md), heating projects |
+| **Heating Element** | Coiled nichrome wire in a housing, rated for 4,000-5,500 watts at 240V. Serious heat output. | [Desktop Foundry](../../categories/fire-and-plasma/005-desktop-foundry.md), heating projects |
 | **Belt** | Long, flexible rubber belt. Can be repurposed for drive belts in other mechanical builds. | Mechanical power transmission |
 | **Lint Screen Assembly** | Fine mesh screen in a frame. Useful as a filter or sieve. | Filtering, straining |
 | **Thermal Fuses and Thermostats** | Calibrated temperature safety devices. | Temperature-controlled builds |
@@ -150,11 +150,11 @@ Dishwashers are underrated salvage sources — the pump, motor, and solenoid val
 |---|---|---|
 | **Wash Pump / Motor** | Powerful water pump (often 1/3 HP). Designed for continuous wet operation. | Water circulation projects, fountain builds |
 | **Drain Pump** | Smaller pump for draining. Self-priming. | Water movement, drainage |
-| **Heating Element** | Exposed heating element in the tub, rated for 120V or 240V. | Heating water, [Fermentation Chamber](../categories/fridge-and-cooling/092-fermentation-chamber.md) |
+| **Heating Element** | Exposed heating element in the tub, rated for 120V or 240V. | Heating water, [Fermentation Chamber](../../categories/fridge-and-cooling/092-fermentation-chamber.md) |
 | **Spray Arms** | Rotating water jets with precisely drilled nozzle holes. | Creative water display, parts washing |
 | **Solenoid Valves** | Water inlet valve — same as washing machine, 120V solenoid-operated. | Automated water control |
 | **Float Switch** | Mechanical water level sensor. | Water level detection, overflow protection |
-| **Stainless Steel Tub** | The inner tub is a large, corrosion-resistant stainless steel basin. | Container for chemical baths, [Electroplating Station](../categories/chemical-electronic/156-electroplating-station.md) |
+| **Stainless Steel Tub** | The inner tub is a large, corrosion-resistant stainless steel basin. | Container for chemical baths, [Electroplating Station](../../categories/chemical-electronic/156-electroplating-station.md) |
 
 ### Teardown Safety
 
@@ -179,10 +179,10 @@ Vacuum cleaners contain high-speed motors and air-handling components perfect fo
 
 | Part | What It Is | Builds That Use It |
 |---|---|---|
-| **Motor** | High-RPM universal motor (15,000-30,000 RPM). Incredibly powerful for its size. Produces both suction and blowing. | [Vacuum Hovercraft](../categories/vacuum-cleaner/075-vacuum-hovercraft.md), [Wall-Climbing Robot](../categories/vacuum-cleaner/076-wall-climbing-robot.md), [Vacuum Leaf Blower](../categories/vacuum-cleaner/078-vacuum-leaf-blower.md) |
-| **Impeller/Fan** | High-speed centrifugal fan. Moves a lot of air. | [Cyclone Dust Separator](../categories/vacuum-cleaner/077-cyclone-dust-separator.md), airflow builds |
+| **Motor** | High-RPM universal motor (15,000-30,000 RPM). Incredibly powerful for its size. Produces both suction and blowing. | [Vacuum Hovercraft](../../categories/vacuum-cleaner/075-vacuum-hovercraft.md), [Wall-Climbing Robot](../../categories/vacuum-cleaner/076-wall-climbing-robot.md), [Vacuum Leaf Blower](../../categories/vacuum-cleaner/078-vacuum-leaf-blower.md) |
+| **Impeller/Fan** | High-speed centrifugal fan. Moves a lot of air. | [Cyclone Dust Separator](../../categories/vacuum-cleaner/077-cyclone-dust-separator.md), airflow builds |
 | **Hose** | Flexible, crush-resistant tubing. | Ducting for fog, air, or wiring |
-| **HEPA Filter** | Fine particulate filter. | Filtration for workshop, [Fume extraction](../categories/chemical-electronic/158-pcb-etching-station.md) |
+| **HEPA Filter** | Fine particulate filter. | Filtration for workshop, [Fume extraction](../../categories/chemical-electronic/158-pcb-etching-station.md) |
 | **Brush Roller** | Motorized spinning brush with belt drive. | Conveyor belt ideas, cleaning mechanisms |
 | **Power Switch** | Heavy-duty rocker or trigger switch rated for motor current (10-15A). | High-current switching |
 
@@ -207,12 +207,12 @@ Printers and scanners are gold mines for precision motion components — stepper
 
 | Part | What It Is | Builds That Use It |
 |---|---|---|
-| **Stepper Motors** | Precision motors that rotate in discrete steps. Usually NEMA 17-equivalent. Printers typically have 2-4 of them. | [Printer Stepper CNC](../categories/printer-and-scanner/069-printer-stepper-cnc.md), [Pen Plotter](../categories/printer-and-scanner/072-pen-plotter.md), [MIDI Stepper Organ](../categories/pi-and-arduino/135-midi-stepper-organ.md), [Printer Robot Arm](../categories/pi-and-arduino/129-printer-robot-arm.md) |
-| **Linear Rails / Guide Rods** | Precision-ground steel rods that the print head rides on. Smooth, straight, and hard to buy this quality cheaply. | CNC builds, [Printer Stepper CNC](../categories/printer-and-scanner/069-printer-stepper-cnc.md), linear motion projects |
+| **Stepper Motors** | Precision motors that rotate in discrete steps. Usually NEMA 17-equivalent. Printers typically have 2-4 of them. | [Printer Stepper CNC](../../categories/printer-and-scanner/069-printer-stepper-cnc.md), [Pen Plotter](../../categories/printer-and-scanner/072-pen-plotter.md), [MIDI Stepper Organ](../../categories/pi-and-arduino/135-midi-stepper-organ.md), [Printer Robot Arm](../../categories/pi-and-arduino/129-printer-robot-arm.md) |
+| **Linear Rails / Guide Rods** | Precision-ground steel rods that the print head rides on. Smooth, straight, and hard to buy this quality cheaply. | CNC builds, [Printer Stepper CNC](../../categories/printer-and-scanner/069-printer-stepper-cnc.md), linear motion projects |
 | **Timing Belts and Pulleys** | GT2-style toothed belts and pulleys for zero-backlash linear motion. | All CNC and precision motion builds |
 | **Optical Sensors** | Photointerruptors (slot sensors) used for position homing. | Position sensing, counting, CNC homing |
-| **Laser Diode** (from laser printers/DVD drives) | Infrared or red laser diodes. DVD burner diodes are powerful enough for engraving. | [DVD Laser Engraver](../categories/printer-and-scanner/071-dvd-laser-engraver.md) |
-| **Scanner CCD/CIS Sensor** | Linear image sensor with LED light bar. | [Scanner Camera](../categories/printer-and-scanner/070-scanner-camera.md), [DIY 3D Scanner](../categories/printer-and-scanner/074-diy-3d-scanner.md) |
+| **Laser Diode** (from laser printers/DVD drives) | Infrared or red laser diodes. DVD burner diodes are powerful enough for engraving. | [DVD Laser Engraver](../../categories/printer-and-scanner/071-dvd-laser-engraver.md) |
+| **Scanner CCD/CIS Sensor** | Linear image sensor with LED light bar. | [Scanner Camera](../../categories/printer-and-scanner/070-scanner-camera.md), [DIY 3D Scanner](../../categories/printer-and-scanner/074-diy-3d-scanner.md) |
 | **Power Supply Board** | Regulated power supply (5V, 12V, 24V, sometimes 36V). | Powering any project |
 
 ### Teardown Safety
@@ -237,7 +237,7 @@ CRT TVs are mostly obsolete, but they contain some unique high-voltage component
 
 | Part | What It Is | Builds That Use It |
 |---|---|---|
-| **Flyback Transformer** | Generates 10,000-30,000V for the electron gun. The most potent high-voltage source you'll find in consumer electronics. | High-voltage experiments, [Jacob's Ladder](../categories/mad-scientist/034-jacobs-ladder.md), plasma projects |
+| **Flyback Transformer** | Generates 10,000-30,000V for the electron gun. The most potent high-voltage source you'll find in consumer electronics. | High-voltage experiments, [Jacob's Ladder](../../categories/mad-scientist/034-jacobs-ladder.md), plasma projects |
 | **Electron Gun** | Precision assembly at the neck of the CRT. Mostly a curiosity. | Display/art only |
 | **Phosphor Screen** | The front of the CRT is coated with phosphor compounds that glow when struck by electrons. | UV/blacklight demonstrations |
 | **Deflection Yoke** | Electromagnetic coils that steer the electron beam. Strong, precisely wound coils. | Electromagnet projects, coil experiments |
@@ -268,14 +268,14 @@ Dead laptops are one of the densest sources of useful components — screens, ba
 
 | Part | What It Is | Builds That Use It |
 |---|---|---|
-| **LCD/LED Screen** | 13-17" LCD panel, often 1080p IPS. The screen outlives the laptop 99% of the time. | [Laptop Screen Monitor](../categories/computer-and-phone/061-laptop-screen-monitor.md), [Laptop Screen Light Table](../categories/computer-and-phone/062-laptop-screen-light-table.md), [Smart Mirror](../categories/pi-and-arduino/123-smart-mirror.md) |
-| **Controller Board Connection** | Write down the panel model number (on the back label) — you'll need it to buy the matching LVDS/eDP controller board. | [Laptop Screen Monitor](../categories/computer-and-phone/061-laptop-screen-monitor.md) |
-| **18650 Battery Cells** | Laptop battery packs contain 3-9 lithium 18650 cells. Many are still usable even when the pack is "dead" (one bad cell kills the pack). | [Laptop Battery Power Bank](../categories/computer-and-phone/067-laptop-battery-power-bank.md), [Electric Skateboard](../categories/scooter-and-motor/088-electric-skateboard.md), battery pack projects |
+| **LCD/LED Screen** | 13-17" LCD panel, often 1080p IPS. The screen outlives the laptop 99% of the time. | [Laptop Screen Monitor](../../categories/computer-and-phone/061-laptop-screen-monitor.md), [Laptop Screen Light Table](../../categories/computer-and-phone/062-laptop-screen-light-table.md), [Smart Mirror](../../categories/pi-and-arduino/123-smart-mirror.md) |
+| **Controller Board Connection** | Write down the panel model number (on the back label) — you'll need it to buy the matching LVDS/eDP controller board. | [Laptop Screen Monitor](../../categories/computer-and-phone/061-laptop-screen-monitor.md) |
+| **18650 Battery Cells** | Laptop battery packs contain 3-9 lithium 18650 cells. Many are still usable even when the pack is "dead" (one bad cell kills the pack). | [Laptop Battery Power Bank](../../categories/computer-and-phone/067-laptop-battery-power-bank.md), [Electric Skateboard](../../categories/scooter-and-motor/088-electric-skateboard.md), battery pack projects |
 | **Keyboard** | USB or PS/2 keyboard with full key matrix. | USB keyboard conversion, art projects |
-| **Webcam** | Small USB camera module with microphone. | [ESP32-CAM Security](../categories/pi-and-arduino/128-esp32-cam-security.md), surveillance builds |
+| **Webcam** | Small USB camera module with microphone. | [ESP32-CAM Security](../../categories/pi-and-arduino/128-esp32-cam-security.md), surveillance builds |
 | **Speakers** | Small, thin speakers — low power but functional. | Audio projects, notification sounds |
 | **WiFi Card** | Mini PCIe or M.2 WiFi/Bluetooth module. | Network projects (with compatible hardware) |
-| **Hard Drive / SSD** | Storage drive — may still work. SSDs especially tend to outlive their laptops. | Data storage, [Hard Drive Speaker](../categories/computer-and-phone/056-hard-drive-speaker.md) (HDD only) |
+| **Hard Drive / SSD** | Storage drive — may still work. SSDs especially tend to outlive their laptops. | Data storage, [Hard Drive Speaker](../../categories/computer-and-phone/056-hard-drive-speaker.md) (HDD only) |
 | **Cooling Fan** | Small, quiet 5V DC fan. | Cooling for any small build |
 
 ### Teardown Safety
@@ -300,9 +300,9 @@ Phones and tablets are packed with sensors, cameras, and displays in an incredib
 
 | Part | What It Is | Builds That Use It |
 |---|---|---|
-| **Sensors** | Accelerometer, gyroscope, magnetometer, barometer, proximity sensor, ambient light sensor — all on one device. | [Phone Sensor Network](../categories/computer-and-phone/064-phone-sensor-network.md), [Earthquake Detector](../categories/python-projects/146-earthquake-detector.md) |
-| **Camera** | Front and rear cameras — often 8-48 MP. The rear camera usually has autofocus and LED flash. | [Phone Macro Photography](../categories/computer-and-phone/063-phone-macro-photography.md), [Phone IR Camera](../categories/computer-and-phone/066-phone-ir-camera.md) |
-| **Touchscreen / Display** | High-resolution display with touch digitizer. Difficult to reuse without the phone's controller, but the whole phone can serve as a display. | [Tablet AI Picture Frame](../categories/computer-and-phone/065-tablet-ai-picture-frame.md) |
+| **Sensors** | Accelerometer, gyroscope, magnetometer, barometer, proximity sensor, ambient light sensor — all on one device. | [Phone Sensor Network](../../categories/computer-and-phone/064-phone-sensor-network.md), [Earthquake Detector](../../categories/python-projects/146-earthquake-detector.md) |
+| **Camera** | Front and rear cameras — often 8-48 MP. The rear camera usually has autofocus and LED flash. | [Phone Macro Photography](../../categories/computer-and-phone/063-phone-macro-photography.md), [Phone IR Camera](../../categories/computer-and-phone/066-phone-ir-camera.md) |
+| **Touchscreen / Display** | High-resolution display with touch digitizer. Difficult to reuse without the phone's controller, but the whole phone can serve as a display. | [Tablet AI Picture Frame](../../categories/computer-and-phone/065-tablet-ai-picture-frame.md) |
 | **Battery** | Lithium polymer (LiPo) cell, 3.7V. Thin, flat, and energy-dense. | Small battery projects (with proper protection circuits) |
 | **Speakers** | Tiny but high-quality speakers optimized for voice and music in a small enclosure. | Small audio projects |
 | **Vibration Motor** | Tiny eccentric rotating mass (ERM) or linear resonant actuator (LRA). | Haptic feedback, vibration alerts |
@@ -330,9 +330,9 @@ Dead electric scooters and hoverboards are the best source of high-power brushle
 
 | Part | What It Is | Builds That Use It |
 |---|---|---|
-| **BLDC Hub Motor** | Brushless DC motor built into the wheel. 250-500W typical. High torque, low RPM, long-lasting. | [Electric Skateboard](../categories/scooter-and-motor/088-electric-skateboard.md), [Motorized Camera Slider](../categories/scooter-and-motor/089-motorized-camera-slider.md), [Electric Winch](../categories/scooter-and-motor/090-electric-winch.md), [Wind Phone Charger](../categories/scooter-and-motor/091-wind-phone-charger.md) |
-| **ESC (Electronic Speed Controller)** | Controller board that drives the BLDC motor. Handles regenerative braking, speed control, and motor commutation. | [Electric Skateboard](../categories/scooter-and-motor/088-electric-skateboard.md), motor control projects |
-| **Battery Pack** | 36V lithium-ion pack (10S configuration), typically 4-6 Ah. Contains 18650 or pouch cells with a BMS. | [Electric Skateboard](../categories/scooter-and-motor/088-electric-skateboard.md), power source for any high-voltage DC build |
+| **BLDC Hub Motor** | Brushless DC motor built into the wheel. 250-500W typical. High torque, low RPM, long-lasting. | [Electric Skateboard](../../categories/scooter-and-motor/088-electric-skateboard.md), [Motorized Camera Slider](../../categories/scooter-and-motor/089-motorized-camera-slider.md), [Electric Winch](../../categories/scooter-and-motor/090-electric-winch.md), [Wind Phone Charger](../../categories/scooter-and-motor/091-wind-phone-charger.md) |
+| **ESC (Electronic Speed Controller)** | Controller board that drives the BLDC motor. Handles regenerative braking, speed control, and motor commutation. | [Electric Skateboard](../../categories/scooter-and-motor/088-electric-skateboard.md), motor control projects |
+| **Battery Pack** | 36V lithium-ion pack (10S configuration), typically 4-6 Ah. Contains 18650 or pouch cells with a BMS. | [Electric Skateboard](../../categories/scooter-and-motor/088-electric-skateboard.md), power source for any high-voltage DC build |
 | **Throttle** | Thumb or twist throttle with hall-effect sensor. Outputs 0-5V proportional to position. | Speed control input for motor projects |
 | **Brake Lever** | Mechanical or electronic brake lever with cutoff switch. | Safety cutoff for motor builds |
 | **LED Lights** | Front/rear LED assemblies with drivers. | Lighting for any project |
@@ -361,7 +361,7 @@ Ultrasonic humidifiers contain one of the most interesting components in all of 
 
 | Part | What It Is | Builds That Use It |
 |---|---|---|
-| **Ultrasonic Transducer Disc** | Piezoelectric disc that vibrates at 1.7 MHz, atomizing water into cold fog. Tiny, cheap, and produces an impressive volume of mist. | [Ultrasonic Fog Machine](../categories/humidifier-and-water/084-ultrasonic-fog-machine.md), [Ultrasonic Parts Cleaner](../categories/humidifier-and-water/085-ultrasonic-parts-cleaner.md), [Fog Waterfall Table](../categories/humidifier-and-water/086-fog-waterfall-table.md), [Nebula Lamp](../categories/humidifier-and-water/087-nebula-lamp.md) |
+| **Ultrasonic Transducer Disc** | Piezoelectric disc that vibrates at 1.7 MHz, atomizing water into cold fog. Tiny, cheap, and produces an impressive volume of mist. | [Ultrasonic Fog Machine](../../categories/humidifier-and-water/084-ultrasonic-fog-machine.md), [Ultrasonic Parts Cleaner](../../categories/humidifier-and-water/085-ultrasonic-parts-cleaner.md), [Fog Waterfall Table](../../categories/humidifier-and-water/086-fog-waterfall-table.md), [Nebula Lamp](../../categories/humidifier-and-water/087-nebula-lamp.md) |
 | **Driver Circuit Board** | Electronics that drive the transducer at the correct frequency. Usually includes power regulation. | Paired with the transducer in all builds above |
 | **Fan** | Small DC fan (often 5V or 12V) that pushes mist out of the unit. | Small ventilation/airflow |
 | **Water Tank** | Plastic reservoir, often translucent. | Water container for builds |
@@ -388,11 +388,11 @@ Dead or damaged power tools contain motors, gears, chucks, and switches that are
 
 | Part | What It Is | Builds That Use It |
 |---|---|---|
-| **Motors** | DC motors (cordless tools) or universal motors (corded tools). Usually powerful relative to their size. | [Angle Grinder Forge Blower](../categories/power-tools-remixed/079-angle-grinder-forge-blower.md), [Sawzall Power Hammer](../categories/power-tools-remixed/081-sawzall-power-hammer.md), [Router CNC Spindle](../categories/power-tools-remixed/083-router-cnc-spindle.md) |
-| **Chucks and Collets** | Precision tool-holding mechanisms. Drill chucks are especially useful. | [Hand Drill Press](../categories/power-tools-remixed/080-hand-drill-press.md), any build needing to hold a rotating tool |
-| **Gearboxes** | Planetary or spur gear assemblies for speed/torque conversion. | Mechanical power transmission, [Motorized Camera Slider](../categories/scooter-and-motor/089-motorized-camera-slider.md) |
+| **Motors** | DC motors (cordless tools) or universal motors (corded tools). Usually powerful relative to their size. | [Angle Grinder Forge Blower](../../categories/power-tools-remixed/079-angle-grinder-forge-blower.md), [Sawzall Power Hammer](../../categories/power-tools-remixed/081-sawzall-power-hammer.md), [Router CNC Spindle](../../categories/power-tools-remixed/083-router-cnc-spindle.md) |
+| **Chucks and Collets** | Precision tool-holding mechanisms. Drill chucks are especially useful. | [Hand Drill Press](../../categories/power-tools-remixed/080-hand-drill-press.md), any build needing to hold a rotating tool |
+| **Gearboxes** | Planetary or spur gear assemblies for speed/torque conversion. | Mechanical power transmission, [Motorized Camera Slider](../../categories/scooter-and-motor/089-motorized-camera-slider.md) |
 | **Trigger Switches** | Variable-speed trigger switches rated for high current (15-20A). | Speed control for motor builds |
-| **Battery Packs** (cordless tools) | 12V-20V lithium-ion packs with high discharge ratings. | Power source for portable builds, [Laptop Battery Power Bank](../categories/computer-and-phone/067-laptop-battery-power-bank.md) |
+| **Battery Packs** (cordless tools) | 12V-20V lithium-ion packs with high discharge ratings. | Power source for portable builds, [Laptop Battery Power Bank](../../categories/computer-and-phone/067-laptop-battery-power-bank.md) |
 | **Brushes and Commutators** | Replacement-ready carbon brushes. | Maintaining salvaged universal motors |
 
 ### Teardown Safety

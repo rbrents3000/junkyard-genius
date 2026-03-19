@@ -6,7 +6,7 @@ description: "Your old phone is already packed with accelerometers, gyroscopes, 
 # Android Apps for Builds
 
 <p align="center">
-  <img src="../images/reference/android.jpg" alt="Android Apps" width="700" />
+  <img src="../../images/reference/android.jpg" alt="Android Apps" width="700" />
 </p>
 
 > Your old phone is already packed with accelerometers, gyroscopes, magnetometers, barometers, cameras, and microphones. These apps unlock them for builds.
@@ -31,8 +31,8 @@ A phone you already own (or a $30 used phone from eBay) has more sensors than mo
 - Pendulum period analysis
 
 **Used in builds:**
-- [Phone Sensor Network](../categories/computer-and-phone/064-phone-sensor-network.md) — multi-phone sensor logging
-- [Earthquake Detector](../categories/python-projects/146-earthquake-detector.md) — accelerometer data capture
+- [Phone Sensor Network](../../categories/computer-and-phone/064-phone-sensor-network.md) — multi-phone sensor logging
+- [Earthquake Detector](../../categories/python-projects/146-earthquake-detector.md) — accelerometer data capture
 - Calibration and testing across many builds
 
 **Free/Paid:** Completely free, no ads, open source.
@@ -53,9 +53,9 @@ A phone you already own (or a $30 used phone from eBay) has more sensors than mo
 - Waterfall display mode
 
 **Used in builds:**
-- [Arduino Guitar Pedal](../categories/pi-and-arduino/124-arduino-guitar-pedal.md) — verifying audio effects
-- [MIDI Stepper Organ](../categories/pi-and-arduino/135-midi-stepper-organ.md) — tuning stepper frequencies
-- [Hard Drive Speaker](../categories/computer-and-phone/056-hard-drive-speaker.md) — testing frequency response
+- [Arduino Guitar Pedal](../../categories/pi-and-arduino/124-arduino-guitar-pedal.md) — verifying audio effects
+- [MIDI Stepper Organ](../../categories/pi-and-arduino/135-midi-stepper-organ.md) — tuning stepper frequencies
+- [Hard Drive Speaker](../../categories/computer-and-phone/056-hard-drive-speaker.md) — testing frequency response
 - Any build that produces or modifies sound
 
 **Free/Paid:** Free, with ads. No paid version needed — the free version is fully functional.
@@ -78,8 +78,8 @@ A phone you already own (or a $30 used phone from eBay) has more sensors than mo
 - Stroboscope function
 
 **Used in builds:**
-- [Phone Sensor Network](../categories/computer-and-phone/064-phone-sensor-network.md) — data logging
-- [Earthquake Detector](../categories/python-projects/146-earthquake-detector.md) — vibration recording
+- [Phone Sensor Network](../../categories/computer-and-phone/064-phone-sensor-network.md) — data logging
+- [Earthquake Detector](../../categories/python-projects/146-earthquake-detector.md) — vibration recording
 - Testing and calibration across builds
 
 **Free/Paid:** Free version available. Pro version ($2.99) removes ads and adds multi-sensor simultaneous recording.
@@ -100,7 +100,7 @@ A phone you already own (or a $30 used phone from eBay) has more sensors than mo
 - dB scale with adjustable range
 
 **Used in builds:**
-- [Plasma Speaker](../categories/sound-and-music/) — verifying audio reproduction quality
+- [Plasma Speaker](../../categories/sound-and-music/) — verifying audio reproduction quality
 - Audio testing for any build with speakers or microphones
 - Finding resonant frequencies of mechanical structures
 
@@ -125,10 +125,10 @@ A phone you already own (or a $30 used phone from eBay) has more sensors than mo
 - Sensor data overlay (accelerometer, GPS) on video
 
 **Used in builds:**
-- [Face Tracking Laser](../categories/python-projects/141-face-tracking-laser.md) — video source for OpenCV (alternative to USB webcam)
-- [AI Photo Booth](../categories/python-projects/143-ai-photo-booth.md) — camera source
-- [AI Doorbell](../categories/pi-and-arduino/130-ai-doorbell.md) — camera feed
-- [ESP32-CAM Security](../categories/pi-and-arduino/128-esp32-cam-security.md) — alternative/additional camera
+- [Face Tracking Laser](../../categories/python-projects/141-face-tracking-laser.md) — video source for OpenCV (alternative to USB webcam)
+- [AI Photo Booth](../../categories/python-projects/143-ai-photo-booth.md) — camera source
+- [AI Doorbell](../../categories/pi-and-arduino/130-ai-doorbell.md) — camera feed
+- [ESP32-CAM Security](../../categories/pi-and-arduino/128-esp32-cam-security.md) — alternative/additional camera
 - Any build needing a wireless camera feed
 
 **Free/Paid:** Free version fully functional. Pro version ($3.99) adds features like cloud streaming and tasker integration.
@@ -163,7 +163,7 @@ while True:
 - Sensor specifications (range, resolution, power draw)
 
 **Used in builds:**
-- [EMF Ghost Detector](../categories/pi-and-arduino/140-emf-ghost-detector.md) — comparing phone magnetometer readings with Arduino EMF sensor
+- [EMF Ghost Detector](../../categories/pi-and-arduino/140-emf-ghost-detector.md) — comparing phone magnetometer readings with Arduino EMF sensor
 - Verifying sensor calibration and functionality
 - Quick magnetic field measurements (testing salvaged magnets)
 
@@ -186,9 +186,9 @@ while True:
 - Voice control mode — speech-to-text commands
 
 **Used in builds:**
-- [ESP32 Mesh Walkie-Talkie](../categories/pi-and-arduino/125-esp32-mesh-walkie-talkie.md) — configuration interface
-- [Nerf Sentry Turret](../categories/pi-and-arduino/138-nerf-sentry-turret.md) — manual override control
-- [Electric Skateboard](../categories/scooter-and-motor/088-electric-skateboard.md) — configuration and diagnostics
+- [ESP32 Mesh Walkie-Talkie](../../categories/pi-and-arduino/125-esp32-mesh-walkie-talkie.md) — configuration interface
+- [Nerf Sentry Turret](../../categories/pi-and-arduino/138-nerf-sentry-turret.md) — manual override control
+- [Electric Skateboard](../../categories/scooter-and-motor/088-electric-skateboard.md) — configuration and diagnostics
 - Any Arduino/ESP32 build needing wireless control
 
 **Free/Paid:** Free version supports basic modes. Pro version ($1.99) adds more buttons and features.

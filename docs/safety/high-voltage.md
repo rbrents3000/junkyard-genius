@@ -1,7 +1,7 @@
 # High Voltage Safety
 
 <p align="center">
-  <img src="../images/safety/high-voltage.jpg" alt="High Voltage Safety" width="700" />
+  <img src="../../images/safety/high-voltage.jpg" alt="High Voltage Safety" width="700" />
 </p>
 
 > Electricity doesn't give warnings. It doesn't care how careful you think you are. It kills in a fraction of a second.
@@ -98,17 +98,17 @@ This is not a joke. This is standard practice in electrical engineering labs, po
 
 | Build | Voltage Range | Current | Lethality | Source |
 |---|---|---|---|---|
-| [Plasma Tornado Lamp](../categories/fire-and-plasma/001-plasma-tornado-lamp.md) | ~2,000V AC | 500mA+ | **LETHAL** | MOT secondary |
-| [Lichtenberg Wood Burner](../categories/fire-and-plasma/002-lichtenberg-wood-burner.md) | ~2,000V AC | 500mA+ | **LETHAL** | MOT secondary |
-| [Atmospheric Reentry Simulator](../categories/fire-and-plasma/006-atmospheric-reentry-simulator.md) | ~2,000V AC | 500mA+ | **LETHAL** | MOT secondary |
-| [Musical Tesla Coil](../categories/mad-scientist/033-musical-tesla-coil.md) | 100,000V+ | Low (RF) | Dangerous | Resonant transformer |
-| [Jacob's Ladder](../categories/mad-scientist/034-jacobs-ladder.md) | 10,000-15,000V | Moderate | **LETHAL** | Neon sign transformer / MOT |
-| [Electromagnetic Can Crusher](../categories/mad-scientist/035-electromagnetic-can-crusher.md) | 400-1,000V DC | Extremely high (capacitor bank) | **LETHAL** | Capacitor bank |
-| [Rail Gun](../categories/mad-scientist/036-rail-gun.md) | 400-1,000V DC | Extremely high (capacitor bank) | **LETHAL** | Capacitor bank |
-| [Coil Gun](../categories/mad-scientist/037-coil-gun.md) | 200-450V DC | High (capacitor bank) | **LETHAL** | Capacitor bank |
-| [DIY Neon Sign](../categories/chemical-electronic/166-diy-neon-sign.md) | 2,000-15,000V | Low | Dangerous | Neon sign transformer |
-| [Vacuum Tube Amp](../categories/chemical-electronic/169-vacuum-tube-amp.md) | 200-400V DC | Low | Dangerous | Power supply |
-| [Ozone Generator](../categories/chemical-electronic/167-ozone-generator.md) | 5,000-15,000V | Very low | Dangerous | HV module |
+| [Plasma Tornado Lamp](../../categories/fire-and-plasma/001-plasma-tornado-lamp.md) | ~2,000V AC | 500mA+ | **LETHAL** | MOT secondary |
+| [Lichtenberg Wood Burner](../../categories/fire-and-plasma/002-lichtenberg-wood-burner.md) | ~2,000V AC | 500mA+ | **LETHAL** | MOT secondary |
+| [Atmospheric Reentry Simulator](../../categories/fire-and-plasma/006-atmospheric-reentry-simulator.md) | ~2,000V AC | 500mA+ | **LETHAL** | MOT secondary |
+| [Musical Tesla Coil](../../categories/mad-scientist/033-musical-tesla-coil.md) | 100,000V+ | Low (RF) | Dangerous | Resonant transformer |
+| [Jacob's Ladder](../../categories/mad-scientist/034-jacobs-ladder.md) | 10,000-15,000V | Moderate | **LETHAL** | Neon sign transformer / MOT |
+| [Electromagnetic Can Crusher](../../categories/mad-scientist/035-electromagnetic-can-crusher.md) | 400-1,000V DC | Extremely high (capacitor bank) | **LETHAL** | Capacitor bank |
+| [Rail Gun](../../categories/mad-scientist/036-rail-gun.md) | 400-1,000V DC | Extremely high (capacitor bank) | **LETHAL** | Capacitor bank |
+| [Coil Gun](../../categories/mad-scientist/037-coil-gun.md) | 200-450V DC | High (capacitor bank) | **LETHAL** | Capacitor bank |
+| [DIY Neon Sign](../../categories/chemical-electronic/166-diy-neon-sign.md) | 2,000-15,000V | Low | Dangerous | Neon sign transformer |
+| [Vacuum Tube Amp](../../categories/chemical-electronic/169-vacuum-tube-amp.md) | 200-400V DC | Low | Dangerous | Power supply |
+| [Ozone Generator](../../categories/chemical-electronic/167-ozone-generator.md) | 5,000-15,000V | Very low | Dangerous | HV module |
 
 ---
 

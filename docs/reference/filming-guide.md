@@ -6,7 +6,7 @@ description: "Your build is only as good as the video you show people. A Tesla c
 # How to Film Your Builds
 
 <p align="center">
-  <img src="../images/reference/filming.jpg" alt="Filming Guide" width="700" />
+  <img src="../../images/reference/filming.jpg" alt="Filming Guide" width="700" />
 </p>
 
 > Your build is only as good as the video you show people. A Tesla coil playing music in a dark garage is a masterpiece. A Tesla coil filmed in portrait mode under fluorescent lights is a blurry mess that gets 12 views.
