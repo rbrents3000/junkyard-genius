@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A Stirling engine converts heat differences into mechanical motion — no combustion, no fuel injection, no explosions. You heat one end and cool the other, and the expanding/contracting air drives a piston back and forth. Robert Stirling patented this in 1816, and the beautiful thing is you can build a working version from literal garbage.
 
 This build uses two soda cans as the hot and cold chambers, a balloon membrane as the power piston, and steel wool as the regenerator (the part that makes Stirling engines efficient). Light a candle under the hot end and the engine spins a flywheel entirely on temperature differential. It's thermodynamics you can hold in your hand.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 2 aluminum soda cans *(source: recycling bin)*
 - [ ] 1 latex balloon *(source: dollar store)*
@@ -30,7 +29,9 @@ This build uses two soda cans as the hot and cold chambers, a balloon membrane a
 - [ ] 2 small bearings or brass tubing for crankshaft supports *(source: dead hard drive or hobby shop)*
 - [ ] Scrap wood for the base *(source: scrap pile)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the hot cylinder.** Cut the top off one soda can cleanly using a sharp knife or rotary tool. This becomes the hot-side cylinder where the displacer piston will move. Sand any sharp edges.
 
@@ -50,12 +51,13 @@ This build uses two soda cans as the hot and cold chambers, a balloon membrane a
 
 9. **Test run.** Light the candle under the hot end. Wait 30-60 seconds for the temperature differential to build. Give the flywheel a gentle spin to start the engine. If it doesn't sustain, check for air leaks, reduce friction on the crankshaft, or adjust linkage lengths.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Open flame.** You're using a candle directly under a metal can. Keep flammable materials away from the setup and never leave it running unattended.
+> [!WARNING]
+> **Open flame.** You're using a candle directly under a metal can. Keep flammable materials away from the setup and never leave it running unattended.
 - **Hot metal.** The bottom of the hot cylinder will get very hot. Don't touch it during or immediately after operation. Use the wooden base as a handle.
 
-## See Also
+## 🔗 See Also
 
 - [Curie Engine](189-curie-engine.md) — another heat-powered motor, this one using magnetic phase transitions
 - [Musical Marble Machine](181-musical-marble-machine.md) — a much larger mechanical build if you want to level up

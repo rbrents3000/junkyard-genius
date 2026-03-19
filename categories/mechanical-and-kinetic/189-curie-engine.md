@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A Curie engine exploits the Curie temperature — the point at which a ferromagnetic material loses its magnetism due to heat. A nickel wire or disc is partially heated by a candle. The heated section becomes non-magnetic and is no longer attracted to a nearby permanent magnet. The cool (still magnetic) section gets pulled toward the magnet, rotating the assembly. The formerly hot section cools down, becomes magnetic again, and the cycle continues — a self-sustaining heat engine powered by a phase transition.
 
 Pierre Curie described this temperature threshold in 1895, and it's one of those beautiful intersections of thermal physics and magnetism that most people have never heard of. The engine runs silently on a single candle with no moving electrical parts.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Nickel wire or thin nickel strip, 6-12 inches *(source: old nickel-plated items, or buy nickel wire online — ~$5)*
 - [ ] Strong permanent magnet (neodymium or ceramic) *(source: dead hard drive or speaker)*
@@ -28,7 +27,9 @@ Pierre Curie described this temperature threshold in 1895, and it's one of those
 - [ ] Support stand — wire frame or wooden blocks *(source: scrap materials)*
 - [ ] Optional: Canadian nickel coins (pre-1982, which are actually nickel) *(source: coin collection)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Understand the Curie temperature of nickel.** Nickel loses its ferromagnetism at 358 degrees C (676 degrees F). A candle flame reaches about 1,000 degrees C, so it's more than hot enough. The key is that only the section directly in the flame gets hot enough — the rest stays magnetic.
 
@@ -46,12 +47,13 @@ Pierre Curie described this temperature threshold in 1895, and it's one of those
 
 8. **Try the coin version.** Stack 3-4 pre-1982 Canadian nickels on a needle axle and set them up the same way. The coins have more thermal mass so they take longer to heat and cool, resulting in slower rotation but a very clean demo.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Open flame.** The candle is heating metal to over 350 degrees C. Keep flammable materials clear. The nickel rotor itself becomes hot enough to cause burns — don't touch it while running or immediately after.
+> [!WARNING]
+> **Open flame.** The candle is heating metal to over 350 degrees C. Keep flammable materials clear. The nickel rotor itself becomes hot enough to cause burns — don't touch it while running or immediately after.
 - **Heated nickel can discolor and become brittle.** After many cycles, the wire or disc at the heating point may develop heat oxidation. This is cosmetic but eventually weakens the material. Replace the rotor if it shows cracks.
 
-## See Also
+## 🔗 See Also
 
 - [Stirling Engine](182-stirling-engine.md) — another candle-powered engine using a completely different thermodynamic principle
 - [Eddy Current Brake](186-eddy-current-brake.md) — another intersection of magnetism and motion with surprising results

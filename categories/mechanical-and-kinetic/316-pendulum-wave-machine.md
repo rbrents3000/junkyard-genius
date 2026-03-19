@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 An array of 15 pendulums mounted side by side on a horizontal bar, each one slightly longer than the last. The lengths are calculated so that in exactly 60 seconds, the longest pendulum completes N swings and the shortest completes N+14 swings — each adjacent pendulum differs by exactly one oscillation per cycle. Release them all simultaneously from the same angle and watch: they start in perfect unison, then gradually separate into traveling waves, standing waves, pairs, trios, apparent randomness — and then, exactly 60 seconds later, snap back into perfect synchronization. The cycle repeats indefinitely. Zero electronics. Zero power source. Pure gravitational physics producing patterns that look choreographed by software.
 
@@ -20,7 +18,8 @@ The math is simple. A pendulum's period depends only on its length: T = 2pi * sq
 
 This is one of the most elegant physics demonstrations ever conceived, and it costs almost nothing to build. Fishing line and hex nuts on a wooden frame. Restaurant-worthy visual elegance from hardware-store components. The precision is in the math and the measurement, not the materials. Get the lengths right and the physics does everything else.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Wooden or aluminum frame — horizontal top bar about 30" long, supported by two sturdy vertical sides, 18-24" tall *(scrap lumber, old shelf, or hardware store, ~$5-10)*
 - [ ] 15 identical weights — steel hex nuts, ball bearings, or fishing sinkers, all the same mass *(hardware store, ~$3)*
@@ -32,7 +31,9 @@ This is one of the most elegant physics demonstrations ever conceived, and it co
 - [ ] Hot glue or thread lock compound — to secure knots and prevent slippage *(workshop, ~$2)*
 - [ ] Fine-tipped marker — for marking cord lengths *(already own)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Calculate pendulum lengths.** Decide on a total cycle time (60 seconds is standard). Choose the number of swings for the longest pendulum — say, 51 swings in 60 seconds. The shortest pendulum (#15) will complete 65 swings in 60 seconds (51 + 14). For each pendulum, calculate the period (T = 60/N where N is the number of swings), then solve for length: L = g * (T / 2pi)^2, where g = 9.81 m/s^2. This gives you 15 specific lengths. For a table-sized version, you can scale down — a common range is approximately 25-40 cm. Use a spreadsheet to compute all 15 lengths to the millimeter.
 
@@ -50,13 +51,13 @@ This is one of the most elegant physics demonstrations ever conceived, and it co
 
 8. **Fine-tune stragglers.** After the first 60-second cycle, check whether all pendulums return to synchronization at the same moment. Any pendulum that's early or late needs its cord adjusted by fractions of a millimeter. This fine-tuning may take several iterations. Once calibrated, the machine will repeat perfectly for hundreds of cycles, limited only by air resistance gradually damping the amplitudes.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Minimal danger overall. Swinging weights can hit fingers during setup — keep hands clear of the swing path during operation.
 - The frame must be stable. A top-heavy frame with 15 swinging weights can tip over, especially if it's tall and narrow. Use a wide base, bolt it to a table, or add ballast to the bottom.
 - Fishing line under tension can snap and whip. Use line rated well above the weight of your pendulum bobs. Inspect for fraying periodically.
 
-## See Also
+## 🔗 See Also
 
 - [Musical Marble Machine](181-musical-marble-machine.md)
 - [Magnetic Gear Train](188-magnetic-gear-train.md)

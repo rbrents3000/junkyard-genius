@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A counterweight trebuchet uses a heavy mass falling under gravity to whip a long arm around a pivot, slinging a projectile at the other end in a high arc. It's the most efficient pre-gunpowder siege weapon ever invented, and it's an absolute blast to build from scrap.
 
 This version uses a steel bed frame for the main structure, concrete-filled buckets for the counterweight, and a fabric sling for the projectile pouch. A well-built 6-foot arm trebuchet can throw a tennis ball 100+ feet or a water balloon across a field. Scale it up and you're at pumpkin-chunkin competition levels.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Steel bed frame (queen or king size for the base and uprights) *(source: curb, dumpster, or thrift store — free to $10)*
 - [ ] Steel pipe or thick wooden beam, 6-8 feet, for the throwing arm *(source: scrap yard or fence post)*
@@ -30,7 +29,9 @@ This version uses a steel bed frame for the main structure, concrete-filled buck
 - [ ] Bolts, U-bolts, and brackets for assembly *(source: hardware store)*
 - [ ] Tennis balls, water balloons, or small pumpkins for ammo *(source: obvious)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the A-frame base.** Cut and weld (or bolt) bed frame rails into two A-frame uprights, about 4 feet tall. Connect them at the top with a horizontal crossbar — this is where the throwing arm pivots. The base needs to be wide and heavy enough that the machine doesn't flip when the counterweight drops.
 
@@ -52,13 +53,14 @@ This version uses a steel bed frame for the main structure, concrete-filled buck
 
 10. **Tune for range.** Adjust counterweight mass, sling length, and release pin angle. Longer sling = higher speed but harder to control. More counterweight = more energy but more stress on the frame. Document each shot's settings so you can dial it in.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Projectile trajectory is unpredictable during tuning.** Until the release angle is dialed in, projectiles can go sideways, straight up, or backward. Clear a wide area (100+ feet in all directions) during test shots. Never stand in front of or beside the machine during firing.
+> [!WARNING]
+> **Projectile trajectory is unpredictable during tuning.** Until the release angle is dialed in, projectiles can go sideways, straight up, or backward. Clear a wide area (100+ feet in all directions) during test shots. Never stand in front of or beside the machine during firing.
 - **Counterweight drop zone.** The falling counterweight has enormous momentum. Keep hands, feet, and spectators away from the drop path. A finger caught under 100 lbs of concrete will not be a finger anymore.
 - **Structural failure.** On the first few firings, inspect all bolts and welds for stress. The forces involved are significant — a failing arm or axle becomes a projectile itself.
 
-## See Also
+## 🔗 See Also
 
 - [Hydraulic Robot Arm](183-hydraulic-robot-arm.md) — mechanical advantage on a smaller, gentler scale
 - [Backyard Water Slide](../big-builds/191-backyard-water-slide.md) — another big outdoor build for maximum weekend glory

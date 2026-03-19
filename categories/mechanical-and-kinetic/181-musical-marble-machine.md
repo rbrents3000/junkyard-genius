@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A hand-cranked or motor-driven mechanical instrument that lifts steel marbles to the top of a tower, then releases them down a series of ramps, channels, and switches where they strike tuned xylophone bars, bells, and drums to play actual music. Think of it as a giant music box where you can see every note happen.
 
 The magic is in the programming wheel — a large rotating cylinder with adjustable pegs that trigger marble releases at precise moments, turning the machine into a sequencer. Change the pegs, change the song. The whole thing runs on gravity and gears, no electronics required.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Steel ball bearings, 10-16mm diameter, at least 50 *(source: dead bearings from skateboards, bikes, or industrial surplus — ~$10 for a bag)*
 - [ ] Xylophone or glockenspiel bars, or cut aluminum/steel bar stock to length *(source: thrift store instrument or metal supplier)*
@@ -31,7 +30,9 @@ The magic is in the programming wheel — a large rotating cylinder with adjusta
 - [ ] Rubber tubing or silicone for marble guides *(source: hardware store or aquarium supply)*
 - [ ] Wood glue, epoxy, and assorted fasteners *(source: hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Design your scale.** Decide how many notes you want. A pentatonic scale (5 notes) is forgiving and sounds good no matter what. Cut or source your tone bars — each bar's pitch is determined by its length. Shorter = higher pitch. Use an online tuner to file bars to the right note.
 
@@ -53,13 +54,14 @@ The magic is in the programming wheel — a large rotating cylinder with adjusta
 
 10. **Tune and program.** Load a song by placing pegs in the programming wheel. Start simple — "Mary Had a Little Lamb" or a 4-bar loop. Crank the handle (or power the motor) and debug. You'll spend more time adjusting marble timing than anything else. That's normal.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Pinch hazard.** Gears, chains, and sprockets will grab fingers without hesitation. Keep hands clear of the drive mechanism while operating, and add a guard cover over exposed chain runs.
+> [!WARNING]
+> **Pinch hazard.** Gears, chains, and sprockets will grab fingers without hesitation. Keep hands clear of the drive mechanism while operating, and add a guard cover over exposed chain runs.
 - **Flying marbles.** During testing, marbles will occasionally launch off ramps at unexpected angles. Wear safety glasses until all the channels are dialed in.
 - **Heavy frame.** The completed machine can weigh 30+ pounds and is top-heavy. Bolt it to a table or add a wide base to prevent tipping.
 
-## See Also
+## 🔗 See Also
 
 - [Stirling Engine](182-stirling-engine.md) — another mechanical build powered by simple physics
 - [Magnetic Gear Train](188-magnetic-gear-train.md) — contactless gear meshing for when you want motion without friction

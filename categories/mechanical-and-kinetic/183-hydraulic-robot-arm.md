@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A multi-jointed robotic arm controlled entirely by hydraulic pressure from syringes connected by plastic tubing. Push one syringe, the paired syringe extends, and the arm moves. Each joint gets its own syringe pair, giving you independent control of rotation, lift, and grip — all with your fingers and water pressure.
 
 This is Pascal's law made tangible: pressure applied to a confined fluid transmits equally in all directions. By using different syringe sizes on each end of a line, you can even get mechanical advantage — a small syringe pushing a large one gives you force multiplication, just like a real hydraulic excavator.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 8 plastic syringes, mix of 10ml and 20ml *(source: pharmacy, pet supply store, or Amazon — ~$5 for a pack)*
 - [ ] Flexible vinyl tubing, 3-4 feet, sized to fit syringe tips *(source: aquarium supply or hardware store)*
@@ -29,7 +28,9 @@ This is Pascal's law made tangible: pressure applied to a confined fluid transmi
 - [ ] Scrap wood block for the base *(source: scrap pile)*
 - [ ] Water (tap water works; add food coloring to see flow) *(source: sink)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Plan your joints.** Decide how many degrees of freedom you want. A basic arm has 3: base rotation, elbow lift, and gripper open/close. Each joint needs one syringe pair. Four joints (add a shoulder) is the sweet spot for capability vs. complexity.
 
@@ -49,13 +50,14 @@ This is Pascal's law made tangible: pressure applied to a confined fluid transmi
 
 9. **Test and adjust.** Fill a cup with small objects (marbles, erasers, candy) and practice picking them up and moving them. If a joint is sluggish, check for air bubbles or tubing kinks. If a joint is too weak, upsize the syringe on the arm end (smaller control syringe pushing a bigger one = more force).
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Syringe tips.** If using syringes with needle adapters, remove and discard any needles immediately. The blunt luer-lock tips are all you need for tubing connections.
+> [!WARNING]
+> **Syringe tips.** If using syringes with needle adapters, remove and discard any needles immediately. The blunt luer-lock tips are all you need for tubing connections.
 - **Water leaks.** The system is low-pressure, but connections can pop loose and squirt water. Not dangerous, but keep electronics and papers away from the work area.
 - **Pinch points.** The gripper can pinch fingers if the hydraulic line is pressurized suddenly. Keep fingers clear of the jaws during operation.
 
-## See Also
+## 🔗 See Also
 
 - [Trebuchet](185-trebuchet.md) — mechanical advantage on a much larger and more violent scale
 - [Ball Bearing Motor](187-ball-bearing-motor.md) — the simplest possible motor if you want something that moves with zero complexity

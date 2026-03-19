@@ -8,17 +8,16 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A Prince Rupert's Drop is formed by dripping molten glass into cold water. The outside of the drop solidifies instantly while the inside is still molten. As the interior cools and contracts, it puts the outer shell under enormous compressive stress — the same principle that makes tempered glass strong. The bulbous head can withstand hammer strikes, hydraulic presses, even bullets. But snap the thin tail, and the entire drop explodes into powder in a millisecond as all that stored stress releases at once.
 
 These have been known since the 1600s (Prince Rupert of the Rhine brought them to the English court), and they're still one of the most dramatic demonstrations of internal stress in materials science. Filming the destruction in slow motion at 100,000+ fps reveals a fracture front propagating at nearly a mile per second.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Glass rods or broken glass pieces suitable for melting *(source: borosilicate rod from Amazon or craft store — $5-10, or soda-lime glass from broken bottles)*
 - [ ] Propane or MAPP gas torch *(source: hardware store, ~$15-30)*
@@ -29,7 +28,9 @@ These have been known since the 1600s (Prince Rupert of the Rhine brought them t
 - [ ] Hammer or vise for testing the head *(source: toolbox)*
 - [ ] Slow-motion camera or phone *(source: your phone — 240fps minimum)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Set up the water bath.** Fill a deep bucket or metal container with cold water. Room temperature works; ice water gives slightly better results. The container should be at least 12 inches deep so the molten glass has time to solidify into its tadpole shape during the fall.
 
@@ -47,13 +48,14 @@ These have been known since the 1600s (Prince Rupert of the Rhine brought them t
 
 8. **Iterate.** Make several drops. They vary in quality — some will have air bubbles or uneven cooling that weakens them. A good drop feels satisfying when you tap the head: a hard, ringing "click." A bad drop sounds dull and may break under light pressure.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Glass shrapnel is the primary hazard.** When a Prince Rupert's Drop explodes, it sends fine glass powder and small shards in all directions. Always wear safety glasses. Do the tail-breaking step inside a clear container or wrapped in a towel to contain fragments.
+> [!WARNING]
+> **Glass shrapnel is the primary hazard.** When a Prince Rupert's Drop explodes, it sends fine glass powder and small shards in all directions. Always wear safety glasses. Do the tail-breaking step inside a clear container or wrapped in a towel to contain fragments.
 - **Molten glass burns.** Glass at working temperature (800-1000 degrees C) will cause severe burns instantly. Never reach over the water bath when dropping glass. Use long tweezers and keep your face and arms out of the splash zone. Molten glass that hits water can splatter.
 - **Torch safety.** Use the torch outdoors or in a well-ventilated area on a fire-safe surface. Keep a fire extinguisher nearby. Never leave a lit torch unattended.
 
-## See Also
+## 🔗 See Also
 
 - [Chain Fountain](184-chain-fountain.md) — another jaw-dropping physics demo with minimal components
 - [Eddy Current Brake](186-eddy-current-brake.md) — counterintuitive physics you can hold in your hands

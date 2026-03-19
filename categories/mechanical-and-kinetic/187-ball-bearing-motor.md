@@ -8,24 +8,25 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 The ball bearing motor (also called a homopolar motor variant) is the absolute minimum viable electric motor. Stick a neodymium magnet to the bottom of a AA battery. Touch a ball bearing (or bent wire) to the top terminal so it also contacts the magnet. Current flows through the bearing, through the magnet's field, and the Lorentz force spins the whole assembly. That's it. Three components, 60 seconds, and you have a spinning motor.
 
 It's the perfect gateway build — zero tools required, impossible to mess up, and the "wait, HOW?" reaction from spectators is guaranteed. Once you understand why it works (current-carrying conductor in a magnetic field experiences a force), you understand the principle behind every electric motor ever made.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] AA battery (fresh, fully charged) *(source: junk drawer)*
 - [ ] Neodymium disc magnet, sized to match or slightly exceed battery diameter *(source: dead hard drive or Amazon — $3)*
 - [ ] Steel ball bearing, approximately 8-12mm diameter *(source: dead skateboard bearing, hardware store, or slingshot ammo)*
 - [ ] Optional: copper wire for a more stable contact version *(source: any stranded wire)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Attach the magnet.** Stick the neodymium magnet to the flat negative terminal of the AA battery. It should snap on firmly and hang there when you hold the battery positive-end-up. The magnet becomes both the south electrical contact and the magnetic field source.
 
@@ -41,12 +42,13 @@ It's the perfect gateway build — zero tools required, impossible to mess up, a
 
 7. **Explain the physics.** Current flows radially through the magnet. The magnetic field points axially (up/down through the magnet). A radial current in an axial field produces a tangential force (Lorentz force). That tangential force spins the magnet. Draw it out — it clicks once you see the three perpendicular vectors.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Battery heating.** This circuit draws high current and will drain and heat the battery quickly. Don't leave it running for more than a minute or two. If the battery gets hot to the touch, disconnect immediately.
+> [!WARNING]
+> **Battery heating.** This circuit draws high current and will drain and heat the battery quickly. Don't leave it running for more than a minute or two. If the battery gets hot to the touch, disconnect immediately.
 - **Neodymium magnets.** Strong magnets near batteries and metal objects can snap together violently. Keep fingers clear of pinch points.
 
-## See Also
+## 🔗 See Also
 
 - [Homopolar Motor](../weird-science/198-homopolar-motor.md) — the Weird Science take on this same principle with fancier builds
 - [Magnetic Gear Train](188-magnetic-gear-train.md) — magnets creating motion through a different mechanism
