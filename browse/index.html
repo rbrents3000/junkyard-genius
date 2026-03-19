@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Browse All Builds — Junkyard Genius</title>
+<meta name="description" content="Search, filter, and sort all 335 DIY builds from salvaged parts. Find your next project by category, difficulty, danger level, or junk source.">
+<meta property="og:title" content="Browse All Builds — Junkyard Genius">
+<meta property="og:description" content="335 DIY builds from salvaged junk. Search, filter, and sort to find your next project.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://rbrents3000.github.io/junkyard-genius/browse/">
+<meta property="og:image" content="https://rbrents3000.github.io/junkyard-genius/images/og-social.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Browse All Builds — Junkyard Genius">
+<meta name="twitter:description" content="335 DIY builds from salvaged junk. Search, filter, and sort to find your next project.">
+<meta name="twitter:image" content="https://rbrents3000.github.io/junkyard-genius/images/og-social.jpg">
+<link rel="icon" type="image/png" href="../favicon.png">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0a0a0f;--bg-subtle:#0f1016;
+  --card:#13141c;--card-hover:#191a24;--card-active:#1e1f2c;
+  --border:#1e2030;--border-hover:#2a2d42;
+  --text:#eaedf3;--text-dim:#7a7f93;--text-muted:#44475a;
+  --orange:#ff6b35;--orange-glow:rgba(255,107,53,0.12);
+  --blue:#5b9cf6;--red:#f06060;--purple:#9466ff;--green:#3dd68c;
+  --yellow:#f0c040;
+  --radius:16px;--radius-sm:10px;--radius-xs:6px;
+}
+html{font-size:16px;-webkit-text-size-adjust:100%}
+body{
+  background:var(--bg);color:var(--text);
+  font-family:'Inter',system-ui,-apple-system,sans-serif;
+  line-height:1.6;min-height:100vh;overflow-x:hidden;
+}
+body::before{
+  content:'';position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:
+    radial-gradient(ellipse 80% 50% at 50% -20%,rgba(255,107,53,0.06),transparent),
+    radial-gradient(ellipse 60% 40% at 80% 90%,rgba(148,102,255,0.04),transparent);
+}
+a{color:var(--orange);text-decoration:none}
+a:hover{text-decoration:underline}
+
+/* ── Header ── */
+.header{
+  position:sticky;top:0;z-index:100;
+  background:rgba(10,10,15,0.92);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
+  border-bottom:1px solid var(--border);padding:16px 24px;
+}
+.header-inner{
+  max-width:1100px;margin:0 auto;
+  display:flex;align-items:center;justify-content:space-between;gap:16px;
+}
+.header h1{font-size:1.2rem;font-weight:800;letter-spacing:-0.02em;white-space:nowrap}
+.header h1 .grad{
+  background:linear-gradient(135deg,var(--orange),var(--purple));
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+.header-links{display:flex;gap:16px;font-size:0.8rem;font-weight:600}
+.header-links a{color:var(--text-dim)}
+.header-links a:hover{color:var(--orange);text-decoration:none}
+
+/* ── Container ── */
+.container{
+  position:relative;z-index:1;
+  max-width:1100px;margin:0 auto;padding:24px;
+}
+
+/* ── Filters bar ── */
+.filters{
+  display:flex;flex-wrap:wrap;gap:12px;margin-bottom:20px;
+  align-items:center;
+}
+.search-box{
+  flex:1;min-width:200px;
+  background:var(--card);border:1.5px solid var(--border);border-radius:var(--radius-sm);
+  padding:12px 16px;color:var(--text);font-family:inherit;font-size:0.95rem;
+  transition:border-color 0.2s;
+}
+.search-box:focus{outline:none;border-color:var(--orange)}
+.search-box::placeholder{color:var(--text-muted)}
+
+select.filter-select{
+  background:var(--card);border:1.5px solid var(--border);border-radius:var(--radius-sm);
+  padding:12px 16px;color:var(--text);font-family:inherit;font-size:0.85rem;
+  cursor:pointer;transition:border-color 0.2s;appearance:none;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%237a7f93' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;background-position:right 12px center;
+  padding-right:32px;
+}
+select.filter-select:focus{outline:none;border-color:var(--orange)}
+
+/* ── Slider filters ── */
+.slider-group{
+  display:flex;align-items:center;gap:8px;
+  font-size:0.8rem;font-weight:600;color:var(--text-dim);white-space:nowrap;
+}
+.slider-group input[type="range"]{
+  width:80px;accent-color:var(--orange);cursor:pointer;
+}
+.slider-val{
+  width:16px;text-align:center;font-weight:700;color:var(--text);font-size:0.85rem;
+}
+
+/* ── Sort bar ── */
+.sort-bar{
+  display:flex;align-items:center;justify-content:space-between;
+  margin-bottom:16px;flex-wrap:wrap;gap:8px;
+}
+.result-count{font-size:0.85rem;color:var(--text-dim);font-weight:600}
+.sort-pills{display:flex;gap:6px;flex-wrap:wrap}
+.sort-pill{
+  padding:6px 14px;border-radius:20px;border:1px solid var(--border);
+  background:var(--card);color:var(--text-dim);font-size:0.72rem;font-weight:600;
+  cursor:pointer;transition:all 0.2s;letter-spacing:0.02em;text-transform:uppercase;
+  font-family:inherit;
+}
+.sort-pill:hover{border-color:var(--border-hover);color:var(--text)}
+.sort-pill.active{border-color:var(--orange);color:var(--orange);background:var(--orange-glow)}
+
+/* ── Build grid ── */
+.build-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
+  gap:12px;
+}
+
+/* ── Build card ── */
+.build-card{
+  background:var(--card);
+  border:1px solid var(--border);border-radius:var(--radius);
+  padding:20px 24px;
+  transition:all 0.2s ease;
+  cursor:pointer;
+  text-decoration:none;
+  display:block;color:inherit;
+}
+.build-card:hover{
+  border-color:var(--border-hover);
+  transform:translateY(-2px);
+  box-shadow:0 8px 32px rgba(0,0,0,0.25);
+  text-decoration:none;
+}
+
+.card-top{display:flex;align-items:center;gap:12px;margin-bottom:10px}
+.card-num{
+  font-size:0.75rem;font-weight:800;color:var(--orange);
+  background:var(--orange-glow);padding:4px 10px;border-radius:var(--radius-xs);
+  white-space:nowrap;
+}
+.card-name{font-size:1rem;font-weight:700;flex:1;line-height:1.3}
+
+.card-category{
+  display:inline-block;
+  background:var(--bg);border:1px solid var(--border);border-radius:20px;
+  padding:3px 12px;font-size:0.68rem;font-weight:600;color:var(--text-dim);
+  margin-bottom:12px;letter-spacing:0.02em;
+}
+
+.card-ratings{
+  display:grid;grid-template-columns:repeat(3,1fr);gap:6px 14px;
+}
+.rating-item{display:flex;align-items:center;gap:6px}
+.rating-label{
+  font-size:0.65rem;font-weight:600;color:var(--text-muted);
+  width:34px;text-transform:uppercase;letter-spacing:0.04em;
+}
+.rating-bar{
+  flex:1;height:5px;border-radius:3px;background:var(--border);overflow:hidden;
+}
+.rating-bar-fill{height:100%;border-radius:3px;transition:width 0.4s ease}
+.rating-bar-fill.jaw{background:var(--orange)}
+.rating-bar-fill.brain{background:var(--blue)}
+.rating-bar-fill.wallet{background:var(--green)}
+.rating-bar-fill.spicy{background:var(--red)}
+.rating-bar-fill.clout{background:var(--purple)}
+.rating-bar-fill.time{background:var(--text-muted)}
+.rating-val{font-size:0.65rem;font-weight:600;width:12px;text-align:right}
+.rating-val.jaw{color:var(--orange)}
+.rating-val.brain{color:var(--blue)}
+.rating-val.wallet{color:var(--green)}
+.rating-val.spicy{color:var(--red)}
+.rating-val.clout{color:var(--purple)}
+.rating-val.time{color:var(--text-muted)}
+
+/* ── No results ── */
+.no-results{
+  text-align:center;padding:80px 20px;
+}
+.no-results .icon{font-size:3rem;margin-bottom:16px}
+.no-results h3{font-size:1.3rem;font-weight:700;margin-bottom:8px}
+.no-results p{color:var(--text-dim);font-size:0.95rem}
+
+/* ── Footer ── */
+.browse-footer{
+  text-align:center;padding:40px 0 24px;font-size:0.75rem;color:var(--text-muted);
+}
+
+/* ── Mobile ── */
+@media(max-width:600px){
+  .header-inner{flex-direction:column;gap:8px}
+  .filters{flex-direction:column}
+  .search-box{min-width:100%}
+  .slider-group input[type="range"]{width:60px}
+  .build-grid{grid-template-columns:1fr}
+  .card-ratings{grid-template-columns:repeat(2,1fr)}
+  .sort-bar{flex-direction:column;align-items:flex-start}
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-inner">
+    <h1>&#128295; <span class="grad">Browse All Builds</span></h1>
+    <div class="header-links">
+      <a href="../">Home</a>
+      <a href="../quiz/">Quiz</a>
+      <a href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <!-- Filters -->
+  <div class="filters">
+    <input type="text" class="search-box" id="searchBox" placeholder="Search builds..." aria-label="Search builds by name">
+    <select class="filter-select" id="categoryFilter" aria-label="Filter by category">
+      <option value="">All Categories</option>
+    </select>
+    <select class="filter-select" id="junkFilter" aria-label="Filter by junk source">
+      <option value="">All Junk Sources</option>
+    </select>
+    <div class="slider-group">
+      <label for="brainMax">Brain &#8804;</label>
+      <input type="range" id="brainMax" min="1" max="5" value="5">
+      <span class="slider-val" id="brainVal">5</span>
+    </div>
+    <div class="slider-group">
+      <label for="spicyMax">Spicy &#8804;</label>
+      <input type="range" id="spicyMax" min="1" max="5" value="5">
+      <span class="slider-val" id="spicyVal">5</span>
+    </div>
+  </div>
+
+  <!-- Sort bar -->
+  <div class="sort-bar">
+    <span class="result-count" id="resultCount">Showing 335 of 335 builds</span>
+    <div class="sort-pills">
+      <button class="sort-pill active" data-sort="num">Number</button>
+      <button class="sort-pill" data-sort="jaw">Jaw Drop</button>
+      <button class="sort-pill" data-sort="brain">Brain Melt</button>
+      <button class="sort-pill" data-sort="spicy">Spicy</button>
+      <button class="sort-pill" data-sort="clout">Clout</button>
+      <button class="sort-pill" data-sort="wallet">Wallet</button>
+      <button class="sort-pill" data-sort="time">Time</button>
+    </div>
+  </div>
+
+  <!-- Build grid -->
+  <div class="build-grid" id="buildGrid" aria-live="polite"></div>
+
+  <!-- No results -->
+  <div class="no-results" id="noResults" style="display:none">
+    <div class="icon">&#128557;</div>
+    <h3>No builds match those filters</h3>
+    <p>Try loosening up your search or clearing some filters.</p>
+  </div>
+
+  <div class="browse-footer">
+    <a href="../">Junkyard Genius</a> &mdash; 335 builds &middot; 33 categories &middot; zero excuses
+  </div>
+</div>
+
+<!-- Build data (shared with quiz) -->
+<script src="../quiz/build-data.js"></script>
+<script>
+(function(){
+  var searchBox = document.getElementById("searchBox");
+  var categoryFilter = document.getElementById("categoryFilter");
+  var junkFilter = document.getElementById("junkFilter");
+  var brainMax = document.getElementById("brainMax");
+  var spicyMax = document.getElementById("spicyMax");
+  var brainVal = document.getElementById("brainVal");
+  var spicyVal = document.getElementById("spicyVal");
+  var buildGrid = document.getElementById("buildGrid");
+  var resultCount = document.getElementById("resultCount");
+  var noResults = document.getElementById("noResults");
+  var sortPills = document.querySelectorAll(".sort-pill");
+
+  var currentSort = "num";
+  var sortAsc = true;
+
+  // Populate category dropdown
+  var cats = [];
+  var catSet = {};
+  BUILDS.forEach(function(b){
+    if(!catSet[b.category]){
+      catSet[b.category] = true;
+      cats.push({slug:b.category, name:b.categoryName});
+    }
+  });
+  cats.sort(function(a,b){return a.name.localeCompare(b.name)});
+  cats.forEach(function(c){
+    var opt = document.createElement("option");
+    opt.value = c.slug;
+    opt.textContent = c.name;
+    categoryFilter.appendChild(opt);
+  });
+
+  // Populate junk dropdown
+  var junkSet = {};
+  BUILDS.forEach(function(b){
+    b.junk.forEach(function(j){junkSet[j]=true});
+  });
+  Object.keys(junkSet).sort().forEach(function(j){
+    var opt = document.createElement("option");
+    opt.value = j;
+    opt.textContent = j.charAt(0).toUpperCase() + j.slice(1);
+    junkFilter.appendChild(opt);
+  });
+
+  function buildUrl(build){
+    return "https://rbrents3000.github.io/junkyard-genius/categories/" + build.category + "/" + build.slug;
+  }
+
+  function ratingBar(label, value, cls){
+    var pct = (value / 5) * 100;
+    return '<div class="rating-item">'
+      + '<span class="rating-label">' + label + '</span>'
+      + '<div class="rating-bar"><div class="rating-bar-fill ' + cls + '" style="width:' + pct + '%"></div></div>'
+      + '<span class="rating-val ' + cls + '">' + value + '</span>'
+      + '</div>';
+  }
+
+  function renderCard(build){
+    return '<a class="build-card" href="' + buildUrl(build) + '">'
+      + '<div class="card-top">'
+      + '<span class="card-num">#' + build.num + '</span>'
+      + '<span class="card-name">' + build.name + '</span>'
+      + '</div>'
+      + '<span class="card-category">' + build.categoryName + '</span>'
+      + '<div class="card-ratings">'
+      + ratingBar("Jaw", build.jaw, "jaw")
+      + ratingBar("Brain", build.brain, "brain")
+      + ratingBar("Wallet", build.wallet, "wallet")
+      + ratingBar("Spicy", build.spicy, "spicy")
+      + ratingBar("Clout", build.clout, "clout")
+      + ratingBar("Time", build.time, "time")
+      + '</div>'
+      + '</a>';
+  }
+
+  function getFiltered(){
+    var query = searchBox.value.toLowerCase().trim();
+    var cat = categoryFilter.value;
+    var junk = junkFilter.value;
+    var maxBrain = parseInt(brainMax.value);
+    var maxSpicy = parseInt(spicyMax.value);
+
+    return BUILDS.filter(function(b){
+      if(query && b.name.toLowerCase().indexOf(query) === -1) return false;
+      if(cat && b.category !== cat) return false;
+      if(junk && b.junk.indexOf(junk) === -1) return false;
+      if(b.brain > maxBrain) return false;
+      if(b.spicy > maxSpicy) return false;
+      return true;
+    });
+  }
+
+  function sortBuilds(list){
+    var key = currentSort;
+    var dir = sortAsc ? 1 : -1;
+    return list.slice().sort(function(a,b){
+      return (a[key] - b[key]) * dir;
+    });
+  }
+
+  function render(){
+    var filtered = getFiltered();
+    var sorted = sortBuilds(filtered);
+
+    resultCount.textContent = "Showing " + sorted.length + " of " + BUILDS.length + " builds";
+
+    if(sorted.length === 0){
+      buildGrid.innerHTML = "";
+      noResults.style.display = "block";
+      return;
+    }
+    noResults.style.display = "none";
+
+    var html = "";
+    for(var i = 0; i < sorted.length; i++){
+      html += renderCard(sorted[i]);
+    }
+    buildGrid.innerHTML = html;
+  }
+
+  // Event listeners
+  var debounceTimer;
+  searchBox.addEventListener("input", function(){
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(render, 150);
+  });
+
+  categoryFilter.addEventListener("change", render);
+  junkFilter.addEventListener("change", render);
+
+  brainMax.addEventListener("input", function(){
+    brainVal.textContent = this.value;
+    render();
+  });
+  spicyMax.addEventListener("input", function(){
+    spicyVal.textContent = this.value;
+    render();
+  });
+
+  // Sort pills
+  sortPills.forEach(function(pill){
+    pill.addEventListener("click", function(){
+      var newSort = this.getAttribute("data-sort");
+      if(currentSort === newSort){
+        sortAsc = !sortAsc;
+      } else {
+        currentSort = newSort;
+        sortAsc = newSort === "num"; // ascending for number, descending for ratings
+      }
+      sortPills.forEach(function(p){p.classList.remove("active")});
+      this.classList.add("active");
+      render();
+    });
+  });
+
+  // Initial render
+  render();
+
+  // Focus search on load
+  searchBox.focus();
+})();
+</script>
+</body>
+</html>

@@ -1,8 +1,8 @@
 <p align="center">
   <h1 align="center">Junkyard Genius</h1>
-  <p align="center"><strong>338 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
+  <p align="center"><strong>335 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.</strong></p>
   <p align="center">
-    <img src="https://img.shields.io/badge/builds-338-orange?style=for-the-badge" alt="338 Builds" />
+    <img src="https://img.shields.io/badge/builds-335-orange?style=for-the-badge" alt="335 Builds" />
     <img src="https://img.shields.io/badge/categories-33-blue?style=for-the-badge" alt="33 Categories" />
     <img src="https://img.shields.io/github/license/rbrents3000/junkyard-genius?style=for-the-badge" alt="License" />
     <img src="https://img.shields.io/github/stars/rbrents3000/junkyard-genius?style=for-the-badge" alt="Stars" />
@@ -23,6 +23,8 @@ Every build is rated on 6 scales, includes sourced ingredients, step-by-step ins
 <p align="center">
   <br>
   <a href="https://rbrents3000.github.io/junkyard-genius/quiz/"><strong>🎯 Take the Build Finder Quiz</strong></a> — answer 6 questions, get personalized recommendations
+
+  <a href="https://rbrents3000.github.io/junkyard-genius/browse/"><strong>🔍 Browse All Builds</strong></a> — search, filter, and sort every project
   <br><br>
 </p>
 
