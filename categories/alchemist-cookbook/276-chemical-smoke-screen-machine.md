@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Military smoke screens have been used since ancient times — from burning wet straw to modern hexachloroethane smoke pots. But you don’t need military-grade chemistry to produce an absolutely ridiculous amount of smoke. All you need is glycerin (the same stuff in soap and vape juice) and a surface hot enough to flash-vaporize it. When glycerin hits a surface above 300°C, it decomposes into acrolein vapor and water, which immediately condenses into a thick, white, opaque aerosol. The result is dense theatrical fog that hugs the ground and obscures everything behind it.
 
@@ -20,7 +18,8 @@ The build is dead simple. Gut a toaster for its nichrome heating element and mou
 
 The key to good smoke is temperature control. Too cool and the glycerin just pools and bubbles. Too hot and it burns off without producing much visible aerosol. The sweet spot is a dull red glow on the element — around 350-400°C. A dimmer switch lets you dial it in perfectly. Once you find the right setting, this thing is a smoke factory. Airsoft fields, Halloween setups, film projects, or just freaking out your neighbors — the applications are endless.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Toaster — for the nichrome heating element *(thrift store or junkyard, ~$2)*
 - [ ] Vegetable glycerin — food grade, available in bulk *(pharmacy or online, ~$8 per quart)*
@@ -33,7 +32,9 @@ The key to good smoke is temperature control. Too cool and the glycerin just poo
 - [ ] Flexible tubing — silicone, 1/4" ID, for glycerin feed line *(hardware store, ~$3)*
 - [ ] Wire nuts and 14-gauge wire — for electrical connections *(hardware store, ~$3)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Harvest the heating element.** Disassemble the toaster and remove one or both nichrome heating elements. You want the flat ribbon-style elements, not the round wire coils (though both work). Straighten the element and coil it loosely into a flat spiral that fits inside your metal can. Leave the wire leads long enough to exit the can.
 
@@ -49,14 +50,14 @@ The key to good smoke is temperature control. Too cool and the glycerin just poo
 
 7. **Test and tune.** Power on the heating element at 60% and let it heat up for 2 minutes. Open the needle valve to start the glycerin drip. You should see thick white smoke within seconds. Adjust the dimmer and drip rate to maximize smoke density. Too much glycerin drowns the element; too little produces thin wisps. The sweet spot is a continuous, dense pour of white smoke.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The heating element operates at mains voltage and reaches 400°C+. Do not touch the element or the inside of the can during operation. Allow 10 minutes to cool after use. Keep the power cord away from the hot surfaces.
 - Glycerin vapor in high concentrations is an irritant. Use this outdoors or in very well-ventilated spaces. Do not use in enclosed spaces where people will be breathing the smoke for extended periods.
 - Overheating glycerin produces acrolein, which is a toxic irritant at high concentrations. If the smoke smells sharp and acrid instead of mild and sweet, your element is too hot — turn down the dimmer.
 - Keep a fire extinguisher nearby. The glycerin itself is not very flammable, but the hot element can ignite other materials if they fall onto it.
 
-## See Also
+## 🔗 See Also
 
 - [Dry Ice Fog Machine](../household-chemistry/329-dry-ice-fog-machine.md)
 - [Chemical Trigger Color Bombs](228-chemical-trigger-color-bombs.md)

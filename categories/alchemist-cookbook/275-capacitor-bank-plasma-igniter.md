@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Every microwave oven you haul out of a dumpster has a gift inside: a Microwave Oven Transformer (MOT) capacitor rated at around 2100V and 1µF. One of these alone stores enough energy to ruin your day. Wire three or four of them in parallel and you’ve got a capacitor bank that can dump a terrifying amount of energy in microseconds. Route that discharge through a carefully constructed spark gap — two tungsten electrodes separated by a few millimeters of air — and the air itself ionizes into plasma. The resulting arc is a screaming, blue-white channel of superheated gas north of 20,000°F. That’s hotter than the surface of the sun.
 
@@ -20,7 +18,8 @@ The practical application here is ignition. This isn’t a lighter — it’s an
 
 Building one requires respecting the energy involved. A charged MOT capacitor is genuinely lethal — this isn’t a “might give you a tingle” situation. You’ll need a proper charging circuit with current limiting, a discharge resistor for safe handling, and a trigger mechanism that keeps your fingers far from the business end. But once it’s built and enclosed in a proper housing with a safety interlock, you’ve got a reusable ignition system that makes every other fire-starting method look like rubbing two sticks together.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] MOT capacitors — 2100V, ~1µF, quantity 3-4 *(dead microwaves, free from junkyards)*
 - [ ] Tungsten electrodes — 1/8" TIG welding rods work perfectly *(welding supply, ~$8 for a pack)*
@@ -33,7 +32,9 @@ Building one requires respecting the energy involved. A charged MOT capacitor is
 - [ ] Safety key switch — arms the charging circuit *(electronics supplier, ~$5)*
 - [ ] Discharge stick — insulated rod with a high-wattage resistor for manual safe discharge *(DIY from parts above)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Harvest and test the capacitors.** Pull MOT capacitors from dead microwaves. Test each one with a multimeter on capacitance mode to verify it’s still within spec (0.8-1.2µF is typical). Discharge each capacitor by shorting the terminals through a 10kΩ 10W resistor before handling. Never assume a capacitor is discharged.
 
@@ -51,14 +52,14 @@ Building one requires respecting the energy involved. A charged MOT capacitor is
 
 8. **Test fire.** Charge the bank with the key switch, verify voltage on the meter, stand back, and hit the trigger. The arc should crack like a gunshot and produce a brilliant blue-white plasma channel. To use as an igniter, position your target material (fuse, thermite, etc.) in the spark gap before triggering.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - MOT capacitors store lethal energy. A 2100V capacitor charged to full voltage can deliver a fatal shock. Always discharge capacitors through a resistor before touching anything. Never work on this project alone. Keep one hand in your pocket when working near charged components.
 - The plasma arc produces intense UV light, ozone, and nitrogen oxides. Do not stare directly at the arc. Use this outdoors or in extremely well-ventilated areas. Prolonged ozone exposure causes respiratory damage.
 - This device ignites things. That is its entire purpose. Have a fire extinguisher within arm’s reach. Clear the area of flammable materials. Never point the spark gap at anything you don’t want to catch fire.
 - Check local regulations regarding pyrotechnic ignition devices before building or using this.
 
-## See Also
+## 🔗 See Also
 
 - [MOT-Ignited Firework Mortar](227-mot-ignited-firework-mortar.md)
 - [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md)

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 An electromagnetic pulse is a burst of electromagnetic energy that induces voltage spikes in nearby conductors — circuit traces, wires, antenna leads — frying the delicate semiconductors connected to them. Nuclear weapons produce EMPs as a side effect, but you don’t need a warhead. You just need a very large current changing very quickly through a coil. That’s it. That’s the whole physics. A capacitor bank provides the “large current,” a spark gap switch provides the “very quickly,” and a coil shaped into a directional antenna focuses the pulse in one direction instead of radiating in all directions.
 
@@ -20,7 +18,8 @@ The build centers around a bank of microwave oven capacitors (or camera flash ca
 
 The effective range is short — we’re talking a few feet at most with junkyard components. This isn’t going to take down a power grid or disable a car (despite what movies suggest). But it will reliably kill a calculator at arm’s length, scramble a cheap radio, and reset digital clocks. The real value is understanding the physics. Every EMP weapon, from military e-bombs to the hypothetical nuclear HEMP attack, works on exactly this principle. You’re just building the desktop version.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] MOT capacitors — 2100V, ~1µF, quantity 4-6 *(dead microwaves, free)*
 - [ ] Spark gap switch — tungsten electrodes in adjustable mount *(TIG rods + DIY mount, ~$10)*
@@ -34,7 +33,9 @@ The effective range is short — we’re talking a few feet at most with junkyar
 - [ ] Enclosure — wooden box or PVC pipe housing *(scrap, ~$5)*
 - [ ] Cheap electronics for targets — dollar store calculators, LED toys *(dollar store, ~$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the capacitor bank.** Wire 4-6 MOT capacitors in parallel on an insulating board. Solder bleeder resistors across each one. This bank stores serious energy — treat it with extreme respect at every stage. Add banana jack terminals for the charging input and discharge output.
 
@@ -52,7 +53,7 @@ The effective range is short — we’re talking a few feet at most with junkyar
 
 8. **Test on sacrificial targets.** Set up a cheap calculator or LED toy on a table. Charge the bank, point the coil at the target from about 12 inches away, and fire. The target should die — display goes blank, stops responding to buttons. If nothing happens, move closer or add more capacitors. Effective range depends on total stored energy and coil geometry.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - This device stores lethal electrical energy. The capacitor bank can kill you. Follow all high-voltage safety protocols: discharge before handling, one-hand rule, never work alone, bleeder resistors on every capacitor.
 - The EMP will destroy any unshielded electronics in range. Keep your phone, laptop, and anything you value far away from the business end. Seriously — put them in another room.
@@ -60,7 +61,7 @@ The effective range is short — we’re talking a few feet at most with junkyar
 - The spark gap produces UV radiation, ozone, and a loud crack. Wear eye protection and use in ventilated areas.
 - Check local RF emissions regulations. A broadband electromagnetic pulse is technically an unlicensed radio transmission, and a powerful one at that.
 
-## See Also
+## 🔗 See Also
 
 - [Capacitor Bank Plasma Igniter](275-capacitor-bank-plasma-igniter.md)
 - [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md)

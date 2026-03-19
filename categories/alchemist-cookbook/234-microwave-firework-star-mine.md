@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A star mine in fireworks terminology is a ground-based device that launches a spread of burning color stars into the air in a fan pattern — like a shotgun blast of fire. Professional star mines use black powder lift charges. This build replaces the lift charge with an electromagnetic coil gun powered by a microwave oven transformer's capacitor bank, and replaces commercial pyrotechnic stars with handmade metal-salt color stars ignited by nichrome wire elements. It's a collision of three worlds: microwave salvage (capacitor bank for energy storage), junkyard auto (the electromagnetic launch concept shares DNA with ignition coil builds), and pyrotechnic chemistry (metal salt color stars are the foundation of all colored fireworks). The coil gun launches a payload canister containing a cluster of burning color stars, which spread out at altitude into a spray of red, green, blue, and gold burning embers. One device. Three disciplines. Zero subtlety.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Microwave oven capacitor — 2100V ~1µF, or large electrolytic caps (400V, 1000µF+) *(dead microwave or electronics supplier)*
 - [ ] Magnet wire — 12-14 gauge enameled copper for the launch coil *(electronics supplier, ~$15)*
@@ -31,7 +30,9 @@ A star mine in fireworks terminology is a ground-based device that launches a sp
 - [ ] Charging circuit — rectifier + resistor for capacitor charging *(build from components)*
 - [ ] Safety discharge resistor — high-wattage, for emergency cap drain *(electronics supplier)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Make the color stars.** Prepare separate batches of pyrotechnic star composition: mix each metal salt (strontium for red, barium for green, copper for blue) with KNO3 as oxidizer and a fuel (charcoal or dextrin) as binder. The ratio is roughly 50% metal salt, 30% KNO3, 15% fuel, 5% dextrin binder. Add water to make a dough, roll into pea-sized balls, and let dry for 48 hours. Each ball is one "star" — a self-contained colored fire pellet.
 2. **Build the coil gun launcher.** Wind 50-80 turns of 12-14 gauge magnet wire around the PVC launch tube, centered along its length. The tube diameter should be slightly larger than the steel payload canister. The coil, when pulsed with capacitor current, generates a magnetic field that yanks the steel canister upward through the tube.
@@ -44,13 +45,13 @@ A star mine in fireworks terminology is a ground-based device that launches a sp
 9. **Live fire.** Load the canister with color stars and nichrome igniter. Place it in the launch tube. Charge the capacitor bank. Clear the area (100+ foot radius). Arm the system and execute the launch sequence. The nichrome lights the stars, then the coil gun silently launches the canister skyward. At the apex, the burning stars separate from the canister and spread outward in a shower of colored fire — red, green, blue, and gold embers floating down.
 10. **Refine the spread pattern.** The way stars separate from the canister determines the visual effect. A loose canister lets stars escape early for a narrow column. A tight canister with a burst charge (a small KNO3 pellet that pops at altitude) spreads stars in a wider fan. Experiment with canister design to get the pattern you want.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The capacitor bank stores potentially lethal energy at high voltage. Follow the same safety protocols as the [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md): always discharge before handling, install bleeder resistors, use a safety key switch, and treat the charged bank as a lethal hazard. A 400V capacitor bank at 10,000µF stores 800 joules — enough to cause cardiac arrest.
 - Metal-salt pyrotechnic stars are flammable, difficult to extinguish once burning, and produce toxic metal oxide fumes. Make and handle stars outdoors. Wear a respirator when mixing dry metal salt powders. Never inhale the fumes from burning stars — barium and strontium compounds are toxic.
 - This build combines high-voltage electronics, electromagnetic launch systems, and pyrotechnics. Each discipline has its own safety requirements, and the combination multiplies the risk. Do not attempt this build without prior experience in all three areas. Build and master simpler projects from each category first.
 
-## See Also
+## 🔗 See Also
 
 - [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md)
 - [Colored Fire](../pyro-and-chemistry/101-colored-fire.md)

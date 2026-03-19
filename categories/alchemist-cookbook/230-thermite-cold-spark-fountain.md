@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Thermite is iron oxide + aluminum powder. When ignited, it undergoes an aluminothermic reaction at roughly 4,000°F, producing molten iron and aluminum oxide in a blinding white-hot cascade. It melts through steel. It's terrifying. Cold spark machines, meanwhile, use titanium powder heated by a resistance element and ejected upward by a small fan. The titanium particles burn at only 150-200°F — spectacular bright sparks that are literally safe to touch with your bare hand. They're used at concerts, weddings, and indoor events because they can't start fires. Put both of these next to each other, firing simultaneously, and you get the most extreme visual contrast in pyrotechnics: a white-hot molten metal reaction next to a shower of brilliant sparks you could catch in your palm. One is the hottest thing a hobbyist can create. The other is stage-safe. The audience's brain short-circuits trying to process both at once.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Iron oxide (Fe2O3) — red iron oxide powder *(online, pigment supplier, or make from steel wool + vinegar + hydrogen peroxide)*
 - [ ] Aluminum powder — 200 mesh or finer *(online, pyrotechnic supplier)*
@@ -29,7 +28,9 @@ Thermite is iron oxide + aluminum powder. When ignited, it undergoes an aluminot
 - [ ] Fire-safe base — steel plate, concrete blocks, or sand bed *(hardware store)*
 - [ ] Remote ignition — long fuse, nichrome igniter, or electrical trigger *(build or purchase)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the cold spark machine.** Coil nichrome wire (28 gauge, ~6 inches) tightly inside a small ceramic tube to create a heating element. When powered, this coil glows red-hot. Titanium powder fed into contact with the hot nichrome ignites into brilliant but cool-burning sparks. Mount a small PC fan below the heating element to blow the sparks upward in a fountain pattern.
 2. **Build the titanium feed system.** Create a simple hopper (a small funnel or tube) that gravity-feeds titanium powder onto the heating element at a controlled rate. A pinch valve or a vibrating feed tube controls the flow rate. More powder = denser spark fountain. Too much powder smothers the element. Start with a slow trickle and adjust.
@@ -40,13 +41,13 @@ Thermite is iron oxide + aluminum powder. When ignited, it undergoes an aluminot
 7. **Ignite simultaneously.** Light the cold spark machine first (it starts instantly). Then trigger the thermite ignition. The cold spark fountain produces a beautiful shower of bright, touchable sparks. Seconds later, the thermite erupts in a blinding white-hot reaction, spraying molten iron. The contrast — one gentle and harmless, the other violent and destructive — is the entire point.
 8. **Let the thermite burn to completion.** Thermite reactions last 10-30 seconds depending on the quantity. Do not attempt to extinguish thermite with water (steam explosion), sand (it burns through it), or anything else. It's self-oxidizing — it carries its own oxygen supply and cannot be smothered. Let it finish and cool for at least 30 minutes before approaching.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Thermite produces molten iron at 4,000°F that burns through steel, concrete, and virtually everything else. The reaction sprays molten droplets several feet in all directions. Use a steel plate or thick sand bed underneath. Clear a 15-foot radius of all combustible materials. Wear a full-face shield, leather gloves, and long sleeves. Never lean over a thermite reaction. Never attempt thermite on surfaces you care about.
 - Despite the cold sparks being safe to touch, the audience must understand which side is which. Mark the thermite zone clearly and keep all people behind the cold spark side. A confused spectator walking toward the "pretty sparks" on the wrong side could walk into molten iron splatter.
 - Thermite cannot be extinguished. Once ignited, it will burn to completion regardless of what you do. Using water on burning thermite causes a violent steam explosion that sprays molten metal. Have an exit route planned in case the reaction behaves unexpectedly (crucible failure, tip-over).
 
-## See Also
+## 🔗 See Also
 
 - [Thermite Flower Pot](../pyro-and-chemistry/105-thermite-flower-pot.md)
 - [Cold Spark Machine](../pyro-and-chemistry/104-cold-spark-machine.md)

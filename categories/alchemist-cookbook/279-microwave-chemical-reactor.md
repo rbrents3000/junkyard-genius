@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Microwave-assisted chemistry is a real field used in research labs worldwide. The principle is simple: microwaves heat polar molecules directly and volumetrically — the energy goes straight into the reaction mixture instead of slowly conducting through a glass wall from an external heat source. This means reactions that take hours on a hot plate can complete in minutes under microwave irradiation. Pharmaceutical companies use dedicated microwave reactors that cost $10,000-$50,000. You’re going to build one from a dead microwave and some lab glass for about $30.
 
@@ -20,7 +18,8 @@ The core of any microwave is the magnetron — a vacuum tube that converts elect
 
 The applications are surprisingly broad. You can do rapid esterification reactions (making esters — fragrant compounds used in perfumes and flavorings), biodiesel synthesis from waste cooking oil, extraction of essential oils from plant material, and various organic chemistry transformations. University chemistry departments have published thousands of papers on microwave-assisted synthesis. You’re replicating that capability for the cost of a thrift store microwave and a few pieces of glassware. The speed advantage is genuinely dramatic — a reaction that takes 4 hours of refluxing on a hot plate often completes in 5-10 minutes under microwave irradiation.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Microwave oven — 700W+ with working magnetron *(thrift store or junkyard, ~$5-15)*
 - [ ] Borosilicate round-bottom flask — 250mL or 500mL *(lab supply online, ~$8)*
@@ -34,7 +33,9 @@ The applications are surprisingly broad. You can do rapid esterification reactio
 - [ ] High-temp silicone sealant — for sealing port penetrations *(hardware store, ~$5)*
 - [ ] Safety goggles and nitrile gloves — non-negotiable *(~$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Gut and assess the microwave.** Remove the outer casing to access the magnetron, transformer, capacitor, and control board. Identify the waveguide — the rectangular metal duct that channels microwave energy from the magnetron into the cavity. You want to keep the magnetron, waveguide, transformer, capacitor, and cavity intact. The turntable motor can go. Discharge the capacitor with a resistor before touching anything inside.
 
@@ -52,7 +53,7 @@ The applications are surprisingly broad. You can do rapid esterification reactio
 
 8. **Run your first reaction.** Start with something simple and safe — dissolving sugar in water, or extracting pigment from turmeric into ethanol. Load your reagents into the flask, start the condenser water flow, set power to 40%, and monitor the temperature. You’ll be shocked how fast things heat up compared to a hot plate.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Microwave radiation at 2.45 GHz cooks tissue. Ensure all cavity ports are properly shielded and check for leakage before every use. Never operate the magnetron with the cavity open or damaged.
 - The magnetron requires lethal high voltage (2100V+) from the MOT/capacitor circuit. Discharge the capacitor before any maintenance. Follow all high-voltage safety protocols.
@@ -60,7 +61,7 @@ The applications are surprisingly broad. You can do rapid esterification reactio
 - Some chemical reactions produce toxic or flammable vapors. The reflux condenser contains most vapors, but work in a well-ventilated area or fume hood. Never microwave flammable solvents without a reflux condenser.
 - Superheating is a real risk in microwave chemistry — liquids can exceed their boiling point without visibly boiling, then erupt violently when disturbed. Always include a stir bar and avoid sudden movements of the flask.
 
-## See Also
+## 🔗 See Also
 
 - [Capacitor Bank Plasma Igniter](275-capacitor-bank-plasma-igniter.md)
 - [Electrolysis Rust Eraser](../household-chemistry/212-electrolysis-rust-eraser.md)
