@@ -192,7 +192,7 @@ a:hover{text-decoration:underline}
   var activeTab = "completed";
 
   function getList(key) {
-    try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { return []; }
+    try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { console.warn("localStorage error:", e); return []; }
   }
   function setList(key, arr) { localStorage.setItem(key, JSON.stringify(arr)); }
 
@@ -202,7 +202,7 @@ a:hover{text-decoration:underline}
   }
 
   function buildUrl(build) {
-    return "https://rbrents3000.github.io/junkyard-genius/categories/" + build.category + "/" + build.slug;
+    return "../../categories/" + build.category + "/" + build.slug;
   }
 
   function ratingBar(label, value, cls) {

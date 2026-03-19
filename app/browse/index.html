@@ -8,7 +8,7 @@
 <meta property="og:title" content="Browse All Builds — Junkyard Genius">
 <meta property="og:description" content="335 DIY builds from salvaged junk. Search, filter, and sort to find your next project.">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://rbrents3000.github.io/junkyard-genius/browse/">
+<meta property="og:url" content="https://rbrents3000.github.io/junkyard-genius/app/browse/">
 <meta property="og:image" content="https://rbrents3000.github.io/junkyard-genius/images/og-social.jpg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Browse All Builds — Junkyard Genius">
@@ -247,7 +247,7 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
   .header-inner{flex-direction:column;gap:8px}
   .filters{flex-direction:column}
   .search-box{min-width:100%}
-  .slider-group input[type="range"]{width:60px}
+  .slider-group input[type="range"]{width:80px}
   .build-grid{grid-template-columns:1fr}
   .card-ratings{grid-template-columns:repeat(2,1fr)}
   .sort-bar{flex-direction:column;align-items:flex-start}
@@ -317,6 +317,7 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
     <div class="icon">&#128557;</div>
     <h3>No builds match those filters</h3>
     <p>Try loosening up your search or clearing some filters.</p>
+    <button class="random-btn" style="margin-top:16px" id="clearFiltersBtn">Clear All Filters</button>
   </div>
 
   <div class="browse-footer">
@@ -331,7 +332,7 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
   // Random redirect check (before anything renders)
   if (window.location.search.indexOf("random=1") !== -1) {
     var idx = Math.floor(Math.random() * BUILDS.length);
-    window.location.replace("https://rbrents3000.github.io/junkyard-genius/categories/" + BUILDS[idx].category + "/" + BUILDS[idx].slug);
+    window.location.replace("../../categories/" + BUILDS[idx].category + "/" + BUILDS[idx].slug);
     return;
   }
 
@@ -355,7 +356,7 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
 
   // localStorage helpers
   function getList(key) {
-    try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { return []; }
+    try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { console.warn("localStorage error:", e); return []; }
   }
   var completed = getList("jg-completed");
   var wantToBuild = getList("jg-wantToBuild");
@@ -398,7 +399,7 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
   });
 
   function buildUrl(build){
-    return "https://rbrents3000.github.io/junkyard-genius/categories/" + build.category + "/" + build.slug;
+    return "../../categories/" + build.category + "/" + build.slug;
   }
 
   function ratingBar(label, value, cls){
@@ -534,6 +535,18 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
 
   // Initial render
   render();
+
+  // Clear filters button
+  document.getElementById("clearFiltersBtn").addEventListener("click", function(){
+    searchBox.value = "";
+    categoryFilter.value = "";
+    junkFilter.value = "";
+    brainMax.value = 5; brainVal.textContent = "5";
+    spicyMax.value = 5; spicyVal.textContent = "5";
+    showMyBuilds = false;
+    myBuildsBtn.classList.remove("active");
+    render();
+  });
 
   // Focus search on load
   searchBox.focus();

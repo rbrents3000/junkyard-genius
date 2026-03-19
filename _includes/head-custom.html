@@ -490,12 +490,15 @@ input[type="checkbox"] {
   display: flex;
   align-items: center;
   gap: 4px;
+  min-width: 0;
+  overflow: hidden;
 }
 .cat-card .cc-l {
   font-size: 0.6rem;
   font-weight: 600;
   color: var(--text-muted);
-  width: 28px;
+  width: 32px;
+  flex-shrink: 0;
   text-transform: uppercase;
 }
 .cat-card .cc-bar {
@@ -504,6 +507,7 @@ input[type="checkbox"] {
   border-radius: 2px;
   background: var(--border);
   overflow: hidden;
+  min-width: 0;
 }
 .cat-card .cc-fill {
   height: 100%;

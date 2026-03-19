@@ -5,9 +5,18 @@ plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
 
+lang: en-US
+
 relative_links:
   enabled: true
   collections: true
+
+exclude:
+  - .github
+  - scripts
+  - node_modules
+  - LICENSE
+  - .editorconfig
 
 title: Junkyard Genius
 description: 335 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.

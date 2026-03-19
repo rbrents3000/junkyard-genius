@@ -17,6 +17,7 @@ node_modules/
 
 # Build artifacts
 *.log
+_site/
 
 # Utility scripts (not project content)
 scripts/
