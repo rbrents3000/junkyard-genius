@@ -1,5 +1,9 @@
 # #160 — Electroforming Art
 
+<p align="center">
+  <img src="../../images/builds/160-electroforming-art.jpg" alt="Electroforming Art" width="700" />
+</p>
+
 > Heavy copper buildup on wax or 3D printed molds — dissolve the mold and you have hollow copper sculptures. Jewelers charge hundreds.
 
 ## Ratings

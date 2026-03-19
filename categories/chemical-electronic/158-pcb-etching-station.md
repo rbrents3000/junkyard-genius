@@ -1,5 +1,9 @@
 # #158 — PCB Etching Station
 
+<p align="center">
+  <img src="../../images/builds/158-pcb-etching-station.jpg" alt="PCB Etching Station" width="700" />
+</p>
+
 > Ferric chloride + an aquarium heater + an air pump — print circuit designs, iron-transfer them to copper board, and etch custom PCBs.
 
 ## Ratings

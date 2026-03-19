@@ -1,5 +1,9 @@
 # #159 — Hydrogen Generator
 
+<p align="center">
+  <img src="../../images/builds/159-hydrogen-generator.jpg" alt="Hydrogen Generator" width="700" />
+</p>
+
 > Water + lye + DC power = hydrogen and oxygen gas. Capture the hydrogen, ignite it for a fireball. Electrolysis in action.
 
 ## Ratings

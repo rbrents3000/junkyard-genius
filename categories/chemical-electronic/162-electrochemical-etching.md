@@ -1,5 +1,9 @@
 # #162 — Electrochemical Etching
 
+<p align="center">
+  <img src="../../images/builds/162-electrochemical-etching.jpg" alt="Electrochemical Etching" width="700" />
+</p>
+
 > Salt water, a battery, and a stencil — etch permanent designs into any metal surface. Knives, tools, jewelry, anything.
 
 ## Ratings

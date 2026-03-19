@@ -1,5 +1,9 @@
 # #163 — pH Reactive Paint
 
+<p align="center">
+  <img src="../../images/builds/163-ph-reactive-paint.jpg" alt="pH Reactive Paint" width="700" />
+</p>
+
 > Red cabbage juice is a natural pH indicator — paint with it, then spray vinegar for pink or baking soda for blue. Invisible art revealed by chemistry.
 
 ## Ratings
