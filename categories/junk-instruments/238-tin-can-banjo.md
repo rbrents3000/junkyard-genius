@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A playable banjo built from a large tin can as the resonator body, a wooden neck, and three or four strings. The metal can acts like a drum head and back plate combined, giving the instrument a bright, punchy, surprisingly loud tone that cuts through a room.
 
@@ -20,7 +18,8 @@ Traditional banjos use a stretched membrane (skin or plastic) over a round frame
 
 The build is simpler than the cigar box guitar because the can provides a ready-made resonating chamber with no cutting required. You can go from raw materials to playing your first song in about two hours.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Large tin can — big coffee can, cookie tin, or #10 commercial food can *(source: kitchen recycling or restaurant, free)*
 - [ ] Hardwood board or dowel, ~30 inches long, 1.5" wide *(source: hardware store or scrap pile, ~$3)*
@@ -30,7 +29,9 @@ The build is simpler than the cigar box guitar because the can provides a ready-
 - [ ] 2 small bolts for the tailpiece/string anchor *(source: hardware store, ~$1)*
 - [ ] Wood screws *(source: hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Select and prepare the can.** Choose the largest tin can you can find — a #10 restaurant can or large coffee tin works best. Clean it thoroughly and remove any paper labels. If the can has a rolled rim, leave it — it adds structural rigidity. If using a can with one open end, you'll mount the neck across the open top.
 
@@ -48,12 +49,13 @@ The build is simpler than the cigar box guitar because the can provides a ready-
 
 8. **Play it.** The tin can banjo responds well to both picking and strumming. It's naturally loud — the metal resonator projects sound aggressively. For even more volume, experiment with bridge placement on the can to find the sweet spot where the metal vibrates most freely.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Tin can edges are razor sharp.** File or sand all cut edges on the can smooth. Cover cut edges with tape or silicone if they're near your hands during play.
+> [!WARNING]
+> **Tin can edges are razor sharp.** File or sand all cut edges on the can smooth. Cover cut edges with tape or silicone if they're near your hands during play.
 - **String tension.** The can walls are thinner than a wooden body and can deform under high string tension. Use lighter gauge strings and don't over-tighten. If the can starts to buckle, release tension and reinforce the neck mounting points.
 
-## See Also
+## 🔗 See Also
 
 - [Cigar Box Guitar](235-cigar-box-guitar.md) — wooden box version with more low-end, similar build process
 - [Garden Hose Didgeridoo](240-garden-hose-didgeridoo.md) — another instrument built from a single household item

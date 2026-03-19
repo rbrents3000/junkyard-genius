@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 You've probably tapped a glass with a spoon at a dinner party and noticed it rings at a specific pitch. Fill the glass with different amounts of water and the pitch changes. This is the basis for one of the oldest instruments in existence — Benjamin Franklin built a version (the glass armonica) in 1761 that Mozart and Beethoven both composed music for. You're building the junkyard version: a row of identical glass bottles tuned to specific notes by adding precise amounts of water, mounted on a frame, and optionally automated with Arduino-controlled solenoid hammers that turn it into a self-playing music box.
 
@@ -20,7 +18,8 @@ The physics is straightforward. When you strike a glass bottle, the glass wall v
 
 The automated version is where this gets genuinely impressive. Mount small solenoid actuators (the kind that do the clicking in pinball machines or door locks) above each bottle, attach wooden or rubber-tipped striker rods to the solenoid plungers, and wire them to an Arduino through a MOSFET driver board. Write a program that fires the solenoids in sequence and the bottles play melodies, chords, and rhythms entirely on their own. Load MIDI files and translate note data to solenoid triggers — suddenly your bottle rack is playing Bach. The contrast between the cobbled-together appearance and the musical precision is what makes this build unforgettable.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Glass bottles — identical size and shape, 8-24 count (beer bottles, wine bottles, or soda bottles) *(recycling bin, free)*
 - [ ] Water — for tuning *(free)*
@@ -35,7 +34,9 @@ The automated version is where this gets genuinely impressive. Mount small solen
 - [ ] Rubber grommets or hot glue — for striker tip dampening *(~$2)*
 - [ ] Zip ties and screws — for mounting *(existing)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Collect and clean the bottles.** You need identical bottles — same brand, same size, same glass thickness. Beer bottles from a single case are ideal. Soak off labels, clean thoroughly, and inspect for chips or cracks (damaged bottles don't ring true). Line them up in a row on a flat surface.
 
@@ -53,14 +54,14 @@ The automated version is where this gets genuinely impressive. Mount small solen
 
 8. **Program and play.** Write an Arduino sketch that fires each solenoid by setting its pin HIGH for 50ms then LOW. Map each pin to a note name. Code a simple melody by firing notes in sequence with timing delays. For advanced use, parse MIDI files on a connected computer and send serial commands to the Arduino — each MIDI note-on event triggers the corresponding solenoid. The bottles play the melody. Load up "Fur Elise" and watch people's jaws drop.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Glass bottles can break if struck too hard. Solenoid force should be calibrated to produce a clean ring without cracking the glass. Test with expendable bottles first. Wear safety glasses during testing.
 - If a bottle cracks during play, stop immediately. Cracked glass has sharp edges and the water will spill onto the electronics below.
 - The solenoids draw significant current — a bank of 12 solenoids firing simultaneously can pull 10+ amps. Ensure your power supply is rated accordingly and fuse the circuit.
 - Water and electronics don't mix. Mount the solenoids and wiring above the bottles, not beside or below. If a bottle tips, you don't want water flooding the electronics.
 
-## See Also
+## 🔗 See Also
 
 - [PVC Pipe Organ](236-pvc-pipe-organ.md)
 - [Steel Tongue Drum](239-steel-tongue-drum.md)

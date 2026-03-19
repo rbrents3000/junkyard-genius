@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A full drum kit made from 5-gallon buckets fitted with piezo pickups, wired through an Arduino that converts each hit into a MIDI note. You get the raw acoustic thump of bucket drumming with the ability to trigger any drum sample in your computer — kick, snare, hi-hat, toms, cowbell, whatever you map it to.
 
@@ -20,7 +18,8 @@ Street bucket drummers already sound incredible. The problem is they're limited 
 
 Total cost is under $15 if you scrounge the buckets. A commercial electronic drum kit with similar MIDI capability runs $300-$800.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] 5-gallon plastic buckets, 4-5 of them *(source: hardware store, restaurants, or dumpsters — free to $3 each)*
 - [ ] Piezo discs, one per bucket *(source: electronics supplier or salvaged buzzers, ~$0.50 each)*
@@ -32,7 +31,9 @@ Total cost is under $15 if you scrounge the buckets. A commercial electronic dru
 - [ ] Hot glue, wire, solder *(source: workshop supplies)*
 - [ ] Scrap lumber for mounting frame (optional) *(source: scrap pile, free)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the buckets.** Clean and dry each bucket. If you want a quieter acoustic sound (so the MIDI samples dominate), cut circles of yoga mat or rubber and glue them to the bucket bottoms as dampening pads. You'll be hitting the bottoms, not the open tops.
 
@@ -50,12 +51,13 @@ Total cost is under $15 if you scrounge the buckets. A commercial electronic dru
 
 8. **Calibrate and play.** Adjust the threshold values in your Arduino code for each bucket — you want soft hits to register without ghost triggers from vibration crosstalk. Playing near a triggered bucket can cause sympathetic vibration in adjacent ones, so increase dead time or raise thresholds if you get false hits.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Piezo voltages.** A hard strike on a piezo disc can generate 20V+ peaks. The Zener diodes protect the Arduino, but don't skip them — unprotected analog inputs will fry.
+> [!WARNING]
+> **Piezo voltages.** A hard strike on a piezo disc can generate 20V+ peaks. The Zener diodes protect the Arduino, but don't skip them — unprotected analog inputs will fry.
 - **Bucket edges.** Cut bucket rims can be sharp. Sand or tape any cut edges to avoid slicing your hands while playing.
 
-## See Also
+## 🔗 See Also
 
 - [Cigar Box Guitar](235-cigar-box-guitar.md) — another junkyard instrument with piezo pickup for electronic output
 - [Steel Tongue Drum](239-steel-tongue-drum.md) — a more melodic percussion build from salvaged metal

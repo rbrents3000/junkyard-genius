@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A steel tongue drum (also called a tank drum or hank drum) made by cutting tuned tongues into the lid or bottom of a steel container — typically a propane tank, but a washing machine drum lid, a large steel bowl, or any thick-gauge steel dome works. Each tongue vibrates at a specific pitch when struck, and the hollow body amplifies the sound into warm, bell-like, meditative tones.
 
@@ -20,7 +18,8 @@ Commercial steel tongue drums and handpans sell for $300-$2,000. The sound is ha
 
 The tuning process requires patience and a chromatic tuner, but no musical training. If you can use an angle grinder and read a tuner app, you can build this.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Steel container — washing machine drum lid, old propane tank (MUST be completely purged), large steel mixing bowl, or steel wok *(source: dead appliance, scrapyard, or thrift store, free-$10)*
 - [ ] Angle grinder with cutting discs and flap discs *(source: workshop or harbor freight, $20 if buying new)*
@@ -31,7 +30,9 @@ The tuning process requires patience and a chromatic tuner, but no musical train
 - [ ] High-temp spray paint or clear coat (optional) *(source: hardware store, ~$5)*
 - [ ] Rubber or silicone feet, 3-4 *(source: hardware store, ~$3)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Source and clean the steel body.** Find a domed or concave steel piece at least 10-12 inches in diameter. Washing machine inner drum lids are ideal — they're the right gauge (1-2mm), the right curvature, and free from dead washers. If using a propane tank, it MUST be completely emptied, filled with water, drained, and left open for days before cutting. Clean all grease and residue from the steel.
 
@@ -51,13 +52,14 @@ The tuning process requires patience and a chromatic tuner, but no musical train
 
 9. **Play and enjoy.** Strike the tongues near their tips with fingertips, rubber mallets, or chopsticks. Experiment with striking force — lighter touches bring out the bell-like sustain, while harder hits activate more overtones. Because you tuned to a pentatonic scale, everything you play sounds musical. Improvise freely.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Angle grinder safety is critical.** Wear a full face shield (not just safety glasses), hearing protection, leather gloves, and long sleeves. Cutting discs can shatter. Never remove the grinder guard. Clamp the workpiece securely — never hold it with your free hand.
+> [!WARNING]
+> **Angle grinder safety is critical.** Wear a full face shield (not just safety glasses), hearing protection, leather gloves, and long sleeves. Cutting discs can shatter. Never remove the grinder guard. Clamp the workpiece securely — never hold it with your free hand.
 - **Propane tank warning.** If using a propane tank, incomplete purging can cause explosion when sparks from cutting ignite residual gas. The tank MUST be completely empty, filled with water and drained multiple times, and left open to air for several days. If you smell any gas, stop immediately. Many builders recommend only using tanks from a professional who has certified them as purged.
 - **Sharp metal edges.** Until sanded smooth, the cut tongues have razor-sharp edges. Don't play the drum until all edges are fully smoothed and rounded.
 
-## See Also
+## 🔗 See Also
 
 - [Bucket Drum Kit](237-bucket-drum-kit.md) — electronic percussion from even cheaper materials
 - [Thunder Drum](../sound-and-music/012-thunder-drum.md) — another percussion instrument from repurposed materials

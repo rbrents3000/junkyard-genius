@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A cigar box guitar is a 3-string slide guitar built from a wooden cigar box (the resonating body), a hardwood stick or broom handle (the neck), and steel wire or actual guitar strings. Bolt frets let you play in a specific key, and a piezo pickup under the lid turns it into an electric instrument you can plug into any amp.
 
@@ -20,7 +18,8 @@ This is not a toy. Cigar box guitars are a legitimate American folk tradition da
 
 The build takes an afternoon and costs almost nothing if you scrounge the parts.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Wooden cigar box with a hinged lid *(source: cigar shop — most give empties away free)*
 - [ ] Hardwood stick, broom handle, or 1x2 poplar board, ~36 inches long *(source: hardware store or shed, ~$3)*
@@ -32,7 +31,9 @@ The build takes an afternoon and costs almost nothing if you scrounge the parts.
 - [ ] Small piece of hardwood or bone for the nut and bridge *(source: scrap bin or hardware store)*
 - [ ] Wood screws, wood glue *(source: hardware store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Prepare the neck.** Cut or plane your hardwood stick to roughly 1.5" wide and 0.75" thick, about 36" long. Sand it smooth. One end will extend through the cigar box as the neck; the other end is the headstock where the tuning pegs go.
 
@@ -50,12 +51,13 @@ The build takes an afternoon and costs almost nothing if you scrounge the parts.
 
 8. **Set up and play.** Adjust the bridge height for comfortable action. If strings buzz, raise the bridge slightly. Grab a slide (glass bottle neck, socket wrench, or copper pipe) and play it like a slide guitar, or fret normally using your bolt frets.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
-- **Drilling through the cigar box requires care.** The thin wood splits easily. Use a sharp bit, go slow, and back it with scrap wood. Pre-drill all screw holes.
+> [!WARNING]
+> **Drilling through the cigar box requires care.** The thin wood splits easily. Use a sharp bit, go slow, and back it with scrap wood. Pre-drill all screw holes.
 - **String tension is real.** Guitar strings under tension can snap and whip. Wear safety glasses when stringing up for the first time. Tune up slowly.
 
-## See Also
+## 🔗 See Also
 
 - [Tin Can Banjo](238-tin-can-banjo.md) — same concept, different resonator, different sound
 - [Bucket Drum Kit](237-bucket-drum-kit.md) — another junkyard percussion/string instrument with electronic pickup
