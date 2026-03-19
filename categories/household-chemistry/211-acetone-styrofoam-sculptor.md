@@ -1,5 +1,9 @@
 # #211 — Acetone Styrofoam Sculptor
 
+<p align="center">
+  <img src="../../images/builds/211-acetone-styrofoam-sculptor.jpg" alt="Acetone Styrofoam Sculptor" width="700" />
+</p>
+
 > Acetone dissolves expanded polystyrene on contact, collapsing a trash bag of packing peanuts into a dense, moldable putty you can sculpt into anything.
 
 ## Ratings

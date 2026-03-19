@@ -1,5 +1,9 @@
 # #217 — Pool Shock Smoke Signals
 
+<p align="center">
+  <img src="../../images/builds/217-pool-shock-smoke-signals.jpg" alt="Pool Shock Smoke Signals" width="700" />
+</p>
+
 > Calcium hypochlorite granules plus brake fluid react with a time delay, then produce a thick column of dense white smoke that lasts for minutes.
 
 ## Ratings

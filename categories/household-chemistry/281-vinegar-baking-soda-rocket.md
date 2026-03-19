@@ -1,5 +1,9 @@
 # #281 — Vinegar Baking Soda Rocket
 
+<p align="center">
+  <img src="../../images/builds/281-vinegar-baking-soda-rocket.jpg" alt="Vinegar Baking Soda Rocket" width="700" />
+</p>
+
 > Film canister, vinegar, baking soda, CO2 pressure, liftoff. The gateway drug of backyard science. Scale it up with 2-liter bottles and things get genuinely impressive.
 
 ## Ratings

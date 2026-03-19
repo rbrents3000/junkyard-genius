@@ -1,5 +1,9 @@
 # #328 — Copper Plating with Vinegar
 
+<p align="center">
+  <img src="../../images/builds/328-copper-plating-with-vinegar.jpg" alt="Copper Plating with Vinegar" width="700" />
+</p>
+
 > Vinegar dissolves copper wire into a blue-green solution. Add a battery and you can electroplate anything conductive with a gorgeous layer of real copper. Kitchen alchemy at its finest.
 
 ## Ratings

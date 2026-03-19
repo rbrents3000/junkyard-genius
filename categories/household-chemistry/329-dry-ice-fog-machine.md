@@ -1,5 +1,9 @@
 # #329 — Dry Ice Fog Machine
 
+<p align="center">
+  <img src="../../images/builds/329-dry-ice-fog-machine.jpg" alt="Dry Ice Fog Machine" width="700" />
+</p>
+
 > Dry ice plus hot water plus a fan in a cooler equals low-lying theatrical fog that crawls across the floor like something out of a horror movie. Five minutes of build time, hours of atmosphere.
 
 ## Ratings
