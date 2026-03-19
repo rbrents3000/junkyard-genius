@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A tabletop wind tunnel is a transparent duct with airflow running through it, a smoke source to make the airflow visible, and a test section where you place objects and watch the air move around them. The vacuum cleaner motor at the downstream end pulls air through the tunnel by suction, creating a smooth, steady airflow in the test section. Smoke injected upstream — from incense sticks, a fog machine, or a smoldering piece of rope — creates thin streamlines that follow the air's path. When those streamlines encounter an object in the test section, they bend, separate, accelerate, swirl, and form turbulent wakes that you can see with your naked eyes. You're watching aerodynamics happen in real time. The same physics that keeps airplanes in the sky and makes race cars stick to the track is playing out at tabletop scale, right in front of you, made visible by a few wisps of smoke.
 
@@ -20,7 +18,8 @@ The construction follows the same principles used in real aerospace wind tunnels
 
 Place a model car in the test section and watch the smoke streamlines split around the hood, accelerate over the roof, and tumble into a chaotic wake behind the trunk — that wake is drag, and you can see exactly how much each shape creates. Carve an airfoil (wing cross-section) from foam and mount it at different angles: at a low angle of attack, the streamlines follow the surface smoothly and you can see the air moving faster over the top (creating lift by Bernoulli's principle). Increase the angle and at some point the flow separates from the top surface in a sudden, dramatic stall — the streamlines go from smooth to chaotic in an instant. Test building shapes to see how wind loads distribute. Test paper airplane designs before flying them. A dimmer switch on the motor lets you vary the wind speed continuously, from a gentle breeze to a miniature gale. The whole thing sits on a desk, costs less than $30 in materials (most of it the acrylic), and teaches more about aerodynamics in an afternoon than a semester of equations.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Vacuum cleaner motor + fan assembly — from a dead upright or canister vacuum; the motor is the air mover *(curbside, e-waste bin, thrift store — free)*
 - [ ] Clear acrylic sheet or clear storage bin — for the transparent test section *(hardware store or craft store, ~$15; or repurpose a clear plastic storage box)*
@@ -37,7 +36,9 @@ Place a model car in the test section and watch the smoke streamlines split arou
 - [ ] Optional: thin wire or fishing line — for suspending test objects in the center of the airflow *(junk drawer)*
 - [ ] Optional: small tubes or straws — for a smoke rake that injects multiple parallel streams *(junk drawer)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Design the layout.** A wind tunnel has four sections in a line: intake with flow straightener, contraction cone, test section, and diffuser leading to the motor. For a tabletop build, target a test section with a 6-8 inch square cross-section and 12-18 inches of length. The intake should be at least twice the cross-sectional area of the test section (12-16 inches square). The contraction cone tapers smoothly from the intake size down to the test section size over about 12 inches. The diffuser expands from the test section size to the motor duct connection over another 12 inches. Sketch the dimensions before cutting anything.
 
@@ -59,7 +60,7 @@ Place a model car in the test section and watch the smoke streamlines split arou
 
 10. **Photograph and document.** The smoke patterns are ephemeral — photograph or video them for comparison. Use a dark background behind the test section and strong LED sidelighting for the best contrast. Long-exposure photographs (1-2 second shutter) smooth out instantaneous turbulent fluctuations and show the time-averaged flow pattern, which is often more informative than a snapshot. Compare the flow around different shapes at the same wind speed to see which designs create the most and least drag.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Vacuum motors are loud, especially at high speed in an enclosed duct. Wear hearing protection during extended testing sessions.
 - The motor housing gets hot during prolonged operation. Don't touch it after more than 10-15 minutes of continuous running. Give it cool-down breaks.
@@ -68,7 +69,7 @@ Place a model car in the test section and watch the smoke streamlines split arou
 - Acrylic dust from cutting is an irritant — wear a dust mask and safety glasses when cutting acrylic. Cut acrylic with a fine-toothed saw or score-and-snap method, not a high-speed grinder.
 - If using a fog machine, ventilate the room. Continuous fog machine use in a closed room can trigger smoke detectors and irritate airways.
 
-## See Also
+## 🔗 See Also
 
 - [Vacuum Hovercraft](075-vacuum-hovercraft.md)
 - [Wall-Climbing Robot](076-wall-climbing-robot.md)

@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A real air hockey table works by blowing air upward through hundreds of tiny holes in a flat surface, creating a thin cushion of air that a lightweight puck floats on. The puck rides on this air film with almost zero friction, gliding and bouncing off bumper rails like it's weightless. Commercial air hockey tables cost $200 at the low end and $2,000+ for arcade quality. This build does the same thing using a reversed vacuum cleaner motor, a sheet of MDF drilled with hundreds of holes, and a sealed box underneath (the plenum) that distributes the air pressure evenly across the playing surface. The motor blows air into the plenum, the plenum pressurizes, and air escapes upward through every hole simultaneously, creating a uniform air cushion across the entire table. Total materials cost: about $25, assuming the vacuum motor is free from a dead vacuum.
 
@@ -20,7 +18,8 @@ The physics is elegant in its simplicity. The puck needs to be lightweight (a fe
 
 The vacuum motor is overkill for this job — a typical vacuum motor pushes 1000-1500 watts, enough to levitate a bowling ball if you drilled enough holes. A dimmer switch or router speed controller dials the airflow back to the sweet spot: enough pressure to float the puck smoothly, but not so much that it blasts the puck off the table or creates a wind tunnel above the surface. The critical construction detail is the drilling pattern — the holes need to be evenly spaced (about 1 inch apart in a grid), consistently sized (1/16 inch diameter), and cleanly deburred on the top surface. Any rough edges catch the puck and ruin the glide. The plenum box underneath needs to be sealed well enough that air preferentially escapes through the holes, not through gaps in the box joints. Get those two things right — clean holes and a sealed plenum — and you have a fully functional air hockey table that plays exactly like the ones in arcades. Add bumper rails, goals, scoring slots, and a couple of paddles carved from scrap wood or acrylic, and you're hosting tournaments.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Vacuum cleaner motor — reversed for blow mode; from a dead upright or canister vacuum *(curbside, e-waste bin, thrift store — free)*
 - [ ] MDF or smooth plywood, 4'x2' — the playing surface; MDF is preferred because it's smoother and drills cleaner than plywood *(hardware store, ~$10)*
@@ -40,7 +39,9 @@ The vacuum motor is overkill for this job — a typical vacuum motor pushes 1000
 - [ ] Optional: electronic scoreboard — Arduino + 7-segment displays + IR break-beam sensors in the goals *(electronics supplier, ~$10)*
 - [ ] Optional: LED strip — mount under the translucent playing surface or along the rails for glow effect *(electronics supplier, ~$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Build the plenum box.** Cut strips of plywood or MDF 4-6 inches tall and assemble them into a rectangular box matching the footprint of the playing surface (4'x2' or whatever size you've chosen). Leave the top completely open — the playing surface will become the lid. Cut a hole in one end wall sized to accept the PVC duct from the vacuum motor. Glue and screw all joints. Seal every seam — inside corners, outside edges, screw holes — with silicone caulk. The plenum must be airtight so that all air pressure escapes upward through the drilled holes in the playing surface, not through gaps in the box. Test by sealing the top with a flat board and blowing into the duct hole — you should feel resistance. If air hisses out of joints, seal them.
 
@@ -66,7 +67,7 @@ The vacuum motor is overkill for this job — a typical vacuum motor pushes 1000
 
 12. **Play and iterate.** Drop the puck, grab the paddles, and test. The puck should glide effortlessly and bounce cleanly off the rails. If it stalls in certain areas, check for clogged holes, surface roughness, or uneven plenum pressure underneath. If it floats too aggressively and bounces unpredictably, dial back the motor speed. If the paddles don't float (they're heavier than the puck), you may need slightly more airflow or lighter paddles. Paint goal lines, a center line, and a face-off circle for the full arcade experience. Add LED strips under the rails or beneath a translucent playing surface for a glow-table effect.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The vacuum motor is loud — expect 70-85 dB during play. Hearing protection is recommended for extended sessions, especially indoors.
 - Keep fingers away from the motor fan housing — the reversed motor exhaust port is now an open intake, and long hair, loose clothing, or fingers near the intake can be caught by the spinning impeller.
@@ -75,7 +76,7 @@ The vacuum motor is overkill for this job — a typical vacuum motor pushes 1000
 - If the MDF playing surface warps from humidity, the air cushion becomes uneven and the puck behaves erratically. Seal the surface with polyurethane to prevent moisture absorption. Store the table in a climate-controlled space.
 - The puck can fly off the table if hit hard near a rail gap or if the air pressure is too high. Play at a motor speed that provides smooth float without launching the puck upward. Keep the puck lightweight — a heavy puck hit hard can sting if it catches someone.
 
-## See Also
+## 🔗 See Also
 
 - [Vacuum Hovercraft](075-vacuum-hovercraft.md)
 - [Vacuum Leaf Blower](078-vacuum-leaf-blower.md)

@@ -8,15 +8,14 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A hovercraft works by trapping a cushion of high-pressure air under a platform. The air continuously escapes around the edges, but if you pump in more air than leaks out, the platform lifts off the ground and rides on a nearly frictionless air film. A vacuum cleaner motor is the perfect air pump for a personal-sized hovercraft — it moves 50-100 CFM of air at 1000+ watts. Mount the motor in the center of a circular plywood disc, blow air downward through a hole, contain it with a flexible skirt (trash bags work great), and the platform lifts a person. Add a leaf blower mounted horizontally for propulsion and you have a vehicle that glides over flat surfaces, water, grass, and ice.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Vacuum cleaner motor — upright or canister, 1000W+ *(dead vacuum)*
 - [ ] Circular plywood disc — 4 feet diameter, 3/4" thick *(hardware store, ~$15)*
@@ -27,7 +26,9 @@ A hovercraft works by trapping a cushion of high-pressure air under a platform. 
 - [ ] Optional: leaf blower — for forward propulsion *(thrift store or dead unit's motor)*
 - [ ] Optional: battery + inverter — for cordless operation *(auto parts store)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Cut the platform.** Draw a 4-foot diameter circle on 3/4" plywood. Cut it out with a jigsaw. Sand the edges smooth. The platform needs to be stiff — if it flexes, the air cushion collapses. Use a thicker plywood or add a cross-brace underneath if it's floppy.
 2. **Cut the air intake hole.** Cut a 6-inch diameter hole in the center of the platform. This is where the vacuum motor blows air downward into the skirt chamber.
@@ -40,13 +41,13 @@ A hovercraft works by trapping a cushion of high-pressure air under a platform. 
 9. **Test ride.** Sit or stand on the platform (stand near the center for stability). Power on the lift motor. The platform should still hover with your weight. Push off a wall or use the leaf blower for propulsion. Start on smooth, flat surfaces — garages, basketball courts, or calm water.
 10. **Iterate.** If the hover is marginal, the motor isn't moving enough air or the skirt is leaking. Seal tape joints, reduce vent hole sizes, or add a second vacuum motor. Lighter riders hover more easily — this is physics, not a judgment.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - The hovercraft has no brakes. It rides on a nearly frictionless air cushion, so stopping requires friction from turning off the motor and letting the skirt drag, or bumping into something. Start in open areas away from obstacles, walls, water edges, and drops.
 - The vacuum motor draws high current (10-12 amps). Use a properly rated extension cord and GFCI outlet. If operating near water, a GFCI is mandatory — electrocution risk is real.
 - Hovercrafts on water are not boats. They have no buoyancy when the motor stops. Do not hover over water deeper than you can stand in, and always wear a life jacket.
 
-## See Also
+## 🔗 See Also
 
 - [Wall-Climbing Robot](076-wall-climbing-robot.md)
 - [Vacuum Leaf Blower](078-vacuum-leaf-blower.md)

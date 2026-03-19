@@ -10,11 +10,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 Sandblasting is the brute-force approach to surface prep. You hurl tiny
 abrasive particles at a surface at high speed, and those particles rip
@@ -47,9 +45,12 @@ didn't intend to, like your car's paint or your neighbor's opinion of
 you. Even a crude scrap-plywood cabinet transforms this from a messy
 outdoor tool into something you can use in a garage year-round.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Vacuum cleaner motor — working motor from a dead upright or
+
+</details>
   canister, 1000W+ preferred *(curbside / e-waste, free)*
 - [ ] PVC pipe — 1.5" diameter, about 3 feet total *(hardware store,
   ~$5)*
@@ -76,7 +77,7 @@ outdoor tool into something you can use in a garage year-round.
 - [ ] Optional: 3/4" plywood, plexiglass sheet, rubber dish gloves —
   for building a blasting cabinet *(hardware store, ~$25-40)*
 
-## Build Steps
+## 🔨 Build Steps
 
 1. **Extract the motor.** Pull the motor assembly out of the dead
    vacuum. You need the motor and its impeller fan — ditch the housing,
@@ -157,7 +158,7 @@ outdoor tool into something you can use in a garage year-round.
     replace, but aluminum oxide and glass bead at $10-15 a bag are
     worth screening and reusing.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - Silicosis is real and permanent. Inhaling fine silica dust causes
   irreversible lung scarring — no treatment, no recovery. Wear a P100
@@ -178,7 +179,7 @@ outdoor tool into something you can use in a garage year-round.
   is gentler but makes finer dust. Same respiratory protection required
   regardless of media type.
 
-## See Also
+## 🔗 See Also
 
 - [Vacuum Hovercraft](075-vacuum-hovercraft.md)
 - [Vacuum Leaf Blower](078-vacuum-leaf-blower.md)

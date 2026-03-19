@@ -8,11 +8,9 @@
 
 ## Ratings
 
-| Jaw Drop Rating | Brain Melt Level | Wallet Damage | Spicy Level | Clout Potential | Time to Build |
-|---|---|---|---|---|---|
-| ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐ |
+![Jaw Drop](https://img.shields.io/badge/Jaw_Drop-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-ff6b35) ![Brain Melt](https://img.shields.io/badge/Brain_Melt-%E2%AD%90%E2%AD%90-3b82f6) ![Wallet](https://img.shields.io/badge/Wallet-%E2%AD%90%E2%AD%90-22c55e) ![Spicy](https://img.shields.io/badge/Spicy-%E2%AD%90%E2%AD%90%E2%AD%90-ef4444) ![Clout](https://img.shields.io/badge/Clout-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-7c3aed) ![Time](https://img.shields.io/badge/Time-%E2%AD%90%E2%AD%90-6b7280)
 
-## What Is It?
+## 🧪 What Is It?
 
 A pneumatic launcher is a tube that shoots things using compressed air. The concept is dead simple: pressurize a sealed chamber, put a projectile in a barrel connected to that chamber, open a valve quickly, and the rush of air accelerates the projectile out the barrel at speeds that range from "fun" to "genuinely alarming." Commercial T-shirt cannons at sporting events work on this exact principle. So do potato guns, ball launchers, and pneumatic cannons used in film special effects. The only difference between them is the air source and how much pressure you're working with.
 
@@ -24,7 +22,8 @@ Where this gets interesting is the range of applications. A vacuum-powered launc
 
 The critical component is the release valve. A ball valve works but requires a quick quarter-turn to open fully. A sprinkler valve (actuated by a 9V battery) opens in milliseconds for a faster, cleaner air dump and dramatically more consistent shots. Valve speed matters enormously — a slow-opening valve allows the chamber to partially depressurize before full flow is established, wasting energy. An instant-open valve dumps the full chamber pressure all at once, giving maximum initial acceleration. The difference between a casual ball-valve twist and a snappy sprinkler valve release can double your range. Either way, the valve sits between the pressure chamber and the barrel. Pressurize, load, trigger, launch. It's the most crowd-pleasing build in this entire category, and the one most likely to get you invited to neighborhood block parties.
 
-## Ingredients
+<details>
+<summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Vacuum cleaner motor — from a dead upright or canister, 1000W+ preferred for faster charge times *(curbside, e-waste bin, thrift store)*
 - [ ] PVC pipe, 4" diameter, Schedule 40 — about 2 feet for the pressure chamber *(hardware store, ~$10)*
@@ -57,7 +56,9 @@ The critical component is the release valve. A ball valve works but requires a q
 - [ ] Optional: car battery + 12V-to-120V inverter — for cordless operation *(auto parts store, ~$25-40)*
 - [ ] Optional: silicone sealant — for stubborn leaks that cement and tape can't fix *(hardware store, ~$5)*
 
-## Build Steps
+</details>
+
+## 🔨 Build Steps
 
 1. **Plan the layout.** The launcher has three main sections in a line: pressure chamber (large PVC), valve (ball valve or sprinkler valve), and barrel (smaller PVC). The vacuum motor feeds air into the chamber through a side port. The pressure gauge and relief valve mount on the chamber body. Sketch this on paper before cutting anything — include dimensions, fitting types, and where each port goes. Label every piece with its position. A clear plan prevents the most common mistake: gluing a fitting in the wrong orientation.
 
@@ -99,7 +100,7 @@ The critical component is the release valve. A ball valve works but requires a q
 
 20. **Prep for events.** If you're running this at a block party, school demo, or charity fundraiser, rehearse the full cycle: charge, load, fire, reload. Bring spare projectiles, a backup 9V battery for the sprinkler valve, and duct tape for field repairs. Pre-charge before each shot — there's nothing more deflating than a crowd watching a pressure gauge creep upward in silence. Have someone on reload duty feeding you prepped projectiles. The difference between a polished performance and a fumbling one is logistics, not engineering.
 
-## Safety Notes
+## ⚠️ Safety Notes
 
 - PVC pipe is not rated for pneumatic pressure service. Schedule 40 PVC handles water pressure, but air pressure failures are more dangerous because compressed air stores energy — water doesn't. PVC fails by shattering into sharp fragments, not by splitting. Stay under 20 PSI for this build. The safety relief valve is your insurance policy.
 - Never stand in front of the barrel. Never point the barrel at anyone, even when the chamber is "empty." Treat it like a firearm: always pointed in a safe direction, always assume it's loaded.
@@ -117,7 +118,7 @@ The critical component is the release valve. A ball valve works but requires a q
 - If the vacuum motor overheats (you'll smell it), shut it down immediately and let it cool for 10-15 minutes. Running the motor continuously for long charge cycles wears the brushes and windings. Short duty cycles — 30 seconds on, fire, repeat — are fine. Five minutes of continuous run time is not.
 - Test the relief valve before your first real session. Pressurize the chamber slowly and confirm the valve actually opens at its rated pressure. A stuck relief valve provides zero protection. Tap it with a wrench while the chamber is at a few PSI to make sure it's not seized.
 
-## See Also
+## 🔗 See Also
 
 - [Vacuum Leaf Blower](078-vacuum-leaf-blower.md)
 - [Vacuum Hovercraft](075-vacuum-hovercraft.md)
