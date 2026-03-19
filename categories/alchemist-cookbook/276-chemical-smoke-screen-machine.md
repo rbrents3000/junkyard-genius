@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Chemical Smoke Screen Machine"
+build_number: 276
+description: "Drip glycerin onto a red-hot toaster element and disappear behind a wall of dense white smoke like a budget action movie villain."
+image: /images/builds/276-chemical-smoke-screen-machine.jpg
+category: alchemist-cookbook
+category_name: "Alchemist Cookbook"
+tags: [pyro, chemistry, spectacle]
+junk: [laptop]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 3
+  clout: 4
+  time: 2
+---
 # #276 — Chemical Smoke Screen Machine
 
 <p align="center">

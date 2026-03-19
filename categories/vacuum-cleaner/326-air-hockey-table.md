@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Air Hockey Table"
+build_number: 326
+description: "Reverse a vacuum cleaner motor for upflow through a drilled surface. Add a puck and paddles. Game on."
+image: /images/builds/326-air-hockey-table.jpg
+category: vacuum-cleaner
+category_name: "Vacuum Cleaner"
+tags: [functional, practical]
+junk: [printer, microwave, arduino, scooter]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #326 — Air Hockey Table
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Auto Plant Watering"
+build_number: 127
+description: "Soil moisture sensors trigger a pump through an Arduino relay — your plants water themselves and log the data."
+image: /images/builds/127-auto-plant-watering.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino, laptop]
+ratings:
+  jaw: 2
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 2
+  time: 2
+---
 # #127 — Auto Plant Watering
 
 <p align="center">

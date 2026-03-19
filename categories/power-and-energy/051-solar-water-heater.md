@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Solar Water Heater"
+build_number: 51
+description: "Black-painted copper pipe coiled in an insulated box with a glass top. Sunlight heats water to 120-150°F. Free hot water, zero moving parts."
+image: /images/builds/051-solar-water-heater.jpg
+category: power-and-energy
+category_name: "Power & Energy"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 2
+  time: 2
+---
 # #051 — Solar Water Heater
 
 <p align="center">

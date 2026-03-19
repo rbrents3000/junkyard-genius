@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Magnetic Levitating Display Stand"
+build_number: 259
+description: "Electromagnet + hall sensor + PID feedback loop. Objects float in mid-air with no strings, no supports, no tricks."
+image: /images/builds/259-magnetic-levitating-display.jpg
+category: pranks-and-party
+category_name: "Pranks & Party"
+tags: [spectacle, creative]
+junk: [arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #259 — Magnetic Levitating Display Stand
 
 <p align="center">

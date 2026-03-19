@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Prince Rupert's Drop"
+build_number: 190
+description: "Molten glass dropped in water creates a tadpole that shrugs off a hammer blow — then explodes if you breathe on its tail."
+image: /images/builds/190-prince-ruperts-drop.jpg
+category: mechanical-and-kinetic
+category_name: "Mechanical & Kinetic"
+tags: [educational, skill, mechanical]
+junk: [microwave, laptop]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 1
+  spicy: 3
+  clout: 5
+  time: 1
+---
 # #190 — Prince Rupert's Drop
 
 <p align="center">

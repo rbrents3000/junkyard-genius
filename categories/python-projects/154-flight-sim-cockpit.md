@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Flight Sim Cockpit"
+build_number: 154
+description: "FlightGear on salvaged laptop screens, a physical joystick from old peripherals, and an Arduino-driven instrument panel."
+image: /images/builds/154-flight-sim-cockpit.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: [microwave, arduino, laptop, scooter]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 3
+  spicy: 1
+  clout: 4
+  time: 4
+---
 # #154 — Flight Sim Cockpit
 
 <p align="center">

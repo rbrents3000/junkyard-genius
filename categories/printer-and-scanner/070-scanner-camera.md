@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Scanner Camera"
+build_number: 70
+description: "A flatbed scanner is a giant linear CCD sensor. Add a lens and a light-tight box, and it becomes an ultra-high-resolution camera. Artists use these."
+image: /images/builds/070-scanner-camera.jpg
+category: printer-and-scanner
+category_name: "Printer & Scanner"
+tags: [skill, practical]
+junk: [printer]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #070 — Scanner Camera
 
 <p align="center">

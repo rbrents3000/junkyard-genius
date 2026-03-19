@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Python Libraries for Builds"
+description: "Key Python packages that power the software side of Junkyard Genius builds — computer vision, audio processing, machine learning, and hardware control."
+---
 # Python Libraries for Builds
 
 <p align="center">

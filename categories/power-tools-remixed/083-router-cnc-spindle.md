@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Router CNC Spindle"
+build_number: 83
+description: "Wood routers spin at 25,000+ RPM with a collet that holds bits. That makes them excellent CNC spindles for cutting wood, aluminum, and plastic."
+image: /images/builds/083-router-cnc-spindle.jpg
+category: power-tools-remixed
+category_name: "Power Tools Remixed"
+tags: [functional, practical]
+junk: [printer, scooter]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 2
+  clout: 3
+  time: 1
+---
 # #083 — Router CNC Spindle
 
 <p align="center">

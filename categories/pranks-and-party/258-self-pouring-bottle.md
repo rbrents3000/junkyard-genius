@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Self-Pouring Bottle"
+build_number: 258
+description: "Hidden pump + tubing inside a bottle. Tilt it and liquid flows on its own. Looks like straight-up witchcraft."
+image: /images/builds/258-self-pouring-bottle.jpg
+category: pranks-and-party
+category_name: "Pranks & Party"
+tags: [spectacle, creative]
+junk: [microwave]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #258 — Self-Pouring Bottle
 
 <p align="center">

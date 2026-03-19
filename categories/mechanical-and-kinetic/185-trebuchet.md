@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Trebuchet"
+build_number: 185
+description: "A medieval siege engine built from a bed frame and spite — capable of launching pumpkins into the next zip code."
+image: /images/builds/185-trebuchet.jpg
+category: mechanical-and-kinetic
+category_name: "Mechanical & Kinetic"
+tags: [educational, skill, mechanical]
+junk: []
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 3
+  clout: 5
+  time: 3
+---
 # #185 — Trebuchet
 
 <p align="center">

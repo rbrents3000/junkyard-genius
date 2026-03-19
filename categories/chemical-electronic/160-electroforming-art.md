@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Electroforming Art"
+build_number: 160
+description: "Heavy copper buildup on wax or 3D printed molds — dissolve the mold and you have hollow copper sculptures. Jewelers charge hundreds."
+image: /images/builds/160-electroforming-art.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 3
+  clout: 5
+  time: 4
+---
 # #160 — Electroforming Art
 
 <p align="center">

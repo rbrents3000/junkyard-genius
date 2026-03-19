@@ -1,3 +1,21 @@
+---
+layout: build
+title: "FPV RC Boat"
+build_number: 208
+description: "A waterproof hull, a drone brushless motor with prop, a live camera feed, and FPV goggles — explore lakes and ponds from the boat's perspective."
+image: /images/builds/208-fpv-rc-boat.jpg
+category: drone-salvage
+category_name: "Drone Salvage"
+tags: [skill, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 2
+  clout: 5
+  time: 3
+---
 # #208 — FPV RC Boat
 
 <p align="center">

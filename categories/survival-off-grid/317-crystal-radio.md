@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Crystal Radio"
+build_number: 317
+description: "Zero batteries. Zero power source. Receives AM radio from pure electromagnetic energy harvested from the broadcast signal itself."
+image: /images/builds/317-crystal-radio.jpg
+category: survival-off-grid
+category_name: "Survival & Off-Grid"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #317 — Crystal Radio
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Electrolysis Rust Eraser"
+build_number: 212
+description: "Washing soda, water, a battery charger, and a sacrificial piece of scrap steel — electrolysis pulls rust out of pits and crevices that sandpaper can't reach."
+image: /images/builds/212-electrolysis-rust-eraser.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: [laptop, chemical]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #212 — Electrolysis Rust Eraser
 
 <p align="center">

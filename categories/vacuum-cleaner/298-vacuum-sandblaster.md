@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Vacuum Sandblaster"
+build_number: 298
+description: "A reversed vacuum motor feeds pressurized air through a siphon tube,"
+image: /images/builds/298-vacuum-sandblaster.jpg
+category: vacuum-cleaner
+category_name: "Vacuum Cleaner"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 2
+  spicy: 2
+  clout: 3
+  time: 2
+---
 # #298 — Vacuum Sandblaster
 
 <p align="center">

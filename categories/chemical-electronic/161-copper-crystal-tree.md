@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Copper Crystal Tree"
+build_number: 161
+description: "Drop an iron nail in copper sulfate solution — iron displaces copper, depositing dendritic crystal branches over hours. Time-lapse it."
+image: /images/builds/161-copper-crystal-tree.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: []
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #161 — Copper Crystal Tree
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Laser Tripwire Security System"
+build_number: 268
+description: "Invisible security from a $2 laser. Every spy movie you have ever watched just became a weekend project."
+image: /images/builds/268-laser-tripwire-alarm.jpg
+category: laser-lab
+category_name: "Laser Lab"
+tags: [spectacle, skill]
+junk: [arduino, laptop]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #268 — Laser Tripwire Security System
 
 <p align="center">

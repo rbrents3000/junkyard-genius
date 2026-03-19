@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Kinetic Sand Table"
+build_number: 312
+description: "A hidden magnet beneath glass drags a steel ball through sand, drawing infinite geometric patterns in silence. A Zen garden that draws itself."
+image: /images/builds/312-kinetic-sand-table.jpg
+category: art-and-installation
+category_name: "Art & Installation"
+tags: [visual, spectacle, art]
+junk: [scooter, printer, microwave, arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 4
+---
 # #312 — Kinetic Sand Table
 
 <p align="center">

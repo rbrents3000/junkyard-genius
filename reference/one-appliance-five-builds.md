@@ -1,3 +1,8 @@
+---
+layout: default
+title: "You Just Scored a Dead [X] — Here Are 5 Things to Make"
+description: "Every dead appliance is a donor body. Here's what to build with each one — from first cut to final project."
+---
 # You Just Scored a Dead [X] — Here Are 5 Things to Make
 
 <p align="center">

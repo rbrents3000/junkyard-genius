@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Vacuum Leaf Blower"
+build_number: 78
+description: "Vacuum motors blow as hard as they suck. Add a PVC nozzle to the exhaust side. 100+ mph air. Free yard tool from a dead vacuum."
+image: /images/builds/078-vacuum-leaf-blower.jpg
+category: vacuum-cleaner
+category_name: "Vacuum Cleaner"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 2
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 2
+  time: 1
+---
 # #078 — Vacuum Leaf Blower
 
 <p align="center">

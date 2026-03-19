@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Drill-Powered Lathe"
+build_number: 306
+description: "Hand drill clamped in a wooden cradle + tailstock from a bolt and bearing. Functional wood lathe. Variable speed via the trigger."
+image: /images/builds/306-drill-powered-lathe.jpg
+category: power-tools-remixed
+category_name: "Power Tools Remixed"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 2
+  clout: 3
+  time: 2
+---
 # #306 — Drill-Powered Lathe
 
 <p align="center">

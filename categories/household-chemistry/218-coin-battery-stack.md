@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Coin Battery Stack"
+build_number: 218
+description: "Copper coins, zinc washers, vinegar-soaked cardboard spacers — stack them up and you've built a voltaic pile that generates enough voltage to light an LED. The original battery, reinvented from pocket change."
+image: /images/builds/218-coin-battery-stack.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: []
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #218 — Coin Battery Stack
 
 <p align="center">

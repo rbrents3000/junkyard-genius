@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Smoke Bomb Array"
+build_number: 103
+description: "KNO3 and sugar fused into smoke bombs, sequenced with a Pi controller for synchronized color eruptions."
+image: /images/builds/103-smoke-bomb-array.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: [arduino, chemical]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 3
+  clout: 5
+  time: 2
+---
 # #103 — Smoke Bomb Array
 
 <p align="center">

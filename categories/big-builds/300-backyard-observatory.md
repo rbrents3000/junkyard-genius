@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Backyard Observatory"
+build_number: 300
+description: "A rotating dome, a telescope, and a Raspberry Pi that tracks Jupiter for you while you drink coffee. Your HOA will hate it. Your neighbors will love it."
+image: /images/builds/300-backyard-observatory.jpg
+category: big-builds
+category_name: "Big Builds"
+tags: [spectacle, functional]
+junk: [microwave, arduino, scooter]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 3
+  spicy: 1
+  clout: 5
+  time: 4
+---
 # #300 — Backyard Observatory
 
 <p align="center">

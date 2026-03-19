@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Electromagnetic Can Crusher"
+build_number: 35
+description: "A massive capacitor bank discharges through a coil wrapped around an aluminum can. Eddy currents generate an opposing magnetic field that crushes the can inward in milliseconds. Physics at its most violent."
+image: /images/builds/035-electromagnetic-can-crusher.jpg
+category: mad-scientist
+category_name: "Mad Scientist"
+tags: [educational, spectacle]
+junk: [microwave]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 3
+  spicy: 4
+  clout: 5
+  time: 3
+---
 # #035 — Electromagnetic Can Crusher
 
 <p align="center">

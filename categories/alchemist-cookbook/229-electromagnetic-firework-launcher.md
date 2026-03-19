@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Electromagnetic Firework Launcher"
+build_number: 229
+description: "A coil gun launches firework shells silently on electromagnetic force, with electrical ignition at altitude. No black powder lift charge. No mortar tube bang. Just physics and fire in the sky."
+image: /images/builds/229-electromagnetic-firework-launcher.jpg
+category: alchemist-cookbook
+category_name: "Alchemist Cookbook"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave, arduino]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 3
+  spicy: 5
+  clout: 5
+  time: 4
+---
 # #229 — Electromagnetic Firework Launcher
 
 <p align="center">

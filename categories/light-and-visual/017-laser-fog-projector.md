@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Laser Fog Projector"
+build_number: 17
+description: "A laser pointer bouncing off a spinning mirror in fog creates sweeping geometric patterns across the sky."
+image: /images/builds/017-laser-fog-projector.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 2
+  clout: 4
+  time: 1
+---
 # #017 — Laser Fog Projector
 
 <p align="center">

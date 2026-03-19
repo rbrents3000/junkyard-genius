@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Junk Ice Cream Maker"
+build_number: 98
+description: "Motor from a dead drill, a tin can, rock salt, and ice. Fresh ice cream in 20 minutes from parts headed for the landfill."
+image: /images/builds/098-junk-ice-cream-maker.jpg
+category: fridge-and-cooling
+category_name: "Fridge & Cooling"
+tags: [functional, practical]
+junk: [microwave, scooter, fridge]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #098 — Junk Ice Cream Maker
 
 <p align="center">

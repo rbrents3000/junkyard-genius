@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Laptop Battery Powerwall"
+build_number: 288
+description: "Fifty dead laptops walk into a garage. None of them leave. Their batteries become a wall of stored energy that keeps your lights on when the grid goes dark."
+image: /images/builds/288-laptop-battery-powerwall.jpg
+category: power-and-energy
+category_name: "Power & Energy"
+tags: [functional, practical]
+junk: [laptop]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 3
+  spicy: 3
+  clout: 4
+  time: 5
+---
 # #288 — Laptop Battery Powerwall
 
 <p align="center">

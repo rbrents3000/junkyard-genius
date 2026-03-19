@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Kinetic Wind Sculpture"
+build_number: 43
+description: "Scrap metal, salvaged bearings, and balanced arms spin and sway in the wind. Art that moves itself, powered by nothing but air."
+image: /images/builds/043-kinetic-wind-sculpture.jpg
+category: art-and-installation
+category_name: "Art & Installation"
+tags: [visual, spectacle, art]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #043 — Kinetic Wind Sculpture
 
 <p align="center">

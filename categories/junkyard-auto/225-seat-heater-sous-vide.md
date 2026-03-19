@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Seat Heater Sous Vide"
+build_number: 225
+description: "Flexible car seat heater element + PID temperature controller = a precision sous vide cooker that holds temperature within one degree."
+image: /images/builds/225-seat-heater-sous-vide.jpg
+category: junkyard-auto
+category_name: "Junkyard Auto"
+tags: [functional, practical, mechanical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #225 — Seat Heater Sous Vide
 
 <p align="center">

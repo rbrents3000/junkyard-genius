@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Ignition Coil KNO3 Flame Jet"
+build_number: 231
+description: "Car ignition coil sparks into a KNO3/sugar fuel grain = a self-oxidizing flame jet that burns underwater. Because regular fire is for amateurs."
+image: /images/builds/231-ignition-coil-kno3-flame-jet.jpg
+category: alchemist-cookbook
+category_name: "Alchemist Cookbook"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave, chemical]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 1
+  spicy: 5
+  clout: 5
+  time: 2
+---
 # #231 — Ignition Coil KNO3 Flame Jet
 
 <p align="center">

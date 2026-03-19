@@ -1,3 +1,21 @@
+---
+layout: build
+title: "DIY Spectroscope"
+build_number: 309
+description: "Split light into its fingerprint with a dead DVD and a cereal box. Actual spectroscopy with trash."
+image: /images/builds/309-diy-spectroscope.jpg
+category: weird-science
+category_name: "Weird Science"
+tags: [educational, spectacle]
+junk: [laptop]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #309 — DIY Spectroscope
 
 <p align="center">

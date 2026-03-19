@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Motorized Laser Spirograph"
+build_number: 271
+description: "Two mirrors, two motors, one laser, infinite patterns. Add fog and prepare to lose an hour staring at the ceiling."
+image: /images/builds/271-laser-spirograph.jpg
+category: laser-lab
+category_name: "Laser Lab"
+tags: [spectacle, skill]
+junk: [microwave, scooter]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 1
+  spicy: 2
+  clout: 5
+  time: 2
+---
 # #271 — Motorized Laser Spirograph
 
 <p align="center">

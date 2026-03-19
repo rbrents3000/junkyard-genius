@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Aeolian Wind Harp"
+build_number: 13
+description: "Strings tuned to resonate with the wind — place it outside and it plays haunting chords entirely on its own."
+image: /images/builds/013-aeolian-wind-harp.jpg
+category: sound-and-music
+category_name: "Sound & Music"
+tags: [creative, art, music]
+junk: []
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #013 — Aeolian Wind Harp
 
 <p align="center">

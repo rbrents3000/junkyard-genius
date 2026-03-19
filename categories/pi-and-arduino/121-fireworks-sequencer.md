@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Fireworks Sequencer"
+build_number: 121
+description: "A Raspberry Pi with a relay board and nichrome igniters gives you professional-grade fireworks show timing."
+image: /images/builds/121-fireworks-sequencer.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 4
+  clout: 5
+  time: 2
+---
 # #121 — Fireworks Sequencer
 
 <p align="center">

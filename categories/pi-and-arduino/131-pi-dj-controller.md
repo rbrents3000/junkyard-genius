@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Pi DJ Controller"
+build_number: 131
+description: "Rotary encoders, potentiometers, and buttons wired to a Pi running Python audio processing — a full DJ setup from e-waste."
+image: /images/builds/131-pi-dj-controller.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #131 — Pi DJ Controller
 
 <p align="center">

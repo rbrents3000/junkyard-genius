@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Swamp Cooler"
+build_number: 99
+description: "Evaporative AC from a bucket, a fan, and a pump. Drops room temperature 15-20°F using only water."
+image: /images/builds/099-swamp-cooler.jpg
+category: fridge-and-cooling
+category_name: "Fridge & Cooling"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #099 — Swamp Cooler
 
 <p align="center">

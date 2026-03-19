@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Thermochromic Paint"
+build_number: 119
+description: "Paint that changes color with temperature — walls show handprints that fade, desks reveal hidden patterns from laptop heat."
+image: /images/builds/119-thermochromic-paint.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #119 — Thermochromic Paint
 
 <p align="center">

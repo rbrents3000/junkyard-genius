@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Laptop Battery Power Bank"
+build_number: 67
+description: "Dead laptop battery? The 18650 cells inside are probably fine. Add a $3 BMS board and a $2 USB converter. 20,000+ mAh power bank for $5."
+image: /images/builds/067-laptop-battery-power-bank.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: [laptop]
+ratings:
+  jaw: 2
+  brain: 2
+  wallet: 1
+  spicy: 2
+  clout: 2
+  time: 1
+---
 # #067 — Laptop Battery Power Bank
 
 <p align="center">

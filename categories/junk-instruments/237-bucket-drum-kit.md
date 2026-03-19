@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Bucket Drum Kit"
+build_number: 237
+description: "Street performer buckets meet electronic drums — plug your five-gallon kit into any DAW and lay down beats."
+image: /images/builds/237-bucket-drum-kit.jpg
+category: junk-instruments
+category_name: "Junk Instruments"
+tags: [creative, art, music]
+junk: [arduino]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #237 — Bucket Drum Kit
 
 <p align="center">

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Ingredient Index"
+description: "Reverse lookup: you have the part, now find the build. Every major component mapped to every project that uses it."
+---
 # Ingredient Index
 
 <p align="center">

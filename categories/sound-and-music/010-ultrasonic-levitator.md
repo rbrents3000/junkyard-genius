@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Ultrasonic Levitator"
+build_number: 10
+description: "Ultrasonic transducers create standing waves that trap and levitate small objects in mid-air — actual levitation, no tricks."
+image: /images/builds/010-ultrasonic-levitator.jpg
+category: sound-and-music
+category_name: "Sound & Music"
+tags: [creative, art, music]
+junk: [microwave, arduino, laptop, scooter]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 2
+---
 # #010 — Ultrasonic Levitator
 
 <p align="center">

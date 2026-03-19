@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Musical Tesla Coil"
+build_number: 33
+description: "A flyback transformer driven at audio frequencies turns electrical arcs into a speaker. Lightning that plays the Imperial March."
+image: /images/builds/033-musical-tesla-coil.jpg
+category: mad-scientist
+category_name: "Mad Scientist"
+tags: [educational, spectacle]
+junk: [crt, laptop]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 4
+  clout: 5
+  time: 3
+---
 # #033 — Musical Tesla Coil
 
 <p align="center">

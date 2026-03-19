@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Lenz's Law Slow-Mo Magnet"
+build_number: 199
+description: "A magnet falls through a copper pipe in dreamlike slow motion — no strings, no tricks, just electromagnetic braking."
+image: /images/builds/199-lenzs-law-slow-mo-magnet.jpg
+category: weird-science
+category_name: "Weird Science"
+tags: [educational, spectacle]
+junk: [laptop]
+ratings:
+  jaw: 5
+  brain: 1
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 1
+---
 # #199 — Lenz's Law Slow-Mo Magnet
 
 <p align="center">

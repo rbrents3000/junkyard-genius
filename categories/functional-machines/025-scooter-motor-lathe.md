@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Scooter Motor Lathe"
+build_number: 25
+description: "That dead scooter motor has the torque and speed control to spin a lathe. So let it."
+image: /images/builds/025-scooter-motor-lathe.jpg
+category: functional-machines
+category_name: "Functional Machines"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 3
+  clout: 3
+  time: 3
+---
 # #025 — Scooter Motor Lathe
 
 <p align="center">

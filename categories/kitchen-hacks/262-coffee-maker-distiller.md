@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Coffee Maker Essential Oil Distiller"
+build_number: 262
+description: "Coffee maker heats water, steam passes through herbs, copper coil condenses the vapor. Lavender oil from a Mr. Coffee."
+image: /images/builds/262-coffee-maker-distiller.jpg
+category: kitchen-hacks
+category_name: "Kitchen Hacks"
+tags: [functional, practical]
+junk: [fridge]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #262 — Coffee Maker Essential Oil Distiller
 
 <p align="center">

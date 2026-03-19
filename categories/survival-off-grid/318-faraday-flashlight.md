@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Faraday Flashlight"
+build_number: 318
+description: "Shake it and it lights up — no batteries, no charging, no solar. Just magnets, a coil, and your arm."
+image: /images/builds/318-faraday-flashlight.jpg
+category: survival-off-grid
+category_name: "Survival & Off-Grid"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #318 — Faraday Flashlight
 
 <p align="center">

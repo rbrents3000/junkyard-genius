@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Jigsaw Scroll Saw"
+build_number: 307
+description: "Jigsaw flipped upside-down under a table, blade through a slot. Feed the workpiece into the blade. $30 jigsaw, $200 scroll saw."
+image: /images/builds/307-jigsaw-scroll-saw.jpg
+category: power-tools-remixed
+category_name: "Power Tools Remixed"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 2
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 2
+  time: 1
+---
 # #307 — Jigsaw Scroll Saw
 
 <p align="center">

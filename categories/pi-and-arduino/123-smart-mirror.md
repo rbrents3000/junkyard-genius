@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Smart Mirror"
+build_number: 123
+description: "An old monitor behind one-way mirror glass, running a Pi with MagicMirror² — time, weather, calendar, and news at a glance."
+image: /images/builds/123-smart-mirror.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 3
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #123 — Smart Mirror
 
 <p align="center">

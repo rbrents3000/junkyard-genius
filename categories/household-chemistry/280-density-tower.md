@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Density Tower"
+build_number: 280
+description: "Layer liquids by density — honey, corn syrup, dish soap, water, oil, rubbing alcohol — then drop objects in and watch them float at different levels. A kitchen rainbow in a glass."
+image: /images/builds/280-density-tower.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #280 — Density Tower
 
 <p align="center">

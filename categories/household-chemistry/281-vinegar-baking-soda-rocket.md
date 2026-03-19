@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Vinegar Baking Soda Rocket"
+build_number: 281
+description: "Film canister, vinegar, baking soda, CO2 pressure, liftoff. The gateway drug of backyard science. Scale it up with 2-liter bottles and things get genuinely impressive."
+image: /images/builds/281-vinegar-baking-soda-rocket.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #281 — Vinegar Baking Soda Rocket
 
 <p align="center">

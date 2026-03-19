@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Ferrofluid Wall"
+build_number: 333
+description: "Living alien liquid metal on your wall — a ferrofluid display that dances to music, reacts to motion, and makes every other piece of art in the room irrelevant."
+image: /images/builds/333-ferrofluid-wall.jpg
+category: visual-showstoppers
+category_name: "Visual Showstoppers"
+tags: [visual, spectacle, art]
+junk: [printer, microwave, arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 3
+  spicy: 2
+  clout: 5
+  time: 4
+---
 # #333 — Ferrofluid Wall
 
 <p align="center">

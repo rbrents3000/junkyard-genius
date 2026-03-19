@@ -1,3 +1,21 @@
+---
+layout: build
+title: "DIY Neon Sign"
+build_number: 166
+description: "Bend glass tubing, fill with gas, seal, and apply high voltage — real neon glows orange, argon glows purple. Hand-bent custom neon signs."
+image: /images/builds/166-diy-neon-sign.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: []
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 3
+  spicy: 3
+  clout: 5
+  time: 5
+---
 # #166 — DIY Neon Sign
 
 <p align="center">

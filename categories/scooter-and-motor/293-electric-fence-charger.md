@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Electric Fence Charger"
+build_number: 293
+description: "Ignition coil + 555 timer = thousands of volts that convince livestock to stay put. Cheap, simple, extremely persuasive."
+image: /images/builds/293-electric-fence-charger.jpg
+category: scooter-and-motor
+category_name: "Scooter & Motor"
+tags: [functional, practical, mechanical]
+junk: [microwave, scooter, chemical]
+ratings:
+  jaw: 2
+  brain: 3
+  wallet: 1
+  spicy: 3
+  clout: 2
+  time: 1
+---
 # #293 — Electric Fence Charger
 
 <p align="center">

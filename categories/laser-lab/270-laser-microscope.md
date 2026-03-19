@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Laser Scanning Microscope"
+build_number: 270
+description: "Confocal microscopy from a laser pointer. Build an image pixel by pixel from a spinning mirror and a photocell."
+image: /images/builds/270-laser-microscope.jpg
+category: laser-lab
+category_name: "Laser Lab"
+tags: [spectacle, skill]
+junk: [printer, microwave, arduino, scooter]
+ratings:
+  jaw: 4
+  brain: 5
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 4
+---
 # #270 — Laser Scanning Microscope
 
 <p align="center">

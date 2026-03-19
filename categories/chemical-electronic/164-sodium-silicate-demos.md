@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Sodium Silicate Demos"
+build_number: 164
+description: "Water glass: coat paper for a fireproof demo, or pour metal salts into the solution for a chemical garden of growing colorful tubes."
+image: /images/builds/164-sodium-silicate-demos.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 1
+---
 # #164 — Sodium Silicate Demos
 
 <p align="center">

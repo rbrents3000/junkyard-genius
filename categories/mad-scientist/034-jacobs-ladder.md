@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Jacob's Ladder"
+build_number: 34
+description: "Two diverging metal rods plus a microwave oven transformer equals a rising arc of electricity that looks like it belongs in a 1930s horror movie."
+image: /images/builds/034-jacobs-ladder.jpg
+category: mad-scientist
+category_name: "Mad Scientist"
+tags: [educational, spectacle]
+junk: [microwave]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 5
+  clout: 5
+  time: 1
+---
 # #034 — Jacob's Ladder
 
 <p align="center">

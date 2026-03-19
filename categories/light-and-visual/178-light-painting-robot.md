@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Light Painting Robot"
+build_number: 178
+description: "An LED mounted on a robot arm, combined with a long-exposure camera, draws perfect geometric light art in the dark."
+image: /images/builds/178-light-painting-robot.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: [microwave, arduino, laptop, scooter]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 4
+---
 # #178 — Light Painting Robot
 
 <p align="center">

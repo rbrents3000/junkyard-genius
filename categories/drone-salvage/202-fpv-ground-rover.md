@@ -1,3 +1,21 @@
+---
+layout: build
+title: "FPV Ground Rover"
+build_number: 202
+description: "Strap a drone camera and video transmitter onto a wheeled chassis for first-person-view exploration of tunnels, crawl spaces, and anywhere you can't fit."
+image: /images/builds/202-fpv-ground-rover.jpg
+category: drone-salvage
+category_name: "Drone Salvage"
+tags: [skill, practical]
+junk: []
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #202 — FPV Ground Rover
 
 <p align="center">

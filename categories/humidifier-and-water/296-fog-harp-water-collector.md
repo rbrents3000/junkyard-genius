@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Fog Harp Water Collector"
+build_number: 296
+description: "Make fog. Catch fog. Harvest water from thin air. It's beautiful, educational, and slightly more useful than you'd expect."
+image: /images/builds/296-fog-harp-water-collector.jpg
+category: humidifier-and-water
+category_name: "Humidifier & Water"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #296 — Fog Harp Water Collector
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Benchtop Wind Tunnel"
+build_number: 325
+description: "A clear acrylic tunnel with a vacuum motor, smoke injection, and LED lighting — see aerodynamics in real time."
+image: /images/builds/325-benchtop-wind-tunnel.jpg
+category: vacuum-cleaner
+category_name: "Vacuum Cleaner"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #325 — Benchtop Wind Tunnel
 
 <p align="center">

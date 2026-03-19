@@ -1,3 +1,21 @@
+---
+layout: build
+title: "CRT Electron Art Array"
+build_number: 335
+description: "A wall of hacked CRT televisions drawing Lissajous spirals and phosphor lightning in real-time — turning the most obsolete technology on earth into the most striking gallery installation in the room."
+image: /images/builds/335-crt-electron-art-array.jpg
+category: visual-showstoppers
+category_name: "Visual Showstoppers"
+tags: [visual, spectacle, art]
+junk: [crt, arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 1
+  spicy: 4
+  clout: 5
+  time: 3
+---
 # #335 — CRT Electron Art Array
 
 <p align="center">

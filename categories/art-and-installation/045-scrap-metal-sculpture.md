@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Scrap Metal Sculpture"
+build_number: 45
+description: "Dead appliances become art. Gears, springs, brackets, and casings welded into sculptures that tell the story of their previous lives."
+image: /images/builds/045-scrap-metal-sculpture.jpg
+category: art-and-installation
+category_name: "Art & Installation"
+tags: [visual, spectacle, art]
+junk: []
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 2
+  clout: 3
+  time: 3
+---
 # #045 — Scrap Metal Sculpture
 
 <p align="center">

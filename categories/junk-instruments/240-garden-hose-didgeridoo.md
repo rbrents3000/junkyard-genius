@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Garden Hose Didgeridoo"
+build_number: 240
+description: "A coiled garden hose with a funnel bell and PVC mouthpiece. Longer hose means deeper drone. It sounds absolutely ridiculous and absolutely awesome at the same time."
+image: /images/builds/240-garden-hose-didgeridoo.jpg
+category: junk-instruments
+category_name: "Junk Instruments"
+tags: [creative, art, music]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #240 — Garden Hose Didgeridoo
 
 <p align="center">

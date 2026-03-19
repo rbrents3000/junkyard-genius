@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Fog Chiller"
+build_number: 93
+description: "Fridge compressor + copper coil + insulated box + fog machine. Cold fog hugs the ground. Infinitely more dramatic. Essential for Halloween."
+image: /images/builds/093-fog-chiller.jpg
+category: fridge-and-cooling
+category_name: "Fridge & Cooling"
+tags: [functional, practical]
+junk: [fridge]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #093 — Fog Chiller
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "CRT Oscilloscope Visualizer"
+build_number: 21
+description: "Feed audio directly into a CRT TV's deflection coils and turn it into a real-time music visualizer from the 1970s."
+image: /images/builds/021-crt-oscilloscope-visualizer.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: [crt, laptop]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 2
+---
 # #021 — CRT Oscilloscope Visualizer
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Fire Organ"
+build_number: 331
+description: "A PVC pipe organ that plays music and shoots synchronized flames from every pipe — because sound alone wasn't dramatic enough."
+image: /images/builds/331-fire-organ.jpg
+category: visual-showstoppers
+category_name: "Visual Showstoppers"
+tags: [visual, spectacle, art]
+junk: [microwave, arduino, scooter, fridge]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 3
+  spicy: 5
+  clout: 5
+  time: 4
+---
 # #331 — Fire Organ
 
 <p align="center">

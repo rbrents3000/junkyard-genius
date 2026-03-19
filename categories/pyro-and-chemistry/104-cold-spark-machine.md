@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Cold Spark Machine"
+build_number: 104
+description: "Titanium powder heated and launched upward creates dazzling sparks that won't burn skin or set anything on fire."
+image: /images/builds/104-cold-spark-machine.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave, arduino, laptop, scooter]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 3
+  spicy: 2
+  clout: 5
+  time: 2
+---
 # #104 — Cold Spark Machine
 
 <p align="center">

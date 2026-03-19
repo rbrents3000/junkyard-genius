@@ -1,3 +1,21 @@
+---
+layout: build
+title: "AI Metal Detector"
+build_number: 147
+description: 'A metal detector circuit with an Arduino and Pi running machine learning — not just beep, but "probably aluminum at 6 inches."'
+image: /images/builds/147-ai-metal-detector.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: [arduino]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 4
+---
 # #147 — AI Metal Detector
 
 <p align="center">

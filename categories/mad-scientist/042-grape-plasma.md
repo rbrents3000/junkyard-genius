@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Grape Plasma"
+build_number: 42
+description: "Cut a grape almost in half, microwave it, and watch plasma balls form where the halves connect. The simplest plasma demonstration in existence."
+image: /images/builds/042-grape-plasma.jpg
+category: mad-scientist
+category_name: "Mad Scientist"
+tags: [educational, spectacle]
+junk: [microwave]
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 1
+---
 # #042 — Grape Plasma
 
 <p align="center">

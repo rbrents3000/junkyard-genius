@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Angle Grinder Belt Sander"
+build_number: 308
+description: "Bolt-on belt sander attachment for an angle grinder. Two rollers, a sanding belt, 10,000 RPM. Converts in 30 seconds."
+image: /images/builds/308-angle-grinder-belt-sander.jpg
+category: power-tools-remixed
+category_name: "Power Tools Remixed"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 2
+  spicy: 2
+  clout: 3
+  time: 1
+---
 # #308 — Angle Grinder Belt Sander
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "CPU Resin Jewelry"
+build_number: 59
+description: "Dead processors and RAM chips are genuinely beautiful at macro scale. Embed them in clear resin for wearable tech art."
+image: /images/builds/059-cpu-resin-jewelry.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #059 — CPU Resin Jewelry
 
 <p align="center">

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "💀 Unholy Combos"
+description: "Two categories walk into a workshop. Something beautiful and terrifying walks out."
+image: /images/categories/unholy-combos.jpg
+---
 # 💀 Unholy Combos
 
 <p align="center">
@@ -49,3 +55,11 @@ These are endgame builds — each one assumes mastery of its component categorie
 - [Mad Scientist](../mad-scientist/) — The prerequisite builds for these mashups
 - [Fire & Plasma](../fire-and-plasma/) — High-temperature and plasma components
 - [Sound & Music](../sound-and-music/) — Audio-reactive builds and speaker physics
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Android Apps for Builds"
+description: "Your old phone is already packed with accelerometers, gyroscopes, magnetometers, barometers, cameras, and microphones. These apps unlock them for builds."
+---
 # Android Apps for Builds
 
 <p align="center">

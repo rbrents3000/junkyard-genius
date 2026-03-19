@@ -172,6 +172,8 @@ body::before{
   box-shadow:0 0 0 1px var(--orange),0 4px 20px var(--orange-glow);
 }
 .option-card:active{transform:scale(0.98)}
+.option-card:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
+.btn:focus-visible,.btn-start:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
 
 .option-key{
   width:24px;height:24px;border-radius:var(--radius-xs);
@@ -398,13 +400,13 @@ body::before{
 <!-- Step indicators -->
 <div class="steps-bar" id="stepsBar" style="display:none">
   <div class="steps-inner">
-    <div class="step-dot active" id="step-0"></div>
-    <div class="step-dot" id="step-1"></div>
-    <div class="step-dot" id="step-2"></div>
-    <div class="step-dot" id="step-3"></div>
-    <div class="step-dot" id="step-4"></div>
-    <div class="step-dot" id="step-5"></div>
-    <span class="step-label" id="stepLabel">1 / 6</span>
+    <div class="step-dot active" id="step-0" role="progressbar" aria-valuenow="1" aria-valuemin="1" aria-valuemax="6" aria-label="Question 1 of 6"></div>
+    <div class="step-dot" id="step-1" aria-label="Question 2 of 6"></div>
+    <div class="step-dot" id="step-2" aria-label="Question 3 of 6"></div>
+    <div class="step-dot" id="step-3" aria-label="Question 4 of 6"></div>
+    <div class="step-dot" id="step-4" aria-label="Question 5 of 6"></div>
+    <div class="step-dot" id="step-5" aria-label="Question 6 of 6"></div>
+    <span class="step-label" id="stepLabel" aria-live="polite">1 / 6</span>
   </div>
 </div>
 
@@ -428,7 +430,7 @@ body::before{
   <div id="questionsWrap" style="display:none"></div>
 
   <!-- Results -->
-  <div id="results">
+  <div id="results" aria-live="polite">
     <div class="results-header">
       <h2><span class="grad">Your Top Builds</span></h2>
       <p id="resultsSubtitle">Based on your answers, these are the builds you'd love.</p>
@@ -563,18 +565,20 @@ function renderQuestions() {
     slide.id = "q-" + qi;
 
     var html = '<div class="question-number">Question ' + (qi+1) + ' of ' + TOTAL_Q + '</div>';
-    html += '<div class="question-text">' + q.text + '</div>';
+    html += '<div class="question-text" id="q-text-'+qi+'">' + q.text + '</div>';
     if (q.hint) html += '<div class="question-hint">' + q.hint + '</div>';
     else html += '<div class="question-hint">Pick one</div>';
 
-    html += '<div class="options">';
+    var groupRole = q.multi ? 'group' : 'radiogroup';
+    html += '<div class="options" role="'+groupRole+'" aria-labelledby="q-text-'+qi+'">';
     q.options.forEach(function(opt, oi) {
       var checkHtml = q.multi
         ? '<div class="check"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></div>'
         : '';
-      html += '<div class="option-card" data-qi="'+qi+'" data-oi="'+oi+'" data-value="'+opt.value+'">'
+      var ariaRole = q.multi ? 'checkbox' : 'radio';
+      html += '<div class="option-card" data-qi="'+qi+'" data-oi="'+oi+'" data-value="'+opt.value+'" role="'+ariaRole+'" aria-checked="false" tabindex="0" aria-label="'+opt.label+'">'
         + '<span class="option-key">' + (oi+1) + '</span>'
-        + '<span class="option-emoji">' + opt.emoji + '</span>'
+        + '<span class="option-emoji" aria-hidden="true">' + opt.emoji + '</span>'
         + '<span class="option-label">' + opt.label + '</span>'
         + checkHtml
         + '</div>';
@@ -600,6 +604,12 @@ function renderQuestions() {
 
   document.querySelectorAll(".option-card").forEach(function(card) {
     card.addEventListener("click", handleOptionClick);
+    card.addEventListener("keydown", function(e) {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        card.click();
+      }
+    });
   });
 }
 
@@ -611,6 +621,7 @@ function handleOptionClick(e) {
 
   if (q.multi) {
     card.classList.toggle("selected");
+    card.setAttribute("aria-checked", card.classList.contains("selected") ? "true" : "false");
     var selected = [];
     document.querySelectorAll('#q-'+qi+' .option-card.selected').forEach(function(c) {
       selected.push(c.dataset.value);
@@ -619,8 +630,10 @@ function handleOptionClick(e) {
   } else {
     document.querySelectorAll('#q-'+qi+' .option-card').forEach(function(c) {
       c.classList.remove("selected");
+      c.setAttribute("aria-checked", "false");
     });
     card.classList.add("selected");
+    card.setAttribute("aria-checked", "true");
     answers[q.id] = value;
 
     var nextBtn = document.getElementById("next-"+qi);

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Ferrofluid Speaker"
+build_number: 11
+description: "A speaker magnet meets ferrofluid and creates a living, dancing liquid sculpture that responds to every beat."
+image: /images/builds/011-ferrofluid-speaker.jpg
+category: sound-and-music
+category_name: "Sound & Music"
+tags: [creative, art, music]
+junk: [laptop]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #011 — Ferrofluid Speaker
 
 <p align="center">

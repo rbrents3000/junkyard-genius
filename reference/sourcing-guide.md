@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Where to Find Free Junk"
+description: 'The best builds start at the curb, not at the checkout counter. Your next masterpiece is sitting in someone's driveway right now, with a "FREE" sign taped to it.'
+---
 # Where to Find Free Junk
 
 <p align="center">

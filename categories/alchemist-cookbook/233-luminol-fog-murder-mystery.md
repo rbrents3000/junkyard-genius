@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Luminol Fog Murder Mystery"
+build_number: 233
+description: "Luminol + fluorescein fog + UV blacklights = an immersive glowing-evidence room for escape rooms, Halloween, or just freaking out your friends."
+image: /images/builds/233-luminol-fog-murder-mystery.jpg
+category: alchemist-cookbook
+category_name: "Alchemist Cookbook"
+tags: [pyro, chemistry, spectacle]
+junk: [chemical]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #233 — Luminol Fog Murder Mystery
 
 <p align="center">

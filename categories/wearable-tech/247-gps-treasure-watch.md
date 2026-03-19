@@ -1,3 +1,21 @@
+---
+layout: build
+title: "GPS Treasure Hunt Watch"
+build_number: 247
+description: "An ESP32 with a GPS module and OLED display strapped to your wrist. Program coordinates, and the watch shows distance and direction to hidden treasures. Geocaching with homemade hardware."
+image: /images/builds/247-gps-treasure-watch.jpg
+category: wearable-tech
+category_name: "Wearable Tech"
+tags: [skill, creative]
+junk: [arduino]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #247 — GPS Treasure Hunt Watch
 
 <p align="center">

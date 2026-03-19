@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Beer Bottle Xylophone"
+build_number: 241
+description: "Glass bottles filled to precise water levels create tuned musical notes. Add an Arduino and solenoid mallets and the thing plays itself. Your recycling bin just became a concert hall."
+image: /images/builds/241-bottle-xylophone.jpg
+category: junk-instruments
+category_name: "Junk Instruments"
+tags: [creative, art, music]
+junk: [arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #241 — Beer Bottle Xylophone
 
 <p align="center">

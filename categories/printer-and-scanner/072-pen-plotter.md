@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Pen Plotter"
+build_number: 72
+description: "Printer steppers, timing belts, a servo, and a pen holder. Feed it SVG files and generative art. Real ink on real paper — a quality inkjets cannot match."
+image: /images/builds/072-pen-plotter.jpg
+category: printer-and-scanner
+category_name: "Printer & Scanner"
+tags: [skill, practical]
+junk: [printer, microwave, arduino, scooter]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 3
+---
 # #072 — Pen Plotter
 
 <p align="center">

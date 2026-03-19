@@ -1,3 +1,21 @@
+---
+layout: build
+title: "ESP32 Mesh Walkie-Talkie"
+build_number: 125
+description: "Multiple ESP32 boards with mics and speakers form a mesh radio network — decentralized communication with no infrastructure."
+image: /images/builds/125-esp32-mesh-walkie-talkie.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #125 — ESP32 Mesh Walkie-Talkie
 
 <p align="center">

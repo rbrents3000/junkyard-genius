@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Homopolar Motor"
+build_number: 198
+description: "Battery + magnet + wire = a spinning motor in 30 seconds flat. The simplest electric motor possible."
+image: /images/builds/198-homopolar-motor.jpg
+category: weird-science
+category_name: "Weird Science"
+tags: [educational, spectacle]
+junk: []
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #198 — Homopolar Motor
 
 <p align="center">

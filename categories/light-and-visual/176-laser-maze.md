@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Laser Maze"
+build_number: 176
+description: "Laser pointers, mirrors, fog, and photosensors create a real-life spy movie laser security maze in your garage."
+image: /images/builds/176-laser-maze.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: [arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 2
+  clout: 5
+  time: 3
+---
 # #176 — Laser Maze
 
 <p align="center">

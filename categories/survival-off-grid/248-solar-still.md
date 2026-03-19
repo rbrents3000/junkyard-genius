@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Solar Still"
+build_number: 248
+description: "Plastic over pit + collection cup = distilled water from sun."
+image: /images/builds/248-solar-still.jpg
+category: survival-off-grid
+category_name: "Survival & Off-Grid"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #248 — Solar Still
 
 <p align="center">

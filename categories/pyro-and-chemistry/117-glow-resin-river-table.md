@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Glow Resin River Table"
+build_number: 117
+description: "Glow-in-the-dark pigment in epoxy resin poured into a live-edge wood slab — a table that glows for 12+ hours."
+image: /images/builds/117-glow-resin-river-table.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 3
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #117 — Glow Resin River Table
 
 <p align="center">

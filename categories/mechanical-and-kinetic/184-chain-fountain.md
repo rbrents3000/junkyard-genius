@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Chain Fountain"
+build_number: 184
+description: "Drop one end of a ball chain out of a jar and watch physics throw the rest of it into the sky."
+image: /images/builds/184-chain-fountain.jpg
+category: mechanical-and-kinetic
+category_name: "Mechanical & Kinetic"
+tags: [educational, skill, mechanical]
+junk: [microwave, laptop]
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 5
+  time: 1
+---
 # #184 — Chain Fountain
 
 <p align="center">

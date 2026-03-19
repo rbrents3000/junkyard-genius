@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Chladni Plate Sand Visualizer"
+build_number: 313
+description: "Sprinkle sand on a metal plate, drive it with a speaker, watch geometric mandala patterns form from pure physics."
+image: /images/builds/313-chladni-plate-sand-visualizer.jpg
+category: art-and-installation
+category_name: "Art & Installation"
+tags: [visual, spectacle, art]
+junk: [laptop]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 5
+  time: 1
+---
 # #313 — Chladni Plate Sand Visualizer
 
 <p align="center">

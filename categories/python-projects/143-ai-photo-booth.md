@@ -1,3 +1,21 @@
+---
+layout: build
+title: "AI Photo Booth"
+build_number: 143
+description: "A webcam with neural style transfer turns you into a Van Gogh painting in real time — output to a thermal receipt printer for instant art."
+image: /images/builds/143-ai-photo-booth.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: [printer, arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 2
+---
 # #143 — AI Photo Booth
 
 <p align="center">

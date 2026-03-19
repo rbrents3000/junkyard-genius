@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Circular Saw Table Saw"
+build_number: 82
+description: "Circular saw inverted under a plywood table, blade through a slot. Add a fence. Budget table saw. Respect the blade."
+image: /images/builds/082-circular-saw-table-saw.jpg
+category: power-tools-remixed
+category_name: "Power Tools Remixed"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 3
+  clout: 3
+  time: 2
+---
 # #082 — Circular Saw Table Saw
 
 <p align="center">

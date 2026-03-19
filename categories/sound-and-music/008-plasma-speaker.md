@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Plasma Speaker"
+build_number: 8
+description: "A flyback transformer modulates an electrical arc to play music — the speaker cone is literally lightning."
+image: /images/builds/008-plasma-speaker.jpg
+category: sound-and-music
+category_name: "Sound & Music"
+tags: [creative, art, music]
+junk: [crt, laptop]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 4
+  clout: 5
+  time: 2
+---
 # #008 — Plasma Speaker
 
 <p align="center">

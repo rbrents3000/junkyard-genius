@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Geodesic Dome Greenhouse"
+build_number: 194
+description: "EMT conduit + star connectors + a Raspberry Pi climate brain = a greenhouse that looks like it fell out of a sci-fi movie."
+image: /images/builds/194-geodesic-dome-greenhouse.jpg
+category: big-builds
+category_name: "Big Builds"
+tags: [spectacle, functional]
+junk: [arduino]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 3
+  spicy: 1
+  clout: 4
+  time: 4
+---
 # #194 — Geodesic Dome Greenhouse
 
 <p align="center">

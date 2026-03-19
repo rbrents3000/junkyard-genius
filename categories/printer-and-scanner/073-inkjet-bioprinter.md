@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Inkjet Bioprinter"
+build_number: 73
+description: "Modify an old inkjet to print conductive silver traces, biosolutions, or custom chemicals. Research labs actually do this. This is where junkyard meets cutting-edge science."
+image: /images/builds/073-inkjet-bioprinter.jpg
+category: printer-and-scanner
+category_name: "Printer & Scanner"
+tags: [skill, practical]
+junk: [printer, chemical]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 2
+  spicy: 2
+  clout: 5
+  time: 4
+---
 # #073 — Inkjet Bioprinter
 
 <p align="center">

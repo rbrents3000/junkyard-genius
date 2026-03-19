@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Voice Home Automation"
+build_number: 149
+description: 'Python speech recognition and a relay board — say "turn on lamp" and the relay clicks. No Alexa, no cloud, fully local.'
+image: /images/builds/149-voice-home-automation.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: [arduino, laptop]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 2
+  spicy: 2
+  clout: 3
+  time: 2
+---
 # #149 — Voice Home Automation
 
 <p align="center">

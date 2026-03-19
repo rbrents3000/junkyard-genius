@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🚁 Drone Salvage"
+description: "A $500 drone took a nosedive. You just scored $500 worth of precision motors, cameras, and sensors for free."
+image: /images/categories/drone-salvage.jpg
+---
 # 🚁 Drone Salvage
 
 <p align="center">
@@ -51,3 +57,12 @@ Start with simple motor reuse, progress toward autonomous systems:
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Sensor networks and autonomous control
 - [Functional Machines](../functional-machines/) — Motor-driven tools and equipment
 - [Scooter & Motor](../scooter-and-motor/) — Brushless motor applications and ESC programming
+
+---
+
+## 📚 Reference Guides
+
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

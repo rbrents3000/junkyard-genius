@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Invisible Ink Message Board"
+build_number: 216
+description: "Write messages with baking soda solution — completely invisible when dry. Reveal them by spraying with grape juice, which turns dark purple where the alkaline ink sits."
+image: /images/builds/216-invisible-ink-message-board.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #216 — Invisible Ink Message Board
 
 <p align="center">

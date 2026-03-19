@@ -1,3 +1,9 @@
+---
+layout: default
+title: "👻 Pranks & Party Tricks"
+description: "Your friends will never trust a doorway, chair, or pen in your house again."
+image: /images/categories/pranks-and-party.jpg
+---
 # 👻 Pranks & Party Tricks
 
 <p align="center">
@@ -49,3 +55,11 @@ Start simple, escalate the chaos:
 - [Sound & Music](../sound-and-music/) — Audio-based shenanigans
 - [Light & Visual](../light-and-visual/) — Visual tricks and illusions
 - [Pi & Arduino](../pi-and-arduino/) — More interactive electronics
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

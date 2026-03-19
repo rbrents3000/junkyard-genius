@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Levitating Plasma Speaker"
+build_number: 55
+description: "A magnetically levitating plasma arc that plays music. An electromagnetic levitator holds a metal electrode in mid-air while a modulated high-voltage arc sings from it. Three impossible things happening at once."
+image: /images/builds/055-levitating-plasma-speaker.jpg
+category: unholy-combos
+category_name: "Unholy Combos"
+tags: [spectacle, creative]
+junk: [laptop]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 3
+  spicy: 5
+  clout: 5
+  time: 4
+---
 # #055 — Levitating Plasma Speaker
 
 <p align="center">

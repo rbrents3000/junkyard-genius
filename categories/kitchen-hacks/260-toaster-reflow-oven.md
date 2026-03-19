@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Toaster Reflow Oven"
+build_number: 260
+description: "Thrift store toaster oven + PID controller + thermocouple = professional SMD soldering station for $15."
+image: /images/builds/260-toaster-reflow-oven.jpg
+category: kitchen-hacks
+category_name: "Kitchen Hacks"
+tags: [functional, practical]
+junk: [arduino]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 2
+  clout: 3
+  time: 2
+---
 # #260 — Toaster Reflow Oven
 
 <p align="center">

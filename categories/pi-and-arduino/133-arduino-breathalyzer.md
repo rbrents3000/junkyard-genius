@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Arduino Breathalyzer"
+build_number: 133
+description: "An MQ-3 alcohol sensor with an Arduino and OLED display — blow and get a BAC reading. The ultimate party gadget."
+image: /images/builds/133-arduino-breathalyzer.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino, chemical]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #133 — Arduino Breathalyzer
 
 <p align="center">

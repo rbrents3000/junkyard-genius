@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Star Tracker"
+build_number: 137
+description: "A stepper motor and Pi rotate your camera at exactly Earth's rotation speed — stars become pinpoints instead of trails."
+image: /images/builds/137-star-tracker.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [microwave, arduino, laptop, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #137 — Star Tracker
 
 <p align="center">

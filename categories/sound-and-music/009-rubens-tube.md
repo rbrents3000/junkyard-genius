@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Rubens' Tube"
+build_number: 9
+description: "A gas-filled tube with a row of holes shows standing sound waves as a dancing wall of fire — the most elegant physics demo ever built."
+image: /images/builds/009-rubens-tube.jpg
+category: sound-and-music
+category_name: "Sound & Music"
+tags: [creative, art, music]
+junk: [laptop]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 3
+  clout: 5
+  time: 2
+---
 # #009 — Rubens' Tube
 
 <p align="center">

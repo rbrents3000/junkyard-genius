@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Scanner Light Painting"
+build_number: 323
+description: "Lock a flatbed scanner open, wave light sources across the glass during a scan — the slow sweep captures long-exposure light trails as art."
+image: /images/builds/323-scanner-light-painting.jpg
+category: printer-and-scanner
+category_name: "Printer & Scanner"
+tags: [skill, practical]
+junk: [printer, laptop]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #323 — Scanner Light Painting
 
 <p align="center">

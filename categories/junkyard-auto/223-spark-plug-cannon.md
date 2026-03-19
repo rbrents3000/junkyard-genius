@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Spark Plug Cannon"
+build_number: 223
+description: "Spark plug + pipe combustion chamber + propane = a single-shot cannon that runs on the same principle as every internal combustion engine ever made."
+image: /images/builds/223-spark-plug-cannon.jpg
+category: junkyard-auto
+category_name: "Junkyard Auto"
+tags: [functional, practical, mechanical]
+junk: []
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 4
+  clout: 4
+  time: 1
+---
 # #223 — Spark Plug Cannon
 
 <p align="center">

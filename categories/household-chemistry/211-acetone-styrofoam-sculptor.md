@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Acetone Styrofoam Sculptor"
+build_number: 211
+description: "Acetone dissolves expanded polystyrene on contact, collapsing a trash bag of packing peanuts into a dense, moldable putty you can sculpt into anything."
+image: /images/builds/211-acetone-styrofoam-sculptor.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 1
+---
 # #211 — Acetone Styrofoam Sculptor
 
 <p align="center">

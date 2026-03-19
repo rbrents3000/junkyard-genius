@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Water Vortex Table"
+build_number: 334
+description: "A coffee table with a permanent underwater tornado spinning inside it — the centerpiece that ends every conversation and starts a better one."
+image: /images/builds/334-water-vortex-table.jpg
+category: visual-showstoppers
+category_name: "Visual Showstoppers"
+tags: [visual, spectacle, art]
+junk: [microwave, arduino]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #334 — Water Vortex Table
 
 <p align="center">

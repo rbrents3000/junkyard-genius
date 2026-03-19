@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Giant Plasma Globe"
+build_number: 15
+description: "A microwave transformer, a glass bowl, and some noble gas — build a plasma globe the size of a basketball."
+image: /images/builds/015-giant-plasma-globe.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: [microwave]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 4
+  clout: 5
+  time: 2
+---
 # #015 — Giant Plasma Globe
 
 <p align="center">

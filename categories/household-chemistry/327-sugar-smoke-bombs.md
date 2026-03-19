@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Sugar Smoke Bombs"
+build_number: 327
+description: "Potassium nitrate plus sugar, cooked to caramel, shaped and fused. Light the fuse and watch dense colored smoke pour out for 30-60 seconds. The backyard pyrotechnic classic."
+image: /images/builds/327-sugar-smoke-bombs.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 3
+  clout: 5
+  time: 2
+---
 # #327 — Sugar Smoke Bombs
 
 <p align="center">

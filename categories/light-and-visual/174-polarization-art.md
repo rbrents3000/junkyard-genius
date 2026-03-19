@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Polarization Art"
+build_number: 174
+description: "Clear tape on glass, viewed through polarizer film, reveals hidden rainbow patterns that are completely invisible to the naked eye."
+image: /images/builds/174-polarization-art.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: []
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #174 — Polarization Art
 
 <p align="center">

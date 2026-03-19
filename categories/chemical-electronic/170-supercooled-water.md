@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Supercooled Water"
+build_number: 170
+description: "PID-controlled freezer keeps purified water at exactly -5°C — stays liquid below freezing. Pour it onto ice and it freezes INSTANTLY."
+image: /images/builds/170-supercooled-water.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: [microwave, arduino, laptop, fridge]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 5
+  time: 2
+---
 # #170 — Supercooled Water
 
 <p align="center">

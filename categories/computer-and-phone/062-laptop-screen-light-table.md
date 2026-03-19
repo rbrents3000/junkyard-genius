@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Laptop Screen Light Table"
+build_number: 62
+description: "Strip the LCD layer off a laptop screen and keep the backlight. Ultra-thin, perfectly even light table for tracing art."
+image: /images/builds/062-laptop-screen-light-table.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: [laptop]
+ratings:
+  jaw: 2
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 2
+  time: 1
+---
 # #062 — Laptop Screen Light Table
 
 <p align="center">

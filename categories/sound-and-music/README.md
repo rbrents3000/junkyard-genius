@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🔊 Sound & Music"
+description: "Builds that make noise in ways that shouldn't be possible — speakers made from lightning, fire that dances to bass, and objects floating on invisible waves."
+image: /images/categories/sound-and-music.jpg
+---
 # 🔊 Sound & Music
 
 <p align="center">
@@ -47,3 +53,11 @@ Start with simple acoustic physics and build toward high-voltage audio:
 - [Fire & Plasma](../fire-and-plasma/) — More fire + plasma builds
 - [Junk Instruments](../junk-instruments/) — Playable instruments from salvage
 - [Art & Installation](../art-and-installation/) — When sound becomes visual art
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

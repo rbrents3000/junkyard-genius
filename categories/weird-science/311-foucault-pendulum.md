@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Foucault Pendulum"
+build_number: 311
+description: "A weight on a wire that proves the Earth is rotating — not because someone told you, but because you watched it happen over lunch."
+image: /images/builds/311-foucault-pendulum.jpg
+category: weird-science
+category_name: "Weird Science"
+tags: [educational, spectacle]
+junk: []
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 2
+---
 # #311 — Foucault Pendulum
 
 <p align="center">

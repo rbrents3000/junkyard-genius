@@ -1,3 +1,8 @@
+---
+layout: default
+title: "The Minimum Toolbox"
+description: "You don't need a fully equipped workshop to start. You need a screwdriver, some pliers, and the refusal to throw anything away."
+---
 # The Minimum Toolbox
 
 <p align="center">

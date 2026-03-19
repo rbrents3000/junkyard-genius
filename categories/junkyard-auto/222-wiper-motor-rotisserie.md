@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Wiper Motor Rotisserie"
+build_number: 222
+description: "Wiper motor's worm-geared slow spin + a spit rod = the laziest, most effective BBQ rotisserie ever built."
+image: /images/builds/222-wiper-motor-rotisserie.jpg
+category: junkyard-auto
+category_name: "Junkyard Auto"
+tags: [functional, practical, mechanical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #222 — Wiper Motor Rotisserie
 
 <p align="center">

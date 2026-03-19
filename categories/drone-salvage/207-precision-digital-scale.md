@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Precision Digital Scale"
+build_number: 207
+description: "A gimbal motor's hall-effect sensors measure the torque needed to hold a weight against gravity — giving you a lab-grade 0.01g digital scale from salvaged parts."
+image: /images/builds/207-precision-digital-scale.jpg
+category: drone-salvage
+category_name: "Drone Salvage"
+tags: [skill, practical]
+junk: [microwave, arduino, scooter]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 3
+---
 # #207 — Precision Digital Scale
 
 <p align="center">

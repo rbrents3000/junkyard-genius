@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Tin Can Banjo"
+build_number: 238
+description: "A coffee can, a stick, and some strings — the most American instrument you can build for under five bucks."
+image: /images/builds/238-tin-can-banjo.jpg
+category: junk-instruments
+category_name: "Junk Instruments"
+tags: [creative, art, music]
+junk: []
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #238 — Tin Can Banjo
 
 <p align="center">

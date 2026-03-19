@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Drone Motor Wind Turbine"
+build_number: 204
+description: "Four brushless drone motors wired as generators, paired with 3D-printed blades, turn wind into usable electricity."
+image: /images/builds/204-drone-motor-wind-turbine.jpg
+category: drone-salvage
+category_name: "Drone Salvage"
+tags: [skill, practical]
+junk: [printer, microwave, laptop, scooter]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #204 — Drone Motor Wind Turbine
 
 <p align="center">

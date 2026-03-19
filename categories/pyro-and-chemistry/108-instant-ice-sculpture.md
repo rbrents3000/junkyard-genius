@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Instant Ice Sculpture"
+build_number: 108
+description: "Supersaturated sodium acetate crystallizes the instant it's triggered — hot ice towers form in seconds."
+image: /images/builds/108-instant-ice-sculpture.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: [chemical]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 5
+  time: 1
+---
 # #108 — Instant Ice Sculpture
 
 <p align="center">

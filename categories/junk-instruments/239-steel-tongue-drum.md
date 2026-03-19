@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Steel Tongue Drum"
+build_number: 239
+description: "A washing machine drum lid and an angle grinder produce a $300 handpan sound for the price of a cutting disc."
+image: /images/builds/239-steel-tongue-drum.jpg
+category: junk-instruments
+category_name: "Junk Instruments"
+tags: [creative, art, music]
+junk: [laptop]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 1
+  spicy: 2
+  clout: 5
+  time: 3
+---
 # #239 — Steel Tongue Drum
 
 <p align="center">

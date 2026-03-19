@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Fiber Optic Star Ceiling"
+build_number: 173
+description: "Hundreds of fiber optic strands poked through a ceiling panel create a realistic night sky in your bedroom — complete with twinkling."
+image: /images/builds/173-fiber-optic-star-ceiling.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: [microwave, scooter]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 4
+---
 # #173 — Fiber Optic Star Ceiling
 
 <p align="center">

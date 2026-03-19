@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Electromagnetic Pulse Cannon (Localized)"
+build_number: 277
+description: "A capacitor bank dumps into a hand-wound coil and fires a focused electromagnetic pulse that bricks electronics within a few feet. The most beautifully destructive thing you can build from junk."
+image: /images/builds/277-electromagnetic-pulse-cannon.jpg
+category: alchemist-cookbook
+category_name: "Alchemist Cookbook"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 3
+  spicy: 5
+  clout: 5
+  time: 4
+---
 # #277 — Electromagnetic Pulse Cannon (Localized)
 
 <p align="center">

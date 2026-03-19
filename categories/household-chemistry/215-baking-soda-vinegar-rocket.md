@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Baking Soda Vinegar Rocket"
+build_number: 215
+description: "Baking soda meets vinegar inside a sealed 2-liter bottle, CO2 pressure builds behind a cork, and when it blows — the bottle launches 50+ feet into the air."
+image: /images/builds/215-baking-soda-vinegar-rocket.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: []
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 1
+---
 # #215 — Baking Soda Vinegar Rocket
 
 <p align="center">

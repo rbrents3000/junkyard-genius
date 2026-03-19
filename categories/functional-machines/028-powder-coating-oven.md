@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Powder Coating Oven"
+build_number: 28
+description: "An old kitchen oven, a thrift-store toaster oven for small parts, and an electrostatic gun turn raw metal into factory-finish coated parts."
+image: /images/builds/028-powder-coating-oven.jpg
+category: functional-machines
+category_name: "Functional Machines"
+tags: [functional, practical]
+junk: [chemical, fridge]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 3
+  spicy: 2
+  clout: 3
+  time: 3
+---
 # #028 — Powder Coating Oven
 
 <p align="center">

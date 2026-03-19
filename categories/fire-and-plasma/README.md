@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🔥 Fire & Plasma"
+description: "Where discarded microwaves and scrap metal become instruments of pure elemental fury."
+image: /images/categories/fire-and-plasma.jpg
+---
 # 🔥 Fire & Plasma
 
 <p align="center">
@@ -47,3 +53,12 @@ Start with controlled fire and work toward high-energy plasma:
 - [Sound & Music](../sound-and-music/) — Rubens' Tube, plasma speakers
 - [Mad Scientist](../mad-scientist/) — More high-voltage extremes
 - [Pyro & Chemistry](../pyro-and-chemistry/) — Chemical fire and reactions
+
+---
+
+## 📚 Reference Guides
+
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

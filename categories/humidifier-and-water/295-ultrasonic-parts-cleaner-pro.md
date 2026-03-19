@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Ultrasonic Parts Cleaner Pro"
+build_number: 295
+description: "Six transducers, a heated stainless tank, and enough cavitation to strip carbon off a carburetor. This is not your jeweler's ultrasonic bath."
+image: /images/builds/295-ultrasonic-parts-cleaner-pro.jpg
+category: humidifier-and-water
+category_name: "Humidifier & Water"
+tags: [functional, practical]
+junk: [laptop]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #295 — Ultrasonic Parts Cleaner Pro
 
 <p align="center">

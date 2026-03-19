@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Faraday Cage"
+build_number: 252
+description: "A metal trash can that makes your electronics invisible to the electromagnetic apocalypse."
+image: /images/builds/252-faraday-cage.jpg
+category: survival-off-grid
+category_name: "Survival & Off-Grid"
+tags: [functional, practical]
+junk: [laptop]
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #252 — Faraday Cage
 
 <p align="center">

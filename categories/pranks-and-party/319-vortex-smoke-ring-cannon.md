@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Vortex Smoke Ring Cannon"
+build_number: 319
+description: "A trash can, rubber membrane, and fog machine produce room-crossing smoke rings that knock cups off tables 20 feet away."
+image: /images/builds/319-vortex-smoke-ring-cannon.jpg
+category: pranks-and-party
+category_name: "Pranks & Party"
+tags: [spectacle, creative]
+junk: []
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 5
+  time: 1
+---
 # #319 — Vortex Smoke Ring Cannon
 
 <p align="center">

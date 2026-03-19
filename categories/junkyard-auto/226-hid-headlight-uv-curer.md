@@ -1,3 +1,21 @@
+---
+layout: build
+title: "HID Headlight UV Curer"
+build_number: 226
+description: "HID ballast + UV bulb = a professional UV curing station for resin, epoxy, gel nails, and UV-reactive coatings. Junkyard optics, workshop results."
+image: /images/builds/226-hid-headlight-uv-curer.jpg
+category: junkyard-auto
+category_name: "Junkyard Auto"
+tags: [functional, practical, mechanical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 1
+  spicy: 2
+  clout: 3
+  time: 2
+---
 # #226 — HID Headlight UV Curer
 
 <p align="center">

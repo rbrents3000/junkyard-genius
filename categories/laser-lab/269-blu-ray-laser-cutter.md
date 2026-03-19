@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Blu-Ray Laser Cutter"
+build_number: 269
+description: "A dead PS3 contains a laser diode that cuts and etches. A dead printer contains a CNC frame. Put them together."
+image: /images/builds/269-blu-ray-laser-cutter.jpg
+category: laser-lab
+category_name: "Laser Lab"
+tags: [spectacle, skill]
+junk: [scooter, printer, microwave, arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 3
+  clout: 4
+  time: 3
+---
 # #269 — Blu-Ray Laser Cutter
 
 <p align="center">

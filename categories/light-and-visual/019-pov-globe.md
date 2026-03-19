@@ -1,3 +1,21 @@
+---
+layout: build
+title: "POV Globe"
+build_number: 19
+description: "A spinning strip of LEDs creates a floating 3D image in mid-air — persistence of vision turns a single strip into a full sphere of pixels."
+image: /images/builds/019-pov-globe.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: [microwave, arduino, scooter]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #019 — POV Globe
 
 <p align="center">

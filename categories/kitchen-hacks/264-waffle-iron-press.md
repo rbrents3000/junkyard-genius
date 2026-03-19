@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Waffle Iron Heat Press"
+build_number: 264
+description: "A $3 waffle iron does the same job as a $200 heat press. Flat plates, even pressure, built-in thermostat."
+image: /images/builds/264-waffle-iron-press.jpg
+category: kitchen-hacks
+category_name: "Kitchen Hacks"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #264 — Waffle Iron Heat Press
 
 <p align="center">

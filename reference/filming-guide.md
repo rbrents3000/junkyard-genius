@@ -1,3 +1,8 @@
+---
+layout: default
+title: "How to Film Your Builds"
+description: "Your build is only as good as the video you show people. A Tesla coil playing music in a dark garage is a masterpiece. A Tesla coil filmed in portrait mode under fluorescent lights is a blurry mess that gets 12 views."
+---
 # How to Film Your Builds
 
 <p align="center">

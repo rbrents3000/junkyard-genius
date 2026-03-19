@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🖨️ Printer & Scanner"
+description: "Printers are the most underrated source of precision motion components on the planet."
+image: /images/categories/printer-and-scanner.jpg
+---
 # 🖨️ Printer & Scanner
 
 <p align="center">
@@ -49,3 +55,12 @@ Start with zero-modification hacks, progress toward precision CNC:
 - [Art & Installation](../art-and-installation/) — When precision motion makes art
 - [Power Tools Remixed](../power-tools-remixed/) — More tool repurposing
 - [Python Projects](../python-projects/) — Software-driven fabrication
+
+---
+
+## 📚 Reference Guides
+
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

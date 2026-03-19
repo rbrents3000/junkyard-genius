@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Technical Glossary"
+description: "Know the words before you touch the wires."
+image: /images/reference/glossary.jpg
+---
 # Technical Glossary
 
 <p align="center">

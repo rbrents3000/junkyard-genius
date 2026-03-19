@@ -1,3 +1,21 @@
+---
+layout: build
+title: "AI Doorbell"
+build_number: 130
+description: "Pi camera with face recognition — identifies family by name, logs strangers, sends photos to your phone."
+image: /images/builds/130-ai-doorbell.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino, laptop]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 3
+  time: 3
+---
 # #130 — AI Doorbell
 
 <p align="center">

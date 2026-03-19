@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Desktop Foundry"
+build_number: 5
+description: "A hair dryer, a bucket, and some plaster of paris — now you're melting aluminum cans into custom ingots and castings."
+image: /images/builds/005-desktop-foundry.jpg
+category: fire-and-plasma
+category_name: "Fire & Plasma"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 4
+  clout: 4
+  time: 2
+---
 # #005 — Desktop Foundry
 
 <p align="center">

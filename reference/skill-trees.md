@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Skill Trees"
+description: "Pick a path. Start at the bottom. Work your way up. Every build teaches you something the next build needs."
+image: /images/reference/skill-trees.jpg
+---
 # Skill Trees
 
 <p align="center">

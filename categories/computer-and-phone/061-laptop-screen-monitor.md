@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Laptop Screen Monitor"
+build_number: 61
+description: "Old laptop screen + $12 controller board = portable HDMI monitor. Mount it in a picture frame for a stealth display."
+image: /images/builds/061-laptop-screen-monitor.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: [laptop]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #061 — Laptop Screen Monitor
 
 <p align="center">

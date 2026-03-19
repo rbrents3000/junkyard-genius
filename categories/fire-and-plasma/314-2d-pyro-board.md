@@ -1,3 +1,21 @@
+---
+layout: build
+title: "2D Pyro Board (Rubens' Square)"
+build_number: 314
+description: "The Rubens' Tube's big sibling — a flat box with 2,500 flame holes showing 2D standing wave patterns in fire when you play music."
+image: /images/builds/314-2d-pyro-board.jpg
+category: fire-and-plasma
+category_name: "Fire & Plasma"
+tags: [pyro, chemistry, spectacle]
+junk: [laptop]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 4
+  clout: 5
+  time: 3
+---
 # #314 — 2D Pyro Board (Rubens' Square)
 
 <p align="center">

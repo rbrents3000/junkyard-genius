@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Rocket Stove"
+build_number: 253
+description: "An L-shaped tin can inferno that boils water with a handful of twigs. 10x more efficient than an open fire."
+image: /images/builds/253-rocket-stove.jpg
+category: survival-off-grid
+category_name: "Survival & Off-Grid"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 3
+  time: 1
+---
 # #253 — Rocket Stove
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Giant Outdoor Tesla Coil"
+build_number: 302
+description: "Six-foot lightning bolts that play music. Visible from across a field. Audible from a block away. Your insurance company doesn't need to know."
+image: /images/builds/302-giant-outdoor-tesla-coil.jpg
+category: big-builds
+category_name: "Big Builds"
+tags: [spectacle, functional]
+junk: [microwave, arduino]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 4
+  spicy: 5
+  clout: 5
+  time: 5
+---
 # #302 — Giant Outdoor Tesla Coil
 
 <p align="center">

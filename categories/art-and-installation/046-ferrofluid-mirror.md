@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Ferrofluid Mirror"
+build_number: 46
+description: "An array of electromagnets behind glass controls a pool of ferrofluid — a magnetic liquid that spikes, morphs, and dances like a living creature. The most hypnotic display you can build."
+image: /images/builds/046-ferrofluid-mirror.jpg
+category: art-and-installation
+category_name: "Art & Installation"
+tags: [visual, spectacle, art]
+junk: [arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 3
+  spicy: 1
+  clout: 5
+  time: 4
+---
 # #046 — Ferrofluid Mirror
 
 <p align="center">

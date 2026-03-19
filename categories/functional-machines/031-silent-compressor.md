@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Silent Compressor"
+build_number: 31
+description: "A fridge compressor is engineered to run 24/7 at barely audible levels. Pipe it to a tank and you've got the quietest air compressor in existence."
+image: /images/builds/031-silent-compressor.jpg
+category: functional-machines
+category_name: "Functional Machines"
+tags: [functional, practical]
+junk: [fridge]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 2
+  time: 2
+---
 # #031 — Silent Compressor
 
 <p align="center">

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "💥 Alchemist's Cookbook"
+description: "Where fireworks meet microwave parts meet chemistry meet car salvage. The most dangerous and spectacular crossover builds in the repo."
+image: /images/categories/alchemist-cookbook.jpg
+---
 # 💥 Alchemist's Cookbook
 
 <p align="center">
@@ -59,3 +65,12 @@ Start with simple chemistry spectacles, progress toward extreme electromagnetic 
 - [Pyro & Chemistry](../pyro-and-chemistry/) — Foundation chemistry and combustion builds
 - [Fire & Plasma](../fire-and-plasma/) — Thermal phenomena and high-temperature builds
 - [Mad Scientist](../mad-scientist/) — Complex multi-domain experiments
+
+---
+
+## 📚 Reference Guides
+
+- [Accessible Chemicals Guide](../../reference/chemicals.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "HDD Platter Wind Chimes"
+build_number: 58
+description: "Hard drive platters are precision-polished mirrors that ring like bells. String up a dozen for the most futuristic wind chimes ever made."
+image: /images/builds/058-hdd-platter-wind-chimes.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #058 — HDD Platter Wind Chimes
 
 <p align="center">

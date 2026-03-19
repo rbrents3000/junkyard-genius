@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Ball Bearing Motor"
+build_number: 187
+description: "One battery, one magnet, one ball bearing — the world's simplest electric motor, assembled in 60 seconds."
+image: /images/builds/187-ball-bearing-motor.jpg
+category: mechanical-and-kinetic
+category_name: "Mechanical & Kinetic"
+tags: [educational, skill, mechanical]
+junk: []
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #187 — Ball Bearing Motor
 
 <p align="center">

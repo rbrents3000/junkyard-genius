@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Plasma Tornado Lamp"
+build_number: 1
+description: "A swirling column of plasma trapped in glass — part mad science, part living room art piece."
+image: /images/builds/001-plasma-tornado-lamp.jpg
+category: fire-and-plasma
+category_name: "Fire & Plasma"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 4
+  clout: 5
+  time: 2
+---
 # #001 — Plasma Tornado Lamp
 
 <p align="center">

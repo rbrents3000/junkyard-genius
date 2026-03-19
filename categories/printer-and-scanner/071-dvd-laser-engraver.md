@@ -1,3 +1,21 @@
+---
+layout: build
+title: "DVD Laser Engraver"
+build_number: 71
+description: "Two DVD drive sleds plus an Arduino. The DVD burner's laser etches wood, leather, and paper with incredible detail. Tiny but mighty."
+image: /images/builds/071-dvd-laser-engraver.jpg
+category: printer-and-scanner
+category_name: "Printer & Scanner"
+tags: [skill, practical]
+junk: [arduino, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 3
+---
 # #071 — DVD Laser Engraver
 
 <p align="center">

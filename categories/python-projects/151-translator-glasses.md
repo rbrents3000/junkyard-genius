@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Translator Glasses"
+build_number: 151
+description: "A Pi Zero camera reads text, OCR translates it, and a tiny display near the eye shows the translation — DIY Google Translate glasses."
+image: /images/builds/151-translator-glasses.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: [arduino]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 3
+  spicy: 1
+  clout: 5
+  time: 4
+---
 # #151 — Translator Glasses
 
 <p align="center">

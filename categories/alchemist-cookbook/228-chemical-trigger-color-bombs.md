@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Chemical-Trigger Color Bombs"
+build_number: 228
+description: "KNO3 smoke bombs + metal salt colorants + permanganate/glycerin auto-ignition = no-fuse colored smoke that lights itself on contact."
+image: /images/builds/228-chemical-trigger-color-bombs.jpg
+category: alchemist-cookbook
+category_name: "Alchemist Cookbook"
+tags: [pyro, chemistry, spectacle]
+junk: [chemical]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 4
+  clout: 5
+  time: 2
+---
 # #228 — Chemical-Trigger Color Bombs
 
 <p align="center">

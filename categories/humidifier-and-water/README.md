@@ -1,3 +1,9 @@
+---
+layout: default
+title: "💧 Humidifier & Water"
+description: "Ultrasonic transducers vibrate at 1.7 million times per second. At that frequency, water doesn't know if it should be liquid or gas."
+image: /images/categories/humidifier-and-water.jpg
+---
 # 💧 Humidifier & Water
 
 <p align="center">
@@ -47,3 +53,12 @@ Start with a single transducer and scale up:
 - [Fridge & Cooling](../fridge-and-cooling/) — Thermal management and phase-change cooling
 - [Light & Visual](../light-and-visual/) — LED-enhanced fog and mist displays
 - [Survival & Off-Grid](../survival-off-grid/) — Water harvesting and off-grid systems
+
+---
+
+## 📚 Reference Guides
+
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

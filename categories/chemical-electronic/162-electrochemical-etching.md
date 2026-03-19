@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Electrochemical Etching"
+build_number: 162
+description: "Salt water, a battery, and a stencil — etch permanent designs into any metal surface. Knives, tools, jewelry, anything."
+image: /images/builds/162-electrochemical-etching.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #162 — Electrochemical Etching
 
 <p align="center">

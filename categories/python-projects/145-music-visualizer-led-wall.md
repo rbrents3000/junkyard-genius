@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Music Visualizer LED Wall"
+build_number: 145
+description: "An LED grid behind a diffuser panel analyzes audio in real time — your wall looks like a concert stage LED display."
+image: /images/builds/145-music-visualizer-led-wall.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: [arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 3
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #145 — Music Visualizer LED Wall
 
 <p align="center">

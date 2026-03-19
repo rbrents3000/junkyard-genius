@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Magnetic Field Viewer"
+build_number: 310
+description: "A sealed chamber of ferrofluid that turns invisible magnetic fields into writhing, spiky, real-time sculptures you can manipulate with your hands."
+image: /images/builds/310-magnetic-field-viewer.jpg
+category: weird-science
+category_name: "Weird Science"
+tags: [educational, spectacle]
+junk: [chemical]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 1
+---
 # #310 — Magnetic Field Viewer
 
 <p align="center">

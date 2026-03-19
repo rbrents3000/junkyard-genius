@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Pneumatic Launcher"
+build_number: 299
+description: "Vacuum motor + PVC pressure chamber + ball valve = a cannon that runs on air. Load a tennis ball. Pull the trigger. Watch it disappear."
+image: /images/builds/299-pneumatic-launcher.jpg
+category: vacuum-cleaner
+category_name: "Vacuum Cleaner"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 3
+  clout: 5
+  time: 2
+---
 # #299 — Pneumatic Launcher
 
 <p align="center">

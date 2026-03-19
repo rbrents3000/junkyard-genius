@@ -1,3 +1,21 @@
+---
+layout: build
+title: "DIY EEG Headband"
+build_number: 321
+description: "Read your own brainwaves with salvaged biosensors. Visualize alpha, beta, and theta waves in real-time on your phone."
+image: /images/builds/321-diy-eeg-headband.jpg
+category: wearable-tech
+category_name: "Wearable Tech"
+tags: [skill, creative]
+junk: [arduino]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #321 — DIY EEG Headband
 
 <p align="center">

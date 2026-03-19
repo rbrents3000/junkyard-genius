@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Pendulum Wave Machine"
+build_number: 316
+description: "15 pendulums of precisely calculated lengths create mesmerizing wave patterns that shift between chaos and perfect synchronization."
+image: /images/builds/316-pendulum-wave-machine.jpg
+category: mechanical-and-kinetic
+category_name: "Mechanical & Kinetic"
+tags: [educational, skill, mechanical]
+junk: []
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 5
+  time: 2
+---
 # #316 — Pendulum Wave Machine
 
 <p align="center">

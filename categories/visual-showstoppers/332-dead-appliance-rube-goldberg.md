@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Dead Appliance Rube Goldberg"
+build_number: 332
+description: "A massive chain-reaction machine built entirely from dead appliance guts — near-zero cost, one hundred percent junkyard spectacle."
+image: /images/builds/332-dead-appliance-rube-goldberg.jpg
+category: visual-showstoppers
+category_name: "Visual Showstoppers"
+tags: [visual, spectacle, art]
+junk: [printer, microwave, scooter, fridge]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 1
+  spicy: 2
+  clout: 5
+  time: 5
+---
 # #332 — Dead Appliance Rube Goldberg
 
 <p align="center">

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🎨 Art & Installation"
+description: "Turning dumpster finds into gallery pieces that make people forget the parts came from a curb."
+image: /images/categories/art-and-installation.jpg
+---
 # 🎨 Art & Installation
 
 <p align="center">
@@ -49,3 +55,11 @@ Start with accessible art pieces and build toward complex kinetic installations:
 - [Light & Visual](../light-and-visual/) — Optics, LEDs, and visual phenomena
 - [Mechanical & Kinetic](../mechanical-and-kinetic/) — Moving parts and motion physics
 - [Sound & Music](../sound-and-music/) — When art responds to sound
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

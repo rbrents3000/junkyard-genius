@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Dry Ice Fog Machine"
+build_number: 329
+description: "Dry ice plus hot water plus a fan in a cooler equals low-lying theatrical fog that crawls across the floor like something out of a horror movie. Five minutes of build time, hours of atmosphere."
+image: /images/builds/329-dry-ice-fog-machine.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: []
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 1
+---
 # #329 — Dry Ice Fog Machine
 
 <p align="center">

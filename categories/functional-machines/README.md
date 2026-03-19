@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🔧 Functional Machines"
+description: "Turning junk into machines that actually do real work. No toy builds here — these replace tools you'd otherwise buy."
+image: /images/categories/functional-machines.jpg
+---
 # 🔧 Functional Machines
 
 <p align="center">
@@ -51,3 +57,11 @@ Start with simple motor reuse, progress toward full vehicle builds:
 - [Scooter & Motor](../scooter-and-motor/) — Motor reuse and drive mechanics
 - [Junkyard Auto](../junkyard-auto/) — Vehicle assembly and power transmission
 - [Power & Energy](../power-and-energy/) — Battery systems and power distribution
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

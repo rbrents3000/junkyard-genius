@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Pi-hole Ad Blocker"
+build_number: 139
+description: "A Raspberry Pi running Pi-hole becomes a network-level DNS sinkhole that blocks ads on every device — 5-minute setup."
+image: /images/builds/139-pi-hole-ad-blocker.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino, laptop]
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #139 — Pi-hole Ad Blocker
 
 <p align="center">

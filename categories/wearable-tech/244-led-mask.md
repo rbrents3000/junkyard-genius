@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Sound-Reactive LED Face Mask"
+build_number: 244
+description: "An LED matrix behind a translucent mask driven by an ESP32 and microphone. Your mouth moves when you talk, your face glows when the beat drops, and everyone at the party wants to know where you got it."
+image: /images/builds/244-led-mask.jpg
+category: wearable-tech
+category_name: "Wearable Tech"
+tags: [skill, creative]
+junk: [arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #244 — Sound-Reactive LED Face Mask
 
 <p align="center">

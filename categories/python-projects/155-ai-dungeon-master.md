@@ -1,3 +1,21 @@
+---
+layout: build
+title: "AI Dungeon Master"
+build_number: 155
+description: "A local LLM running on an old gaming laptop becomes an AI D&D dungeon master — add an LED battle map, fog machine, and sound effects."
+image: /images/builds/155-ai-dungeon-master.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: [arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 4
+---
 # #155 — AI Dungeon Master
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Arduino Guitar Pedal"
+build_number: 124
+description: "An Arduino reads analog audio and applies digital effects — distortion, delay, chorus — housed in a dead hard drive chassis."
+image: /images/builds/124-arduino-guitar-pedal.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #124 — Arduino Guitar Pedal
 
 <p align="center">

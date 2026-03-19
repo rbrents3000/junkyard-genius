@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Magnetic Gear Train"
+build_number: 188
+description: "Gears that mesh and transfer torque through pure magnetic force — they never touch, and it looks like witchcraft."
+image: /images/builds/188-magnetic-gear-train.jpg
+category: mechanical-and-kinetic
+category_name: "Mechanical & Kinetic"
+tags: [educational, skill, mechanical]
+junk: []
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #188 — Magnetic Gear Train
 
 <p align="center">

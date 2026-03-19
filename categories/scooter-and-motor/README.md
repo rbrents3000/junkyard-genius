@@ -1,3 +1,9 @@
+---
+layout: default
+title: "⚙️ Scooter & Motor"
+description: "Every dead scooter motor is a brushless beast waiting to power something wilder than a sidewalk ride."
+image: /images/categories/scooter-and-motor.jpg
+---
 # ⚙️ Scooter & Motor
 
 <p align="center">
@@ -45,3 +51,12 @@ Start with simple motor repurposing, then tackle power electronics:
 - [Functional Machines](../functional-machines/) — Motor-driven tools and equipment
 - [Power & Energy](../power-and-energy/) — Motors as generators and energy systems
 - [Drone Salvage](../drone-salvage/) — Brushless motor applications and ESC programming
+
+---
+
+## 📚 Reference Guides
+
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

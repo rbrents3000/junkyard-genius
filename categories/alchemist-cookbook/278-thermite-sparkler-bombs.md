@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Thermite Sparkler Bombs"
+build_number: 278
+description: "Iron oxide plus aluminum powder packed around sparklers. Light the sparkler, walk away, wait for 2,500°C of molten iron fury. Simple, terrifying, unforgettable."
+image: /images/builds/278-thermite-sparkler-bombs.jpg
+category: alchemist-cookbook
+category_name: "Alchemist Cookbook"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 1
+  spicy: 5
+  clout: 5
+  time: 1
+---
 # #278 — Thermite Sparkler Bombs
 
 <p align="center">

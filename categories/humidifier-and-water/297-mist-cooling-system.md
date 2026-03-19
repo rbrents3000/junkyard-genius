@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Mist Cooling System"
+build_number: 297
+description: "Blow ultrasonic mist across a patio and drop the temperature 15 degrees. No wet surfaces. No plumbing. Just dead humidifiers and physics."
+image: /images/builds/297-mist-cooling-system.jpg
+category: humidifier-and-water
+category_name: "Humidifier & Water"
+tags: [functional, practical]
+junk: [arduino]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #297 — Mist Cooling System
 
 <p align="center">

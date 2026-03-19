@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Vacuum Plasma Cloud Chamber"
+build_number: 54
+description: "A cloud chamber inside a vacuum system with plasma discharge. Watch particle tracks illuminate inside a glowing plasma field. Three physics experiments combined into one impossible display."
+image: /images/builds/054-vacuum-plasma-cloud-chamber.jpg
+category: unholy-combos
+category_name: "Unholy Combos"
+tags: [spectacle, creative]
+junk: [chemical, fridge]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 3
+  spicy: 4
+  clout: 5
+  time: 4
+---
 # #054 — Vacuum Plasma Cloud Chamber
 
 <p align="center">

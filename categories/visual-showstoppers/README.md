@@ -1,3 +1,9 @@
+---
+layout: default
+title: "👁️ Visual Showstoppers"
+description: "Builds that break brains through your eyeballs. Every project here exists for one reason: to make people physically stop and stare."
+image: /images/categories/visual-showstoppers.jpg
+---
 # 👁️ Visual Showstoppers
 
 <p align="center">
@@ -53,3 +59,11 @@ Start with the most accessible, build toward the most complex:
 - [Art & Installation](../art-and-installation/) — Sculptural and kinetic art from salvage
 - [Mechanical & Kinetic](../mechanical-and-kinetic/) — Moving parts and chain reactions
 - [Weird Science](../weird-science/) — Physics demonstrations and scientific instruments
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Curie Engine"
+build_number: 189
+description: "A candle-powered motor that runs on the moment nickel stops being magnetic — thermodynamics and magnetism tag-teaming."
+image: /images/builds/189-curie-engine.jpg
+category: mechanical-and-kinetic
+category_name: "Mechanical & Kinetic"
+tags: [educational, skill, mechanical]
+junk: [chemical]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #189 — Curie Engine
 
 <p align="center">

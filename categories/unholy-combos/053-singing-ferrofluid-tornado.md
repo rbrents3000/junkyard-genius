@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Singing Ferrofluid Tornado"
+build_number: 53
+description: "Ferrofluid dancing to music inside a rotating magnetic field. A liquid tornado of magnetic spikes that sings. Three builds fused into one unholy creation."
+image: /images/builds/053-singing-ferrofluid-tornado.jpg
+category: unholy-combos
+category_name: "Unholy Combos"
+tags: [spectacle, creative]
+junk: [arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 3
+  spicy: 3
+  clout: 5
+  time: 4
+---
 # #053 — Singing Ferrofluid Tornado
 
 <p align="center">

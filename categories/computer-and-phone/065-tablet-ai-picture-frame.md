@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Tablet AI Picture Frame"
+build_number: 65
+description: "Old tablet + wall mount = dynamic picture frame. Run AI art generators on family photos, or a live dashboard for space imagery, weather, and stocks."
+image: /images/builds/065-tablet-ai-picture-frame.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: [laptop]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #065 — Tablet AI Picture Frame
 
 <p align="center">

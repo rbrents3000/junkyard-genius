@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Phone Macro Photography"
+build_number: 63
+description: "Use an old phone's OLED screen as a controllable backlight for macro shots. Water droplets on the screen + a macro lens = mind-blowing abstract images."
+image: /images/builds/063-phone-macro-photography.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: [laptop]
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #063 — Phone Macro Photography
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Dry Ice Bubble Cauldron"
+build_number: 120
+description: "Dry ice fog trapped inside a giant soap bubble — it grows, trembles, and pops to release a cascade of fog."
+image: /images/builds/120-dry-ice-bubble-cauldron.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 5
+  time: 1
+---
 # #120 — Dry Ice Bubble Cauldron
 
 <p align="center">

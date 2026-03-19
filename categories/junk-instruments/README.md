@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🎸 Junk Instruments"
+description: "Playable instruments from PVC, cigar boxes, and whatever was in the recycling bin this morning."
+image: /images/categories/junk-instruments.jpg
+---
 # 🎸 Junk Instruments
 
 <p align="center">
@@ -47,3 +53,11 @@ Start with pure percussion, progress toward tuned instruments:
 - [Sound & Music](../sound-and-music/) — Audio amplification and acoustic experiments
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — MIDI and stepper motor music (#135)
 - [Mechanical & Kinetic](../mechanical-and-kinetic/) — Musical marble machine and rhythm-based kinetic art
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

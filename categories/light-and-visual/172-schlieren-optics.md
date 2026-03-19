@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Schlieren Optics"
+build_number: 172
+description: "A concave mirror and a razor edge let you literally see sound waves, heat currents, and air density changes that are normally invisible."
+image: /images/builds/172-schlieren-optics.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: [laptop]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #172 — Schlieren Optics
 
 <p align="center">

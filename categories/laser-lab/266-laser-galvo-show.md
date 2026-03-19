@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Galvanometer Laser Light Show"
+build_number: 266
+description: "Two mirrors on galvanometers steer a laser fast enough to draw shapes on walls. Concert laser show for $20."
+image: /images/builds/266-laser-galvo-show.jpg
+category: laser-lab
+category_name: "Laser Lab"
+tags: [spectacle, skill]
+junk: [printer, arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 2
+  clout: 5
+  time: 3
+---
 # #266 — Galvanometer Laser Light Show
 
 <p align="center">

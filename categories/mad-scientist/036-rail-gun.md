@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Rail Gun"
+build_number: 36
+description: "Two parallel copper rails, a conductive projectile, and a massive current pulse. The Lorentz force launches the projectile at terrifying speed. Welcome to electromagnetic propulsion."
+image: /images/builds/036-rail-gun.jpg
+category: mad-scientist
+category_name: "Mad Scientist"
+tags: [educational, spectacle]
+junk: [microwave]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 3
+  spicy: 5
+  clout: 5
+  time: 4
+---
 # #036 — Rail Gun
 
 <p align="center">

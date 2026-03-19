@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Electric Go-Kart"
+build_number: 24
+description: "A scooter motor, a bed frame, and some batteries walk into a garage. They don't walk out — they drive out at 30 mph."
+image: /images/builds/024-electric-go-kart.jpg
+category: functional-machines
+category_name: "Functional Machines"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 3
+  spicy: 3
+  clout: 5
+  time: 3
+---
 # #024 — Electric Go-Kart
 
 <p align="center">

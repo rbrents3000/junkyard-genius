@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Motion-Activated Jump Scare"
+build_number: 255
+description: "PIR sensor + Arduino + servo yanks a prop on fishing line. Resets itself, never gets tired. Halloween essential."
+image: /images/builds/255-motion-jump-scare.jpg
+category: pranks-and-party
+category_name: "Pranks & Party"
+tags: [spectacle, creative]
+junk: [microwave, arduino, scooter]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 5
+  time: 2
+---
 # #255 — Motion-Activated Jump Scare
 
 <p align="center">

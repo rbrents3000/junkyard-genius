@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Wind Phone Charger"
+build_number: 91
+description: "A scooter motor run in reverse is a generator. Add PVC pipe blades and a charge controller. An actual tiny wind turbine. Free electricity from the sky."
+image: /images/builds/091-wind-phone-charger.jpg
+category: scooter-and-motor
+category_name: "Scooter & Motor"
+tags: [functional, practical, mechanical]
+junk: [microwave, laptop, scooter]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 3
+  time: 3
+---
 # #091 — Wind Phone Charger
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Starter Motor Go-Kart"
+build_number: 221
+description: "A starter motor's insane torque + chain drive + car battery = a go-kart that launches like it owes you money."
+image: /images/builds/221-starter-motor-go-kart.jpg
+category: junkyard-auto
+category_name: "Junkyard Auto"
+tags: [functional, practical, mechanical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 3
+  clout: 4
+  time: 3
+---
 # #221 — Starter Motor Go-Kart
 
 <p align="center">

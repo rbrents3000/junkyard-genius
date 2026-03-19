@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Alternator Welder"
+build_number: 219
+description: "Car alternator + car battery = field stick welder capable of 60-100A output. Weld anywhere there's a running engine."
+image: /images/builds/219-alternator-welder.jpg
+category: junkyard-auto
+category_name: "Junkyard Auto"
+tags: [functional, practical, mechanical]
+junk: []
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 3
+  clout: 4
+  time: 2
+---
 # #219 — Alternator Welder
 
 <p align="center">

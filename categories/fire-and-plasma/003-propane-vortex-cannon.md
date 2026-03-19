@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Propane Vortex Cannon"
+build_number: 3
+description: "A trash can that shoots flaming vortex rings across the yard — part physics demo, part backyard artillery."
+image: /images/builds/003-propane-vortex-cannon.jpg
+category: fire-and-plasma
+category_name: "Fire & Plasma"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 4
+  clout: 5
+  time: 2
+---
 # #003 — Propane Vortex Cannon
 
 <p align="center">

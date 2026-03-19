@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Pepper's Ghost Hologram"
+build_number: 171
+description: "A monitor, a sheet of glass at 45 degrees, and a dark room — the simplest possible floating hologram that actually works."
+image: /images/builds/171-peppers-ghost-hologram.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: [laptop]
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #171 — Pepper's Ghost Hologram
 
 <p align="center">

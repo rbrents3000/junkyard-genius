@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Piezo Shock Pen"
+build_number: 256
+description: "BBQ lighter piezo igniter crammed inside a pen barrel. Click to write, get zapped instead."
+image: /images/builds/256-shock-pen.jpg
+category: pranks-and-party
+category_name: "Pranks & Party"
+tags: [spectacle, creative]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #256 — Piezo Shock Pen
 
 <p align="center">

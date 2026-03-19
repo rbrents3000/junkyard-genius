@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Microwave Chemical Reactor"
+build_number: 279
+description: "Rip the guts out of a microwave, build a custom reaction chamber with borosilicate glassware, and run chemical syntheses in minutes that would take hours on a hot plate."
+image: /images/builds/279-microwave-chemical-reactor.jpg
+category: alchemist-cookbook
+category_name: "Alchemist Cookbook"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave]
+ratings:
+  jaw: 4
+  brain: 5
+  wallet: 2
+  spicy: 4
+  clout: 4
+  time: 3
+---
 # #279 — Microwave Chemical Reactor
 
 <p align="center">

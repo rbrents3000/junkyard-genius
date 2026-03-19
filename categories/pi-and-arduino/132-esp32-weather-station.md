@@ -1,3 +1,21 @@
+---
+layout: build
+title: "ESP32 Weather Station"
+build_number: 132
+description: "Multiple sensor nodes measuring temp, humidity, pressure, wind, and UV — predict weather from your own data on a Grafana dashboard."
+image: /images/builds/132-esp32-weather-station.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [microwave, arduino]
+ratings:
+  jaw: 2
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 2
+  time: 3
+---
 # #132 — ESP32 Weather Station
 
 <p align="center">

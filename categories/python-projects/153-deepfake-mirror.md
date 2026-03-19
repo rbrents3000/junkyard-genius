@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Deepfake Mirror"
+build_number: 153
+description: "Real-time face swapping — look in the mirror and see yourself as Einstein, Elvis, or Shrek."
+image: /images/builds/153-deepfake-mirror.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: []
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #153 — Deepfake Mirror
 
 <p align="center">

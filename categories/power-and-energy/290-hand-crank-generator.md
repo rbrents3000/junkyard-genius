@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Hand-Crank Generator"
+build_number: 290
+description: "A dead treadmill motor, some bicycle gears, and a crank handle. When the grid goes down, your arm becomes the power plant."
+image: /images/builds/290-hand-crank-generator.jpg
+category: power-and-energy
+category_name: "Power & Energy"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #290 — Hand-Crank Generator
 
 <p align="center">

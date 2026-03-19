@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Confetti Cannon Controller"
+build_number: 320
+description: "Arduino-triggered solenoid-powered confetti cannons for perfectly synchronized celebration explosions."
+image: /images/builds/320-confetti-cannon-controller.jpg
+category: pranks-and-party
+category_name: "Pranks & Party"
+tags: [spectacle, creative]
+junk: [arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 2
+---
 # #320 — Confetti Cannon Controller
 
 <p align="center">

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🔋 Power & Energy"
+description: "Generate, store, and harvest energy from sources most people throw away."
+image: /images/categories/power-and-energy.jpg
+---
 # 🔋 Power & Energy
 
 <p align="center">
@@ -49,3 +55,11 @@ Start with low-danger energy harvesting and work toward high-capacity storage:
 - [Fridge & Cooling](../fridge-and-cooling/) — Thermal energy recovery and Peltier modules
 - [Scooter & Motor](../scooter-and-motor/) — Motors as generators and energy conversion
 - [Survival & Off-Grid](../survival-off-grid/) — Solar, wind, and off-grid power systems
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

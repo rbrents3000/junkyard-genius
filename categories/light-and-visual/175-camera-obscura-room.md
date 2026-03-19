@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Camera Obscura Room"
+build_number: 175
+description: "Seal a room, make one small hole, and the entire outside world projects live and inverted on your walls — the original camera, no lens required."
+image: /images/builds/175-camera-obscura-room.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: []
+ratings:
+  jaw: 5
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #175 — Camera Obscura Room
 
 <p align="center">

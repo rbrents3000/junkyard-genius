@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Vacuum Chamber"
+build_number: 39
+description: "A fridge compressor run backward becomes a vacuum pump. Add a bell jar and suddenly you're doing experiments that normally require a university lab."
+image: /images/builds/039-vacuum-chamber.jpg
+category: mad-scientist
+category_name: "Mad Scientist"
+tags: [educational, spectacle]
+junk: [fridge]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 2
+  clout: 4
+  time: 2
+---
 # #039 — Vacuum Chamber
 
 <p align="center">

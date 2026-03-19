@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Backyard Water Slide"
+build_number: 191
+description: "100 feet of tarp, PVC, and a recirculating pump — because water parks charge too much and your yard is just sitting there."
+image: /images/builds/191-backyard-water-slide.jpg
+category: big-builds
+category_name: "Big Builds"
+tags: [spectacle, functional]
+junk: []
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 3
+  spicy: 2
+  clout: 5
+  time: 2
+---
 # #191 — Backyard Water Slide
 
 <p align="center">

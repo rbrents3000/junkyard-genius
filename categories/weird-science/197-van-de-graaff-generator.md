@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Van de Graaff Generator"
+build_number: 197
+description: "PVC pipe, a rubber belt, a small motor, and an aluminum salad bowl — 100,000 volts of hair-raising static electricity."
+image: /images/builds/197-van-de-graaff-generator.jpg
+category: weird-science
+category_name: "Weird Science"
+tags: [educational, spectacle]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 2
+  clout: 5
+  time: 3
+---
 # #197 — Van de Graaff Generator
 
 <p align="center">

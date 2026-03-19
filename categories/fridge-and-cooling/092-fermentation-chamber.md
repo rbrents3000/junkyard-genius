@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Fermentation Chamber"
+build_number: 92
+description: "Mini-fridge + $12 temperature controller + heating pad. Exact temperature for beer, cheese, kombucha, tempeh. Lab-grade incubator for $15."
+image: /images/builds/092-fermentation-chamber.jpg
+category: fridge-and-cooling
+category_name: "Fridge & Cooling"
+tags: [functional, practical]
+junk: [fridge]
+ratings:
+  jaw: 2
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 2
+  time: 1
+---
 # #092 — Fermentation Chamber
 
 <p align="center">

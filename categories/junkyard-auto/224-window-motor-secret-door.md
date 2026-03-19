@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Window Motor Secret Door"
+build_number: 224
+description: "A power window motor drives a bookshelf that swings open to reveal a hidden passage. Every house deserves a Scooby-Doo moment."
+image: /images/builds/224-window-motor-secret-door.jpg
+category: junkyard-auto
+category_name: "Junkyard Auto"
+tags: [functional, practical, mechanical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #224 — Window Motor Secret Door
 
 <p align="center">

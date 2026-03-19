@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Thermoelectric Beverage Chiller"
+build_number: 100
+description: "CPU cooler heatsink + Peltier module = a desktop drink chiller that gets your can ice cold in 5 minutes."
+image: /images/builds/100-beverage-chiller.jpg
+category: fridge-and-cooling
+category_name: "Fridge & Cooling"
+tags: [functional, practical]
+junk: [laptop, fridge]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #100 — Thermoelectric Beverage Chiller
 
 <p align="center">

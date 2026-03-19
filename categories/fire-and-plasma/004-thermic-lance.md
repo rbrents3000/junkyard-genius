@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Thermic Lance"
+build_number: 4
+description: "A steel pipe packed with iron rods and fed pure oxygen — cuts through concrete, steel, and basically anything else on Earth."
+image: /images/builds/004-thermic-lance.jpg
+category: fire-and-plasma
+category_name: "Fire & Plasma"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 5
+  clout: 5
+  time: 1
+---
 # #004 — Thermic Lance
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Capacitor Bank Plasma Igniter"
+build_number: 275
+description: "MOT capacitors wired in a bank discharge through a spark gap to create a plasma arc hot enough to ignite anything you point it at."
+image: /images/builds/275-capacitor-bank-plasma-igniter.jpg
+category: alchemist-cookbook
+category_name: "Alchemist Cookbook"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 2
+  spicy: 5
+  clout: 4
+  time: 3
+---
 # #275 — Capacitor Bank Plasma Igniter
 
 <p align="center">

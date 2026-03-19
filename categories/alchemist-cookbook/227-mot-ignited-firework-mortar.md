@@ -1,3 +1,21 @@
+---
+layout: build
+title: "MOT-Ignited Firework Mortar"
+build_number: 227
+description: "Microwave capacitor bank + nichrome igniter + Raspberry Pi timing = a programmable professional fireworks show from salvaged parts."
+image: /images/builds/227-mot-ignited-firework-mortar.jpg
+category: alchemist-cookbook
+category_name: "Alchemist Cookbook"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave, arduino]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 3
+  spicy: 5
+  clout: 5
+  time: 3
+---
 # #227 — MOT-Ignited Firework Mortar
 
 <p align="center">

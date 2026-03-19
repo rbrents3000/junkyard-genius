@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Automated Microscope"
+build_number: 148
+description: "A USB microscope on a stepper-driven XY stage captures a grid of images — Python stitches them into gigapixel panoramas."
+image: /images/builds/148-automated-microscope.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: [scooter, printer, microwave, arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 3
+  time: 3
+---
 # #148 — Automated Microscope
 
 <p align="center">

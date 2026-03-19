@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Kirlian Photography"
+build_number: 196
+description: 'High voltage + a metal plate + your hand = glowing corona discharge "aura" photos that look straight out of a paranormal documentary.'
+image: /images/builds/196-kirlian-photography.jpg
+category: weird-science
+category_name: "Weird Science"
+tags: [educational, spectacle]
+junk: [crt, laptop]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 3
+  clout: 5
+  time: 3
+---
 # #196 — Kirlian Photography
 
 <p align="center">

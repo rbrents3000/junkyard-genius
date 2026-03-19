@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Bleach Crystal Garden"
+build_number: 213
+description: "Bleach, liquid bluing, ammonia, and water dripped on charcoal briquettes. Come back in a few hours and you’ve got an alien landscape of delicate white and colored crystals growing right out of the charcoal."
+image: /images/builds/213-bleach-crystal-garden.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 3
+  time: 1
+---
 # #213 — Bleach Crystal Garden
 
 <p align="center">

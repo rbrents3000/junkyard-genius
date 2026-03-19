@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Musical Marble Machine"
+build_number: 181
+description: "A gravity-powered orchestra made from scrap metal, xylophone bars, and the patience of a watchmaker."
+image: /images/builds/181-musical-marble-machine.jpg
+category: mechanical-and-kinetic
+category_name: "Mechanical & Kinetic"
+tags: [educational, skill, mechanical]
+junk: [microwave, laptop, scooter]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 5
+---
 # #181 — Musical Marble Machine
 
 <p align="center">

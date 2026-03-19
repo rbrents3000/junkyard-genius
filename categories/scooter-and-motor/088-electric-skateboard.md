@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Electric Skateboard"
+build_number: 88
+description: "Scooter motor + ESC + salvaged laptop battery pack + skateboard deck. 15-20 mph for free vs $400+ for a commercial board."
+image: /images/builds/088-electric-skateboard.jpg
+category: scooter-and-motor
+category_name: "Scooter & Motor"
+tags: [functional, practical, mechanical]
+junk: [microwave, laptop, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 2
+  clout: 4
+  time: 3
+---
 # #088 — Electric Skateboard
 
 <p align="center">

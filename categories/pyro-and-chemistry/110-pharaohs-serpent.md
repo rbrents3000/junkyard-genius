@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Pharaoh's Serpent"
+build_number: 110
+description: "Sugar, baking soda, and lighter fluid on sand — a massive carbon snake grows from the flames."
+image: /images/builds/110-pharaohs-serpent.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: [chemical]
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 3
+  time: 1
+---
 # #110 — Pharaoh's Serpent
 
 <p align="center">

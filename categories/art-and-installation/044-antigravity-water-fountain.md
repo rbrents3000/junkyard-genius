@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Anti-Gravity Water Fountain"
+build_number: 44
+description: "A strobe light synchronized to falling water droplets makes them appear frozen in mid-air — or even flowing upward. Pure optical illusion, zero Photoshop."
+image: /images/builds/044-antigravity-water-fountain.jpg
+category: art-and-installation
+category_name: "Art & Installation"
+tags: [visual, spectacle, art]
+junk: [microwave, arduino, scooter]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 2
+---
 # #044 — Anti-Gravity Water Fountain
 
 <p align="center">

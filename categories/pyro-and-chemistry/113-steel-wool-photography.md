@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Steel Wool Photography"
+build_number: 113
+description: "Burning steel wool in a whisk, spun on a cable — long-exposure photography captures insane fire spirals."
+image: /images/builds/113-steel-wool-photography.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: [laptop]
+ratings:
+  jaw: 5
+  brain: 1
+  wallet: 1
+  spicy: 3
+  clout: 5
+  time: 1
+---
 # #113 — Steel Wool Photography
 
 <p align="center">

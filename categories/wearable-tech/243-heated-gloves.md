@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Nichrome Wire Heated Gloves"
+build_number: 243
+description: "Nichrome wire loops stitched into glove fingers, powered by a LiPo battery with MOSFET PWM temperature control. Three hours of toasty warmth when it's freezing outside. Take that, $150 commercial heated gloves."
+image: /images/builds/243-heated-gloves.jpg
+category: wearable-tech
+category_name: "Wearable Tech"
+tags: [skill, creative]
+junk: [arduino, laptop]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #243 — Nichrome Wire Heated Gloves
 
 <p align="center">

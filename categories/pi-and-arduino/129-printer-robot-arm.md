@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Printer Robot Arm"
+build_number: 129
+description: "Stepper motors from dead printers + 3D printed joints = a working robotic arm that teaches positions and replays them."
+image: /images/builds/129-printer-robot-arm.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [scooter, printer, microwave, arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 4
+---
 # #129 — Printer Robot Arm
 
 <p align="center">

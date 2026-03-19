@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🧹 Household Chemistry"
+description: "Everything under the kitchen sink is an ingredient — bleach, vinegar, baking soda, rubbing alcohol, acetone, hand sanitizer, dish soap, and pool shock are all you need."
+image: /images/categories/household-chemistry.jpg
+---
 # 🧹 Household Chemistry
 
 <p align="center">
@@ -67,3 +73,12 @@ Start with instant spectacles, progress toward electrochemistry:
 - [Pyro & Chemistry](../pyro-and-chemistry/) — Advanced combustion and reaction chemistry
 - [Mad Scientist](../mad-scientist/) — Scaling up household experiments
 - [Alchemist Cookbook](../alchemist-cookbook/) — Crossover builds with electronics and energy
+
+---
+
+## 📚 Reference Guides
+
+- [Accessible Chemicals Guide](../../reference/chemicals.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

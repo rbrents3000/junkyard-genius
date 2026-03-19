@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Fluorescein Blacklight Fountain"
+build_number: 118
+description: "A tiny amount of fluorescein dye makes water glow INTENSE neon green under UV — pump it through a fountain for a radioactive look."
+image: /images/builds/118-fluorescein-blacklight-fountain.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 5
+  time: 1
+---
 # #118 — Fluorescein Blacklight Fountain
 
 <p align="center">

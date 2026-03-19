@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Hand Sanitizer Fire Art"
+build_number: 210
+description: "Hand sanitizer gel burns with a clean blue flame that barely radiates heat — squeeze patterns on a fireproof surface and write in fire."
+image: /images/builds/210-hand-sanitizer-fire-art.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 3
+  clout: 5
+  time: 1
+---
 # #210 — Hand Sanitizer Fire Art
 
 <p align="center">

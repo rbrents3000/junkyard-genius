@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Motor-Driven Turntable"
+build_number: 294
+description: "Microwave motor + lazy susan + potentiometer. Smooth, silent rotation for product photography, 3D scanning, or spin-coating. Commercial turntables cost $40-150. Build this for $5."
+image: /images/builds/294-motor-driven-turntable.jpg
+category: scooter-and-motor
+category_name: "Scooter & Motor"
+tags: [functional, practical, mechanical]
+junk: [printer, microwave, arduino, scooter]
+ratings:
+  jaw: 2
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #294 — Motor-Driven Turntable
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Capacitor Bank Flash Charger"
+build_number: 291
+description: "Slow charge. Fast dump. A bank of salvaged electrolytic capacitors that stores energy like a battery and releases it like a lightning bolt."
+image: /images/builds/291-capacitor-bank-flash-charger.jpg
+category: power-and-energy
+category_name: "Power & Energy"
+tags: [functional, practical]
+junk: [crt, microwave]
+ratings:
+  jaw: 3
+  brain: 4
+  wallet: 2
+  spicy: 4
+  clout: 3
+  time: 2
+---
 # #291 — Capacitor Bank Flash Charger
 
 <p align="center">

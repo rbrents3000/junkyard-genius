@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Earthquake Detector"
+build_number: 146
+description: "Old smartphones running Phyphox stream accelerometer data to a Python server — a DIY seismograph network from e-waste."
+image: /images/builds/146-earthquake-detector.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: [arduino, laptop]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #146 — Earthquake Detector
 
 <p align="center">

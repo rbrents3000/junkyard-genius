@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🍴 Kitchen Appliance Hacks"
+description: "Your toaster oven is a reflow station. Your stand mixer is a pottery wheel. Your kitchen is lying to you about what it can do."
+image: /images/categories/kitchen-hacks.jpg
+---
 # 🍴 Kitchen Appliance Hacks
 
 <p align="center">
@@ -47,3 +53,12 @@ Every one of these appliances was designed to do one thing. Every one of them ca
 - [Household Chemistry](../household-chemistry/) — More chemistry with kitchen-safe ingredients
 - [Chemical + Electronic](../chemical-electronic/) — Electroplating and etching at larger scale
 - [Pyro & Chemistry](../pyro-and-chemistry/) — When heat gets serious
+
+---
+
+## 📚 Reference Guides
+
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

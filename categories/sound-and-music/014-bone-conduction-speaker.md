@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Bone Conduction Speaker"
+build_number: 14
+description: "A transducer that turns any surface into a speaker — stick it on a table, window, or cardboard box and it plays music through the surface."
+image: /images/builds/014-bone-conduction-speaker.jpg
+category: sound-and-music
+category_name: "Sound & Music"
+tags: [creative, art, music]
+junk: [laptop]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #014 — Bone Conduction Speaker
 
 <p align="center">

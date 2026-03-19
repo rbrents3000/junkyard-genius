@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Tesla Coil Guitar Amp"
+build_number: 315
+description: "Plug your guitar into a Tesla coil. The arc IS the speaker — lightning bolts modulated by your riff."
+image: /images/builds/315-tesla-coil-guitar-amp.jpg
+category: sound-and-music
+category_name: "Sound & Music"
+tags: [creative, art, music]
+junk: [microwave, arduino, scooter, fridge]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 3
+  spicy: 4
+  clout: 5
+  time: 4
+---
 # #315 — Tesla Coil Guitar Amp
 
 <p align="center">

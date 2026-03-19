@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Shipping Container Workshop"
+build_number: 301
+description: "A 320-square-foot steel box that locks, survives hurricanes, and holds every tool you own. Just add insulation, power, and ambition."
+image: /images/builds/301-shipping-container-workshop.jpg
+category: big-builds
+category_name: "Big Builds"
+tags: [spectacle, functional]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 4
+  spicy: 2
+  clout: 4
+  time: 5
+---
 # #301 — Shipping Container Workshop
 
 <p align="center">

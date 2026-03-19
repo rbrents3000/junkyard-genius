@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Nebula Lamp"
+build_number: 87
+description: "Trap ultrasonic mist inside a glass enclosure. Color it with LEDs. Add a fan for turbulence. A captured cloud. A nebula in a jar. Add a speaker and it pulses to music."
+image: /images/builds/087-nebula-lamp.jpg
+category: humidifier-and-water
+category_name: "Humidifier & Water"
+tags: [functional, practical]
+junk: [arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #087 — Nebula Lamp
 
 <p align="center">

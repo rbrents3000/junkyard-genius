@@ -1,3 +1,21 @@
+---
+layout: build
+title: "CRT Electromagnetic Art"
+build_number: 48
+description: "Hold a magnet near an old CRT television and watch the image twist, smear, and bloom into abstract art. The simplest interactive installation you can build."
+image: /images/builds/048-crt-electromagnetic-art.jpg
+category: art-and-installation
+category_name: "Art & Installation"
+tags: [visual, spectacle, art]
+junk: [crt, laptop]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 1
+---
 # #048 — CRT Electromagnetic Art
 
 <p align="center">

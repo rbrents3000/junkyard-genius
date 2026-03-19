@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Pirate Radio"
+build_number: 134
+description: "A Raspberry Pi with a wire on a GPIO pin becomes an FM transmitter — broadcast to any FM radio within 100 feet."
+image: /images/builds/134-pirate-radio.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino, laptop]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 1
+---
 # #134 — Pirate Radio
 
 <p align="center">

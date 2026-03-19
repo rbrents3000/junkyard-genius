@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Bleach Pen Tie-Dye"
+build_number: 214
+description: "A bleach pen removes dye from dark fabric in precise, controlled patterns — reverse tie-dye that looks professional with zero artistic skill required."
+image: /images/builds/214-bleach-pen-tie-dye.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #214 — Bleach Pen Tie-Dye
 
 <p align="center">

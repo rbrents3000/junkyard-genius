@@ -1,3 +1,21 @@
+---
+layout: build
+title: "LED Matrix Backpack Display"
+build_number: 322
+description: "A scrollable LED message board on your back. Custom text, animations, or live data — the billboard goes where you go."
+image: /images/builds/322-led-matrix-backpack-display.jpg
+category: wearable-tech
+category_name: "Wearable Tech"
+tags: [skill, creative]
+junk: [microwave, arduino]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 2
+---
 # #322 — LED Matrix Backpack Display
 
 <p align="center">

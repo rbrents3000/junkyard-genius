@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Chemical LED Art Panel"
+build_number: 287
+description: "A wall panel where digital light and chemical reactions merge. Sealed glass vials of color-shifting solutions backlit by programmable LEDs — living art that breathes, shifts, and never looks the same twice."
+image: /images/builds/287-chemical-led-art-panel.jpg
+category: unholy-combos
+category_name: "Unholy Combos"
+tags: [spectacle, creative]
+junk: [arduino, chemical]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 3
+  spicy: 2
+  clout: 5
+  time: 4
+---
 # #287 — Chemical LED Art Panel
 
 <p align="center">

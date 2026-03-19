@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Non-Newtonian Speaker"
+build_number: 112
+description: "Cornstarch and water on a subwoofer — bass frequencies make alien tentacles dance on the speaker cone."
+image: /images/builds/112-non-newtonian-speaker.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: [laptop]
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 5
+  time: 1
+---
 # #112 — Non-Newtonian Speaker
 
 <p align="center">

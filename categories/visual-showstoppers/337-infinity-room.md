@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Infinity Room"
+build_number: 337
+description: "A box of mirrors and LED strips that creates the illusion of infinite glowing space — Kusama on a junkyard budget."
+image: /images/builds/337-infinity-room.jpg
+category: visual-showstoppers
+category_name: "Visual Showstoppers"
+tags: [visual, spectacle, art]
+junk: [arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 2
+---
 # #337 — Infinity Room
 
 <p align="center">

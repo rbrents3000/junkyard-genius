@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Elephant Toothpaste"
+build_number: 282
+description: "Concentrated hydrogen peroxide meets potassium iodide catalyst and erupts into a massive tower of steaming foam. The most photogenic chemistry demo on the planet."
+image: /images/builds/282-hydrogen-peroxide-elephant-toothpaste.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 5
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 5
+  time: 1
+---
 # #282 — Elephant Toothpaste
 
 <p align="center">

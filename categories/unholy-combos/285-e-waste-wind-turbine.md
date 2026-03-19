@@ -1,3 +1,21 @@
+---
+layout: build
+title: "E-Waste Wind Turbine"
+build_number: 285
+description: "A wind generator built entirely from electronic waste. Hard drive motors become generators, printer gears handle RPM matching, and old fan blades catch the wind. Free power from free parts."
+image: /images/builds/285-e-waste-wind-turbine.jpg
+category: unholy-combos
+category_name: "Unholy Combos"
+tags: [spectacle, creative]
+junk: [scooter, chemical, printer, microwave, laptop]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #285 — E-Waste Wind Turbine
 
 <p align="center">

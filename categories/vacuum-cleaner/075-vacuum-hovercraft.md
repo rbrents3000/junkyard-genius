@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Vacuum Hovercraft"
+build_number: 75
+description: "Reverse a vacuum motor to blow downward through a plywood platform. Add a trash bag skirt. It floats. Actually floats."
+image: /images/builds/075-vacuum-hovercraft.jpg
+category: vacuum-cleaner
+category_name: "Vacuum Cleaner"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 2
+  clout: 5
+  time: 2
+---
 # #075 — Vacuum Hovercraft
 
 <p align="center">

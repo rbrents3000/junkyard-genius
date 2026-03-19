@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🎯 Laser Lab"
+description: "Laser builds from salvaged diodes, pointers, and optics."
+image: /images/categories/laser-lab.jpg
+---
 # 🎯 Laser Lab
 
 <p align="center">
@@ -47,3 +53,11 @@ Start with simple optics, progress toward precision laser systems:
 - [Light & Visual](../light-and-visual/) — Laser projection and light manipulation
 - [Mad Scientist](../mad-scientist/) — High-energy physics experiments
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Galvo control and signal generation
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Accessible Chemicals Guide"
+description: "Every chemical used across builds — what it is, where to buy it, what it costs, and how not to hurt yourself with it."
+image: /images/reference/chemicals.jpg
+---
 # Accessible Chemicals Guide
 
 <p align="center">

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🐍 Python Projects"
+description: "A webcam is a webcam. A webcam running OpenCV is a face-tracking sentry turret. Python is the difference."
+image: /images/categories/python-projects.jpg
+---
 # 🐍 Python Projects
 
 <p align="center">
@@ -63,3 +69,13 @@ Start with sensor basics, progress toward machine learning:
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Hardware foundation for Python IoT projects
 - [Computer & Phone](../computer-and-phone/) — Webcam and phone sensor integration
 - [Laser Lab](../laser-lab/) — Laser engraving and optical sensing with Python control
+
+---
+
+## 📚 Reference Guides
+
+- [Electronics & Microcontrollers](../../reference/electronics-and-microcontrollers.md)
+- [Python Libraries](../../reference/python-libraries.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

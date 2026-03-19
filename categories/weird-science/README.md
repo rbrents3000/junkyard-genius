@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🔬 Weird Science"
+description: 'The builds that make people ask "wait, is that even legal?" (It is. Probably.)'
+image: /images/categories/weird-science.jpg
+---
 # 🔬 Weird Science
 
 <p align="center">
@@ -47,3 +53,11 @@ Start with accessible demos and work toward advanced instrumentation:
 - [Mad Scientist](../mad-scientist/) — More high-voltage and extreme physics
 - [Light & Visual](../light-and-visual/) — Optics, lasers, and visual phenomena
 - [Art & Installation](../art-and-installation/) — When science becomes art
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

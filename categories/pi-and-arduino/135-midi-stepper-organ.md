@@ -1,3 +1,21 @@
+---
+layout: build
+title: "MIDI Stepper Organ"
+build_number: 135
+description: "Stepper motors whine at frequencies controlled by step rate — send MIDI notes and the motors play music. Floppy drives work too."
+image: /images/builds/135-midi-stepper-organ.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [scooter, printer, microwave, arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #135 — MIDI Stepper Organ
 
 <p align="center">

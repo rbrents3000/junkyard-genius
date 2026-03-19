@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Nerf Sentry Turret"
+build_number: 138
+description: "A motorized Nerf gun on pan/tilt servos with ultrasonic sensors or Pi camera — auto-targeting that can recognize faces."
+image: /images/builds/138-nerf-sentry-turret.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [microwave, arduino, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #138 — Nerf Sentry Turret
 
 <p align="center">

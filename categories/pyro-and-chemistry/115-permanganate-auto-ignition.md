@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Permanganate Auto-Ignition"
+build_number: 115
+description: "Potassium permanganate meets glycerin — 30 seconds of anticipation, then spontaneous purple flames."
+image: /images/builds/115-permanganate-auto-ignition.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: [chemical]
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 4
+  clout: 4
+  time: 1
+---
 # #115 — Permanganate Auto-Ignition
 
 <p align="center">

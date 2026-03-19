@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Obstacle-Dodging Robot"
+build_number: 205
+description: "Salvage the ToF sensors, IR proximity detectors, and flight controller IMU from a drone — put them on a ground robot that autonomously navigates around obstacles."
+image: /images/builds/205-obstacle-dodging-robot.jpg
+category: drone-salvage
+category_name: "Drone Salvage"
+tags: [skill, practical]
+junk: [microwave, arduino, scooter]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #205 — Obstacle-Dodging Robot
 
 <p align="center">

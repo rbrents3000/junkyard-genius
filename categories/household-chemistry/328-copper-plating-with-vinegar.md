@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Copper Plating with Vinegar"
+build_number: 328
+description: "Vinegar dissolves copper wire into a blue-green solution. Add a battery and you can electroplate anything conductive with a gorgeous layer of real copper. Kitchen alchemy at its finest."
+image: /images/builds/328-copper-plating-with-vinegar.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #328 — Copper Plating with Vinegar
 
 <p align="center">

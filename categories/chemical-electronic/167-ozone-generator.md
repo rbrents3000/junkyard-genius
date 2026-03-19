@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Ozone Generator"
+build_number: 167
+description: "Corona discharge or UV creates ozone (O3) — bubbled through water, it purifies better than chlorine. Industrial water treatment tech on your bench."
+image: /images/builds/167-ozone-generator.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: [crt]
+ratings:
+  jaw: 2
+  brain: 2
+  wallet: 1
+  spicy: 3
+  clout: 2
+  time: 2
+---
 # #167 — Ozone Generator
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "UV Reactive Water Wall"
+build_number: 23
+description: "UV LEDs, fluorescent dye, and flowing water combine into a wall of glowing liquid that looks like it belongs in a sci-fi movie."
+image: /images/builds/023-uv-reactive-water-wall.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: [laptop]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #023 — UV Reactive Water Wall
 
 <p align="center">

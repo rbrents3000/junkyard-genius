@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Cloud Chamber"
+build_number: 41
+description: "Supersaturated alcohol vapor makes invisible radiation visible. Watch alpha particles, beta particles, and cosmic rays leave vapor trails in real time. In your kitchen."
+image: /images/builds/041-cloud-chamber.jpg
+category: mad-scientist
+category_name: "Mad Scientist"
+tags: [educational, spectacle]
+junk: [chemical]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 2
+  clout: 5
+  time: 1
+---
 # #041 — Cloud Chamber
 
 <p align="center">

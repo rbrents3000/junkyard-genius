@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Dry Ice Comet Balls"
+build_number: 114
+description: "Dry ice wrapped in fabric and dipped in water trails dense fog — add LEDs at night for meteor effects."
+image: /images/builds/114-dry-ice-comet-balls.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 1
+---
 # #114 — Dry Ice Comet Balls
 
 <p align="center">

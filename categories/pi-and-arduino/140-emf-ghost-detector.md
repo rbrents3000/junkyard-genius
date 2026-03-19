@@ -1,3 +1,21 @@
+---
+layout: build
+title: "EMF Ghost Detector"
+build_number: 140
+description: "A wire antenna and Arduino read electromagnetic field fluctuations on an OLED display — market as a ghost detector for Halloween."
+image: /images/builds/140-emf-ghost-detector.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino]
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #140 — EMF Ghost Detector
 
 <p align="center">

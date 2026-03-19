@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🏢 Big Builds"
+description: "When your project outgrows the workbench, escapes the garage, and takes over the entire yard. Neighbors will have questions."
+image: /images/categories/big-builds.jpg
+---
 # 🏢 Big Builds
 
 <p align="center">
@@ -45,3 +51,11 @@ This category is for builds that demand real space, real time, and real commitme
 - [Functional Machines](../functional-machines/) — Workshop tools you build yourself
 - [Mad Scientist](../mad-scientist/) — More high-voltage and physics projects
 - [Survival & Off-Grid](../survival-off-grid/) — Off-grid infrastructure builds
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

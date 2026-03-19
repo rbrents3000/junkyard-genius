@@ -1,3 +1,21 @@
+---
+layout: build
+title: "RAM Stick Ruler"
+build_number: 68
+description: "RAM sticks are perfectly straight, rigid PCBs with precise dimensions. They make genuinely good rulers. The gold contacts look cool."
+image: /images/builds/068-ram-stick-ruler.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: [laptop]
+ratings:
+  jaw: 1
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 2
+  time: 1
+---
 # #068 — RAM Stick Ruler
 
 <p align="center">

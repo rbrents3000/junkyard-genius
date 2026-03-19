@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Vacuum Former"
+build_number: 29
+description: "Heat plastic sheet, drape it over a mold, suck the air out. Perfect copies of anything, for almost nothing."
+image: /images/builds/029-vacuum-former.jpg
+category: functional-machines
+category_name: "Functional Machines"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 2
+  clout: 3
+  time: 2
+---
 # #029 — Vacuum Former
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Motor-Powered Pottery Wheel"
+build_number: 292
+description: "Hub motor + speed controller + foot pedal. Throw clay on a dead scooter's guts for $0 vs $300+ for a commercial wheel."
+image: /images/builds/292-motor-powered-pottery-wheel.jpg
+category: scooter-and-motor
+category_name: "Scooter & Motor"
+tags: [functional, practical, mechanical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #292 — Motor-Powered Pottery Wheel
 
 <p align="center">

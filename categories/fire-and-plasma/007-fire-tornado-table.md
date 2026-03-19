@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Fire Tornado Table"
+build_number: 7
+description: "A lazy susan, some mesh screen, and a fuel source — spins up a mesmerizing tabletop fire tornado on demand."
+image: /images/builds/007-fire-tornado-table.jpg
+category: fire-and-plasma
+category_name: "Fire & Plasma"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave, chemical]
+ratings:
+  jaw: 5
+  brain: 1
+  wallet: 2
+  spicy: 3
+  clout: 5
+  time: 1
+---
 # #007 — Fire Tornado Table
 
 <p align="center">

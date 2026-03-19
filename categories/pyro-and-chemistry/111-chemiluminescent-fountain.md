@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Chemiluminescent Fountain"
+build_number: 111
+description: "Glowing liquid pumped through a fountain in complete darkness — luminol chemistry meets plumbing."
+image: /images/builds/111-chemiluminescent-fountain.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: [laptop, chemical]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 3
+  spicy: 1
+  clout: 5
+  time: 2
+---
 # #111 — Chemiluminescent Fountain
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Sawzall Power Hammer"
+build_number: 81
+description: "Replace the reciprocating saw blade with a hammer or chisel bit. 3,000+ hits per minute. A power hammer for texturing and shaping metal."
+image: /images/builds/081-sawzall-power-hammer.jpg
+category: power-tools-remixed
+category_name: "Power Tools Remixed"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 3
+  time: 1
+---
 # #081 — Sawzall Power Hammer
 
 <p align="center">

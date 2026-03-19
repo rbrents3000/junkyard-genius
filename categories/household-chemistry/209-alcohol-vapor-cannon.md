@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Alcohol Vapor Cannon"
+build_number: 209
+description: "Isopropyl alcohol vapor inside a water cooler jug, a spark from a piezo igniter, and WHOMP — a pressure wave launches a projectile across the yard."
+image: /images/builds/209-alcohol-vapor-cannon.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 3
+  clout: 5
+  time: 1
+---
 # #209 — Alcohol Vapor Cannon
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Vacuum Tube Amp"
+build_number: 169
+description: "Salvage tubes from old radios and build a Class A tube amplifier — warm, rich sound that audiophiles pay $1000+ for. Build for $50-100."
+image: /images/builds/169-vacuum-tube-amp.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: [crt]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 3
+  spicy: 3
+  clout: 4
+  time: 4
+---
 # #169 — Vacuum Tube Amp
 
 <p align="center">

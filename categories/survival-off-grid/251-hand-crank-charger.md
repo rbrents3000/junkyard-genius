@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Hand-Crank Phone Charger"
+build_number: 251
+description: "Five minutes of cranking buys you one emergency call. Your arm is the power plant."
+image: /images/builds/251-hand-crank-charger.jpg
+category: survival-off-grid
+category_name: "Survival & Off-Grid"
+tags: [functional, practical]
+junk: [printer, microwave, laptop, scooter]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #251 — Hand-Crank Phone Charger
 
 <p align="center">

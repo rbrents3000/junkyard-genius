@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Eddy Current Brake"
+build_number: 186
+description: "Drop a neodymium magnet into a copper pipe and watch it fall in slow motion — no tricks, just physics flexing."
+image: /images/builds/186-eddy-current-brake.jpg
+category: mechanical-and-kinetic
+category_name: "Mechanical & Kinetic"
+tags: [educational, skill, mechanical]
+junk: []
+ratings:
+  jaw: 5
+  brain: 1
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 1
+---
 # #186 — Eddy Current Brake
 
 <p align="center">

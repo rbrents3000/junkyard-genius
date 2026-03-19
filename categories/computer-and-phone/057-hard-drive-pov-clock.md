@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Hard Drive POV Clock"
+build_number: 57
+description: "A hard drive platter spins at 7200 RPM. Mount an LED, strobe it in sync, and persistence of vision turns it into a clock."
+image: /images/builds/057-hard-drive-pov-clock.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: [microwave, arduino, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #057 — Hard Drive POV Clock
 
 <p align="center">

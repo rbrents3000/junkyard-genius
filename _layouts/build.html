@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="{{ '/' | relative_url }}">Home</a> &rsaquo;
+  <a href="{{ '/categories/' | append: page.category | append: '/' | relative_url }}">{{ page.category_name }}</a> &rsaquo;
+  <span aria-current="page">#{{ page.build_number }} {{ page.title }}</span>
+</nav>
+
+{{ content }}
+
+{% assign cat_builds = site.pages | where: "layout", "build" | where: "category", page.category | sort: "build_number" %}
+{% assign prev_build = nil %}
+{% assign next_build = nil %}
+{% assign found = false %}
+{% for b in cat_builds %}
+  {% if found and next_build == nil %}
+    {% assign next_build = b %}
+  {% endif %}
+  {% if b.url == page.url %}
+    {% assign found = true %}
+  {% endif %}
+  {% unless found %}
+    {% assign prev_build = b %}
+  {% endunless %}
+{% endfor %}
+
+{% if prev_build or next_build %}
+<nav class="build-nav" aria-label="Build navigation">
+  {% if prev_build %}
+    <a href="{{ prev_build.url | relative_url }}">&larr; #{{ prev_build.build_number }} {{ prev_build.title }}</a>
+  {% else %}
+    <span></span>
+  {% endif %}
+  {% if next_build %}
+    <a href="{{ next_build.url | relative_url }}" class="nav-next">#{{ next_build.build_number }} {{ next_build.title }} &rarr;</a>
+  {% endif %}
+</nav>
+{% endif %}

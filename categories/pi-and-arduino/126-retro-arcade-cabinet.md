@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Retro Arcade Cabinet"
+build_number: 126
+description: "A Pi 4 running RetroPie in a repurposed furniture cabinet with arcade buttons — 10,000+ retro games."
+image: /images/builds/126-retro-arcade-cabinet.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #126 — Retro Arcade Cabinet
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Pool Shock Smoke Signals"
+build_number: 217
+description: "Calcium hypochlorite granules plus brake fluid react with a time delay, then produce a thick column of dense white smoke that lasts for minutes."
+image: /images/builds/217-pool-shock-smoke-signals.jpg
+category: household-chemistry
+category_name: "Household Chemistry"
+tags: [chemistry, educational]
+junk: [microwave]
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 4
+  clout: 4
+  time: 1
+---
 # #217 — Pool Shock Smoke Signals
 
 <p align="center">

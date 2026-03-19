@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Laser Harp"
+build_number: 267
+description: "Play music by waving your hands through beams of light. Jean-Michel Jarre made these famous. You can build one for $25."
+image: /images/builds/267-laser-harp.jpg
+category: laser-lab
+category_name: "Laser Lab"
+tags: [spectacle, skill]
+junk: [arduino]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 2
+  clout: 5
+  time: 3
+---
 # #267 — Laser Harp
 
 <p align="center">

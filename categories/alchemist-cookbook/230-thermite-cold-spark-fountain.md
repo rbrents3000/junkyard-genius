@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Thermite Cold Spark Fountain"
+build_number: 230
+description: "Thermite burns at 4,000 degrees while titanium cold sparks shower out at safe-to-touch temperatures right next to it. Fire and ice, simultaneously. The visual contrast is insane."
+image: /images/builds/230-thermite-cold-spark-fountain.jpg
+category: alchemist-cookbook
+category_name: "Alchemist Cookbook"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave, chemical]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 5
+  clout: 5
+  time: 2
+---
 # #230 — Thermite Cold Spark Fountain
 
 <p align="center">

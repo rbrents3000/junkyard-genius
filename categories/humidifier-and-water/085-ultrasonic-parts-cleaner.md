@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Ultrasonic Parts Cleaner"
+build_number: 85
+description: "Same transducers, higher power. Cavitation bubbles blast contaminants off surfaces. Clean jewelry, carburetors, and circuit boards."
+image: /images/builds/085-ultrasonic-parts-cleaner.jpg
+category: humidifier-and-water
+category_name: "Humidifier & Water"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #085 — Ultrasonic Parts Cleaner
 
 <p align="center">

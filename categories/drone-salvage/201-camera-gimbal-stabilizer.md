@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Camera Gimbal Stabilizer"
+build_number: 201
+description: "Salvage the gimbal motors from a crashed drone and build a handheld 3-axis stabilizer for your phone or GoPro — the same tech that costs $200+ retail."
+image: /images/builds/201-camera-gimbal-stabilizer.jpg
+category: drone-salvage
+category_name: "Drone Salvage"
+tags: [skill, practical]
+junk: [scooter, printer, microwave, arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #201 — Camera Gimbal Stabilizer
 
 <p align="center">

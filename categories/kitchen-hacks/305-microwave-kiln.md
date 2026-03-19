@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Microwave Kiln"
+build_number: 305
+description: "Your microwave is three minutes away from being a forge. The microwave itself doesn't even know."
+image: /images/builds/305-microwave-kiln.jpg
+category: kitchen-hacks
+category_name: "Kitchen Hacks"
+tags: [functional, practical]
+junk: [microwave]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 3
+  clout: 4
+  time: 1
+---
 # #305 — Microwave Kiln
 
 <p align="center">

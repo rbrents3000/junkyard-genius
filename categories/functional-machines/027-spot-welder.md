@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Spot Welder"
+build_number: 27
+description: "A microwave oven transformer rewound with thick copper cable becomes a spot welder that fuses metal with a single pulse. Battery tab welding for a dollar in copper."
+image: /images/builds/027-spot-welder.jpg
+category: functional-machines
+category_name: "Functional Machines"
+tags: [functional, practical]
+junk: [microwave]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 3
+  clout: 3
+  time: 2
+---
 # #027 — Spot Welder
 
 <p align="center">

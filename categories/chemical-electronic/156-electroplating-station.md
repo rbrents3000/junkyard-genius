@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Electroplating Station"
+build_number: 156
+description: "Copper sulfate + DC power + a copper anode — plate anything in a shiny layer of copper. Roses, 3D prints, leaves, anything."
+image: /images/builds/156-electroplating-station.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: [laptop]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 2
+---
 # #156 — Electroplating Station
 
 <p align="center">

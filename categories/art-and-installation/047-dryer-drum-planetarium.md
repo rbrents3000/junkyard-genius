@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Dryer Drum Planetarium"
+build_number: 47
+description: "Drill star patterns into a dryer drum, put a bright bulb inside, and turn any dark room into a planetarium. Constellations on the ceiling for the cost of a drill bit."
+image: /images/builds/047-dryer-drum-planetarium.jpg
+category: art-and-installation
+category_name: "Art & Installation"
+tags: [visual, spectacle, art]
+junk: []
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #047 — Dryer Drum Planetarium
 
 <p align="center">

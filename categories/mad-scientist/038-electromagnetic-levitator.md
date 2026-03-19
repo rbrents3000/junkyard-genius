@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Electromagnetic Levitator"
+build_number: 38
+description: "A feedback-controlled electromagnet holds an object floating in mid-air. No strings. No tricks. Just a magnet, a sensor, and a control loop."
+image: /images/builds/038-electromagnetic-levitator.jpg
+category: mad-scientist
+category_name: "Mad Scientist"
+tags: [educational, spectacle]
+junk: [arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #038 — Electromagnetic Levitator
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Hand Drill Press"
+build_number: 80
+description: "Hand drill + plywood column + drawer slides + spring return. Instant drill press for $0."
+image: /images/builds/080-hand-drill-press.jpg
+category: power-tools-remixed
+category_name: "Power Tools Remixed"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 2
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 2
+  time: 1
+---
 # #080 — Hand Drill Press
 
 <p align="center">

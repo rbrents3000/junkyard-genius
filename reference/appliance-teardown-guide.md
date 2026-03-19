@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Appliance Teardown Guide"
+description: "What's inside each appliance, what to salvage, and what to watch out for while taking it apart."
+---
 # Appliance Teardown Guide
 
 <p align="center">

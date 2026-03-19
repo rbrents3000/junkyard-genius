@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Stirling Engine"
+build_number: 182
+description: "Two soda cans, a balloon, and a candle walk into a garage — and walk out as a working heat engine."
+image: /images/builds/182-stirling-engine.jpg
+category: mechanical-and-kinetic
+category_name: "Mechanical & Kinetic"
+tags: [educational, skill, mechanical]
+junk: [chemical]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #182 — Stirling Engine
 
 <p align="center">

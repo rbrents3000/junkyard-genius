@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Ignition Coil Tesla Coil"
+build_number: 220
+description: "Car ignition coil + 555 timer at audio frequencies = musical sparks at 40kV. A singing arc of purple lightning from junkyard parts."
+image: /images/builds/220-ignition-coil-tesla-coil.jpg
+category: junkyard-auto
+category_name: "Junkyard Auto"
+tags: [functional, practical, mechanical]
+junk: [microwave]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 1
+  spicy: 4
+  clout: 5
+  time: 2
+---
 # #220 — Ignition Coil Tesla Coil
 
 <p align="center">

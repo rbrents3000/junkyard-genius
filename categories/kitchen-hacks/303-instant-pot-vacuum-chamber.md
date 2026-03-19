@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Instant Pot Vacuum Chamber"
+build_number: 303
+description: "Your pressure cooker already handles pressure differentials. It just doesn't know it works in reverse."
+image: /images/builds/303-instant-pot-vacuum-chamber.jpg
+category: kitchen-hacks
+category_name: "Kitchen Hacks"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #303 — Instant Pot Vacuum Chamber
 
 <p align="center">

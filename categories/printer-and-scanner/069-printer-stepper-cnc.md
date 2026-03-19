@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Printer Stepper CNC"
+build_number: 69
+description: "Three stepper motors from dead printers, some threaded rod, and an Arduino. Build a CNC machine that engraves, mills, or routes."
+image: /images/builds/069-printer-stepper-cnc.jpg
+category: printer-and-scanner
+category_name: "Printer & Scanner"
+tags: [skill, practical]
+junk: [scooter, printer, microwave, arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 4
+---
 # #069 — Printer Stepper CNC
 
 <p align="center">

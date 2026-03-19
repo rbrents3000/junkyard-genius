@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Infinity Mirror Table"
+build_number: 16
+description: "An LED strip sandwiched between a regular mirror and a one-way mirror creates the illusion of an infinitely deep tunnel of light."
+image: /images/builds/016-infinity-mirror-table.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: [microwave, arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #016 — Infinity Mirror Table
 
 <p align="center">

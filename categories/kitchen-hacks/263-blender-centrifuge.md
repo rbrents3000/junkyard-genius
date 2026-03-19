@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Blender Vortex Centrifuge"
+build_number: 263
+description: "Your smoothie maker's secret identity is a science lab."
+image: /images/builds/263-blender-centrifuge.jpg
+category: kitchen-hacks
+category_name: "Kitchen Hacks"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #263 — Blender Vortex Centrifuge
 
 <p align="center">

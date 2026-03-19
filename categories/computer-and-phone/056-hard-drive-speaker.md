@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Hard Drive Speaker"
+build_number: 56
+description: "The read/write arm in your dead hard drive is literally a speaker. Same voice coil tech. Just add music."
+image: /images/builds/056-hard-drive-speaker.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: [laptop]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #056 — Hard Drive Speaker
 
 <p align="center">

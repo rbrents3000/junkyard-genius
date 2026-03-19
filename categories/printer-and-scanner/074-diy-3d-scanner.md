@@ -1,3 +1,21 @@
+---
+layout: build
+title: "DIY 3D Scanner"
+build_number: 74
+description: "Microwave turntable motor + webcam + $3 laser line module. Software reconstructs a 3D model from the laser profile. Scan objects, 3D print copies. $10 build."
+image: /images/builds/074-diy-3d-scanner.jpg
+category: printer-and-scanner
+category_name: "Printer & Scanner"
+tags: [skill, practical]
+junk: [scooter, printer, microwave, arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #074 — DIY 3D Scanner
 
 <p align="center">

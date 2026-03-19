@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Gallium Melting Spoon"
+build_number: 106
+description: "Cast a spoon from gallium — a metal that melts at 86°F. Stir your hot tea and watch the spoon dissolve."
+image: /images/builds/106-gallium-melting-spoon.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 1
+---
 # #106 — Gallium Melting Spoon
 
 <p align="center">

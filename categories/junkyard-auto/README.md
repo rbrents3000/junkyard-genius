@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🚗 Junkyard Auto"
+description: "Every car in the scrapyard is a parts bin full of precision-engineered components begging for a second life."
+image: /images/categories/junkyard-auto.jpg
+---
 # 🚗 Junkyard Auto
 
 <p align="center">
@@ -49,3 +55,12 @@ Start with simple motor reuse, progress toward vehicle builds:
 - [Mechanical & Kinetic](../mechanical-and-kinetic/) — Motor-driven motion and energy transfer
 - [Power & Energy](../power-and-energy/) — Alternator generation and energy conversion
 - [Functional Machines](../functional-machines/) — Workshop tools and vehicle builds
+
+---
+
+## 📚 Reference Guides
+
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

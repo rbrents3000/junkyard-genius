@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Peltier Solar Cooler"
+build_number: 289
+description: "A solar panel, some thermoelectric modules from dead mini-fridges, and a cooler box. No compressor, no refrigerant, no noise. Just silent, sun-powered cold."
+image: /images/builds/289-peltier-solar-cooler.jpg
+category: power-and-energy
+category_name: "Power & Energy"
+tags: [functional, practical]
+junk: [chemical, fridge]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 3
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #289 — Peltier Solar Cooler
 
 <p align="center">

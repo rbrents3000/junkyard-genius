@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Underground Root Cellar"
+build_number: 195
+description: "Dig a hole, line it, insulate it, monitor it — and store food at perfect temperature year-round without electricity."
+image: /images/builds/195-underground-root-cellar.jpg
+category: big-builds
+category_name: "Big Builds"
+tags: [spectacle, functional]
+junk: [arduino]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 4
+  spicy: 2
+  clout: 4
+  time: 5
+---
 # #195 — Underground Root Cellar
 
 <p align="center">

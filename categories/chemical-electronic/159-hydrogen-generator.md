@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Hydrogen Generator"
+build_number: 159
+description: "Water + lye + DC power = hydrogen and oxygen gas. Capture the hydrogen, ignite it for a fireball. Electrolysis in action."
+image: /images/builds/159-hydrogen-generator.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: [laptop, chemical]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 4
+  clout: 4
+  time: 1
+---
 # #159 — Hydrogen Generator
 
 <p align="center">

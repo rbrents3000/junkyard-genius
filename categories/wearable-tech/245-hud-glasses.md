@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Heads-Up Display Glasses"
+build_number: 245
+description: "A micro OLED display, a prism reflector, and a 3D-printed frame turn a Raspberry Pi Zero into DIY Google Glass. Real-time data floating in your field of view for about $25."
+image: /images/builds/245-hud-glasses.jpg
+category: wearable-tech
+category_name: "Wearable Tech"
+tags: [skill, creative]
+junk: [printer, arduino]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 4
+---
 # #245 — Heads-Up Display Glasses
 
 <p align="center">

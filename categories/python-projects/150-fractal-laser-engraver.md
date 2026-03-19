@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Fractal Laser Engraver"
+build_number: 150
+description: "Render Mandelbrot and Julia fractals at extreme resolution in Python, then burn them into wood or leather with a laser engraver."
+image: /images/builds/150-fractal-laser-engraver.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: []
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #150 — Fractal Laser Engraver
 
 <p align="center">

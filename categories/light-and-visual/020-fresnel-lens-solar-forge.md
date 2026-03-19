@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Fresnel Lens Solar Forge"
+build_number: 20
+description: "A Fresnel lens from a rear-projection TV focuses sunlight into a spot hot enough to melt metal — the sun becomes your welding torch."
+image: /images/builds/020-fresnel-lens-solar-forge.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: []
+ratings:
+  jaw: 5
+  brain: 1
+  wallet: 1
+  spicy: 5
+  clout: 5
+  time: 1
+---
 # #020 — Fresnel Lens Solar Forge
 
 <p align="center">

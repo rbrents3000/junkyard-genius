@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Sound-Reactive LED Jacket"
+build_number: 242
+description: "WS2812B LED strips sewn into a hoodie with an ESP32 and a microphone. The LEDs dance to whatever music is playing around you. Walking into a party wearing this is an instant power move."
+image: /images/builds/242-led-jacket.jpg
+category: wearable-tech
+category_name: "Wearable Tech"
+tags: [skill, creative]
+junk: [arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #242 — Sound-Reactive LED Jacket
 
 <p align="center">

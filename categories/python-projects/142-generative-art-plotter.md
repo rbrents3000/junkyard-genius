@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Generative Art Plotter"
+build_number: 142
+description: "Python generates algorithmic art — flow fields, fractals, mathematical curves — then a pen plotter draws them with real ink on real paper."
+image: /images/builds/142-generative-art-plotter.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: [printer]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #142 — Generative Art Plotter
 
 <p align="center">

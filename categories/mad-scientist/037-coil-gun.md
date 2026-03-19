@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Coil Gun"
+build_number: 37
+description: "A solenoid coil plus a capacitor bank yanks a ferromagnetic projectile down a barrel at high speed. Quieter and cleaner than a rail gun, and arguably more elegant."
+image: /images/builds/037-coil-gun.jpg
+category: mad-scientist
+category_name: "Mad Scientist"
+tags: [educational, spectacle]
+junk: [microwave, arduino]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 3
+  spicy: 4
+  clout: 4
+  time: 3
+---
 # #037 — Coil Gun
 
 <p align="center">

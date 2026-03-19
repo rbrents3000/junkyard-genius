@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Bismuth Crystal Garden"
+build_number: 107
+description: "Melt bismuth on the stove, slow-cool it, and pull out rainbow-colored hopper crystals worth $20-50 each."
+image: /images/builds/107-bismuth-crystal-garden.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 2
+  clout: 4
+  time: 1
+---
 # #107 — Bismuth Crystal Garden
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Calcium Carbide Cannon"
+build_number: 116
+description: "Calcium carbide and water produce acetylene gas — contain it, ignite it, and get a massive bang with a flame jet."
+image: /images/builds/116-calcium-carbide-cannon.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 4
+  clout: 4
+  time: 1
+---
 # #116 — Calcium Carbide Cannon
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Wall-Climbing Robot"
+build_number: 76
+description: "Vacuum motor suction + RC car chassis. The suction overcomes gravity. A remote-controlled robot that drives up walls and across ceilings."
+image: /images/builds/076-wall-climbing-robot.jpg
+category: vacuum-cleaner
+category_name: "Vacuum Cleaner"
+tags: [functional, practical]
+junk: [microwave, arduino, laptop, scooter]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 2
+  clout: 5
+  time: 3
+---
 # #076 — Wall-Climbing Robot
 
 <p align="center">

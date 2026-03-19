@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Plasma Speaker Lamp"
+build_number: 283
+description: "A lamp that plays music through lightning. The arc IS the speaker — heated air molecules vibrate at audio frequencies, producing sound from pure electricity inside a glass enclosure."
+image: /images/builds/283-plasma-speaker-lamp.jpg
+category: unholy-combos
+category_name: "Unholy Combos"
+tags: [spectacle, creative]
+junk: [crt, arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 4
+  clout: 5
+  time: 3
+---
 # #283 — Plasma Speaker Lamp
 
 <p align="center">

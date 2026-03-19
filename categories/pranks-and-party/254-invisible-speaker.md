@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Invisible Bluetooth Speaker"
+build_number: 254
+description: "Bone conduction transducer + Bluetooth module hidden under a table. Any surface becomes a speaker. Nobody can find it."
+image: /images/builds/254-invisible-speaker.jpg
+category: pranks-and-party
+category_name: "Pranks & Party"
+tags: [spectacle, creative]
+junk: [laptop]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 5
+  time: 1
+---
 # #254 — Invisible Bluetooth Speaker
 
 <p align="center">

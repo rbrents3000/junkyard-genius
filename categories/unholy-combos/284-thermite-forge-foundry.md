@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Thermite Forge Foundry"
+build_number: 284
+description: "Thermite melts steel. A brake rotor catches it. A sand mold shapes it. Home metallurgy at 2500°C — the most violent casting process you'll ever attempt."
+image: /images/builds/284-thermite-forge-foundry.jpg
+category: unholy-combos
+category_name: "Unholy Combos"
+tags: [spectacle, creative]
+junk: [chemical]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 5
+  clout: 5
+  time: 2
+---
 # #284 — Thermite Forge Foundry
 
 <p align="center">

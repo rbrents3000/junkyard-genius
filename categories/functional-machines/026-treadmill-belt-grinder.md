@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Treadmill Belt Grinder"
+build_number: 26
+description: "The motor in a dead treadmill is a precision variable-speed DC motor. Strap a sanding belt to it and you've got a knife-maker's best friend."
+image: /images/builds/026-treadmill-belt-grinder.jpg
+category: functional-machines
+category_name: "Functional Machines"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 2
+  spicy: 2
+  clout: 2
+  time: 2
+---
 # #026 — Treadmill Belt Grinder
 
 <p align="center">

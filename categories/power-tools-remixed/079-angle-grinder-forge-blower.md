@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Angle Grinder Forge Blower"
+build_number: 79
+description: "Remove the grinding disc. Attach a fan blade. 10,000+ RPM airflow ducted into a forge. Way more air than a hair dryer."
+image: /images/builds/079-angle-grinder-forge-blower.jpg
+category: power-tools-remixed
+category_name: "Power Tools Remixed"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 3
+  time: 1
+---
 # #079 — Angle Grinder Forge Blower
 
 <p align="center">

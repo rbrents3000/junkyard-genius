@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Seasonal & Holiday Builds"
+description: "The right build at the right time of year turns a cool project into an unforgettable event. Thermite at a 4th of July party. A fog machine on Halloween. LED jackets on New Year's Eve. Timing is everything."
+---
 # Seasonal & Holiday Builds
 
 <p align="center">

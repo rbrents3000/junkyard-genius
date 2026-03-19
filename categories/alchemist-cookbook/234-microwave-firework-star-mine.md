@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Microwave Firework Star Mine"
+build_number: 234
+description: "MOT capacitor bank powers a coil gun that launches metal-salt color stars with nichrome ignition. Three categories detonate in one glorious burst."
+image: /images/builds/234-microwave-firework-star-mine.jpg
+category: alchemist-cookbook
+category_name: "Alchemist Cookbook"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave, arduino, chemical]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 3
+  spicy: 5
+  clout: 5
+  time: 3
+---
 # #234 — Microwave Firework Star Mine
 
 <p align="center">

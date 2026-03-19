@@ -1,3 +1,21 @@
+---
+layout: build
+title: "PVC Pipe Organ"
+build_number: 236
+description: "A leaf blower, some plumbing pipe, and an Arduino walk into a cathedral — and bring the house down."
+image: /images/builds/236-pvc-pipe-organ.jpg
+category: junk-instruments
+category_name: "Junk Instruments"
+tags: [creative, art, music]
+junk: [arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #236 — PVC Pipe Organ
 
 <p align="center">

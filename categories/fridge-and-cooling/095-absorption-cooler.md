@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Absorption Cooler"
+build_number: 95
+description: "A fridge powered by fire. No electricity needed. Einstein patented one in 1930. Use fridge heat exchanger coils, ammonia solution, and a candle."
+image: /images/builds/095-absorption-cooler.jpg
+category: fridge-and-cooling
+category_name: "Fridge & Cooling"
+tags: [functional, practical]
+junk: [chemical, fridge]
+ratings:
+  jaw: 4
+  brain: 5
+  wallet: 3
+  spicy: 4
+  clout: 4
+  time: 5
+---
 # #095 — Absorption Cooler
 
 <p align="center">

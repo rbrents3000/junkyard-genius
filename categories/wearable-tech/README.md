@@ -1,3 +1,9 @@
+---
+layout: default
+title: "👕 Wearable Tech"
+description: "Turn old clothes and cheap electronics into cyberpunk wearables."
+image: /images/categories/wearable-tech.jpg
+---
 # 👕 Wearable Tech
 
 <p align="center">
@@ -49,3 +55,12 @@ Start with visual impact, progress toward biofeedback:
 - [Light & Visual](../light-and-visual/) — LED and lighting techniques
 - [Pi & Arduino](../pi-and-arduino/) — Microcontroller fundamentals
 - [Computer & Phone](../computer-and-phone/) — Mobile device integration
+
+---
+
+## 📚 Reference Guides
+
+- [Electronics & Microcontrollers](../../reference/electronics-and-microcontrollers.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

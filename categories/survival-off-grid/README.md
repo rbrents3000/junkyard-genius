@@ -1,3 +1,9 @@
+---
+layout: default
+title: "⛺ Survival & Off-Grid"
+description: "The grid is down, the water's off, and you're 40 miles from a Walmart. These builds are why you're fine."
+image: /images/categories/survival-off-grid.jpg
+---
 # ⛺ Survival & Off-Grid
 
 <p align="center">
@@ -49,3 +55,11 @@ Start with the simplest survival builds and progress toward self-sufficiency:
 - [Power & Energy](../power-and-energy/) — Battery banks, generators, solar
 - [Humidifier & Water](../humidifier-and-water/) — Water collection and purification
 - [Big Builds](../big-builds/) — Large-scale off-grid infrastructure
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

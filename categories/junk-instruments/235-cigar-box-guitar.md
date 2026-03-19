@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Cigar Box Guitar"
+build_number: 235
+description: "A cigar box, a broom handle, and some wire walk into a bar — and actually play a set."
+image: /images/builds/235-cigar-box-guitar.jpg
+category: junk-instruments
+category_name: "Junk Instruments"
+tags: [creative, art, music]
+junk: []
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #235 — Cigar Box Guitar
 
 <p align="center">

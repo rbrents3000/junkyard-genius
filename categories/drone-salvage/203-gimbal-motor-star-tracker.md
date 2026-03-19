@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Gimbal Motor Star Tracker"
+build_number: 203
+description: "Drone gimbal motors rotate at exactly 15 degrees per hour — the sidereal rate — turning a DSLR into an astrophotography platform that tracks stars across the sky."
+image: /images/builds/203-gimbal-motor-star-tracker.jpg
+category: drone-salvage
+category_name: "Drone Salvage"
+tags: [skill, practical]
+junk: [printer, microwave, arduino, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #203 — Gimbal Motor Star Tracker
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Motorized Camera Slider"
+build_number: 89
+description: "Stepper motor + drawer slides + Arduino. Smooth, cinematic tracking shots. Professional sliders cost $200+. Build this for $15."
+image: /images/builds/089-motorized-camera-slider.jpg
+category: scooter-and-motor
+category_name: "Scooter & Motor"
+tags: [functional, practical, mechanical]
+junk: [scooter, printer, microwave, arduino, laptop]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #089 — Motorized Camera Slider
 
 <p align="center">

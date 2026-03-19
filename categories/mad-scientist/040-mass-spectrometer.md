@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Mass Spectrometer"
+build_number: 40
+description: "Ionize atoms, accelerate them through a magnetic field, and watch them separate by mass. Identify elements in your garage. This is real analytical chemistry."
+image: /images/builds/040-mass-spectrometer.jpg
+category: mad-scientist
+category_name: "Mad Scientist"
+tags: [educational, spectacle]
+junk: [crt, microwave, scooter]
+ratings:
+  jaw: 4
+  brain: 5
+  wallet: 3
+  spicy: 3
+  clout: 4
+  time: 4
+---
 # #040 — Mass Spectrometer
 
 <p align="center">

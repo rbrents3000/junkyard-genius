@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Cyclone Dust Separator"
+build_number: 77
+description: "Vacuum motor + bucket + traffic cone + PVC pipe. Cyclonic separation catches 99% of dust before it hits the shop vac filter. Filter lasts forever."
+image: /images/builds/077-cyclone-dust-separator.jpg
+category: vacuum-cleaner
+category_name: "Vacuum Cleaner"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 2
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 2
+  time: 2
+---
 # #077 — Cyclone Dust Separator
 
 <p align="center">

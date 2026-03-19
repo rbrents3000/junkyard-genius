@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Phone Sensor Network"
+build_number: 64
+description: "Old phones are packed with sensors. Run Phyphox on a fleet of them for distributed environmental monitoring — seismograph, weather station, security cameras, noise monitors. All free."
+image: /images/builds/064-phone-sensor-network.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: [arduino, laptop]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #064 — Phone Sensor Network
 
 <p align="center">

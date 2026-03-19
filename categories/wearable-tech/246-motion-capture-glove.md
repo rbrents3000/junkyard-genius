@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Motion Capture MIDI Glove"
+build_number: 246
+description: "Flex sensors on each finger, an MPU6050 on the wrist, and an ESP32 brain. Bend your fingers to play notes, tilt your wrist for pitch bend. Air guitar is finally real."
+image: /images/builds/246-motion-capture-glove.jpg
+category: wearable-tech
+category_name: "Wearable Tech"
+tags: [skill, creative]
+junk: [arduino]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #246 — Motion Capture MIDI Glove
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Electrostatic Precipitator"
+build_number: 30
+description: "A high-voltage wire between grounded plates ionizes smoke and dust particles, then yanks them out of the air. Industrial-grade air cleaning from junkyard parts."
+image: /images/builds/030-electrostatic-precipitator.jpg
+category: functional-machines
+category_name: "Functional Machines"
+tags: [functional, practical]
+junk: [crt, laptop]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 2
+  spicy: 3
+  clout: 2
+  time: 2
+---
 # #030 — Electrostatic Precipitator
 
 <p align="center">

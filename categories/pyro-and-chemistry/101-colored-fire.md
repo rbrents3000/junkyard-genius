@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Colored Fire"
+build_number: 101
+description: "Metal salts turn an ordinary campfire into a chemistry-powered rainbow."
+image: /images/builds/101-colored-fire.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: [laptop, chemical]
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 1
+---
 # #101 — Colored Fire
 
 <p align="center">

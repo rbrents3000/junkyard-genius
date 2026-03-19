@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Thermite Flower Pot"
+build_number: 105
+description: "Iron oxide and aluminum powder react at 4000°F, dripping molten iron through a clay pot into a mold below."
+image: /images/builds/105-thermite-flower-pot.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: []
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 5
+  clout: 5
+  time: 1
+---
 # #105 — Thermite Flower Pot
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Thermochromic Mug"
+build_number: 168
+description: "Thermochromic pigment screen-printed onto a mug — pour hot coffee and the design appears. Print heat-reactive shirts too."
+image: /images/builds/168-thermochromic-mug.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #168 — Thermochromic Mug
 
 <p align="center">

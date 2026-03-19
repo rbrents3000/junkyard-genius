@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Hydraulic Robot Arm"
+build_number: 183
+description: "Syringes and tubing do the heavy lifting — literally — no motors or electricity needed."
+image: /images/builds/183-hydraulic-robot-arm.jpg
+category: mechanical-and-kinetic
+category_name: "Mechanical & Kinetic"
+tags: [educational, skill, mechanical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #183 — Hydraulic Robot Arm
 
 <p align="center">

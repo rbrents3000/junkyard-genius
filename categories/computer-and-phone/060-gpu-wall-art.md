@@ -1,3 +1,21 @@
+---
+layout: build
+title: "GPU Wall Art"
+build_number: 60
+description: 'Mount dead graphics cards with LED backlighting. Title it "Proof of Work." Industrial art that hits different.'
+image: /images/builds/060-gpu-wall-art.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #060 — GPU Wall Art
 
 <p align="center">

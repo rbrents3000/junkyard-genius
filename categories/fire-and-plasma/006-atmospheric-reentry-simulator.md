@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Atmospheric Reentry Simulator"
+build_number: 6
+description: "Use a microwave transformer to heat metal samples until they glow, melt, and behave like spacecraft shielding during reentry."
+image: /images/builds/006-atmospheric-reentry-simulator.jpg
+category: fire-and-plasma
+category_name: "Fire & Plasma"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 4
+  clout: 4
+  time: 1
+---
 # #006 — Atmospheric Reentry Simulator
 
 <p align="center">

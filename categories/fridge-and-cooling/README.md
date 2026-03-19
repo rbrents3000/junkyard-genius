@@ -1,3 +1,9 @@
+---
+layout: default
+title: "❄️ Fridge & Cooling"
+description: "A fridge compressor is a heat pump. It moves thermal energy from one place to another. Where you put the cold side and the hot side is entirely up to you."
+image: /images/categories/fridge-and-cooling.jpg
+---
 # ❄️ Fridge & Cooling
 
 <p align="center">
@@ -51,3 +57,12 @@ Start with passive cooling, progress toward thermodynamic systems:
 - [Power & Energy](../power-and-energy/) — Thermal energy management and waste heat recovery
 - [Functional Machines](../functional-machines/) — Compressor salvage and equipment assembly
 - [Household Chemistry](../household-chemistry/) — Phase-change chemistry and thermal reactions
+
+---
+
+## 📚 Reference Guides
+
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

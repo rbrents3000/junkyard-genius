@@ -1,3 +1,21 @@
+---
+layout: build
+title: "DIY Electron Microscope"
+build_number: 200
+description: "A CRT electron gun, a vacuum chamber, and magnetic lenses — see things no optical microscope can resolve. The ultimate junkyard endgame build."
+image: /images/builds/200-diy-electron-microscope.jpg
+category: weird-science
+category_name: "Weird Science"
+tags: [educational, spectacle]
+junk: [crt, arduino]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 3
+  spicy: 4
+  clout: 5
+  time: 5
+---
 # #200 — DIY Electron Microscope
 
 <p align="center">

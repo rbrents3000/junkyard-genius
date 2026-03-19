@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Laser Voice Communicator"
+build_number: 265
+description: "Talk to someone across a field using nothing but a beam of light. Alexander Graham Bell did it in 1880. Your turn."
+image: /images/builds/265-laser-communicator.jpg
+category: laser-lab
+category_name: "Laser Lab"
+tags: [spectacle, skill]
+junk: [laptop]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 2
+---
 # #265 — Laser Voice Communicator
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Anodizing Setup"
+build_number: 157
+description: "Sulfuric acid + DC power + aluminum + fabric dye — create colored anodized aluminum with a professional factory finish."
+image: /images/builds/157-anodizing-setup.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: [crt, chemical]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 4
+  clout: 4
+  time: 3
+---
 # #157 — Anodizing Setup
 
 <p align="center">

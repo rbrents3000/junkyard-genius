@@ -1,3 +1,9 @@
+---
+layout: default
+title: "⚡ Mad Scientist"
+description: "High voltage, electromagnetic forces, and physics experiments that belong in a government lab but somehow live in your garage. Expect sparks, levitation, and at least one alarmed neighbor."
+image: /images/categories/mad-scientist.jpg
+---
 # ⚡ Mad Scientist
 
 <p align="center">
@@ -53,3 +59,11 @@ Start with kitchen physics, progress toward electromagnetic weapons:
 - [Laser Lab](../laser-lab/) — High-energy physics demonstrations
 - [Light & Visual](../light-and-visual/) — Plasma and electrical discharge visualization
 - [Junkyard Auto](../junkyard-auto/) — Ignition coil and high-voltage automotive salvage
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

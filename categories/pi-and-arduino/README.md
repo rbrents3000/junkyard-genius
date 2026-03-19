@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🤖 Pi & Arduino"
+description: "Microcontrollers and single-board computers turn junk into smart junk."
+image: /images/categories/pi-and-arduino.jpg
+---
 # 🤖 Pi & Arduino
 
 <p align="center">
@@ -73,3 +79,12 @@ Start with software-only projects, progress toward complex robotics:
 - [Junk Instruments](../junk-instruments/) — MIDI and audio-driven builds
 - [Mechanical & Kinetic](../mechanical-and-kinetic/) — Motor control and robotic actuators
 - [Light & Visual](../light-and-visual/) — LED displays and POV projects
+
+---
+
+## 📚 Reference Guides
+
+- [Electronics & Microcontrollers](../../reference/electronics-and-microcontrollers.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

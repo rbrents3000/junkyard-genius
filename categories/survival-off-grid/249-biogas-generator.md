@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Biogas Generator"
+build_number: 249
+description: "Sealed drum + compost = methane for cooking. Cook food from rotting food."
+image: /images/builds/249-biogas-generator.jpg
+category: survival-off-grid
+category_name: "Survival & Off-Grid"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 3
+  clout: 4
+  time: 3
+---
 # #249 — Biogas Generator
 
 <p align="center">

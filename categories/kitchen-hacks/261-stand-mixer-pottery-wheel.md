@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Stand Mixer Pottery Wheel"
+build_number: 261
+description: "KitchenAid power take-off port + circular bat = instant pottery wheel. The motor was literally built for torque."
+image: /images/builds/261-stand-mixer-pottery-wheel.jpg
+category: kitchen-hacks
+category_name: "Kitchen Hacks"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #261 — Stand Mixer Pottery Wheel
 
 <p align="center">

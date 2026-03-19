@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Thunder Drum"
+build_number: 12
+description: "A spring attached to a speaker membrane produces sounds exactly like rolling thunder — shake it and your neighbors think a storm is coming."
+image: /images/builds/012-thunder-drum.jpg
+category: sound-and-music
+category_name: "Sound & Music"
+tags: [creative, art, music]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #012 — Thunder Drum
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Water Droplet Time Fountain"
+build_number: 336
+description: "Precisely timed strobes make falling water droplets freeze in mid-air, drift in slow motion, or flow straight back up — you broke physics."
+image: /images/builds/336-water-droplet-time-fountain.jpg
+category: visual-showstoppers
+category_name: "Visual Showstoppers"
+tags: [visual, spectacle, art]
+junk: [arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #336 — Water Droplet Time Fountain
 
 <p align="center">

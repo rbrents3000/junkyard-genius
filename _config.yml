@@ -3,6 +3,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-relative-links
+  - jekyll-seo-tag
 
 relative_links:
   enabled: true
@@ -10,3 +11,11 @@ relative_links:
 
 title: Junkyard Genius
 description: 335 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.
+url: https://rbrents3000.github.io
+baseurl: /junkyard-genius
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/og-social.jpg

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🧪 Pyro & Chemistry"
+description: "Fire, foam, crystals, and reactions that make your jaw hit the floor."
+image: /images/categories/pyro-and-chemistry.jpg
+---
 # 🧪 Pyro & Chemistry
 
 <p align="center">
@@ -73,3 +79,12 @@ Start with single-reaction spectacles, progress toward multi-component builds:
 - [Fire & Plasma](../fire-and-plasma/) — High-temperature plasma and extreme heat effects
 - [Light & Visual](../light-and-visual/) — UV displays and luminescent materials
 - [Household Chemistry](../household-chemistry/) — Kitchen-scale experiments using similar reagents
+
+---
+
+## 📚 Reference Guides
+
+- [Accessible Chemicals Guide](../../reference/chemicals.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Capacitor Discharge Welder"
+build_number: 32
+description: "A bank of microwave capacitors dumps stored energy in one violent pulse — enough to weld battery tabs and thin metal in milliseconds."
+image: /images/builds/032-capacitor-discharge-welder.jpg
+category: functional-machines
+category_name: "Functional Machines"
+tags: [functional, practical]
+junk: [microwave]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 2
+  spicy: 4
+  clout: 3
+  time: 2
+---
 # #032 — Capacitor Discharge Welder
 
 <p align="center">

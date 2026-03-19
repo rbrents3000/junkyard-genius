@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Sentiment Room Lighting"
+build_number: 144
+description: "A microphone analyzes the emotional tone of conversation — LED lights shift color to match the mood of the room."
+image: /images/builds/144-sentiment-room-lighting.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: [arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #144 — Sentiment Room Lighting
 
 <p align="center">

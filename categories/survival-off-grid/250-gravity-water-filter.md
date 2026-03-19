@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Gravity Water Filter"
+build_number: 250
+description: "Stacked buckets: gravel, sand, charcoal, cloth = clean water."
+image: /images/builds/250-gravity-water-filter.jpg
+category: survival-off-grid
+category_name: "Survival & Off-Grid"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 3
+  brain: 1
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #250 — Gravity Water Filter
 
 <p align="center">

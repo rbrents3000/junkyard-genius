@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Thermal Printer Art Station"
+build_number: 324
+description: "Generative algorithmic art printed continuously on receipt paper. A never-ending gallery from a $5 printer."
+image: /images/builds/324-thermal-printer-art-station.jpg
+category: printer-and-scanner
+category_name: "Printer & Scanner"
+tags: [skill, practical]
+junk: [printer, arduino, laptop]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #324 — Thermal Printer Art Station
 
 <p align="center">

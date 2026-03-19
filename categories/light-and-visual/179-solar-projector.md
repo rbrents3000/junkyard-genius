@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Solar Projector"
+build_number: 179
+description: "A telescope projects a live image of the sun onto a screen, revealing sunspots, solar granulation, and eclipses in real time."
+image: /images/builds/179-solar-projector.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: []
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 1
+  spicy: 2
+  clout: 3
+  time: 1
+---
 # #179 — Solar Projector
 
 <p align="center">

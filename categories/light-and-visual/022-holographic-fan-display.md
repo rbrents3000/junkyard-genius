@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Holographic Fan Display"
+build_number: 22
+description: "A spinning LED bar creates floating holographic images that appear to hover in mid-air — the commercial version costs $500, this one costs $30."
+image: /images/builds/022-holographic-fan-display.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: [microwave, arduino, scooter]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #022 — Holographic Fan Display
 
 <p align="center">

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Electronics & Microcontrollers Guide"
+description: "The brains, sensors, actuators, and power systems that bring junkyard builds to life."
+---
 # Electronics & Microcontrollers Guide
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Weather Balloon Launch"
+build_number: 192
+description: "Send a camera to the edge of space on a helium balloon and get it back — for less than the cost of a plane ticket."
+image: /images/builds/192-weather-balloon-launch.jpg
+category: big-builds
+category_name: "Big Builds"
+tags: [spectacle, functional]
+junk: [arduino, chemical]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 3
+  spicy: 2
+  clout: 5
+  time: 3
+---
 # #192 — Weather Balloon Launch
 
 <p align="center">

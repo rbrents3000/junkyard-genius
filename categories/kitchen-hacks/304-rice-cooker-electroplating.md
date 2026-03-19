@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Rice Cooker Electroplating Station"
+build_number: 304
+description: 'The "keep warm" button is the most underrated feature in metalworking.'
+image: /images/builds/304-rice-cooker-electroplating.jpg
+category: kitchen-hacks
+category_name: "Kitchen Hacks"
+tags: [functional, practical]
+junk: [crt, laptop, chemical]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 2
+  clout: 4
+  time: 2
+---
 # #304 — Rice Cooker Electroplating Station
 
 <p align="center">

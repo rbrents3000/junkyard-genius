@@ -1,3 +1,21 @@
+---
+layout: build
+title: "UV Mineral Display"
+build_number: 177
+description: "Collect fluorescent minerals and display them under UV light — ordinary-looking rocks that glow like radioactive alien crystals."
+image: /images/builds/177-uv-mineral-display.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: []
+ratings:
+  jaw: 4
+  brain: 1
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #177 — UV Mineral Display
 
 <p align="center">

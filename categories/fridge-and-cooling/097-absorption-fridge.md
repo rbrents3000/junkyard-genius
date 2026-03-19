@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Absorption Fridge"
+build_number: 97
+description: "A fridge with zero moving parts — just heat, ammonia, and gravity. Runs off a candle."
+image: /images/builds/097-absorption-fridge.jpg
+category: fridge-and-cooling
+category_name: "Fridge & Cooling"
+tags: [functional, practical]
+junk: [chemical, fridge]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 3
+  spicy: 3
+  clout: 4
+  time: 4
+---
 # #097 — Absorption Fridge
 
 <p align="center">

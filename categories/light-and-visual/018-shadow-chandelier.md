@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Shadow Chandelier"
+build_number: 18
+description: "A metal sphere with precisely cut patterns casts intricate shadows across every wall and ceiling of the room."
+image: /images/builds/018-shadow-chandelier.jpg
+category: light-and-visual
+category_name: "Light & Visual"
+tags: [visual, spectacle, art]
+junk: []
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #018 — Shadow Chandelier
 
 <p align="center">

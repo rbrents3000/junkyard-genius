@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🌀 Vacuum Cleaner"
+description: "A vacuum cleaner is a high-RPM motor attached to an impeller. That's a jet engine's job description."
+image: /images/categories/vacuum-cleaner.jpg
+---
 # 🌀 Vacuum Cleaner
 
 <p align="center">
@@ -49,3 +55,12 @@ Start with the simplest motor repurposing, end with the crowd-pleaser:
 - [Functional Machines](../functional-machines/) — Workshop tools from salvaged motors
 - [Pranks & Party](../pranks-and-party/) — Party builds powered by air pressure
 - [Weird Science](../weird-science/) — Aerodynamics and physics demonstrations
+
+---
+
+## 📚 Reference Guides
+
+- [Appliance Teardown Guide](../../reference/appliance-teardown-guide.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

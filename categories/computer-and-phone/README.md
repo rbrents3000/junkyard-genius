@@ -1,3 +1,9 @@
+---
+layout: default
+title: "💻 Computer & Phone Parts"
+description: "Dead laptops, cracked phones, and retired desktops are goldmines of precision-engineered components."
+image: /images/categories/computer-and-phone.jpg
+---
 # 💻 Computer & Phone Parts
 
 <p align="center">
@@ -59,3 +65,12 @@ Start with zero-mod crafts, progress toward electronics integration:
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Sensor integration and embedded electronics
 - [Light & Visual](../light-and-visual/) — Display technologies and visual projects
 - [Junk Instruments](../junk-instruments/) — Creative audio component reuse
+
+---
+
+## 📚 Reference Guides
+
+- [Electronics & Microcontrollers](../../reference/electronics-and-microcontrollers.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

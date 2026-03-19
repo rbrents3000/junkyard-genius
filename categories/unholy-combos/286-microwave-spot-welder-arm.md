@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Microwave Spot Welder Arm"
+build_number: 286
+description: "A robotic arm with a spot welder at the tip. Microwave transformer power meets printer stepper precision — programmable welding for battery packs, sheet metal, and custom fabrication."
+image: /images/builds/286-microwave-spot-welder-arm.jpg
+category: unholy-combos
+category_name: "Unholy Combos"
+tags: [spectacle, creative]
+junk: [printer, microwave, arduino, scooter]
+ratings:
+  jaw: 4
+  brain: 5
+  wallet: 3
+  spicy: 3
+  clout: 4
+  time: 4
+---
 # #286 — Microwave Spot Welder Arm
 
 <p align="center">

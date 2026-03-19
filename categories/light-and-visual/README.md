@@ -1,3 +1,9 @@
+---
+layout: default
+title: "💡 Light & Visual"
+description: "Builds that bend, focus, project, and manipulate light in ways that make people question reality — holograms, lasers, optics, and things that glow."
+image: /images/categories/light-and-visual.jpg
+---
 # 💡 Light & Visual
 
 <p align="center">
@@ -69,3 +75,11 @@ Start with passive optics, progress toward motorized displays:
 - [Laser Lab](../laser-lab/) — Laser projection and beam steering
 - [Mad Scientist](../mad-scientist/) — Plasma and electrical discharge effects
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — LED control and POV displays
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Elephant Toothpaste"
+build_number: 102
+description: "Hydrogen peroxide meets a catalyst and erupts into a 10-foot tower of steaming foam."
+image: /images/builds/102-elephant-toothpaste.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: [chemical]
+ratings:
+  jaw: 5
+  brain: 1
+  wallet: 2
+  spicy: 2
+  clout: 5
+  time: 1
+---
 # #102 — Elephant Toothpaste
 
 <p align="center">

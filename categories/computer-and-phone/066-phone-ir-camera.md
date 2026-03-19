@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Phone IR Camera"
+build_number: 66
+description: "Remove the IR-blocking filter from an old phone's camera. Now it sees near-infrared. Check overheating, spot heat leaks, see invisible light."
+image: /images/builds/066-phone-ir-camera.jpg
+category: computer-and-phone
+category_name: "Computer & Phone"
+tags: [skill, practical]
+junk: [laptop]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 3
+  time: 1
+---
 # #066 — Phone IR Camera
 
 <p align="center">

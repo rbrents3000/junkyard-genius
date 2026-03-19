@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Fog Waterfall Table"
+build_number: 86
+description: "Mist maker under a glass table. Small openings at the edges. Cold fog cascades over the sides like a waterfall. LED strips create colored fog falls."
+image: /images/builds/086-fog-waterfall-table.jpg
+category: humidifier-and-water
+category_name: "Humidifier & Water"
+tags: [functional, practical]
+junk: []
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 2
+---
 # #086 — Fog Waterfall Table
 
 <p align="center">

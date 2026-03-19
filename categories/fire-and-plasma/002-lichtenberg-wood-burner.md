@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Lichtenberg Wood Burner"
+build_number: 2
+description: "High voltage from a microwave transformer burns fractal lightning patterns into wood — nature's art, delivered at 2,000 volts."
+image: /images/builds/002-lichtenberg-wood-burner.jpg
+category: fire-and-plasma
+category_name: "Fire & Plasma"
+tags: [pyro, chemistry, spectacle]
+junk: [microwave]
+ratings:
+  jaw: 5
+  brain: 2
+  wallet: 2
+  spicy: 5
+  clout: 5
+  time: 1
+---
 # #002 — Lichtenberg Wood Burner
 
 <p align="center">

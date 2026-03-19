@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Cloud Chamber Coffee Table"
+build_number: 330
+description: "A functioning particle physics detector built into a coffee table — watch cosmic rays from deep space while you drink your morning coffee."
+image: /images/builds/330-cloud-chamber-coffee-table.jpg
+category: visual-showstoppers
+category_name: "Visual Showstoppers"
+tags: [visual, spectacle, art]
+junk: [chemical, laptop, fridge]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 3
+  spicy: 2
+  clout: 5
+  time: 3
+---
 # #330 — Cloud Chamber Coffee Table
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Drone LiPo Powerwall"
+build_number: 206
+description: "Harvest lithium polymer cells from dead drone battery packs, test them individually, and assemble a portable power station with real capacity."
+image: /images/builds/206-drone-lipo-powerwall.jpg
+category: drone-salvage
+category_name: "Drone Salvage"
+tags: [skill, practical]
+junk: [printer]
+ratings:
+  jaw: 3
+  brain: 3
+  wallet: 1
+  spicy: 3
+  clout: 3
+  time: 2
+---
 # #206 — Drone LiPo Powerwall
 
 <p align="center">

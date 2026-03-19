@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Luminol Crime Scene"
+build_number: 109
+description: "Luminol reacts with iron to produce an eerie blue glow — build fake crime scenes for Halloween and escape rooms."
+image: /images/builds/109-luminol-crime-scene.jpg
+category: pyro-and-chemistry
+category_name: "Pyro & Chemistry"
+tags: [pyro, chemistry, spectacle]
+junk: [chemical]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 4
+  time: 1
+---
 # #109 — Luminol Crime Scene
 
 <p align="center">

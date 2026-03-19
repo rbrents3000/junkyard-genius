@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Mechanical Flip-Dot Display"
+build_number: 338
+description: "A grid of 256 electromagnetic pixels that physically flip between black and yellow with a deeply satisfying cascading CLICK — the soul of old airport departure boards, built from scratch."
+image: /images/builds/338-mechanical-flip-dot-display.jpg
+category: visual-showstoppers
+category_name: "Visual Showstoppers"
+tags: [visual, spectacle, art]
+junk: [microwave, arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 5
+  wallet: 3
+  spicy: 2
+  clout: 5
+  time: 5
+---
 # #338 — Mechanical Flip-Dot Display
 
 <p align="center">

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🏗️ Mechanical & Kinetic"
+description: "Where scrap metal, magnets, and gravity conspire to create motion from nothing."
+image: /images/categories/mechanical-and-kinetic.jpg
+---
 # 🏗️ Mechanical & Kinetic
 
 <p align="center">
@@ -53,3 +59,11 @@ Start with passive physics demos, progress toward precision machines:
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Motor-driven automation and robotics
 - [Junkyard Auto](../junkyard-auto/) — Drive mechanics and power transmission
 - [Art & Installation](../art-and-installation/) — Kinetic sculptures and display pieces
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

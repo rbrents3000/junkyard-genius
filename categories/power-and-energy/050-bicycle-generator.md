@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Bicycle Generator"
+build_number: 50
+description: "An old bicycle, a salvaged motor used as a generator, and a charge controller. Pedal power that charges batteries, runs lights, and powers small electronics."
+image: /images/builds/050-bicycle-generator.jpg
+category: power-and-energy
+category_name: "Power & Energy"
+tags: [functional, practical]
+junk: [microwave, scooter]
+ratings:
+  jaw: 3
+  brain: 2
+  wallet: 2
+  spicy: 1
+  clout: 3
+  time: 2
+---
 # #050 — Bicycle Generator
 
 <p align="center">

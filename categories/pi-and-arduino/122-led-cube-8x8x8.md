@@ -1,3 +1,21 @@
+---
+layout: build
+title: "LED Cube 8x8x8"
+build_number: 122
+description: "512 LEDs soldered into a 3D matrix — animations, text, fire effects, and audio-reactive patterns floating in space."
+image: /images/builds/122-led-cube-8x8x8.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [crt, arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 4
+---
 # #122 — LED Cube 8x8x8
 
 <p align="center">

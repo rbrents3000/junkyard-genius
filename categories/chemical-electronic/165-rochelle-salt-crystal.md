@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Rochelle Salt Crystal"
+build_number: 165
+description: "Grow a piezoelectric crystal from cream of tartar and baking soda — squeeze it and an LED flashes. Electricity from a kitchen-grown crystal."
+image: /images/builds/165-rochelle-salt-crystal.jpg
+category: chemical-electronic
+category_name: "Chemical Electronic"
+tags: [chemistry, educational]
+junk: [chemical]
+ratings:
+  jaw: 4
+  brain: 2
+  wallet: 1
+  spicy: 1
+  clout: 4
+  time: 3
+---
 # #165 — Rochelle Salt Crystal
 
 <p align="center">

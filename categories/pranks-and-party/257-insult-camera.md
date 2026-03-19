@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Fake Security Camera That Roasts You"
+build_number: 257
+description: "Pi Zero + camera + speaker + face detection. Walk into the room, get personally insulted by a picture frame."
+image: /images/builds/257-insult-camera.jpg
+category: pranks-and-party
+category_name: "Pranks & Party"
+tags: [spectacle, creative]
+junk: [microwave, arduino, laptop]
+ratings:
+  jaw: 5
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 5
+  time: 3
+---
 # #257 — Fake Security Camera That Roasts You
 
 <p align="center">

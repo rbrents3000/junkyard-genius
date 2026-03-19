@@ -1,3 +1,9 @@
+---
+layout: default
+title: "⚗️ Chemical & Electronic"
+description: "Electrons do chemistry. Chemistry makes electronics. This is the category where your workbench needs both a multimeter and safety goggles."
+image: /images/categories/chemical-electronic.jpg
+---
 # ⚗️ Chemical & Electronic
 
 <p align="center">
@@ -63,3 +69,13 @@ Start with kitchen chemistry demos, progress toward precision fabrication:
 - [Light & Visual](../light-and-visual/) — Gas discharge displays and lighting arts
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Electrochemical sensing and control
 - [Alchemist Cookbook](../alchemist-cookbook/) — Advanced chemistry-electronics crossovers
+
+---
+
+## 📚 Reference Guides
+
+- [Accessible Chemicals Guide](../../reference/chemicals.md)
+- [Electronics & Microcontrollers](../../reference/electronics-and-microcontrollers.md)
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

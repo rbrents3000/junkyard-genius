@@ -1,3 +1,9 @@
+---
+layout: default
+title: "🔨 Power Tools Remixed"
+description: "Every power tool is a motor with an attachment. Change the attachment, change the tool. 10,000 RPM solves a lot of problems."
+image: /images/categories/power-tools-remixed.jpg
+---
 # 🔨 Power Tools Remixed
 
 <p align="center">
@@ -47,3 +53,11 @@ These builds don't destroy the tool — you can always swap back to the original
 - [Functional Machines](../functional-machines/) — Dedicated tools built from salvage
 - [Junkyard Auto](../junkyard-auto/) — Automotive motor repurposing
 - [Big Builds](../big-builds/) — When your workshop project IS the workshop
+
+---
+
+## 📚 Reference Guides
+
+- [Tools Needed](../../reference/tools-needed.md)
+- [Sourcing Guide](../../reference/sourcing-guide.md)
+- [Difficulty & Ratings Guide](../../reference/difficulty-guide.md)

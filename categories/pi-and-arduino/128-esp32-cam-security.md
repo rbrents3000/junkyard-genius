@@ -1,3 +1,21 @@
+---
+layout: build
+title: "ESP32-CAM Security"
+build_number: 128
+description: "Multiple $6 ESP32-CAM modules with IR LEDs and a Pi server — motion detection, night vision, and phone alerts."
+image: /images/builds/128-esp32-cam-security.jpg
+category: pi-and-arduino
+category_name: "Pi & Arduino"
+tags: [educational, skill, coding]
+junk: [arduino, laptop]
+ratings:
+  jaw: 2
+  brain: 3
+  wallet: 2
+  spicy: 1
+  clout: 2
+  time: 3
+---
 # #128 — ESP32-CAM Security
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Face Tracking Laser"
+build_number: 141
+description: "A webcam with OpenCV face detection controls servos aiming a laser pointer — the laser follows your face around the room."
+image: /images/builds/141-face-tracking-laser.jpg
+category: python-projects
+category_name: "Python Projects"
+tags: [educational, skill, coding]
+junk: [microwave, arduino, scooter]
+ratings:
+  jaw: 4
+  brain: 3
+  wallet: 1
+  spicy: 2
+  clout: 4
+  time: 2
+---
 # #141 — Face Tracking Laser
 
 <p align="center">

@@ -1,3 +1,21 @@
+---
+layout: build
+title: "Ham Radio from Scratch"
+build_number: 193
+description: "Wind your own coils, build a crystal oscillator, and talk to someone on the other side of the planet using scrap metal and patience."
+image: /images/builds/193-ham-radio-from-scratch.jpg
+category: big-builds
+category_name: "Big Builds"
+tags: [spectacle, functional]
+junk: [laptop]
+ratings:
+  jaw: 4
+  brain: 4
+  wallet: 2
+  spicy: 1
+  clout: 3
+  time: 4
+---
 # #193 — Ham Radio from Scratch
 
 <p align="center">
