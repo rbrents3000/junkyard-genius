@@ -30,7 +30,7 @@ Commercial ferrofluid displays this size run $2,000-$5,000. This build costs und
 - [ ] Arduino Mega or Uno *(electronics supplier, ~$10-$15)*
 - [ ] TLC5940 or PCA9685 PWM driver boards x2 — for individual coil control *(electronics supplier, ~$5 each)*
 - [ ] MOSFET driver modules — IRLZ44N or similar, one per coil *(electronics supplier, ~$0.50 each)*
-- [ ] 12V power supply, 5A+ — old laptop charger or ATX PSU works *(source: dead electronics — free)*
+- [ ] 12V power supply, 10A+ — ATX PSU recommended (16 coils at 500mA each = 8A+ peak when multiple coils fire simultaneously) *(source: dead PC — free)*
 - [ ] Electret microphone module with amplifier *(electronics supplier, ~$3)*
 - [ ] PIR motion sensor *(electronics supplier, ~$2)*
 - [ ] Machine screws, standoffs, and mounting hardware *(hardware store)*

@@ -32,7 +32,7 @@ Potassium nitrate (stump remover from the hardware store) mixed with sugar creat
 
 ## 🔨 Build Steps
 
-1. **Cook the smoke composition.** Mix 3 parts KNO3 to 2 parts sugar by weight in an old saucepan over LOW heat. Stir constantly. The sugar melts first, then the mixture turns into a thick brown paste resembling peanut butter. Do this OUTDOORS on a hot plate or camp stove. Never use your kitchen stove.
+1. **Cook the smoke composition.** Mix 3 parts KNO3 to 2 parts sugar by weight in an old saucepan over LOW heat. **Use a candy thermometer** — keep the temperature below 300°F (150°C) at all times. The KNO₃/sugar mix can auto-ignite at 380-430°F (200-220°C), and there is no way to extinguish it once lit. Stir constantly. The sugar melts first, then the mixture turns into a thick brown paste resembling peanut butter. Do this OUTDOORS on a hot plate or camp stove. Never use your kitchen stove.
 2. **Add the dye.** Once the mixture reaches peanut butter consistency, remove from heat and quickly stir in organic dye powder — about 1-2 tablespoons per batch. Work fast; it starts to harden as it cools.
 3. **Pack the tubes.** Spoon the mixture into cardboard tubes. Press it down firmly with a dowel but don't pack it so tight that air can't flow through. Leave about 1/2 inch at the top.
 4. **Insert the ignition wire.** Push a small loop of nichrome wire into the top of each smoke bomb. The wire leads should extend out at least 6 inches for connection to your relay board. Alternatively, insert a cotton fuse.
