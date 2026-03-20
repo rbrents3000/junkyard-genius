@@ -1,0 +1,24 @@
+---
+---
+{
+  "name": "Junkyard Genius",
+  "short_name": "JY Genius",
+  "description": "338 insane DIY builds from salvaged appliances, e-waste, chemicals, and junk.",
+  "start_url": "{{ site.baseurl }}/",
+  "scope": "{{ site.baseurl }}/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#ff6b35",
+  "icons": [
+    {
+      "src": "{{ site.baseurl }}/images/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "{{ site.baseurl }}/images/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
