@@ -66,3 +66,8 @@ It takes 3 seconds, costs nothing, and produces genuine plasma — the fourth st
 
 - [Musical Tesla Coil](/categories/mad-scientist/033-musical-tesla-coil/)
 - [Jacob's Ladder](/categories/mad-scientist/034-jacobs-ladder/)
+
+<script>
+console.log('%c🍇 GRAPE PLASMA', 'color:#9466ff;font-size:18px;font-weight:900');
+console.log('%cYou\'re inspecting the only build that requires a $20 microwave and a single grape.\nPeak junkyard energy. Respect.', 'color:#7a7f93;font-size:12px');
+</script>

@@ -17,6 +17,17 @@
     {% include "head-custom.html" %}
   </head>
   <body>
+    <!--
+      ██  ██  ██  ██  ██  ██  ██  ██  ██  ██  ██  ██
+      ░░                                           ░░
+      ░░   You're reading the source code.         ░░
+      ░░   That means you're our kind of person.   ░░
+      ░░   Build something insane.                 ░░
+      ░░                                           ░░
+      ░░   rbrents3000@gmail.com                   ░░
+      ░░                                           ░░
+      ██  ██  ██  ██  ██  ██  ██  ██  ██  ██  ██  ██
+    -->
     <a class="skip-link" href="#main">Skip to main content</a>
 
       <div id="header">
@@ -59,6 +70,73 @@
         if(typeof gtag==='function') gtag('event','nav_click',{destination:this.textContent.trim().toLowerCase()});
       });
     });
+
+    // ⚡ Console welcome
+    console.log('%c⚡ JUNKYARD GENIUS ⚡', 'color:#ff6b35;font-size:24px;font-weight:900;text-shadow:0 0 10px rgba(255,107,53,0.5)');
+    console.log('%cYou found the console. You\'re already one of us.', 'color:#eaedf3;font-size:13px');
+    console.log('%c338 builds · 33 categories · 0 safety guarantees', 'color:#7a7f93;font-size:11px');
+    console.log('%cGot ideas? Found a bug? rbrents3000@gmail.com', 'color:#5b9cf6;font-size:11px');
+
+    // ⚡ Konami Code: ↑↑↓↓←→←→BA
+    (function(){
+      var seq = [38,38,40,40,37,39,37,39,66,65], pos = 0;
+      document.addEventListener('keydown', function(e){
+        if(e.keyCode === seq[pos]) { pos++; } else { pos = 0; }
+        if(pos === seq.length){
+          pos = 0;
+          if(typeof gtag==='function') gtag('event','easter_egg',{type:'konami_code'});
+          var d = document.createElement('div');
+          d.style.cssText = 'position:fixed;inset:0;z-index:99999;display:flex;align-items:center;justify-content:center;background:rgba(10,10,15,0.95);color:#ff6b35;font-size:2.5rem;font-weight:900;font-family:Inter,sans-serif;letter-spacing:-0.02em;animation:konamiFade 2s ease forwards';
+          d.textContent = '⚡ JUNKYARD MODE ACTIVATED ⚡';
+          var s = document.createElement('style');
+          s.textContent = '@keyframes konamiFade{0%{opacity:0;transform:scale(0.8)}15%{opacity:1;transform:scale(1.05)}25%{transform:scale(1)}80%{opacity:1}100%{opacity:0}}';
+          document.head.appendChild(s);
+          document.body.appendChild(d);
+          setTimeout(function(){ d.remove(); s.remove(); }, 2100);
+          document.querySelectorAll('img').forEach(function(img){
+            img.style.transition = 'filter 0.5s ease';
+            img.style.filter = 'hue-rotate(180deg) saturate(2)';
+          });
+          setTimeout(function(){
+            document.querySelectorAll('img').forEach(function(img){
+              img.style.filter = '';
+              setTimeout(function(){ img.style.transition = ''; }, 500);
+            });
+          }, 5000);
+        }
+      });
+    })();
+
+    // ⚡ ?debug=true — show builder profile
+    if(new URLSearchParams(window.location.search).get('debug') === 'true'){
+      try {
+        var completed = JSON.parse(localStorage.getItem('jg-completed')) || [];
+        var wanted = JSON.parse(localStorage.getItem('jg-wantToBuild')) || [];
+        console.log('%cBuilder profile loaded. You\'ve got taste.', 'color:#3dd68c;font-size:13px;font-weight:700');
+        console.log('%cCompleted: ' + (completed.length || 'none yet'), 'color:#ff6b35');
+        if(completed.length) console.table(completed.map(function(n){ return {build: '#' + n}; }));
+        console.log('%cWant to build: ' + (wanted.length || 'none yet'), 'color:#9466ff');
+        if(wanted.length) console.table(wanted.map(function(n){ return {build: '#' + n}; }));
+      } catch(e){}
+    }
+
+    // ⚡ 50-click title
+    (function(){
+      var h = document.querySelector('#title h1');
+      if(!h) return;
+      var c = 0;
+      h.addEventListener('click', function(){
+        c++;
+        if(c === 50){
+          if(typeof gtag==='function') gtag('event','easter_egg',{type:'50_clicks'});
+          var m = document.createElement('div');
+          m.style.cssText = 'position:fixed;bottom:20px;left:50%;transform:translateX(-50%);z-index:99999;background:#13141c;border:1px solid #ff6b35;color:#eaedf3;padding:16px 24px;border-radius:10px;font-family:Inter,sans-serif;font-size:14px;max-width:400px;text-align:center;box-shadow:0 8px 32px rgba(255,107,53,0.2)';
+          m.innerHTML = 'Ok you clearly have too much time.<br><span style="color:#ff6b35;font-weight:700">Email rbrents3000@gmail.com</span> and tell me you clicked 50 times. I\'ll be impressed.';
+          document.body.appendChild(m);
+          setTimeout(function(){ m.style.transition='opacity 1s';m.style.opacity='0';setTimeout(function(){m.remove()},1000); }, 6000);
+        }
+      });
+    })();
     </script>
   </body>
 </html>
