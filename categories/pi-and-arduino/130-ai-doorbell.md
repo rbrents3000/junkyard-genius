@@ -19,7 +19,7 @@ ratings:
 # #130 — AI Doorbell
 
 <p align="center">
-  <img src="../../images/builds/130-ai-doorbell.jpg" alt="AI Doorbell" width="700" />
+  <img src="/images/builds/130-ai-doorbell.jpg" alt="AI Doorbell" width="700" />
 </p>
 
 > Pi camera with face recognition — identifies family by name, logs strangers, sends photos to your phone.
@@ -67,6 +67,6 @@ Ring doorbell costs $100+ and sends your video to Amazon's cloud. Build your own
 
 ## 🔗 See Also
 
-- [ESP32-CAM Security](128-esp32-cam-security/)
-- [Face Tracking Laser](../python-projects/141-face-tracking-laser/)
+- [ESP32-CAM Security](/categories/pi-and-arduino/128-esp32-cam-security/)
+- [Face Tracking Laser](/categories/python-projects/141-face-tracking-laser/)
 

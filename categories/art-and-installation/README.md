@@ -8,7 +8,7 @@ image: /images/categories/art-and-installation.jpg
 # 🎨 Art & Installation
 
 <p align="center">
-  <img src="../../images/categories/art-and-installation.jpg" alt="Art & Installation" width="700" />
+  <img src="/images/categories/art-and-installation.jpg" alt="Art & Installation" width="700" />
 </p>
 
 <p align="center">

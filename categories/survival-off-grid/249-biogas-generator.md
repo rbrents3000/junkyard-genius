@@ -19,7 +19,7 @@ ratings:
 # #249 — Biogas Generator
 
 <p align="center">
-  <img src="../../images/builds/249-biogas-generator.jpg" alt="Biogas Generator" width="700" />
+  <img src="/images/builds/249-biogas-generator.jpg" alt="Biogas Generator" width="700" />
 </p>
 
 > Sealed drum + compost = methane for cooking. Cook food from rotting food.
@@ -72,5 +72,5 @@ Anaerobic bacteria eat organic waste and produce methane — the same natural ga
 
 ## 🔗 See Also
 
-- [Rocket Stove](253-rocket-stove/)
-- [Gravity Water Filter](250-gravity-water-filter/)
+- [Rocket Stove](/categories/survival-off-grid/253-rocket-stove/)
+- [Gravity Water Filter](/categories/survival-off-grid/250-gravity-water-filter/)

@@ -19,7 +19,7 @@ ratings:
 # #033 — Musical Tesla Coil
 
 <p align="center">
-  <img src="../../images/builds/033-musical-tesla-coil.jpg" alt="Musical Tesla Coil" width="700" />
+  <img src="/images/builds/033-musical-tesla-coil.jpg" alt="Musical Tesla Coil" width="700" />
 </p>
 
 > A flyback transformer driven at audio frequencies turns electrical arcs into a speaker. Lightning that plays the Imperial March.
@@ -74,5 +74,5 @@ This is technically a solid-state Tesla coil (SSTC) in its simplest form. True m
 
 ## 🔗 See Also
 
-- [Jacob's Ladder](034-jacobs-ladder/)
-- [Levitating Plasma Speaker](../unholy-combos/055-levitating-plasma-speaker/)
+- [Jacob's Ladder](/categories/mad-scientist/034-jacobs-ladder/)
+- [Levitating Plasma Speaker](/categories/unholy-combos/055-levitating-plasma-speaker/)

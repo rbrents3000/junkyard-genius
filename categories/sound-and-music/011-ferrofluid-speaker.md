@@ -19,7 +19,7 @@ ratings:
 # #011 — Ferrofluid Speaker
 
 <p align="center">
-  <img src="../../images/builds/011-ferrofluid-speaker.jpg" alt="Ferrofluid Speaker" width="700" />
+  <img src="/images/builds/011-ferrofluid-speaker.jpg" alt="Ferrofluid Speaker" width="700" />
 </p>
 
 > A speaker magnet meets ferrofluid and creates a living, dancing liquid sculpture that responds to every beat.
@@ -74,6 +74,6 @@ The result is mesmerizing — a jet-black liquid that seems alive, growing spine
 
 ## 🔗 See Also
 
-- [Ultrasonic Levitator](010-ultrasonic-levitator/) — another way to make invisible physical forces create visible wonder
-- [CRT Oscilloscope Visualizer](../light-and-visual/021-crt-oscilloscope-visualizer/) — visualize music on a screen instead of in a liquid
+- [Ultrasonic Levitator](/categories/sound-and-music/010-ultrasonic-levitator/) — another way to make invisible physical forces create visible wonder
+- [CRT Oscilloscope Visualizer](/categories/light-and-visual/021-crt-oscilloscope-visualizer/) — visualize music on a screen instead of in a liquid
 

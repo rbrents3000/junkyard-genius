@@ -19,7 +19,7 @@ ratings:
 # #043 — Kinetic Wind Sculpture
 
 <p align="center">
-  <img src="../../images/builds/043-kinetic-wind-sculpture.jpg" alt="Kinetic Wind Sculpture" width="700" />
+  <img src="/images/builds/043-kinetic-wind-sculpture.jpg" alt="Kinetic Wind Sculpture" width="700" />
 </p>
 
 > Scrap metal, salvaged bearings, and balanced arms spin and sway in the wind. Art that moves itself, powered by nothing but air.
@@ -69,6 +69,6 @@ Anthony Howe's massive kinetic sculptures sell for hundreds of thousands of doll
 
 ## 🔗 See Also
 
-- [Scrap Metal Sculpture](045-scrap-metal-sculpture/)
-- [Anti-Gravity Water Fountain](044-antigravity-water-fountain/)
+- [Scrap Metal Sculpture](/categories/art-and-installation/045-scrap-metal-sculpture/)
+- [Anti-Gravity Water Fountain](/categories/art-and-installation/044-antigravity-water-fountain/)
 

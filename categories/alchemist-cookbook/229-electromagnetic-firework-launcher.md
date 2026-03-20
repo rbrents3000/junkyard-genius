@@ -19,7 +19,7 @@ ratings:
 # #229 — Electromagnetic Firework Launcher
 
 <p align="center">
-  <img src="../../images/builds/229-electromagnetic-firework-launcher.jpg" alt="Electromagnetic Firework Launcher" width="700" />
+  <img src="/images/builds/229-electromagnetic-firework-launcher.jpg" alt="Electromagnetic Firework Launcher" width="700" />
 </p>
 
 > A coil gun launches firework shells silently on electromagnetic force, with electrical ignition at altitude. No black powder lift charge. No mortar tube bang. Just physics and fire in the sky.
@@ -72,6 +72,6 @@ A traditional firework mortar uses a black powder lift charge to hurl a shell sk
 
 ## 🔗 See Also
 
-- [Coil Gun](../mad-scientist/037-coil-gun/)
-- [MOT-Ignited Firework Mortar](227-mot-ignited-firework-mortar/)
+- [Coil Gun](/categories/mad-scientist/037-coil-gun/)
+- [MOT-Ignited Firework Mortar](/categories/alchemist-cookbook/227-mot-ignited-firework-mortar/)
 

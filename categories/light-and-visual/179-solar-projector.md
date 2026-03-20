@@ -19,7 +19,7 @@ ratings:
 # #179 — Solar Projector
 
 <p align="center">
-  <img src="../../images/builds/179-solar-projector.jpg" alt="Solar Projector" width="700" />
+  <img src="/images/builds/179-solar-projector.jpg" alt="Solar Projector" width="700" />
 </p>
 
 > A telescope projects a live image of the sun onto a screen, revealing sunspots, solar granulation, and eclipses in real time.
@@ -71,5 +71,5 @@ This technique — called solar projection — was used by astronomers for centu
 
 ## 🔗 See Also
 
-- [Fresnel Lens Solar Forge](020-fresnel-lens-solar-forge/) — another project harnessing the sun's energy with optics (with very different intent)
-- [Schlieren Optics](172-schlieren-optics/) — another optics project that reveals normally invisible phenomena
+- [Fresnel Lens Solar Forge](/categories/light-and-visual/020-fresnel-lens-solar-forge/) — another project harnessing the sun's energy with optics (with very different intent)
+- [Schlieren Optics](/categories/light-and-visual/172-schlieren-optics/) — another optics project that reveals normally invisible phenomena

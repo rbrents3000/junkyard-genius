@@ -19,7 +19,7 @@ ratings:
 # #156 — Electroplating Station
 
 <p align="center">
-  <img src="../../images/builds/156-electroplating-station.jpg" alt="Electroplating Station" width="700" />
+  <img src="/images/builds/156-electroplating-station.jpg" alt="Electroplating Station" width="700" />
 </p>
 
 > Copper sulfate + DC power + a copper anode — plate anything in a shiny layer of copper. Roses, 3D prints, leaves, anything.
@@ -66,6 +66,6 @@ Electroplating deposits a thin layer of metal onto any conductive surface using 
 
 ## 🔗 See Also
 
-- [Electroforming Art](160-electroforming-art/)
-- [Electrochemical Etching](162-electrochemical-etching/)
+- [Electroforming Art](/categories/chemical-electronic/160-electroforming-art/)
+- [Electrochemical Etching](/categories/chemical-electronic/162-electrochemical-etching/)
 

@@ -19,7 +19,7 @@ ratings:
 # #131 — Pi DJ Controller
 
 <p align="center">
-  <img src="../../images/builds/131-pi-dj-controller.jpg" alt="Pi DJ Controller" width="700" />
+  <img src="/images/builds/131-pi-dj-controller.jpg" alt="Pi DJ Controller" width="700" />
 </p>
 
 > Rotary encoders, potentiometers, and buttons wired to a Pi running Python audio processing — a full DJ setup from e-waste.
@@ -67,6 +67,6 @@ A DJ controller is just knobs, sliders, and buttons connected to audio software.
 
 ## 🔗 See Also
 
-- [Arduino Guitar Pedal](124-arduino-guitar-pedal/)
-- [Music Visualizer LED Wall](../python-projects/145-music-visualizer-led-wall/)
+- [Arduino Guitar Pedal](/categories/pi-and-arduino/124-arduino-guitar-pedal/)
+- [Music Visualizer LED Wall](/categories/python-projects/145-music-visualizer-led-wall/)
 

@@ -19,7 +19,7 @@ ratings:
 # #273 — Washing Machine Motor Lathe
 
 <p align="center">
-  <img src="../../images/builds/273-washing-machine-motor-lathe.jpg" alt="Washing Machine Motor Lathe" width="700" />
+  <img src="/images/builds/273-washing-machine-motor-lathe.jpg" alt="Washing Machine Motor Lathe" width="700" />
 </p>
 
 > A dead washing machine motor spins a proper lathe chuck. Turn wood, polish metal, or make custom parts — for the cost of a trip to the curb.
@@ -86,7 +86,7 @@ This is not a toy lathe. Washing machine motors produce enough torque to turn se
 
 ## 🔗 See Also
 
-- [Electric Skateboard](088-electric-skateboard/)
-- [Motor-Powered Pottery Wheel](292-motor-powered-pottery-wheel/)
-- [Motor-Driven Turntable](294-motor-driven-turntable/)
+- [Electric Skateboard](/categories/scooter-and-motor/088-electric-skateboard/)
+- [Motor-Powered Pottery Wheel](/categories/scooter-and-motor/292-motor-powered-pottery-wheel/)
+- [Motor-Driven Turntable](/categories/scooter-and-motor/294-motor-driven-turntable/)
 

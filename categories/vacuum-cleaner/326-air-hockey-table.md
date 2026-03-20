@@ -19,7 +19,7 @@ ratings:
 # #326 — Air Hockey Table
 
 <p align="center">
-  <img src="../../images/builds/326-air-hockey-table.jpg" alt="Air Hockey Table" width="700" />
+  <img src="/images/builds/326-air-hockey-table.jpg" alt="Air Hockey Table" width="700" />
 </p>
 
 > Reverse a vacuum cleaner motor for upflow through a drilled surface. Add a puck and paddles. Game on.
@@ -96,7 +96,7 @@ The vacuum motor is overkill for this job — a typical vacuum motor pushes 1000
 
 ## 🔗 See Also
 
-- [Vacuum Hovercraft](075-vacuum-hovercraft/)
-- [Vacuum Leaf Blower](078-vacuum-leaf-blower/)
-- [Pneumatic Launcher](299-pneumatic-launcher/)
+- [Vacuum Hovercraft](/categories/vacuum-cleaner/075-vacuum-hovercraft/)
+- [Vacuum Leaf Blower](/categories/vacuum-cleaner/078-vacuum-leaf-blower/)
+- [Pneumatic Launcher](/categories/vacuum-cleaner/299-pneumatic-launcher/)
 

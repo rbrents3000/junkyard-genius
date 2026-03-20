@@ -19,7 +19,7 @@ ratings:
 # #138 — Nerf Sentry Turret
 
 <p align="center">
-  <img src="../../images/builds/138-nerf-sentry-turret.jpg" alt="Nerf Sentry Turret" width="700" />
+  <img src="/images/builds/138-nerf-sentry-turret.jpg" alt="Nerf Sentry Turret" width="700" />
 </p>
 
 > A motorized Nerf gun on pan/tilt servos with ultrasonic sensors or Pi camera — auto-targeting that can recognize faces.
@@ -68,6 +68,6 @@ Take a motorized Nerf gun (the kind with a flywheel launcher), mount it on a pan
 
 ## 🔗 See Also
 
-- [Face Tracking Laser](../python-projects/141-face-tracking-laser/)
-- [Printer Robot Arm](129-printer-robot-arm/)
+- [Face Tracking Laser](/categories/python-projects/141-face-tracking-laser/)
+- [Printer Robot Arm](/categories/pi-and-arduino/129-printer-robot-arm/)
 

@@ -19,7 +19,7 @@ ratings:
 # #139 — Pi-hole Ad Blocker
 
 <p align="center">
-  <img src="../../images/builds/139-pi-hole-ad-blocker.jpg" alt="Pi-hole Ad Blocker" width="700" />
+  <img src="/images/builds/139-pi-hole-ad-blocker.jpg" alt="Pi-hole Ad Blocker" width="700" />
 </p>
 
 > A Raspberry Pi running Pi-hole becomes a network-level DNS sinkhole that blocks ads on every device — 5-minute setup.
@@ -62,6 +62,6 @@ Every ad on every website starts with a DNS lookup — your device asks "what's 
 
 ## 🔗 See Also
 
-- [ESP32-CAM Security](128-esp32-cam-security/)
-- [Smart Mirror](123-smart-mirror/)
+- [ESP32-CAM Security](/categories/pi-and-arduino/128-esp32-cam-security/)
+- [Smart Mirror](/categories/pi-and-arduino/123-smart-mirror/)
 

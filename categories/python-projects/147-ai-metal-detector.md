@@ -19,7 +19,7 @@ ratings:
 # #147 — AI Metal Detector
 
 <p align="center">
-  <img src="../../images/builds/147-ai-metal-detector.jpg" alt="AI Metal Detector" width="700" />
+  <img src="/images/builds/147-ai-metal-detector.jpg" alt="AI Metal Detector" width="700" />
 </p>
 
 > A metal detector circuit with an Arduino and Pi running machine learning — not just beep, but "probably aluminum at 6 inches."
@@ -68,6 +68,6 @@ Traditional metal detectors beep and you dig. You don't know if it's a gold ring
 
 ## 🔗 See Also
 
-- [Automated Microscope](148-automated-microscope/)
-- [Earthquake Detector](146-earthquake-detector/)
+- [Automated Microscope](/categories/python-projects/148-automated-microscope/)
+- [Earthquake Detector](/categories/python-projects/146-earthquake-detector/)
 

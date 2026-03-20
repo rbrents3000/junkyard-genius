@@ -19,7 +19,7 @@ ratings:
 # #027 — Spot Welder
 
 <p align="center">
-  <img src="../../images/builds/027-spot-welder.jpg" alt="Spot Welder" width="700" />
+  <img src="/images/builds/027-spot-welder.jpg" alt="Spot Welder" width="700" />
 </p>
 
 > A microwave oven transformer rewound with thick copper cable becomes a spot welder that fuses metal with a single pulse. Battery tab welding for a dollar in copper.
@@ -71,6 +71,6 @@ This is the standard method for welding nickel tabs to lithium cells when buildi
 
 ## 🔗 See Also
 
-- [DIY Powerwall](../power-and-energy/052-diy-powerwall/)
-- [Capacitor Discharge Welder](032-capacitor-discharge-welder/)
+- [DIY Powerwall](/categories/power-and-energy/052-diy-powerwall/)
+- [Capacitor Discharge Welder](/categories/functional-machines/032-capacitor-discharge-welder/)
 

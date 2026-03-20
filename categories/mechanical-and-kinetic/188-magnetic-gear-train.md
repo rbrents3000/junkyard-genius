@@ -19,7 +19,7 @@ ratings:
 # #188 — Magnetic Gear Train
 
 <p align="center">
-  <img src="../../images/builds/188-magnetic-gear-train.jpg" alt="Magnetic Gear Train" width="700" />
+  <img src="/images/builds/188-magnetic-gear-train.jpg" alt="Magnetic Gear Train" width="700" />
 </p>
 
 > Gears that mesh and transfer torque through pure magnetic force — they never touch, and it looks like witchcraft.
@@ -75,6 +75,6 @@ The effect is hypnotic: two discs floating in space, one driving the other with 
 
 ## 🔗 See Also
 
-- [Ball Bearing Motor](187-ball-bearing-motor/) — the simplest electromagnetic motion build
-- [Musical Marble Machine](181-musical-marble-machine/) — traditional mechanical gearing taken to artistic extremes
+- [Ball Bearing Motor](/categories/mechanical-and-kinetic/187-ball-bearing-motor/) — the simplest electromagnetic motion build
+- [Musical Marble Machine](/categories/mechanical-and-kinetic/181-musical-marble-machine/) — traditional mechanical gearing taken to artistic extremes
 

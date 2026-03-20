@@ -19,7 +19,7 @@ ratings:
 # #105 — Thermite Flower Pot
 
 <p align="center">
-  <img src="../../images/builds/105-thermite-flower-pot.jpg" alt="Thermite Flower Pot" width="700" />
+  <img src="/images/builds/105-thermite-flower-pot.jpg" alt="Thermite Flower Pot" width="700" />
 </p>
 
 > Iron oxide and aluminum powder react at 4000°F, dripping molten iron through a clay pot into a mold below.
@@ -71,6 +71,6 @@ Thermite is a mixture of iron oxide (rust) and aluminum powder. When ignited, th
 
 ## 🔗 See Also
 
-- [Permanganate Auto-Ignition](115-permanganate-auto-ignition/)
-- [Colored Fire](101-colored-fire/)
+- [Permanganate Auto-Ignition](/categories/pyro-and-chemistry/115-permanganate-auto-ignition/)
+- [Colored Fire](/categories/pyro-and-chemistry/101-colored-fire/)
 

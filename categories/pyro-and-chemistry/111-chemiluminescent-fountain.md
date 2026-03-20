@@ -19,7 +19,7 @@ ratings:
 # #111 — Chemiluminescent Fountain
 
 <p align="center">
-  <img src="../../images/builds/111-chemiluminescent-fountain.jpg" alt="Chemiluminescent Fountain" width="700" />
+  <img src="/images/builds/111-chemiluminescent-fountain.jpg" alt="Chemiluminescent Fountain" width="700" />
 </p>
 
 > Glowing liquid pumped through a fountain in complete darkness — luminol chemistry meets plumbing.
@@ -68,6 +68,6 @@ Luminol and glow stick chemistry produce light without heat — chemiluminescenc
 
 ## 🔗 See Also
 
-- [Luminol Crime Scene](109-luminol-crime-scene/)
-- [Fluorescein Blacklight Fountain](118-fluorescein-blacklight-fountain/)
+- [Luminol Crime Scene](/categories/pyro-and-chemistry/109-luminol-crime-scene/)
+- [Fluorescein Blacklight Fountain](/categories/pyro-and-chemistry/118-fluorescein-blacklight-fountain/)
 

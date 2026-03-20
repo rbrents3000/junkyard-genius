@@ -19,7 +19,7 @@ ratings:
 # #297 — Mist Cooling System
 
 <p align="center">
-  <img src="../../images/builds/297-mist-cooling-system.jpg" alt="Mist Cooling System" width="700" />
+  <img src="/images/builds/297-mist-cooling-system.jpg" alt="Mist Cooling System" width="700" />
 </p>
 
 > Blow ultrasonic mist across a patio and drop the temperature 15 degrees. No wet surfaces. No plumbing. Just dead humidifiers and physics.
@@ -232,8 +232,8 @@ more transducers.
 
 ## 🔗 See Also
 
-- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine/)
-- [Fog Harp Water Collector](296-fog-harp-water-collector/)
-- [Fog Waterfall Table](086-fog-waterfall-table/)
-- [Nebula Lamp](087-nebula-lamp/)
+- [Ultrasonic Fog Machine](/categories/humidifier-and-water/084-ultrasonic-fog-machine/)
+- [Fog Harp Water Collector](/categories/humidifier-and-water/296-fog-harp-water-collector/)
+- [Fog Waterfall Table](/categories/humidifier-and-water/086-fog-waterfall-table/)
+- [Nebula Lamp](/categories/humidifier-and-water/087-nebula-lamp/)
 

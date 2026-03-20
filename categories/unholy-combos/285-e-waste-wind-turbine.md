@@ -19,7 +19,7 @@ ratings:
 # #285 — E-Waste Wind Turbine
 
 <p align="center">
-  <img src="../../images/builds/285-e-waste-wind-turbine.jpg" alt="E-Waste Wind Turbine" width="700" />
+  <img src="/images/builds/285-e-waste-wind-turbine.jpg" alt="E-Waste Wind Turbine" width="700" />
 </p>
 
 > A wind generator built entirely from electronic waste. Hard drive motors become generators, printer gears handle RPM matching, and old fan blades catch the wind. Free power from free parts.
@@ -83,6 +83,6 @@ The engineering challenge isn't any single component — it's making them all wo
 
 ## 🔗 See Also
 
-- [Bicycle Generator](../power-and-energy/050-bicycle-generator/)
-- [DIY Powerwall](../power-and-energy/052-diy-powerwall/)
+- [Bicycle Generator](/categories/power-and-energy/050-bicycle-generator/)
+- [DIY Powerwall](/categories/power-and-energy/052-diy-powerwall/)
 

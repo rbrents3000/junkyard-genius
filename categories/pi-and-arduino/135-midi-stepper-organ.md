@@ -19,7 +19,7 @@ ratings:
 # #135 — MIDI Stepper Organ
 
 <p align="center">
-  <img src="../../images/builds/135-midi-stepper-organ.jpg" alt="MIDI Stepper Organ" width="700" />
+  <img src="/images/builds/135-midi-stepper-organ.jpg" alt="MIDI Stepper Organ" width="700" />
 </p>
 
 > Stepper motors whine at frequencies controlled by step rate — send MIDI notes and the motors play music. Floppy drives work too.
@@ -67,6 +67,6 @@ Every stepper motor makes a whining noise when it runs — it's the sound of the
 
 ## 🔗 See Also
 
-- [Arduino Guitar Pedal](124-arduino-guitar-pedal/)
-- [LED Cube 8x8x8](122-led-cube-8x8x8/)
+- [Arduino Guitar Pedal](/categories/pi-and-arduino/124-arduino-guitar-pedal/)
+- [LED Cube 8x8x8](/categories/pi-and-arduino/122-led-cube-8x8x8/)
 

@@ -19,7 +19,7 @@ ratings:
 # #025 — Scooter Motor Lathe
 
 <p align="center">
-  <img src="../../images/builds/025-scooter-motor-lathe.jpg" alt="Scooter Motor Lathe" width="700" />
+  <img src="/images/builds/025-scooter-motor-lathe.jpg" alt="Scooter Motor Lathe" width="700" />
 </p>
 
 > That dead scooter motor has the torque and speed control to spin a lathe. So let it.
@@ -73,6 +73,6 @@ A real bench lathe costs $300-$1000+. This one costs the price of some bearings 
 
 ## 🔗 See Also
 
-- [Electric Go-Kart](024-electric-go-kart/)
-- [Treadmill Belt Grinder](026-treadmill-belt-grinder/)
+- [Electric Go-Kart](/categories/functional-machines/024-electric-go-kart/)
+- [Treadmill Belt Grinder](/categories/functional-machines/026-treadmill-belt-grinder/)
 

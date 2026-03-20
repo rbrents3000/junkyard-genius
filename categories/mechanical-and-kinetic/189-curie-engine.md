@@ -19,7 +19,7 @@ ratings:
 # #189 — Curie Engine
 
 <p align="center">
-  <img src="../../images/builds/189-curie-engine.jpg" alt="Curie Engine" width="700" />
+  <img src="/images/builds/189-curie-engine.jpg" alt="Curie Engine" width="700" />
 </p>
 
 > A candle-powered motor that runs on the moment nickel stops being magnetic — thermodynamics and magnetism tag-teaming.
@@ -74,6 +74,6 @@ Pierre Curie described this temperature threshold in 1895, and it's one of those
 
 ## 🔗 See Also
 
-- [Stirling Engine](182-stirling-engine/) — another candle-powered engine using a completely different thermodynamic principle
-- [Eddy Current Brake](186-eddy-current-brake/) — another intersection of magnetism and motion with surprising results
+- [Stirling Engine](/categories/mechanical-and-kinetic/182-stirling-engine/) — another candle-powered engine using a completely different thermodynamic principle
+- [Eddy Current Brake](/categories/mechanical-and-kinetic/186-eddy-current-brake/) — another intersection of magnetism and motion with surprising results
 

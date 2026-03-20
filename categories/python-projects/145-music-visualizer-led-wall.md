@@ -19,7 +19,7 @@ ratings:
 # #145 — Music Visualizer LED Wall
 
 <p align="center">
-  <img src="../../images/builds/145-music-visualizer-led-wall.jpg" alt="Music Visualizer LED Wall" width="700" />
+  <img src="/images/builds/145-music-visualizer-led-wall.jpg" alt="Music Visualizer LED Wall" width="700" />
 </p>
 
 > An LED grid behind a diffuser panel analyzes audio in real time — your wall looks like a concert stage LED display.
@@ -67,6 +67,6 @@ Concert LED walls react to the music — bass pulses, melodies ripple, beats fla
 
 ## 🔗 See Also
 
-- [Non-Newtonian Speaker](../pyro-and-chemistry/112-non-newtonian-speaker/)
-- [LED Cube 8x8x8](../pi-and-arduino/122-led-cube-8x8x8/)
+- [Non-Newtonian Speaker](/categories/pyro-and-chemistry/112-non-newtonian-speaker/)
+- [LED Cube 8x8x8](/categories/pi-and-arduino/122-led-cube-8x8x8/)
 

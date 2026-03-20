@@ -19,7 +19,7 @@ ratings:
 # #060 — GPU Wall Art
 
 <p align="center">
-  <img src="../../images/builds/060-gpu-wall-art.jpg" alt="GPU Wall Art" width="700" />
+  <img src="/images/builds/060-gpu-wall-art.jpg" alt="GPU Wall Art" width="700" />
 </p>
 
 > Mount dead graphics cards with LED backlighting. Title it "Proof of Work." Industrial art that hits different.
@@ -64,5 +64,5 @@ Graphics cards are some of the most visually striking pieces of engineering ever
 
 ## 🔗 See Also
 
-- [CPU Resin Jewelry](059-cpu-resin-jewelry/)
-- [Laptop Screen Monitor](061-laptop-screen-monitor/)
+- [CPU Resin Jewelry](/categories/computer-and-phone/059-cpu-resin-jewelry/)
+- [Laptop Screen Monitor](/categories/computer-and-phone/061-laptop-screen-monitor/)

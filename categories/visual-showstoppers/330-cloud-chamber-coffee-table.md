@@ -19,7 +19,7 @@ ratings:
 # #330 — Cloud Chamber Coffee Table
 
 <p align="center">
-  <img src="../../images/builds/330-cloud-chamber-coffee-table.jpg" alt="Cloud Chamber Coffee Table" width="700" />
+  <img src="/images/builds/330-cloud-chamber-coffee-table.jpg" alt="Cloud Chamber Coffee Table" width="700" />
 </p>
 
 > A functioning particle physics detector built into a coffee table — watch cosmic rays from deep space while you drink your morning coffee.
@@ -87,5 +87,5 @@ The build is mostly carpentry and plumbing with some basic electrical. The physi
 
 ## 🔗 See Also
 
-- [Cloud Chamber](../mad-scientist/041-cloud-chamber/) — the standalone benchtop version using dry ice
-- [DIY Freeze Dryer](../fridge-and-cooling/094-diy-freeze-dryer/) — another build that repurposes a fridge compressor for extreme cooling
+- [Cloud Chamber](/categories/mad-scientist/041-cloud-chamber/) — the standalone benchtop version using dry ice
+- [DIY Freeze Dryer](/categories/fridge-and-cooling/094-diy-freeze-dryer/) — another build that repurposes a fridge compressor for extreme cooling

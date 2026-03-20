@@ -19,7 +19,7 @@ ratings:
 # #220 — Ignition Coil Tesla Coil
 
 <p align="center">
-  <img src="../../images/builds/220-ignition-coil-tesla-coil.jpg" alt="Ignition Coil Tesla Coil" width="700" />
+  <img src="/images/builds/220-ignition-coil-tesla-coil.jpg" alt="Ignition Coil Tesla Coil" width="700" />
 </p>
 
 > Car ignition coil + 555 timer at audio frequencies = musical sparks at 40kV. A singing arc of purple lightning from junkyard parts.
@@ -70,6 +70,6 @@ An automotive ignition coil is a step-up transformer designed to convert 12V int
 
 ## 🔗 See Also
 
-- [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil/)
-- [Plasma Speaker](../sound-and-music/008-plasma-speaker/)
+- [Musical Tesla Coil](/categories/mad-scientist/033-musical-tesla-coil/)
+- [Plasma Speaker](/categories/sound-and-music/008-plasma-speaker/)
 

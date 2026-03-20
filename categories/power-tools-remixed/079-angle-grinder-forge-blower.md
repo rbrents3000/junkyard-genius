@@ -19,7 +19,7 @@ ratings:
 # #079 — Angle Grinder Forge Blower
 
 <p align="center">
-  <img src="../../images/builds/079-angle-grinder-forge-blower.jpg" alt="Angle Grinder Forge Blower" width="700" />
+  <img src="/images/builds/079-angle-grinder-forge-blower.jpg" alt="Angle Grinder Forge Blower" width="700" />
 </p>
 
 > Remove the grinding disc. Attach a fan blade. 10,000+ RPM airflow ducted into a forge. Way more air than a hair dryer.
@@ -62,6 +62,6 @@ A forge needs forced air to reach welding and forging temperatures — the fire 
 
 ## 🔗 See Also
 
-- [Sawzall Power Hammer](081-sawzall-power-hammer/)
-- [Circular Saw Table Saw](082-circular-saw-table-saw/)
+- [Sawzall Power Hammer](/categories/power-tools-remixed/081-sawzall-power-hammer/)
+- [Circular Saw Table Saw](/categories/power-tools-remixed/082-circular-saw-table-saw/)
 

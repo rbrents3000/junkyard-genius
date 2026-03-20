@@ -19,7 +19,7 @@ ratings:
 # #287 — Chemical LED Art Panel
 
 <p align="center">
-  <img src="../../images/builds/287-chemical-led-art-panel.jpg" alt="Chemical LED Art Panel" width="700" />
+  <img src="/images/builds/287-chemical-led-art-panel.jpg" alt="Chemical LED Art Panel" width="700" />
 </p>
 
 > A wall panel where digital light and chemical reactions merge. Sealed glass vials of color-shifting solutions backlit by programmable LEDs — living art that breathes, shifts, and never looks the same twice.
@@ -87,6 +87,6 @@ The more advanced approach uses electrochromic solutions — tungsten oxide nano
 
 ## 🔗 See Also
 
-- [LED Cube 8x8x8](../pi-and-arduino/122-led-cube-8x8x8/)
-- [Chemiluminescent Fountain](../pyro-and-chemistry/111-chemiluminescent-fountain/)
+- [LED Cube 8x8x8](/categories/pi-and-arduino/122-led-cube-8x8x8/)
+- [Chemiluminescent Fountain](/categories/pyro-and-chemistry/111-chemiluminescent-fountain/)
 

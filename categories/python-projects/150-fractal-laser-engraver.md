@@ -19,7 +19,7 @@ ratings:
 # #150 — Fractal Laser Engraver
 
 <p align="center">
-  <img src="../../images/builds/150-fractal-laser-engraver.jpg" alt="Fractal Laser Engraver" width="700" />
+  <img src="/images/builds/150-fractal-laser-engraver.jpg" alt="Fractal Laser Engraver" width="700" />
 </p>
 
 > Render Mandelbrot and Julia fractals at extreme resolution in Python, then burn them into wood or leather with a laser engraver.
@@ -66,5 +66,5 @@ Fractals are infinitely detailed mathematical structures — the Mandelbrot set,
 
 ## 🔗 See Also
 
-- [Generative Art Plotter](142-generative-art-plotter/)
-- [Glow Resin River Table](../pyro-and-chemistry/117-glow-resin-river-table/)
+- [Generative Art Plotter](/categories/python-projects/142-generative-art-plotter/)
+- [Glow Resin River Table](/categories/pyro-and-chemistry/117-glow-resin-river-table/)

@@ -19,7 +19,7 @@ ratings:
 # #119 — Thermochromic Paint
 
 <p align="center">
-  <img src="../../images/builds/119-thermochromic-paint.jpg" alt="Thermochromic Paint" width="700" />
+  <img src="/images/builds/119-thermochromic-paint.jpg" alt="Thermochromic Paint" width="700" />
 </p>
 
 > Paint that changes color with temperature — walls show handprints that fade, desks reveal hidden patterns from laptop heat.
@@ -64,6 +64,6 @@ Thermochromic pigment changes color at a specific temperature. Below the activat
 
 ## 🔗 See Also
 
-- [Thermochromic Mug](../chemical-electronic/168-thermochromic-mug/)
-- [pH Reactive Paint](../chemical-electronic/163-ph-reactive-paint/)
+- [Thermochromic Mug](/categories/chemical-electronic/168-thermochromic-mug/)
+- [pH Reactive Paint](/categories/chemical-electronic/163-ph-reactive-paint/)
 

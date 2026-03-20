@@ -19,7 +19,7 @@ ratings:
 # #002 — Lichtenberg Wood Burner
 
 <p align="center">
-  <img src="../../images/builds/002-lichtenberg-wood-burner.jpg" alt="Lichtenberg Wood Burner" width="700" />
+  <img src="/images/builds/002-lichtenberg-wood-burner.jpg" alt="Lichtenberg Wood Burner" width="700" />
 </p>
 
 > High voltage from a microwave transformer burns fractal lightning patterns into wood — nature's art, delivered at 2,000 volts.
@@ -81,6 +81,6 @@ The patterns emerge because wood grain isn't uniformly conductive. The current b
 
 ## 🔗 See Also
 
-- [Plasma Tornado Lamp](001-plasma-tornado-lamp/) — another MOT-based project with a very different aesthetic
-- [Atmospheric Reentry Simulator](006-atmospheric-reentry-simulator/) — MOT used to heat metal instead of burn wood
+- [Plasma Tornado Lamp](/categories/fire-and-plasma/001-plasma-tornado-lamp/) — another MOT-based project with a very different aesthetic
+- [Atmospheric Reentry Simulator](/categories/fire-and-plasma/006-atmospheric-reentry-simulator/) — MOT used to heat metal instead of burn wood
 

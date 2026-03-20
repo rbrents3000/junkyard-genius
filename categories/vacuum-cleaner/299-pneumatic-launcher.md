@@ -19,7 +19,7 @@ ratings:
 # #299 — Pneumatic Launcher
 
 <p align="center">
-  <img src="../../images/builds/299-pneumatic-launcher.jpg" alt="Pneumatic Launcher" width="700" />
+  <img src="/images/builds/299-pneumatic-launcher.jpg" alt="Pneumatic Launcher" width="700" />
 </p>
 
 > Vacuum motor + PVC pressure chamber + ball valve = a cannon that runs on air. Load a tennis ball. Pull the trigger. Watch it disappear.
@@ -140,7 +140,7 @@ The critical component is the release valve. A ball valve works but requires a q
 
 ## 🔗 See Also
 
-- [Vacuum Leaf Blower](078-vacuum-leaf-blower/)
-- [Vacuum Hovercraft](075-vacuum-hovercraft/)
-- [Wall-Climbing Robot](076-wall-climbing-robot/)
+- [Vacuum Leaf Blower](/categories/vacuum-cleaner/078-vacuum-leaf-blower/)
+- [Vacuum Hovercraft](/categories/vacuum-cleaner/075-vacuum-hovercraft/)
+- [Wall-Climbing Robot](/categories/vacuum-cleaner/076-wall-climbing-robot/)
 

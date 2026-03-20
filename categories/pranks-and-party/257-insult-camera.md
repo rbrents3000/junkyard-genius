@@ -19,7 +19,7 @@ ratings:
 # #257 — Fake Security Camera That Roasts You
 
 <p align="center">
-  <img src="../../images/builds/257-insult-camera.jpg" alt="Fake Security Camera That Roasts You" width="700" />
+  <img src="/images/builds/257-insult-camera.jpg" alt="Fake Security Camera That Roasts You" width="700" />
 </p>
 
 > Pi Zero + camera + speaker + face detection. Walk into the room, get personally insulted by a picture frame.
@@ -86,7 +86,7 @@ The first victim alerts everyone else in the house, and then every person has to
 
 ## 🔗 See Also
 
-- [Invisible Bluetooth Speaker](254-invisible-speaker/)
-- [Self-Pouring Bottle](258-self-pouring-bottle/)
-- [Motion-Activated Jump Scare](255-motion-jump-scare/)
+- [Invisible Bluetooth Speaker](/categories/pranks-and-party/254-invisible-speaker/)
+- [Self-Pouring Bottle](/categories/pranks-and-party/258-self-pouring-bottle/)
+- [Motion-Activated Jump Scare](/categories/pranks-and-party/255-motion-jump-scare/)
 

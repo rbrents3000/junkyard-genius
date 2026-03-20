@@ -19,7 +19,7 @@ ratings:
 # #218 — Coin Battery Stack
 
 <p align="center">
-  <img src="../../images/builds/218-coin-battery-stack.jpg" alt="Coin Battery Stack" width="700" />
+  <img src="/images/builds/218-coin-battery-stack.jpg" alt="Coin Battery Stack" width="700" />
 </p>
 
 > Copper coins, zinc washers, vinegar-soaked cardboard spacers — stack them up and you've built a voltaic pile that generates enough voltage to light an LED. The original battery, reinvented from pocket change.
@@ -69,6 +69,6 @@ It's the most fundamental demonstration of electrochemistry — you are literall
 
 ## 🔗 See Also
 
-- [Electrolysis Rust Eraser](212-electrolysis-rust-eraser/) — the reverse electrochemical process: using electricity to drive a reaction instead of generating it
-- [Electroplating Station](../chemical-electronic/156-electroplating-station/) — another electrochemistry build using copper and acid solutions
+- [Electrolysis Rust Eraser](/categories/household-chemistry/212-electrolysis-rust-eraser/) — the reverse electrochemical process: using electricity to drive a reaction instead of generating it
+- [Electroplating Station](/categories/chemical-electronic/156-electroplating-station/) — another electrochemistry build using copper and acid solutions
 

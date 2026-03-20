@@ -19,7 +19,7 @@ ratings:
 # #238 — Tin Can Banjo
 
 <p align="center">
-  <img src="../../images/builds/238-tin-can-banjo.jpg" alt="Tin Can Banjo" width="700" />
+  <img src="/images/builds/238-tin-can-banjo.jpg" alt="Tin Can Banjo" width="700" />
 </p>
 
 > A coffee can, a stick, and some strings — the most American instrument you can build for under five bucks.
@@ -76,5 +76,5 @@ The build is simpler than the cigar box guitar because the can provides a ready-
 
 ## 🔗 See Also
 
-- [Cigar Box Guitar](235-cigar-box-guitar/) — wooden box version with more low-end, similar build process
-- [Garden Hose Didgeridoo](240-garden-hose-didgeridoo/) — another instrument built from a single household item
+- [Cigar Box Guitar](/categories/junk-instruments/235-cigar-box-guitar/) — wooden box version with more low-end, similar build process
+- [Garden Hose Didgeridoo](/categories/junk-instruments/240-garden-hose-didgeridoo/) — another instrument built from a single household item

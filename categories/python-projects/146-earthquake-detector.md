@@ -19,7 +19,7 @@ ratings:
 # #146 — Earthquake Detector
 
 <p align="center">
-  <img src="../../images/builds/146-earthquake-detector.jpg" alt="Earthquake Detector" width="700" />
+  <img src="/images/builds/146-earthquake-detector.jpg" alt="Earthquake Detector" width="700" />
 </p>
 
 > Old smartphones running Phyphox stream accelerometer data to a Python server — a DIY seismograph network from e-waste.
@@ -64,6 +64,6 @@ Every smartphone contains an accelerometer — a precision sensor that detects m
 
 ## 🔗 See Also
 
-- [ESP32 Weather Station](../pi-and-arduino/132-esp32-weather-station/)
-- [EMF Ghost Detector](../pi-and-arduino/140-emf-ghost-detector/)
+- [ESP32 Weather Station](/categories/pi-and-arduino/132-esp32-weather-station/)
+- [EMF Ghost Detector](/categories/pi-and-arduino/140-emf-ghost-detector/)
 

@@ -19,7 +19,7 @@ ratings:
 # #318 — Faraday Flashlight
 
 <p align="center">
-  <img src="../../images/builds/318-faraday-flashlight.jpg" alt="Faraday Flashlight" width="700" />
+  <img src="/images/builds/318-faraday-flashlight.jpg" alt="Faraday Flashlight" width="700" />
 </p>
 
 > Shake it and it lights up — no batteries, no charging, no solar. Just magnets, a coil, and your arm.
@@ -79,7 +79,7 @@ The flashlight works effectively forever because there's nothing to wear out. No
 
 ## 🔗 See Also
 
-- [Crystal Radio](317-crystal-radio/)
-- [Hand-Crank Phone Charger](251-hand-crank-charger/)
-- [E-Waste Wind Turbine](../unholy-combos/285-e-waste-wind-turbine/)
+- [Crystal Radio](/categories/survival-off-grid/317-crystal-radio/)
+- [Hand-Crank Phone Charger](/categories/survival-off-grid/251-hand-crank-charger/)
+- [E-Waste Wind Turbine](/categories/unholy-combos/285-e-waste-wind-turbine/)
 

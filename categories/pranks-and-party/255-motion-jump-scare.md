@@ -19,7 +19,7 @@ ratings:
 # #255 — Motion-Activated Jump Scare
 
 <p align="center">
-  <img src="../../images/builds/255-motion-jump-scare.jpg" alt="Motion-Activated Jump Scare" width="700" />
+  <img src="/images/builds/255-motion-jump-scare.jpg" alt="Motion-Activated Jump Scare" width="700" />
 </p>
 
 > PIR sensor + Arduino + servo yanks a prop on fishing line. Resets itself, never gets tired. Halloween essential.
@@ -84,7 +84,7 @@ Commercial motion-activated scare props cost $50-100 and have fixed, predictable
 
 ## 🔗 See Also
 
-- [Invisible Bluetooth Speaker](254-invisible-speaker/)
-- [Piezo Shock Pen](256-shock-pen/)
-- [Fake Security Camera That Roasts You](257-insult-camera/)
+- [Invisible Bluetooth Speaker](/categories/pranks-and-party/254-invisible-speaker/)
+- [Piezo Shock Pen](/categories/pranks-and-party/256-shock-pen/)
+- [Fake Security Camera That Roasts You](/categories/pranks-and-party/257-insult-camera/)
 

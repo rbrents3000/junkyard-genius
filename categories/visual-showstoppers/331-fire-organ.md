@@ -19,7 +19,7 @@ ratings:
 # #331 — Fire Organ
 
 <p align="center">
-  <img src="../../images/builds/331-fire-organ.jpg" alt="Fire Organ" width="700" />
+  <img src="/images/builds/331-fire-organ.jpg" alt="Fire Organ" width="700" />
 </p>
 
 > A PVC pipe organ that plays music and shoots synchronized flames from every pipe — because sound alone wasn't dramatic enough.
@@ -96,6 +96,6 @@ This is not a build you rush. The propane system demands respect, the electrical
 
 ## 🔗 See Also
 
-- [PVC Pipe Organ](../junk-instruments/236-pvc-pipe-organ/) — the non-flammable version of the organ build
-- [Fire Tornado Table](../fire-and-plasma/007-fire-tornado-table/) — another fire-based visual showstopper
-- [Rubens' Tube](../sound-and-music/009-rubens-tube/) — sound + fire visualization in tube form
+- [PVC Pipe Organ](/categories/junk-instruments/236-pvc-pipe-organ/) — the non-flammable version of the organ build
+- [Fire Tornado Table](/categories/fire-and-plasma/007-fire-tornado-table/) — another fire-based visual showstopper
+- [Rubens' Tube](/categories/sound-and-music/009-rubens-tube/) — sound + fire visualization in tube form

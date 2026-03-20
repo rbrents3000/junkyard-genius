@@ -8,7 +8,7 @@ image: /images/categories/chemical-electronic.jpg
 # ⚗️ Chemical & Electronic
 
 <p align="center">
-  <img src="../../images/categories/chemical-electronic.jpg" alt="Chemical & Electronic" width="700" />
+  <img src="/images/categories/chemical-electronic.jpg" alt="Chemical & Electronic" width="700" />
 </p>
 
 <p align="center">

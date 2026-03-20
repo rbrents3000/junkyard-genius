@@ -19,7 +19,7 @@ ratings:
 # #300 — Backyard Observatory
 
 <p align="center">
-  <img src="../../images/builds/300-backyard-observatory.jpg" alt="Backyard Observatory" width="700" />
+  <img src="/images/builds/300-backyard-observatory.jpg" alt="Backyard Observatory" width="700" />
 </p>
 
 > A rotating dome, a telescope, and a Raspberry Pi that tracks Jupiter for you while you drink coffee. Your HOA will hate it. Your neighbors will love it.
@@ -182,7 +182,7 @@ vendor. You're building it for a fraction of that, and you'll understand every p
 
 ## 🔗 See Also
 
-- [Weather Balloon Launch](192-weather-balloon-launch/) — another way to get above the atmosphere, at least temporarily
-- [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse/) — similar dome construction principles, different purpose
+- [Weather Balloon Launch](/categories/big-builds/192-weather-balloon-launch/) — another way to get above the atmosphere, at least temporarily
+- [Geodesic Dome Greenhouse](/categories/big-builds/194-geodesic-dome-greenhouse/) — similar dome construction principles, different purpose
 
 

@@ -19,7 +19,7 @@ ratings:
 # #115 — Permanganate Auto-Ignition
 
 <p align="center">
-  <img src="../../images/builds/115-permanganate-auto-ignition.jpg" alt="Permanganate Auto-Ignition" width="700" />
+  <img src="/images/builds/115-permanganate-auto-ignition.jpg" alt="Permanganate Auto-Ignition" width="700" />
 </p>
 
 > Potassium permanganate meets glycerin — 30 seconds of anticipation, then spontaneous purple flames.
@@ -65,6 +65,6 @@ Potassium permanganate is a powerful oxidizer. Glycerin is a thick, syrupy fuel.
 
 ## 🔗 See Also
 
-- [Thermite Flower Pot](105-thermite-flower-pot/)
-- [Pharaoh's Serpent](110-pharaohs-serpent/)
+- [Thermite Flower Pot](/categories/pyro-and-chemistry/105-thermite-flower-pot/)
+- [Pharaoh's Serpent](/categories/pyro-and-chemistry/110-pharaohs-serpent/)
 

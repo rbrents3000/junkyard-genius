@@ -19,7 +19,7 @@ ratings:
 # #069 — Printer Stepper CNC
 
 <p align="center">
-  <img src="../../images/builds/069-printer-stepper-cnc.jpg" alt="Printer Stepper CNC" width="700" />
+  <img src="/images/builds/069-printer-stepper-cnc.jpg" alt="Printer Stepper CNC" width="700" />
 </p>
 
 > Three stepper motors from dead printers, some threaded rod, and an Arduino. Build a CNC machine that engraves, mills, or routes.
@@ -69,6 +69,6 @@ Every printer contains precision stepper motors designed for exact, repeatable m
 
 ## 🔗 See Also
 
-- [DVD Laser Engraver](071-dvd-laser-engraver/)
-- [Pen Plotter](072-pen-plotter/)
+- [DVD Laser Engraver](/categories/printer-and-scanner/071-dvd-laser-engraver/)
+- [Pen Plotter](/categories/printer-and-scanner/072-pen-plotter/)
 

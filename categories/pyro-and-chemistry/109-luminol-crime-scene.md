@@ -19,7 +19,7 @@ ratings:
 # #109 — Luminol Crime Scene
 
 <p align="center">
-  <img src="../../images/builds/109-luminol-crime-scene.jpg" alt="Luminol Crime Scene" width="700" />
+  <img src="/images/builds/109-luminol-crime-scene.jpg" alt="Luminol Crime Scene" width="700" />
 </p>
 
 > Luminol reacts with iron to produce an eerie blue glow — build fake crime scenes for Halloween and escape rooms.
@@ -65,6 +65,6 @@ Luminol is the chemical forensic investigators spray at crime scenes to reveal t
 
 ## 🔗 See Also
 
-- [Chemiluminescent Fountain](111-chemiluminescent-fountain/)
-- [Fluorescein Blacklight Fountain](118-fluorescein-blacklight-fountain/)
+- [Chemiluminescent Fountain](/categories/pyro-and-chemistry/111-chemiluminescent-fountain/)
+- [Fluorescein Blacklight Fountain](/categories/pyro-and-chemistry/118-fluorescein-blacklight-fountain/)
 

@@ -8,7 +8,7 @@ image: /images/categories/light-and-visual.jpg
 # 💡 Light & Visual
 
 <p align="center">
-  <img src="../../images/categories/light-and-visual.jpg" alt="Light & Visual" width="700" />
+  <img src="/images/categories/light-and-visual.jpg" alt="Light & Visual" width="700" />
 </p>
 
 <p align="center">

@@ -19,7 +19,7 @@ ratings:
 # #245 — Heads-Up Display Glasses
 
 <p align="center">
-  <img src="../../images/builds/245-hud-glasses.jpg" alt="Heads-Up Display Glasses" width="700" />
+  <img src="/images/builds/245-hud-glasses.jpg" alt="Heads-Up Display Glasses" width="700" />
 </p>
 
 > A micro OLED display, a prism reflector, and a 3D-printed frame turn a Raspberry Pi Zero into DIY Google Glass. Real-time data floating in your field of view for about $25.
@@ -81,6 +81,6 @@ A Raspberry Pi Zero (or ESP32 for lighter weight) drives the display. It can sho
 
 ## 🔗 See Also
 
-- [Sound-Reactive LED Face Mask](244-led-mask/)
-- [GPS Treasure Hunt Watch](247-gps-treasure-watch/)
+- [Sound-Reactive LED Face Mask](/categories/wearable-tech/244-led-mask/)
+- [GPS Treasure Hunt Watch](/categories/wearable-tech/247-gps-treasure-watch/)
 

@@ -19,7 +19,7 @@ ratings:
 # #082 — Circular Saw Table Saw
 
 <p align="center">
-  <img src="../../images/builds/082-circular-saw-table-saw.jpg" alt="Circular Saw Table Saw" width="700" />
+  <img src="/images/builds/082-circular-saw-table-saw.jpg" alt="Circular Saw Table Saw" width="700" />
 </p>
 
 > Circular saw inverted under a plywood table, blade through a slot. Add a fence. Budget table saw. Respect the blade.
@@ -69,5 +69,5 @@ A table saw is just a circular saw mounted upside down under a flat table with t
 
 ## 🔗 See Also
 
-- [Hand Drill Press](080-hand-drill-press/)
-- [Router CNC Spindle](083-router-cnc-spindle/)
+- [Hand Drill Press](/categories/power-tools-remixed/080-hand-drill-press/)
+- [Router CNC Spindle](/categories/power-tools-remixed/083-router-cnc-spindle/)

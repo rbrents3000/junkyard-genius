@@ -8,7 +8,7 @@ image: /images/categories/fridge-and-cooling.jpg
 # ❄️ Fridge & Cooling
 
 <p align="center">
-  <img src="../../images/categories/fridge-and-cooling.jpg" alt="Fridge & Cooling" width="700" />
+  <img src="/images/categories/fridge-and-cooling.jpg" alt="Fridge & Cooling" width="700" />
 </p>
 
 <p align="center">

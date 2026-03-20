@@ -19,7 +19,7 @@ ratings:
 # #004 — Thermic Lance
 
 <p align="center">
-  <img src="../../images/builds/004-thermic-lance.jpg" alt="Thermic Lance" width="700" />
+  <img src="/images/builds/004-thermic-lance.jpg" alt="Thermic Lance" width="700" />
 </p>
 
 > A steel pipe packed with iron rods and fed pure oxygen — cuts through concrete, steel, and basically anything else on Earth.
@@ -77,5 +77,5 @@ This is the same tool demolition crews use to cut apart bridges and industrial e
 
 ## 🔗 See Also
 
-- [Desktop Foundry](005-desktop-foundry/) — a gentler way to melt metal, with more control
-- [Fresnel Lens Solar Forge](../light-and-visual/020-fresnel-lens-solar-forge/) — another way to achieve metal-melting temperatures from scavenged parts
+- [Desktop Foundry](/categories/fire-and-plasma/005-desktop-foundry/) — a gentler way to melt metal, with more control
+- [Fresnel Lens Solar Forge](/categories/light-and-visual/020-fresnel-lens-solar-forge/) — another way to achieve metal-melting temperatures from scavenged parts

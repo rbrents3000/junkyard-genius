@@ -19,7 +19,7 @@ ratings:
 # #269 — Blu-Ray Laser Cutter
 
 <p align="center">
-  <img src="../../images/builds/269-blu-ray-laser-cutter.jpg" alt="Blu-Ray Laser Cutter" width="700" />
+  <img src="/images/builds/269-blu-ray-laser-cutter.jpg" alt="Blu-Ray Laser Cutter" width="700" />
 </p>
 
 > A dead PS3 contains a laser diode that cuts and etches. A dead printer contains a CNC frame. Put them together.
@@ -88,7 +88,7 @@ The result is a legitimate laser engraver/cutter built entirely from salvaged el
 
 ## 🔗 See Also
 
-- [Laser Scanning Microscope](270-laser-microscope/)
-- [Galvanometer Laser Light Show](266-laser-galvo-show/)
-- [Toaster Reflow Oven](../kitchen-hacks/260-toaster-reflow-oven/)
+- [Laser Scanning Microscope](/categories/laser-lab/270-laser-microscope/)
+- [Galvanometer Laser Light Show](/categories/laser-lab/266-laser-galvo-show/)
+- [Toaster Reflow Oven](/categories/kitchen-hacks/260-toaster-reflow-oven/)
 

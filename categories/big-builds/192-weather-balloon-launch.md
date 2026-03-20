@@ -19,7 +19,7 @@ ratings:
 # #192 — Weather Balloon Launch
 
 <p align="center">
-  <img src="../../images/builds/192-weather-balloon-launch.jpg" alt="Weather Balloon Launch" width="700" />
+  <img src="/images/builds/192-weather-balloon-launch.jpg" alt="Weather Balloon Launch" width="700" />
 </p>
 
 > Send a camera to the edge of space on a helium balloon and get it back — for less than the cost of a plane ticket.
@@ -84,6 +84,6 @@ The photos and video from near-space are genuinely breathtaking. You can see wea
 
 ## 🔗 See Also
 
-- [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse/) — another big build combining physical structure with electronics
-- [Ham Radio from Scratch](193-ham-radio-from-scratch/) — another way to reach beyond your neighborhood using DIY technology
+- [Geodesic Dome Greenhouse](/categories/big-builds/194-geodesic-dome-greenhouse/) — another big build combining physical structure with electronics
+- [Ham Radio from Scratch](/categories/big-builds/193-ham-radio-from-scratch/) — another way to reach beyond your neighborhood using DIY technology
 

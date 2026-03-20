@@ -19,7 +19,7 @@ ratings:
 # #260 — Toaster Reflow Oven
 
 <p align="center">
-  <img src="../../images/builds/260-toaster-reflow-oven.jpg" alt="Toaster Reflow Oven" width="700" />
+  <img src="/images/builds/260-toaster-reflow-oven.jpg" alt="Toaster Reflow Oven" width="700" />
 </p>
 
 > Thrift store toaster oven + PID controller + thermocouple = professional SMD soldering station for $15.
@@ -92,7 +92,7 @@ This is genuinely one of the most useful tool conversions in the entire collecti
 
 ## 🔗 See Also
 
-- [Stand Mixer Pottery Wheel](261-stand-mixer-pottery-wheel/)
-- [Coffee Maker Essential Oil Distiller](262-coffee-maker-distiller/)
-- [Blu-Ray Laser Cutter](../laser-lab/269-blu-ray-laser-cutter/)
+- [Stand Mixer Pottery Wheel](/categories/kitchen-hacks/261-stand-mixer-pottery-wheel/)
+- [Coffee Maker Essential Oil Distiller](/categories/kitchen-hacks/262-coffee-maker-distiller/)
+- [Blu-Ray Laser Cutter](/categories/laser-lab/269-blu-ray-laser-cutter/)
 

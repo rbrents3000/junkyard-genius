@@ -19,7 +19,7 @@ ratings:
 # #253 — Rocket Stove
 
 <p align="center">
-  <img src="../../images/builds/253-rocket-stove.jpg" alt="Rocket Stove" width="700" />
+  <img src="/images/builds/253-rocket-stove.jpg" alt="Rocket Stove" width="700" />
 </p>
 
 > An L-shaped tin can inferno that boils water with a handful of twigs. 10x more efficient than an open fire.
@@ -85,6 +85,6 @@ The design was developed in the 1980s by Dr. Larry Winiarski for use in developi
 
 ## 🔗 See Also
 
-- [Gravity Water Filter](250-gravity-water-filter/)
-- [Solar Still](248-solar-still/)
-- [Biogas Generator](249-biogas-generator/)
+- [Gravity Water Filter](/categories/survival-off-grid/250-gravity-water-filter/)
+- [Solar Still](/categories/survival-off-grid/248-solar-still/)
+- [Biogas Generator](/categories/survival-off-grid/249-biogas-generator/)

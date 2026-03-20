@@ -19,7 +19,7 @@ ratings:
 # #274 — Peltier Fog Chiller
 
 <p align="center">
-  <img src="../../images/builds/274-peltier-fog-chiller.jpg" alt="Peltier Fog Chiller" width="700" />
+  <img src="/images/builds/274-peltier-fog-chiller.jpg" alt="Peltier Fog Chiller" width="700" />
 </p>
 
 > A thermoelectric cooler chills fog machine output so it crawls along the ground like a horror movie set. Dry ice vibes, no dry ice needed.
@@ -82,7 +82,7 @@ The effect is genuinely dramatic. Cold fog behaves like a fluid — it pools in 
 
 ## 🔗 See Also
 
-- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine/)
-- [Fog Waterfall Table](086-fog-waterfall-table/)
-- [Nebula Lamp](087-nebula-lamp/)
+- [Ultrasonic Fog Machine](/categories/humidifier-and-water/084-ultrasonic-fog-machine/)
+- [Fog Waterfall Table](/categories/humidifier-and-water/086-fog-waterfall-table/)
+- [Nebula Lamp](/categories/humidifier-and-water/087-nebula-lamp/)
 

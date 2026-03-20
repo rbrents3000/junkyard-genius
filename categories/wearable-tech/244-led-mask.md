@@ -19,7 +19,7 @@ ratings:
 # #244 — Sound-Reactive LED Face Mask
 
 <p align="center">
-  <img src="../../images/builds/244-led-mask.jpg" alt="Sound-Reactive LED Face Mask" width="700" />
+  <img src="/images/builds/244-led-mask.jpg" alt="Sound-Reactive LED Face Mask" width="700" />
 </p>
 
 > An LED matrix behind a translucent mask driven by an ESP32 and microphone. Your mouth moves when you talk, your face glows when the beat drops, and everyone at the party wants to know where you got it.
@@ -81,6 +81,6 @@ The mouth tracking is the killer feature. The microphone picks up your voice (it
 
 ## 🔗 See Also
 
-- [Sound-Reactive LED Jacket](242-led-jacket/)
-- [Heads-Up Display Glasses](245-hud-glasses/)
+- [Sound-Reactive LED Jacket](/categories/wearable-tech/242-led-jacket/)
+- [Heads-Up Display Glasses](/categories/wearable-tech/245-hud-glasses/)
 

@@ -19,7 +19,7 @@ ratings:
 # #206 — Drone LiPo Powerwall
 
 <p align="center">
-  <img src="../../images/builds/206-drone-lipo-powerwall.jpg" alt="Drone LiPo Powerwall" width="700" />
+  <img src="/images/builds/206-drone-lipo-powerwall.jpg" alt="Drone LiPo Powerwall" width="700" />
 </p>
 
 > Harvest lithium polymer cells from dead drone battery packs, test them individually, and assemble a portable power station with real capacity.
@@ -72,6 +72,6 @@ The economics are compelling: used drone batteries sell for $5-$15 on eBay as "f
 
 ## 🔗 See Also
 
-- [Drone Motor Wind Turbine](204-drone-motor-wind-turbine/) — charge this powerwall with wind energy from drone motors
-- [DIY Powerwall](../power-and-energy/052-diy-powerwall/) — larger-scale powerwall from laptop 18650 cells
+- [Drone Motor Wind Turbine](/categories/drone-salvage/204-drone-motor-wind-turbine/) — charge this powerwall with wind energy from drone motors
+- [DIY Powerwall](/categories/power-and-energy/052-diy-powerwall/) — larger-scale powerwall from laptop 18650 cells
 

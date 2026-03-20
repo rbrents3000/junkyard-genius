@@ -8,7 +8,7 @@ image: /images/categories/laser-lab.jpg
 # 🎯 Laser Lab
 
 <p align="center">
-  <img src="../../images/categories/laser-lab.jpg" alt="Laser Lab" width="700" />
+  <img src="/images/categories/laser-lab.jpg" alt="Laser Lab" width="700" />
 </p>
 
 <p align="center">

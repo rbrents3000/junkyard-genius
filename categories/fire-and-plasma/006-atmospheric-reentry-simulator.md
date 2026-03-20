@@ -19,7 +19,7 @@ ratings:
 # #006 — Atmospheric Reentry Simulator
 
 <p align="center">
-  <img src="../../images/builds/006-atmospheric-reentry-simulator.jpg" alt="Atmospheric Reentry Simulator" width="700" />
+  <img src="/images/builds/006-atmospheric-reentry-simulator.jpg" alt="Atmospheric Reentry Simulator" width="700" />
 </p>
 
 > Use a microwave transformer to heat metal samples until they glow, melt, and behave like spacecraft shielding during reentry.
@@ -80,6 +80,6 @@ You can test different metals and alloys side by side: watch how steel glows and
 
 ## 🔗 See Also
 
-- [Lichtenberg Wood Burner](002-lichtenberg-wood-burner/) — same MOT, different application (high voltage through wood instead of high current through metal)
-- [Desktop Foundry](005-desktop-foundry/) — if you want to actually collect and cast the molten metal
+- [Lichtenberg Wood Burner](/categories/fire-and-plasma/002-lichtenberg-wood-burner/) — same MOT, different application (high voltage through wood instead of high current through metal)
+- [Desktop Foundry](/categories/fire-and-plasma/005-desktop-foundry/) — if you want to actually collect and cast the molten metal
 

@@ -19,7 +19,7 @@ ratings:
 # #055 — Levitating Plasma Speaker
 
 <p align="center">
-  <img src="../../images/builds/055-levitating-plasma-speaker.jpg" alt="Levitating Plasma Speaker" width="700" />
+  <img src="/images/builds/055-levitating-plasma-speaker.jpg" alt="Levitating Plasma Speaker" width="700" />
 </p>
 
 > A magnetically levitating plasma arc that plays music. An electromagnetic levitator holds a metal electrode in mid-air while a modulated high-voltage arc sings from it. Three impossible things happening at once.
@@ -39,8 +39,8 @@ The control systems are independent: the levitation PID loop stabilizes the elec
 <details>
 <summary><strong>🧰 Ingredients</strong></summary>
 
-- [ ] Electromagnetic levitation system — electromagnet + Hall sensor + PID controller + MOSFET, from build #038 *(see [Electromagnetic Levitator](../mad-scientist/038-electromagnetic-levitator/))*
-- [ ] Musical plasma arc system — flyback transformer + audio-modulated driver, from build #033 *(see [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil/))*
+- [ ] Electromagnetic levitation system — electromagnet + Hall sensor + PID controller + MOSFET, from build #038 *(see [Electromagnetic Levitator](/categories/mad-scientist/038-electromagnetic-levitator/))*
+- [ ] Musical plasma arc system — flyback transformer + audio-modulated driver, from build #033 *(see [Musical Tesla Coil](/categories/mad-scientist/033-musical-tesla-coil/))*
 - [ ] Levitated electrode — small ferromagnetic metal piece (steel or iron) with a sharp point for arc emission *(machined or ground from steel rod)*
 - [ ] Ground electrode — metal rod or sphere, mounted below the levitated electrode *(hardware store)*
 - [ ] High-voltage flexible wire — silicone-insulated, thin enough to not destabilize the levitation *(electronics supplier)*
@@ -75,5 +75,5 @@ The control systems are independent: the levitation PID loop stabilizes the elec
 
 ## 🔗 See Also
 
-- [Electromagnetic Levitator](../mad-scientist/038-electromagnetic-levitator/)
-- [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil/)
+- [Electromagnetic Levitator](/categories/mad-scientist/038-electromagnetic-levitator/)
+- [Musical Tesla Coil](/categories/mad-scientist/033-musical-tesla-coil/)

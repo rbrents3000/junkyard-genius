@@ -19,7 +19,7 @@ ratings:
 # #182 — Stirling Engine
 
 <p align="center">
-  <img src="../../images/builds/182-stirling-engine.jpg" alt="Stirling Engine" width="700" />
+  <img src="/images/builds/182-stirling-engine.jpg" alt="Stirling Engine" width="700" />
 </p>
 
 > Two soda cans, a balloon, and a candle walk into a garage — and walk out as a working heat engine.
@@ -78,6 +78,6 @@ This build uses two soda cans as the hot and cold chambers, a balloon membrane a
 
 ## 🔗 See Also
 
-- [Curie Engine](189-curie-engine/) — another heat-powered motor, this one using magnetic phase transitions
-- [Musical Marble Machine](181-musical-marble-machine/) — a much larger mechanical build if you want to level up
+- [Curie Engine](/categories/mechanical-and-kinetic/189-curie-engine/) — another heat-powered motor, this one using magnetic phase transitions
+- [Musical Marble Machine](/categories/mechanical-and-kinetic/181-musical-marble-machine/) — a much larger mechanical build if you want to level up
 

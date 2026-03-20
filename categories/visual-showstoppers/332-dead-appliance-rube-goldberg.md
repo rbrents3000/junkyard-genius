@@ -19,7 +19,7 @@ ratings:
 # #332 — Dead Appliance Rube Goldberg
 
 <p align="center">
-  <img src="../../images/builds/332-dead-appliance-rube-goldberg.jpg" alt="Dead Appliance Rube Goldberg" width="700" />
+  <img src="/images/builds/332-dead-appliance-rube-goldberg.jpg" alt="Dead Appliance Rube Goldberg" width="700" />
 </p>
 
 > A massive chain-reaction machine built entirely from dead appliance guts — near-zero cost, one hundred percent junkyard spectacle.
@@ -86,5 +86,5 @@ This build is pure creative problem-solving. There is no schematic because no tw
 
 ## 🔗 See Also
 
-- [Musical Marble Machine](../mechanical-and-kinetic/181-musical-marble-machine/) — another precision mechanical build driven by gravity and patience
-- [Chain Fountain](../mechanical-and-kinetic/184-chain-fountain/) — a simpler chain-reaction physics demo with spectacular results
+- [Musical Marble Machine](/categories/mechanical-and-kinetic/181-musical-marble-machine/) — another precision mechanical build driven by gravity and patience
+- [Chain Fountain](/categories/mechanical-and-kinetic/184-chain-fountain/) — a simpler chain-reaction physics demo with spectacular results

@@ -19,7 +19,7 @@ ratings:
 # #083 — Router CNC Spindle
 
 <p align="center">
-  <img src="../../images/builds/083-router-cnc-spindle.jpg" alt="Router CNC Spindle" width="700" />
+  <img src="/images/builds/083-router-cnc-spindle.jpg" alt="Router CNC Spindle" width="700" />
 </p>
 
 > Wood routers spin at 25,000+ RPM with a collet that holds bits. That makes them excellent CNC spindles for cutting wood, aluminum, and plastic.
@@ -36,7 +36,7 @@ A CNC spindle is a high-speed motor with a collet that holds cutting bits. Comme
 <summary><strong>🧰 Ingredients</strong></summary>
 
 - [ ] Wood router — compact/trim router preferred (lighter, easier to mount) *(already own or thrift store)*
-- [ ] CNC machine — your existing build or a kit *(see [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc/))*
+- [ ] CNC machine — your existing build or a kit *(see [Printer Stepper CNC](/categories/printer-and-scanner/069-printer-stepper-cnc/))*
 - [ ] Router mount/clamp — 3D printed or machined aluminum bracket sized to your router diameter *(workshop)*
 - [ ] 1/8" collet adapter — if your router only has a 1/4" collet, an adapter lets you use smaller CNC bits *(~$8, tool supplier)*
 - [ ] CNC end mills — 1/8" shank, upcut spiral for wood/plastic, single-flute for aluminum *(~$10 for a set, tool supplier)*
@@ -64,6 +64,6 @@ A CNC spindle is a high-speed motor with a collet that holds cutting bits. Comme
 
 ## 🔗 See Also
 
-- [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc/)
-- [Hand Drill Press](080-hand-drill-press/)
+- [Printer Stepper CNC](/categories/printer-and-scanner/069-printer-stepper-cnc/)
+- [Hand Drill Press](/categories/power-tools-remixed/080-hand-drill-press/)
 

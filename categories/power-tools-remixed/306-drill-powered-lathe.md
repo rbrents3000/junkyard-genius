@@ -19,7 +19,7 @@ ratings:
 # #306 — Drill-Powered Lathe
 
 <p align="center">
-  <img src="../../images/builds/306-drill-powered-lathe.jpg" alt="Drill-Powered Lathe" width="700" />
+  <img src="/images/builds/306-drill-powered-lathe.jpg" alt="Drill-Powered Lathe" width="700" />
 </p>
 
 > Hand drill clamped in a wooden cradle + tailstock from a bolt and bearing. Functional wood lathe. Variable speed via the trigger.
@@ -157,6 +157,6 @@ Roll up sleeves, tie back hair, remove rings, and never wear gloves while the la
 
 ## 🔗 See Also
 
-- [Hand Drill Press](080-hand-drill-press/)
-- [Circular Saw Table Saw](082-circular-saw-table-saw/)
+- [Hand Drill Press](/categories/power-tools-remixed/080-hand-drill-press/)
+- [Circular Saw Table Saw](/categories/power-tools-remixed/082-circular-saw-table-saw/)
 

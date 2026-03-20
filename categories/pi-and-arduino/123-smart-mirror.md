@@ -19,7 +19,7 @@ ratings:
 # #123 — Smart Mirror
 
 <p align="center">
-  <img src="../../images/builds/123-smart-mirror.jpg" alt="Smart Mirror" width="700" />
+  <img src="/images/builds/123-smart-mirror.jpg" alt="Smart Mirror" width="700" />
 </p>
 
 > An old monitor behind one-way mirror glass, running a Pi with MagicMirror² — time, weather, calendar, and news at a glance.
@@ -68,6 +68,6 @@ A smart mirror looks like a normal mirror until it turns on — then text and gr
 
 ## 🔗 See Also
 
-- [Deepfake Mirror](../python-projects/153-deepfake-mirror/)
-- [Pi-hole Ad Blocker](139-pi-hole-ad-blocker/)
+- [Deepfake Mirror](/categories/python-projects/153-deepfake-mirror/)
+- [Pi-hole Ad Blocker](/categories/pi-and-arduino/139-pi-hole-ad-blocker/)
 

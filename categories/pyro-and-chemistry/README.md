@@ -8,7 +8,7 @@ image: /images/categories/pyro-and-chemistry.jpg
 # 🧪 Pyro & Chemistry
 
 <p align="center">
-  <img src="../../images/categories/pyro-and-chemistry.jpg" alt="Pyro & Chemistry" width="700" />
+  <img src="/images/categories/pyro-and-chemistry.jpg" alt="Pyro & Chemistry" width="700" />
 </p>
 
 <p align="center">

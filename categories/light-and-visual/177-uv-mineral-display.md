@@ -19,7 +19,7 @@ ratings:
 # #177 — UV Mineral Display
 
 <p align="center">
-  <img src="../../images/builds/177-uv-mineral-display.jpg" alt="UV Mineral Display" width="700" />
+  <img src="/images/builds/177-uv-mineral-display.jpg" alt="UV Mineral Display" width="700" />
 </p>
 
 > Collect fluorescent minerals and display them under UV light — ordinary-looking rocks that glow like radioactive alien crystals.
@@ -74,5 +74,5 @@ Building a UV mineral display means collecting fluorescent specimens and mountin
 
 ## 🔗 See Also
 
-- [UV Reactive Water Wall](023-uv-reactive-water-wall/) — UV fluorescence in liquid form
-- [Polarization Art](174-polarization-art/) — another hidden visual phenomenon revealed through physics
+- [UV Reactive Water Wall](/categories/light-and-visual/023-uv-reactive-water-wall/) — UV fluorescence in liquid form
+- [Polarization Art](/categories/light-and-visual/174-polarization-art/) — another hidden visual phenomenon revealed through physics

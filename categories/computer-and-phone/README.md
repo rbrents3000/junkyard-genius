@@ -8,7 +8,7 @@ image: /images/categories/computer-and-phone.jpg
 # 💻 Computer & Phone Parts
 
 <p align="center">
-  <img src="../../images/categories/computer-and-phone.jpg" alt="Computer & Phone Parts" width="700" />
+  <img src="/images/categories/computer-and-phone.jpg" alt="Computer & Phone Parts" width="700" />
 </p>
 
 <p align="center">

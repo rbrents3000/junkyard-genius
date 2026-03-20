@@ -19,7 +19,7 @@ ratings:
 # #232 — Carbide Spark Plug Repeater
 
 <p align="center">
-  <img src="../../images/builds/232-carbide-spark-plug-repeater.jpg" alt="Carbide Spark Plug Repeater" width="700" />
+  <img src="/images/builds/232-carbide-spark-plug-repeater.jpg" alt="Carbide Spark Plug Repeater" width="700" />
 </p>
 
 > Calcium carbide + water makes acetylene. A spark plug on a timer fires it. Refueled by rocks and water. A repeating cannon that runs on geology.
@@ -71,6 +71,6 @@ Calcium carbide is a gray, rocky mineral. Add water and it produces acetylene ga
 
 ## 🔗 See Also
 
-- [Calcium Carbide Cannon](../pyro-and-chemistry/116-calcium-carbide-cannon/)
-- [Spark Plug Cannon](../junkyard-auto/223-spark-plug-cannon/)
+- [Calcium Carbide Cannon](/categories/pyro-and-chemistry/116-calcium-carbide-cannon/)
+- [Spark Plug Cannon](/categories/junkyard-auto/223-spark-plug-cannon/)
 

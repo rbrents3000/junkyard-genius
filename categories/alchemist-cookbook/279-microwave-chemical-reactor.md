@@ -19,7 +19,7 @@ ratings:
 # #279 — Microwave Chemical Reactor
 
 <p align="center">
-  <img src="../../images/builds/279-microwave-chemical-reactor.jpg" alt="Microwave Chemical Reactor" width="700" />
+  <img src="/images/builds/279-microwave-chemical-reactor.jpg" alt="Microwave Chemical Reactor" width="700" />
 </p>
 
 > Rip the guts out of a microwave, build a custom reaction chamber with borosilicate glassware, and run chemical syntheses in minutes that would take hours on a hot plate.
@@ -83,6 +83,6 @@ The applications are surprisingly broad. You can do rapid esterification reactio
 
 ## 🔗 See Also
 
-- [Capacitor Bank Plasma Igniter](275-capacitor-bank-plasma-igniter/)
-- [Electrolysis Rust Eraser](../household-chemistry/212-electrolysis-rust-eraser/)
+- [Capacitor Bank Plasma Igniter](/categories/alchemist-cookbook/275-capacitor-bank-plasma-igniter/)
+- [Electrolysis Rust Eraser](/categories/household-chemistry/212-electrolysis-rust-eraser/)
 

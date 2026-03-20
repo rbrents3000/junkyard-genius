@@ -19,7 +19,7 @@ ratings:
 # #031 — Silent Compressor
 
 <p align="center">
-  <img src="../../images/builds/031-silent-compressor.jpg" alt="Silent Compressor" width="700" />
+  <img src="/images/builds/031-silent-compressor.jpg" alt="Silent Compressor" width="700" />
 </p>
 
 > A fridge compressor is engineered to run 24/7 at barely audible levels. Pipe it to a tank and you've got the quietest air compressor in existence.
@@ -70,6 +70,6 @@ Disconnect it from the refrigerant system and plumb it to a small air tank, and 
 
 ## 🔗 See Also
 
-- [Powder Coating Oven](028-powder-coating-oven/)
-- [Vacuum Chamber](../mad-scientist/039-vacuum-chamber/)
+- [Powder Coating Oven](/categories/functional-machines/028-powder-coating-oven/)
+- [Vacuum Chamber](/categories/mad-scientist/039-vacuum-chamber/)
 

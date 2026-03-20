@@ -19,7 +19,7 @@ ratings:
 # #248 — Solar Still
 
 <p align="center">
-  <img src="../../images/builds/248-solar-still.jpg" alt="Solar Still" width="700" />
+  <img src="/images/builds/248-solar-still.jpg" alt="Solar Still" width="700" />
 </p>
 
 > Plastic over pit + collection cup = distilled water from sun.
@@ -64,5 +64,5 @@ A solar still uses the sun to evaporate water from moist soil, contaminated wate
 
 ## 🔗 See Also
 
-- [Gravity Water Filter](250-gravity-water-filter/)
-- [Rocket Stove](253-rocket-stove/)
+- [Gravity Water Filter](/categories/survival-off-grid/250-gravity-water-filter/)
+- [Rocket Stove](/categories/survival-off-grid/253-rocket-stove/)

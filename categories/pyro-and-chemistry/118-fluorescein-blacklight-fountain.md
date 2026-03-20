@@ -19,7 +19,7 @@ ratings:
 # #118 — Fluorescein Blacklight Fountain
 
 <p align="center">
-  <img src="../../images/builds/118-fluorescein-blacklight-fountain.jpg" alt="Fluorescein Blacklight Fountain" width="700" />
+  <img src="/images/builds/118-fluorescein-blacklight-fountain.jpg" alt="Fluorescein Blacklight Fountain" width="700" />
 </p>
 
 > A tiny amount of fluorescein dye makes water glow INTENSE neon green under UV — pump it through a fountain for a radioactive look.
@@ -64,6 +64,6 @@ Fluorescein is a dye that absorbs UV light and re-emits it as visible neon green
 
 ## 🔗 See Also
 
-- [Chemiluminescent Fountain](111-chemiluminescent-fountain/)
-- [Luminol Crime Scene](109-luminol-crime-scene/)
+- [Chemiluminescent Fountain](/categories/pyro-and-chemistry/111-chemiluminescent-fountain/)
+- [Luminol Crime Scene](/categories/pyro-and-chemistry/109-luminol-crime-scene/)
 

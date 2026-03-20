@@ -19,7 +19,7 @@ ratings:
 # #050 — Bicycle Generator
 
 <p align="center">
-  <img src="../../images/builds/050-bicycle-generator.jpg" alt="Bicycle Generator" width="700" />
+  <img src="/images/builds/050-bicycle-generator.jpg" alt="Bicycle Generator" width="700" />
 </p>
 
 > An old bicycle, a salvaged motor used as a generator, and a charge controller. Pedal power that charges batteries, runs lights, and powers small electronics.
@@ -69,6 +69,6 @@ A fit cyclist produces about 75-150 watts sustained. That's enough to charge a p
 
 ## 🔗 See Also
 
-- [Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger/)
-- [DIY Powerwall](052-diy-powerwall/)
+- [Campfire Thermoelectric Charger](/categories/power-and-energy/049-campfire-thermoelectric-charger/)
+- [DIY Powerwall](/categories/power-and-energy/052-diy-powerwall/)
 

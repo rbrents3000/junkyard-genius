@@ -19,7 +19,7 @@ ratings:
 # #210 — Hand Sanitizer Fire Art
 
 <p align="center">
-  <img src="../../images/builds/210-hand-sanitizer-fire-art.jpg" alt="Hand Sanitizer Fire Art" width="700" />
+  <img src="/images/builds/210-hand-sanitizer-fire-art.jpg" alt="Hand Sanitizer Fire Art" width="700" />
 </p>
 
 > Hand sanitizer gel burns with a clean blue flame that barely radiates heat — squeeze patterns on a fireproof surface and write in fire.
@@ -66,6 +66,6 @@ This is the build that goes viral. Fire writing in a dark room, filmed from abov
 
 ## 🔗 See Also
 
-- [Alcohol Vapor Cannon](209-alcohol-vapor-cannon/) — another build exploiting alcohol combustion
-- [Colored Fire](../pyro-and-chemistry/101-colored-fire/) — different chemical approaches to colored flames
+- [Alcohol Vapor Cannon](/categories/household-chemistry/209-alcohol-vapor-cannon/) — another build exploiting alcohol combustion
+- [Colored Fire](/categories/pyro-and-chemistry/101-colored-fire/) — different chemical approaches to colored flames
 

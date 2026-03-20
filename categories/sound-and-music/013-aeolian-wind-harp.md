@@ -19,7 +19,7 @@ ratings:
 # #013 — Aeolian Wind Harp
 
 <p align="center">
-  <img src="../../images/builds/013-aeolian-wind-harp.jpg" alt="Aeolian Wind Harp" width="700" />
+  <img src="/images/builds/013-aeolian-wind-harp.jpg" alt="Aeolian Wind Harp" width="700" />
 </p>
 
 > Strings tuned to resonate with the wind — place it outside and it plays haunting chords entirely on its own.
@@ -73,5 +73,5 @@ Named after Aeolus, the Greek god of wind, these instruments date back thousands
 
 ## 🔗 See Also
 
-- [Thunder Drum](012-thunder-drum/) — another instrument that produces sounds from natural/ambient forces
-- [Fire Tornado Table](../fire-and-plasma/007-fire-tornado-table/) — another project that harnesses natural forces for dramatic effect
+- [Thunder Drum](/categories/sound-and-music/012-thunder-drum/) — another instrument that produces sounds from natural/ambient forces
+- [Fire Tornado Table](/categories/fire-and-plasma/007-fire-tornado-table/) — another project that harnesses natural forces for dramatic effect

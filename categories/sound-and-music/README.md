@@ -8,7 +8,7 @@ image: /images/categories/sound-and-music.jpg
 # 🔊 Sound & Music
 
 <p align="center">
-  <img src="../../images/categories/sound-and-music.jpg" alt="Sound & Music" width="700" />
+  <img src="/images/categories/sound-and-music.jpg" alt="Sound & Music" width="700" />
 </p>
 
 <p align="center">

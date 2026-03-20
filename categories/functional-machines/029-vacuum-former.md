@@ -19,7 +19,7 @@ ratings:
 # #029 — Vacuum Former
 
 <p align="center">
-  <img src="../../images/builds/029-vacuum-former.jpg" alt="Vacuum Former" width="700" />
+  <img src="/images/builds/029-vacuum-former.jpg" alt="Vacuum Former" width="700" />
 </p>
 
 > Heat plastic sheet, drape it over a mold, suck the air out. Perfect copies of anything, for almost nothing.
@@ -69,5 +69,5 @@ An oven provides the heat. A vacuum cleaner provides the suction. A plywood fram
 
 ## 🔗 See Also
 
-- [Powder Coating Oven](028-powder-coating-oven/)
-- [Electrostatic Precipitator](030-electrostatic-precipitator/)
+- [Powder Coating Oven](/categories/functional-machines/028-powder-coating-oven/)
+- [Electrostatic Precipitator](/categories/functional-machines/030-electrostatic-precipitator/)

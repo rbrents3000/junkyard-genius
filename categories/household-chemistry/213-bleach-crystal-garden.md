@@ -19,7 +19,7 @@ ratings:
 # #213 — Bleach Crystal Garden
 
 <p align="center">
-  <img src="../../images/builds/213-bleach-crystal-garden.jpg" alt="Bleach Crystal Garden" width="700" />
+  <img src="/images/builds/213-bleach-crystal-garden.jpg" alt="Bleach Crystal Garden" width="700" />
 </p>
 
 > Bleach, liquid bluing, ammonia, and water dripped on charcoal briquettes. Come back in a few hours and you’ve got an alien landscape of delicate white and colored crystals growing right out of the charcoal.
@@ -75,6 +75,6 @@ The really fun part is adding color. Drop food coloring directly onto the charco
 
 ## 🔗 See Also
 
-- [Copper Plating with Vinegar](328-copper-plating-with-vinegar/)
-- [Electrolysis Rust Eraser](212-electrolysis-rust-eraser/)
+- [Copper Plating with Vinegar](/categories/household-chemistry/328-copper-plating-with-vinegar/)
+- [Electrolysis Rust Eraser](/categories/household-chemistry/212-electrolysis-rust-eraser/)
 

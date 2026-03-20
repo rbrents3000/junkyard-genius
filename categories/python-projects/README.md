@@ -8,7 +8,7 @@ image: /images/categories/python-projects.jpg
 # 🐍 Python Projects
 
 <p align="center">
-  <img src="../../images/categories/python-projects.jpg" alt="Python Projects" width="700" />
+  <img src="/images/categories/python-projects.jpg" alt="Python Projects" width="700" />
 </p>
 
 <p align="center">

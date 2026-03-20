@@ -19,7 +19,7 @@ ratings:
 # #259 — Magnetic Levitating Display Stand
 
 <p align="center">
-  <img src="../../images/builds/259-magnetic-levitating-display.jpg" alt="Magnetic Levitating Display Stand" width="700" />
+  <img src="/images/builds/259-magnetic-levitating-display.jpg" alt="Magnetic Levitating Display Stand" width="700" />
 </p>
 
 > Electromagnet + hall sensor + PID feedback loop. Objects float in mid-air with no strings, no supports, no tricks.
@@ -90,7 +90,7 @@ You can levitate anything that has a magnet embedded in it: a globe, a light bul
 
 ## 🔗 See Also
 
-- [Self-Pouring Bottle](258-self-pouring-bottle/)
-- [Laser Spirograph](../laser-lab/271-laser-spirograph/)
-- [Invisible Bluetooth Speaker](254-invisible-speaker/)
+- [Self-Pouring Bottle](/categories/pranks-and-party/258-self-pouring-bottle/)
+- [Laser Spirograph](/categories/laser-lab/271-laser-spirograph/)
+- [Invisible Bluetooth Speaker](/categories/pranks-and-party/254-invisible-speaker/)
 

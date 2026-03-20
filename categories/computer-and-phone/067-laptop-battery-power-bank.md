@@ -19,7 +19,7 @@ ratings:
 # #067 — Laptop Battery Power Bank
 
 <p align="center">
-  <img src="../../images/builds/067-laptop-battery-power-bank.jpg" alt="Laptop Battery Power Bank" width="700" />
+  <img src="/images/builds/067-laptop-battery-power-bank.jpg" alt="Laptop Battery Power Bank" width="700" />
 </p>
 
 > Dead laptop battery? The 18650 cells inside are probably fine. Add a $3 BMS board and a $2 USB converter. 20,000+ mAh power bank for $5.
@@ -67,5 +67,5 @@ When a laptop battery "dies," usually only 1-2 of the 6-9 cells inside have fail
 
 ## 🔗 See Also
 
-- [Phone Sensor Network](064-phone-sensor-network/)
-- [RAM Stick Ruler](068-ram-stick-ruler/)
+- [Phone Sensor Network](/categories/computer-and-phone/064-phone-sensor-network/)
+- [RAM Stick Ruler](/categories/computer-and-phone/068-ram-stick-ruler/)

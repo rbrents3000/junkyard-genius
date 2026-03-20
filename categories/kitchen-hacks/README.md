@@ -8,7 +8,7 @@ image: /images/categories/kitchen-hacks.jpg
 # 🍴 Kitchen Appliance Hacks
 
 <p align="center">
-  <img src="../../images/categories/kitchen-hacks.jpg" alt="Kitchen Appliance Hacks" width="700" />
+  <img src="/images/categories/kitchen-hacks.jpg" alt="Kitchen Appliance Hacks" width="700" />
 </p>
 
 <p align="center">

@@ -19,7 +19,7 @@ ratings:
 # #103 — Smoke Bomb Array
 
 <p align="center">
-  <img src="../../images/builds/103-smoke-bomb-array.jpg" alt="Smoke Bomb Array" width="700" />
+  <img src="/images/builds/103-smoke-bomb-array.jpg" alt="Smoke Bomb Array" width="700" />
 </p>
 
 > KNO3 and sugar fused into smoke bombs, sequenced with a Pi controller for synchronized color eruptions.
@@ -71,6 +71,6 @@ Potassium nitrate (stump remover from the hardware store) mixed with sugar creat
 
 ## 🔗 See Also
 
-- [Fireworks Sequencer](../pi-and-arduino/121-fireworks-sequencer/)
-- [Colored Fire](101-colored-fire/)
+- [Fireworks Sequencer](/categories/pi-and-arduino/121-fireworks-sequencer/)
+- [Colored Fire](/categories/pyro-and-chemistry/101-colored-fire/)
 

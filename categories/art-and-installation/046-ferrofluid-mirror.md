@@ -19,7 +19,7 @@ ratings:
 # #046 — Ferrofluid Mirror
 
 <p align="center">
-  <img src="../../images/builds/046-ferrofluid-mirror.jpg" alt="Ferrofluid Mirror" width="700" />
+  <img src="/images/builds/046-ferrofluid-mirror.jpg" alt="Ferrofluid Mirror" width="700" />
 </p>
 
 > An array of electromagnets behind glass controls a pool of ferrofluid — a magnetic liquid that spikes, morphs, and dances like a living creature. The most hypnotic display you can build.
@@ -73,6 +73,6 @@ The result looks like something from a science fiction film. Visitors can't stop
 
 ## 🔗 See Also
 
-- [Anti-Gravity Water Fountain](044-antigravity-water-fountain/)
-- [Singing Ferrofluid Tornado](../unholy-combos/053-singing-ferrofluid-tornado/)
+- [Anti-Gravity Water Fountain](/categories/art-and-installation/044-antigravity-water-fountain/)
+- [Singing Ferrofluid Tornado](/categories/unholy-combos/053-singing-ferrofluid-tornado/)
 

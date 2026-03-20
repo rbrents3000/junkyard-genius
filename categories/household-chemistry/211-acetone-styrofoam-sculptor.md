@@ -19,7 +19,7 @@ ratings:
 # #211 — Acetone Styrofoam Sculptor
 
 <p align="center">
-  <img src="../../images/builds/211-acetone-styrofoam-sculptor.jpg" alt="Acetone Styrofoam Sculptor" width="700" />
+  <img src="/images/builds/211-acetone-styrofoam-sculptor.jpg" alt="Acetone Styrofoam Sculptor" width="700" />
 </p>
 
 > Acetone dissolves expanded polystyrene on contact, collapsing a trash bag of packing peanuts into a dense, moldable putty you can sculpt into anything.
@@ -66,6 +66,6 @@ The visual effect of styrofoam dissolving in acetone is dramatic on its own — 
 
 ## 🔗 See Also
 
-- [Density Tower](280-density-tower/) — another build that exploits liquid-material interactions for visual effect
-- [Electroforming Art](../chemical-electronic/160-electroforming-art/) — coat your polystyrene sculptures in real copper
+- [Density Tower](/categories/household-chemistry/280-density-tower/) — another build that exploits liquid-material interactions for visual effect
+- [Electroforming Art](/categories/chemical-electronic/160-electroforming-art/) — coat your polystyrene sculptures in real copper
 

@@ -19,7 +19,7 @@ ratings:
 # #116 — Calcium Carbide Cannon
 
 <p align="center">
-  <img src="../../images/builds/116-calcium-carbide-cannon.jpg" alt="Calcium Carbide Cannon" width="700" />
+  <img src="/images/builds/116-calcium-carbide-cannon.jpg" alt="Calcium Carbide Cannon" width="700" />
 </p>
 
 > Calcium carbide and water produce acetylene gas — contain it, ignite it, and get a massive bang with a flame jet.
@@ -69,6 +69,6 @@ Calcium carbide is a gray rock that reacts violently with water to produce acety
 
 ## 🔗 See Also
 
-- [Hydrogen Generator](../chemical-electronic/159-hydrogen-generator/)
-- [Smoke Bomb Array](103-smoke-bomb-array/)
+- [Hydrogen Generator](/categories/chemical-electronic/159-hydrogen-generator/)
+- [Smoke Bomb Array](/categories/pyro-and-chemistry/103-smoke-bomb-array/)
 

@@ -19,7 +19,7 @@ ratings:
 # #194 — Geodesic Dome Greenhouse
 
 <p align="center">
-  <img src="../../images/builds/194-geodesic-dome-greenhouse.jpg" alt="Geodesic Dome Greenhouse" width="700" />
+  <img src="/images/builds/194-geodesic-dome-greenhouse.jpg" alt="Geodesic Dome Greenhouse" width="700" />
 </p>
 
 > EMT conduit + star connectors + a Raspberry Pi climate brain = a greenhouse that looks like it fell out of a sci-fi movie.
@@ -85,6 +85,6 @@ The build breaks into two satisfying phases: the physical structure (cutting, fl
 
 ## 🔗 See Also
 
-- [Underground Root Cellar](195-underground-root-cellar/) — food storage to complement your food production
-- [Weather Balloon Launch](192-weather-balloon-launch/) — another big build that combines structure and electronics
+- [Underground Root Cellar](/categories/big-builds/195-underground-root-cellar/) — food storage to complement your food production
+- [Weather Balloon Launch](/categories/big-builds/192-weather-balloon-launch/) — another big build that combines structure and electronics
 

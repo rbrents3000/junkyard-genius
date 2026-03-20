@@ -19,7 +19,7 @@ ratings:
 # #185 — Trebuchet
 
 <p align="center">
-  <img src="../../images/builds/185-trebuchet.jpg" alt="Trebuchet" width="700" />
+  <img src="/images/builds/185-trebuchet.jpg" alt="Trebuchet" width="700" />
 </p>
 
 > A medieval siege engine built from a bed frame and spite — capable of launching pumpkins into the next zip code.
@@ -83,5 +83,5 @@ This version uses a steel bed frame for the main structure, concrete-filled buck
 
 ## 🔗 See Also
 
-- [Hydraulic Robot Arm](183-hydraulic-robot-arm/) — mechanical advantage on a smaller, gentler scale
-- [Backyard Water Slide](../big-builds/191-backyard-water-slide/) — another big outdoor build for maximum weekend glory
+- [Hydraulic Robot Arm](/categories/mechanical-and-kinetic/183-hydraulic-robot-arm/) — mechanical advantage on a smaller, gentler scale
+- [Backyard Water Slide](/categories/big-builds/191-backyard-water-slide/) — another big outdoor build for maximum weekend glory

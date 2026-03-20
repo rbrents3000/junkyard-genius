@@ -19,7 +19,7 @@ ratings:
 # #288 — Laptop Battery Powerwall
 
 <p align="center">
-  <img src="../../images/builds/288-laptop-battery-powerwall.jpg" alt="Laptop Battery Powerwall" width="700" />
+  <img src="/images/builds/288-laptop-battery-powerwall.jpg" alt="Laptop Battery Powerwall" width="700" />
 </p>
 
 > Fifty dead laptops walk into a garage. None of them leave. Their batteries become a wall of stored energy that keeps your lights on when the grid goes dark.
@@ -32,7 +32,7 @@ ratings:
 
 A laptop battery pack is a plastic shell wrapped around 4-8 cylindrical 18650 lithium-ion cells wired in series and parallel. The pack usually dies because one cell degrades below the protection circuit's threshold, and the whole thing gets marked as dead. But the other cells? Still perfectly fine. Crack open 50 dead laptop batteries and you'll harvest 200-400 individual cells, most of them with 60-80% of their original capacity. That's not trash — that's a home energy storage system waiting to be assembled.
 
-The concept is the same as the [DIY Powerwall](052-diy-powerwall/), but this build focuses on the full pipeline: sourcing laptop batteries in bulk, the cell extraction and testing workflow, grading cells into matched groups, and assembling them into modular battery packs with proper management electronics. Each module holds a manageable number of cells, and modules stack together to scale the system. Fifty laptops yields roughly 5-10 kWh of storage depending on cell health — enough to run LED lighting, a refrigerator, and charge devices through a multi-hour power outage.
+The concept is the same as the [DIY Powerwall](/categories/power-and-energy/052-diy-powerwall/), but this build focuses on the full pipeline: sourcing laptop batteries in bulk, the cell extraction and testing workflow, grading cells into matched groups, and assembling them into modular battery packs with proper management electronics. Each module holds a manageable number of cells, and modules stack together to scale the system. Fifty laptops yields roughly 5-10 kWh of storage depending on cell health — enough to run LED lighting, a refrigerator, and charge devices through a multi-hour power outage.
 
 The time investment is no joke. Testing cells is a bottleneck — a 4-bay tester processes about 16 cells per day. You're looking at weeks of testing before you even start building packs. But every cell you save is one that doesn't end up in a landfill, and the cost per kWh of storage is a fraction of buying new lithium-ion packs. If you've got patience and a steady supply of dead laptops, this is one of the most practical large-scale salvage builds you can do.
 
@@ -43,7 +43,7 @@ The time investment is no joke. Testing cells is a bottleneck — a 4-bay tester
 - [ ] 18650 cell holders — modular snap-together PCB-style holders for organizing cells into packs *(online electronics supplier, ~$0.15-$0.30 each)*
 - [ ] Cell capacity tester — charges and discharges each cell while measuring mAh capacity (LiitoKala Lii-500, OPUS BT-C3100, or similar 4-bay unit) *(electronics supplier, ~$25-$50)*
 - [ ] BMS (Battery Management System) — one per module, monitors cell group voltages, handles balancing, prevents overcharge/overdischarge *(electronics supplier, ~$15-$40 per module depending on configuration)*
-- [ ] Spot welder — for tab-welding nickel strip to cell terminals *(build one — see [Spot Welder](../functional-machines/027-spot-welder/) — or buy, ~$50-$150)*
+- [ ] Spot welder — for tab-welding nickel strip to cell terminals *(build one — see [Spot Welder](/categories/functional-machines/027-spot-welder/) — or buy, ~$50-$150)*
 - [ ] Nickel strip — 0.15mm or 0.2mm thick, for connecting cells in series and parallel *(electronics supplier, ~$10-$20 per roll)*
 - [ ] Fuse holders and fuses — inline fuses for each parallel group or each cell, rated for the expected current *(electronics supplier, ~$0.10-$0.20 per fuse wire)*
 - [ ] Power inverter — pure sine wave, 1000-3000W, converts battery DC to household AC *(electronics supplier, ~$100-$300)*
@@ -90,5 +90,5 @@ The time investment is no joke. Testing cells is a bottleneck — a 4-bay tester
 
 ## 🔗 See Also
 
-- [DIY Powerwall](052-diy-powerwall/)
-- [Laptop Battery Power Bank](../computer-and-phone/067-laptop-battery-power-bank/)
+- [DIY Powerwall](/categories/power-and-energy/052-diy-powerwall/)
+- [Laptop Battery Power Bank](/categories/computer-and-phone/067-laptop-battery-power-bank/)

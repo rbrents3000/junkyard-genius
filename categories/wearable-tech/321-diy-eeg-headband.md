@@ -19,7 +19,7 @@ ratings:
 # #321 — DIY EEG Headband
 
 <p align="center">
-  <img src="../../images/builds/321-diy-eeg-headband.jpg" alt="DIY EEG Headband" width="700" />
+  <img src="/images/builds/321-diy-eeg-headband.jpg" alt="DIY EEG Headband" width="700" />
 </p>
 
 > Read your own brainwaves with salvaged biosensors. Visualize alpha, beta, and theta waves in real-time on your phone.
@@ -87,7 +87,7 @@ The moment you close your eyes and relax, you can watch your alpha power spike o
 
 ## 🔗 See Also
 
-- [HUD Glasses](245-hud-glasses/)
-- [Motion Capture Glove](246-motion-capture-glove/)
-- [LED Jacket](242-led-jacket/)
+- [HUD Glasses](/categories/wearable-tech/245-hud-glasses/)
+- [Motion Capture Glove](/categories/wearable-tech/246-motion-capture-glove/)
+- [LED Jacket](/categories/wearable-tech/242-led-jacket/)
 

@@ -19,7 +19,7 @@ ratings:
 # #155 — AI Dungeon Master
 
 <p align="center">
-  <img src="../../images/builds/155-ai-dungeon-master.jpg" alt="AI Dungeon Master" width="700" />
+  <img src="/images/builds/155-ai-dungeon-master.jpg" alt="AI Dungeon Master" width="700" />
 </p>
 
 > A local LLM running on an old gaming laptop becomes an AI D&D dungeon master — add an LED battle map, fog machine, and sound effects.
@@ -69,6 +69,6 @@ A Dungeon Master runs the story, controls the NPCs, describes the world, and adj
 
 ## 🔗 See Also
 
-- [Voice Home Automation](149-voice-home-automation/)
-- [Music Visualizer LED Wall](145-music-visualizer-led-wall/)
+- [Voice Home Automation](/categories/python-projects/149-voice-home-automation/)
+- [Music Visualizer LED Wall](/categories/python-projects/145-music-visualizer-led-wall/)
 

@@ -19,7 +19,7 @@ ratings:
 # #168 — Thermochromic Mug
 
 <p align="center">
-  <img src="../../images/builds/168-thermochromic-mug.jpg" alt="Thermochromic Mug" width="700" />
+  <img src="/images/builds/168-thermochromic-mug.jpg" alt="Thermochromic Mug" width="700" />
 </p>
 
 > Thermochromic pigment screen-printed onto a mug — pour hot coffee and the design appears. Print heat-reactive shirts too.
@@ -65,6 +65,6 @@ Thermochromic pigment changes from opaque to transparent at a specific temperatu
 
 ## 🔗 See Also
 
-- [Thermochromic Paint](../pyro-and-chemistry/119-thermochromic-paint/)
-- [pH Reactive Paint](163-ph-reactive-paint/)
+- [Thermochromic Paint](/categories/pyro-and-chemistry/119-thermochromic-paint/)
+- [pH Reactive Paint](/categories/chemical-electronic/163-ph-reactive-paint/)
 

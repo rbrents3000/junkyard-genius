@@ -19,7 +19,7 @@ ratings:
 # #121 — Fireworks Sequencer
 
 <p align="center">
-  <img src="../../images/builds/121-fireworks-sequencer.jpg" alt="Fireworks Sequencer" width="700" />
+  <img src="/images/builds/121-fireworks-sequencer.jpg" alt="Fireworks Sequencer" width="700" />
 </p>
 
 > A Raspberry Pi with a relay board and nichrome igniters gives you professional-grade fireworks show timing.
@@ -70,6 +70,6 @@ Professional fireworks shows aren't lit by hand — they're fired by computer-co
 
 ## 🔗 See Also
 
-- [Smoke Bomb Array](../pyro-and-chemistry/103-smoke-bomb-array/)
-- [Cold Spark Machine](../pyro-and-chemistry/104-cold-spark-machine/)
+- [Smoke Bomb Array](/categories/pyro-and-chemistry/103-smoke-bomb-array/)
+- [Cold Spark Machine](/categories/pyro-and-chemistry/104-cold-spark-machine/)
 

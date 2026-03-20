@@ -19,7 +19,7 @@ ratings:
 # #304 — Rice Cooker Electroplating Station
 
 <p align="center">
-  <img src="../../images/builds/304-rice-cooker-electroplating.jpg" alt="Rice Cooker Electroplating Station" width="700" />
+  <img src="/images/builds/304-rice-cooker-electroplating.jpg" alt="Rice Cooker Electroplating Station" width="700" />
 </p>
 
 > The "keep warm" button is the most underrated feature in metalworking.
@@ -90,5 +90,5 @@ Add a DC power supply (a benchtop unit or a repurposed laptop charger), some cop
 
 ## 🔗 See Also
 
-- [Toaster Reflow Oven](260-toaster-reflow-oven/)
-- [Coffee Maker Distiller](262-coffee-maker-distiller/)
+- [Toaster Reflow Oven](/categories/kitchen-hacks/260-toaster-reflow-oven/)
+- [Coffee Maker Distiller](/categories/kitchen-hacks/262-coffee-maker-distiller/)

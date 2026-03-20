@@ -19,7 +19,7 @@ ratings:
 # #312 — Kinetic Sand Table
 
 <p align="center">
-  <img src="../../images/builds/312-kinetic-sand-table.jpg" alt="Kinetic Sand Table" width="700" />
+  <img src="/images/builds/312-kinetic-sand-table.jpg" alt="Kinetic Sand Table" width="700" />
 </p>
 
 > A hidden magnet beneath glass drags a steel ball through sand, drawing infinite geometric patterns in silence. A Zen garden that draws itself.
@@ -85,8 +85,8 @@ The result is one of the most elegant objects you can build from salvaged parts.
 
 ## 🔗 See Also
 
-- [Ferrofluid Mirror](046-ferrofluid-mirror/) — another mesmerizing display piece using magnetic forces
-- [Anti-Gravity Water Fountain](044-antigravity-water-fountain/) — stroboscopic illusion art
-- [Pen Plotter](../printer-and-scanner/072-pen-plotter/) — same CNC motion concept, different output
-- [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc/) — the CNC foundation this build is based on
+- [Ferrofluid Mirror](/categories/art-and-installation/046-ferrofluid-mirror/) — another mesmerizing display piece using magnetic forces
+- [Anti-Gravity Water Fountain](/categories/art-and-installation/044-antigravity-water-fountain/) — stroboscopic illusion art
+- [Pen Plotter](/categories/printer-and-scanner/072-pen-plotter/) — same CNC motion concept, different output
+- [Printer Stepper CNC](/categories/printer-and-scanner/069-printer-stepper-cnc/) — the CNC foundation this build is based on
 

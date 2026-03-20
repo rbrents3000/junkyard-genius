@@ -19,7 +19,7 @@ ratings:
 # #051 — Solar Water Heater
 
 <p align="center">
-  <img src="../../images/builds/051-solar-water-heater.jpg" alt="Solar Water Heater" width="700" />
+  <img src="/images/builds/051-solar-water-heater.jpg" alt="Solar Water Heater" width="700" />
 </p>
 
 > Black-painted copper pipe coiled in an insulated box with a glass top. Sunlight heats water to 120-150°F. Free hot water, zero moving parts.
@@ -70,5 +70,5 @@ A well-built collector measuring 4'x8' can heat 20-40 gallons of water to 120-15
 
 ## 🔗 See Also
 
-- [Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger/)
-- [Bicycle Generator](050-bicycle-generator/)
+- [Campfire Thermoelectric Charger](/categories/power-and-energy/049-campfire-thermoelectric-charger/)
+- [Bicycle Generator](/categories/power-and-energy/050-bicycle-generator/)

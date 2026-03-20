@@ -19,7 +19,7 @@ ratings:
 # #310 — Magnetic Field Viewer
 
 <p align="center">
-  <img src="../../images/builds/310-magnetic-field-viewer.jpg" alt="Magnetic Field Viewer" width="700" />
+  <img src="/images/builds/310-magnetic-field-viewer.jpg" alt="Magnetic Field Viewer" width="700" />
 </p>
 
 > A sealed chamber of ferrofluid that turns invisible magnetic fields into writhing, spiky, real-time sculptures you can manipulate with your hands.
@@ -85,6 +85,6 @@ Seal ferrofluid in a flat, transparent chamber and you've got a permanent, mess-
 
 ## 🔗 See Also
 
-- [Homopolar Motor](198-homopolar-motor/) — magnetic fields put to work spinning copper wire
-- [Lenz's Law Slow-Mo Magnet](199-lenzs-law-slow-mo-magnet/) — invisible magnetic fields made visible through their braking force on falling magnets
+- [Homopolar Motor](/categories/weird-science/198-homopolar-motor/) — magnetic fields put to work spinning copper wire
+- [Lenz's Law Slow-Mo Magnet](/categories/weird-science/199-lenzs-law-slow-mo-magnet/) — invisible magnetic fields made visible through their braking force on falling magnets
 

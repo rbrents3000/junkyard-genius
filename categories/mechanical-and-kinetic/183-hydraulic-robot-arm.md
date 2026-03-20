@@ -19,7 +19,7 @@ ratings:
 # #183 — Hydraulic Robot Arm
 
 <p align="center">
-  <img src="../../images/builds/183-hydraulic-robot-arm.jpg" alt="Hydraulic Robot Arm" width="700" />
+  <img src="/images/builds/183-hydraulic-robot-arm.jpg" alt="Hydraulic Robot Arm" width="700" />
 </p>
 
 > Syringes and tubing do the heavy lifting — literally — no motors or electricity needed.
@@ -78,6 +78,6 @@ This is Pascal's law made tangible: pressure applied to a confined fluid transmi
 
 ## 🔗 See Also
 
-- [Trebuchet](185-trebuchet/) — mechanical advantage on a much larger and more violent scale
-- [Ball Bearing Motor](187-ball-bearing-motor/) — the simplest possible motor if you want something that moves with zero complexity
+- [Trebuchet](/categories/mechanical-and-kinetic/185-trebuchet/) — mechanical advantage on a much larger and more violent scale
+- [Ball Bearing Motor](/categories/mechanical-and-kinetic/187-ball-bearing-motor/) — the simplest possible motor if you want something that moves with zero complexity
 

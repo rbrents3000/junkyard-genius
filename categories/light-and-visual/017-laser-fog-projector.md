@@ -19,7 +19,7 @@ ratings:
 # #017 — Laser Fog Projector
 
 <p align="center">
-  <img src="../../images/builds/017-laser-fog-projector.jpg" alt="Laser Fog Projector" width="700" />
+  <img src="/images/builds/017-laser-fog-projector.jpg" alt="Laser Fog Projector" width="700" />
 </p>
 
 > A laser pointer bouncing off a spinning mirror in fog creates sweeping geometric patterns across the sky.
@@ -74,6 +74,6 @@ This is the core technology behind professional laser light shows, stripped down
 
 ## 🔗 See Also
 
-- [Laser Maze](176-laser-maze/) — lasers used for an interactive installation instead of visual projection
-- [Holographic Fan Display](022-holographic-fan-display/) — another way to create floating visual effects
+- [Laser Maze](/categories/light-and-visual/176-laser-maze/) — lasers used for an interactive installation instead of visual projection
+- [Holographic Fan Display](/categories/light-and-visual/022-holographic-fan-display/) — another way to create floating visual effects
 

@@ -19,7 +19,7 @@ ratings:
 # #142 — Generative Art Plotter
 
 <p align="center">
-  <img src="../../images/builds/142-generative-art-plotter.jpg" alt="Generative Art Plotter" width="700" />
+  <img src="/images/builds/142-generative-art-plotter.jpg" alt="Generative Art Plotter" width="700" />
 </p>
 
 > Python generates algorithmic art — flow fields, fractals, mathematical curves — then a pen plotter draws them with real ink on real paper.
@@ -64,6 +64,6 @@ Generative art is artwork created by algorithms — rules that produce patterns 
 
 ## 🔗 See Also
 
-- [Fractal Laser Engraver](150-fractal-laser-engraver/)
-- [Printer Robot Arm](../pi-and-arduino/129-printer-robot-arm/)
+- [Fractal Laser Engraver](/categories/python-projects/150-fractal-laser-engraver/)
+- [Printer Robot Arm](/categories/pi-and-arduino/129-printer-robot-arm/)
 

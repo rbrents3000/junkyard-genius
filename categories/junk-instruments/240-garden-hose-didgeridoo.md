@@ -19,7 +19,7 @@ ratings:
 # #240 — Garden Hose Didgeridoo
 
 <p align="center">
-  <img src="../../images/builds/240-garden-hose-didgeridoo.jpg" alt="Garden Hose Didgeridoo" width="700" />
+  <img src="/images/builds/240-garden-hose-didgeridoo.jpg" alt="Garden Hose Didgeridoo" width="700" />
 </p>
 
 > A coiled garden hose with a funnel bell and PVC mouthpiece. Longer hose means deeper drone. It sounds absolutely ridiculous and absolutely awesome at the same time.
@@ -72,6 +72,6 @@ The build takes about 15 minutes. Cut a short length of PVC pipe for a comfortab
 
 ## 🔗 See Also
 
-- [PVC Pipe Organ](236-pvc-pipe-organ/)
-- [Cigar Box Guitar](235-cigar-box-guitar/)
+- [PVC Pipe Organ](/categories/junk-instruments/236-pvc-pipe-organ/)
+- [Cigar Box Guitar](/categories/junk-instruments/235-cigar-box-guitar/)
 

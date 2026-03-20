@@ -19,7 +19,7 @@ ratings:
 # #294 — Motor-Driven Turntable
 
 <p align="center">
-  <img src="../../images/builds/294-motor-driven-turntable.jpg" alt="Motor-Driven Turntable" width="700" />
+  <img src="/images/builds/294-motor-driven-turntable.jpg" alt="Motor-Driven Turntable" width="700" />
 </p>
 
 > Microwave motor + lazy susan + potentiometer. Smooth, silent rotation for product photography, 3D scanning, or spin-coating. Commercial turntables cost $40-150. Build this for $5.
@@ -170,6 +170,6 @@ Keep fingers, hair, and loose clothing away from the gap between the spinning pl
 
 ## 🔗 See Also
 
-- [Motor-Powered Pottery Wheel](292-motor-powered-pottery-wheel/)
-- [Electric Skateboard](088-electric-skateboard/)
+- [Motor-Powered Pottery Wheel](/categories/scooter-and-motor/292-motor-powered-pottery-wheel/)
+- [Electric Skateboard](/categories/scooter-and-motor/088-electric-skateboard/)
 

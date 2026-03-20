@@ -19,7 +19,7 @@ ratings:
 # #281 — Vinegar Baking Soda Rocket
 
 <p align="center">
-  <img src="../../images/builds/281-vinegar-baking-soda-rocket.jpg" alt="Vinegar Baking Soda Rocket" width="700" />
+  <img src="/images/builds/281-vinegar-baking-soda-rocket.jpg" alt="Vinegar Baking Soda Rocket" width="700" />
 </p>
 
 > Film canister, vinegar, baking soda, CO2 pressure, liftoff. The gateway drug of backyard science. Scale it up with 2-liter bottles and things get genuinely impressive.
@@ -78,6 +78,6 @@ Scale up to a 2-liter soda bottle and you enter a different league entirely. A c
 
 ## 🔗 See Also
 
-- [Alcohol Vapor Cannon](209-alcohol-vapor-cannon/)
-- [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste/)
+- [Alcohol Vapor Cannon](/categories/household-chemistry/209-alcohol-vapor-cannon/)
+- [Elephant Toothpaste](/categories/household-chemistry/282-hydrogen-peroxide-elephant-toothpaste/)
 

@@ -19,7 +19,7 @@ ratings:
 # #230 — Thermite Cold Spark Fountain
 
 <p align="center">
-  <img src="../../images/builds/230-thermite-cold-spark-fountain.jpg" alt="Thermite Cold Spark Fountain" width="700" />
+  <img src="/images/builds/230-thermite-cold-spark-fountain.jpg" alt="Thermite Cold Spark Fountain" width="700" />
 </p>
 
 > Thermite burns at 4,000 degrees while titanium cold sparks shower out at safe-to-touch temperatures right next to it. Fire and ice, simultaneously. The visual contrast is insane.
@@ -69,6 +69,6 @@ Thermite is iron oxide + aluminum powder. When ignited, it undergoes an aluminot
 
 ## 🔗 See Also
 
-- [Thermite Flower Pot](../pyro-and-chemistry/105-thermite-flower-pot/)
-- [Cold Spark Machine](../pyro-and-chemistry/104-cold-spark-machine/)
+- [Thermite Flower Pot](/categories/pyro-and-chemistry/105-thermite-flower-pot/)
+- [Cold Spark Machine](/categories/pyro-and-chemistry/104-cold-spark-machine/)
 

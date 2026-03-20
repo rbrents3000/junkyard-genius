@@ -19,7 +19,7 @@ ratings:
 # #024 — Electric Go-Kart
 
 <p align="center">
-  <img src="../../images/builds/024-electric-go-kart.jpg" alt="Electric Go-Kart" width="700" />
+  <img src="/images/builds/024-electric-go-kart.jpg" alt="Electric Go-Kart" width="700" />
 </p>
 
 > A scooter motor, a bed frame, and some batteries walk into a garage. They don't walk out — they drive out at 30 mph.
@@ -79,6 +79,6 @@ This is the build that makes people take junkyard engineering seriously. It move
 
 ## 🔗 See Also
 
-- [DIY Powerwall](../power-and-energy/052-diy-powerwall/)
-- [Scooter Motor Lathe](025-scooter-motor-lathe/)
+- [DIY Powerwall](/categories/power-and-energy/052-diy-powerwall/)
+- [Scooter Motor Lathe](/categories/functional-machines/025-scooter-motor-lathe/)
 

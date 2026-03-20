@@ -19,7 +19,7 @@ ratings:
 # #127 — Auto Plant Watering
 
 <p align="center">
-  <img src="../../images/builds/127-auto-plant-watering.jpg" alt="Auto Plant Watering" width="700" />
+  <img src="/images/builds/127-auto-plant-watering.jpg" alt="Auto Plant Watering" width="700" />
 </p>
 
 > Soil moisture sensors trigger a pump through an Arduino relay — your plants water themselves and log the data.
@@ -66,6 +66,6 @@ Plants die because people forget to water them. Solve this permanently with sens
 
 ## 🔗 See Also
 
-- [ESP32 Weather Station](132-esp32-weather-station/)
-- [ESP32-CAM Security](128-esp32-cam-security/)
+- [ESP32 Weather Station](/categories/pi-and-arduino/132-esp32-weather-station/)
+- [ESP32-CAM Security](/categories/pi-and-arduino/128-esp32-cam-security/)
 

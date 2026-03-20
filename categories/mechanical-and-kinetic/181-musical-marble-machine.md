@@ -19,7 +19,7 @@ ratings:
 # #181 — Musical Marble Machine
 
 <p align="center">
-  <img src="../../images/builds/181-musical-marble-machine.jpg" alt="Musical Marble Machine" width="700" />
+  <img src="/images/builds/181-musical-marble-machine.jpg" alt="Musical Marble Machine" width="700" />
 </p>
 
 > A gravity-powered orchestra made from scrap metal, xylophone bars, and the patience of a watchmaker.
@@ -82,6 +82,6 @@ The magic is in the programming wheel — a large rotating cylinder with adjusta
 
 ## 🔗 See Also
 
-- [Stirling Engine](182-stirling-engine/) — another mechanical build powered by simple physics
-- [Magnetic Gear Train](188-magnetic-gear-train/) — contactless gear meshing for when you want motion without friction
+- [Stirling Engine](/categories/mechanical-and-kinetic/182-stirling-engine/) — another mechanical build powered by simple physics
+- [Magnetic Gear Train](/categories/mechanical-and-kinetic/188-magnetic-gear-train/) — contactless gear meshing for when you want motion without friction
 

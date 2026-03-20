@@ -19,7 +19,7 @@ ratings:
 # #163 — pH Reactive Paint
 
 <p align="center">
-  <img src="../../images/builds/163-ph-reactive-paint.jpg" alt="pH Reactive Paint" width="700" />
+  <img src="/images/builds/163-ph-reactive-paint.jpg" alt="pH Reactive Paint" width="700" />
 </p>
 
 > Red cabbage juice is a natural pH indicator — paint with it, then spray vinegar for pink or baking soda for blue. Invisible art revealed by chemistry.
@@ -65,6 +65,6 @@ Red cabbage contains anthocyanin, a natural pigment that changes color based on 
 
 ## 🔗 See Also
 
-- [Thermochromic Paint](../pyro-and-chemistry/119-thermochromic-paint/)
-- [Sodium Silicate Demos](164-sodium-silicate-demos/)
+- [Thermochromic Paint](/categories/pyro-and-chemistry/119-thermochromic-paint/)
+- [Sodium Silicate Demos](/categories/chemical-electronic/164-sodium-silicate-demos/)
 

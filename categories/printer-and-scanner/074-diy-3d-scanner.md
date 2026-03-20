@@ -19,7 +19,7 @@ ratings:
 # #074 — DIY 3D Scanner
 
 <p align="center">
-  <img src="../../images/builds/074-diy-3d-scanner.jpg" alt="DIY 3D Scanner" width="700" />
+  <img src="/images/builds/074-diy-3d-scanner.jpg" alt="DIY 3D Scanner" width="700" />
 </p>
 
 > Microwave turntable motor + webcam + $3 laser line module. Software reconstructs a 3D model from the laser profile. Scan objects, 3D print copies. $10 build.
@@ -66,6 +66,6 @@ A laser line module projects a thin vertical line of light. When that line hits 
 
 ## 🔗 See Also
 
-- [Scanner Camera](070-scanner-camera/)
-- [Printer Stepper CNC](069-printer-stepper-cnc/)
+- [Scanner Camera](/categories/printer-and-scanner/070-scanner-camera/)
+- [Printer Stepper CNC](/categories/printer-and-scanner/069-printer-stepper-cnc/)
 

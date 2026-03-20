@@ -8,7 +8,7 @@ image: /images/categories/power-tools-remixed.jpg
 # 🔨 Power Tools Remixed
 
 <p align="center">
-  <img src="../../images/categories/power-tools-remixed.jpg" alt="Power Tools Remixed" width="700" />
+  <img src="/images/categories/power-tools-remixed.jpg" alt="Power Tools Remixed" width="700" />
 </p>
 
 <p align="center">

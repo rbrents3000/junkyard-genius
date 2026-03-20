@@ -19,7 +19,7 @@ ratings:
 # #122 — LED Cube 8x8x8
 
 <p align="center">
-  <img src="../../images/builds/122-led-cube-8x8x8.jpg" alt="LED Cube 8x8x8" width="700" />
+  <img src="/images/builds/122-led-cube-8x8x8.jpg" alt="LED Cube 8x8x8" width="700" />
 </p>
 
 > 512 LEDs soldered into a 3D matrix — animations, text, fire effects, and audio-reactive patterns floating in space.
@@ -68,6 +68,6 @@ An 8x8x8 LED cube is 512 LEDs soldered into a three-dimensional grid, each indiv
 
 ## 🔗 See Also
 
-- [Music Visualizer LED Wall](../python-projects/145-music-visualizer-led-wall/)
-- [MIDI Stepper Organ](135-midi-stepper-organ/)
+- [Music Visualizer LED Wall](/categories/python-projects/145-music-visualizer-led-wall/)
+- [MIDI Stepper Organ](/categories/pi-and-arduino/135-midi-stepper-organ/)
 

@@ -19,7 +19,7 @@ ratings:
 # #217 — Pool Shock Smoke Signals
 
 <p align="center">
-  <img src="../../images/builds/217-pool-shock-smoke-signals.jpg" alt="Pool Shock Smoke Signals" width="700" />
+  <img src="/images/builds/217-pool-shock-smoke-signals.jpg" alt="Pool Shock Smoke Signals" width="700" />
 </p>
 
 > Calcium hypochlorite granules plus brake fluid react with a time delay, then produce a thick column of dense white smoke that lasts for minutes.
@@ -69,6 +69,6 @@ This is a serious chemistry reaction with real hazards. The reaction produces ex
 
 ## 🔗 See Also
 
-- [Colored Fire](../pyro-and-chemistry/101-colored-fire/) — other chemical reactions that produce dramatic visual effects
-- [Alcohol Vapor Cannon](209-alcohol-vapor-cannon/) — another build combining household chemicals and combustion
+- [Colored Fire](/categories/pyro-and-chemistry/101-colored-fire/) — other chemical reactions that produce dramatic visual effects
+- [Alcohol Vapor Cannon](/categories/household-chemistry/209-alcohol-vapor-cannon/) — another build combining household chemicals and combustion
 

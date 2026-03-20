@@ -19,7 +19,7 @@ ratings:
 # #159 — Hydrogen Generator
 
 <p align="center">
-  <img src="../../images/builds/159-hydrogen-generator.jpg" alt="Hydrogen Generator" width="700" />
+  <img src="/images/builds/159-hydrogen-generator.jpg" alt="Hydrogen Generator" width="700" />
 </p>
 
 > Water + lye + DC power = hydrogen and oxygen gas. Capture the hydrogen, ignite it for a fireball. Electrolysis in action.
@@ -70,6 +70,6 @@ Electrolysis splits water into hydrogen and oxygen using electricity. Add lye (s
 
 ## 🔗 See Also
 
-- [Calcium Carbide Cannon](../pyro-and-chemistry/116-calcium-carbide-cannon/)
-- [Electroplating Station](156-electroplating-station/)
+- [Calcium Carbide Cannon](/categories/pyro-and-chemistry/116-calcium-carbide-cannon/)
+- [Electroplating Station](/categories/chemical-electronic/156-electroplating-station/)
 

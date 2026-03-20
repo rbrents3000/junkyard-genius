@@ -19,7 +19,7 @@ ratings:
 # #148 — Automated Microscope
 
 <p align="center">
-  <img src="../../images/builds/148-automated-microscope.jpg" alt="Automated Microscope" width="700" />
+  <img src="/images/builds/148-automated-microscope.jpg" alt="Automated Microscope" width="700" />
 </p>
 
 > A USB microscope on a stepper-driven XY stage captures a grid of images — Python stitches them into gigapixel panoramas.
@@ -68,6 +68,6 @@ A microscope shows you a tiny area at high magnification. An automated microscop
 
 ## 🔗 See Also
 
-- [Printer Robot Arm](../pi-and-arduino/129-printer-robot-arm/)
-- [Generative Art Plotter](142-generative-art-plotter/)
+- [Printer Robot Arm](/categories/pi-and-arduino/129-printer-robot-arm/)
+- [Generative Art Plotter](/categories/python-projects/142-generative-art-plotter/)
 

@@ -19,7 +19,7 @@ ratings:
 # #283 — Plasma Speaker Lamp
 
 <p align="center">
-  <img src="../../images/builds/283-plasma-speaker-lamp.jpg" alt="Plasma Speaker Lamp" width="700" />
+  <img src="/images/builds/283-plasma-speaker-lamp.jpg" alt="Plasma Speaker Lamp" width="700" />
 </p>
 
 > A lamp that plays music through lightning. The arc IS the speaker — heated air molecules vibrate at audio frequencies, producing sound from pure electricity inside a glass enclosure.
@@ -86,6 +86,6 @@ This build wraps that plasma speaker in a decorative glass lamp housing — a ma
 
 ## 🔗 See Also
 
-- [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil/)
-- [Jacob's Ladder](../mad-scientist/034-jacobs-ladder/)
+- [Musical Tesla Coil](/categories/mad-scientist/033-musical-tesla-coil/)
+- [Jacob's Ladder](/categories/mad-scientist/034-jacobs-ladder/)
 

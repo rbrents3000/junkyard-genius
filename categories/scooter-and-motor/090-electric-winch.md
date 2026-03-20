@@ -19,7 +19,7 @@ ratings:
 # #090 — Electric Winch
 
 <p align="center">
-  <img src="../../images/builds/090-electric-winch.jpg" alt="Electric Winch" width="700" />
+  <img src="/images/builds/090-electric-winch.jpg" alt="Electric Winch" width="700" />
 </p>
 
 > Scooter motor + spool + rope. A 250W motor lifts ~50 lbs. Portable electric winch for pulling, lifting, and hauling.
@@ -65,6 +65,6 @@ A winch is a motor connected to a spool that winds rope or cable. Electric scoot
 
 ## 🔗 See Also
 
-- [Electric Skateboard](088-electric-skateboard/)
-- [Wind Phone Charger](091-wind-phone-charger/)
+- [Electric Skateboard](/categories/scooter-and-motor/088-electric-skateboard/)
+- [Wind Phone Charger](/categories/scooter-and-motor/091-wind-phone-charger/)
 

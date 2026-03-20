@@ -19,7 +19,7 @@ ratings:
 # #102 — Elephant Toothpaste
 
 <p align="center">
-  <img src="../../images/builds/102-elephant-toothpaste.jpg" alt="Elephant Toothpaste" width="700" />
+  <img src="/images/builds/102-elephant-toothpaste.jpg" alt="Elephant Toothpaste" width="700" />
 </p>
 
 > Hydrogen peroxide meets a catalyst and erupts into a 10-foot tower of steaming foam.
@@ -67,6 +67,6 @@ Hydrogen peroxide naturally decomposes into water and oxygen gas, but it does it
 
 ## 🔗 See Also
 
-- [Dry Ice Bubble Cauldron](120-dry-ice-bubble-cauldron/)
-- [Chemiluminescent Fountain](111-chemiluminescent-fountain/)
+- [Dry Ice Bubble Cauldron](/categories/pyro-and-chemistry/120-dry-ice-bubble-cauldron/)
+- [Chemiluminescent Fountain](/categories/pyro-and-chemistry/111-chemiluminescent-fountain/)
 

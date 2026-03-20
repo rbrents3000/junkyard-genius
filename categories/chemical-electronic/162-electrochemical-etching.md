@@ -19,7 +19,7 @@ ratings:
 # #162 — Electrochemical Etching
 
 <p align="center">
-  <img src="../../images/builds/162-electrochemical-etching.jpg" alt="Electrochemical Etching" width="700" />
+  <img src="/images/builds/162-electrochemical-etching.jpg" alt="Electrochemical Etching" width="700" />
 </p>
 
 > Salt water, a battery, and a stencil — etch permanent designs into any metal surface. Knives, tools, jewelry, anything.
@@ -63,6 +63,6 @@ Electrochemical etching uses electricity to selectively dissolve metal. Apply a 
 
 ## 🔗 See Also
 
-- [PCB Etching Station](158-pcb-etching-station/)
-- [Electroplating Station](156-electroplating-station/)
+- [PCB Etching Station](/categories/chemical-electronic/158-pcb-etching-station/)
+- [Electroplating Station](/categories/chemical-electronic/156-electroplating-station/)
 

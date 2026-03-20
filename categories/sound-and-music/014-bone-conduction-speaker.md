@@ -19,7 +19,7 @@ ratings:
 # #014 — Bone Conduction Speaker
 
 <p align="center">
-  <img src="../../images/builds/014-bone-conduction-speaker.jpg" alt="Bone Conduction Speaker" width="700" />
+  <img src="/images/builds/014-bone-conduction-speaker.jpg" alt="Bone Conduction Speaker" width="700" />
 </p>
 
 > A transducer that turns any surface into a speaker — stick it on a table, window, or cardboard box and it plays music through the surface.
@@ -77,5 +77,5 @@ The name comes from bone conduction headphones, which vibrate your skull directl
 
 ## 🔗 See Also
 
-- [Thunder Drum](012-thunder-drum/) — another unconventional sound production method using vibrating surfaces
-- [Ferrofluid Speaker](011-ferrofluid-speaker/) — a conventional speaker turned into a visual experience
+- [Thunder Drum](/categories/sound-and-music/012-thunder-drum/) — another unconventional sound production method using vibrating surfaces
+- [Ferrofluid Speaker](/categories/sound-and-music/011-ferrofluid-speaker/) — a conventional speaker turned into a visual experience

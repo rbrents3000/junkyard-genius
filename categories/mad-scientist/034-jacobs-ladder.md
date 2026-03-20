@@ -19,7 +19,7 @@ ratings:
 # #034 — Jacob's Ladder
 
 <p align="center">
-  <img src="../../images/builds/034-jacobs-ladder.jpg" alt="Jacob's Ladder" width="700" />
+  <img src="/images/builds/034-jacobs-ladder.jpg" alt="Jacob's Ladder" width="700" />
 </p>
 
 > Two diverging metal rods plus a microwave oven transformer equals a rising arc of electricity that looks like it belongs in a 1930s horror movie.
@@ -69,6 +69,6 @@ It's the prop from every mad scientist movie ever made, and it's genuinely one o
 
 ## 🔗 See Also
 
-- [Musical Tesla Coil](033-musical-tesla-coil/)
-- [Electromagnetic Can Crusher](035-electromagnetic-can-crusher/)
+- [Musical Tesla Coil](/categories/mad-scientist/033-musical-tesla-coil/)
+- [Electromagnetic Can Crusher](/categories/mad-scientist/035-electromagnetic-can-crusher/)
 

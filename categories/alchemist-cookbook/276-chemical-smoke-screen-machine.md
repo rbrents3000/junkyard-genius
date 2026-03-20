@@ -19,7 +19,7 @@ ratings:
 # #276 — Chemical Smoke Screen Machine
 
 <p align="center">
-  <img src="../../images/builds/276-chemical-smoke-screen-machine.jpg" alt="Chemical Smoke Screen Machine" width="700" />
+  <img src="/images/builds/276-chemical-smoke-screen-machine.jpg" alt="Chemical Smoke Screen Machine" width="700" />
 </p>
 
 > Drip glycerin onto a red-hot toaster element and disappear behind a wall of dense white smoke like a budget action movie villain.
@@ -79,6 +79,6 @@ The key to good smoke is temperature control. Too cool and the glycerin just poo
 
 ## 🔗 See Also
 
-- [Dry Ice Fog Machine](../household-chemistry/329-dry-ice-fog-machine/)
-- [Chemical Trigger Color Bombs](228-chemical-trigger-color-bombs/)
+- [Dry Ice Fog Machine](/categories/household-chemistry/329-dry-ice-fog-machine/)
+- [Chemical Trigger Color Bombs](/categories/alchemist-cookbook/228-chemical-trigger-color-bombs/)
 

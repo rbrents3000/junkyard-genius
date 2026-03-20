@@ -19,7 +19,7 @@ ratings:
 # #054 — Vacuum Plasma Cloud Chamber
 
 <p align="center">
-  <img src="../../images/builds/054-vacuum-plasma-cloud-chamber.jpg" alt="Vacuum Plasma Cloud Chamber" width="700" />
+  <img src="/images/builds/054-vacuum-plasma-cloud-chamber.jpg" alt="Vacuum Plasma Cloud Chamber" width="700" />
 </p>
 
 > A cloud chamber inside a vacuum system with plasma discharge. Watch particle tracks illuminate inside a glowing plasma field. Three physics experiments combined into one impossible display.
@@ -39,7 +39,7 @@ This build requires a functioning vacuum chamber (build #039), cloud chamber exp
 <details>
 <summary><strong>🧰 Ingredients</strong></summary>
 
-- [ ] Vacuum chamber — with viewport, from build #039 *(see [Vacuum Chamber](../mad-scientist/039-vacuum-chamber/))*
+- [ ] Vacuum chamber — with viewport, from build #039 *(see [Vacuum Chamber](/categories/mad-scientist/039-vacuum-chamber/))*
 - [ ] Vacuum pump — capable of reaching 10-50 Torr (not full vacuum — you need residual gas for the plasma and cloud operation) *(fridge compressor or rotary vane pump)*
 - [ ] Peltier cooler or dry ice — for the cold plate inside the chamber *(electronics supplier, or grocery store)*
 - [ ] Isopropyl alcohol 99% — for the supersaturated vapor *(pharmacy)*
@@ -75,5 +75,5 @@ This build requires a functioning vacuum chamber (build #039), cloud chamber exp
 
 ## 🔗 See Also
 
-- [Cloud Chamber](../mad-scientist/041-cloud-chamber/)
-- [Vacuum Chamber](../mad-scientist/039-vacuum-chamber/)
+- [Cloud Chamber](/categories/mad-scientist/041-cloud-chamber/)
+- [Vacuum Chamber](/categories/mad-scientist/039-vacuum-chamber/)

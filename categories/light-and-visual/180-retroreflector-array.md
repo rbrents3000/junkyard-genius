@@ -19,7 +19,7 @@ ratings:
 # #180 — Retroreflector Array
 
 <p align="center">
-  <img src="../../images/builds/180-retroreflector-array.jpg" alt="Retroreflector Array" width="700" />
+  <img src="/images/builds/180-retroreflector-array.jpg" alt="Retroreflector Array" width="700" />
 </p>
 
 > Corner cube reflectors that bounce any light beam directly back to its source — the same tech left on the Moon by Apollo astronauts.
@@ -73,5 +73,5 @@ NASA left retroreflector arrays on the Moon during the Apollo missions. Scientis
 
 ## 🔗 See Also
 
-- [Laser Maze](176-laser-maze/) — another laser optics project with a very different purpose
-- [Laser Fog Projector](017-laser-fog-projector/) — lasers for visual display instead of precision optics
+- [Laser Maze](/categories/light-and-visual/176-laser-maze/) — another laser optics project with a very different purpose
+- [Laser Fog Projector](/categories/light-and-visual/017-laser-fog-projector/) — lasers for visual display instead of precision optics

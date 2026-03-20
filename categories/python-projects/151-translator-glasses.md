@@ -19,7 +19,7 @@ ratings:
 # #151 — Translator Glasses
 
 <p align="center">
-  <img src="../../images/builds/151-translator-glasses.jpg" alt="Translator Glasses" width="700" />
+  <img src="/images/builds/151-translator-glasses.jpg" alt="Translator Glasses" width="700" />
 </p>
 
 > A Pi Zero camera reads text, OCR translates it, and a tiny display near the eye shows the translation — DIY Google Translate glasses.
@@ -68,6 +68,6 @@ Look at a sign in a foreign language. Within seconds, the translated text appear
 
 ## 🔗 See Also
 
-- [AI Photo Booth](143-ai-photo-booth/)
-- [Deepfake Mirror](153-deepfake-mirror/)
+- [AI Photo Booth](/categories/python-projects/143-ai-photo-booth/)
+- [Deepfake Mirror](/categories/python-projects/153-deepfake-mirror/)
 

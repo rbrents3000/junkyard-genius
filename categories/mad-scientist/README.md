@@ -8,7 +8,7 @@ image: /images/categories/mad-scientist.jpg
 # ⚡ Mad Scientist
 
 <p align="center">
-  <img src="../../images/categories/mad-scientist.jpg" alt="Mad Scientist" width="700" />
+  <img src="/images/categories/mad-scientist.jpg" alt="Mad Scientist" width="700" />
 </p>
 
 <p align="center">

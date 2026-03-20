@@ -19,7 +19,7 @@ ratings:
 # #167 — Ozone Generator
 
 <p align="center">
-  <img src="../../images/builds/167-ozone-generator.jpg" alt="Ozone Generator" width="700" />
+  <img src="/images/builds/167-ozone-generator.jpg" alt="Ozone Generator" width="700" />
 </p>
 
 > Corona discharge or UV creates ozone (O3) — bubbled through water, it purifies better than chlorine. Industrial water treatment tech on your bench.
@@ -67,6 +67,6 @@ Ozone (O3) is a powerful oxidizer — it destroys bacteria, viruses, and organic
 
 ## 🔗 See Also
 
-- [Hydrogen Generator](159-hydrogen-generator/)
-- [DIY Neon Sign](166-diy-neon-sign/)
+- [Hydrogen Generator](/categories/chemical-electronic/159-hydrogen-generator/)
+- [DIY Neon Sign](/categories/chemical-electronic/166-diy-neon-sign/)
 

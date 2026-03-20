@@ -19,7 +19,7 @@ ratings:
 # #228 — Chemical-Trigger Color Bombs
 
 <p align="center">
-  <img src="../../images/builds/228-chemical-trigger-color-bombs.jpg" alt="Chemical-Trigger Color Bombs" width="700" />
+  <img src="/images/builds/228-chemical-trigger-color-bombs.jpg" alt="Chemical-Trigger Color Bombs" width="700" />
 </p>
 
 > KNO3 smoke bombs + metal salt colorants + permanganate/glycerin auto-ignition = no-fuse colored smoke that lights itself on contact.
@@ -68,6 +68,6 @@ Standard smoke bombs use KNO3 (potassium nitrate) as the oxidizer and sugar as t
 
 ## 🔗 See Also
 
-- [Smoke Bomb Array](../pyro-and-chemistry/103-smoke-bomb-array/)
-- [Permanganate Auto-Ignition](../pyro-and-chemistry/115-permanganate-auto-ignition/)
+- [Smoke Bomb Array](/categories/pyro-and-chemistry/103-smoke-bomb-array/)
+- [Permanganate Auto-Ignition](/categories/pyro-and-chemistry/115-permanganate-auto-ignition/)
 

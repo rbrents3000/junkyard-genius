@@ -19,7 +19,7 @@ ratings:
 # #298 — Vacuum Sandblaster
 
 <p align="center">
-  <img src="../../images/builds/298-vacuum-sandblaster.jpg" alt="Vacuum Sandblaster" width="700" />
+  <img src="/images/builds/298-vacuum-sandblaster.jpg" alt="Vacuum Sandblaster" width="700" />
 </p>
 
 > A reversed vacuum motor feeds pressurized air through a siphon tube,
@@ -214,6 +214,6 @@ outdoor tool into something you can use in a garage year-round.
 
 ## 🔗 See Also
 
-- [Vacuum Hovercraft](075-vacuum-hovercraft/)
-- [Vacuum Leaf Blower](078-vacuum-leaf-blower/)
+- [Vacuum Hovercraft](/categories/vacuum-cleaner/075-vacuum-hovercraft/)
+- [Vacuum Leaf Blower](/categories/vacuum-cleaner/078-vacuum-leaf-blower/)
 

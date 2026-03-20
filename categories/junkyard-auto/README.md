@@ -8,7 +8,7 @@ image: /images/categories/junkyard-auto.jpg
 # 🚗 Junkyard Auto
 
 <p align="center">
-  <img src="../../images/categories/junkyard-auto.jpg" alt="Junkyard Auto" width="700" />
+  <img src="/images/categories/junkyard-auto.jpg" alt="Junkyard Auto" width="700" />
 </p>
 
 <p align="center">

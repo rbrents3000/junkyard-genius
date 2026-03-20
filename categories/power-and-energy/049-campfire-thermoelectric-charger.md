@@ -19,7 +19,7 @@ ratings:
 # #049 — Campfire Thermoelectric Charger
 
 <p align="center">
-  <img src="../../images/builds/049-campfire-thermoelectric-charger.jpg" alt="Campfire Thermoelectric Charger" width="700" />
+  <img src="/images/builds/049-campfire-thermoelectric-charger.jpg" alt="Campfire Thermoelectric Charger" width="700" />
 </p>
 
 > A Peltier module sandwiched between a hot side (campfire) and a cold side (water pot) generates enough electricity to charge your phone. Power from temperature difference.
@@ -69,5 +69,5 @@ Mount one between a metal plate sitting on hot coals and a pot of cold water, an
 
 ## 🔗 See Also
 
-- [Bicycle Generator](050-bicycle-generator/)
-- [DIY Powerwall](052-diy-powerwall/)
+- [Bicycle Generator](/categories/power-and-energy/050-bicycle-generator/)
+- [DIY Powerwall](/categories/power-and-energy/052-diy-powerwall/)

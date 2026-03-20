@@ -19,7 +19,7 @@ ratings:
 # #091 — Wind Phone Charger
 
 <p align="center">
-  <img src="../../images/builds/091-wind-phone-charger.jpg" alt="Wind Phone Charger" width="700" />
+  <img src="/images/builds/091-wind-phone-charger.jpg" alt="Wind Phone Charger" width="700" />
 </p>
 
 > A scooter motor run in reverse is a generator. Add PVC pipe blades and a charge controller. An actual tiny wind turbine. Free electricity from the sky.
@@ -69,6 +69,6 @@ Every electric motor is also a generator — spin the shaft externally and it pr
 
 ## 🔗 See Also
 
-- [Electric Skateboard](088-electric-skateboard/)
-- [Electric Winch](090-electric-winch/)
+- [Electric Skateboard](/categories/scooter-and-motor/088-electric-skateboard/)
+- [Electric Winch](/categories/scooter-and-motor/090-electric-winch/)
 

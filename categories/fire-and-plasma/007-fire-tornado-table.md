@@ -19,7 +19,7 @@ ratings:
 # #007 — Fire Tornado Table
 
 <p align="center">
-  <img src="../../images/builds/007-fire-tornado-table.jpg" alt="Fire Tornado Table" width="700" />
+  <img src="/images/builds/007-fire-tornado-table.jpg" alt="Fire Tornado Table" width="700" />
 </p>
 
 > A lazy susan, some mesh screen, and a fuel source — spins up a mesmerizing tabletop fire tornado on demand.
@@ -74,5 +74,5 @@ The physics is the same as a real tornado — angular momentum concentrates the 
 
 ## 🔗 See Also
 
-- [Propane Vortex Cannon](003-propane-vortex-cannon/) — fire vortex rings that fly through the air instead of staying in place
-- [Rubens' Tube](../sound-and-music/009-rubens-tube/) — another fire-based physics demonstration
+- [Propane Vortex Cannon](/categories/fire-and-plasma/003-propane-vortex-cannon/) — fire vortex rings that fly through the air instead of staying in place
+- [Rubens' Tube](/categories/sound-and-music/009-rubens-tube/) — another fire-based physics demonstration

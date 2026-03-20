@@ -8,7 +8,7 @@ image: /images/categories/junk-instruments.jpg
 # 🎸 Junk Instruments
 
 <p align="center">
-  <img src="../../images/categories/junk-instruments.jpg" alt="Junk Instruments" width="700" />
+  <img src="/images/categories/junk-instruments.jpg" alt="Junk Instruments" width="700" />
 </p>
 
 <p align="center">

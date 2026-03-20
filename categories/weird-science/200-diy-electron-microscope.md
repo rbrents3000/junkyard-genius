@@ -19,7 +19,7 @@ ratings:
 # #200 — DIY Electron Microscope
 
 <p align="center">
-  <img src="../../images/builds/200-diy-electron-microscope.jpg" alt="DIY Electron Microscope" width="700" />
+  <img src="/images/builds/200-diy-electron-microscope.jpg" alt="DIY Electron Microscope" width="700" />
 </p>
 
 > A CRT electron gun, a vacuum chamber, and magnetic lenses — see things no optical microscope can resolve. The ultimate junkyard endgame build.
@@ -86,6 +86,6 @@ Building one from scratch is the hardest project in this entire collection. You 
 
 ## 🔗 See Also
 
-- [Kirlian Photography](196-kirlian-photography/) — another project that reveals invisible electromagnetic phenomena visually
-- [Van de Graaff Generator](197-van-de-graaff-generator/) — high-voltage electrostatics on a more accessible scale
+- [Kirlian Photography](/categories/weird-science/196-kirlian-photography/) — another project that reveals invisible electromagnetic phenomena visually
+- [Van de Graaff Generator](/categories/weird-science/197-van-de-graaff-generator/) — high-voltage electrostatics on a more accessible scale
 

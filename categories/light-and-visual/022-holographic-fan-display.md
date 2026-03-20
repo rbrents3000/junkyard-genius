@@ -19,7 +19,7 @@ ratings:
 # #022 — Holographic Fan Display
 
 <p align="center">
-  <img src="../../images/builds/022-holographic-fan-display.jpg" alt="Holographic Fan Display" width="700" />
+  <img src="/images/builds/022-holographic-fan-display.jpg" alt="Holographic Fan Display" width="700" />
 </p>
 
 > A spinning LED bar creates floating holographic images that appear to hover in mid-air — the commercial version costs $500, this one costs $30.
@@ -78,6 +78,6 @@ Commercial versions of these are used in retail stores and trade shows and cost 
 
 ## 🔗 See Also
 
-- [POV Globe](019-pov-globe/) — the spherical version of the same persistence-of-vision concept
-- [Laser Fog Projector](017-laser-fog-projector/) — another way to create floating visual effects
+- [POV Globe](/categories/light-and-visual/019-pov-globe/) — the spherical version of the same persistence-of-vision concept
+- [Laser Fog Projector](/categories/light-and-visual/017-laser-fog-projector/) — another way to create floating visual effects
 

@@ -19,7 +19,7 @@ ratings:
 # #048 — CRT Electromagnetic Art
 
 <p align="center">
-  <img src="../../images/builds/048-crt-electromagnetic-art.jpg" alt="CRT Electromagnetic Art" width="700" />
+  <img src="/images/builds/048-crt-electromagnetic-art.jpg" alt="CRT Electromagnetic Art" width="700" />
 </p>
 
 > Hold a magnet near an old CRT television and watch the image twist, smear, and bloom into abstract art. The simplest interactive installation you can build.
@@ -65,5 +65,5 @@ Nam June Paik pioneered this as an art form in the 1960s, creating "Magnet TV" �
 
 ## 🔗 See Also
 
-- [Dryer Drum Planetarium](047-dryer-drum-planetarium/)
-- [Scrap Metal Sculpture](045-scrap-metal-sculpture/)
+- [Dryer Drum Planetarium](/categories/art-and-installation/047-dryer-drum-planetarium/)
+- [Scrap Metal Sculpture](/categories/art-and-installation/045-scrap-metal-sculpture/)

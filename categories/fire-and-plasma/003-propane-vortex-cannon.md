@@ -19,7 +19,7 @@ ratings:
 # #003 — Propane Vortex Cannon
 
 <p align="center">
-  <img src="../../images/builds/003-propane-vortex-cannon.jpg" alt="Propane Vortex Cannon" width="700" />
+  <img src="/images/builds/003-propane-vortex-cannon.jpg" alt="Propane Vortex Cannon" width="700" />
 </p>
 
 > A trash can that shoots flaming vortex rings across the yard — part physics demo, part backyard artillery.
@@ -78,5 +78,5 @@ The vortex ring stays coherent because of angular momentum — the donut shape i
 
 ## 🔗 See Also
 
-- [Fire Tornado Table](007-fire-tornado-table/) — another way to make fire do impossible-looking things
-- [Rubens' Tube](../sound-and-music/009-rubens-tube/) — propane used to visualize sound waves as fire
+- [Fire Tornado Table](/categories/fire-and-plasma/007-fire-tornado-table/) — another way to make fire do impossible-looking things
+- [Rubens' Tube](/categories/sound-and-music/009-rubens-tube/) — propane used to visualize sound waves as fire

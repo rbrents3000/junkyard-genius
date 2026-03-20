@@ -19,7 +19,7 @@ ratings:
 # #303 — Instant Pot Vacuum Chamber
 
 <p align="center">
-  <img src="../../images/builds/303-instant-pot-vacuum-chamber.jpg" alt="Instant Pot Vacuum Chamber" width="700" />
+  <img src="/images/builds/303-instant-pot-vacuum-chamber.jpg" alt="Instant Pot Vacuum Chamber" width="700" />
 </p>
 
 > Your pressure cooker already handles pressure differentials. It just doesn't know it works in reverse.
@@ -80,5 +80,5 @@ The modification is almost disappointingly simple. Unscrew or remove the steam r
 
 ## 🔗 See Also
 
-- [Coffee Maker Distiller](262-coffee-maker-distiller/)
-- [Blender Vortex Centrifuge](263-blender-centrifuge/)
+- [Coffee Maker Distiller](/categories/kitchen-hacks/262-coffee-maker-distiller/)
+- [Blender Vortex Centrifuge](/categories/kitchen-hacks/263-blender-centrifuge/)

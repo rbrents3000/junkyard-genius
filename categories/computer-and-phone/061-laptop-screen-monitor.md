@@ -19,7 +19,7 @@ ratings:
 # #061 — Laptop Screen Monitor
 
 <p align="center">
-  <img src="../../images/builds/061-laptop-screen-monitor.jpg" alt="Laptop Screen Monitor" width="700" />
+  <img src="/images/builds/061-laptop-screen-monitor.jpg" alt="Laptop Screen Monitor" width="700" />
 </p>
 
 > Old laptop screen + $12 controller board = portable HDMI monitor. Mount it in a picture frame for a stealth display.
@@ -65,6 +65,6 @@ Every dead laptop contains a perfectly good LCD panel — the screen almost neve
 
 ## 🔗 See Also
 
-- [Laptop Screen Light Table](062-laptop-screen-light-table/)
-- [Tablet AI Picture Frame](065-tablet-ai-picture-frame/)
+- [Laptop Screen Light Table](/categories/computer-and-phone/062-laptop-screen-light-table/)
+- [Tablet AI Picture Frame](/categories/computer-and-phone/065-tablet-ai-picture-frame/)
 

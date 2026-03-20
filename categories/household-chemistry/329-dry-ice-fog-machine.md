@@ -19,7 +19,7 @@ ratings:
 # #329 — Dry Ice Fog Machine
 
 <p align="center">
-  <img src="../../images/builds/329-dry-ice-fog-machine.jpg" alt="Dry Ice Fog Machine" width="700" />
+  <img src="/images/builds/329-dry-ice-fog-machine.jpg" alt="Dry Ice Fog Machine" width="700" />
 </p>
 
 > Dry ice plus hot water plus a fan in a cooler equals low-lying theatrical fog that crawls across the floor like something out of a horror movie. Five minutes of build time, hours of atmosphere.
@@ -77,6 +77,6 @@ Building a controllable fog machine from a cooler takes about five minutes. A St
 
 ## 🔗 See Also
 
-- [Chemical Smoke Screen Machine](../alchemist-cookbook/276-chemical-smoke-screen-machine/)
-- [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste/)
+- [Chemical Smoke Screen Machine](/categories/alchemist-cookbook/276-chemical-smoke-screen-machine/)
+- [Elephant Toothpaste](/categories/household-chemistry/282-hydrogen-peroxide-elephant-toothpaste/)
 

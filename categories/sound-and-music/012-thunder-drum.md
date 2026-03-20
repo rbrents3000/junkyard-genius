@@ -19,7 +19,7 @@ ratings:
 # #012 — Thunder Drum
 
 <p align="center">
-  <img src="../../images/builds/012-thunder-drum.jpg" alt="Thunder Drum" width="700" />
+  <img src="/images/builds/012-thunder-drum.jpg" alt="Thunder Drum" width="700" />
 </p>
 
 > A spring attached to a speaker membrane produces sounds exactly like rolling thunder — shake it and your neighbors think a storm is coming.
@@ -70,5 +70,5 @@ The physics are elegant: the spring has many resonant modes at different frequen
 
 ## 🔗 See Also
 
-- [Aeolian Wind Harp](013-aeolian-wind-harp/) — another instrument that plays itself using natural forces
-- [Bone Conduction Speaker](014-bone-conduction-speaker/) — another unusual way to produce and transmit sound
+- [Aeolian Wind Harp](/categories/sound-and-music/013-aeolian-wind-harp/) — another instrument that plays itself using natural forces
+- [Bone Conduction Speaker](/categories/sound-and-music/014-bone-conduction-speaker/) — another unusual way to produce and transmit sound

@@ -19,7 +19,7 @@ ratings:
 # #212 — Electrolysis Rust Eraser
 
 <p align="center">
-  <img src="../../images/builds/212-electrolysis-rust-eraser.jpg" alt="Electrolysis Rust Eraser" width="700" />
+  <img src="/images/builds/212-electrolysis-rust-eraser.jpg" alt="Electrolysis Rust Eraser" width="700" />
 </p>
 
 > Washing soda, water, a battery charger, and a sacrificial piece of scrap steel — electrolysis pulls rust out of pits and crevices that sandpaper can't reach.
@@ -64,6 +64,6 @@ This method is superior to chemical rust removers (vinegar, phosphoric acid) and
 
 ## 🔗 See Also
 
-- [Electroplating Station](../chemical-electronic/156-electroplating-station/) — the same electrolysis principle used to deposit metal instead of removing oxide
-- [Coin Battery Stack](218-coin-battery-stack/) — another electrochemistry build using household materials
+- [Electroplating Station](/categories/chemical-electronic/156-electroplating-station/) — the same electrolysis principle used to deposit metal instead of removing oxide
+- [Coin Battery Stack](/categories/household-chemistry/218-coin-battery-stack/) — another electrochemistry build using household materials
 

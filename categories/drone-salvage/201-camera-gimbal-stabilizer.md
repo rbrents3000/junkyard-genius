@@ -19,7 +19,7 @@ ratings:
 # #201 — Camera Gimbal Stabilizer
 
 <p align="center">
-  <img src="../../images/builds/201-camera-gimbal-stabilizer.jpg" alt="Camera Gimbal Stabilizer" width="700" />
+  <img src="/images/builds/201-camera-gimbal-stabilizer.jpg" alt="Camera Gimbal Stabilizer" width="700" />
 </p>
 
 > Salvage the gimbal motors from a crashed drone and build a handheld 3-axis stabilizer for your phone or GoPro — the same tech that costs $200+ retail.
@@ -70,6 +70,6 @@ The IMU reads the current orientation, the PID loop calculates how far off-level
 
 ## 🔗 See Also
 
-- [Gimbal Motor Star Tracker](203-gimbal-motor-star-tracker/) — same motors, different application: tracking stars at sidereal rate
-- [FPV Ground Rover](202-fpv-ground-rover/) — mount this stabilizer on a rover for smooth mobile footage
+- [Gimbal Motor Star Tracker](/categories/drone-salvage/203-gimbal-motor-star-tracker/) — same motors, different application: tracking stars at sidereal rate
+- [FPV Ground Rover](/categories/drone-salvage/202-fpv-ground-rover/) — mount this stabilizer on a rover for smooth mobile footage
 

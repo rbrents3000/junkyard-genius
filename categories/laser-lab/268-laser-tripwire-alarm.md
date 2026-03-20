@@ -19,7 +19,7 @@ ratings:
 # #268 — Laser Tripwire Security System
 
 <p align="center">
-  <img src="../../images/builds/268-laser-tripwire-alarm.jpg" alt="Laser Tripwire Security System" width="700" />
+  <img src="/images/builds/268-laser-tripwire-alarm.jpg" alt="Laser Tripwire Security System" width="700" />
 </p>
 
 > Invisible security from a $2 laser. Every spy movie you have ever watched just became a weekend project.
@@ -84,7 +84,7 @@ Add an ESP32 or ESP8266 instead of a basic Arduino and you get WiFi connectivity
 
 ## 🔗 See Also
 
-- [Laser Voice Communicator](265-laser-communicator/)
-- [Laser Harp](267-laser-harp/)
-- [Faraday Cage](../survival-off-grid/252-faraday-cage/)
+- [Laser Voice Communicator](/categories/laser-lab/265-laser-communicator/)
+- [Laser Harp](/categories/laser-lab/267-laser-harp/)
+- [Faraday Cage](/categories/survival-off-grid/252-faraday-cage/)
 

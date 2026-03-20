@@ -19,7 +19,7 @@ ratings:
 # #056 — Hard Drive Speaker
 
 <p align="center">
-  <img src="../../images/builds/056-hard-drive-speaker.jpg" alt="Hard Drive Speaker" width="700" />
+  <img src="/images/builds/056-hard-drive-speaker.jpg" alt="Hard Drive Speaker" width="700" />
 </p>
 
 > The read/write arm in your dead hard drive is literally a speaker. Same voice coil tech. Just add music.
@@ -66,6 +66,6 @@ A hard drive's read/write head moves using a voice coil actuator — the exact s
 
 ## 🔗 See Also
 
-- [HDD Platter Wind Chimes](058-hdd-platter-wind-chimes/)
-- [Hard Drive POV Clock](057-hard-drive-pov-clock/)
+- [HDD Platter Wind Chimes](/categories/computer-and-phone/058-hdd-platter-wind-chimes/)
+- [Hard Drive POV Clock](/categories/computer-and-phone/057-hard-drive-pov-clock/)
 

@@ -19,7 +19,7 @@ ratings:
 # #204 — Drone Motor Wind Turbine
 
 <p align="center">
-  <img src="../../images/builds/204-drone-motor-wind-turbine.jpg" alt="Drone Motor Wind Turbine" width="700" />
+  <img src="/images/builds/204-drone-motor-wind-turbine.jpg" alt="Drone Motor Wind Turbine" width="700" />
 </p>
 
 > Four brushless drone motors wired as generators, paired with 3D-printed blades, turn wind into usable electricity.
@@ -68,6 +68,6 @@ You won't power your house. But you can trickle-charge a phone, run LED lights, 
 
 ## 🔗 See Also
 
-- [Drone LiPo Powerwall](206-drone-lipo-powerwall/) — store wind energy in salvaged drone batteries
-- [Scooter Motor Wind Turbine](../scooter-and-motor/091-wind-phone-charger/) — larger turbine from e-scooter hub motors
+- [Drone LiPo Powerwall](/categories/drone-salvage/206-drone-lipo-powerwall/) — store wind energy in salvaged drone batteries
+- [Scooter Motor Wind Turbine](/categories/scooter-and-motor/091-wind-phone-charger/) — larger turbine from e-scooter hub motors
 

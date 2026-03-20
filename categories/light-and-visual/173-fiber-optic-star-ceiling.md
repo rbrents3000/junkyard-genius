@@ -19,7 +19,7 @@ ratings:
 # #173 — Fiber Optic Star Ceiling
 
 <p align="center">
-  <img src="../../images/builds/173-fiber-optic-star-ceiling.jpg" alt="Fiber Optic Star Ceiling" width="700" />
+  <img src="/images/builds/173-fiber-optic-star-ceiling.jpg" alt="Fiber Optic Star Ceiling" width="700" />
 </p>
 
 > Hundreds of fiber optic strands poked through a ceiling panel create a realistic night sky in your bedroom — complete with twinkling.
@@ -80,6 +80,6 @@ This is a permanent installation that transforms a bedroom, home theater, or bat
 
 ## 🔗 See Also
 
-- [Infinity Mirror Table](016-infinity-mirror-table/) — another LED installation that transforms a room
-- [UV Reactive Water Wall](023-uv-reactive-water-wall/) — another permanent installation using light effects
+- [Infinity Mirror Table](/categories/light-and-visual/016-infinity-mirror-table/) — another LED installation that transforms a room
+- [UV Reactive Water Wall](/categories/light-and-visual/023-uv-reactive-water-wall/) — another permanent installation using light effects
 

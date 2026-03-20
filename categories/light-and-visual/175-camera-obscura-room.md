@@ -19,7 +19,7 @@ ratings:
 # #175 — Camera Obscura Room
 
 <p align="center">
-  <img src="../../images/builds/175-camera-obscura-room.jpg" alt="Camera Obscura Room" width="700" />
+  <img src="/images/builds/175-camera-obscura-room.jpg" alt="Camera Obscura Room" width="700" />
 </p>
 
 > Seal a room, make one small hole, and the entire outside world projects live and inverted on your walls — the original camera, no lens required.
@@ -73,5 +73,5 @@ Trees sway, cars drive by, clouds drift — all projected in real time, fully in
 
 ## 🔗 See Also
 
-- [Schlieren Optics](172-schlieren-optics/) — another optics project that reveals normally invisible phenomena
-- [Fresnel Lens Solar Forge](020-fresnel-lens-solar-forge/) — another project that exploits the focusing power of light
+- [Schlieren Optics](/categories/light-and-visual/172-schlieren-optics/) — another optics project that reveals normally invisible phenomena
+- [Fresnel Lens Solar Forge](/categories/light-and-visual/020-fresnel-lens-solar-forge/) — another project that exploits the focusing power of light

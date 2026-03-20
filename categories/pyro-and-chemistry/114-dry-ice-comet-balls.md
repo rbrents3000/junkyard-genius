@@ -19,7 +19,7 @@ ratings:
 # #114 — Dry Ice Comet Balls
 
 <p align="center">
-  <img src="../../images/builds/114-dry-ice-comet-balls.jpg" alt="Dry Ice Comet Balls" width="700" />
+  <img src="/images/builds/114-dry-ice-comet-balls.jpg" alt="Dry Ice Comet Balls" width="700" />
 </p>
 
 > Dry ice wrapped in fabric and dipped in water trails dense fog — add LEDs at night for meteor effects.
@@ -65,6 +65,6 @@ Dry ice sublimates at -109°F, turning directly from solid to gas. When it conta
 
 ## 🔗 See Also
 
-- [Dry Ice Bubble Cauldron](120-dry-ice-bubble-cauldron/)
-- [Colored Fire](101-colored-fire/)
+- [Dry Ice Bubble Cauldron](/categories/pyro-and-chemistry/120-dry-ice-bubble-cauldron/)
+- [Colored Fire](/categories/pyro-and-chemistry/101-colored-fire/)
 

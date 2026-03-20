@@ -19,7 +19,7 @@ ratings:
 # #262 — Coffee Maker Essential Oil Distiller
 
 <p align="center">
-  <img src="../../images/builds/262-coffee-maker-distiller.jpg" alt="Coffee Maker Essential Oil Distiller" width="700" />
+  <img src="/images/builds/262-coffee-maker-distiller.jpg" alt="Coffee Maker Essential Oil Distiller" width="700" />
 </p>
 
 > Coffee maker heats water, steam passes through herbs, copper coil condenses the vapor. Lavender oil from a Mr. Coffee.
@@ -84,6 +84,6 @@ You won't produce industrial quantities — a single coffee-maker run yields a f
 
 ## 🔗 See Also
 
-- [Blender Vortex Centrifuge](263-blender-centrifuge/)
-- [Stand Mixer Pottery Wheel](261-stand-mixer-pottery-wheel/)
-- [Rocket Stove](../survival-off-grid/253-rocket-stove/)
+- [Blender Vortex Centrifuge](/categories/kitchen-hacks/263-blender-centrifuge/)
+- [Stand Mixer Pottery Wheel](/categories/kitchen-hacks/261-stand-mixer-pottery-wheel/)
+- [Rocket Stove](/categories/survival-off-grid/253-rocket-stove/)

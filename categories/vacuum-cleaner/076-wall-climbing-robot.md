@@ -19,7 +19,7 @@ ratings:
 # #076 — Wall-Climbing Robot
 
 <p align="center">
-  <img src="../../images/builds/076-wall-climbing-robot.jpg" alt="Wall-Climbing Robot" width="700" />
+  <img src="/images/builds/076-wall-climbing-robot.jpg" alt="Wall-Climbing Robot" width="700" />
 </p>
 
 > Vacuum motor suction + RC car chassis. The suction overcomes gravity. A remote-controlled robot that drives up walls and across ceilings.
@@ -68,6 +68,6 @@ A vacuum motor creates suction — negative pressure that pulls the motor housin
 
 ## 🔗 See Also
 
-- [Vacuum Hovercraft](075-vacuum-hovercraft/)
-- [Cyclone Dust Separator](077-cyclone-dust-separator/)
+- [Vacuum Hovercraft](/categories/vacuum-cleaner/075-vacuum-hovercraft/)
+- [Cyclone Dust Separator](/categories/vacuum-cleaner/077-cyclone-dust-separator/)
 

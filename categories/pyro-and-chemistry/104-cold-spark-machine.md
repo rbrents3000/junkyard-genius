@@ -19,7 +19,7 @@ ratings:
 # #104 — Cold Spark Machine
 
 <p align="center">
-  <img src="../../images/builds/104-cold-spark-machine.jpg" alt="Cold Spark Machine" width="700" />
+  <img src="/images/builds/104-cold-spark-machine.jpg" alt="Cold Spark Machine" width="700" />
 </p>
 
 > Titanium powder heated and launched upward creates dazzling sparks that won't burn skin or set anything on fire.
@@ -68,6 +68,6 @@ Cold spark machines are the secret behind the indoor pyrotechnics you see at con
 
 ## 🔗 See Also
 
-- [Fireworks Sequencer](../pi-and-arduino/121-fireworks-sequencer/)
-- [Steel Wool Photography](113-steel-wool-photography/)
+- [Fireworks Sequencer](/categories/pi-and-arduino/121-fireworks-sequencer/)
+- [Steel Wool Photography](/categories/pyro-and-chemistry/113-steel-wool-photography/)
 

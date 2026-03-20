@@ -19,7 +19,7 @@ ratings:
 # #065 — Tablet AI Picture Frame
 
 <p align="center">
-  <img src="../../images/builds/065-tablet-ai-picture-frame.jpg" alt="Tablet AI Picture Frame" width="700" />
+  <img src="/images/builds/065-tablet-ai-picture-frame.jpg" alt="Tablet AI Picture Frame" width="700" />
 </p>
 
 > Old tablet + wall mount = dynamic picture frame. Run AI art generators on family photos, or a live dashboard for space imagery, weather, and stocks.
@@ -61,5 +61,5 @@ That old iPad or Android tablet with the cracked corner and sluggish performance
 
 ## 🔗 See Also
 
-- [Laptop Screen Monitor](061-laptop-screen-monitor/)
-- [Phone Sensor Network](064-phone-sensor-network/)
+- [Laptop Screen Monitor](/categories/computer-and-phone/061-laptop-screen-monitor/)
+- [Phone Sensor Network](/categories/computer-and-phone/064-phone-sensor-network/)

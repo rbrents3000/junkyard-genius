@@ -19,7 +19,7 @@ ratings:
 # #149 — Voice Home Automation
 
 <p align="center">
-  <img src="../../images/builds/149-voice-home-automation.jpg" alt="Voice Home Automation" width="700" />
+  <img src="/images/builds/149-voice-home-automation.jpg" alt="Voice Home Automation" width="700" />
 </p>
 
 > Python speech recognition and a relay board — say "turn on lamp" and the relay clicks. No Alexa, no cloud, fully local.
@@ -66,6 +66,6 @@ Alexa and Google Home are convenient but they send every word you say to corpora
 
 ## 🔗 See Also
 
-- [Sentiment Room Lighting](144-sentiment-room-lighting/)
-- [Pi-hole Ad Blocker](../pi-and-arduino/139-pi-hole-ad-blocker/)
+- [Sentiment Room Lighting](/categories/python-projects/144-sentiment-room-lighting/)
+- [Pi-hole Ad Blocker](/categories/pi-and-arduino/139-pi-hole-ad-blocker/)
 

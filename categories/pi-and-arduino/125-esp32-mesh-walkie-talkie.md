@@ -19,7 +19,7 @@ ratings:
 # #125 — ESP32 Mesh Walkie-Talkie
 
 <p align="center">
-  <img src="../../images/builds/125-esp32-mesh-walkie-talkie.jpg" alt="ESP32 Mesh Walkie-Talkie" width="700" />
+  <img src="/images/builds/125-esp32-mesh-walkie-talkie.jpg" alt="ESP32 Mesh Walkie-Talkie" width="700" />
 </p>
 
 > Multiple ESP32 boards with mics and speakers form a mesh radio network — decentralized communication with no infrastructure.
@@ -67,6 +67,6 @@ The ESP32 has built-in WiFi that can operate in ad-hoc mode — no router requir
 
 ## 🔗 See Also
 
-- [Pirate Radio](134-pirate-radio/)
-- [ESP32 Weather Station](132-esp32-weather-station/)
+- [Pirate Radio](/categories/pi-and-arduino/134-pirate-radio/)
+- [ESP32 Weather Station](/categories/pi-and-arduino/132-esp32-weather-station/)
 

@@ -19,7 +19,7 @@ ratings:
 # #126 — Retro Arcade Cabinet
 
 <p align="center">
-  <img src="../../images/builds/126-retro-arcade-cabinet.jpg" alt="Retro Arcade Cabinet" width="700" />
+  <img src="/images/builds/126-retro-arcade-cabinet.jpg" alt="Retro Arcade Cabinet" width="700" />
 </p>
 
 > A Pi 4 running RetroPie in a repurposed furniture cabinet with arcade buttons — 10,000+ retro games.
@@ -68,6 +68,6 @@ A full-sized arcade cabinet running thousands of classic games — Pac-Man, Stre
 
 ## 🔗 See Also
 
-- [Pi DJ Controller](131-pi-dj-controller/)
-- [Flight Sim Cockpit](../python-projects/154-flight-sim-cockpit/)
+- [Pi DJ Controller](/categories/pi-and-arduino/131-pi-dj-controller/)
+- [Flight Sim Cockpit](/categories/python-projects/154-flight-sim-cockpit/)
 

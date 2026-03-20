@@ -19,7 +19,7 @@ ratings:
 # #215 — Baking Soda Vinegar Rocket
 
 <p align="center">
-  <img src="../../images/builds/215-baking-soda-vinegar-rocket.jpg" alt="Baking Soda Vinegar Rocket" width="700" />
+  <img src="/images/builds/215-baking-soda-vinegar-rocket.jpg" alt="Baking Soda Vinegar Rocket" width="700" />
 </p>
 
 > Baking soda meets vinegar inside a sealed 2-liter bottle, CO2 pressure builds behind a cork, and when it blows — the bottle launches 50+ feet into the air.
@@ -69,6 +69,6 @@ This is the build that every kid remembers. Scaling it up with a 2-liter bottle 
 
 ## 🔗 See Also
 
-- [Alcohol Vapor Cannon](209-alcohol-vapor-cannon/) — another household-chemical projectile launcher (combustion instead of acid-base)
-- [Hydrogen Generator](../chemical-electronic/159-hydrogen-generator/) — electrolysis-based gas production for more controlled experiments
+- [Alcohol Vapor Cannon](/categories/household-chemistry/209-alcohol-vapor-cannon/) — another household-chemical projectile launcher (combustion instead of acid-base)
+- [Hydrogen Generator](/categories/chemical-electronic/159-hydrogen-generator/) — electrolysis-based gas production for more controlled experiments
 

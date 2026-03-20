@@ -19,7 +19,7 @@ ratings:
 # #208 — FPV RC Boat
 
 <p align="center">
-  <img src="../../images/builds/208-fpv-rc-boat.jpg" alt="FPV RC Boat" width="700" />
+  <img src="/images/builds/208-fpv-rc-boat.jpg" alt="FPV RC Boat" width="700" />
 </p>
 
 > A waterproof hull, a drone brushless motor with prop, a live camera feed, and FPV goggles — explore lakes and ponds from the boat's perspective.
@@ -74,6 +74,6 @@ The clout potential is off the charts. FPV boat footage on a calm lake at sunset
 
 ## 🔗 See Also
 
-- [FPV Ground Rover](202-fpv-ground-rover/) — same FPV concept on land
-- [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer/) — add stabilization to the boat camera for smoother footage in chop
+- [FPV Ground Rover](/categories/drone-salvage/202-fpv-ground-rover/) — same FPV concept on land
+- [Camera Gimbal Stabilizer](/categories/drone-salvage/201-camera-gimbal-stabilizer/) — add stabilization to the boat camera for smoother footage in chop
 

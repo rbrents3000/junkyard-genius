@@ -19,7 +19,7 @@ ratings:
 # #335 — CRT Electron Art Array
 
 <p align="center">
-  <img src="../../images/builds/335-crt-electron-art-array.jpg" alt="CRT Electron Art Array" width="700" />
+  <img src="/images/builds/335-crt-electron-art-array.jpg" alt="CRT Electron Art Array" width="700" />
 </p>
 
 > A wall of hacked CRT televisions drawing Lissajous spirals and phosphor lightning in real-time — turning the most obsolete technology on earth into the most striking gallery installation in the room.
@@ -87,6 +87,6 @@ Now multiply that by six. Mount 3-6 modified CRTs in a grid on a wall, each rece
 
 ## 🔗 See Also
 
-- [CRT Electromagnetic Art](../art-and-installation/048-crt-electromagnetic-art/) — single-CRT version of this concept with deeper magnet experiments
-- [Hard Drive POV Clock](../computer-and-phone/057-hard-drive-pov-clock/) — another persistence-of-vision display from salvaged parts
+- [CRT Electromagnetic Art](/categories/art-and-installation/048-crt-electromagnetic-art/) — single-CRT version of this concept with deeper magnet experiments
+- [Hard Drive POV Clock](/categories/computer-and-phone/057-hard-drive-pov-clock/) — another persistence-of-vision display from salvaged parts
 

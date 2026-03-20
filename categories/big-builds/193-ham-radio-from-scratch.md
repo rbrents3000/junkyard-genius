@@ -19,7 +19,7 @@ ratings:
 # #193 — Ham Radio from Scratch
 
 <p align="center">
-  <img src="../../images/builds/193-ham-radio-from-scratch.jpg" alt="Ham Radio from Scratch" width="700" />
+  <img src="/images/builds/193-ham-radio-from-scratch.jpg" alt="Ham Radio from Scratch" width="700" />
 </p>
 
 > Wind your own coils, build a crystal oscillator, and talk to someone on the other side of the planet using scrap metal and patience.
@@ -82,5 +82,5 @@ This is the original DIY — ham radio operators have been building their own ge
 
 ## 🔗 See Also
 
-- [Weather Balloon Launch](192-weather-balloon-launch/) — another way to reach beyond your horizon with homebrew technology
-- [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse/) — a different kind of big build with electronics integration
+- [Weather Balloon Launch](/categories/big-builds/192-weather-balloon-launch/) — another way to reach beyond your horizon with homebrew technology
+- [Geodesic Dome Greenhouse](/categories/big-builds/194-geodesic-dome-greenhouse/) — a different kind of big build with electronics integration

@@ -19,7 +19,7 @@ ratings:
 # #272 — Hard Drive Platter Wind Chimes
 
 <p align="center">
-  <img src="../../images/builds/272-hard-drive-wind-chimes.jpg" alt="Hard Drive Platter Wind Chimes" width="700" />
+  <img src="/images/builds/272-hard-drive-wind-chimes.jpg" alt="Hard Drive Platter Wind Chimes" width="700" />
 </p>
 
 > Salvaged hard drive platters ring like tiny bells. String a set from a branch and let the wind play your data's funeral song.
@@ -79,7 +79,7 @@ String them from a branch or a metal frame, add a striker in the center, and you
 
 ## 🔗 See Also
 
-- [Cigar Box Guitar](235-cigar-box-guitar/)
-- [Tin Can Banjo](238-tin-can-banjo/)
-- [Steel Tongue Drum](239-steel-tongue-drum/)
+- [Cigar Box Guitar](/categories/junk-instruments/235-cigar-box-guitar/)
+- [Tin Can Banjo](/categories/junk-instruments/238-tin-can-banjo/)
+- [Steel Tongue Drum](/categories/junk-instruments/239-steel-tongue-drum/)
 

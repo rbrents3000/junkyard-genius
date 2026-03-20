@@ -19,7 +19,7 @@ ratings:
 # #009 — Rubens' Tube
 
 <p align="center">
-  <img src="../../images/builds/009-rubens-tube.jpg" alt="Rubens' Tube" width="700" />
+  <img src="/images/builds/009-rubens-tube.jpg" alt="Rubens' Tube" width="700" />
 </p>
 
 > A gas-filled tube with a row of holes shows standing sound waves as a dancing wall of fire — the most elegant physics demo ever built.
@@ -81,5 +81,5 @@ Change the frequency and the flame pattern changes instantly. Low frequencies pr
 
 ## 🔗 See Also
 
-- [Propane Vortex Cannon](../fire-and-plasma/003-propane-vortex-cannon/) — another propane project with dramatic fire effects
-- [Plasma Speaker](008-plasma-speaker/) — visualize sound with an electrical arc instead of fire
+- [Propane Vortex Cannon](/categories/fire-and-plasma/003-propane-vortex-cannon/) — another propane project with dramatic fire effects
+- [Plasma Speaker](/categories/sound-and-music/008-plasma-speaker/) — visualize sound with an electrical arc instead of fire

@@ -19,7 +19,7 @@ ratings:
 # #231 — Ignition Coil KNO3 Flame Jet
 
 <p align="center">
-  <img src="../../images/builds/231-ignition-coil-kno3-flame-jet.jpg" alt="Ignition Coil KNO3 Flame Jet" width="700" />
+  <img src="/images/builds/231-ignition-coil-kno3-flame-jet.jpg" alt="Ignition Coil KNO3 Flame Jet" width="700" />
 </p>
 
 > Car ignition coil sparks into a KNO3/sugar fuel grain = a self-oxidizing flame jet that burns underwater. Because regular fire is for amateurs.
@@ -69,6 +69,6 @@ Potassium nitrate (KNO3) and sugar, when melted together and hardened, form a so
 
 ## 🔗 See Also
 
-- [Ignition Coil Tesla Coil](../junkyard-auto/220-ignition-coil-tesla-coil/)
-- [Colored Fire](../pyro-and-chemistry/101-colored-fire/)
+- [Ignition Coil Tesla Coil](/categories/junkyard-auto/220-ignition-coil-tesla-coil/)
+- [Colored Fire](/categories/pyro-and-chemistry/101-colored-fire/)
 

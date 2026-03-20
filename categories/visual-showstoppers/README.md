@@ -8,7 +8,7 @@ image: /images/categories/visual-showstoppers.jpg
 # 👁️ Visual Showstoppers
 
 <p align="center">
-  <img src="../../images/categories/visual-showstoppers.jpg" alt="Visual Showstoppers" width="700" />
+  <img src="/images/categories/visual-showstoppers.jpg" alt="Visual Showstoppers" width="700" />
 </p>
 
 <p align="center">

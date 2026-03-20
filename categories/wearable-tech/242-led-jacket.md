@@ -19,7 +19,7 @@ ratings:
 # #242 — Sound-Reactive LED Jacket
 
 <p align="center">
-  <img src="../../images/builds/242-led-jacket.jpg" alt="Sound-Reactive LED Jacket" width="700" />
+  <img src="/images/builds/242-led-jacket.jpg" alt="Sound-Reactive LED Jacket" width="700" />
 </p>
 
 > WS2812B LED strips sewn into a hoodie with an ESP32 and a microphone. The LEDs dance to whatever music is playing around you. Walking into a party wearing this is an instant power move.
@@ -80,6 +80,6 @@ Battery life is the engineering challenge. A full jacket with 150+ LEDs at full 
 
 ## 🔗 See Also
 
-- [Sound-Reactive LED Face Mask](244-led-mask/)
-- [Motion Capture MIDI Glove](246-motion-capture-glove/)
+- [Sound-Reactive LED Face Mask](/categories/wearable-tech/244-led-mask/)
+- [Motion Capture MIDI Glove](/categories/wearable-tech/246-motion-capture-glove/)
 

@@ -19,7 +19,7 @@ ratings:
 # #136 — ESP32 Micro Drone
 
 <p align="center">
-  <img src="../../images/builds/136-esp32-micro-drone.jpg" alt="ESP32 Micro Drone" width="700" />
+  <img src="/images/builds/136-esp32-micro-drone.jpg" alt="ESP32 Micro Drone" width="700" />
 </p>
 
 > An ESP32 as flight controller with an MPU6050 IMU and 4 brushless motors — build a phone-controlled drone from scratch for under $30.
@@ -69,6 +69,6 @@ Commercial drones are marvels of engineering — but the core technology isn't t
 
 ## 🔗 See Also
 
-- [Star Tracker](137-star-tracker/)
-- [Nerf Sentry Turret](138-nerf-sentry-turret/)
+- [Star Tracker](/categories/pi-and-arduino/137-star-tracker/)
+- [Nerf Sentry Turret](/categories/pi-and-arduino/138-nerf-sentry-turret/)
 

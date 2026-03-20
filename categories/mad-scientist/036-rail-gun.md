@@ -19,7 +19,7 @@ ratings:
 # #036 — Rail Gun
 
 <p align="center">
-  <img src="../../images/builds/036-rail-gun.jpg" alt="Rail Gun" width="700" />
+  <img src="/images/builds/036-rail-gun.jpg" alt="Rail Gun" width="700" />
 </p>
 
 > Two parallel copper rails, a conductive projectile, and a massive current pulse. The Lorentz force launches the projectile at terrifying speed. Welcome to electromagnetic propulsion.
@@ -76,5 +76,5 @@ This is one of the most advanced builds in this book. It requires understanding 
 
 ## 🔗 See Also
 
-- [Coil Gun](037-coil-gun/)
-- [Electromagnetic Can Crusher](035-electromagnetic-can-crusher/)
+- [Coil Gun](/categories/mad-scientist/037-coil-gun/)
+- [Electromagnetic Can Crusher](/categories/mad-scientist/035-electromagnetic-can-crusher/)

@@ -19,7 +19,7 @@ ratings:
 # #261 — Stand Mixer Pottery Wheel
 
 <p align="center">
-  <img src="../../images/builds/261-stand-mixer-pottery-wheel.jpg" alt="Stand Mixer Pottery Wheel" width="700" />
+  <img src="/images/builds/261-stand-mixer-pottery-wheel.jpg" alt="Stand Mixer Pottery Wheel" width="700" />
 </p>
 
 > KitchenAid power take-off port + circular bat = instant pottery wheel. The motor was literally built for torque.
@@ -83,7 +83,7 @@ The conversion is straightforward: build an adapter that fits the PTO drive shaf
 
 ## 🔗 See Also
 
-- [Coffee Maker Essential Oil Distiller](262-coffee-maker-distiller/)
-- [Waffle Iron Heat Press](264-waffle-iron-press/)
-- [Toaster Reflow Oven](260-toaster-reflow-oven/)
+- [Coffee Maker Essential Oil Distiller](/categories/kitchen-hacks/262-coffee-maker-distiller/)
+- [Waffle Iron Heat Press](/categories/kitchen-hacks/264-waffle-iron-press/)
+- [Toaster Reflow Oven](/categories/kitchen-hacks/260-toaster-reflow-oven/)
 

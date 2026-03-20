@@ -19,7 +19,7 @@ ratings:
 # #072 — Pen Plotter
 
 <p align="center">
-  <img src="../../images/builds/072-pen-plotter.jpg" alt="Pen Plotter" width="700" />
+  <img src="/images/builds/072-pen-plotter.jpg" alt="Pen Plotter" width="700" />
 </p>
 
 > Printer steppers, timing belts, a servo, and a pen holder. Feed it SVG files and generative art. Real ink on real paper — a quality inkjets cannot match.
@@ -68,6 +68,6 @@ A pen plotter is a machine that draws with actual pens on actual paper — movin
 
 ## 🔗 See Also
 
-- [Printer Stepper CNC](069-printer-stepper-cnc/)
-- [DVD Laser Engraver](071-dvd-laser-engraver/)
+- [Printer Stepper CNC](/categories/printer-and-scanner/069-printer-stepper-cnc/)
+- [DVD Laser Engraver](/categories/printer-and-scanner/071-dvd-laser-engraver/)
 

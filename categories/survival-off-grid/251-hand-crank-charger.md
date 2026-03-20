@@ -19,7 +19,7 @@ ratings:
 # #251 — Hand-Crank Phone Charger
 
 <p align="center">
-  <img src="../../images/builds/251-hand-crank-charger.jpg" alt="Hand-Crank Phone Charger" width="700" />
+  <img src="/images/builds/251-hand-crank-charger.jpg" alt="Hand-Crank Phone Charger" width="700" />
 </p>
 
 > Five minutes of cranking buys you one emergency call. Your arm is the power plant.
@@ -84,7 +84,7 @@ This is the same fundamental mechanism inside every commercial hand-crank flashl
 
 ## 🔗 See Also
 
-- [Faraday Cage](252-faraday-cage/)
-- [Biogas Generator](249-biogas-generator/)
-- [Solar Still](248-solar-still/)
+- [Faraday Cage](/categories/survival-off-grid/252-faraday-cage/)
+- [Biogas Generator](/categories/survival-off-grid/249-biogas-generator/)
+- [Solar Still](/categories/survival-off-grid/248-solar-still/)
 

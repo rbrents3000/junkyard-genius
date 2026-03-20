@@ -19,7 +19,7 @@ ratings:
 # #124 — Arduino Guitar Pedal
 
 <p align="center">
-  <img src="../../images/builds/124-arduino-guitar-pedal.jpg" alt="Arduino Guitar Pedal" width="700" />
+  <img src="/images/builds/124-arduino-guitar-pedal.jpg" alt="Arduino Guitar Pedal" width="700" />
 </p>
 
 > An Arduino reads analog audio and applies digital effects — distortion, delay, chorus — housed in a dead hard drive chassis.
@@ -67,6 +67,6 @@ Guitar effect pedals are just analog-to-digital converters, signal processing, a
 
 ## 🔗 See Also
 
-- [Pi DJ Controller](131-pi-dj-controller/)
-- [MIDI Stepper Organ](135-midi-stepper-organ/)
+- [Pi DJ Controller](/categories/pi-and-arduino/131-pi-dj-controller/)
+- [MIDI Stepper Organ](/categories/pi-and-arduino/135-midi-stepper-organ/)
 

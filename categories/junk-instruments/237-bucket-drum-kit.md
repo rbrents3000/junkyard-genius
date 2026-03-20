@@ -19,7 +19,7 @@ ratings:
 # #237 — Bucket Drum Kit
 
 <p align="center">
-  <img src="../../images/builds/237-bucket-drum-kit.jpg" alt="Bucket Drum Kit" width="700" />
+  <img src="/images/builds/237-bucket-drum-kit.jpg" alt="Bucket Drum Kit" width="700" />
 </p>
 
 > Street performer buckets meet electronic drums — plug your five-gallon kit into any DAW and lay down beats.
@@ -78,6 +78,6 @@ Total cost is under $15 if you scrounge the buckets. A commercial electronic dru
 
 ## 🔗 See Also
 
-- [Cigar Box Guitar](235-cigar-box-guitar/) — another junkyard instrument with piezo pickup for electronic output
-- [Steel Tongue Drum](239-steel-tongue-drum/) — a more melodic percussion build from salvaged metal
+- [Cigar Box Guitar](/categories/junk-instruments/235-cigar-box-guitar/) — another junkyard instrument with piezo pickup for electronic output
+- [Steel Tongue Drum](/categories/junk-instruments/239-steel-tongue-drum/) — a more melodic percussion build from salvaged metal
 

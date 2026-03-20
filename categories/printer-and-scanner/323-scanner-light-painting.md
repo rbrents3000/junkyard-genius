@@ -19,7 +19,7 @@ ratings:
 # #323 — Scanner Light Painting
 
 <p align="center">
-  <img src="../../images/builds/323-scanner-light-painting.jpg" alt="Scanner Light Painting" width="700" />
+  <img src="/images/builds/323-scanner-light-painting.jpg" alt="Scanner Light Painting" width="700" />
 </p>
 
 > Lock a flatbed scanner open, wave light sources across the glass during a scan — the slow sweep captures long-exposure light trails as art.
@@ -82,6 +82,6 @@ The most mind-bending application is scanner portraiture: place your face on the
 
 ## 🔗 See Also
 
-- [Scanner Camera](070-scanner-camera/)
-- [Pen Plotter](072-pen-plotter/)
-- [Light Painting Robot](../light-and-visual/178-light-painting-robot/)
+- [Scanner Camera](/categories/printer-and-scanner/070-scanner-camera/)
+- [Pen Plotter](/categories/printer-and-scanner/072-pen-plotter/)
+- [Light Painting Robot](/categories/light-and-visual/178-light-painting-robot/)

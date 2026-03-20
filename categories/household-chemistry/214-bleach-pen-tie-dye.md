@@ -19,7 +19,7 @@ ratings:
 # #214 — Bleach Pen Tie-Dye
 
 <p align="center">
-  <img src="../../images/builds/214-bleach-pen-tie-dye.jpg" alt="Bleach Pen Tie-Dye" width="700" />
+  <img src="/images/builds/214-bleach-pen-tie-dye.jpg" alt="Bleach Pen Tie-Dye" width="700" />
 </p>
 
 > A bleach pen removes dye from dark fabric in precise, controlled patterns — reverse tie-dye that looks professional with zero artistic skill required.
@@ -64,6 +64,6 @@ The beauty of bleach tie-dye is the control. Unlike traditional tie-dye where co
 
 ## 🔗 See Also
 
-- [Hand Sanitizer Fire Art](210-hand-sanitizer-fire-art/) — another build using a common household chemical for artistic effect
-- [Invisible Ink Message Board](216-invisible-ink-message-board/) — pH chemistry used for revealing hidden patterns
+- [Hand Sanitizer Fire Art](/categories/household-chemistry/210-hand-sanitizer-fire-art/) — another build using a common household chemical for artistic effect
+- [Invisible Ink Message Board](/categories/household-chemistry/216-invisible-ink-message-board/) — pH chemistry used for revealing hidden patterns
 

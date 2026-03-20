@@ -19,7 +19,7 @@ ratings:
 # #277 — Electromagnetic Pulse Cannon (Localized)
 
 <p align="center">
-  <img src="../../images/builds/277-electromagnetic-pulse-cannon.jpg" alt="Electromagnetic Pulse Cannon (Localized)" width="700" />
+  <img src="/images/builds/277-electromagnetic-pulse-cannon.jpg" alt="Electromagnetic Pulse Cannon (Localized)" width="700" />
 </p>
 
 > A capacitor bank dumps into a hand-wound coil and fires a focused electromagnetic pulse that bricks electronics within a few feet. The most beautifully destructive thing you can build from junk.
@@ -83,6 +83,6 @@ The effective range is short — we’re talking a few feet at most with junkyar
 
 ## 🔗 See Also
 
-- [Capacitor Bank Plasma Igniter](275-capacitor-bank-plasma-igniter/)
-- [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher/)
+- [Capacitor Bank Plasma Igniter](/categories/alchemist-cookbook/275-capacitor-bank-plasma-igniter/)
+- [Electromagnetic Firework Launcher](/categories/alchemist-cookbook/229-electromagnetic-firework-launcher/)
 

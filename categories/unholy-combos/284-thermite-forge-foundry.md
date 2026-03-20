@@ -19,7 +19,7 @@ ratings:
 # #284 — Thermite Forge Foundry
 
 <p align="center">
-  <img src="../../images/builds/284-thermite-forge-foundry.jpg" alt="Thermite Forge Foundry" width="700" />
+  <img src="/images/builds/284-thermite-forge-foundry.jpg" alt="Thermite Forge Foundry" width="700" />
 </p>
 
 > Thermite melts steel. A brake rotor catches it. A sand mold shapes it. Home metallurgy at 2500°C — the most violent casting process you'll ever attempt.
@@ -83,5 +83,5 @@ A car brake rotor serves as the crucible. Cast iron rotors handle the thermal sh
 
 ## 🔗 See Also
 
-- [Desktop Foundry](../fire-and-plasma/005-desktop-foundry/)
-- [Thermite Flower Pot Forge](../pyro-and-chemistry/105-thermite-flower-pot/)
+- [Desktop Foundry](/categories/fire-and-plasma/005-desktop-foundry/)
+- [Thermite Flower Pot Forge](/categories/pyro-and-chemistry/105-thermite-flower-pot/)

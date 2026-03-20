@@ -8,7 +8,7 @@ image: /images/categories/scooter-and-motor.jpg
 # ⚙️ Scooter & Motor
 
 <p align="center">
-  <img src="../../images/categories/scooter-and-motor.jpg" alt="Scooter & Motor" width="700" />
+  <img src="/images/categories/scooter-and-motor.jpg" alt="Scooter & Motor" width="700" />
 </p>
 
 <p align="center">

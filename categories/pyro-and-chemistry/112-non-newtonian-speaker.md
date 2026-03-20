@@ -19,7 +19,7 @@ ratings:
 # #112 — Non-Newtonian Speaker
 
 <p align="center">
-  <img src="../../images/builds/112-non-newtonian-speaker.jpg" alt="Non-Newtonian Speaker" width="700" />
+  <img src="/images/builds/112-non-newtonian-speaker.jpg" alt="Non-Newtonian Speaker" width="700" />
 </p>
 
 > Cornstarch and water on a subwoofer — bass frequencies make alien tentacles dance on the speaker cone.
@@ -65,6 +65,6 @@ Mix cornstarch and water at the right ratio and you get a non-Newtonian fluid �
 
 ## 🔗 See Also
 
-- [Music Visualizer LED Wall](../python-projects/145-music-visualizer-led-wall/)
-- [Elephant Toothpaste](102-elephant-toothpaste/)
+- [Music Visualizer LED Wall](/categories/python-projects/145-music-visualizer-led-wall/)
+- [Elephant Toothpaste](/categories/pyro-and-chemistry/102-elephant-toothpaste/)
 

@@ -8,7 +8,7 @@ image: /images/categories/power-and-energy.jpg
 # 🔋 Power & Energy
 
 <p align="center">
-  <img src="../../images/categories/power-and-energy.jpg" alt="Power & Energy" width="700" />
+  <img src="/images/categories/power-and-energy.jpg" alt="Power & Energy" width="700" />
 </p>
 
 <p align="center">

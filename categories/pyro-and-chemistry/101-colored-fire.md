@@ -19,7 +19,7 @@ ratings:
 # #101 — Colored Fire
 
 <p align="center">
-  <img src="../../images/builds/101-colored-fire.jpg" alt="Colored Fire" width="700" />
+  <img src="/images/builds/101-colored-fire.jpg" alt="Colored Fire" width="700" />
 </p>
 
 > Metal salts turn an ordinary campfire into a chemistry-powered rainbow.
@@ -66,6 +66,6 @@ Every metal produces a characteristic color when heated — it's how astronomers
 
 ## 🔗 See Also
 
-- [Pharaoh's Serpent](110-pharaohs-serpent/)
-- [Steel Wool Photography](113-steel-wool-photography/)
+- [Pharaoh's Serpent](/categories/pyro-and-chemistry/110-pharaohs-serpent/)
+- [Steel Wool Photography](/categories/pyro-and-chemistry/113-steel-wool-photography/)
 

@@ -19,7 +19,7 @@ ratings:
 # #282 — Elephant Toothpaste
 
 <p align="center">
-  <img src="../../images/builds/282-hydrogen-peroxide-elephant-toothpaste.jpg" alt="Elephant Toothpaste" width="700" />
+  <img src="/images/builds/282-hydrogen-peroxide-elephant-toothpaste.jpg" alt="Elephant Toothpaste" width="700" />
 </p>
 
 > Concentrated hydrogen peroxide meets potassium iodide catalyst and erupts into a massive tower of steaming foam. The most photogenic chemistry demo on the planet.
@@ -77,6 +77,6 @@ The chemistry is beautifully elegant. The iodide ion (I-) from the potassium iod
 
 ## 🔗 See Also
 
-- [Vinegar Baking Soda Rocket](281-vinegar-baking-soda-rocket/)
-- [Sugar Smoke Bombs](327-sugar-smoke-bombs/)
+- [Vinegar Baking Soda Rocket](/categories/household-chemistry/281-vinegar-baking-soda-rocket/)
+- [Sugar Smoke Bombs](/categories/household-chemistry/327-sugar-smoke-bombs/)
 

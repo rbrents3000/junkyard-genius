@@ -8,7 +8,7 @@ image: /images/categories/humidifier-and-water.jpg
 # 💧 Humidifier & Water
 
 <p align="center">
-  <img src="../../images/categories/humidifier-and-water.jpg" alt="Humidifier & Water" width="700" />
+  <img src="/images/categories/humidifier-and-water.jpg" alt="Humidifier & Water" width="700" />
 </p>
 
 <p align="center">

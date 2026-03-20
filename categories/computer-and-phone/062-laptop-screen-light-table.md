@@ -19,7 +19,7 @@ ratings:
 # #062 — Laptop Screen Light Table
 
 <p align="center">
-  <img src="../../images/builds/062-laptop-screen-light-table.jpg" alt="Laptop Screen Light Table" width="700" />
+  <img src="/images/builds/062-laptop-screen-light-table.jpg" alt="Laptop Screen Light Table" width="700" />
 </p>
 
 > Strip the LCD layer off a laptop screen and keep the backlight. Ultra-thin, perfectly even light table for tracing art.
@@ -61,5 +61,5 @@ A laptop LCD screen is actually a sandwich: a backlight panel, multiple diffuser
 
 ## 🔗 See Also
 
-- [Laptop Screen Monitor](061-laptop-screen-monitor/)
-- [Phone Macro Photography](063-phone-macro-photography/)
+- [Laptop Screen Monitor](/categories/computer-and-phone/061-laptop-screen-monitor/)
+- [Phone Macro Photography](/categories/computer-and-phone/063-phone-macro-photography/)

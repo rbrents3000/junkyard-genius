@@ -19,7 +19,7 @@ ratings:
 # #063 — Phone Macro Photography
 
 <p align="center">
-  <img src="../../images/builds/063-phone-macro-photography.jpg" alt="Phone Macro Photography" width="700" />
+  <img src="/images/builds/063-phone-macro-photography.jpg" alt="Phone Macro Photography" width="700" />
 </p>
 
 > Use an old phone's OLED screen as a controllable backlight for macro shots. Water droplets on the screen + a macro lens = mind-blowing abstract images.
@@ -63,5 +63,5 @@ Old phones with OLED screens can display pure, vivid colors with perfect black b
 
 ## 🔗 See Also
 
-- [Phone IR Camera](066-phone-ir-camera/)
-- [Laptop Screen Light Table](062-laptop-screen-light-table/)
+- [Phone IR Camera](/categories/computer-and-phone/066-phone-ir-camera/)
+- [Laptop Screen Light Table](/categories/computer-and-phone/062-laptop-screen-light-table/)

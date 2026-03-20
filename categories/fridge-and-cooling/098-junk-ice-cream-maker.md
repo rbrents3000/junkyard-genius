@@ -19,7 +19,7 @@ ratings:
 # #098 — Junk Ice Cream Maker
 
 <p align="center">
-  <img src="../../images/builds/098-junk-ice-cream-maker.jpg" alt="Junk Ice Cream Maker" width="700" />
+  <img src="/images/builds/098-junk-ice-cream-maker.jpg" alt="Junk Ice Cream Maker" width="700" />
 </p>
 
 > Motor from a dead drill, a tin can, rock salt, and ice. Fresh ice cream in 20 minutes from parts headed for the landfill.
@@ -65,6 +65,6 @@ An electric ice cream maker built from salvaged parts. A small motor (from a dea
 
 ## 🔗 See Also
 
-- [Fermentation Chamber](092-fermentation-chamber/)
-- [Peltier Portable Cooler](096-peltier-portable-cooler/)
+- [Fermentation Chamber](/categories/fridge-and-cooling/092-fermentation-chamber/)
+- [Peltier Portable Cooler](/categories/fridge-and-cooling/096-peltier-portable-cooler/)
 

@@ -19,7 +19,7 @@ ratings:
 # #278 — Thermite Sparkler Bombs
 
 <p align="center">
-  <img src="../../images/builds/278-thermite-sparkler-bombs.jpg" alt="Thermite Sparkler Bombs" width="700" />
+  <img src="/images/builds/278-thermite-sparkler-bombs.jpg" alt="Thermite Sparkler Bombs" width="700" />
 </p>
 
 > Iron oxide plus aluminum powder packed around sparklers. Light the sparkler, walk away, wait for 2,500°C of molten iron fury. Simple, terrifying, unforgettable.
@@ -75,6 +75,6 @@ The ingredients are shockingly accessible. Iron oxide is literally rust — you 
 
 ## 🔗 See Also
 
-- [Thermite Cold Spark Fountain](230-thermite-cold-spark-fountain/)
-- [Chemical Trigger Color Bombs](228-chemical-trigger-color-bombs/)
+- [Thermite Cold Spark Fountain](/categories/alchemist-cookbook/230-thermite-cold-spark-fountain/)
+- [Chemical Trigger Color Bombs](/categories/alchemist-cookbook/228-chemical-trigger-color-bombs/)
 

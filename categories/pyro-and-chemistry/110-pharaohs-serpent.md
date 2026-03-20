@@ -19,7 +19,7 @@ ratings:
 # #110 — Pharaoh's Serpent
 
 <p align="center">
-  <img src="../../images/builds/110-pharaohs-serpent.jpg" alt="Pharaoh's Serpent" width="700" />
+  <img src="/images/builds/110-pharaohs-serpent.jpg" alt="Pharaoh's Serpent" width="700" />
 </p>
 
 > Sugar, baking soda, and lighter fluid on sand — a massive carbon snake grows from the flames.
@@ -63,6 +63,6 @@ When sugar burns in the presence of baking soda, the heat causes the baking soda
 
 ## 🔗 See Also
 
-- [Colored Fire](101-colored-fire/)
-- [Permanganate Auto-Ignition](115-permanganate-auto-ignition/)
+- [Colored Fire](/categories/pyro-and-chemistry/101-colored-fire/)
+- [Permanganate Auto-Ignition](/categories/pyro-and-chemistry/115-permanganate-auto-ignition/)
 

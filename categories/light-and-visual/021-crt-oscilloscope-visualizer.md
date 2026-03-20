@@ -19,7 +19,7 @@ ratings:
 # #021 — CRT Oscilloscope Visualizer
 
 <p align="center">
-  <img src="../../images/builds/021-crt-oscilloscope-visualizer.jpg" alt="CRT Oscilloscope Visualizer" width="700" />
+  <img src="/images/builds/021-crt-oscilloscope-visualizer.jpg" alt="CRT Oscilloscope Visualizer" width="700" />
 </p>
 
 > Feed audio directly into a CRT TV's deflection coils and turn it into a real-time music visualizer from the 1970s.
@@ -75,5 +75,5 @@ This is essentially what an oscilloscope does, but on a much larger screen and w
 
 ## 🔗 See Also
 
-- [Ferrofluid Speaker](../sound-and-music/011-ferrofluid-speaker/) — another analog music visualization method
-- [Plasma Speaker](../sound-and-music/008-plasma-speaker/) — audio driving an electrical phenomenon for a visual+audio experience
+- [Ferrofluid Speaker](/categories/sound-and-music/011-ferrofluid-speaker/) — another analog music visualization method
+- [Plasma Speaker](/categories/sound-and-music/008-plasma-speaker/) — audio driving an electrical phenomenon for a visual+audio experience

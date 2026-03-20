@@ -19,7 +19,7 @@ ratings:
 # #154 — Flight Sim Cockpit
 
 <p align="center">
-  <img src="../../images/builds/154-flight-sim-cockpit.jpg" alt="Flight Sim Cockpit" width="700" />
+  <img src="/images/builds/154-flight-sim-cockpit.jpg" alt="Flight Sim Cockpit" width="700" />
 </p>
 
 > FlightGear on salvaged laptop screens, a physical joystick from old peripherals, and an Arduino-driven instrument panel.
@@ -68,6 +68,6 @@ Flight simulators are incredible software — FlightGear is free and open source
 
 ## 🔗 See Also
 
-- [Retro Arcade Cabinet](../pi-and-arduino/126-retro-arcade-cabinet/)
-- [MIDI Stepper Organ](../pi-and-arduino/135-midi-stepper-organ/)
+- [Retro Arcade Cabinet](/categories/pi-and-arduino/126-retro-arcade-cabinet/)
+- [MIDI Stepper Organ](/categories/pi-and-arduino/135-midi-stepper-organ/)
 

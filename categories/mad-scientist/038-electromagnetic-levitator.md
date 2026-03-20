@@ -19,7 +19,7 @@ ratings:
 # #038 — Electromagnetic Levitator
 
 <p align="center">
-  <img src="../../images/builds/038-electromagnetic-levitator.jpg" alt="Electromagnetic Levitator" width="700" />
+  <img src="/images/builds/038-electromagnetic-levitator.jpg" alt="Electromagnetic Levitator" width="700" />
 </p>
 
 > A feedback-controlled electromagnet holds an object floating in mid-air. No strings. No tricks. Just a magnet, a sensor, and a control loop.
@@ -69,6 +69,6 @@ The control loop runs thousands of times per second. Without feedback, the syste
 
 ## 🔗 See Also
 
-- [Coil Gun](037-coil-gun/)
-- [Levitating Plasma Speaker](../unholy-combos/055-levitating-plasma-speaker/)
+- [Coil Gun](/categories/mad-scientist/037-coil-gun/)
+- [Levitating Plasma Speaker](/categories/unholy-combos/055-levitating-plasma-speaker/)
 

@@ -19,7 +19,7 @@ ratings:
 # #170 — Supercooled Water
 
 <p align="center">
-  <img src="../../images/builds/170-supercooled-water.jpg" alt="Supercooled Water" width="700" />
+  <img src="/images/builds/170-supercooled-water.jpg" alt="Supercooled Water" width="700" />
 </p>
 
 > PID-controlled freezer keeps purified water at exactly -5°C — stays liquid below freezing. Pour it onto ice and it freezes INSTANTLY.
@@ -67,6 +67,6 @@ Water normally freezes at 0°C (32°F). But if the water is very pure (no dissol
 
 ## 🔗 See Also
 
-- [Instant Ice Sculpture](../pyro-and-chemistry/108-instant-ice-sculpture/)
-- [Dry Ice Bubble Cauldron](../pyro-and-chemistry/120-dry-ice-bubble-cauldron/)
+- [Instant Ice Sculpture](/categories/pyro-and-chemistry/108-instant-ice-sculpture/)
+- [Dry Ice Bubble Cauldron](/categories/pyro-and-chemistry/120-dry-ice-bubble-cauldron/)
 

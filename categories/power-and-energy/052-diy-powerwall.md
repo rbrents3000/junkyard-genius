@@ -19,7 +19,7 @@ ratings:
 # #052 — DIY Powerwall
 
 <p align="center">
-  <img src="../../images/builds/052-diy-powerwall.jpg" alt="DIY Powerwall" width="700" />
+  <img src="/images/builds/052-diy-powerwall.jpg" alt="DIY Powerwall" width="700" />
 </p>
 
 > Hundreds of salvaged 18650 lithium cells from dead laptop batteries, tested, graded, and assembled into a home battery storage system. The Tesla Powerwall for scavengers.
@@ -44,7 +44,7 @@ This is a serious project. It takes weeks to months of cell collection and testi
 - [ ] 18650 cell holders — modular PCB-style holders that snap together *(online, ~$0.10-$0.30 each)*
 - [ ] BMS (Battery Management System) — monitors voltage of each cell group, prevents overcharge/overdischarge *(electronics supplier, $20-$100 depending on configuration)*
 - [ ] Nickel strip — for tab welding cells in series/parallel *(electronics supplier)*
-- [ ] Spot welder — see [Spot Welder](../functional-machines/027-spot-welder/) *(build your own)*
+- [ ] Spot welder — see [Spot Welder](/categories/functional-machines/027-spot-welder/) *(build your own)*
 - [ ] Bus bars and heavy-gauge wire — for pack-to-pack connections *(electrical supplier)*
 - [ ] Fuses — one per cell or per parallel group *(electronics supplier)*
 - [ ] Inverter — pure sine wave, 1000W-3000W, to convert battery DC to household AC *(electronics supplier, ~$100-$300)*
@@ -77,5 +77,5 @@ This is a serious project. It takes weeks to months of cell collection and testi
 
 ## 🔗 See Also
 
-- [Spot Welder](../functional-machines/027-spot-welder/)
-- [Capacitor Discharge Welder](../functional-machines/032-capacitor-discharge-welder/)
+- [Spot Welder](/categories/functional-machines/027-spot-welder/)
+- [Capacitor Discharge Welder](/categories/functional-machines/032-capacitor-discharge-welder/)

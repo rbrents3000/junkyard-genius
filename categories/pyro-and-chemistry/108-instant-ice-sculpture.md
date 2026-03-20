@@ -19,7 +19,7 @@ ratings:
 # #108 — Instant Ice Sculpture
 
 <p align="center">
-  <img src="../../images/builds/108-instant-ice-sculpture.jpg" alt="Instant Ice Sculpture" width="700" />
+  <img src="/images/builds/108-instant-ice-sculpture.jpg" alt="Instant Ice Sculpture" width="700" />
 </p>
 
 > Supersaturated sodium acetate crystallizes the instant it's triggered — hot ice towers form in seconds.
@@ -64,6 +64,6 @@ Sodium acetate can be dissolved in hot water far beyond its normal saturation po
 
 ## 🔗 See Also
 
-- [Supercooled Water](../chemical-electronic/170-supercooled-water/)
-- [Gallium Melting Spoon](106-gallium-melting-spoon/)
+- [Supercooled Water](/categories/chemical-electronic/170-supercooled-water/)
+- [Gallium Melting Spoon](/categories/pyro-and-chemistry/106-gallium-melting-spoon/)
 

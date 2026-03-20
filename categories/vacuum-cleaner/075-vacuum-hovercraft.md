@@ -19,7 +19,7 @@ ratings:
 # #075 — Vacuum Hovercraft
 
 <p align="center">
-  <img src="../../images/builds/075-vacuum-hovercraft.jpg" alt="Vacuum Hovercraft" width="700" />
+  <img src="/images/builds/075-vacuum-hovercraft.jpg" alt="Vacuum Hovercraft" width="700" />
 </p>
 
 > Reverse a vacuum motor to blow downward through a plywood platform. Add a trash bag skirt. It floats. Actually floats.
@@ -67,6 +67,6 @@ A hovercraft works by trapping a cushion of high-pressure air under a platform. 
 
 ## 🔗 See Also
 
-- [Wall-Climbing Robot](076-wall-climbing-robot/)
-- [Vacuum Leaf Blower](078-vacuum-leaf-blower/)
+- [Wall-Climbing Robot](/categories/vacuum-cleaner/076-wall-climbing-robot/)
+- [Vacuum Leaf Blower](/categories/vacuum-cleaner/078-vacuum-leaf-blower/)
 

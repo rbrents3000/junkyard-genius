@@ -19,7 +19,7 @@ ratings:
 # #015 — Giant Plasma Globe
 
 <p align="center">
-  <img src="../../images/builds/015-giant-plasma-globe.jpg" alt="Giant Plasma Globe" width="700" />
+  <img src="/images/builds/015-giant-plasma-globe.jpg" alt="Giant Plasma Globe" width="700" />
 </p>
 
 > A microwave transformer, a glass bowl, and some noble gas — build a plasma globe the size of a basketball.
@@ -81,6 +81,6 @@ The principle is identical to a store-bought plasma globe: a central electrode d
 
 ## 🔗 See Also
 
-- [Plasma Tornado Lamp](../fire-and-plasma/001-plasma-tornado-lamp/) — plasma in a vortex instead of a sphere
-- [Plasma Speaker](../sound-and-music/008-plasma-speaker/) — plasma that plays music
+- [Plasma Tornado Lamp](/categories/fire-and-plasma/001-plasma-tornado-lamp/) — plasma in a vortex instead of a sphere
+- [Plasma Speaker](/categories/sound-and-music/008-plasma-speaker/) — plasma that plays music
 

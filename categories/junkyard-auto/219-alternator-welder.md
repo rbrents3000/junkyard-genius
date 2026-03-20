@@ -19,7 +19,7 @@ ratings:
 # #219 — Alternator Welder
 
 <p align="center">
-  <img src="../../images/builds/219-alternator-welder.jpg" alt="Alternator Welder" width="700" />
+  <img src="/images/builds/219-alternator-welder.jpg" alt="Alternator Welder" width="700" />
 </p>
 
 > Car alternator + car battery = field stick welder capable of 60-100A output. Weld anywhere there's a running engine.
@@ -69,5 +69,5 @@ A car alternator is a three-phase AC generator that outputs 13.8V at up to 100+ 
 
 ## 🔗 See Also
 
-- [Spot Welder](../functional-machines/027-spot-welder/)
-- [Desktop Foundry](../fire-and-plasma/005-desktop-foundry/)
+- [Spot Welder](/categories/functional-machines/027-spot-welder/)
+- [Desktop Foundry](/categories/fire-and-plasma/005-desktop-foundry/)

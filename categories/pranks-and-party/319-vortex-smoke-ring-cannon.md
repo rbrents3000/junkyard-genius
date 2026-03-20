@@ -19,7 +19,7 @@ ratings:
 # #319 — Vortex Smoke Ring Cannon
 
 <p align="center">
-  <img src="../../images/builds/319-vortex-smoke-ring-cannon.jpg" alt="Vortex Smoke Ring Cannon" width="700" />
+  <img src="/images/builds/319-vortex-smoke-ring-cannon.jpg" alt="Vortex Smoke Ring Cannon" width="700" />
 </p>
 
 > A trash can, rubber membrane, and fog machine produce room-crossing smoke rings that knock cups off tables 20 feet away.
@@ -74,7 +74,7 @@ The size and speed of the ring depend on two variables: the hole diameter and th
 
 ## 🔗 See Also
 
-- [Invisible Bluetooth Speaker](254-invisible-speaker/)
-- [Motion-Activated Jump Scare](255-motion-jump-scare/)
-- [Propane Vortex Cannon](../fire-and-plasma/003-propane-vortex-cannon/)
+- [Invisible Bluetooth Speaker](/categories/pranks-and-party/254-invisible-speaker/)
+- [Motion-Activated Jump Scare](/categories/pranks-and-party/255-motion-jump-scare/)
+- [Propane Vortex Cannon](/categories/fire-and-plasma/003-propane-vortex-cannon/)
 

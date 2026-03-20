@@ -19,7 +19,7 @@ ratings:
 # #302 — Giant Outdoor Tesla Coil
 
 <p align="center">
-  <img src="../../images/builds/302-giant-outdoor-tesla-coil.jpg" alt="Giant Outdoor Tesla Coil" width="700" />
+  <img src="/images/builds/302-giant-outdoor-tesla-coil.jpg" alt="Giant Outdoor Tesla Coil" width="700" />
 </p>
 
 > Six-foot lightning bolts that play music. Visible from across a field. Audible from a block away. Your insurance company doesn't need to know.
@@ -206,7 +206,7 @@ demonstration device a human being can build in a garage.
 
 ## 🔗 See Also
 
-- [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil/) — the smaller, tabletop version of this concept
-- [Jacob's Ladder](../mad-scientist/034-jacobs-ladder/) — a simpler high-voltage arc project to cut your teeth on
+- [Musical Tesla Coil](/categories/mad-scientist/033-musical-tesla-coil/) — the smaller, tabletop version of this concept
+- [Jacob's Ladder](/categories/mad-scientist/034-jacobs-ladder/) — a simpler high-voltage arc project to cut your teeth on
 
 

@@ -19,7 +19,7 @@ ratings:
 # #113 — Steel Wool Photography
 
 <p align="center">
-  <img src="../../images/builds/113-steel-wool-photography.jpg" alt="Steel Wool Photography" width="700" />
+  <img src="/images/builds/113-steel-wool-photography.jpg" alt="Steel Wool Photography" width="700" />
 </p>
 
 > Burning steel wool in a whisk, spun on a cable — long-exposure photography captures insane fire spirals.
@@ -67,6 +67,6 @@ Steel wool is made of ultra-thin iron strands with massive surface area. Touch a
 
 ## 🔗 See Also
 
-- [Colored Fire](101-colored-fire/)
-- [Cold Spark Machine](104-cold-spark-machine/)
+- [Colored Fire](/categories/pyro-and-chemistry/101-colored-fire/)
+- [Cold Spark Machine](/categories/pyro-and-chemistry/104-cold-spark-machine/)
 

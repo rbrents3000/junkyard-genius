@@ -19,7 +19,7 @@ ratings:
 # #026 — Treadmill Belt Grinder
 
 <p align="center">
-  <img src="../../images/builds/026-treadmill-belt-grinder.jpg" alt="Treadmill Belt Grinder" width="700" />
+  <img src="/images/builds/026-treadmill-belt-grinder.jpg" alt="Treadmill Belt Grinder" width="700" />
 </p>
 
 > The motor in a dead treadmill is a precision variable-speed DC motor. Strap a sanding belt to it and you've got a knife-maker's best friend.
@@ -69,6 +69,6 @@ The treadmill's speed controller board usually survives when the tread belt or d
 
 ## 🔗 See Also
 
-- [Scooter Motor Lathe](025-scooter-motor-lathe/)
-- [Spot Welder](027-spot-welder/)
+- [Scooter Motor Lathe](/categories/functional-machines/025-scooter-motor-lathe/)
+- [Spot Welder](/categories/functional-machines/027-spot-welder/)
 

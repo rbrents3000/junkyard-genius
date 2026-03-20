@@ -19,7 +19,7 @@ ratings:
 # #001 — Plasma Tornado Lamp
 
 <p align="center">
-  <img src="../../images/builds/001-plasma-tornado-lamp.jpg" alt="Plasma Tornado Lamp" width="700" />
+  <img src="/images/builds/001-plasma-tornado-lamp.jpg" alt="Plasma Tornado Lamp" width="700" />
 </p>
 
 > A swirling column of plasma trapped in glass — part mad science, part living room art piece.
@@ -83,6 +83,6 @@ The key insight is that plasma follows airflow. By evacuating most of the air fr
 
 ## 🔗 See Also
 
-- [Plasma Speaker](../sound-and-music/008-plasma-speaker/) — another MOT plasma project, but this one plays music
-- [Giant Plasma Globe](../light-and-visual/015-giant-plasma-globe/) — similar concept but spherical
+- [Plasma Speaker](/categories/sound-and-music/008-plasma-speaker/) — another MOT plasma project, but this one plays music
+- [Giant Plasma Globe](/categories/light-and-visual/015-giant-plasma-globe/) — similar concept but spherical
 

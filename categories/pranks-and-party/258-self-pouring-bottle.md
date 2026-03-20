@@ -19,7 +19,7 @@ ratings:
 # #258 — Self-Pouring Bottle
 
 <p align="center">
-  <img src="../../images/builds/258-self-pouring-bottle.jpg" alt="Self-Pouring Bottle" width="700" />
+  <img src="/images/builds/258-self-pouring-bottle.jpg" alt="Self-Pouring Bottle" width="700" />
 </p>
 
 > Hidden pump + tubing inside a bottle. Tilt it and liquid flows on its own. Looks like straight-up witchcraft.
@@ -80,7 +80,7 @@ This build combines the elegance of a stage magic prop with the accessibility of
 
 ## 🔗 See Also
 
-- [Invisible Bluetooth Speaker](254-invisible-speaker/)
-- [Magnetic Levitating Display Stand](259-magnetic-levitating-display/)
-- [Fake Security Camera That Roasts You](257-insult-camera/)
+- [Invisible Bluetooth Speaker](/categories/pranks-and-party/254-invisible-speaker/)
+- [Magnetic Levitating Display Stand](/categories/pranks-and-party/259-magnetic-levitating-display/)
+- [Fake Security Camera That Roasts You](/categories/pranks-and-party/257-insult-camera/)
 

@@ -19,7 +19,7 @@ ratings:
 # #161 — Copper Crystal Tree
 
 <p align="center">
-  <img src="../../images/builds/161-copper-crystal-tree.jpg" alt="Copper Crystal Tree" width="700" />
+  <img src="/images/builds/161-copper-crystal-tree.jpg" alt="Copper Crystal Tree" width="700" />
 </p>
 
 > Drop an iron nail in copper sulfate solution — iron displaces copper, depositing dendritic crystal branches over hours. Time-lapse it.
@@ -63,6 +63,6 @@ Iron is more reactive than copper in the electrochemical series. When you place 
 
 ## 🔗 See Also
 
-- [Bismuth Crystal Garden](../pyro-and-chemistry/107-bismuth-crystal-garden/)
-- [Electroplating Station](156-electroplating-station/)
+- [Bismuth Crystal Garden](/categories/pyro-and-chemistry/107-bismuth-crystal-garden/)
+- [Electroplating Station](/categories/chemical-electronic/156-electroplating-station/)
 

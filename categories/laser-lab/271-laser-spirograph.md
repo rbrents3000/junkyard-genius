@@ -19,7 +19,7 @@ ratings:
 # #271 — Motorized Laser Spirograph
 
 <p align="center">
-  <img src="../../images/builds/271-laser-spirograph.jpg" alt="Motorized Laser Spirograph" width="700" />
+  <img src="/images/builds/271-laser-spirograph.jpg" alt="Motorized Laser Spirograph" width="700" />
 </p>
 
 > Two mirrors, two motors, one laser, infinite patterns. Add fog and prepare to lose an hour staring at the ceiling.
@@ -82,7 +82,7 @@ This is one of the simplest builds in the laser lab — two motors, two mirrors,
 
 ## 🔗 See Also
 
-- [Galvanometer Laser Light Show](266-laser-galvo-show/)
-- [Laser Harp](267-laser-harp/)
-- [Laser Voice Communicator](265-laser-communicator/)
+- [Galvanometer Laser Light Show](/categories/laser-lab/266-laser-galvo-show/)
+- [Laser Harp](/categories/laser-lab/267-laser-harp/)
+- [Laser Voice Communicator](/categories/laser-lab/265-laser-communicator/)
 

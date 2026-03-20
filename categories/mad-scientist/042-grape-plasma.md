@@ -19,7 +19,7 @@ ratings:
 # #042 — Grape Plasma
 
 <p align="center">
-  <img src="../../images/builds/042-grape-plasma.jpg" alt="Grape Plasma" width="700" />
+  <img src="/images/builds/042-grape-plasma.jpg" alt="Grape Plasma" width="700" />
 </p>
 
 > Cut a grape almost in half, microwave it, and watch plasma balls form where the halves connect. The simplest plasma demonstration in existence.
@@ -64,5 +64,5 @@ It takes 3 seconds, costs nothing, and produces genuine plasma — the fourth st
 
 ## 🔗 See Also
 
-- [Musical Tesla Coil](033-musical-tesla-coil/)
-- [Jacob's Ladder](034-jacobs-ladder/)
+- [Musical Tesla Coil](/categories/mad-scientist/033-musical-tesla-coil/)
+- [Jacob's Ladder](/categories/mad-scientist/034-jacobs-ladder/)

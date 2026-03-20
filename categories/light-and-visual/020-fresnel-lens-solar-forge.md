@@ -19,7 +19,7 @@ ratings:
 # #020 — Fresnel Lens Solar Forge
 
 <p align="center">
-  <img src="../../images/builds/020-fresnel-lens-solar-forge.jpg" alt="Fresnel Lens Solar Forge" width="700" />
+  <img src="/images/builds/020-fresnel-lens-solar-forge.jpg" alt="Fresnel Lens Solar Forge" width="700" />
 </p>
 
 > A Fresnel lens from a rear-projection TV focuses sunlight into a spot hot enough to melt metal — the sun becomes your welding torch.
@@ -76,5 +76,5 @@ The focal point is a blinding white spot about the size of a dime that can set w
 
 ## 🔗 See Also
 
-- [Desktop Foundry](../fire-and-plasma/005-desktop-foundry/) — melt aluminum with charcoal when the sun isn't cooperating
-- [Thermic Lance](../fire-and-plasma/004-thermic-lance/) — another way to reach metal-melting temperatures from simple materials
+- [Desktop Foundry](/categories/fire-and-plasma/005-desktop-foundry/) — melt aluminum with charcoal when the sun isn't cooperating
+- [Thermic Lance](/categories/fire-and-plasma/004-thermic-lance/) — another way to reach metal-melting temperatures from simple materials

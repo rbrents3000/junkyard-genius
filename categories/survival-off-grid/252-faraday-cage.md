@@ -19,7 +19,7 @@ ratings:
 # #252 — Faraday Cage
 
 <p align="center">
-  <img src="../../images/builds/252-faraday-cage.jpg" alt="Faraday Cage" width="700" />
+  <img src="/images/builds/252-faraday-cage.jpg" alt="Faraday Cage" width="700" />
 </p>
 
 > A metal trash can that makes your electronics invisible to the electromagnetic apocalypse.
@@ -81,6 +81,6 @@ Why would you want one? EMP preparedness is the headline answer — a coronal ma
 
 ## 🔗 See Also
 
-- [Hand-Crank Phone Charger](251-hand-crank-charger/)
-- [Laser Tripwire Security System](../laser-lab/268-laser-tripwire-alarm/)
-- [Solar Still](248-solar-still/)
+- [Hand-Crank Phone Charger](/categories/survival-off-grid/251-hand-crank-charger/)
+- [Laser Tripwire Security System](/categories/laser-lab/268-laser-tripwire-alarm/)
+- [Solar Still](/categories/survival-off-grid/248-solar-still/)

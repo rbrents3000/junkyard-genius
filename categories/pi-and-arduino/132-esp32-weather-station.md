@@ -19,7 +19,7 @@ ratings:
 # #132 — ESP32 Weather Station
 
 <p align="center">
-  <img src="../../images/builds/132-esp32-weather-station.jpg" alt="ESP32 Weather Station" width="700" />
+  <img src="/images/builds/132-esp32-weather-station.jpg" alt="ESP32 Weather Station" width="700" />
 </p>
 
 > Multiple sensor nodes measuring temp, humidity, pressure, wind, and UV — predict weather from your own data on a Grafana dashboard.
@@ -67,6 +67,6 @@ Commercial weather stations give you current conditions. A DIY ESP32 weather sta
 
 ## 🔗 See Also
 
-- [Auto Plant Watering](127-auto-plant-watering/)
-- [Earthquake Detector](../python-projects/146-earthquake-detector/)
+- [Auto Plant Watering](/categories/pi-and-arduino/127-auto-plant-watering/)
+- [Earthquake Detector](/categories/python-projects/146-earthquake-detector/)
 

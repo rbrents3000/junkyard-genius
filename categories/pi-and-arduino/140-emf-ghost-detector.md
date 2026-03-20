@@ -19,7 +19,7 @@ ratings:
 # #140 — EMF Ghost Detector
 
 <p align="center">
-  <img src="../../images/builds/140-emf-ghost-detector.jpg" alt="EMF Ghost Detector" width="700" />
+  <img src="/images/builds/140-emf-ghost-detector.jpg" alt="EMF Ghost Detector" width="700" />
 </p>
 
 > A wire antenna and Arduino read electromagnetic field fluctuations on an OLED display — market as a ghost detector for Halloween.
@@ -66,6 +66,6 @@ Electromagnetic fields are everywhere — power lines, appliances, phone signals
 
 ## 🔗 See Also
 
-- [Arduino Breathalyzer](133-arduino-breathalyzer/)
-- [Earthquake Detector](../python-projects/146-earthquake-detector/)
+- [Arduino Breathalyzer](/categories/pi-and-arduino/133-arduino-breathalyzer/)
+- [Earthquake Detector](/categories/python-projects/146-earthquake-detector/)
 

@@ -19,7 +19,7 @@ ratings:
 # #266 — Galvanometer Laser Light Show
 
 <p align="center">
-  <img src="../../images/builds/266-laser-galvo-show.jpg" alt="Galvanometer Laser Light Show" width="700" />
+  <img src="/images/builds/266-laser-galvo-show.jpg" alt="Galvanometer Laser Light Show" width="700" />
 </p>
 
 > Two mirrors on galvanometers steer a laser fast enough to draw shapes on walls. Concert laser show for $20.
@@ -85,7 +85,7 @@ This is one of those builds where the result is wildly disproportionate to the c
 
 ## 🔗 See Also
 
-- [Laser Harp](267-laser-harp/)
-- [Motorized Laser Spirograph](271-laser-spirograph/)
-- [Laser Voice Communicator](265-laser-communicator/)
+- [Laser Harp](/categories/laser-lab/267-laser-harp/)
+- [Motorized Laser Spirograph](/categories/laser-lab/271-laser-spirograph/)
+- [Laser Voice Communicator](/categories/laser-lab/265-laser-communicator/)
 

@@ -8,7 +8,7 @@ image: /images/categories/pranks-and-party.jpg
 # 👻 Pranks & Party Tricks
 
 <p align="center">
-  <img src="../../images/categories/pranks-and-party.jpg" alt="Pranks & Party Tricks" width="700" />
+  <img src="/images/categories/pranks-and-party.jpg" alt="Pranks & Party Tricks" width="700" />
 </p>
 
 <p align="center">

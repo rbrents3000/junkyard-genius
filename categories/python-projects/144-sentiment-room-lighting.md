@@ -19,7 +19,7 @@ ratings:
 # #144 — Sentiment Room Lighting
 
 <p align="center">
-  <img src="../../images/builds/144-sentiment-room-lighting.jpg" alt="Sentiment Room Lighting" width="700" />
+  <img src="/images/builds/144-sentiment-room-lighting.jpg" alt="Sentiment Room Lighting" width="700" />
 </p>
 
 > A microphone analyzes the emotional tone of conversation — LED lights shift color to match the mood of the room.
@@ -65,6 +65,6 @@ A microphone picks up conversation. Speech recognition converts it to text. Natu
 
 ## 🔗 See Also
 
-- [Music Visualizer LED Wall](145-music-visualizer-led-wall/)
-- [Voice Home Automation](149-voice-home-automation/)
+- [Music Visualizer LED Wall](/categories/python-projects/145-music-visualizer-led-wall/)
+- [Voice Home Automation](/categories/python-projects/149-voice-home-automation/)
 

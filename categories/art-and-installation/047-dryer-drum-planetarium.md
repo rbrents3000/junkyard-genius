@@ -19,7 +19,7 @@ ratings:
 # #047 — Dryer Drum Planetarium
 
 <p align="center">
-  <img src="../../images/builds/047-dryer-drum-planetarium.jpg" alt="Dryer Drum Planetarium" width="700" />
+  <img src="/images/builds/047-dryer-drum-planetarium.jpg" alt="Dryer Drum Planetarium" width="700" />
 </p>
 
 > Drill star patterns into a dryer drum, put a bright bulb inside, and turn any dark room into a planetarium. Constellations on the ceiling for the cost of a drill bit.
@@ -68,5 +68,5 @@ Real planetarium projectors cost tens of thousands of dollars and use fiber opti
 
 ## 🔗 See Also
 
-- [CRT Electromagnetic Art](048-crt-electromagnetic-art/)
-- [Scrap Metal Sculpture](045-scrap-metal-sculpture/)
+- [CRT Electromagnetic Art](/categories/art-and-installation/048-crt-electromagnetic-art/)
+- [Scrap Metal Sculpture](/categories/art-and-installation/045-scrap-metal-sculpture/)

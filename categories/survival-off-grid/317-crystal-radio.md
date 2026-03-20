@@ -19,7 +19,7 @@ ratings:
 # #317 — Crystal Radio
 
 <p align="center">
-  <img src="../../images/builds/317-crystal-radio.jpg" alt="Crystal Radio" width="700" />
+  <img src="/images/builds/317-crystal-radio.jpg" alt="Crystal Radio" width="700" />
 </p>
 
 > Zero batteries. Zero power source. Receives AM radio from pure electromagnetic energy harvested from the broadcast signal itself.
@@ -75,7 +75,7 @@ The sound is quiet — you'll need a crystal earpiece, not regular earbuds or a 
 
 ## 🔗 See Also
 
-- [Faraday Flashlight](318-faraday-flashlight/)
-- [Hand-Crank Phone Charger](251-hand-crank-charger/)
-- [Faraday Cage](252-faraday-cage/)
+- [Faraday Flashlight](/categories/survival-off-grid/318-faraday-flashlight/)
+- [Hand-Crank Phone Charger](/categories/survival-off-grid/251-hand-crank-charger/)
+- [Faraday Cage](/categories/survival-off-grid/252-faraday-cage/)
 

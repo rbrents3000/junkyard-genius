@@ -19,7 +19,7 @@ ratings:
 # #315 — Tesla Coil Guitar Amp
 
 <p align="center">
-  <img src="../../images/builds/315-tesla-coil-guitar-amp.jpg" alt="Tesla Coil Guitar Amp" width="700" />
+  <img src="/images/builds/315-tesla-coil-guitar-amp.jpg" alt="Tesla Coil Guitar Amp" width="700" />
 </p>
 
 > Plug your guitar into a Tesla coil. The arc IS the speaker — lightning bolts modulated by your riff.
@@ -90,6 +90,6 @@ The DRSSTC works by driving a primary coil at the resonant frequency of the seco
 
 ## 🔗 See Also
 
-- [Plasma Speaker](008-plasma-speaker/)
-- [Plasma Speaker Lamp](../unholy-combos/283-plasma-speaker-lamp/)
+- [Plasma Speaker](/categories/sound-and-music/008-plasma-speaker/)
+- [Plasma Speaker Lamp](/categories/unholy-combos/283-plasma-speaker-lamp/)
 

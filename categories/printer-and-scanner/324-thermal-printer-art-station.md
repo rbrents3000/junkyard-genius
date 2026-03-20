@@ -19,7 +19,7 @@ ratings:
 # #324 — Thermal Printer Art Station
 
 <p align="center">
-  <img src="../../images/builds/324-thermal-printer-art-station.jpg" alt="Thermal Printer Art Station" width="700" />
+  <img src="/images/builds/324-thermal-printer-art-station.jpg" alt="Thermal Printer Art Station" width="700" />
 </p>
 
 > Generative algorithmic art printed continuously on receipt paper. A never-ending gallery from a $5 printer.
@@ -83,7 +83,7 @@ The setup doubles as a functional utility station. Between art sessions, the sam
 
 ## 🔗 See Also
 
-- [Pen Plotter](072-pen-plotter/)
-- [Generative Art Plotter](../python-projects/142-generative-art-plotter/)
-- [Inkjet Bioprinter](073-inkjet-bioprinter/)
+- [Pen Plotter](/categories/printer-and-scanner/072-pen-plotter/)
+- [Generative Art Plotter](/categories/python-projects/142-generative-art-plotter/)
+- [Inkjet Bioprinter](/categories/printer-and-scanner/073-inkjet-bioprinter/)
 

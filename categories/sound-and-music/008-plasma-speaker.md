@@ -19,7 +19,7 @@ ratings:
 # #008 — Plasma Speaker
 
 <p align="center">
-  <img src="../../images/builds/008-plasma-speaker.jpg" alt="Plasma Speaker" width="700" />
+  <img src="/images/builds/008-plasma-speaker.jpg" alt="Plasma Speaker" width="700" />
 </p>
 
 > A flyback transformer modulates an electrical arc to play music — the speaker cone is literally lightning.
@@ -82,5 +82,5 @@ The sound quality is surprisingly good for treble and midrange, though bass is v
 
 ## 🔗 See Also
 
-- [Plasma Tornado Lamp](../fire-and-plasma/001-plasma-tornado-lamp/) — plasma as visual art instead of audio
-- [Rubens' Tube](009-rubens-tube/) — another way to visualize sound, using fire instead of plasma
+- [Plasma Tornado Lamp](/categories/fire-and-plasma/001-plasma-tornado-lamp/) — plasma as visual art instead of audio
+- [Rubens' Tube](/categories/sound-and-music/009-rubens-tube/) — another way to visualize sound, using fire instead of plasma

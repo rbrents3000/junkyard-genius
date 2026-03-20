@@ -19,7 +19,7 @@ ratings:
 # #196 — Kirlian Photography
 
 <p align="center">
-  <img src="../../images/builds/196-kirlian-photography.jpg" alt="Kirlian Photography" width="700" />
+  <img src="/images/builds/196-kirlian-photography.jpg" alt="Kirlian Photography" width="700" />
 </p>
 
 > High voltage + a metal plate + your hand = glowing corona discharge "aura" photos that look straight out of a paranormal documentary.
@@ -82,5 +82,5 @@ Semyon Kirlian discovered this in 1939, and it immediately attracted mystical ex
 
 ## 🔗 See Also
 
-- [Van de Graaff Generator](197-van-de-graaff-generator/) — another high-voltage electrostatics build with dramatic visual results
-- [DIY Electron Microscope](200-diy-electron-microscope/) — taking electron manipulation to the extreme
+- [Van de Graaff Generator](/categories/weird-science/197-van-de-graaff-generator/) — another high-voltage electrostatics build with dramatic visual results
+- [DIY Electron Microscope](/categories/weird-science/200-diy-electron-microscope/) — taking electron manipulation to the extreme

@@ -19,7 +19,7 @@ ratings:
 # #198 — Homopolar Motor
 
 <p align="center">
-  <img src="../../images/builds/198-homopolar-motor.jpg" alt="Homopolar Motor" width="700" />
+  <img src="/images/builds/198-homopolar-motor.jpg" alt="Homopolar Motor" width="700" />
 </p>
 
 > Battery + magnet + wire = a spinning motor in 30 seconds flat. The simplest electric motor possible.
@@ -73,6 +73,6 @@ The "weird science" angle: you can bend the wire into any shape — a dancer, a 
 
 ## 🔗 See Also
 
-- [Ball Bearing Motor](../mechanical-and-kinetic/187-ball-bearing-motor/) — the mechanical-and-kinetic category's take on the same Lorentz force principle
-- [Van de Graaff Generator](197-van-de-graaff-generator/) — electromagnetism at the other extreme: high voltage, zero current
+- [Ball Bearing Motor](/categories/mechanical-and-kinetic/187-ball-bearing-motor/) — the mechanical-and-kinetic category's take on the same Lorentz force principle
+- [Van de Graaff Generator](/categories/weird-science/197-van-de-graaff-generator/) — electromagnetism at the other extreme: high voltage, zero current
 

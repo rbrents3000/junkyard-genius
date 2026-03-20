@@ -19,7 +19,7 @@ ratings:
 # #053 — Singing Ferrofluid Tornado
 
 <p align="center">
-  <img src="../../images/builds/053-singing-ferrofluid-tornado.jpg" alt="Singing Ferrofluid Tornado" width="700" />
+  <img src="/images/builds/053-singing-ferrofluid-tornado.jpg" alt="Singing Ferrofluid Tornado" width="700" />
 </p>
 
 > Ferrofluid dancing to music inside a rotating magnetic field. A liquid tornado of magnetic spikes that sings. Three builds fused into one unholy creation.
@@ -41,7 +41,7 @@ The spinning ferrofluid sits in a shallow glass dish on a custom-wound stator. T
 
 - [ ] Ferrofluid — 100-200ml, oil-based *(online supplier, ~$20-$40)*
 - [ ] Shallow glass dish — Petri dish or watch glass, 4"-6" diameter *(lab supply, online)*
-- [ ] Stator assembly — 3-6 coils wound on iron cores, arranged in a circle *(wound from magnet wire on iron bolts, see [Ferrofluid Mirror](../art-and-installation/046-ferrofluid-mirror/))*
+- [ ] Stator assembly — 3-6 coils wound on iron cores, arranged in a circle *(wound from magnet wire on iron bolts, see [Ferrofluid Mirror](/categories/art-and-installation/046-ferrofluid-mirror/))*
 - [ ] Magnet wire — 22-24 AWG enameled copper, ~200 feet *(electronics supplier)*
 - [ ] Iron bolt cores — 3/8" diameter, matching the number of coils *(hardware store)*
 - [ ] Arduino Mega or similar — enough PWM outputs for all coils *(electronics supplier, ~$15)*
@@ -77,6 +77,6 @@ The spinning ferrofluid sits in a shallow glass dish on a custom-wound stator. T
 
 ## 🔗 See Also
 
-- [Ferrofluid Mirror](../art-and-installation/046-ferrofluid-mirror/)
-- [Levitating Plasma Speaker](055-levitating-plasma-speaker/)
+- [Ferrofluid Mirror](/categories/art-and-installation/046-ferrofluid-mirror/)
+- [Levitating Plasma Speaker](/categories/unholy-combos/055-levitating-plasma-speaker/)
 

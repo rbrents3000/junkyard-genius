@@ -19,7 +19,7 @@ ratings:
 # #190 — Prince Rupert's Drop
 
 <p align="center">
-  <img src="../../images/builds/190-prince-ruperts-drop.jpg" alt="Prince Rupert's Drop" width="700" />
+  <img src="/images/builds/190-prince-ruperts-drop.jpg" alt="Prince Rupert's Drop" width="700" />
 </p>
 
 > Molten glass dropped in water creates a tadpole that shrugs off a hammer blow — then explodes if you breathe on its tail.
@@ -78,6 +78,6 @@ These have been known since the 1600s (Prince Rupert of the Rhine brought them t
 
 ## 🔗 See Also
 
-- [Chain Fountain](184-chain-fountain/) — another jaw-dropping physics demo with minimal components
-- [Eddy Current Brake](186-eddy-current-brake/) — counterintuitive physics you can hold in your hands
+- [Chain Fountain](/categories/mechanical-and-kinetic/184-chain-fountain/) — another jaw-dropping physics demo with minimal components
+- [Eddy Current Brake](/categories/mechanical-and-kinetic/186-eddy-current-brake/) — counterintuitive physics you can hold in your hands
 

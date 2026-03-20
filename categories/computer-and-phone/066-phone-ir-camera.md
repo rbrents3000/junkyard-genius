@@ -19,7 +19,7 @@ ratings:
 # #066 — Phone IR Camera
 
 <p align="center">
-  <img src="../../images/builds/066-phone-ir-camera.jpg" alt="Phone IR Camera" width="700" />
+  <img src="/images/builds/066-phone-ir-camera.jpg" alt="Phone IR Camera" width="700" />
 </p>
 
 > Remove the IR-blocking filter from an old phone's camera. Now it sees near-infrared. Check overheating, spot heat leaks, see invisible light.
@@ -63,6 +63,6 @@ Every digital camera sensor can see near-infrared light — but manufacturers pu
 
 ## 🔗 See Also
 
-- [Phone Macro Photography](063-phone-macro-photography/)
-- [Phone Sensor Network](064-phone-sensor-network/)
+- [Phone Macro Photography](/categories/computer-and-phone/063-phone-macro-photography/)
+- [Phone Sensor Network](/categories/computer-and-phone/064-phone-sensor-network/)
 

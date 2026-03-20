@@ -19,7 +19,7 @@ ratings:
 # #089 — Motorized Camera Slider
 
 <p align="center">
-  <img src="../../images/builds/089-motorized-camera-slider.jpg" alt="Motorized Camera Slider" width="700" />
+  <img src="/images/builds/089-motorized-camera-slider.jpg" alt="Motorized Camera Slider" width="700" />
 </p>
 
 > Stepper motor + drawer slides + Arduino. Smooth, cinematic tracking shots. Professional sliders cost $200+. Build this for $15.
@@ -68,6 +68,6 @@ A camera slider creates smooth, linear tracking shots — the kind of cinematic 
 
 ## 🔗 See Also
 
-- [Electric Winch](090-electric-winch/)
-- [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc/)
+- [Electric Winch](/categories/scooter-and-motor/090-electric-winch/)
+- [Printer Stepper CNC](/categories/printer-and-scanner/069-printer-stepper-cnc/)
 

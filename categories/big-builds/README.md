@@ -8,7 +8,7 @@ image: /images/categories/big-builds.jpg
 # 🏢 Big Builds
 
 <p align="center">
-  <img src="../../images/categories/big-builds.jpg" alt="Big Builds" width="700" />
+  <img src="/images/categories/big-builds.jpg" alt="Big Builds" width="700" />
 </p>
 
 <p align="center">

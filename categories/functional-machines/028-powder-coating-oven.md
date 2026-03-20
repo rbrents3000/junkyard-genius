@@ -19,7 +19,7 @@ ratings:
 # #028 — Powder Coating Oven
 
 <p align="center">
-  <img src="../../images/builds/028-powder-coating-oven.jpg" alt="Powder Coating Oven" width="700" />
+  <img src="/images/builds/028-powder-coating-oven.jpg" alt="Powder Coating Oven" width="700" />
 </p>
 
 > An old kitchen oven, a thrift-store toaster oven for small parts, and an electrostatic gun turn raw metal into factory-finish coated parts.
@@ -44,7 +44,7 @@ A professional powder coating setup costs thousands. But a discarded kitchen ove
 - [ ] High-temperature hooks and hanging wire — to suspend parts in the oven *(hardware store)*
 - [ ] Oven thermometer — don't trust the oven's built-in dial *(kitchen store, hardware store)*
 - [ ] Sandblaster or chemical degreaser — parts must be perfectly clean *(hardware store)*
-- [ ] Compressed air source — for the powder gun *(shop compressor, or see [Silent Compressor](031-silent-compressor/))*
+- [ ] Compressed air source — for the powder gun *(shop compressor, or see [Silent Compressor](/categories/functional-machines/031-silent-compressor/))*
 - [ ] Grounding wire — alligator clip to the part, connected to the oven chassis ground *(hardware store)*
 - [ ] Heat-resistant gloves *(hardware store)*
 
@@ -69,5 +69,5 @@ A professional powder coating setup costs thousands. But a discarded kitchen ove
 
 ## 🔗 See Also
 
-- [Silent Compressor](031-silent-compressor/)
-- [Vacuum Former](029-vacuum-former/)
+- [Silent Compressor](/categories/functional-machines/031-silent-compressor/)
+- [Vacuum Former](/categories/functional-machines/029-vacuum-former/)

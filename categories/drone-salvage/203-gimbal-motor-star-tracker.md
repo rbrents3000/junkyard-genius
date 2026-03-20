@@ -19,7 +19,7 @@ ratings:
 # #203 — Gimbal Motor Star Tracker
 
 <p align="center">
-  <img src="../../images/builds/203-gimbal-motor-star-tracker.jpg" alt="Gimbal Motor Star Tracker" width="700" />
+  <img src="/images/builds/203-gimbal-motor-star-tracker.jpg" alt="Gimbal Motor Star Tracker" width="700" />
 </p>
 
 > Drone gimbal motors rotate at exactly 15 degrees per hour — the sidereal rate — turning a DSLR into an astrophotography platform that tracks stars across the sky.
@@ -68,6 +68,6 @@ The quality of the results is staggering for a build that costs almost nothing.
 
 ## 🔗 See Also
 
-- [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer/) — same motors used for handheld video stabilization
-- [Precision Digital Scale](207-precision-digital-scale/) — another precision application of gimbal motor torque sensing
+- [Camera Gimbal Stabilizer](/categories/drone-salvage/201-camera-gimbal-stabilizer/) — same motors used for handheld video stabilization
+- [Precision Digital Scale](/categories/drone-salvage/207-precision-digital-scale/) — another precision application of gimbal motor torque sensing
 

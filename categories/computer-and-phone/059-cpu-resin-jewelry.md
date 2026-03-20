@@ -19,7 +19,7 @@ ratings:
 # #059 — CPU Resin Jewelry
 
 <p align="center">
-  <img src="../../images/builds/059-cpu-resin-jewelry.jpg" alt="CPU Resin Jewelry" width="700" />
+  <img src="/images/builds/059-cpu-resin-jewelry.jpg" alt="CPU Resin Jewelry" width="700" />
 </p>
 
 > Dead processors and RAM chips are genuinely beautiful at macro scale. Embed them in clear resin for wearable tech art.
@@ -68,6 +68,6 @@ CPUs, RAM sticks, and IC chips contain some of the most intricate patterns human
 
 ## 🔗 See Also
 
-- [GPU Wall Art](060-gpu-wall-art/)
-- [RAM Stick Ruler](068-ram-stick-ruler/)
+- [GPU Wall Art](/categories/computer-and-phone/060-gpu-wall-art/)
+- [RAM Stick Ruler](/categories/computer-and-phone/068-ram-stick-ruler/)
 

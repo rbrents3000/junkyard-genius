@@ -19,7 +19,7 @@ ratings:
 # #309 — DIY Spectroscope
 
 <p align="center">
-  <img src="../../images/builds/309-diy-spectroscope.jpg" alt="DIY Spectroscope" width="700" />
+  <img src="/images/builds/309-diy-spectroscope.jpg" alt="DIY Spectroscope" width="700" />
 </p>
 
 > Split light into its fingerprint with a dead DVD and a cereal box. Actual spectroscopy with trash.
@@ -82,5 +82,5 @@ Light enters through a narrow slit, hits the grating, and fans out into a spectr
 
 ## 🔗 See Also
 
-- [Kirlian Photography](196-kirlian-photography/) — another way to visualize invisible electromagnetic phenomena
-- [Lenz's Law Slow-Mo Magnet](199-lenzs-law-slow-mo-magnet/) — making invisible magnetic fields tangible through their effects
+- [Kirlian Photography](/categories/weird-science/196-kirlian-photography/) — another way to visualize invisible electromagnetic phenomena
+- [Lenz's Law Slow-Mo Magnet](/categories/weird-science/199-lenzs-law-slow-mo-magnet/) — making invisible magnetic fields tangible through their effects

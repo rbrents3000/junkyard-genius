@@ -19,7 +19,7 @@ ratings:
 # #289 — Peltier Solar Cooler
 
 <p align="center">
-  <img src="../../images/builds/289-peltier-solar-cooler.jpg" alt="Peltier Solar Cooler" width="700" />
+  <img src="/images/builds/289-peltier-solar-cooler.jpg" alt="Peltier Solar Cooler" width="700" />
 </p>
 
 > A solar panel, some thermoelectric modules from dead mini-fridges, and a cooler box. No compressor, no refrigerant, no noise. Just silent, sun-powered cold.
@@ -82,5 +82,5 @@ Source the Peltier modules from dead mini-fridges and wine coolers — they show
 
 ## 🔗 See Also
 
-- [Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger/)
-- [Solar Water Heater](051-solar-water-heater/)
+- [Campfire Thermoelectric Charger](/categories/power-and-energy/049-campfire-thermoelectric-charger/)
+- [Solar Water Heater](/categories/power-and-energy/051-solar-water-heater/)

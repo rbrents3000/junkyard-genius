@@ -9,7 +9,8 @@
   "scripts": {
     "build": "eleventy",
     "dev": "eleventy --serve",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx playwright test",
+    "test:live": "PLAYWRIGHT_BASE_URL=https://junkyard.build npx playwright test"
   },
   "repository": {
     "type": "git",

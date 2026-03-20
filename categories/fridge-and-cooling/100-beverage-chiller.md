@@ -19,7 +19,7 @@ ratings:
 # #100 — Thermoelectric Beverage Chiller
 
 <p align="center">
-  <img src="../../images/builds/100-beverage-chiller.jpg" alt="Thermoelectric Beverage Chiller" width="700" />
+  <img src="/images/builds/100-beverage-chiller.jpg" alt="Thermoelectric Beverage Chiller" width="700" />
 </p>
 
 > CPU cooler heatsink + Peltier module = a desktop drink chiller that gets your can ice cold in 5 minutes.
@@ -64,6 +64,6 @@ Take a CPU cooler heatsink (the one with the fan and copper heat pipes), flip th
 
 ## 🔗 See Also
 
-- [Peltier Portable Cooler](096-peltier-portable-cooler/)
-- [Fermentation Chamber](092-fermentation-chamber/)
+- [Peltier Portable Cooler](/categories/fridge-and-cooling/096-peltier-portable-cooler/)
+- [Fermentation Chamber](/categories/fridge-and-cooling/092-fermentation-chamber/)
 

@@ -19,7 +19,7 @@ ratings:
 # #291 — Capacitor Bank Flash Charger
 
 <p align="center">
-  <img src="../../images/builds/291-capacitor-bank-flash-charger.jpg" alt="Capacitor Bank Flash Charger" width="700" />
+  <img src="/images/builds/291-capacitor-bank-flash-charger.jpg" alt="Capacitor Bank Flash Charger" width="700" />
 </p>
 
 > Slow charge. Fast dump. A bank of salvaged electrolytic capacitors that stores energy like a battery and releases it like a lightning bolt.
@@ -90,7 +90,7 @@ This is a building block more than a finished product. The capacitor bank itself
 
 ## 🔗 See Also
 
-- [DIY Powerwall](052-diy-powerwall/)
-- [Rail Gun](../mad-scientist/036-rail-gun/)
-- [Coil Gun](../mad-scientist/037-coil-gun/)
+- [DIY Powerwall](/categories/power-and-energy/052-diy-powerwall/)
+- [Rail Gun](/categories/mad-scientist/036-rail-gun/)
+- [Coil Gun](/categories/mad-scientist/037-coil-gun/)
 

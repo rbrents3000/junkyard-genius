@@ -19,7 +19,7 @@ ratings:
 # #107 — Bismuth Crystal Garden
 
 <p align="center">
-  <img src="../../images/builds/107-bismuth-crystal-garden.jpg" alt="Bismuth Crystal Garden" width="700" />
+  <img src="/images/builds/107-bismuth-crystal-garden.jpg" alt="Bismuth Crystal Garden" width="700" />
 </p>
 
 > Melt bismuth on the stove, slow-cool it, and pull out rainbow-colored hopper crystals worth $20-50 each.
@@ -64,6 +64,6 @@ Bismuth melts at 520°F — hot, but achievable on a kitchen stove. When it cool
 
 ## 🔗 See Also
 
-- [Gallium Melting Spoon](106-gallium-melting-spoon/)
-- [Copper Crystal Tree](../chemical-electronic/161-copper-crystal-tree/)
+- [Gallium Melting Spoon](/categories/pyro-and-chemistry/106-gallium-melting-spoon/)
+- [Copper Crystal Tree](/categories/chemical-electronic/161-copper-crystal-tree/)
 

@@ -19,7 +19,7 @@ ratings:
 # #305 — Microwave Kiln
 
 <p align="center">
-  <img src="../../images/builds/305-microwave-kiln.jpg" alt="Microwave Kiln" width="700" />
+  <img src="/images/builds/305-microwave-kiln.jpg" alt="Microwave Kiln" width="700" />
 </p>
 
 > Your microwave is three minutes away from being a forge. The microwave itself doesn't even know.
@@ -88,6 +88,6 @@ The applications are genuinely surprising. Fuse glass — layer pieces of dichro
 
 ## 🔗 See Also
 
-- [Toaster Reflow Oven](260-toaster-reflow-oven/)
-- [Waffle Iron Heat Press](264-waffle-iron-press/)
+- [Toaster Reflow Oven](/categories/kitchen-hacks/260-toaster-reflow-oven/)
+- [Waffle Iron Heat Press](/categories/kitchen-hacks/264-waffle-iron-press/)
 

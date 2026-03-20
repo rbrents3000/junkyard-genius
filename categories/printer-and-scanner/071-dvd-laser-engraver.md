@@ -19,7 +19,7 @@ ratings:
 # #071 — DVD Laser Engraver
 
 <p align="center">
-  <img src="../../images/builds/071-dvd-laser-engraver.jpg" alt="DVD Laser Engraver" width="700" />
+  <img src="/images/builds/071-dvd-laser-engraver.jpg" alt="DVD Laser Engraver" width="700" />
 </p>
 
 > Two DVD drive sleds plus an Arduino. The DVD burner's laser etches wood, leather, and paper with incredible detail. Tiny but mighty.
@@ -68,6 +68,6 @@ DVD burner drives contain two valuable things: a precision stepper-driven sled m
 
 ## 🔗 See Also
 
-- [Printer Stepper CNC](069-printer-stepper-cnc/)
-- [Pen Plotter](072-pen-plotter/)
+- [Printer Stepper CNC](/categories/printer-and-scanner/069-printer-stepper-cnc/)
+- [Pen Plotter](/categories/printer-and-scanner/072-pen-plotter/)
 

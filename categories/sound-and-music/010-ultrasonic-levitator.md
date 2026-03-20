@@ -19,7 +19,7 @@ ratings:
 # #010 — Ultrasonic Levitator
 
 <p align="center">
-  <img src="../../images/builds/010-ultrasonic-levitator.jpg" alt="Ultrasonic Levitator" width="700" />
+  <img src="/images/builds/010-ultrasonic-levitator.jpg" alt="Ultrasonic Levitator" width="700" />
 </p>
 
 > Ultrasonic transducers create standing waves that trap and levitate small objects in mid-air — actual levitation, no tricks.
@@ -77,6 +77,6 @@ The objects literally float in mid-air with no visible support. You can levitate
 
 ## 🔗 See Also
 
-- [Ferrofluid Speaker](011-ferrofluid-speaker/) — another way to make invisible forces visible through physical media
-- [Schlieren Optics](../light-and-visual/172-schlieren-optics/) — visualize the sound waves themselves instead of levitating objects in them
+- [Ferrofluid Speaker](/categories/sound-and-music/011-ferrofluid-speaker/) — another way to make invisible forces visible through physical media
+- [Schlieren Optics](/categories/light-and-visual/172-schlieren-optics/) — visualize the sound waves themselves instead of levitating objects in them
 

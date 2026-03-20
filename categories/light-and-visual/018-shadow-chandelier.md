@@ -19,7 +19,7 @@ ratings:
 # #018 — Shadow Chandelier
 
 <p align="center">
-  <img src="../../images/builds/018-shadow-chandelier.jpg" alt="Shadow Chandelier" width="700" />
+  <img src="/images/builds/018-shadow-chandelier.jpg" alt="Shadow Chandelier" width="700" />
 </p>
 
 > A metal sphere with precisely cut patterns casts intricate shadows across every wall and ceiling of the room.
@@ -76,5 +76,5 @@ The beauty is in the math: because light travels in straight lines from a point 
 
 ## 🔗 See Also
 
-- [Camera Obscura Room](175-camera-obscura-room/) — another project that transforms an entire room using light projection
-- [Polarization Art](174-polarization-art/) — hidden visual patterns revealed through optics
+- [Camera Obscura Room](/categories/light-and-visual/175-camera-obscura-room/) — another project that transforms an entire room using light projection
+- [Polarization Art](/categories/light-and-visual/174-polarization-art/) — hidden visual patterns revealed through optics

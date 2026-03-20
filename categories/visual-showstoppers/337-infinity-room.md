@@ -19,7 +19,7 @@ ratings:
 # #337 — Infinity Room
 
 <p align="center">
-  <img src="../../images/builds/337-infinity-room.jpg" alt="Infinity Room" width="700" />
+  <img src="/images/builds/337-infinity-room.jpg" alt="Infinity Room" width="700" />
 </p>
 
 > A box of mirrors and LED strips that creates the illusion of infinite glowing space — Kusama on a junkyard budget.
@@ -80,6 +80,6 @@ Yayoi Kusama charges museum admission for this. You can build it from thrift sto
 
 ## 🔗 See Also
 
-- [Infinity Mirror Table](../light-and-visual/016-infinity-mirror-table/) — same mirror-reflection principle applied to furniture
-- [Fiber Optic Star Ceiling](../light-and-visual/173-fiber-optic-star-ceiling/) — another immersive light installation using different tech
+- [Infinity Mirror Table](/categories/light-and-visual/016-infinity-mirror-table/) — same mirror-reflection principle applied to furniture
+- [Fiber Optic Star Ceiling](/categories/light-and-visual/173-fiber-optic-star-ceiling/) — another immersive light installation using different tech
 

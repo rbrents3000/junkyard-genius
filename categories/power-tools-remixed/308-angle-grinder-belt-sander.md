@@ -19,7 +19,7 @@ ratings:
 # #308 — Angle Grinder Belt Sander
 
 <p align="center">
-  <img src="../../images/builds/308-angle-grinder-belt-sander.jpg" alt="Angle Grinder Belt Sander" width="700" />
+  <img src="/images/builds/308-angle-grinder-belt-sander.jpg" alt="Angle Grinder Belt Sander" width="700" />
 </p>
 
 > Bolt-on belt sander attachment for an angle grinder. Two rollers, a sanding belt, 10,000 RPM. Converts in 30 seconds.
@@ -164,6 +164,6 @@ Wood sanding dust is itself a fire hazard at high concentrations. Work in a clea
 
 ## 🔗 See Also
 
-- [Angle Grinder Forge Blower](079-angle-grinder-forge-blower/)
-- [Sawzall Power Hammer](081-sawzall-power-hammer/)
+- [Angle Grinder Forge Blower](/categories/power-tools-remixed/079-angle-grinder-forge-blower/)
+- [Sawzall Power Hammer](/categories/power-tools-remixed/081-sawzall-power-hammer/)
 

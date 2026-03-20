@@ -19,7 +19,7 @@ ratings:
 # #209 — Alcohol Vapor Cannon
 
 <p align="center">
-  <img src="../../images/builds/209-alcohol-vapor-cannon.jpg" alt="Alcohol Vapor Cannon" width="700" />
+  <img src="/images/builds/209-alcohol-vapor-cannon.jpg" alt="Alcohol Vapor Cannon" width="700" />
 </p>
 
 > Isopropyl alcohol vapor inside a water cooler jug, a spark from a piezo igniter, and WHOMP — a pressure wave launches a projectile across the yard.
@@ -67,6 +67,6 @@ The bottle is reusable. Just swirl in more alcohol and fire again. One bottle of
 
 ## 🔗 See Also
 
-- [Baking Soda Vinegar Rocket](215-baking-soda-vinegar-rocket/) — pressure-based projectile launch without combustion
-- [Hand Sanitizer Fire Art](210-hand-sanitizer-fire-art/) — another controlled combustion build using household alcohol
+- [Baking Soda Vinegar Rocket](/categories/household-chemistry/215-baking-soda-vinegar-rocket/) — pressure-based projectile launch without combustion
+- [Hand Sanitizer Fire Art](/categories/household-chemistry/210-hand-sanitizer-fire-art/) — another controlled combustion build using household alcohol
 

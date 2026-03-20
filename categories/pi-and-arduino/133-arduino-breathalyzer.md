@@ -19,7 +19,7 @@ ratings:
 # #133 — Arduino Breathalyzer
 
 <p align="center">
-  <img src="../../images/builds/133-arduino-breathalyzer.jpg" alt="Arduino Breathalyzer" width="700" />
+  <img src="/images/builds/133-arduino-breathalyzer.jpg" alt="Arduino Breathalyzer" width="700" />
 </p>
 
 > An MQ-3 alcohol sensor with an Arduino and OLED display — blow and get a BAC reading. The ultimate party gadget.
@@ -66,6 +66,6 @@ The MQ-3 is a gas sensor specifically tuned to detect ethanol vapor — the alco
 
 ## 🔗 See Also
 
-- [EMF Ghost Detector](140-emf-ghost-detector/)
-- [Voice Home Automation](../python-projects/149-voice-home-automation/)
+- [EMF Ghost Detector](/categories/pi-and-arduino/140-emf-ghost-detector/)
+- [Voice Home Automation](/categories/python-projects/149-voice-home-automation/)
 

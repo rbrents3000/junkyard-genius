@@ -19,7 +19,7 @@ ratings:
 # #224 — Window Motor Secret Door
 
 <p align="center">
-  <img src="../../images/builds/224-window-motor-secret-door.jpg" alt="Window Motor Secret Door" width="700" />
+  <img src="/images/builds/224-window-motor-secret-door.jpg" alt="Window Motor Secret Door" width="700" />
 </p>
 
 > A power window motor drives a bookshelf that swings open to reveal a hidden passage. Every house deserves a Scooby-Doo moment.
@@ -66,6 +66,6 @@ A car power window motor is a compact geared DC motor designed to lift a heavy g
 
 ## 🔗 See Also
 
-- [Hydraulic Robot Arm](../mechanical-and-kinetic/183-hydraulic-robot-arm/)
-- [Smart Mirror](../pi-and-arduino/123-smart-mirror/)
+- [Hydraulic Robot Arm](/categories/mechanical-and-kinetic/183-hydraulic-robot-arm/)
+- [Smart Mirror](/categories/pi-and-arduino/123-smart-mirror/)
 

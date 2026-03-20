@@ -19,7 +19,7 @@ ratings:
 # #263 — Blender Vortex Centrifuge
 
 <p align="center">
-  <img src="../../images/builds/263-blender-centrifuge.jpg" alt="Blender Vortex Centrifuge" width="700" />
+  <img src="/images/builds/263-blender-centrifuge.jpg" alt="Blender Vortex Centrifuge" width="700" />
 </p>
 
 > Your smoothie maker's secret identity is a science lab.
@@ -79,6 +79,6 @@ The one critical requirement is balance. An unbalanced rotor at 10,000 RPM doesn
 
 ## 🔗 See Also
 
-- [Toaster Reflow Oven](260-toaster-reflow-oven/)
-- [Coffee Maker Distiller](262-coffee-maker-distiller/)
+- [Toaster Reflow Oven](/categories/kitchen-hacks/260-toaster-reflow-oven/)
+- [Coffee Maker Distiller](/categories/kitchen-hacks/262-coffee-maker-distiller/)
 

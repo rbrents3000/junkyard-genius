@@ -19,7 +19,7 @@ ratings:
 # #225 — Seat Heater Sous Vide
 
 <p align="center">
-  <img src="../../images/builds/225-seat-heater-sous-vide.jpg" alt="Seat Heater Sous Vide" width="700" />
+  <img src="/images/builds/225-seat-heater-sous-vide.jpg" alt="Seat Heater Sous Vide" width="700" />
 </p>
 
 > Flexible car seat heater element + PID temperature controller = a precision sous vide cooker that holds temperature within one degree.
@@ -65,5 +65,5 @@ Car seat heaters are thin, flexible resistance heating elements sandwiched betwe
 
 ## 🔗 See Also
 
-- [Fermentation Chamber](../fridge-and-cooling/092-fermentation-chamber/)
-- [Thermoelectric Charger](../power-and-energy/049-campfire-thermoelectric-charger/)
+- [Fermentation Chamber](/categories/fridge-and-cooling/092-fermentation-chamber/)
+- [Thermoelectric Charger](/categories/power-and-energy/049-campfire-thermoelectric-charger/)

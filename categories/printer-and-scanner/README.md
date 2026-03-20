@@ -8,7 +8,7 @@ image: /images/categories/printer-and-scanner.jpg
 # 🖨️ Printer & Scanner
 
 <p align="center">
-  <img src="../../images/categories/printer-and-scanner.jpg" alt="Printer & Scanner" width="700" />
+  <img src="/images/categories/printer-and-scanner.jpg" alt="Printer & Scanner" width="700" />
 </p>
 
 <p align="center">

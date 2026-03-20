@@ -19,7 +19,7 @@ ratings:
 # #254 — Invisible Bluetooth Speaker
 
 <p align="center">
-  <img src="../../images/builds/254-invisible-speaker.jpg" alt="Invisible Bluetooth Speaker" width="700" />
+  <img src="/images/builds/254-invisible-speaker.jpg" alt="Invisible Bluetooth Speaker" width="700" />
 </p>
 
 > Bone conduction transducer + Bluetooth module hidden under a table. Any surface becomes a speaker. Nobody can find it.
@@ -78,7 +78,7 @@ The prank applications are obvious: whisper someone's name through a table at 2 
 
 ## 🔗 See Also
 
-- [Motion-Activated Jump Scare](255-motion-jump-scare/)
-- [Fake Security Camera That Roasts You](257-insult-camera/)
-- [Laser Voice Communicator](../laser-lab/265-laser-communicator/)
+- [Motion-Activated Jump Scare](/categories/pranks-and-party/255-motion-jump-scare/)
+- [Fake Security Camera That Roasts You](/categories/pranks-and-party/257-insult-camera/)
+- [Laser Voice Communicator](/categories/laser-lab/265-laser-communicator/)
 

@@ -19,7 +19,7 @@ ratings:
 # #141 — Face Tracking Laser
 
 <p align="center">
-  <img src="../../images/builds/141-face-tracking-laser.jpg" alt="Face Tracking Laser" width="700" />
+  <img src="/images/builds/141-face-tracking-laser.jpg" alt="Face Tracking Laser" width="700" />
 </p>
 
 > A webcam with OpenCV face detection controls servos aiming a laser pointer — the laser follows your face around the room.
@@ -66,6 +66,6 @@ OpenCV's face detection identifies faces in webcam frames in real time. Map the 
 
 ## 🔗 See Also
 
-- [Nerf Sentry Turret](../pi-and-arduino/138-nerf-sentry-turret/)
-- [AI Doorbell](../pi-and-arduino/130-ai-doorbell/)
+- [Nerf Sentry Turret](/categories/pi-and-arduino/138-nerf-sentry-turret/)
+- [AI Doorbell](/categories/pi-and-arduino/130-ai-doorbell/)
 

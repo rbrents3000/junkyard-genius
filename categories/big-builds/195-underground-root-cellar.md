@@ -19,7 +19,7 @@ ratings:
 # #195 — Underground Root Cellar
 
 <p align="center">
-  <img src="../../images/builds/195-underground-root-cellar.jpg" alt="Underground Root Cellar" width="700" />
+  <img src="/images/builds/195-underground-root-cellar.jpg" alt="Underground Root Cellar" width="700" />
 </p>
 
 > Dig a hole, line it, insulate it, monitor it — and store food at perfect temperature year-round without electricity.
@@ -84,6 +84,6 @@ This build combines old-world construction (dig, line, insulate) with modern mon
 
 ## 🔗 See Also
 
-- [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse/) — grow the food that you store in the root cellar
-- [Ham Radio from Scratch](193-ham-radio-from-scratch/) — another project that rewards patience and manual craftsmanship
+- [Geodesic Dome Greenhouse](/categories/big-builds/194-geodesic-dome-greenhouse/) — grow the food that you store in the root cellar
+- [Ham Radio from Scratch](/categories/big-builds/193-ham-radio-from-scratch/) — another project that rewards patience and manual craftsmanship
 

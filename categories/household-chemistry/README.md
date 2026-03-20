@@ -8,7 +8,7 @@ image: /images/categories/household-chemistry.jpg
 # 🧹 Household Chemistry
 
 <p align="center">
-  <img src="../../images/categories/household-chemistry.jpg" alt="Household Chemistry" width="700" />
+  <img src="/images/categories/household-chemistry.jpg" alt="Household Chemistry" width="700" />
 </p>
 
 <p align="center">

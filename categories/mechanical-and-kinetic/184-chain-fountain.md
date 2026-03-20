@@ -19,7 +19,7 @@ ratings:
 # #184 — Chain Fountain
 
 <p align="center">
-  <img src="../../images/builds/184-chain-fountain.jpg" alt="Chain Fountain" width="700" />
+  <img src="/images/builds/184-chain-fountain.jpg" alt="Chain Fountain" width="700" />
 </p>
 
 > Drop one end of a ball chain out of a jar and watch physics throw the rest of it into the sky.
@@ -69,6 +69,6 @@ The physics is still debated, but the leading explanation involves the rigid lin
 
 ## 🔗 See Also
 
-- [Eddy Current Brake](186-eddy-current-brake/) — another "wait, that shouldn't be possible" physics demo
-- [Prince Rupert's Drop](190-prince-ruperts-drop/) — counterintuitive material science that looks like magic
+- [Eddy Current Brake](/categories/mechanical-and-kinetic/186-eddy-current-brake/) — another "wait, that shouldn't be possible" physics demo
+- [Prince Rupert's Drop](/categories/mechanical-and-kinetic/190-prince-ruperts-drop/) — counterintuitive material science that looks like magic
 

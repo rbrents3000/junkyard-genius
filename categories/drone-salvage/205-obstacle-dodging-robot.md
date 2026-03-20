@@ -19,7 +19,7 @@ ratings:
 # #205 — Obstacle-Dodging Robot
 
 <p align="center">
-  <img src="../../images/builds/205-obstacle-dodging-robot.jpg" alt="Obstacle-Dodging Robot" width="700" />
+  <img src="/images/builds/205-obstacle-dodging-robot.jpg" alt="Obstacle-Dodging Robot" width="700" />
 </p>
 
 > Salvage the ToF sensors, IR proximity detectors, and flight controller IMU from a drone — put them on a ground robot that autonomously navigates around obstacles.
@@ -70,6 +70,6 @@ The result is a robot that drives itself around a room, hallway, or outdoor spac
 
 ## 🔗 See Also
 
-- [FPV Ground Rover](202-fpv-ground-rover/) — add FPV camera for remote viewing of what the robot sees
-- [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer/) — mount a stabilized camera on this platform for smooth autonomous filming
+- [FPV Ground Rover](/categories/drone-salvage/202-fpv-ground-rover/) — add FPV camera for remote viewing of what the robot sees
+- [Camera Gimbal Stabilizer](/categories/drone-salvage/201-camera-gimbal-stabilizer/) — mount a stabilized camera on this platform for smooth autonomous filming
 

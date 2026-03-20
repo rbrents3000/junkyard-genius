@@ -8,7 +8,7 @@ image: /images/categories/weird-science.jpg
 # 🔬 Weird Science
 
 <p align="center">
-  <img src="../../images/categories/weird-science.jpg" alt="Weird Science" width="700" />
+  <img src="/images/categories/weird-science.jpg" alt="Weird Science" width="700" />
 </p>
 
 <p align="center">

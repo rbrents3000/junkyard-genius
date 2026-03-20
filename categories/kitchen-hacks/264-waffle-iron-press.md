@@ -19,7 +19,7 @@ ratings:
 # #264 — Waffle Iron Heat Press
 
 <p align="center">
-  <img src="../../images/builds/264-waffle-iron-press.jpg" alt="Waffle Iron Heat Press" width="700" />
+  <img src="/images/builds/264-waffle-iron-press.jpg" alt="Waffle Iron Heat Press" width="700" />
 </p>
 
 > A $3 waffle iron does the same job as a $200 heat press. Flat plates, even pressure, built-in thermostat.
@@ -79,6 +79,6 @@ Professional T-shirt printers will tell you this can't possibly work as well as 
 
 ## 🔗 See Also
 
-- [Blender Vortex Centrifuge](263-blender-centrifuge/)
-- [Toaster Reflow Oven](260-toaster-reflow-oven/)
-- [Stand Mixer Pottery Wheel](261-stand-mixer-pottery-wheel/)
+- [Blender Vortex Centrifuge](/categories/kitchen-hacks/263-blender-centrifuge/)
+- [Toaster Reflow Oven](/categories/kitchen-hacks/260-toaster-reflow-oven/)
+- [Stand Mixer Pottery Wheel](/categories/kitchen-hacks/261-stand-mixer-pottery-wheel/)

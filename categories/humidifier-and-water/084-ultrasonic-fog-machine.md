@@ -19,7 +19,7 @@ ratings:
 # #084 — Ultrasonic Fog Machine
 
 <p align="center">
-  <img src="../../images/builds/084-ultrasonic-fog-machine.jpg" alt="Ultrasonic Fog Machine" width="700" />
+  <img src="/images/builds/084-ultrasonic-fog-machine.jpg" alt="Ultrasonic Fog Machine" width="700" />
 </p>
 
 > A humidifier's ultrasonic disc creates cold fog that's denser than air. It pools on the ground like a horror movie. Pump it through tubes for cascading effects.
@@ -64,5 +64,5 @@ Ultrasonic humidifiers work by vibrating a piezoelectric disc at 1.7 MHz, atomiz
 
 ## 🔗 See Also
 
-- [Fog Waterfall Table](086-fog-waterfall-table/)
-- [Nebula Lamp](087-nebula-lamp/)
+- [Fog Waterfall Table](/categories/humidifier-and-water/086-fog-waterfall-table/)
+- [Nebula Lamp](/categories/humidifier-and-water/087-nebula-lamp/)

@@ -19,7 +19,7 @@ ratings:
 # #081 — Sawzall Power Hammer
 
 <p align="center">
-  <img src="../../images/builds/081-sawzall-power-hammer.jpg" alt="Sawzall Power Hammer" width="700" />
+  <img src="/images/builds/081-sawzall-power-hammer.jpg" alt="Sawzall Power Hammer" width="700" />
 </p>
 
 > Replace the reciprocating saw blade with a hammer or chisel bit. 3,000+ hits per minute. A power hammer for texturing and shaping metal.
@@ -63,6 +63,6 @@ A reciprocating saw (Sawzall) makes 2,500-3,000 strokes per minute with consider
 
 ## 🔗 See Also
 
-- [Angle Grinder Forge Blower](079-angle-grinder-forge-blower/)
-- [Circular Saw Table Saw](082-circular-saw-table-saw/)
+- [Angle Grinder Forge Blower](/categories/power-tools-remixed/079-angle-grinder-forge-blower/)
+- [Circular Saw Table Saw](/categories/power-tools-remixed/082-circular-saw-table-saw/)
 

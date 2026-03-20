@@ -19,7 +19,7 @@ ratings:
 # #247 — GPS Treasure Hunt Watch
 
 <p align="center">
-  <img src="../../images/builds/247-gps-treasure-watch.jpg" alt="GPS Treasure Hunt Watch" width="700" />
+  <img src="/images/builds/247-gps-treasure-watch.jpg" alt="GPS Treasure Hunt Watch" width="700" />
 </p>
 
 > An ESP32 with a GPS module and OLED display strapped to your wrist. Program coordinates, and the watch shows distance and direction to hidden treasures. Geocaching with homemade hardware.
@@ -81,6 +81,6 @@ The applications go way beyond geocaching. Program it with the coordinates of yo
 
 ## 🔗 See Also
 
-- [Heads-Up Display Glasses](245-hud-glasses/)
-- [Nichrome Wire Heated Gloves](243-heated-gloves/)
+- [Heads-Up Display Glasses](/categories/wearable-tech/245-hud-glasses/)
+- [Nichrome Wire Heated Gloves](/categories/wearable-tech/243-heated-gloves/)
 

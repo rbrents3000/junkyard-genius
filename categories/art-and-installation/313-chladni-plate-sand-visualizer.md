@@ -19,7 +19,7 @@ ratings:
 # #313 — Chladni Plate Sand Visualizer
 
 <p align="center">
-  <img src="../../images/builds/313-chladni-plate-sand-visualizer.jpg" alt="Chladni Plate Sand Visualizer" width="700" />
+  <img src="/images/builds/313-chladni-plate-sand-visualizer.jpg" alt="Chladni Plate Sand Visualizer" width="700" />
 </p>
 
 > Sprinkle sand on a metal plate, drive it with a speaker, watch geometric mandala patterns form from pure physics.
@@ -76,5 +76,5 @@ Square plates produce the most symmetrical, photogenic patterns because the geom
 
 ## 🔗 See Also
 
-- [Kinetic Sand Table](312-kinetic-sand-table/)
-- [Non-Newtonian Speaker](../pyro-and-chemistry/112-non-newtonian-speaker/)
+- [Kinetic Sand Table](/categories/art-and-installation/312-kinetic-sand-table/)
+- [Non-Newtonian Speaker](/categories/pyro-and-chemistry/112-non-newtonian-speaker/)

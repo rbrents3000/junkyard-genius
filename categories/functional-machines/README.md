@@ -8,7 +8,7 @@ image: /images/categories/functional-machines.jpg
 # 🔧 Functional Machines
 
 <p align="center">
-  <img src="../../images/categories/functional-machines.jpg" alt="Functional Machines" width="700" />
+  <img src="/images/categories/functional-machines.jpg" alt="Functional Machines" width="700" />
 </p>
 
 <p align="center">

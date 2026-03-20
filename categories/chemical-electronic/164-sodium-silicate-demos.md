@@ -19,7 +19,7 @@ ratings:
 # #164 — Sodium Silicate Demos
 
 <p align="center">
-  <img src="../../images/builds/164-sodium-silicate-demos.jpg" alt="Sodium Silicate Demos" width="700" />
+  <img src="/images/builds/164-sodium-silicate-demos.jpg" alt="Sodium Silicate Demos" width="700" />
 </p>
 
 > Water glass: coat paper for a fireproof demo, or pour metal salts into the solution for a chemical garden of growing colorful tubes.
@@ -63,6 +63,6 @@ Sodium silicate (water glass) is a liquid glass solution used in industry for fi
 
 ## 🔗 See Also
 
-- [pH Reactive Paint](163-ph-reactive-paint/)
-- [Instant Ice Sculpture](../pyro-and-chemistry/108-instant-ice-sculpture/)
+- [pH Reactive Paint](/categories/chemical-electronic/163-ph-reactive-paint/)
+- [Instant Ice Sculpture](/categories/pyro-and-chemistry/108-instant-ice-sculpture/)
 

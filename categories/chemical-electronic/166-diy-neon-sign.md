@@ -19,7 +19,7 @@ ratings:
 # #166 — DIY Neon Sign
 
 <p align="center">
-  <img src="../../images/builds/166-diy-neon-sign.jpg" alt="DIY Neon Sign" width="700" />
+  <img src="/images/builds/166-diy-neon-sign.jpg" alt="DIY Neon Sign" width="700" />
 </p>
 
 > Bend glass tubing, fill with gas, seal, and apply high voltage — real neon glows orange, argon glows purple. Hand-bent custom neon signs.
@@ -71,6 +71,6 @@ Real neon signs are glass tubes filled with gas that glows when high voltage exc
 
 ## 🔗 See Also
 
-- [Vacuum Tube Amp](169-vacuum-tube-amp/)
-- [Ozone Generator](167-ozone-generator/)
+- [Vacuum Tube Amp](/categories/chemical-electronic/169-vacuum-tube-amp/)
+- [Ozone Generator](/categories/chemical-electronic/167-ozone-generator/)
 

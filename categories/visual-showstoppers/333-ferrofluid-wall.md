@@ -19,7 +19,7 @@ ratings:
 # #333 — Ferrofluid Wall
 
 <p align="center">
-  <img src="../../images/builds/333-ferrofluid-wall.jpg" alt="Ferrofluid Wall" width="700" />
+  <img src="/images/builds/333-ferrofluid-wall.jpg" alt="Ferrofluid Wall" width="700" />
 </p>
 
 > Living alien liquid metal on your wall — a ferrofluid display that dances to music, reacts to motion, and makes every other piece of art in the room irrelevant.
@@ -88,6 +88,6 @@ Commercial ferrofluid displays this size run $2,000-$5,000. This build costs und
 
 ## 🔗 See Also
 
-- [Ferrofluid Mirror](../art-and-installation/046-ferrofluid-mirror/) — same fluid, smaller scale, desktop format
-- [Music Visualizer LED Wall](../python-projects/145-music-visualizer-led-wall/) — music-reactive display using LEDs instead of ferrofluid
+- [Ferrofluid Mirror](/categories/art-and-installation/046-ferrofluid-mirror/) — same fluid, smaller scale, desktop format
+- [Music Visualizer LED Wall](/categories/python-projects/145-music-visualizer-led-wall/) — music-reactive display using LEDs instead of ferrofluid
 

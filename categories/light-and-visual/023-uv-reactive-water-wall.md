@@ -19,7 +19,7 @@ ratings:
 # #023 — UV Reactive Water Wall
 
 <p align="center">
-  <img src="../../images/builds/023-uv-reactive-water-wall.jpg" alt="UV Reactive Water Wall" width="700" />
+  <img src="/images/builds/023-uv-reactive-water-wall.jpg" alt="UV Reactive Water Wall" width="700" />
 </p>
 
 > UV LEDs, fluorescent dye, and flowing water combine into a wall of glowing liquid that looks like it belongs in a sci-fi movie.
@@ -77,6 +77,6 @@ The glow is genuine fluorescence — the dye molecules absorb UV photons and emi
 
 ## 🔗 See Also
 
-- [UV Mineral Display](177-uv-mineral-display/) — UV light revealing hidden fluorescence in natural minerals
-- [Infinity Mirror Table](016-infinity-mirror-table/) — another LED-based installation that transforms a space
+- [UV Mineral Display](/categories/light-and-visual/177-uv-mineral-display/) — UV light revealing hidden fluorescence in natural minerals
+- [Infinity Mirror Table](/categories/light-and-visual/016-infinity-mirror-table/) — another LED-based installation that transforms a space
 

@@ -19,7 +19,7 @@ ratings:
 # #093 — Fog Chiller
 
 <p align="center">
-  <img src="../../images/builds/093-fog-chiller.jpg" alt="Fog Chiller" width="700" />
+  <img src="/images/builds/093-fog-chiller.jpg" alt="Fog Chiller" width="700" />
 </p>
 
 > Fridge compressor + copper coil + insulated box + fog machine. Cold fog hugs the ground. Infinitely more dramatic. Essential for Halloween.
@@ -66,6 +66,6 @@ Standard fog machines heat glycol fluid to produce warm fog that rises and dispe
 
 ## 🔗 See Also
 
-- [Ultrasonic Fog Machine](../humidifier-and-water/084-ultrasonic-fog-machine/)
-- [DIY Freeze Dryer](094-diy-freeze-dryer/)
+- [Ultrasonic Fog Machine](/categories/humidifier-and-water/084-ultrasonic-fog-machine/)
+- [DIY Freeze Dryer](/categories/fridge-and-cooling/094-diy-freeze-dryer/)
 

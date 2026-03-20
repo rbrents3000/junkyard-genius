@@ -19,7 +19,7 @@ ratings:
 # #137 — Star Tracker
 
 <p align="center">
-  <img src="../../images/builds/137-star-tracker.jpg" alt="Star Tracker" width="700" />
+  <img src="/images/builds/137-star-tracker.jpg" alt="Star Tracker" width="700" />
 </p>
 
 > A stepper motor and Pi rotate your camera at exactly Earth's rotation speed — stars become pinpoints instead of trails.
@@ -68,6 +68,6 @@ The Earth rotates once every 24 hours. Point a camera at the sky and take a long
 
 ## 🔗 See Also
 
-- [Generative Art Plotter](../python-projects/142-generative-art-plotter/)
-- [ESP32 Weather Station](132-esp32-weather-station/)
+- [Generative Art Plotter](/categories/python-projects/142-generative-art-plotter/)
+- [ESP32 Weather Station](/categories/pi-and-arduino/132-esp32-weather-station/)
 

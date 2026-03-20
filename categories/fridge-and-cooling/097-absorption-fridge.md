@@ -19,7 +19,7 @@ ratings:
 # #097 — Absorption Fridge
 
 <p align="center">
-  <img src="../../images/builds/097-absorption-fridge.jpg" alt="Absorption Fridge" width="700" />
+  <img src="/images/builds/097-absorption-fridge.jpg" alt="Absorption Fridge" width="700" />
 </p>
 
 > A fridge with zero moving parts — just heat, ammonia, and gravity. Runs off a candle.
@@ -67,5 +67,5 @@ Absorption refrigeration uses heat to drive a cooling cycle — no compressor, n
 
 ## 🔗 See Also
 
-- [Freeze Dryer](094-diy-freeze-dryer/)
-- [Campfire Thermoelectric Charger](../power-and-energy/049-campfire-thermoelectric-charger/)
+- [Freeze Dryer](/categories/fridge-and-cooling/094-diy-freeze-dryer/)
+- [Campfire Thermoelectric Charger](/categories/power-and-energy/049-campfire-thermoelectric-charger/)

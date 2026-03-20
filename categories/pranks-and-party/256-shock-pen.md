@@ -19,7 +19,7 @@ ratings:
 # #256 — Piezo Shock Pen
 
 <p align="center">
-  <img src="../../images/builds/256-shock-pen.jpg" alt="Piezo Shock Pen" width="700" />
+  <img src="/images/builds/256-shock-pen.jpg" alt="Piezo Shock Pen" width="700" />
 </p>
 
 > BBQ lighter piezo igniter crammed inside a pen barrel. Click to write, get zapped instead.
@@ -76,7 +76,7 @@ This is the simplest prank build in the entire collection. No programming, no ba
 
 ## 🔗 See Also
 
-- [Invisible Bluetooth Speaker](254-invisible-speaker/)
-- [Motion-Activated Jump Scare](255-motion-jump-scare/)
-- [Self-Pouring Bottle](258-self-pouring-bottle/)
+- [Invisible Bluetooth Speaker](/categories/pranks-and-party/254-invisible-speaker/)
+- [Motion-Activated Jump Scare](/categories/pranks-and-party/255-motion-jump-scare/)
+- [Self-Pouring Bottle](/categories/pranks-and-party/258-self-pouring-bottle/)
 

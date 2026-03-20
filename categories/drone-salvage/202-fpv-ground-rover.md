@@ -19,7 +19,7 @@ ratings:
 # #202 — FPV Ground Rover
 
 <p align="center">
-  <img src="../../images/builds/202-fpv-ground-rover.jpg" alt="FPV Ground Rover" width="700" />
+  <img src="/images/builds/202-fpv-ground-rover.jpg" alt="FPV Ground Rover" width="700" />
 </p>
 
 > Strap a drone camera and video transmitter onto a wheeled chassis for first-person-view exploration of tunnels, crawl spaces, and anywhere you can't fit.
@@ -70,6 +70,6 @@ Add the drone's obstacle-avoidance sensors and you've got a rover that warns you
 
 ## 🔗 See Also
 
-- [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer/) — add a stabilized camera to this rover for smooth footage
-- [Obstacle-Dodging Robot](205-obstacle-dodging-robot/) — upgrade this rover with autonomous navigation using drone sensors
+- [Camera Gimbal Stabilizer](/categories/drone-salvage/201-camera-gimbal-stabilizer/) — add a stabilized camera to this rover for smooth footage
+- [Obstacle-Dodging Robot](/categories/drone-salvage/205-obstacle-dodging-robot/) — upgrade this rover with autonomous navigation using drone sensors
 

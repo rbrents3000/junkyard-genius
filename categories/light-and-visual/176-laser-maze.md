@@ -19,7 +19,7 @@ ratings:
 # #176 — Laser Maze
 
 <p align="center">
-  <img src="../../images/builds/176-laser-maze.jpg" alt="Laser Maze" width="700" />
+  <img src="/images/builds/176-laser-maze.jpg" alt="Laser Maze" width="700" />
 </p>
 
 > Laser pointers, mirrors, fog, and photosensors create a real-life spy movie laser security maze in your garage.
@@ -79,6 +79,6 @@ This is an absolute hit at parties, Halloween events, and kids' birthday parties
 
 ## 🔗 See Also
 
-- [Laser Fog Projector](017-laser-fog-projector/) — lasers and fog for visual art instead of a game
-- [Pepper's Ghost Hologram](171-peppers-ghost-hologram/) — another theatrical illusion build
+- [Laser Fog Projector](/categories/light-and-visual/017-laser-fog-projector/) — lasers and fog for visual art instead of a game
+- [Pepper's Ghost Hologram](/categories/light-and-visual/171-peppers-ghost-hologram/) — another theatrical illusion build
 

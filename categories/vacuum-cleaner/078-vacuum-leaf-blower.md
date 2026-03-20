@@ -19,7 +19,7 @@ ratings:
 # #078 — Vacuum Leaf Blower
 
 <p align="center">
-  <img src="../../images/builds/078-vacuum-leaf-blower.jpg" alt="Vacuum Leaf Blower" width="700" />
+  <img src="/images/builds/078-vacuum-leaf-blower.jpg" alt="Vacuum Leaf Blower" width="700" />
 </p>
 
 > Vacuum motors blow as hard as they suck. Add a PVC nozzle to the exhaust side. 100+ mph air. Free yard tool from a dead vacuum.
@@ -61,6 +61,6 @@ Every vacuum cleaner has a blow side — air comes in through the intake, passes
 
 ## 🔗 See Also
 
-- [Vacuum Hovercraft](075-vacuum-hovercraft/)
-- [Cyclone Dust Separator](077-cyclone-dust-separator/)
+- [Vacuum Hovercraft](/categories/vacuum-cleaner/075-vacuum-hovercraft/)
+- [Cyclone Dust Separator](/categories/vacuum-cleaner/077-cyclone-dust-separator/)
 

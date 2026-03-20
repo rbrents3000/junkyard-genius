@@ -19,7 +19,7 @@ ratings:
 # #157 — Anodizing Setup
 
 <p align="center">
-  <img src="../../images/builds/157-anodizing-setup.jpg" alt="Anodizing Setup" width="700" />
+  <img src="/images/builds/157-anodizing-setup.jpg" alt="Anodizing Setup" width="700" />
 </p>
 
 > Sulfuric acid + DC power + aluminum + fabric dye — create colored anodized aluminum with a professional factory finish.
@@ -70,6 +70,6 @@ Anodizing is the process that gives aluminum its colored, scratch-resistant fini
 
 ## 🔗 See Also
 
-- [Electroplating Station](156-electroplating-station/)
-- [PCB Etching Station](158-pcb-etching-station/)
+- [Electroplating Station](/categories/chemical-electronic/156-electroplating-station/)
+- [PCB Etching Station](/categories/chemical-electronic/158-pcb-etching-station/)
 

@@ -19,7 +19,7 @@ ratings:
 # #086 — Fog Waterfall Table
 
 <p align="center">
-  <img src="../../images/builds/086-fog-waterfall-table.jpg" alt="Fog Waterfall Table" width="700" />
+  <img src="/images/builds/086-fog-waterfall-table.jpg" alt="Fog Waterfall Table" width="700" />
 </p>
 
 > Mist maker under a glass table. Small openings at the edges. Cold fog cascades over the sides like a waterfall. LED strips create colored fog falls.
@@ -66,5 +66,5 @@ Ultrasonic mist is denser than air — it sinks and flows like a liquid. Build a
 
 ## 🔗 See Also
 
-- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine/)
-- [Nebula Lamp](087-nebula-lamp/)
+- [Ultrasonic Fog Machine](/categories/humidifier-and-water/084-ultrasonic-fog-machine/)
+- [Nebula Lamp](/categories/humidifier-and-water/087-nebula-lamp/)

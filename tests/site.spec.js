@@ -318,7 +318,7 @@ test.describe('Static Files', () => {
     const response = await page.goto('/sw.js');
     expect(response.status()).toBe(200);
     const content = await page.textContent('body');
-    expect(content).toContain('jg-v3');
+    expect(content).toContain('jg-v4');
   });
 
   test('robots.txt exists', async ({ page }) => {

@@ -19,7 +19,7 @@ ratings:
 # #290 — Hand-Crank Generator
 
 <p align="center">
-  <img src="../../images/builds/290-hand-crank-generator.jpg" alt="Hand-Crank Generator" width="700" />
+  <img src="/images/builds/290-hand-crank-generator.jpg" alt="Hand-Crank Generator" width="700" />
 </p>
 
 > A dead treadmill motor, some bicycle gears, and a crank handle. When the grid goes down, your arm becomes the power plant.
@@ -81,6 +81,6 @@ The treadmill motor is the heart of this build — they're beefy permanent-magne
 
 ## 🔗 See Also
 
-- [Bicycle Generator](050-bicycle-generator/)
-- [Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger/)
+- [Bicycle Generator](/categories/power-and-energy/050-bicycle-generator/)
+- [Campfire Thermoelectric Charger](/categories/power-and-energy/049-campfire-thermoelectric-charger/)
 

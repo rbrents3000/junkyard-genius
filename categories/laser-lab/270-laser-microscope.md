@@ -19,7 +19,7 @@ ratings:
 # #270 — Laser Scanning Microscope
 
 <p align="center">
-  <img src="../../images/builds/270-laser-microscope.jpg" alt="Laser Scanning Microscope" width="700" />
+  <img src="/images/builds/270-laser-microscope.jpg" alt="Laser Scanning Microscope" width="700" />
 </p>
 
 > Confocal microscopy from a laser pointer. Build an image pixel by pixel from a spinning mirror and a photocell.
@@ -87,7 +87,7 @@ The scanning mechanism is elegant: a small mirror glued to a motor shaft. As the
 
 ## 🔗 See Also
 
-- [Laser Voice Communicator](265-laser-communicator/)
-- [Blu-Ray Laser Cutter](269-blu-ray-laser-cutter/)
-- [Galvanometer Laser Light Show](266-laser-galvo-show/)
+- [Laser Voice Communicator](/categories/laser-lab/265-laser-communicator/)
+- [Blu-Ray Laser Cutter](/categories/laser-lab/269-blu-ray-laser-cutter/)
+- [Galvanometer Laser Light Show](/categories/laser-lab/266-laser-galvo-show/)
 

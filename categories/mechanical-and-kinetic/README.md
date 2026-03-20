@@ -8,7 +8,7 @@ image: /images/categories/mechanical-and-kinetic.jpg
 # 🏗️ Mechanical & Kinetic
 
 <p align="center">
-  <img src="../../images/categories/mechanical-and-kinetic.jpg" alt="Mechanical & Kinetic" width="700" />
+  <img src="/images/categories/mechanical-and-kinetic.jpg" alt="Mechanical & Kinetic" width="700" />
 </p>
 
 <p align="center">

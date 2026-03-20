@@ -8,7 +8,7 @@ image: /images/categories/unholy-combos.jpg
 # 💀 Unholy Combos
 
 <p align="center">
-  <img src="../../images/categories/unholy-combos.jpg" alt="Unholy Combos" width="700" />
+  <img src="/images/categories/unholy-combos.jpg" alt="Unholy Combos" width="700" />
 </p>
 
 <p align="center">

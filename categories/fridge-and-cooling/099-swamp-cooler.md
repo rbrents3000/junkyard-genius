@@ -19,7 +19,7 @@ ratings:
 # #099 — Swamp Cooler
 
 <p align="center">
-  <img src="../../images/builds/099-swamp-cooler.jpg" alt="Swamp Cooler" width="700" />
+  <img src="/images/builds/099-swamp-cooler.jpg" alt="Swamp Cooler" width="700" />
 </p>
 
 > Evaporative AC from a bucket, a fan, and a pump. Drops room temperature 15-20°F using only water.
@@ -62,5 +62,5 @@ Evaporative cooling is the oldest AC on earth — it's why sweating works. Water
 
 ## 🔗 See Also
 
-- [Peltier Portable Cooler](096-peltier-portable-cooler/)
-- [Ultrasonic Fog Machine](../humidifier-and-water/084-ultrasonic-fog-machine/)
+- [Peltier Portable Cooler](/categories/fridge-and-cooling/096-peltier-portable-cooler/)
+- [Ultrasonic Fog Machine](/categories/humidifier-and-water/084-ultrasonic-fog-machine/)

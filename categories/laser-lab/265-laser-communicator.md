@@ -19,7 +19,7 @@ ratings:
 # #265 — Laser Voice Communicator
 
 <p align="center">
-  <img src="../../images/builds/265-laser-communicator.jpg" alt="Laser Voice Communicator" width="700" />
+  <img src="/images/builds/265-laser-communicator.jpg" alt="Laser Voice Communicator" width="700" />
 </p>
 
 > Talk to someone across a field using nothing but a beam of light. Alexander Graham Bell did it in 1880. Your turn.
@@ -86,6 +86,6 @@ No wires. No radio waves. No detectable RF emissions. Just photons carrying your
 
 ## 🔗 See Also
 
-- [Laser Tripwire Security System](268-laser-tripwire-alarm/)
-- [Galvanometer Laser Light Show](266-laser-galvo-show/)
-- [Laser Harp](267-laser-harp/)
+- [Laser Tripwire Security System](/categories/laser-lab/268-laser-tripwire-alarm/)
+- [Galvanometer Laser Light Show](/categories/laser-lab/266-laser-galvo-show/)
+- [Laser Harp](/categories/laser-lab/267-laser-harp/)

@@ -19,7 +19,7 @@ ratings:
 # #172 — Schlieren Optics
 
 <p align="center">
-  <img src="../../images/builds/172-schlieren-optics.jpg" alt="Schlieren Optics" width="700" />
+  <img src="/images/builds/172-schlieren-optics.jpg" alt="Schlieren Optics" width="700" />
 </p>
 
 > A concave mirror and a razor edge let you literally see sound waves, heat currents, and air density changes that are normally invisible.
@@ -76,6 +76,6 @@ The setup uses a concave mirror, a point light source, and a razor blade or shar
 
 ## 🔗 See Also
 
-- [Ultrasonic Levitator](../sound-and-music/010-ultrasonic-levitator/) — another way to interact with invisible pressure waves in air
-- [Camera Obscura Room](175-camera-obscura-room/) — another optics project that reveals hidden visual phenomena
+- [Ultrasonic Levitator](/categories/sound-and-music/010-ultrasonic-levitator/) — another way to interact with invisible pressure waves in air
+- [Camera Obscura Room](/categories/light-and-visual/175-camera-obscura-room/) — another optics project that reveals hidden visual phenomena
 

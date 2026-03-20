@@ -19,7 +19,7 @@ ratings:
 # #032 — Capacitor Discharge Welder
 
 <p align="center">
-  <img src="../../images/builds/032-capacitor-discharge-welder.jpg" alt="Capacitor Discharge Welder" width="700" />
+  <img src="/images/builds/032-capacitor-discharge-welder.jpg" alt="Capacitor Discharge Welder" width="700" />
 </p>
 
 > A bank of microwave capacitors dumps stored energy in one violent pulse — enough to weld battery tabs and thin metal in milliseconds.
@@ -71,6 +71,6 @@ Microwave oven capacitors are large, high-voltage, and available for free from d
 
 ## 🔗 See Also
 
-- [Spot Welder](027-spot-welder/)
-- [DIY Powerwall](../power-and-energy/052-diy-powerwall/)
+- [Spot Welder](/categories/functional-machines/027-spot-welder/)
+- [DIY Powerwall](/categories/power-and-energy/052-diy-powerwall/)
 

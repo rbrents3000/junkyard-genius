@@ -19,7 +19,7 @@ ratings:
 # #087 — Nebula Lamp
 
 <p align="center">
-  <img src="../../images/builds/087-nebula-lamp.jpg" alt="Nebula Lamp" width="700" />
+  <img src="/images/builds/087-nebula-lamp.jpg" alt="Nebula Lamp" width="700" />
 </p>
 
 > Trap ultrasonic mist inside a glass enclosure. Color it with LEDs. Add a fan for turbulence. A captured cloud. A nebula in a jar. Add a speaker and it pulses to music.
@@ -67,6 +67,6 @@ Take a large, clear glass enclosure — a vase, jar, dome, or custom acrylic box
 
 ## 🔗 See Also
 
-- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine/)
-- [Fog Waterfall Table](086-fog-waterfall-table/)
+- [Ultrasonic Fog Machine](/categories/humidifier-and-water/084-ultrasonic-fog-machine/)
+- [Fog Waterfall Table](/categories/humidifier-and-water/086-fog-waterfall-table/)
 

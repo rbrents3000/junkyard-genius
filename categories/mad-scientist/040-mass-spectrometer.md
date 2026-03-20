@@ -19,7 +19,7 @@ ratings:
 # #040 — Mass Spectrometer
 
 <p align="center">
-  <img src="../../images/builds/040-mass-spectrometer.jpg" alt="Mass Spectrometer" width="700" />
+  <img src="/images/builds/040-mass-spectrometer.jpg" alt="Mass Spectrometer" width="700" />
 </p>
 
 > Ionize atoms, accelerate them through a magnetic field, and watch them separate by mass. Identify elements in your garage. This is real analytical chemistry.
@@ -39,7 +39,7 @@ This is the most intellectually demanding build in the book. But the payoff is i
 <details>
 <summary><strong>🧰 Ingredients</strong></summary>
 
-- [ ] Vacuum chamber — from build #039 or similar, capable of reaching <1 Torr *(see [Vacuum Chamber](039-vacuum-chamber/))*
+- [ ] Vacuum chamber — from build #039 or similar, capable of reaching <1 Torr *(see [Vacuum Chamber](/categories/mad-scientist/039-vacuum-chamber/))*
 - [ ] CRT electron gun assembly — provides hot filament and accelerating electrodes *(dead CRT TV)*
 - [ ] High-voltage power supply — adjustable 500V-5kV DC, low current *(flyback driver or dedicated supply)*
 - [ ] Strong magnets — neodymium block magnets or an electromagnet coil *(dead hard drives, motors)*
@@ -74,6 +74,6 @@ This is the most intellectually demanding build in the book. But the payoff is i
 
 ## 🔗 See Also
 
-- [Vacuum Chamber](039-vacuum-chamber/)
-- [Cloud Chamber](041-cloud-chamber/)
+- [Vacuum Chamber](/categories/mad-scientist/039-vacuum-chamber/)
+- [Cloud Chamber](/categories/mad-scientist/041-cloud-chamber/)
 

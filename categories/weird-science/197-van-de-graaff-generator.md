@@ -19,7 +19,7 @@ ratings:
 # #197 — Van de Graaff Generator
 
 <p align="center">
-  <img src="../../images/builds/197-van-de-graaff-generator.jpg" alt="Van de Graaff Generator" width="700" />
+  <img src="/images/builds/197-van-de-graaff-generator.jpg" alt="Van de Graaff Generator" width="700" />
 </p>
 
 > PVC pipe, a rubber belt, a small motor, and an aluminum salad bowl — 100,000 volts of hair-raising static electricity.
@@ -82,6 +82,6 @@ Robert Van de Graaff built the first one in 1929 for nuclear physics research. T
 
 ## 🔗 See Also
 
-- [Kirlian Photography](196-kirlian-photography/) — another high-voltage electrostatics project with visual results
-- [Homopolar Motor](198-homopolar-motor/) — electromagnetism at the other extreme — low voltage, high current
+- [Kirlian Photography](/categories/weird-science/196-kirlian-photography/) — another high-voltage electrostatics project with visual results
+- [Homopolar Motor](/categories/weird-science/198-homopolar-motor/) — electromagnetism at the other extreme — low voltage, high current
 

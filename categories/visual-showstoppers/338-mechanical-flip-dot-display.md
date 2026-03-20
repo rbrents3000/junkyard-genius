@@ -19,7 +19,7 @@ ratings:
 # #338 — Mechanical Flip-Dot Display
 
 <p align="center">
-  <img src="../../images/builds/338-mechanical-flip-dot-display.jpg" alt="Mechanical Flip-Dot Display" width="700" />
+  <img src="/images/builds/338-mechanical-flip-dot-display.jpg" alt="Mechanical Flip-Dot Display" width="700" />
 </p>
 
 > A grid of 256 electromagnetic pixels that physically flip between black and yellow with a deeply satisfying cascading CLICK — the soul of old airport departure boards, built from scratch.
@@ -90,6 +90,6 @@ A 16x16 grid gives you 256 pixels — enough for text, simple graphics, animatio
 
 ## 🔗 See Also
 
-- [LED Cube 8x8x8](../pi-and-arduino/122-led-cube-8x8x8/) — another large-scale pixel display project, but with LEDs instead of mechanical dots
-- [Pen Plotter](../printer-and-scanner/072-pen-plotter/) — mechanical precision meets visual output in a different form factor
+- [LED Cube 8x8x8](/categories/pi-and-arduino/122-led-cube-8x8x8/) — another large-scale pixel display project, but with LEDs instead of mechanical dots
+- [Pen Plotter](/categories/printer-and-scanner/072-pen-plotter/) — mechanical precision meets visual output in a different form factor
 

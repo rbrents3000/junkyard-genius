@@ -19,7 +19,7 @@ ratings:
 # #235 — Cigar Box Guitar
 
 <p align="center">
-  <img src="../../images/builds/235-cigar-box-guitar.jpg" alt="Cigar Box Guitar" width="700" />
+  <img src="/images/builds/235-cigar-box-guitar.jpg" alt="Cigar Box Guitar" width="700" />
 </p>
 
 > A cigar box, a broom handle, and some wire walk into a bar — and actually play a set.
@@ -78,5 +78,5 @@ The build takes an afternoon and costs almost nothing if you scrounge the parts.
 
 ## 🔗 See Also
 
-- [Tin Can Banjo](238-tin-can-banjo/) — same concept, different resonator, different sound
-- [Bucket Drum Kit](237-bucket-drum-kit/) — another junkyard percussion/string instrument with electronic pickup
+- [Tin Can Banjo](/categories/junk-instruments/238-tin-can-banjo/) — same concept, different resonator, different sound
+- [Bucket Drum Kit](/categories/junk-instruments/237-bucket-drum-kit/) — another junkyard percussion/string instrument with electronic pickup

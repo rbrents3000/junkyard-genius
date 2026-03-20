@@ -19,7 +19,7 @@ ratings:
 # #096 — Peltier Portable Cooler
 
 <p align="center">
-  <img src="../../images/builds/096-peltier-portable-cooler.jpg" alt="Peltier Portable Cooler" width="700" />
+  <img src="/images/builds/096-peltier-portable-cooler.jpg" alt="Peltier Portable Cooler" width="700" />
 </p>
 
 > Thermoelectric modules from mini fridges become a portable cooler that runs off a car battery.
@@ -64,5 +64,5 @@ Peltier modules (thermoelectric coolers) move heat from one side to the other wh
 
 ## 🔗 See Also
 
-- [Fermentation Chamber](092-fermentation-chamber/)
-- [Campfire Thermoelectric Charger](../power-and-energy/049-campfire-thermoelectric-charger/)
+- [Fermentation Chamber](/categories/fridge-and-cooling/092-fermentation-chamber/)
+- [Campfire Thermoelectric Charger](/categories/power-and-energy/049-campfire-thermoelectric-charger/)

@@ -19,7 +19,7 @@ ratings:
 # #222 — Wiper Motor Rotisserie
 
 <p align="center">
-  <img src="../../images/builds/222-wiper-motor-rotisserie.jpg" alt="Wiper Motor Rotisserie" width="700" />
+  <img src="/images/builds/222-wiper-motor-rotisserie.jpg" alt="Wiper Motor Rotisserie" width="700" />
 </p>
 
 > Wiper motor's worm-geared slow spin + a spit rod = the laziest, most effective BBQ rotisserie ever built.
@@ -62,6 +62,6 @@ A windshield wiper motor is a DC motor with an internal worm gear reduction that
 
 ## 🔗 See Also
 
-- [Scooter Motor Lathe](../functional-machines/025-scooter-motor-lathe/)
-- [Stirling Engine](../mechanical-and-kinetic/182-stirling-engine/)
+- [Scooter Motor Lathe](/categories/functional-machines/025-scooter-motor-lathe/)
+- [Stirling Engine](/categories/mechanical-and-kinetic/182-stirling-engine/)
 

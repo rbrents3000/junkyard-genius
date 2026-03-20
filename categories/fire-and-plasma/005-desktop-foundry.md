@@ -19,7 +19,7 @@ ratings:
 # #005 — Desktop Foundry
 
 <p align="center">
-  <img src="../../images/builds/005-desktop-foundry.jpg" alt="Desktop Foundry" width="700" />
+  <img src="/images/builds/005-desktop-foundry.jpg" alt="Desktop Foundry" width="700" />
 </p>
 
 > A hair dryer, a bucket, and some plaster of paris — now you're melting aluminum cans into custom ingots and castings.
@@ -84,5 +84,5 @@ This is the gateway drug to metalcasting. Once you realize you can melt metal in
 
 ## 🔗 See Also
 
-- [Thermic Lance](004-thermic-lance/) — when you want to cut metal instead of melt it
-- [Fresnel Lens Solar Forge](../light-and-visual/020-fresnel-lens-solar-forge/) — melt metal using focused sunlight instead of charcoal
+- [Thermic Lance](/categories/fire-and-plasma/004-thermic-lance/) — when you want to cut metal instead of melt it
+- [Fresnel Lens Solar Forge](/categories/light-and-visual/020-fresnel-lens-solar-forge/) — melt metal using focused sunlight instead of charcoal

@@ -19,7 +19,7 @@ ratings:
 # #030 — Electrostatic Precipitator
 
 <p align="center">
-  <img src="../../images/builds/030-electrostatic-precipitator.jpg" alt="Electrostatic Precipitator" width="700" />
+  <img src="/images/builds/030-electrostatic-precipitator.jpg" alt="Electrostatic Precipitator" width="700" />
 </p>
 
 > A high-voltage wire between grounded plates ionizes smoke and dust particles, then yanks them out of the air. Industrial-grade air cleaning from junkyard parts.
@@ -71,5 +71,5 @@ A flyback transformer from an old CRT TV provides the high voltage (10-30kV DC).
 
 ## 🔗 See Also
 
-- [Vacuum Chamber](../mad-scientist/039-vacuum-chamber/)
-- [Silent Compressor](031-silent-compressor/)
+- [Vacuum Chamber](/categories/mad-scientist/039-vacuum-chamber/)
+- [Silent Compressor](/categories/functional-machines/031-silent-compressor/)

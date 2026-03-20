@@ -8,7 +8,7 @@ image: /images/categories/alchemist-cookbook.jpg
 # 💥 Alchemist's Cookbook
 
 <p align="center">
-  <img src="../../images/categories/alchemist-cookbook.jpg" alt="Alchemist's Cookbook" width="700" />
+  <img src="/images/categories/alchemist-cookbook.jpg" alt="Alchemist's Cookbook" width="700" />
 </p>
 
 <p align="center">

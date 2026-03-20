@@ -19,7 +19,7 @@ ratings:
 # #080 — Hand Drill Press
 
 <p align="center">
-  <img src="../../images/builds/080-hand-drill-press.jpg" alt="Hand Drill Press" width="700" />
+  <img src="/images/builds/080-hand-drill-press.jpg" alt="Hand Drill Press" width="700" />
 </p>
 
 > Hand drill + plywood column + drawer slides + spring return. Instant drill press for $0.
@@ -64,6 +64,6 @@ A drill press does one thing a hand drill can't: drill perfectly straight, perpe
 
 ## 🔗 See Also
 
-- [Circular Saw Table Saw](082-circular-saw-table-saw/)
-- [Router CNC Spindle](083-router-cnc-spindle/)
+- [Circular Saw Table Saw](/categories/power-tools-remixed/082-circular-saw-table-saw/)
+- [Router CNC Spindle](/categories/power-tools-remixed/083-router-cnc-spindle/)
 

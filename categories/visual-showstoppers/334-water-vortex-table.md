@@ -19,7 +19,7 @@ ratings:
 # #334 — Water Vortex Table
 
 <p align="center">
-  <img src="../../images/builds/334-water-vortex-table.jpg" alt="Water Vortex Table" width="700" />
+  <img src="/images/builds/334-water-vortex-table.jpg" alt="Water Vortex Table" width="700" />
 </p>
 
 > A coffee table with a permanent underwater tornado spinning inside it — the centerpiece that ends every conversation and starts a better one.
@@ -82,6 +82,6 @@ People will sit on your couch and stare at this thing for twenty minutes straigh
 
 ## 🔗 See Also
 
-- [Anti-Gravity Water Fountain](../art-and-installation/044-antigravity-water-fountain/) — another water illusion build, uses strobe light to freeze falling drops
-- [Fog Waterfall Table](../humidifier-and-water/086-fog-waterfall-table/) — similar table concept but with cascading fog instead of water
+- [Anti-Gravity Water Fountain](/categories/art-and-installation/044-antigravity-water-fountain/) — another water illusion build, uses strobe light to freeze falling drops
+- [Fog Waterfall Table](/categories/humidifier-and-water/086-fog-waterfall-table/) — similar table concept but with cascading fog instead of water
 

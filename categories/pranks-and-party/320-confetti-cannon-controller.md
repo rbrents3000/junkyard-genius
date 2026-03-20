@@ -19,7 +19,7 @@ ratings:
 # #320 — Confetti Cannon Controller
 
 <p align="center">
-  <img src="../../images/builds/320-confetti-cannon-controller.jpg" alt="Confetti Cannon Controller" width="700" />
+  <img src="/images/builds/320-confetti-cannon-controller.jpg" alt="Confetti Cannon Controller" width="700" />
 </p>
 
 > Arduino-triggered solenoid-powered confetti cannons for perfectly synchronized celebration explosions.
@@ -87,6 +87,6 @@ The controller is where the creativity lives. A basic setup uses a wireless door
 
 ## 🔗 See Also
 
-- [Motion-Activated Jump Scare](255-motion-jump-scare/)
-- [Invisible Bluetooth Speaker](254-invisible-speaker/)
+- [Motion-Activated Jump Scare](/categories/pranks-and-party/255-motion-jump-scare/)
+- [Invisible Bluetooth Speaker](/categories/pranks-and-party/254-invisible-speaker/)
 

@@ -19,7 +19,7 @@ ratings:
 # #129 — Printer Robot Arm
 
 <p align="center">
-  <img src="../../images/builds/129-printer-robot-arm.jpg" alt="Printer Robot Arm" width="700" />
+  <img src="/images/builds/129-printer-robot-arm.jpg" alt="Printer Robot Arm" width="700" />
 </p>
 
 > Stepper motors from dead printers + 3D printed joints = a working robotic arm that teaches positions and replays them.
@@ -68,6 +68,6 @@ Every inkjet and laser printer contains precision stepper motors that position t
 
 ## 🔗 See Also
 
-- [Automated Microscope](../python-projects/148-automated-microscope/)
-- [Nerf Sentry Turret](138-nerf-sentry-turret/)
+- [Automated Microscope](/categories/python-projects/148-automated-microscope/)
+- [Nerf Sentry Turret](/categories/pi-and-arduino/138-nerf-sentry-turret/)
 

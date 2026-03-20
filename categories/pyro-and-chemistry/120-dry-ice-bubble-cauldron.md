@@ -19,7 +19,7 @@ ratings:
 # #120 — Dry Ice Bubble Cauldron
 
 <p align="center">
-  <img src="../../images/builds/120-dry-ice-bubble-cauldron.jpg" alt="Dry Ice Bubble Cauldron" width="700" />
+  <img src="/images/builds/120-dry-ice-bubble-cauldron.jpg" alt="Dry Ice Bubble Cauldron" width="700" />
 </p>
 
 > Dry ice fog trapped inside a giant soap bubble — it grows, trembles, and pops to release a cascade of fog.
@@ -66,6 +66,6 @@ Drop dry ice into warm water in a bowl or cauldron and it produces thick, low-ly
 
 ## 🔗 See Also
 
-- [Dry Ice Comet Balls](114-dry-ice-comet-balls/)
-- [Elephant Toothpaste](102-elephant-toothpaste/)
+- [Dry Ice Comet Balls](/categories/pyro-and-chemistry/114-dry-ice-comet-balls/)
+- [Elephant Toothpaste](/categories/pyro-and-chemistry/102-elephant-toothpaste/)
 

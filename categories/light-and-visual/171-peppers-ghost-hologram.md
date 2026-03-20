@@ -19,7 +19,7 @@ ratings:
 # #171 — Pepper's Ghost Hologram
 
 <p align="center">
-  <img src="../../images/builds/171-peppers-ghost-hologram.jpg" alt="Pepper's Ghost Hologram" width="700" />
+  <img src="/images/builds/171-peppers-ghost-hologram.jpg" alt="Pepper's Ghost Hologram" width="700" />
 </p>
 
 > A monitor, a sheet of glass at 45 degrees, and a dark room — the simplest possible floating hologram that actually works.
@@ -70,5 +70,5 @@ Your brain can't tell that the image is a reflection — it interprets it as a r
 
 ## 🔗 See Also
 
-- [Infinity Mirror Table](016-infinity-mirror-table/) — another optical illusion using partially reflective surfaces
-- [Schlieren Optics](172-schlieren-optics/) — optics that reveal normally invisible phenomena
+- [Infinity Mirror Table](/categories/light-and-visual/016-infinity-mirror-table/) — another optical illusion using partially reflective surfaces
+- [Schlieren Optics](/categories/light-and-visual/172-schlieren-optics/) — optics that reveal normally invisible phenomena

@@ -8,7 +8,7 @@ image: /images/categories/vacuum-cleaner.jpg
 # 🌀 Vacuum Cleaner
 
 <p align="center">
-  <img src="../../images/categories/vacuum-cleaner.jpg" alt="Vacuum Cleaner" width="700" />
+  <img src="/images/categories/vacuum-cleaner.jpg" alt="Vacuum Cleaner" width="700" />
 </p>
 
 <p align="center">

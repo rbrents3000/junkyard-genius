@@ -8,7 +8,7 @@ image: /images/categories/pi-and-arduino.jpg
 # 🤖 Pi & Arduino
 
 <p align="center">
-  <img src="../../images/categories/pi-and-arduino.jpg" alt="Pi & Arduino" width="700" />
+  <img src="/images/categories/pi-and-arduino.jpg" alt="Pi & Arduino" width="700" />
 </p>
 
 <p align="center">

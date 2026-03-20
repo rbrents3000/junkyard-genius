@@ -19,7 +19,7 @@ ratings:
 # #134 — Pirate Radio
 
 <p align="center">
-  <img src="../../images/builds/134-pirate-radio.jpg" alt="Pirate Radio" width="700" />
+  <img src="/images/builds/134-pirate-radio.jpg" alt="Pirate Radio" width="700" />
 </p>
 
 > A Raspberry Pi with a wire on a GPIO pin becomes an FM transmitter — broadcast to any FM radio within 100 feet.
@@ -63,6 +63,6 @@ The Raspberry Pi can generate FM radio signals directly from a GPIO pin — no a
 
 ## 🔗 See Also
 
-- [ESP32 Mesh Walkie-Talkie](125-esp32-mesh-walkie-talkie/)
-- [Pi DJ Controller](131-pi-dj-controller/)
+- [ESP32 Mesh Walkie-Talkie](/categories/pi-and-arduino/125-esp32-mesh-walkie-talkie/)
+- [Pi DJ Controller](/categories/pi-and-arduino/131-pi-dj-controller/)
 

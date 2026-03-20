@@ -19,7 +19,7 @@ ratings:
 # #019 — POV Globe
 
 <p align="center">
-  <img src="../../images/builds/019-pov-globe.jpg" alt="POV Globe" width="700" />
+  <img src="/images/builds/019-pov-globe.jpg" alt="POV Globe" width="700" />
 </p>
 
 > A spinning strip of LEDs creates a floating 3D image in mid-air — persistence of vision turns a single strip into a full sphere of pixels.
@@ -78,6 +78,6 @@ The concept exploits the fact that human vision retains an image for about 1/25t
 
 ## 🔗 See Also
 
-- [Holographic Fan Display](022-holographic-fan-display/) — similar persistence-of-vision concept in a flat form factor
-- [Light Painting Robot](178-light-painting-robot/) — LEDs creating images through motion, captured by long-exposure photography
+- [Holographic Fan Display](/categories/light-and-visual/022-holographic-fan-display/) — similar persistence-of-vision concept in a flat form factor
+- [Light Painting Robot](/categories/light-and-visual/178-light-painting-robot/) — LEDs creating images through motion, captured by long-exposure photography
 

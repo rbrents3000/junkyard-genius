@@ -19,7 +19,7 @@ ratings:
 # #296 — Fog Harp Water Collector
 
 <p align="center">
-  <img src="../../images/builds/296-fog-harp-water-collector.jpg" alt="Fog Harp Water Collector" width="700" />
+  <img src="/images/builds/296-fog-harp-water-collector.jpg" alt="Fog Harp Water Collector" width="700" />
 </p>
 
 > Make fog. Catch fog. Harvest water from thin air. It's beautiful, educational, and slightly more useful than you'd expect.
@@ -229,7 +229,7 @@ demonstration of the principle, it's hard to beat.
 
 ## 🔗 See Also
 
-- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine/)
-- [Nebula Lamp](087-nebula-lamp/)
-- [Mist Cooling System](297-mist-cooling-system/)
-- [Fog Waterfall Table](086-fog-waterfall-table/)
+- [Ultrasonic Fog Machine](/categories/humidifier-and-water/084-ultrasonic-fog-machine/)
+- [Nebula Lamp](/categories/humidifier-and-water/087-nebula-lamp/)
+- [Mist Cooling System](/categories/humidifier-and-water/297-mist-cooling-system/)
+- [Fog Waterfall Table](/categories/humidifier-and-water/086-fog-waterfall-table/)

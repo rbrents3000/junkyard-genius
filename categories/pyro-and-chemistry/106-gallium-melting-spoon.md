@@ -19,7 +19,7 @@ ratings:
 # #106 — Gallium Melting Spoon
 
 <p align="center">
-  <img src="../../images/builds/106-gallium-melting-spoon.jpg" alt="Gallium Melting Spoon" width="700" />
+  <img src="/images/builds/106-gallium-melting-spoon.jpg" alt="Gallium Melting Spoon" width="700" />
 </p>
 
 > Cast a spoon from gallium — a metal that melts at 86°F. Stir your hot tea and watch the spoon dissolve.
@@ -61,6 +61,6 @@ Gallium is a metal with a melting point of just 86°F (29.8°C) — below body t
 
 ## 🔗 See Also
 
-- [Bismuth Crystal Garden](107-bismuth-crystal-garden/)
-- [Instant Ice Sculpture](108-instant-ice-sculpture/)
+- [Bismuth Crystal Garden](/categories/pyro-and-chemistry/107-bismuth-crystal-garden/)
+- [Instant Ice Sculpture](/categories/pyro-and-chemistry/108-instant-ice-sculpture/)
 

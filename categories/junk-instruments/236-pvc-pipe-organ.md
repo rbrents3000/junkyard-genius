@@ -19,7 +19,7 @@ ratings:
 # #236 — PVC Pipe Organ
 
 <p align="center">
-  <img src="../../images/builds/236-pvc-pipe-organ.jpg" alt="PVC Pipe Organ" width="700" />
+  <img src="/images/builds/236-pvc-pipe-organ.jpg" alt="PVC Pipe Organ" width="700" />
 </p>
 
 > A leaf blower, some plumbing pipe, and an Arduino walk into a cathedral — and bring the house down.
@@ -82,6 +82,6 @@ The sound is breathy and warm — more pan flute than cathedral organ — but it
 
 ## 🔗 See Also
 
-- [Bottle Xylophone](241-bottle-xylophone/) — another self-playing MIDI instrument, percussive instead of wind
-- [Plasma Speaker](../sound-and-music/008-plasma-speaker/) — if you want your music source to be even more dramatic
+- [Bottle Xylophone](/categories/junk-instruments/241-bottle-xylophone/) — another self-playing MIDI instrument, percussive instead of wind
+- [Plasma Speaker](/categories/sound-and-music/008-plasma-speaker/) — if you want your music source to be even more dramatic
 

@@ -19,7 +19,7 @@ ratings:
 # #246 — Motion Capture MIDI Glove
 
 <p align="center">
-  <img src="../../images/builds/246-motion-capture-glove.jpg" alt="Motion Capture MIDI Glove" width="700" />
+  <img src="/images/builds/246-motion-capture-glove.jpg" alt="Motion Capture MIDI Glove" width="700" />
 </p>
 
 > Flex sensors on each finger, an MPU6050 on the wrist, and an ESP32 brain. Bend your fingers to play notes, tilt your wrist for pitch bend. Air guitar is finally real.
@@ -81,6 +81,6 @@ The ESP32 reads all the sensors, maps them to MIDI messages, and sends those mes
 
 ## 🔗 See Also
 
-- [Sound-Reactive LED Jacket](242-led-jacket/)
-- [Heads-Up Display Glasses](245-hud-glasses/)
+- [Sound-Reactive LED Jacket](/categories/wearable-tech/242-led-jacket/)
+- [Heads-Up Display Glasses](/categories/wearable-tech/245-hud-glasses/)
 

@@ -19,7 +19,7 @@ ratings:
 # #325 — Benchtop Wind Tunnel
 
 <p align="center">
-  <img src="../../images/builds/325-benchtop-wind-tunnel.jpg" alt="Benchtop Wind Tunnel" width="700" />
+  <img src="/images/builds/325-benchtop-wind-tunnel.jpg" alt="Benchtop Wind Tunnel" width="700" />
 </p>
 
 > A clear acrylic tunnel with a vacuum motor, smoke injection, and LED lighting — see aerodynamics in real time.
@@ -89,7 +89,7 @@ Place a model car in the test section and watch the smoke streamlines split arou
 
 ## 🔗 See Also
 
-- [Vacuum Hovercraft](075-vacuum-hovercraft/)
-- [Wall-Climbing Robot](076-wall-climbing-robot/)
-- [Pneumatic Launcher](299-pneumatic-launcher/)
+- [Vacuum Hovercraft](/categories/vacuum-cleaner/075-vacuum-hovercraft/)
+- [Wall-Climbing Robot](/categories/vacuum-cleaner/076-wall-climbing-robot/)
+- [Pneumatic Launcher](/categories/vacuum-cleaner/299-pneumatic-launcher/)
 

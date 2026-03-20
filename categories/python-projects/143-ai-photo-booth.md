@@ -19,7 +19,7 @@ ratings:
 # #143 — AI Photo Booth
 
 <p align="center">
-  <img src="../../images/builds/143-ai-photo-booth.jpg" alt="AI Photo Booth" width="700" />
+  <img src="/images/builds/143-ai-photo-booth.jpg" alt="AI Photo Booth" width="700" />
 </p>
 
 > A webcam with neural style transfer turns you into a Van Gogh painting in real time — output to a thermal receipt printer for instant art.
@@ -65,6 +65,6 @@ Neural style transfer is a machine learning technique that takes the content of 
 
 ## 🔗 See Also
 
-- [Deepfake Mirror](153-deepfake-mirror/)
-- [Body Pose Music](152-body-pose-music/)
+- [Deepfake Mirror](/categories/python-projects/153-deepfake-mirror/)
+- [Body Pose Music](/categories/python-projects/152-body-pose-music/)
 

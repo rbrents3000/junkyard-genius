@@ -19,7 +19,7 @@ ratings:
 # #095 — Absorption Cooler
 
 <p align="center">
-  <img src="../../images/builds/095-absorption-cooler.jpg" alt="Absorption Cooler" width="700" />
+  <img src="/images/builds/095-absorption-cooler.jpg" alt="Absorption Cooler" width="700" />
 </p>
 
 > A fridge powered by fire. No electricity needed. Einstein patented one in 1930. Use fridge heat exchanger coils, ammonia solution, and a candle.
@@ -70,6 +70,6 @@ Every fridge you've ever seen uses a compressor — an electric motor that press
 
 ## 🔗 See Also
 
-- [DIY Freeze Dryer](094-diy-freeze-dryer/)
-- [Fermentation Chamber](092-fermentation-chamber/)
+- [DIY Freeze Dryer](/categories/fridge-and-cooling/094-diy-freeze-dryer/)
+- [Fermentation Chamber](/categories/fridge-and-cooling/092-fermentation-chamber/)
 

@@ -19,7 +19,7 @@ ratings:
 # #243 — Nichrome Wire Heated Gloves
 
 <p align="center">
-  <img src="../../images/builds/243-heated-gloves.jpg" alt="Nichrome Wire Heated Gloves" width="700" />
+  <img src="/images/builds/243-heated-gloves.jpg" alt="Nichrome Wire Heated Gloves" width="700" />
 </p>
 
 > Nichrome wire loops stitched into glove fingers, powered by a LiPo battery with MOSFET PWM temperature control. Three hours of toasty warmth when it's freezing outside. Take that, $150 commercial heated gloves.
@@ -81,5 +81,5 @@ The MOSFET PWM control is what separates this from wrapping wire around your han
 
 ## 🔗 See Also
 
-- [Sound-Reactive LED Jacket](242-led-jacket/)
-- [GPS Treasure Hunt Watch](247-gps-treasure-watch/)
+- [Sound-Reactive LED Jacket](/categories/wearable-tech/242-led-jacket/)
+- [GPS Treasure Hunt Watch](/categories/wearable-tech/247-gps-treasure-watch/)

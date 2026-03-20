@@ -19,7 +19,7 @@ ratings:
 # #207 — Precision Digital Scale
 
 <p align="center">
-  <img src="../../images/builds/207-precision-digital-scale.jpg" alt="Precision Digital Scale" width="700" />
+  <img src="/images/builds/207-precision-digital-scale.jpg" alt="Precision Digital Scale" width="700" />
 </p>
 
 > A gimbal motor's hall-effect sensors measure the torque needed to hold a weight against gravity — giving you a lab-grade 0.01g digital scale from salvaged parts.
@@ -69,6 +69,6 @@ The key insight is that the motor's torque constant (Kt) relates current to torq
 
 ## 🔗 See Also
 
-- [Gimbal Motor Star Tracker](203-gimbal-motor-star-tracker/) — precision positioning application using the same motor type
-- [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer/) — the original application of these motors' precision control
+- [Gimbal Motor Star Tracker](/categories/drone-salvage/203-gimbal-motor-star-tracker/) — precision positioning application using the same motor type
+- [Camera Gimbal Stabilizer](/categories/drone-salvage/201-camera-gimbal-stabilizer/) — the original application of these motors' precision control
 

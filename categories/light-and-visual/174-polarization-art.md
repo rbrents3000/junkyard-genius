@@ -19,7 +19,7 @@ ratings:
 # #174 — Polarization Art
 
 <p align="center">
-  <img src="../../images/builds/174-polarization-art.jpg" alt="Polarization Art" width="700" />
+  <img src="/images/builds/174-polarization-art.jpg" alt="Polarization Art" width="700" />
 </p>
 
 > Clear tape on glass, viewed through polarizer film, reveals hidden rainbow patterns that are completely invisible to the naked eye.
@@ -73,5 +73,5 @@ The physics: cellophane tape is birefringent — it bends different polarization
 
 ## 🔗 See Also
 
-- [Shadow Chandelier](018-shadow-chandelier/) — another way to create art through light manipulation
-- [Camera Obscura Room](175-camera-obscura-room/) — optics creating unexpected visual experiences
+- [Shadow Chandelier](/categories/light-and-visual/018-shadow-chandelier/) — another way to create art through light manipulation
+- [Camera Obscura Room](/categories/light-and-visual/175-camera-obscura-room/) — optics creating unexpected visual experiences

@@ -8,7 +8,7 @@ image: /images/categories/fire-and-plasma.jpg
 # 🔥 Fire & Plasma
 
 <p align="center">
-  <img src="../../images/categories/fire-and-plasma.jpg" alt="Fire & Plasma" width="700" />
+  <img src="/images/categories/fire-and-plasma.jpg" alt="Fire & Plasma" width="700" />
 </p>
 
 <p align="center">

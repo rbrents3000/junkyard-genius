@@ -19,7 +19,7 @@ ratings:
 # #068 — RAM Stick Ruler
 
 <p align="center">
-  <img src="../../images/builds/068-ram-stick-ruler.jpg" alt="RAM Stick Ruler" width="700" />
+  <img src="/images/builds/068-ram-stick-ruler.jpg" alt="RAM Stick Ruler" width="700" />
 </p>
 
 > RAM sticks are perfectly straight, rigid PCBs with precise dimensions. They make genuinely good rulers. The gold contacts look cool.
@@ -60,5 +60,5 @@ This is the simplest build in the entire book, and it's also the most satisfying
 
 ## 🔗 See Also
 
-- [CPU Resin Jewelry](059-cpu-resin-jewelry/)
-- [GPU Wall Art](060-gpu-wall-art/)
+- [CPU Resin Jewelry](/categories/computer-and-phone/059-cpu-resin-jewelry/)
+- [GPU Wall Art](/categories/computer-and-phone/060-gpu-wall-art/)

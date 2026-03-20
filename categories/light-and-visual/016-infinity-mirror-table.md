@@ -19,7 +19,7 @@ ratings:
 # #016 — Infinity Mirror Table
 
 <p align="center">
-  <img src="../../images/builds/016-infinity-mirror-table.jpg" alt="Infinity Mirror Table" width="700" />
+  <img src="/images/builds/016-infinity-mirror-table.jpg" alt="Infinity Mirror Table" width="700" />
 </p>
 
 > An LED strip sandwiched between a regular mirror and a one-way mirror creates the illusion of an infinitely deep tunnel of light.
@@ -75,6 +75,6 @@ Built into a coffee table, this becomes a piece of furniture that stops every gu
 
 ## 🔗 See Also
 
-- [Fiber Optic Star Ceiling](173-fiber-optic-star-ceiling/) — another LED-based installation that transforms a room
-- [Pepper's Ghost Hologram](171-peppers-ghost-hologram/) — another optical illusion build using partially reflective surfaces
+- [Fiber Optic Star Ceiling](/categories/light-and-visual/173-fiber-optic-star-ceiling/) — another LED-based installation that transforms a room
+- [Pepper's Ghost Hologram](/categories/light-and-visual/171-peppers-ghost-hologram/) — another optical illusion build using partially reflective surfaces
 

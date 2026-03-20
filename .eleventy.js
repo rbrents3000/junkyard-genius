@@ -19,7 +19,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.ignores.add("docs/**");
 
   // Pass through static assets
-  eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("app");
   eleventyConfig.addPassthroughCopy({"public": "/"});

@@ -19,7 +19,7 @@ ratings:
 # #311 — Foucault Pendulum
 
 <p align="center">
-  <img src="../../images/builds/311-foucault-pendulum.jpg" alt="Foucault Pendulum" width="700" />
+  <img src="/images/builds/311-foucault-pendulum.jpg" alt="Foucault Pendulum" width="700" />
 </p>
 
 > A weight on a wire that proves the Earth is rotating — not because someone told you, but because you watched it happen over lunch.
@@ -85,6 +85,6 @@ The build itself is mechanically simple: a heavy weight, a long wire, and a stur
 
 ## 🔗 See Also
 
-- [Van de Graaff Generator](197-van-de-graaff-generator/) — another build that makes an invisible force tangibly, dramatically real
-- [Homopolar Motor](198-homopolar-motor/) — rotational physics in a form you can hold in your hand
+- [Van de Graaff Generator](/categories/weird-science/197-van-de-graaff-generator/) — another build that makes an invisible force tangibly, dramatically real
+- [Homopolar Motor](/categories/weird-science/198-homopolar-motor/) — rotational physics in a form you can hold in your hand
 

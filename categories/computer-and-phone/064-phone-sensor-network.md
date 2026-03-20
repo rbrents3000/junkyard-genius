@@ -19,7 +19,7 @@ ratings:
 # #064 — Phone Sensor Network
 
 <p align="center">
-  <img src="../../images/builds/064-phone-sensor-network.jpg" alt="Phone Sensor Network" width="700" />
+  <img src="/images/builds/064-phone-sensor-network.jpg" alt="Phone Sensor Network" width="700" />
 </p>
 
 > Old phones are packed with sensors. Run Phyphox on a fleet of them for distributed environmental monitoring — seismograph, weather station, security cameras, noise monitors. All free.
@@ -64,6 +64,6 @@ Every smartphone contains an accelerometer, gyroscope, magnetometer, barometer, 
 
 ## 🔗 See Also
 
-- [Tablet AI Picture Frame](065-tablet-ai-picture-frame/)
-- [Phone IR Camera](066-phone-ir-camera/)
+- [Tablet AI Picture Frame](/categories/computer-and-phone/065-tablet-ai-picture-frame/)
+- [Phone IR Camera](/categories/computer-and-phone/066-phone-ir-camera/)
 

@@ -19,7 +19,7 @@ ratings:
 # #286 — Microwave Spot Welder Arm
 
 <p align="center">
-  <img src="../../images/builds/286-microwave-spot-welder-arm.jpg" alt="Microwave Spot Welder Arm" width="700" />
+  <img src="/images/builds/286-microwave-spot-welder-arm.jpg" alt="Microwave Spot Welder Arm" width="700" />
 </p>
 
 > A robotic arm with a spot welder at the tip. Microwave transformer power meets printer stepper precision — programmable welding for battery packs, sheet metal, and custom fabrication.
@@ -89,6 +89,6 @@ The result is a semi-automated spot welder that can place welds at programmed co
 
 ## 🔗 See Also
 
-- [Spot Welder](../functional-machines/027-spot-welder/)
-- [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc/)
+- [Spot Welder](/categories/functional-machines/027-spot-welder/)
+- [Printer Stepper CNC](/categories/printer-and-scanner/069-printer-stepper-cnc/)
 

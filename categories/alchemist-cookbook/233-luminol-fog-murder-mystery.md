@@ -19,7 +19,7 @@ ratings:
 # #233 — Luminol Fog Murder Mystery
 
 <p align="center">
-  <img src="../../images/builds/233-luminol-fog-murder-mystery.jpg" alt="Luminol Fog Murder Mystery" width="700" />
+  <img src="/images/builds/233-luminol-fog-murder-mystery.jpg" alt="Luminol Fog Murder Mystery" width="700" />
 </p>
 
 > Luminol + fluorescein fog + UV blacklights = an immersive glowing-evidence room for escape rooms, Halloween, or just freaking out your friends.
@@ -68,6 +68,6 @@ Luminol is the chemical forensic investigators spray at crime scenes — it reac
 
 ## 🔗 See Also
 
-- [Luminol Crime Scene](../pyro-and-chemistry/109-luminol-crime-scene/)
-- [Fluorescein Blacklight Fountain](../pyro-and-chemistry/118-fluorescein-blacklight-fountain/)
+- [Luminol Crime Scene](/categories/pyro-and-chemistry/109-luminol-crime-scene/)
+- [Fluorescein Blacklight Fountain](/categories/pyro-and-chemistry/118-fluorescein-blacklight-fountain/)
 

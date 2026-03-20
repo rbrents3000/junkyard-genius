@@ -19,7 +19,7 @@ ratings:
 # #316 — Pendulum Wave Machine
 
 <p align="center">
-  <img src="../../images/builds/316-pendulum-wave-machine.jpg" alt="Pendulum Wave Machine" width="700" />
+  <img src="/images/builds/316-pendulum-wave-machine.jpg" alt="Pendulum Wave Machine" width="700" />
 </p>
 
 > 15 pendulums of precisely calculated lengths create mesmerizing wave patterns that shift between chaos and perfect synchronization.
@@ -77,7 +77,7 @@ This is one of the most elegant physics demonstrations ever conceived, and it co
 
 ## 🔗 See Also
 
-- [Musical Marble Machine](181-musical-marble-machine/)
-- [Magnetic Gear Train](188-magnetic-gear-train/)
-- [Foucault Pendulum](../weird-science/311-foucault-pendulum/)
+- [Musical Marble Machine](/categories/mechanical-and-kinetic/181-musical-marble-machine/)
+- [Magnetic Gear Train](/categories/mechanical-and-kinetic/188-magnetic-gear-train/)
+- [Foucault Pendulum](/categories/weird-science/311-foucault-pendulum/)
 

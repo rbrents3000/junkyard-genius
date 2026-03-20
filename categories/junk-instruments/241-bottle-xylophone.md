@@ -19,7 +19,7 @@ ratings:
 # #241 — Beer Bottle Xylophone
 
 <p align="center">
-  <img src="../../images/builds/241-bottle-xylophone.jpg" alt="Beer Bottle Xylophone" width="700" />
+  <img src="/images/builds/241-bottle-xylophone.jpg" alt="Beer Bottle Xylophone" width="700" />
 </p>
 
 > Glass bottles filled to precise water levels create tuned musical notes. Add an Arduino and solenoid mallets and the thing plays itself. Your recycling bin just became a concert hall.
@@ -81,6 +81,6 @@ The automated version is where this gets genuinely impressive. Mount small solen
 
 ## 🔗 See Also
 
-- [PVC Pipe Organ](236-pvc-pipe-organ/)
-- [Steel Tongue Drum](239-steel-tongue-drum/)
+- [PVC Pipe Organ](/categories/junk-instruments/236-pvc-pipe-organ/)
+- [Steel Tongue Drum](/categories/junk-instruments/239-steel-tongue-drum/)
 

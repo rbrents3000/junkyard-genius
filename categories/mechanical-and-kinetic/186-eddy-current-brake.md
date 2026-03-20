@@ -19,7 +19,7 @@ ratings:
 # #186 — Eddy Current Brake
 
 <p align="center">
-  <img src="../../images/builds/186-eddy-current-brake.jpg" alt="Eddy Current Brake" width="700" />
+  <img src="/images/builds/186-eddy-current-brake.jpg" alt="Eddy Current Brake" width="700" />
 </p>
 
 > Drop a neodymium magnet into a copper pipe and watch it fall in slow motion — no tricks, just physics flexing.
@@ -69,6 +69,6 @@ The pipe isn't magnetic. The magnet isn't touching the walls. There's no frictio
 
 ## 🔗 See Also
 
-- [Lenz's Law Slow-Mo Magnet](../weird-science/199-lenzs-law-slow-mo-magnet/) — the same principle explored further in the Weird Science category
-- [Chain Fountain](184-chain-fountain/) — another "that can't be real" physics demo
+- [Lenz's Law Slow-Mo Magnet](/categories/weird-science/199-lenzs-law-slow-mo-magnet/) — the same principle explored further in the Weird Science category
+- [Chain Fountain](/categories/mechanical-and-kinetic/184-chain-fountain/) — another "that can't be real" physics demo
 

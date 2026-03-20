@@ -19,7 +19,7 @@ ratings:
 # #301 — Shipping Container Workshop
 
 <p align="center">
-  <img src="../../images/builds/301-shipping-container-workshop.jpg" alt="Shipping Container Workshop" width="700" />
+  <img src="/images/builds/301-shipping-container-workshop.jpg" alt="Shipping Container Workshop" width="700" />
 </p>
 
 > A 320-square-foot steel box that locks, survives hurricanes, and holds every tool you own. Just add insulation, power, and ambition.
@@ -207,7 +207,7 @@ addition. The container arrives structurally complete — you're just making it 
 
 ## 🔗 See Also
 
-- [Underground Root Cellar](195-underground-root-cellar/) — another permanent structure build, but going down instead of staying above ground
-- [Ham Radio from Scratch](193-ham-radio-from-scratch/) — fill your new workshop with a project the day it's finished
+- [Underground Root Cellar](/categories/big-builds/195-underground-root-cellar/) — another permanent structure build, but going down instead of staying above ground
+- [Ham Radio from Scratch](/categories/big-builds/193-ham-radio-from-scratch/) — fill your new workshop with a project the day it's finished
 
 

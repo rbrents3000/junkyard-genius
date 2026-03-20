@@ -19,7 +19,7 @@ ratings:
 # #275 — Capacitor Bank Plasma Igniter
 
 <p align="center">
-  <img src="../../images/builds/275-capacitor-bank-plasma-igniter.jpg" alt="Capacitor Bank Plasma Igniter" width="700" />
+  <img src="/images/builds/275-capacitor-bank-plasma-igniter.jpg" alt="Capacitor Bank Plasma Igniter" width="700" />
 </p>
 
 > MOT capacitors wired in a bank discharge through a spark gap to create a plasma arc hot enough to ignite anything you point it at.
@@ -81,6 +81,6 @@ Building one requires respecting the energy involved. A charged MOT capacitor is
 
 ## 🔗 See Also
 
-- [MOT-Ignited Firework Mortar](227-mot-ignited-firework-mortar/)
-- [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher/)
+- [MOT-Ignited Firework Mortar](/categories/alchemist-cookbook/227-mot-ignited-firework-mortar/)
+- [Electromagnetic Firework Launcher](/categories/alchemist-cookbook/229-electromagnetic-firework-launcher/)
 

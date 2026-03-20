@@ -8,7 +8,7 @@ image: /images/categories/wearable-tech.jpg
 # 👕 Wearable Tech
 
 <p align="center">
-  <img src="../../images/categories/wearable-tech.jpg" alt="Wearable Tech" width="700" />
+  <img src="/images/categories/wearable-tech.jpg" alt="Wearable Tech" width="700" />
 </p>
 
 <p align="center">

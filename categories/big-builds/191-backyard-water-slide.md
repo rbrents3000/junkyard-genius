@@ -19,7 +19,7 @@ ratings:
 # #191 — Backyard Water Slide
 
 <p align="center">
-  <img src="../../images/builds/191-backyard-water-slide.jpg" alt="Backyard Water Slide" width="700" />
+  <img src="/images/builds/191-backyard-water-slide.jpg" alt="Backyard Water Slide" width="700" />
 </p>
 
 > 100 feet of tarp, PVC, and a recirculating pump — because water parks charge too much and your yard is just sitting there.
@@ -82,5 +82,5 @@ The key upgrade over a store-bought slip-and-slide is the raised launch ramp (3-
 
 ## 🔗 See Also
 
-- [Trebuchet](../mechanical-and-kinetic/185-trebuchet/) — another big outdoor build with a high fun-to-danger ratio
-- [Weather Balloon Launch](192-weather-balloon-launch/) — take the "big builds" concept literally vertical
+- [Trebuchet](/categories/mechanical-and-kinetic/185-trebuchet/) — another big outdoor build with a high fun-to-danger ratio
+- [Weather Balloon Launch](/categories/big-builds/192-weather-balloon-launch/) — take the "big builds" concept literally vertical

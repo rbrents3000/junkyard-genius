@@ -19,7 +19,7 @@ ratings:
 # #250 — Gravity Water Filter
 
 <p align="center">
-  <img src="../../images/builds/250-gravity-water-filter.jpg" alt="Gravity Water Filter" width="700" />
+  <img src="/images/builds/250-gravity-water-filter.jpg" alt="Gravity Water Filter" width="700" />
 </p>
 
 > Stacked buckets: gravel, sand, charcoal, cloth = clean water.
@@ -66,5 +66,5 @@ A gravity water filter uses stacked layers of increasingly fine filtration media
 
 ## 🔗 See Also
 
-- [Solar Still](248-solar-still/)
-- [Rocket Stove](253-rocket-stove/)
+- [Solar Still](/categories/survival-off-grid/248-solar-still/)
+- [Rocket Stove](/categories/survival-off-grid/253-rocket-stove/)

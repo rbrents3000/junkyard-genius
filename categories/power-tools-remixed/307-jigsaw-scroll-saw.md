@@ -19,7 +19,7 @@ ratings:
 # #307 — Jigsaw Scroll Saw
 
 <p align="center">
-  <img src="../../images/builds/307-jigsaw-scroll-saw.jpg" alt="Jigsaw Scroll Saw" width="700" />
+  <img src="/images/builds/307-jigsaw-scroll-saw.jpg" alt="Jigsaw Scroll Saw" width="700" />
 </p>
 
 > Jigsaw flipped upside-down under a table, blade through a slot. Feed the workpiece into the blade. $30 jigsaw, $200 scroll saw.
@@ -158,5 +158,5 @@ Broken jigsaw blades are sharp and hot. Let the blade set the pace.
 
 ## 🔗 See Also
 
-- [Circular Saw Table Saw](082-circular-saw-table-saw/)
-- [Hand Drill Press](080-hand-drill-press/)
+- [Circular Saw Table Saw](/categories/power-tools-remixed/082-circular-saw-table-saw/)
+- [Hand Drill Press](/categories/power-tools-remixed/080-hand-drill-press/)
