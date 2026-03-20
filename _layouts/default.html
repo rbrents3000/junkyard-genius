@@ -36,11 +36,15 @@
       {% include "sidebar.html" %}
 
       <main id="main" class="flex-1 lg:ml-64 bg-background">
-        <div class="max-w-4xl mx-auto px-6 lg:px-12 py-8">
-          <article class="prose prose-invert prose-headings:font-headline prose-headings:uppercase prose-headings:tracking-tight prose-a:text-primary-container prose-a:no-underline hover:prose-a:text-primary prose-img:rounded-lg prose-img:shadow-lg max-w-none">
-            {{ content }}
-          </article>
-        </div>
+        {% if raw_layout %}
+          {{ content }}
+        {% else %}
+          <div class="max-w-4xl mx-auto px-6 lg:px-12 py-8">
+            <article class="prose prose-invert prose-headings:font-headline prose-headings:uppercase prose-headings:tracking-tight prose-a:text-primary-container prose-a:no-underline hover:prose-a:text-primary prose-img:rounded-lg prose-img:shadow-lg max-w-none">
+              {{ content }}
+            </article>
+          </div>
+        {% endif %}
 
         {% include "footer.html" %}
       </main>

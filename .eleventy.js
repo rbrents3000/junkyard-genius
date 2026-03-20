@@ -17,6 +17,7 @@ module.exports = function(eleventyConfig) {
   // Prevent template processing of non-content directories
   eleventyConfig.ignores.add("src/**");
   eleventyConfig.ignores.add("public/**");
+  eleventyConfig.ignores.add("README.md");
   eleventyConfig.ignores.add(".github/**");
   eleventyConfig.ignores.add("test-results/**");
   eleventyConfig.ignores.add("tests/**");
