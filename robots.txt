@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rbrents3000.github.io/junkyard-genius/sitemap.xml
+Sitemap: https://junkyard.build/sitemap.xml

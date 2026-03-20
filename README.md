@@ -22,13 +22,13 @@ Every build is rated on 6 scales, includes sourced ingredients, step-by-step ins
 
 <p align="center">
   <br>
-  <a href="https://rbrents3000.github.io/junkyard-genius/app/quiz/"><strong>🎯 Take the Build Finder Quiz</strong></a> — answer 6 questions, get personalized recommendations
+  <a href="https://junkyard.build/app/quiz/"><strong>🎯 Take the Build Finder Quiz</strong></a> — answer 6 questions, get personalized recommendations
 
-  <a href="https://rbrents3000.github.io/junkyard-genius/app/browse/"><strong>🔍 Browse All Builds</strong></a> — search, filter, and sort every project
+  <a href="https://junkyard.build/app/browse/"><strong>🔍 Browse All Builds</strong></a> — search, filter, and sort every project
 
-  <a href="https://rbrents3000.github.io/junkyard-genius/app/browse/?random=1"><strong>🎲 Feeling Lucky?</strong></a> — jump to a random build
+  <a href="https://junkyard.build/app/browse/?random=1"><strong>🎲 Feeling Lucky?</strong></a> — jump to a random build
 
-  <a href="https://rbrents3000.github.io/junkyard-genius/app/toolbox/"><strong>🧰 My Toolbox</strong></a> — track your completed and want-to-build projects
+  <a href="https://junkyard.build/app/toolbox/"><strong>🧰 My Toolbox</strong></a> — track your completed and want-to-build projects
   <br><br>
 </p>
 
