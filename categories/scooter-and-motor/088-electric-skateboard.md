@@ -72,5 +72,6 @@ Electric skateboards from brands like Boosted, Meepo, and Evolve cost $400-2000.
 - [Wind Phone Charger](091-wind-phone-charger.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

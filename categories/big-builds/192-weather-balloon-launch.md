@@ -78,6 +78,7 @@ The photos and video from near-space are genuinely breathtaking. You can see wea
 
 > [!WARNING]
 > **Helium is an asphyxiant.** Fill the balloon outdoors only. Helium displaces oxygen — in an enclosed space it can cause suffocation without warning. Never inhale helium from the tank.
+
 - **Balloon burst hazard.** A fully inflated weather balloon is under significant tension. If it pops during filling (rare but possible), the snap can sting exposed skin. Wear gloves during filling and keep your face away.
 - **Aviation safety is paramount.** You are launching an object into controlled airspace. Follow all FAA/CAA regulations without exception. Never launch near airports, in restricted airspace, or in conditions where the flight path crosses major air corridors. If in doubt, call your local FAA Flight Standards District Office.
 
@@ -87,4 +88,5 @@ The photos and video from near-space are genuinely breathtaking. You can see wea
 - [Ham Radio from Scratch](193-ham-radio-from-scratch.md) — another way to reach beyond your neighborhood using DIY technology
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

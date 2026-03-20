@@ -73,6 +73,7 @@ The build takes an afternoon and costs almost nothing if you scrounge the parts.
 
 > [!WARNING]
 > **Drilling through the cigar box requires care.** The thin wood splits easily. Use a sharp bit, go slow, and back it with scrap wood. Pre-drill all screw holes.
+
 - **String tension is real.** Guitar strings under tension can snap and whip. Wear safety glasses when stringing up for the first time. Tune up slowly.
 
 ## 🔗 See Also

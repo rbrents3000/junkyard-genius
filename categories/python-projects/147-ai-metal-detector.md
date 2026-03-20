@@ -72,4 +72,5 @@ Traditional metal detectors beep and you dig. You don't know if it's a gold ring
 - [Earthquake Detector](146-earthquake-detector.md)
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

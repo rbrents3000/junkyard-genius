@@ -92,6 +92,7 @@ The scanning mechanism is elegant: a small mirror glued to a motor shaft. As the
 - [Galvanometer Laser Light Show](266-laser-galvo-show.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

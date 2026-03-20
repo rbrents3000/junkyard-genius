@@ -80,6 +80,7 @@ Building one from scratch is the hardest project in this entire collection. You 
 
 > [!CAUTION]
 > **CRT implosion.** CRT tubes are under hard vacuum and can implode with violent force, sending glass shrapnel in all directions. Always wear a full face shield and heavy gloves when cutting or breaking CRT glass. Work in a contained area. Never strike or drop a CRT.
+
 - **High voltage.** The electron gun operates at 1-15kV. The flyback transformer can produce 30kV. These voltages are lethal. Never reach into the chamber or touch any electrical connection while the system is powered. Use a discharge stick on all capacitors before servicing. Work with one hand (keep the other in your pocket) to prevent current paths across your chest.
 - **X-ray emission.** Accelerated electrons striking a metal target produce X-rays. At voltages above 5kV, X-ray production becomes significant. The metal vacuum chamber provides shielding, but verify with a dosimeter if possible. Never operate the electron gun outside of a shielded enclosure. Limit exposure time during testing.
 
@@ -89,4 +90,5 @@ Building one from scratch is the hardest project in this entire collection. You 
 - [Van de Graaff Generator](197-van-de-graaff-generator.md) — high-voltage electrostatics on a more accessible scale
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

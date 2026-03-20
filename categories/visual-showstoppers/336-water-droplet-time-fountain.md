@@ -78,6 +78,7 @@ In a dark room, visitors wave their hands through the "frozen" droplets and comp
 
 > [!WARNING]
 > **Water and electronics in close proximity.** Everything near the water path runs on 12V or less — no mains voltage near the wet zone. Keep the power supply and Arduino on the dry side of the frame. Use GFCI protection on the outlet powering the system.
+
 - **Strobe warning.** Frequencies between 15-25 Hz can trigger photosensitive epileptic seizures. The operating range of this build overlaps that zone. Warn viewers before demonstrating, and avoid prolonged operation at those frequencies.
 - **Pump protection.** If the basin runs low, the pump burns out fast. Mark a minimum water line and check it before each session.
 
@@ -87,6 +88,7 @@ In a dark room, visitors wave their hands through the "frozen" droplets and comp
 - [POV Globe](../light-and-visual/019-pov-globe.md) — another persistence-of-vision build, but with LEDs instead of water
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

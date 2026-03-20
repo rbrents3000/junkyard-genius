@@ -74,6 +74,7 @@ Yayoi Kusama charges museum admission for this. You can build it from thrift sto
 
 > [!WARNING]
 > **Mirror glass cuts are nasty.** Wear heavy work gloves and safety glasses when cutting and handling mirror glass. Mirror edges are razor-sharp. Tape the edges of cut pieces with masking tape immediately after cutting.
+
 - **Walk-in version structural load.** Mirrors are heavy. A walk-in room with mirrors on every surface, including the ceiling, carries significant weight overhead. Secure ceiling mirrors with both adhesive and mechanical fasteners (mirror clips or a frame). Test by pushing on them before letting anyone walk underneath.
 - **Disorientation.** The walk-in version can cause genuine vertigo and spatial disorientation, especially with animated LEDs. Warn visitors and don't leave small children unattended inside.
 
@@ -83,5 +84,6 @@ Yayoi Kusama charges museum admission for this. You can build it from thrift sto
 - [Fiber Optic Star Ceiling](../light-and-visual/173-fiber-optic-star-ceiling.md) — another immersive light installation using different tech
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

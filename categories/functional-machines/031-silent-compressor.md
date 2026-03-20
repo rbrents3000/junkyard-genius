@@ -74,5 +74,6 @@ Disconnect it from the refrigerant system and plumb it to a small air tank, and 
 - [Vacuum Chamber](../mad-scientist/039-vacuum-chamber.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

@@ -68,4 +68,5 @@ Generative art is artwork created by algorithms — rules that produce patterns 
 - [Printer Robot Arm](../pi-and-arduino/129-printer-robot-arm.md)
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

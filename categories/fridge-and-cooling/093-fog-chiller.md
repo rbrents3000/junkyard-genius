@@ -70,5 +70,6 @@ Standard fog machines heat glycol fluid to produce warm fog that rises and dispe
 - [DIY Freeze Dryer](094-diy-freeze-dryer.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

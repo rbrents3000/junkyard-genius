@@ -75,6 +75,7 @@ The visual effect is absolutely stunning in person and almost impossible to capt
 - [Ferrofluid Mirror](046-ferrofluid-mirror.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

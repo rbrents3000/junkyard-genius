@@ -69,6 +69,7 @@ The result is mesmerizing — a jet-black liquid that seems alive, growing spine
 
 > [!WARNING]
 > **Ferrofluid stains everything permanently.** It contains nanoscale iron particles in oil — it will stain skin, clothing, countertops, and wood on contact. Work over newspaper or a disposable surface. Wear gloves when handling. If it gets on skin, mineral oil or rubbing alcohol helps remove it faster than soap.
+
 - **Keep ferrofluid away from electronics and credit cards.** The magnetic particles can damage magnetic strips, hard drives, and sensitive electronics. Work away from laptops and phones, and wash hands thoroughly before handling other devices.
 
 ## 🔗 See Also
@@ -77,5 +78,6 @@ The result is mesmerizing — a jet-black liquid that seems alive, growing spine
 - [CRT Oscilloscope Visualizer](../light-and-visual/021-crt-oscilloscope-visualizer.md) — visualize music on a screen instead of in a liquid
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

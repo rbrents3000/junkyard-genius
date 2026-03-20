@@ -90,6 +90,7 @@ The ESP32 pulls double duty as both the display driver and a WiFi access point. 
 - [HUD Glasses](245-hud-glasses.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

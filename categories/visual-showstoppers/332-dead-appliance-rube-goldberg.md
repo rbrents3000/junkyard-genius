@@ -79,6 +79,7 @@ This build is pure creative problem-solving. There is no schematic because no tw
 
 > [!WARNING]
 > **Pinch points are everywhere.** Springs, levers, and falling weights create dozens of finger-grabbing hazards. Keep hands clear of any loaded mechanism. Reset stages with a stick or dowel, not your fingers, especially toaster springs and loaded levers.
+
 - **Electrical stages need proper wiring.** If you're running any stage on mains voltage (120V/240V), use appliance-rated wire, proper insulation, and keep all connections in enclosed junction boxes. A bare 120V wire on an open table is a serious shock hazard. Low-voltage DC (12V from a laptop brick) is strongly preferred for motorized stages.
 - **Falling objects.** Heavy items like the dryer drum or a weighted lever can fall if a stage misfires. Don't lean over the machine during testing. Stand to the side, trigger stage 1 with a long stick, and watch from a safe distance until you've confirmed nothing launches sideways.
 - **Appliance teardown hazards.** Microwaves contain high-voltage capacitors that can hold a lethal charge even when unplugged. Discharge the capacitor before touching anything inside a microwave — short the terminals with an insulated screwdriver. CRT TVs have similar hazards. Refrigerators contain refrigerant that shouldn't be vented. Tear down appliances with awareness of what's inside them.

@@ -72,5 +72,6 @@ CPUs, RAM sticks, and IC chips contain some of the most intricate patterns human
 - [RAM Stick Ruler](068-ram-stick-ruler.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

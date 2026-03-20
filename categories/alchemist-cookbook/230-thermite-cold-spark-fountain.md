@@ -73,6 +73,7 @@ Thermite is iron oxide + aluminum powder. When ignited, it undergoes an aluminot
 - [Cold Spark Machine](../pyro-and-chemistry/104-cold-spark-machine.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

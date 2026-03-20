@@ -72,6 +72,7 @@ These have been known since the 1600s (Prince Rupert of the Rhine brought them t
 
 > [!WARNING]
 > **Glass shrapnel is the primary hazard.** When a Prince Rupert's Drop explodes, it sends fine glass powder and small shards in all directions. Always wear safety glasses. Do the tail-breaking step inside a clear container or wrapped in a towel to contain fragments.
+
 - **Molten glass burns.** Glass at working temperature (800-1000 degrees C) will cause severe burns instantly. Never reach over the water bath when dropping glass. Use long tweezers and keep your face and arms out of the splash zone. Molten glass that hits water can splatter.
 - **Torch safety.** Use the torch outdoors or in a well-ventilated area on a fire-safe surface. Keep a fire extinguisher nearby. Never leave a lit torch unattended.
 
@@ -81,5 +82,6 @@ These have been known since the 1600s (Prince Rupert of the Rhine brought them t
 - [Eddy Current Brake](186-eddy-current-brake.md) — counterintuitive physics you can hold in your hands
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

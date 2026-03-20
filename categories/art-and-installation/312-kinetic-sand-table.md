@@ -79,6 +79,7 @@ The result is one of the most elegant objects you can build from salvaged parts.
 
 > [!WARNING]
 > **Zero danger during operation.** No high voltage, no fire, no chemicals. The ball and sand are inert. The strongest magnets in the build are the hard drive magnets under the table — keep credit cards, pacemakers, and mechanical watches away from the underside.
+
 - **Pinch hazard during assembly.** The CoreXY belt system has moving parts that can pinch fingers. Keep hands clear of the gantry when the motors are energized. Add a safety cover over the belt runs.
 - **Glass handling.** Tempered glass is strongly recommended — if standard glass breaks over the mechanism, you'll have shards mixed with fine sand. Tempered glass breaks into small, relatively safe cubes.
 
@@ -90,6 +91,7 @@ The result is one of the most elegant objects you can build from salvaged parts.
 - [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md) — the CNC foundation this build is based on
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

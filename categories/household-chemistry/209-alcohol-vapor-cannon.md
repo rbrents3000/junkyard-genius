@@ -71,4 +71,5 @@ The bottle is reusable. Just swirl in more alcohol and fire again. One bottle of
 - [Hand Sanitizer Fire Art](210-hand-sanitizer-fire-art.md) — another controlled combustion build using household alcohol
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

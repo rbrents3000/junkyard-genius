@@ -197,5 +197,6 @@ Many municipalities have specific rules about placement, signage, voltage limits
 - [Jacob's Ladder](../mad-scientist/034-jacobs-ladder.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

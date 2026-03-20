@@ -82,6 +82,7 @@ Commercial ferrofluid displays this size run $2,000-$5,000. This build costs und
 
 > [!WARNING]
 > **Ferrofluid stains are forever.** This stuff bonds to skin, clothing, wood, drywall, and basically any porous surface permanently. Wear nitrile gloves for every step involving open ferrofluid. Cover your work surface with disposable plastic sheeting. If it gets on skin, mineral oil dissolves it slowly — water makes it spread. If it gets on clothing, that shirt is now a shop rag.
+
 - The electromagnet array draws significant current when multiple coils fire simultaneously. Size your power supply wiring for peak load — 16 coils at 500mA each is 8A. Coils left on continuously will overheat. Use PWM to limit average current and add a thermal cutoff if you're running extended sessions.
 - Mount the panel securely. A 2-foot acrylic panel full of ferrofluid falling off the wall is an extinction-level event for your carpet and everything below it.
 
@@ -91,4 +92,5 @@ Commercial ferrofluid displays this size run $2,000-$5,000. This build costs und
 - [Music Visualizer LED Wall](../python-projects/145-music-visualizer-led-wall.md) — music-reactive display using LEDs instead of ferrofluid
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

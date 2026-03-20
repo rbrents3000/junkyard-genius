@@ -76,6 +76,7 @@ Light enters through a narrow slit, hits the grating, and fans out into a spectr
 
 > [!WARNING]
 > **Never point the spectroscope directly at the sun.** Concentrated sunlight focused through the slit can damage your retina. Use reflected skylight or sunlight bounced off a white surface instead. The blue sky works perfectly and poses no risk.
+
 - **Razor blade handling.** The slit-cutting step involves precision work with a very sharp blade. Cut on a stable surface, away from your fingers. A steel ruler as a straight edge is safer than freehand.
 - **Broken DVD fragments.** DVDs shatter into sharp-edged pieces if snapped. Score and cut them with scissors or a utility knife rather than breaking them.
 

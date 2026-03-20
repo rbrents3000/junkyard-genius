@@ -73,6 +73,7 @@ Potassium nitrate (KNO3) and sugar, when melted together and hardened, form a so
 - [Colored Fire](../pyro-and-chemistry/101-colored-fire.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

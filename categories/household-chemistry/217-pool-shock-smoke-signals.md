@@ -73,6 +73,7 @@ This is a serious chemistry reaction with real hazards. The reaction produces ex
 - [Alcohol Vapor Cannon](209-alcohol-vapor-cannon.md) — another build combining household chemicals and combustion
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

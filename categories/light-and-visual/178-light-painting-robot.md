@@ -73,6 +73,7 @@ The photographs look like CGI renders but they're real, single-exposure images. 
 
 > [!WARNING]
 > **Servo motors can pinch.** When the arm is in motion, keep fingers clear of the servo joints and arm segments. Small servos have surprising torque — enough to pinch skin or trap a finger. Don't reach into the arm's sweep zone while a program is running.
+
 - **Long-exposure photography in the dark means working in the dark.** Set up the workspace in daylight, then darken it. Know where everything is. Don't trip over the tripod or robot assembly. Mark any obstacles with small glow-in-the-dark tape.
 
 ## 🔗 See Also
@@ -81,6 +82,7 @@ The photographs look like CGI renders but they're real, single-exposure images. 
 - [Holographic Fan Display](022-holographic-fan-display.md) — another project where LEDs and motion create images
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

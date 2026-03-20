@@ -66,5 +66,6 @@ A forge needs forced air to reach welding and forging temperatures — the fire 
 - [Circular Saw Table Saw](082-circular-saw-table-saw.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

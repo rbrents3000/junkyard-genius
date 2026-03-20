@@ -82,5 +82,6 @@ This is one of the most elegant physics demonstrations ever conceived, and it co
 - [Foucault Pendulum](../weird-science/311-foucault-pendulum.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

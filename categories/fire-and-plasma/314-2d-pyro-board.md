@@ -81,6 +81,7 @@ The engineering is a scaled-up version of the Rubens' Tube, with one critical di
 
 > [!CAUTION]
 > **Outdoors only.** Propane accumulation in an enclosed space is explosive. This project uses significantly more propane than a standard Rubens' Tube. Never operate indoors or in a garage with the door closed.
+
 - **Keep the propane tank at a safe distance.** Use a hose at least 10 feet long between the tank and the pyro board. A flashback arrestor on the hose is mandatory, not optional.
 - **The sheet metal gets extremely hot.** After running for more than a few minutes, the entire top plate will be too hot to touch. Operate on a fireproof surface (concrete, brick, bare dirt) and keep all flammable materials away. Let it cool completely before moving or storing.
 - **Have a fire extinguisher within arm's reach.** If a leak develops while the board is lit, you need to be able to act immediately.

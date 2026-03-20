@@ -73,4 +73,5 @@ Calcium carbide is a gray rock that reacts violently with water to produce acety
 - [Smoke Bomb Array](103-smoke-bomb-array.md)
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

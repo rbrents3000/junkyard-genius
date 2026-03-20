@@ -73,4 +73,5 @@ River tables are live-edge wood slabs split down the middle with a "river" of cl
 - [Bismuth Crystal Garden](107-bismuth-crystal-garden.md)
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

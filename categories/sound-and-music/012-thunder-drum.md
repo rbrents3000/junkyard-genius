@@ -65,6 +65,7 @@ The physics are elegant: the spring has many resonant modes at different frequen
 
 > [!WARNING]
 > **Watch the spring end.** A metal spring whipping around can catch fingers or eyes. Keep a firm grip on the drum body when shaking it vigorously, and warn bystanders to stay at arm's length.
+
 - **Large drums are LOUD.** A 5-gallon bucket thunder drum can produce startlingly loud low-frequency sound. Don't play it directly into someone's ear, and be aware of noise complaints if you're in an apartment.
 
 ## 🔗 See Also

@@ -69,6 +69,7 @@ Potassium permanganate is a powerful oxidizer. Glycerin is a thick, syrupy fuel.
 - [Pharaoh's Serpent](110-pharaohs-serpent.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

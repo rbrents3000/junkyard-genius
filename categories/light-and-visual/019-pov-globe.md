@@ -73,6 +73,7 @@ The concept exploits the fact that human vision retains an image for about 1/25t
 
 > [!WARNING]
 > **Spinning at 1,000+ RPM is serious.** If the LED strip or any component detaches, it becomes a projectile. Secure everything with screws, not just glue. Test at low speed first. Stand behind a shield (plexiglass panel) during initial high-speed testing. Never put fingers near the spinning arm.
+
 - **Battery safety on spinning components.** If using a LiPo battery on the spinning arm, make sure it's securely mounted and can't shift during rotation. A LiPo battery that detaches at speed will impact something at high velocity, potentially causing a fire.
 
 ## 🔗 See Also
@@ -81,6 +82,7 @@ The concept exploits the fact that human vision retains an image for about 1/25t
 - [Light Painting Robot](178-light-painting-robot.md) — LEDs creating images through motion, captured by long-exposure photography
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

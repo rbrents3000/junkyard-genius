@@ -74,5 +74,6 @@ Before transistors, all electronics ran on vacuum tubes — glass bottles with g
 - [Arduino Guitar Pedal](../pi-and-arduino/124-arduino-guitar-pedal.md)
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -85,6 +85,7 @@ Building one requires respecting the energy involved. A charged MOT capacitor is
 - [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

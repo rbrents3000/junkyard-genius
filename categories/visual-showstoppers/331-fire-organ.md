@@ -88,6 +88,7 @@ This is not a build you rush. The propane system demands respect, the electrical
 
 > [!CAUTION]
 > **This build combines open propane flames with electrical systems. Take it seriously.** A propane leak near an electrical spark source can cause an explosion. Every propane joint must be leak-tested before every session. The master shutoff valve must be accessible from your playing position. Never leave the propane on with the pilot flame unlit — unburned gas accumulates fast.
+
 - **Flashback arrestors are mandatory, not optional.** A flame traveling backward down a propane line into the manifold or tank is catastrophic. Install one between the tank and the manifold AND individual arrestors at each nozzle. Both locations are required — the tank-side arrestor protects against catastrophic tank involvement, and per-nozzle arrestors prevent cross-ignition between pipes through the manifold.
 - **Solenoid valve failure mode matters.** Use normally-closed solenoid valves for the propane lines. If the Arduino crashes, if power is lost, if a wire comes loose — normally-closed valves spring shut and stop gas flow. Normally-open valves would keep flowing gas with no ignition. Verify the valve type before you buy or salvage.
 - **Keep a Class B fire extinguisher within arm's reach.** Not across the room. Not in the garage. Within arm's reach, every time.

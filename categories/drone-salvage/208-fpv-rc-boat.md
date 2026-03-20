@@ -78,5 +78,6 @@ The clout potential is off the charts. FPV boat footage on a calm lake at sunset
 - [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer.md) — add stabilization to the boat camera for smoother footage in chop
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

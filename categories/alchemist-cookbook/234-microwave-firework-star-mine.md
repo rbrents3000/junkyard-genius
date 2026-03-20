@@ -77,6 +77,7 @@ A star mine in fireworks terminology is a ground-based device that launches a sp
 - [Colored Fire](../pyro-and-chemistry/101-colored-fire.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

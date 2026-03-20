@@ -73,5 +73,6 @@ A fit cyclist produces about 75-150 watts sustained. That's enough to charge a p
 - [DIY Powerwall](052-diy-powerwall.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

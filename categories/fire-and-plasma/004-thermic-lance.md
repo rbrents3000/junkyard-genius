@@ -71,6 +71,7 @@ This is the same tool demolition crews use to cut apart bridges and industrial e
 
 > [!CAUTION]
 > **This operates at temperatures that will instantly ignite anything flammable.** Molten slag at 4,500degF sprays in unpredictable directions. Do this outdoors on bare dirt or concrete, far from any structure. Have a fire extinguisher AND a garden hose ready. The slag can start fires 10+ feet away.
+
 - **Pure oxygen makes everything more flammable.** Grease, oil, and organic material can spontaneously ignite in enriched oxygen environments. Make sure your regulator, hose, and fittings are oxygen-rated and oil-free. Never use pipe tape with PTFE on oxygen fittings.
 - **The lance itself is consumed during use.** It gets shorter and shorter. Plan your grip position and know when to stop. If the burning front gets within arm's reach, you're already too close. Use the longest pipe practical.
 

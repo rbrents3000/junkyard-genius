@@ -71,6 +71,7 @@ The build is simpler than the cigar box guitar because the can provides a ready-
 
 > [!WARNING]
 > **Tin can edges are razor sharp.** File or sand all cut edges on the can smooth. Cover cut edges with tape or silicone if they're near your hands during play.
+
 - **String tension.** The can walls are thinner than a wooden body and can deform under high string tension. Use lighter gauge strings and don't over-tighten. If the can starts to buckle, release tension and reinforce the neck mounting points.
 
 ## 🔗 See Also

@@ -74,6 +74,7 @@ This is a permanent installation that transforms a bedroom, home theater, or bat
 
 > [!WARNING]
 > **Ladder safety.** If working on an actual ceiling, you'll spend hours on a ladder. Use a proper step ladder with a stable platform, not a chair. Have someone spot you during the long fiber-threading sessions.
+
 - **Fiber optic strands can poke and scratch.** When handling bundles of cut fiber, the tips are small and pointy. Wear gloves during threading. Don't rub your eyes after handling fibers.
 - **Heat management.** If using a halogen bulb instead of LED, it generates significant heat in a closed space above your ceiling. LEDs are strongly recommended — they run cool and last virtually forever. Never use a halogen bulb against flammable material like foam panels or insulation.
 
@@ -83,5 +84,6 @@ This is a permanent installation that transforms a bedroom, home theater, or bat
 - [UV Reactive Water Wall](023-uv-reactive-water-wall.md) — another permanent installation using light effects
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

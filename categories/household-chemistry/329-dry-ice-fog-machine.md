@@ -81,6 +81,7 @@ Building a controllable fog machine from a cooler takes about five minutes. A St
 - [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

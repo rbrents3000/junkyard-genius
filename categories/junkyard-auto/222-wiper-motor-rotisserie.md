@@ -66,5 +66,6 @@ A windshield wiper motor is a DC motor with an internal worm gear reduction that
 - [Stirling Engine](../mechanical-and-kinetic/182-stirling-engine.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

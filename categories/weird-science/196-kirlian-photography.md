@@ -76,6 +76,7 @@ Semyon Kirlian discovered this in 1939, and it immediately attracted mystical ex
 
 > [!WARNING]
 > **High voltage.** The flyback output is 10-30kV. While the current is low (microamps to low milliamps), it can deliver a painful shock and cause involuntary muscle contraction. Never touch the metal plate or any exposed conductor while the driver is powered. Use a physical kill switch within arm's reach and always disconnect power before adjusting anything.
+
 - **Ozone production.** Corona discharge produces ozone (O3), which is toxic in concentration. Work in a ventilated area. If you smell a sharp, chemical-clean odor, increase ventilation. Don't run the device continuously for more than a few minutes in an enclosed space.
 - **Fire risk.** Sparks from the flyback can ignite paper, cloth, or solvents. Keep the work area clear of flammable materials. Don't use photographic chemicals near the energized plate.
 

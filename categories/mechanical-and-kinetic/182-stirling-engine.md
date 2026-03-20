@@ -73,6 +73,7 @@ This build uses two soda cans as the hot and cold chambers, a balloon membrane a
 
 > [!WARNING]
 > **Open flame.** You're using a candle directly under a metal can. Keep flammable materials away from the setup and never leave it running unattended.
+
 - **Hot metal.** The bottom of the hot cylinder will get very hot. Don't touch it during or immediately after operation. Use the wooden base as a handle.
 
 ## 🔗 See Also
@@ -81,5 +82,6 @@ This build uses two soda cans as the hot and cold chambers, a balloon membrane a
 - [Musical Marble Machine](181-musical-marble-machine.md) — a much larger mechanical build if you want to level up
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

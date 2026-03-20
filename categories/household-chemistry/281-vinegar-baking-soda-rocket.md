@@ -82,4 +82,5 @@ Scale up to a 2-liter soda bottle and you enter a different league entirely. A c
 - [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste.md)
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

@@ -65,4 +65,5 @@ Gallium is a metal with a melting point of just 86°F (29.8°C) — below body t
 - [Instant Ice Sculpture](108-instant-ice-sculpture.md)
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

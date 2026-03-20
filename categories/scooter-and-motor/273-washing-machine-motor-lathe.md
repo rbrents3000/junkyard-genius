@@ -91,6 +91,7 @@ This is not a toy lathe. Washing machine motors produce enough torque to turn se
 - [Motor-Driven Turntable](294-motor-driven-turntable.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

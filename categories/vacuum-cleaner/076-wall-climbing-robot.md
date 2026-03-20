@@ -72,6 +72,7 @@ A vacuum motor creates suction — negative pressure that pulls the motor housin
 - [Cyclone Dust Separator](077-cyclone-dust-separator.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

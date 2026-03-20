@@ -76,6 +76,7 @@ The sound quality is surprisingly good for treble and midrange, though bass is v
 
 > [!CAUTION]
 > **CRT discharge is mandatory before salvage.** CRT tubes hold lethal charge (up to 25,000V) for weeks or months after being unplugged. Before opening any CRT TV, discharge the anode cap to chassis ground using an insulated screwdriver with a wire clipped to the TV's chassis ground. Do this multiple times to be sure.
+
 - **The flyback output is high voltage (5,000-30,000V).** While the current is relatively low, it can still cause painful shocks and burns. Never touch the electrodes or high-voltage wire while the circuit is powered. Keep one hand in your pocket when making adjustments near the high-voltage side.
 - **Ozone production.** The electrical arc produces ozone (O3), which is toxic in concentration. Run the plasma speaker in a well-ventilated area. If you smell a sharp, metallic/electrical smell, you're breathing ozone — increase ventilation.
 

@@ -74,4 +74,5 @@ Professional fireworks shows aren't lit by hand — they're fired by computer-co
 - [Cold Spark Machine](../pyro-and-chemistry/104-cold-spark-machine.md)
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

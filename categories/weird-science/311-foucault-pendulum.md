@@ -79,6 +79,7 @@ The build itself is mechanically simple: a heavy weight, a long wire, and a stur
 
 > [!WARNING]
 > **Overhead mounting must be bomb-proof.** A 10-25 lb bob swinging on a long wire exerts significant dynamic force on the mount point, well beyond its static weight. Use lag bolts into solid structural members — joists, beams, rafters. Never mount into drywall, plaster, or a suspended ceiling grid. If the mount fails, you've got a cannonball on a whip. Test the mount by hanging twice the bob's weight from it statically before swinging anything.
+
 - **Swinging weight hazard.** A 15-lb bob swinging on a 20-foot wire covers a lot of ground. Clear the swing radius of furniture, pets, children, and anything breakable. Mark the swing zone on the floor with tape. The bob has real momentum and will not stop for a shin or a vase.
 - **Wire tension.** Piano wire under tension can snap and whip. Inspect the wire for kinks, corrosion, or fatigue marks before each run. Use wire rated well above the bob's weight. Stand to the side when releasing the pendulum, not in the swing plane. Wear eye protection during setup and release.
 
@@ -88,5 +89,6 @@ The build itself is mechanically simple: a heavy weight, a long wire, and a stur
 - [Homopolar Motor](198-homopolar-motor.md) — rotational physics in a form you can hold in your hand
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

@@ -68,6 +68,7 @@ Every smartphone contains an accelerometer, gyroscope, magnetometer, barometer, 
 - [Phone IR Camera](066-phone-ir-camera.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

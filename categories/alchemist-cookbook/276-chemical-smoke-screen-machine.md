@@ -83,4 +83,5 @@ The key to good smoke is temperature control. Too cool and the glycerin just poo
 - [Chemical Trigger Color Bombs](228-chemical-trigger-color-bombs.md)
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

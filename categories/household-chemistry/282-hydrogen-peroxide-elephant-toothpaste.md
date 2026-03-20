@@ -81,6 +81,7 @@ The chemistry is beautifully elegant. The iodide ion (I-) from the potassium iod
 - [Sugar Smoke Bombs](327-sugar-smoke-bombs.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

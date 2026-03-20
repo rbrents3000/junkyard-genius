@@ -74,6 +74,7 @@ You can test different metals and alloys side by side: watch how steel glows and
 
 > [!CAUTION]
 > **The secondary output is low voltage but extremely high current.** While 2-4 volts won't shock you through dry skin, the current is enough to instantly weld metal. Never touch the electrodes or sample while powered — a ring on your finger across the terminals could result in a severe burn. Remove all jewelry before operating.
+
 - **Metals at white heat radiate intense infrared and some UV.** Don't stare at white-hot samples without eye protection. Welding-shade glasses or at minimum dark sunglasses. A face shield protects from spatter.
 - **Molten metal drips are inevitable.** Work on fire brick over a concrete floor. Never over wood, carpet, or plastic. Keep a wide clear zone — drips can bounce and roll.
 
@@ -83,5 +84,6 @@ You can test different metals and alloys side by side: watch how steel glows and
 - [Desktop Foundry](005-desktop-foundry.md) — if you want to actually collect and cast the molten metal
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

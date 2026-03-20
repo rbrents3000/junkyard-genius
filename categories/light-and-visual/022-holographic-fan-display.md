@@ -73,6 +73,7 @@ Commercial versions of these are used in retail stores and trade shows and cost 
 
 > [!WARNING]
 > **The spinning blade is invisible and will cut you.** At operating speed, you cannot see the blade. Never reach toward the display while it's running. Install a clear acrylic shield in front of it for public-facing installations. Keep a safe distance during testing.
+
 - **Motor failure throws the blade.** If the hub clamp fails, the blade becomes a projectile. Use a proper set screw or press fit — not just friction. Test at low speed first and verify the blade is secure before going to full RPM. Stand to the side during speed-up, not in the plane of rotation.
 
 ## 🔗 See Also
@@ -81,6 +82,7 @@ Commercial versions of these are used in retail stores and trade shows and cost 
 - [Laser Fog Projector](017-laser-fog-projector.md) — another way to create floating visual effects
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

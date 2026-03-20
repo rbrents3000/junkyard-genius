@@ -83,5 +83,6 @@ The prank applications are obvious: whisper someone's name through a table at 2 
 - [Laser Voice Communicator](../laser-lab/265-laser-communicator.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

@@ -68,5 +68,6 @@ A drill press does one thing a hand drill can't: drill perfectly straight, perpe
 - [Router CNC Spindle](083-router-cnc-spindle.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

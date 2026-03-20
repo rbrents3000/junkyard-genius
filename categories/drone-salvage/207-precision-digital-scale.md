@@ -73,6 +73,7 @@ The key insight is that the motor's torque constant (Kt) relates current to torq
 - [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer.md) — the original application of these motors' precision control
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

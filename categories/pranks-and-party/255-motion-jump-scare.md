@@ -89,6 +89,7 @@ Commercial motion-activated scare props cost $50-100 and have fixed, predictable
 - [Fake Security Camera That Roasts You](257-insult-camera.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

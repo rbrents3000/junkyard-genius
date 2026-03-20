@@ -73,6 +73,7 @@ Total cost is under $15 if you scrounge the buckets. A commercial electronic dru
 
 > [!WARNING]
 > **Piezo voltages.** A hard strike on a piezo disc can generate 20V+ peaks. The Zener diodes protect the Arduino, but don't skip them — unprotected analog inputs will fry.
+
 - **Bucket edges.** Cut bucket rims can be sharp. Sand or tape any cut edges to avoid slicing your hands while playing.
 
 ## 🔗 See Also
@@ -81,4 +82,5 @@ Total cost is under $15 if you scrounge the buckets. A commercial electronic dru
 - [Steel Tongue Drum](239-steel-tongue-drum.md) — a more melodic percussion build from salvaged metal
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

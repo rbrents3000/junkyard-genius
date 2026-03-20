@@ -70,4 +70,5 @@ Every metal produces a characteristic color when heated — it's how astronomers
 - [Steel Wool Photography](113-steel-wool-photography.md)
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

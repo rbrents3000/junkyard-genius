@@ -182,5 +182,6 @@ If the wheel stops, release the foot pedal before re-engaging.
 - [Scooter Motor Lathe](../functional-machines/025-scooter-motor-lathe.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

@@ -204,21 +204,25 @@ demonstration of the principle, it's hard to beat.
   no chemicals, no moving parts except a small fan. The primary hazard is water
   spilling from the reservoir if the chamber gets knocked over — keep electronics
   above the water line and on the dry side of the chamber.
+
 - If you plan to measure and taste the collected water, use distilled water in the
   reservoir and ensure all chamber materials are food-safe and clean. Avoid copper
   or galvanized wire for the harp if you plan to consume the water — copper
   leaches into water, and galvanized wire releases zinc. Use stainless steel or
   food-grade nylon. Even then, treat this as a demonstration, not a water
   purification system.
+
 - The ultrasonic mist maker must stay submerged during operation. Running the disc
   dry burns out the piezoelectric element within seconds and can overheat the driver
   board. Monitor the reservoir water level and refill as needed — the mist maker
   consumes water faster than you'd expect, especially at full output.
+
 - Increased humidity inside the chamber causes condensation on any electronics
   mounted internally. Keep driver boards, fan power connectors, and LED wiring
   connections outside the chamber or sealed against moisture ingress. Low-voltage
   components tolerate brief condensation exposure, but corrosion is a long-term
   concern if this runs for days at a time.
+
 - If building the outdoor scaled-up version, secure the frame against wind loads.
   A 6-foot wire array acts like a sail in high winds. Anchor it properly or it
   becomes a very educational projectile.

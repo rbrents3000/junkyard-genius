@@ -72,6 +72,7 @@ This is Pascal's law made tangible: pressure applied to a confined fluid transmi
 
 > [!WARNING]
 > **Syringe tips.** If using syringes with needle adapters, remove and discard any needles immediately. The blunt luer-lock tips are all you need for tubing connections.
+
 - **Water leaks.** The system is low-pressure, but connections can pop loose and squirt water. Not dangerous, but keep electronics and papers away from the work area.
 - **Pinch points.** The gripper can pinch fingers if the hydraulic line is pressurized suddenly. Keep fingers clear of the jaws during operation.
 
@@ -81,5 +82,6 @@ This is Pascal's law made tangible: pressure applied to a confined fluid transmi
 - [Ball Bearing Motor](187-ball-bearing-motor.md) — the simplest possible motor if you want something that moves with zero complexity
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

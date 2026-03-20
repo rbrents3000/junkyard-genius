@@ -84,5 +84,6 @@ String them from a branch or a metal frame, add a striker in the center, and you
 - [Steel Tongue Drum](239-steel-tongue-drum.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

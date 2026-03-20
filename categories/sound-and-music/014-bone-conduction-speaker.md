@@ -72,6 +72,7 @@ The name comes from bone conduction headphones, which vibrate your skull directl
 
 > [!WARNING]
 > **Surface vibration can shake loose objects.** A transducer mounted on a table will vibrate everything sitting on the table. Secure drinks, glasses, and fragile items. At high volume, things will walk right off the edge.
+
 - **Don't mount permanently on structural glass.** While a transducer won't break a window at normal volume, prolonged high-volume operation could stress glass, especially near edges or existing micro-cracks. For windows, use moderate volume.
 
 ## 🔗 See Also

@@ -76,5 +76,6 @@ This is the same principle behind electromagnetic forming used in aerospace manu
 - [Coil Gun](037-coil-gun.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

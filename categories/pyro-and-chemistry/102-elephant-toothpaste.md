@@ -71,6 +71,7 @@ Hydrogen peroxide naturally decomposes into water and oxygen gas, but it does it
 - [Chemiluminescent Fountain](111-chemiluminescent-fountain.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

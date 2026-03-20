@@ -70,6 +70,7 @@ The focal point is a blinding white spot about the size of a dime that can set w
 
 > [!CAUTION]
 > **The focal point will blind you permanently and instantly.** The concentrated sunlight at the focal point is thousands of times brighter than direct sun. NEVER look at the focal spot without welding goggles (shade 10+). Regular sunglasses are completely insufficient. Reflections off shiny targets can also cause eye damage — wear the goggles the entire time the lens is aimed at the sun.
+
 - **Everything at the focal point is on fire.** The spot will ignite any organic material in seconds. Work on bare dirt or concrete. Have fire suppression ready. Be aware that the focal point moves as the sun moves — if you walk away for 10 minutes, the spot may have drifted onto the frame or nearby objects.
 - **UV exposure.** The concentrated light includes UV. Even standing near the focal area, your skin will sunburn fast. Wear long sleeves, gloves, and a hat. Treat this like spending a day at the beach — except the "beach" has a 3,000-degree spot.
 

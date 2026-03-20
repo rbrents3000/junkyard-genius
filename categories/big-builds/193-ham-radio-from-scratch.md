@@ -76,6 +76,7 @@ This is the original DIY — ham radio operators have been building their own ge
 
 > [!WARNING]
 > **RF burns.** Even 5 watts of RF at HF frequencies can cause painful RF burns if you touch the antenna or feedline while transmitting. Never touch antenna connections while the transmitter is keyed.
+
 - **High voltage in amplifier stage.** Some transmitter designs use voltages above 50V in the power amplifier. Treat all amplifier circuits as live when power is connected. Discharge filter capacitors before servicing.
 - **Antenna safety.** Keep antennas away from power lines — an antenna touching a power line is immediately lethal. Maintain at least twice the antenna length in clearance from any power line.
 

@@ -75,5 +75,6 @@ This is the standard method for welding nickel tabs to lithium cells when buildi
 - [Capacitor Discharge Welder](032-capacitor-discharge-welder.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

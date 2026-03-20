@@ -83,5 +83,6 @@ This is the build that makes people take junkyard engineering seriously. It move
 - [Scooter Motor Lathe](025-scooter-motor-lathe.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

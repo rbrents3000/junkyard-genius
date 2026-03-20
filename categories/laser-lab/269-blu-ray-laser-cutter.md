@@ -81,6 +81,7 @@ The result is a legitimate laser engraver/cutter built entirely from salvaged el
 
 > [!WARNING]
 > **405nm laser light is genuinely dangerous to eyes.** Wear laser safety goggles rated for 405nm (OD4 or higher) whenever the laser is powered, even if it is not actively cutting. The beam and its reflections from any shiny surface can cause permanent retinal damage faster than the blink reflex. This is the single most important safety requirement for this build.
+
 - The laser burns materials by design — it will also burn skin, clothing, paper, and anything else in the beam path. Never reach into the cut area while the laser is powered. Never leave the cutter running unattended. Keep a fire extinguisher or bucket of water within arm's reach.
 - Burning wood, leather, and plastics produces irritating and potentially toxic fumes. Always operate with active ventilation. Never cut PVC, vinyl, or any chlorine-containing material — these release chlorine gas, which is acutely toxic. Acrylic (PMMA) and ABS also produce unpleasant fumes and should only be cut with strong exhaust ventilation.
 - The laser diode is extremely sensitive to static electricity and current spikes. Handle with anti-static precautions at all times. Ensure the driver circuit provides clean, regulated constant current with no transients.
@@ -92,6 +93,7 @@ The result is a legitimate laser engraver/cutter built entirely from salvaged el
 - [Toaster Reflow Oven](../kitchen-hacks/260-toaster-reflow-oven.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

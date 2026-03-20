@@ -78,6 +78,7 @@ This build combines old-world construction (dig, line, insulate) with modern mon
 
 > [!WARNING]
 > **Cave-in risk during excavation is the biggest danger.** Unsupported excavation walls can collapse without warning, burying workers. For holes deeper than 4 feet, use trench boxes, sloped walls (1:1 ratio), or benched cuts. Never work alone in an excavation.
+
 - **Carbon dioxide accumulation.** Root cellars can accumulate CO2, especially when storing large quantities of produce (which respires). Before entering a sealed cellar, open the door and let it ventilate for several minutes. If you feel dizzy or short of breath inside, leave immediately.
 - **Structural load.** The finished ceiling must support the weight of soil backfill plus any surface loads (people walking, lawn mower). Over-engineer the ceiling — use larger joists and shorter spans than you think you need. A collapsing ceiling underground is not survivable.
 
@@ -87,4 +88,5 @@ This build combines old-world construction (dig, line, insulate) with modern mon
 - [Ham Radio from Scratch](193-ham-radio-from-scratch.md) — another project that rewards patience and manual craftsmanship
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

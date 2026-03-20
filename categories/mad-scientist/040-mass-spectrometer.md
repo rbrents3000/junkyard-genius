@@ -78,5 +78,6 @@ This is the most intellectually demanding build in the book. But the payoff is i
 - [Cloud Chamber](041-cloud-chamber.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

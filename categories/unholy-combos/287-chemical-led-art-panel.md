@@ -91,4 +91,5 @@ The more advanced approach uses electrochromic solutions — tungsten oxide nano
 - [Chemiluminescent Fountain](../pyro-and-chemistry/111-chemiluminescent-fountain.md)
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

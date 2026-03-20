@@ -74,6 +74,7 @@ The tuning process requires patience and a chromatic tuner, but no musical train
 
 > [!WARNING]
 > **Angle grinder safety is critical.** Wear a full face shield (not just safety glasses), hearing protection, leather gloves, and long sleeves. Cutting discs can shatter. Never remove the grinder guard. Clamp the workpiece securely — never hold it with your free hand.
+
 - **Propane tank warning.** If using a propane tank, incomplete purging can cause explosion when sparks from cutting ignite residual gas. The tank MUST be completely empty, filled with water and drained multiple times, and left open to air for several days. If you smell any gas, stop immediately. Many builders recommend only using tanks from a professional who has certified them as purged.
 - **Sharp metal edges.** Until sanded smooth, the cut tongues have razor-sharp edges. Don't play the drum until all edges are fully smoothed and rounded.
 

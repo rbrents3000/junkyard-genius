@@ -80,6 +80,7 @@ The DRSSTC works by driving a primary coil at the resonant frequency of the seco
 
 > [!CAUTION]
 > **This is a lethal high-voltage device.** The primary circuit carries hundreds of amps at kilovolt-level voltages. A direct contact with the primary bus or MMC bank can kill instantly. Full high-voltage safety protocols apply at all times. Never reach toward any part of the circuit while powered. Use a variac or current-limited power supply during testing.
+
 - **The MMC bank stores lethal energy even after power-off.** Always discharge capacitors with a grounded shorting stick before touching anything. Bleeder resistors help but are not a substitute for active discharge verification.
 - **RF ground is mandatory.** Without it, the return current path is unpredictable and potentially through nearby electronics, building wiring, or people.
 - **The arc produces UV radiation and ozone.** Prolonged exposure to the arc's UV output can cause eye irritation and skin burns. Ozone buildup in enclosed spaces causes respiratory irritation. Operate outdoors or in a well-ventilated area.
@@ -93,6 +94,7 @@ The DRSSTC works by driving a primary coil at the resonant frequency of the seco
 - [Plasma Speaker Lamp](../unholy-combos/283-plasma-speaker-lamp.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

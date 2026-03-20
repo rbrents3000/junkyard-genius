@@ -85,5 +85,6 @@ The treadmill motor is the heart of this build — they're beefy permanent-magne
 - [Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

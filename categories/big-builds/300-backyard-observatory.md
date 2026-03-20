@@ -175,6 +175,7 @@ vendor. You're building it for a fraction of that, and you'll understand every p
 
 > [!WARNING]
 > **Structural integrity matters.** The dome is heavy and sits on an elevated platform. Over-engineer the base and the rotation track. A dome that detaches from its track in a windstorm becomes a projectile. Use guy wires or hurricane clips if you're in a high-wind area. Check local building codes — some jurisdictions require permits for structures above a certain height.
+
 - **Pinch and crush hazards.** The rotating dome and motorized mount have gears, wheels, and moving parts that don't care about fingers. Install an emergency stop button accessible from inside the dome and another at the base outside. Never reach into the rotation track while the motor is powered.
 - **Electrical safety in a wet environment.** Observatories collect dew on everything — walls, floor, equipment, wiring. All electrical connections should be in weatherproof enclosures or conformal-coated. Use GFCI-protected circuits for any mains power. Keep the slip ring contacts clean and dry.
 - **Ladder and lifting injuries.** Mounting the dome requires lifting a heavy, awkward shell overhead. Use enough people (four minimum) and consider rigging a temporary A-frame hoist. Wear hard hats. Falls from the knee wall during construction are a real risk — it's not high, but it's high enough to break an ankle.
@@ -185,6 +186,7 @@ vendor. You're building it for a fraction of that, and you'll understand every p
 - [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse.md) — similar dome construction principles, different purpose
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

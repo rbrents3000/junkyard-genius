@@ -70,6 +70,7 @@ This is the build that goes viral. Fire writing in a dark room, filmed from abov
 - [Colored Fire](../pyro-and-chemistry/101-colored-fire.md) — different chemical approaches to colored flames
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

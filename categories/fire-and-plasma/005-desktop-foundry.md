@@ -78,6 +78,7 @@ This is the gateway drug to metalcasting. Once you realize you can melt metal in
 
 > [!CAUTION]
 > **Molten aluminum is invisible-hot.** It looks like silver liquid but it's over 1,200degF. A single splash will cause a severe burn. Wear leather boots (not sneakers), long pants, leather gloves, and a face shield. Never wear synthetic fabrics — they melt into skin.
+
 - **Never let water contact molten aluminum.** Water flashes to steam instantly and causes a violent explosion that sprays molten metal everywhere. Make sure your molds, tools, and work area are completely dry. Even damp concrete can cause a steam explosion. Do NOT pour into wet molds.
 - **Fumes are toxic.** Burning soda can coatings, paint, and plastics produce toxic fumes. Work outdoors or in very well-ventilated areas. If you're melting anything with paint or coatings, a respirator is smart.
 

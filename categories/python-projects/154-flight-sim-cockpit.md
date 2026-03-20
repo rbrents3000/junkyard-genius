@@ -72,6 +72,7 @@ Flight simulators are incredible software — FlightGear is free and open source
 - [MIDI Stepper Organ](../pi-and-arduino/135-midi-stepper-organ.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

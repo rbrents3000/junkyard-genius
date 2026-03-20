@@ -70,6 +70,7 @@ Built into a coffee table, this becomes a piece of furniture that stops every gu
 
 > [!WARNING]
 > **The table top is glass or acrylic.** Don't place heavy objects or slam things down on it. Use a clear tempered glass panel if you want it to be functional as a table. Standard glass can shatter if stressed.
+
 - **LED strips can get warm.** Ensure some ventilation in the frame (a few small holes on the underside) so heat can escape. Enclosed LED strips running at full brightness for hours can overheat and degrade.
 
 ## 🔗 See Also
@@ -78,6 +79,7 @@ Built into a coffee table, this becomes a piece of furniture that stops every gu
 - [Pepper's Ghost Hologram](171-peppers-ghost-hologram.md) — another optical illusion build using partially reflective surfaces
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

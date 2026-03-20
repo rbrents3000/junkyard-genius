@@ -68,4 +68,5 @@ This method is superior to chemical rust removers (vinegar, phosphoric acid) and
 - [Coin Battery Stack](218-coin-battery-stack.md) — another electrochemistry build using household materials
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

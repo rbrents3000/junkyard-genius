@@ -201,17 +201,20 @@ more transducers.
   with the same respect you'd give mains wiring. Use a GFCI outlet for the AC supply
   side. Keep all DC wiring connections inside the sealed enclosure, well above the
   water line.
+
 - Never run ultrasonic discs without water. A dry disc destroys its piezoelectric
   element within seconds and overheats the driver circuit — which is a fire risk when
   mounted near a plastic bucket in direct sun surrounded by dry outdoor materials.
   The float valve is your first line of defense. Check it weekly to make sure it's
   functioning. A stuck float valve means a dry reservoir means dead discs and a
   potential fire.
+
 - Ultrasonic mist is just water, but breathing concentrated mist at close range for
   extended periods isn't great for your lungs. Aim the output above and away from
   where people sit, not into anyone's breathing zone. The mist should be fully
   evaporated (invisible) before it descends to face height. If you can see the mist
   where people are sitting, the output is aimed too low or too close.
+
 - Legionella bacteria can colonize warm, stagnant water — this is a real and
   documented concern for any misting system, commercial or DIY. The ultrasonic
   mist carries whatever is in the water, including bacteria, directly into the air
@@ -219,6 +222,7 @@ more transducers.
   float-valve flow. Adding hydrogen peroxide (1 tablespoon per gallon) inhibits
   bacterial growth. Do not use bleach — chlorine gas is toxic and chlorine corrodes
   the ultrasonic discs.
+
 - The assembled system — bucket, PVC duct, wires, enclosure — is functional but not
   exactly a design award winner. If appearances matter (HOA, significant other, basic
   self-respect), paint the PVC to match your outdoor furniture, hide the bucket behind
@@ -234,4 +238,5 @@ more transducers.
 - [Nebula Lamp](087-nebula-lamp.md)
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

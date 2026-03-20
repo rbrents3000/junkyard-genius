@@ -72,4 +72,5 @@ Look at a sign in a foreign language. Within seconds, the translated text appear
 - [Deepfake Mirror](153-deepfake-mirror.md)
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

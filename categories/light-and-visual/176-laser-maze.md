@@ -73,6 +73,7 @@ This is an absolute hit at parties, Halloween events, and kids' birthday parties
 
 > [!WARNING]
 > **Laser eye safety.** Use Class 2 lasers only (under 5mW). Position all beams so they can't accidentally hit someone in the eye — no beams at exact eye height, no beams aimed toward the entrance/exit where someone might look directly into them. Green lasers are more eye-visible at lower power, so you can use dimmer ones.
+
 - **Fog machine safety.** The fog machine nozzle is very hot. Keep it elevated and out of the path where players crawl. Fog fluid can make floors slippery — put down non-slip mats if the floor is smooth. Ensure room ventilation so fog doesn't accumulate to uncomfortable density.
 - **Physical injury from the maze.** People will be ducking, crawling, and contorting. Make sure there are no sharp edges, hard corners, or objects on the floor that someone could land on. Pad any hard surfaces at head height.
 
@@ -82,4 +83,5 @@ This is an absolute hit at parties, Halloween events, and kids' birthday parties
 - [Pepper's Ghost Hologram](171-peppers-ghost-hologram.md) — another theatrical illusion build
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

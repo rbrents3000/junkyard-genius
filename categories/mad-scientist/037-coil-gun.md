@@ -78,5 +78,6 @@ Compared to a rail gun, a coil gun is cleaner (no rail erosion), quieter (no pla
 - [Electromagnetic Levitator](038-electromagnetic-levitator.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

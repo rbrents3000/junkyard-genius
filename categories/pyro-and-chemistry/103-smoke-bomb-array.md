@@ -75,6 +75,7 @@ Potassium nitrate (stump remover from the hardware store) mixed with sugar creat
 - [Colored Fire](101-colored-fire.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

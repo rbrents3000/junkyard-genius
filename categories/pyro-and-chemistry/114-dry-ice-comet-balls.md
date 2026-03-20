@@ -69,4 +69,5 @@ Dry ice sublimates at -109°F, turning directly from solid to gas. When it conta
 - [Colored Fire](101-colored-fire.md)
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

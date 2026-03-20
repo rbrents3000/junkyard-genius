@@ -101,6 +101,7 @@ The vacuum motor is overkill for this job — a typical vacuum motor pushes 1000
 - [Pneumatic Launcher](299-pneumatic-launcher.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

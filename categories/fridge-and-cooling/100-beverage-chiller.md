@@ -68,4 +68,5 @@ Take a CPU cooler heatsink (the one with the fan and copper heat pipes), flip th
 - [Fermentation Chamber](092-fermentation-chamber.md)
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

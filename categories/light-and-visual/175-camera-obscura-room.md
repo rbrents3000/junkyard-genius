@@ -68,6 +68,7 @@ Trees sway, cars drive by, clouds drift — all projected in real time, fully in
 
 > [!WARNING]
 > **Ensure the room is well-ventilated.** Sealing a room with plastic sheeting can reduce airflow. Don't seal heating/cooling vents, and don't stay in a sealed room for extended periods without ventilation. Leave the door openable at all times.
+
 - **Trip hazards in the dark.** The room is very dark. Remove loose cables, rugs, and other trip hazards before sealing the room. Have a flashlight available for safe entry and exit.
 
 ## 🔗 See Also

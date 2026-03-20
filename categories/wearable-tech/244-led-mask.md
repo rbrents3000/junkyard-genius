@@ -85,4 +85,5 @@ The mouth tracking is the killer feature. The microphone picks up your voice (it
 - [Heads-Up Display Glasses](245-hud-glasses.md)
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -70,4 +70,5 @@ The visual effect of styrofoam dissolving in acetone is dramatic on its own — 
 - [Electroforming Art](../chemical-electronic/160-electroforming-art.md) — coat your polystyrene sculptures in real copper
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

@@ -69,4 +69,5 @@ Mix cornstarch and water at the right ratio and you get a non-Newtonian fluid â€
 - [Elephant Toothpaste](102-elephant-toothpaste.md)
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

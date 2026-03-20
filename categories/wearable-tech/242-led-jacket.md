@@ -84,6 +84,7 @@ Battery life is the engineering challenge. A full jacket with 150+ LEDs at full 
 - [Motion Capture MIDI Glove](246-motion-capture-glove.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

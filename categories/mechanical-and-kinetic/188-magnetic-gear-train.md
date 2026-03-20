@@ -69,6 +69,7 @@ The effect is hypnotic: two discs floating in space, one driving the other with 
 
 > [!WARNING]
 > **Magnet handling.** Neodymium magnets snap together with surprising force. When installing magnets in alternating polarity, adjacent magnets will try to flip or fly out of your hand into the previous one. Work carefully and keep spare magnets far from the work area.
+
 - **Epoxy curing.** Let epoxy fully cure (24 hours for most types) before testing. A magnet ripping free from a spinning disc becomes a high-speed projectile.
 - **Finger pinch.** The magnetic coupling creates real torque. Don't stick fingers between spinning magnetic gears — they can pinch harder than you'd expect from "non-contact" gears.
 
@@ -78,5 +79,6 @@ The effect is hypnotic: two discs floating in space, one driving the other with 
 - [Musical Marble Machine](181-musical-marble-machine.md) — traditional mechanical gearing taken to artistic extremes
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

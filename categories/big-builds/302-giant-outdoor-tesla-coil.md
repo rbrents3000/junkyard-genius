@@ -197,6 +197,7 @@ demonstration device a human being can build in a garage.
 
 > [!CAUTION]
 > **This build can kill you.** Not hypothetically — the DC bus voltage (340-680V), the primary circuit peak currents (hundreds of amps), and the secondary output (hundreds of thousands of volts) are each independently capable of stopping a human heart. There is no safe way to touch any powered component. Treat the entire system as lethal any time the power supply is plugged into the wall, even if the variac is at zero.
+
 - **Capacitors store lethal charge after power-off.** The bus capacitors and the MMC bank retain dangerous voltage for minutes after unplugging. Bleeder resistors drain them slowly, but slowly isn't the same as safely. After every power-down, wait 60 seconds, then verify zero voltage on the bus caps and MMC with a multimeter before touching anything. Use a shorting stick (insulated handle, grounded probe tip) on each capacitor group as a final step. Make this a ritual. Skip it once and statistics catch up with you.
 - **RF interference destroys electronics.** A DRSSTC at full power radiates intense broadband electromagnetic energy. Phones, laptops, hearing aids, pacemakers, Wi-Fi routers, garage door openers, car key fobs, and LED drivers within range will malfunction or suffer permanent damage. Keep all electronics at least 50 feet away. Anyone with a pacemaker or implanted defibrillator must stay at least 100 feet away — the RF field can cause implanted devices to misfire, pace erratically, or reset.
 - **Fire is a real and immediate risk.** Arcs from the topload reach 6-10 feet and are hot enough to ignite dry grass, leaves, paper, hair, and synthetic clothing on contact. Operate on cleared, non-combustible ground — dirt, concrete, or wet grass at minimum. Remove all combustible material within the arc reach radius plus a generous safety margin. Keep a CO2 or dry-chemical fire extinguisher (never water — not around this much electricity) within arm's reach of the kill switch at all times.
@@ -209,6 +210,7 @@ demonstration device a human being can build in a garage.
 - [Jacob's Ladder](../mad-scientist/034-jacobs-ladder.md) — a simpler high-voltage arc project to cut your teeth on
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

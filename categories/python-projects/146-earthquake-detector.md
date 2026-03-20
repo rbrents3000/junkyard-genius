@@ -68,6 +68,7 @@ Every smartphone contains an accelerometer — a precision sensor that detects m
 - [EMF Ghost Detector](../pi-and-arduino/140-emf-ghost-detector.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

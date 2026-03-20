@@ -64,6 +64,7 @@ The physics is still debated, but the leading explanation involves the rigid lin
 
 > [!WARNING]
 > **Falling chain.** A 50-foot metal chain falling from height has real momentum. Keep people and pets away from the landing zone. The chain end whips around unpredictably as the last links exit the jar.
+
 - **Container breakage.** The chain can scratch or crack glass containers as it whips out. If using a glass jar, accept that it might not survive. Ceramic or metal containers are more durable.
 
 ## 🔗 See Also
@@ -72,5 +73,6 @@ The physics is still debated, but the leading explanation involves the rigid lin
 - [Prince Rupert's Drop](190-prince-ruperts-drop.md) — counterintuitive material science that looks like magic
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

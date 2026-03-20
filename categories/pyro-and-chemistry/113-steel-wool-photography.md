@@ -71,6 +71,7 @@ Steel wool is made of ultra-thin iron strands with massive surface area. Touch a
 - [Cold Spark Machine](104-cold-spark-machine.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

@@ -65,6 +65,7 @@ This technique — called solar projection — was used by astronomers for centu
 
 > [!WARNING]
 > **NEVER look through the telescope at the sun.** This will cause immediate, permanent, painless blindness. The telescope concentrates sunlight by a factor of hundreds — it's worse than looking at the sun with the naked eye. Always project the image onto a screen. Cap or remove the finder scope before aiming anywhere near the sun.
+
 - **Eyepiece heating.** The concentrated sunlight passing through the eyepiece generates significant heat. Don't leave the telescope aimed at the sun for more than a few minutes at a time with cheap plastic eyepieces — they can melt or crack. Metal eyepieces are more durable. If the eyepiece gets hot to the touch, give it a break.
 - **Don't let children look through the telescope.** Even with the projection method set up, children may be tempted to peek through the eyepiece. Supervise closely, or physically block access to the eyepiece end.
 

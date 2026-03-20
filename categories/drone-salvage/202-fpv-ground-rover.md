@@ -74,5 +74,6 @@ Add the drone's obstacle-avoidance sensors and you've got a rover that warns you
 - [Obstacle-Dodging Robot](205-obstacle-dodging-robot.md) — upgrade this rover with autonomous navigation using drone sensors
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

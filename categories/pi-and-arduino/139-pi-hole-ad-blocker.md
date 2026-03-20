@@ -66,4 +66,5 @@ Every ad on every website starts with a DNS lookup — your device asks "what's 
 - [Smart Mirror](123-smart-mirror.md)
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

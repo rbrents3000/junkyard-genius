@@ -83,6 +83,7 @@ A 16x16 grid gives you 256 pixels — enough for text, simple graphics, animatio
 
 > [!WARNING]
 > **Coil winding tedium is real.** 256 coils at 100+ turns each is 25,000+ turns of wire. Budget your time and your patience. Wind in batches, test as you go, and accept that some coils will need to be rewound.
+
 - **Inductive voltage spikes.** Electromagnetic coils produce voltage spikes when switched off rapidly. The H-bridge drivers handle this, but if you're prototyping with bare MOSFETs or transistors, add flyback diodes across every coil or you'll fry your driver ICs. This is not optional.
 - **Soldering volume.** 256 coils, each with 2 connections, plus shift register chains and H-bridge wiring — you're looking at 600+ solder joints. Use proper ventilation, take breaks, and don't rush. A cold solder joint buried in the middle of the grid is extremely annoying to diagnose.
 - **Power supply sizing.** If all 256 coils pulse simultaneously, the current draw spikes hard. Size your power supply with headroom (3-5A at 12V minimum) and add a bulk capacitor (1000uF+) near the driver boards to absorb transient loads.
@@ -93,6 +94,7 @@ A 16x16 grid gives you 256 pixels — enough for text, simple graphics, animatio
 - [Pen Plotter](../printer-and-scanner/072-pen-plotter.md) — mechanical precision meets visual output in a different form factor
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

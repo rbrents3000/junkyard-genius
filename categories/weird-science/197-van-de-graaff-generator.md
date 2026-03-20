@@ -76,6 +76,7 @@ Robert Van de Graaff built the first one in 1929 for nuclear physics research. T
 
 > [!WARNING]
 > **Pacemakers and electronic implants.** Anyone with a pacemaker or similar device should stay well away from the generator. The electric field can interfere with medical electronics.
+
 - **Electronic devices.** The sparks from a Van de Graaff can damage sensitive electronics. Keep phones, laptops, and other devices several feet away during operation. Don't touch the dome and then touch your computer.
 - **Static shock.** While not dangerous to healthy individuals, the sparks are startling and mildly painful. Warn spectators before demonstrations. People with heart conditions should not participate in the hair-raising demo.
 
@@ -85,5 +86,6 @@ Robert Van de Graaff built the first one in 1929 for nuclear physics research. T
 - [Homopolar Motor](198-homopolar-motor.md) — electromagnetism at the other extreme — low voltage, high current
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

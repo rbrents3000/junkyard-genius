@@ -73,6 +73,7 @@ Commercial drones are marvels of engineering — but the core technology isn't t
 - [Nerf Sentry Turret](138-nerf-sentry-turret.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -87,6 +87,7 @@ The applications are surprisingly broad. You can do rapid esterification reactio
 - [Electrolysis Rust Eraser](../household-chemistry/212-electrolysis-rust-eraser.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

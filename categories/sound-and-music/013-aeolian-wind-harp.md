@@ -68,6 +68,7 @@ Named after Aeolus, the Greek god of wind, these instruments date back thousands
 
 > [!WARNING]
 > **Secure it against high winds.** A strong gust can blow a lightweight harp off a window sill or fence. Secure it with clamps, screws, or tie-downs. A harp falling from height can damage property or injure someone below.
+
 - **String tension stores energy.** When stringing or adjusting, a string can snap and whip. Wear eye protection when adjusting tension, and never put your face directly over a string being tightened.
 
 ## 🔗 See Also

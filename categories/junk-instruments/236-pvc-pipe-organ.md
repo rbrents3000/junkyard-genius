@@ -76,6 +76,7 @@ The sound is breathy and warm — more pan flute than cathedral organ — but it
 
 > [!WARNING]
 > **Leaf blower noise.** The blower itself is loud (80-100 dB). Wear hearing protection during extended testing. Consider building an enclosure or baffle around the blower to reduce noise without restricting airflow.
+
 - **PVC dust when cutting.** Cutting PVC generates fine plastic dust. Wear a dust mask and cut outdoors or in a well-ventilated area. Deburr all cut ends.
 - **12V solenoid wiring.** While 12V won't kill you, shorted solenoid wiring can overheat and melt insulation. Use appropriate wire gauge (18 AWG minimum) and fuse the main 12V line.
 
@@ -85,4 +86,5 @@ The sound is breathy and warm — more pan flute than cathedral organ — but it
 - [Plasma Speaker](../sound-and-music/008-plasma-speaker.md) — if you want your music source to be even more dramatic
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

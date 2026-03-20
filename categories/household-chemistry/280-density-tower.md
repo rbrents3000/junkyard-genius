@@ -74,4 +74,5 @@ It's a beautiful physics demonstration that takes 20 minutes to build with ingre
 - [Invisible Ink Message Board](216-invisible-ink-message-board.md) — another kitchen-science visual demonstration
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

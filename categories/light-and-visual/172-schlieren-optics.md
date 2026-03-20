@@ -71,6 +71,7 @@ The setup uses a concave mirror, a point light source, and a razor blade or shar
 
 > [!WARNING]
 > **Razor blades are razor blades.** Handle with care. Mount the blade securely so it can't fall or be bumped into. Keep fingers well clear of the edge during alignment.
+
 - **Open flames and compressed gases.** When using candles or gas cans as test subjects, keep them away from other flammable materials and ensure ventilation. Don't spray compressed gas at the flame — the propellant in many compressed gas cans is flammable.
 
 ## 🔗 See Also
@@ -79,5 +80,6 @@ The setup uses a concave mirror, a point light source, and a razor blade or shar
 - [Camera Obscura Room](175-camera-obscura-room.md) — another optics project that reveals hidden visual phenomena
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

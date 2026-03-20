@@ -79,5 +79,6 @@ The size and speed of the ring depend on two variables: the hole diameter and th
 - [Propane Vortex Cannon](../fire-and-plasma/003-propane-vortex-cannon.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

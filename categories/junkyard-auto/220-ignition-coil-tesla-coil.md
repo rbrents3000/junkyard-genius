@@ -74,5 +74,6 @@ An automotive ignition coil is a step-up transformer designed to convert 12V int
 - [Plasma Speaker](../sound-and-music/008-plasma-speaker.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

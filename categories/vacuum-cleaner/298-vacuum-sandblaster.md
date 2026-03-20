@@ -70,27 +70,38 @@ outdoor tool into something you can use in a garage year-round.
 
 </details>
   canister, 1000W+ preferred *(curbside / e-waste, free)*
+
 - [ ] PVC pipe — 1.5" diameter, about 3 feet total *(hardware store,
   ~$5)*
+
 - [ ] PVC fittings — one tee fitting, one reducer (1.5" to 3/4"), one
   coupling *(hardware store, ~$6)*
+
 - [ ] Siphon tube — 1/4" or 3/8" copper tubing or rigid vinyl tubing,
   about 18 inches *(hardware store, ~$4)*
+
 - [ ] Abrasive media — play sand for general use, aluminum oxide for
   aggressive stripping, glass bead for fine finishing *(hardware store
   / online, ~$5-15 per bag)*
+
 - [ ] Bucket — 5-gallon, serves as the media hopper *(already own or
   hardware store, ~$3)*
+
 - [ ] Nozzle tip — 3/4" to 1/2" PVC reducer or a short length of
   copper pipe *(hardware store, ~$3)*
+
 - [ ] Duct tape + hose clamps — for sealing all joints airtight
   *(hardware store, ~$5)*
+
 - [ ] Wire nuts + heavy-gauge extension cord — for motor wiring
   *(hardware store)*
+
 - [ ] Safety glasses — impact-rated, full seal around eyes *(mandatory,
   ~$8)*
+
 - [ ] Respirator — N95 minimum, P100 half-face strongly preferred
   *(mandatory, ~$15-30)*
+
 - [ ] Heavy work gloves — leather or thick rubber *(mandatory, ~$10)*
 - [ ] Optional: 3/4" plywood, plexiglass sheet, rubber dish gloves —
   for building a blasting cabinet *(hardware store, ~$25-40)*
@@ -182,16 +193,20 @@ outdoor tool into something you can use in a garage year-round.
   irreversible lung scarring — no treatment, no recovery. Wear a P100
   half-face respirator at minimum. If blasting without a cabinet, work
   outdoors with wind at your back. Never blast in a closed garage.
+
 - Abrasive media at velocity shreds skin and destroys eyes. Wear
   impact-rated sealed goggles, heavy gloves, long sleeves, and
   closed-toe shoes. A direct nozzle hit cuts through a cotton shirt.
+
 - The motor runs on mains voltage. Use a GFCI outlet. Keep wiring away
   from accumulated dust — fine abrasive is conductive enough to short
   terminal blocks. Inspect connections before every session.
+
 - Abrasive dust destroys motor bearings. After each session, pull the
   siphon tube out and run the motor dry for 60 seconds to blow grit
   out of the impeller housing. The bearings will eventually fail under
   heavy use — that's fine, it was a free motor.
+
 - Aluminum oxide is far more aggressive than play sand — it punches
   through thin sheet metal in seconds. Test on scrap first. Glass bead
   is gentler but makes finer dust. Same respiratory protection required
@@ -203,5 +218,6 @@ outdoor tool into something you can use in a garage year-round.
 - [Vacuum Leaf Blower](078-vacuum-leaf-blower.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

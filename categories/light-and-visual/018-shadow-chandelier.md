@@ -70,6 +70,7 @@ The beauty is in the math: because light travels in straight lines from a point 
 
 > [!WARNING]
 > **Metal cutting produces hot shards and dust.** Wear safety glasses, gloves, and a dust mask when cutting with the Dremel. Secure the workpiece in a vise or clamp — never hold it freehand while cutting.
+
 - **The bulb inside will generate heat in an enclosed metal sphere.** Use an LED bulb (low heat) rather than halogen (high heat). If the sphere gets too hot to touch, switch to a lower-wattage bulb. Ensure the cord and socket are rated for the bulb's wattage.
 - **Hang securely.** The finished chandelier may weigh several pounds. Use an appropriate ceiling anchor rated for the weight, not just a push-in hook.
 

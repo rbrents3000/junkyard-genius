@@ -68,6 +68,7 @@ The physics: cellophane tape is birefringent — it bends different polarization
 
 > [!WARNING]
 > **Craft knife safety.** When cutting tape shapes with a blade, cut on a cutting mat and keep fingers clear. The glass surface can cause the blade to slip unpredictably.
+
 - **LCD screen disassembly.** If salvaging polarizer film from a broken LCD, the screen may contain mercury (from CCFL backlights in older models). Work in a ventilated area and don't break the backlighting tubes. LED-backlit screens don't have this issue.
 
 ## 🔗 See Also

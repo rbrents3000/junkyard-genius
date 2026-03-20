@@ -79,6 +79,7 @@ The build breaks into two satisfying phases: the physical structure (cutting, fl
 
 > [!WARNING]
 > **Conduit cutting produces sharp edges.** Always deburr cut ends and wear gloves during cutting and assembly. A conduit end can slice skin like a knife.
+
 - **Wind load during construction.** A partially assembled dome is a sail, not a structure. If wind picks up during assembly, stop and stake what you have. A half-built dome can lift and tumble.
 - **Electrical safety.** The Pi and relay module run on low voltage, but the irrigation solenoid may run on 24V AC. Use appropriate waterproof enclosures for all electronics inside the humid greenhouse environment. Keep 120V connections (if any) in GFCI-protected weatherproof boxes.
 
@@ -88,4 +89,5 @@ The build breaks into two satisfying phases: the physical structure (cutting, fl
 - [Weather Balloon Launch](192-weather-balloon-launch.md) — another big build that combines structure and electronics
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

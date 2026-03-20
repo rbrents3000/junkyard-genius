@@ -87,5 +87,6 @@ This is one of the simplest builds in the laser lab — two motors, two mirrors,
 - [Laser Voice Communicator](265-laser-communicator.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

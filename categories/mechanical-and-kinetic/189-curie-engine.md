@@ -69,6 +69,7 @@ Pierre Curie described this temperature threshold in 1895, and it's one of those
 
 > [!WARNING]
 > **Open flame.** The candle is heating metal to over 350 degrees C. Keep flammable materials clear. The nickel rotor itself becomes hot enough to cause burns — don't touch it while running or immediately after.
+
 - **Heated nickel can discolor and become brittle.** After many cycles, the wire or disc at the heating point may develop heat oxidation. This is cosmetic but eventually weakens the material. Replace the rotor if it shows cracks.
 
 ## 🔗 See Also
@@ -77,5 +78,6 @@ Pierre Curie described this temperature threshold in 1895, and it's one of those
 - [Eddy Current Brake](186-eddy-current-brake.md) — another intersection of magnetism and motion with surprising results
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

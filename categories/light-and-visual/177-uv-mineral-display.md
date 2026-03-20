@@ -69,6 +69,7 @@ Building a UV mineral display means collecting fluorescent specimens and mountin
 
 > [!WARNING]
 > **Shortwave UV (254nm) is dangerous.** UVC light at 254nm causes skin burns and eye damage (photokeratitis — essentially sunburn on your corneas). If using a shortwave UV lamp, wear UV-blocking safety glasses and minimize direct skin exposure. Never look directly at a shortwave UV source. Longwave UV (365-395nm) is much safer but can still cause eye discomfort with prolonged direct exposure.
+
 - **Some fluorescent minerals contain toxic elements.** Willemite contains zinc, scheelite contains tungsten, and some uranium-bearing minerals (autunite, torbernite) are mildly radioactive. Wash hands after handling. Don't grind or inhale dust from mineral specimens. Display them, don't eat them.
 
 ## 🔗 See Also

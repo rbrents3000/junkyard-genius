@@ -145,5 +145,6 @@ The critical component is the release valve. A ball valve works but requires a q
 - [Wall-Climbing Robot](076-wall-climbing-robot.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

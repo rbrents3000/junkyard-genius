@@ -67,6 +67,7 @@ The "weird science" angle: you can bend the wire into any shape — a dancer, a 
 
 > [!WARNING]
 > **Battery overheating.** The homopolar motor circuit is essentially a short circuit through very low resistance. The battery will drain fast and can get hot. Run the motor for no more than 30-60 seconds at a time. If the battery gets uncomfortably warm, disconnect immediately and let it cool.
+
 - **Neodymium magnet handling.** Strong magnets snap together with force that can bruise or pinch. Keep spare magnets separated and away from electronics, credit cards, and medical implants.
 - **Mercury (if using advanced version).** Mercury vapor is toxic and cumulative. Only use mercury outdoors or in a fume hood. Wear nitrile gloves. Have a mercury spill kit on hand. Never pour mercury down a drain. If you're not comfortable handling mercury safely, skip this variant entirely.
 
@@ -76,5 +77,6 @@ The "weird science" angle: you can bend the wire into any shape — a dancer, a 
 - [Van de Graaff Generator](197-van-de-graaff-generator.md) — electromagnetism at the other extreme: high voltage, zero current
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

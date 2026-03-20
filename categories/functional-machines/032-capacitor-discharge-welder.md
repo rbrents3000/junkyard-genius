@@ -75,5 +75,6 @@ Microwave oven capacitors are large, high-voltage, and available for free from d
 - [DIY Powerwall](../power-and-energy/052-diy-powerwall.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

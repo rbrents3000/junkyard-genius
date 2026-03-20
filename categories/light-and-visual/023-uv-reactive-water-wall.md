@@ -71,6 +71,7 @@ The glow is genuine fluorescence — the dye molecules absorb UV photons and emi
 
 > [!WARNING]
 > **Fluorescein and optical brighteners are generally non-toxic but can stain.** Fluorescein in particular will stain clothing, countertops, and grout bright yellow-green. Work over a drop cloth during setup. Wear old clothes. If it gets on skin, it washes off with soap and water but may take a few washes.
+
 - **UV LEDs can irritate eyes with prolonged direct exposure.** Don't stare directly into the LED strips. Position them so the UV light hits the water, not viewers' eyes. 395-405nm LEDs (near-UV) are safer than shorter wavelength UV, but extended direct exposure is still inadvisable.
 - **Water + electricity.** Make sure all electrical connections (pump, LED strips, power supply) are properly insulated and positioned so splashes can't reach them. Use a GFCI outlet. Keep the power supply well above the water level.
 
@@ -80,5 +81,6 @@ The glow is genuine fluorescence — the dye molecules absorb UV photons and emi
 - [Infinity Mirror Table](016-infinity-mirror-table.md) — another LED-based installation that transforms a space
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

@@ -199,6 +199,7 @@ addition. The container arrives structurally complete — you're just making it 
 
 > [!WARNING]
 > **Ventilation is critical in a sealed steel box.** Running a gas engine, propane heater, or even certain adhesives in an unventilated container can produce lethal CO concentrations in minutes. The exhaust fan is not optional. If you weld or use solvents, open the cargo doors fully and run the fan simultaneously. The CO detector is your last line of defense, not your first.
+
 - **Electrical work in a metal structure requires extra care.** The entire container shell is a grounded conductor. Your electrical system must be properly grounded and bonded to the container. Any hot wire touching the steel wall creates a fault that energizes the entire structure. Use GFCI protection on all circuits. Test your ground bond with a meter after installation.
 - **Cutting steel produces sparks, sharp edges, and dangerous noise levels.** Wear a full face shield (not just safety glasses), hearing protection rated for 100+ dB, leather gloves, and long sleeves when grinding. Deburr every cut edge immediately with a flap disc — fresh-cut corrugated steel will slice through a leather glove without slowing down.
 - **Container floors may contain pesticide residue.** Marine containers are routinely fumigated with methyl bromide or phosphine. Wear a P100 respirator while cleaning the interior for the first time. If the floor smells chemical or your eyes burn, ventilate aggressively for several days before working inside. Sealing the floor with epoxy before installing mats adds a barrier layer.
@@ -210,6 +211,7 @@ addition. The container arrives structurally complete — you're just making it 
 - [Ham Radio from Scratch](193-ham-radio-from-scratch.md) — fill your new workshop with a project the day it's finished
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 

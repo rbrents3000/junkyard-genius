@@ -64,6 +64,7 @@ The pipe isn't magnetic. The magnet isn't touching the walls. There's no frictio
 
 > [!WARNING]
 > **Neodymium magnets are dangerously strong.** Two magnets snapping together can pinch skin hard enough to draw blood or crush fingertips. Handle with care and keep them away from small children, credit cards, and electronics.
+
 - **Magnet ingestion is life-threatening.** If you're building this with kids, never let them handle small magnets unsupervised. Two swallowed magnets can pinch through intestinal walls and require emergency surgery.
 
 ## 🔗 See Also
@@ -72,5 +73,6 @@ The pipe isn't magnetic. The magnet isn't touching the walls. There's no frictio
 - [Chain Fountain](184-chain-fountain.md) — another "that can't be real" physics demo
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

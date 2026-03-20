@@ -79,6 +79,7 @@ The ingredients are shockingly accessible. Iron oxide is literally rust — you 
 - [Chemical Trigger Color Bombs](228-chemical-trigger-color-bombs.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

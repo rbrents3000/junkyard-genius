@@ -71,6 +71,7 @@ This is the same physics as the Eddy Current Brake (#186), but explored as a sta
 
 > [!WARNING]
 > **Strong neodymium magnets are a pinch hazard.** Two magnets snapping together, or a magnet snapping to a steel surface, can crush skin, bruise fingers, and crack the magnet itself (sending sharp fragments flying). Handle one magnet at a time and keep extras in separate containers.
+
 - **Keep magnets away from electronics.** Neodymium magnets can wipe magnetic storage media, damage screens, and interfere with pacemakers. Maintain a 3-foot buffer from laptops, phones, credit cards, and anyone with medical implants.
 
 ## 🔗 See Also
@@ -79,5 +80,6 @@ This is the same physics as the Eddy Current Brake (#186), but explored as a sta
 - [Homopolar Motor](198-homopolar-motor.md) — another demonstration of the intimate relationship between current and magnetic fields
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

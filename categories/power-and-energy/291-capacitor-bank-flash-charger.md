@@ -95,5 +95,6 @@ This is a building block more than a finished product. The capacitor bank itself
 - [Coil Gun](../mad-scientist/037-coil-gun.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

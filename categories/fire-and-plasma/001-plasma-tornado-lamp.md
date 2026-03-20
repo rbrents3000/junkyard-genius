@@ -77,6 +77,7 @@ The key insight is that plasma follows airflow. By evacuating most of the air fr
 
 > [!CAUTION]
 > **MOTs can kill you.** The secondary outputs around 2,000V at high current — enough to stop your heart. Never touch any exposed conductor while the unit is powered. Always use one hand only (keep the other in your pocket) and stand on a rubber mat. Wire a kill switch within arm's reach.
+
 - **Glass under vacuum can implode.** Use thick-walled vessels only. Wear safety glasses during testing. If the glass has any chips or cracks, discard it — vacuum stress will find weak points.
 - **UV radiation.** Plasma discharges in certain gases produce UV. Don't stare at it for extended periods without UV-filtering glass, and don't leave skin exposed to it at close range for long sessions.
 
@@ -86,5 +87,6 @@ The key insight is that plasma follows airflow. By evacuating most of the air fr
 - [Giant Plasma Globe](../light-and-visual/015-giant-plasma-globe.md) — similar concept but spherical
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

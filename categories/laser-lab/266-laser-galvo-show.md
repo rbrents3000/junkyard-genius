@@ -90,6 +90,7 @@ This is one of those builds where the result is wildly disproportionate to the c
 - [Laser Voice Communicator](265-laser-communicator.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

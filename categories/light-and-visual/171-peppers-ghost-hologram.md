@@ -65,6 +65,7 @@ Your brain can't tell that the image is a reflection — it interprets it as a r
 
 > [!WARNING]
 > **Glass edges are sharp.** If using picture frame glass or window pane, tape the edges with duct tape or electrical tape. Handling large sheets of glass is a two-person job — it's easy to drop and shatter.
+
 - **Don't use this to scare anyone with a heart condition.** A convincing Pepper's Ghost in a dark room is legitimately startling. Give a warning before showing it to anyone who might not handle a surprise well.
 
 ## 🔗 See Also

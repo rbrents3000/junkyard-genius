@@ -76,6 +76,7 @@ A traditional firework mortar uses a black powder lift charge to hurl a shell sk
 - [MOT-Ignited Firework Mortar](227-mot-ignited-firework-mortar.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

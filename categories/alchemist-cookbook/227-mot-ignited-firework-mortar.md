@@ -73,6 +73,7 @@ Professional fireworks shows use electric igniters (e-matches) wired to a sequen
 - [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Chemicals Reference](../../docs/reference/chemicals.md)

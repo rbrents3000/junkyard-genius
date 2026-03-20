@@ -69,6 +69,7 @@ This is the core technology behind professional laser light shows, stripped down
 
 > [!WARNING]
 > **Never aim a laser at people's eyes.** Even a 5mW laser pointer can cause permanent retinal damage with direct exposure. Keep the beam path above head height or below eye level. Never point it at aircraft — this is a federal crime in most countries.
+
 - **Fog machines use heated glycol.** The nozzle gets extremely hot. Don't touch it during or immediately after operation. Keep the fog machine upright and away from water or conductive surfaces. Use fog machine fluid, not substitutes.
 
 ## 🔗 See Also
@@ -77,5 +78,6 @@ This is the core technology behind professional laser light shows, stripped down
 - [Holographic Fan Display](022-holographic-fan-display.md) — another way to create floating visual effects
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

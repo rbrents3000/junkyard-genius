@@ -87,6 +87,7 @@ The effect is genuinely dramatic. Cold fog behaves like a fluid — it pools in 
 - [Nebula Lamp](087-nebula-lamp.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

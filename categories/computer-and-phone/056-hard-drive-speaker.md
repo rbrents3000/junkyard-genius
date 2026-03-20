@@ -70,5 +70,6 @@ A hard drive's read/write head moves using a voice coil actuator — the exact s
 - [Hard Drive POV Clock](057-hard-drive-pov-clock.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

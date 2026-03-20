@@ -80,6 +80,7 @@ Now multiply that by six. Mount 3-6 modified CRTs in a grid on a wall, each rece
 
 > [!CAUTION]
 > **CRT flyback transformers operate at 15,000-25,000 volts.** This is a lethal voltage at sufficient current to stop a human heart. Even unplugged, CRTs store charge in the anode capacitor for days or weeks. Always discharge the tube before touching anything inside the case. Never work alone. Never reach inside a powered CRT. Keep one hand in your pocket when probing near high-voltage sections. If you haven't worked with high voltage before, practice the discharge procedure on a small TV before scaling up.
+
 - **The CRT is a vacuum tube.** If the glass envelope is cracked or broken, it will implode violently, scattering glass shards. Never strike, drop, or apply pressure to the tube face or neck. Wear safety glasses whenever the case is off. If a tube has visible damage, do not power it on — dispose of it at an e-waste facility.
 - **CRTs contain lead and phosphor compounds.** Don't sand, grind, or break phosphor-coated glass. If a tube breaks, ventilate the area and clean up with wet methods (damp paper towels, not a vacuum or broom). Wash hands thoroughly after handling CRT internals.
 - **Weight.** A wall of CRTs is extremely heavy. Over-engineer your mounting. If a bracket fails and an 80-pound TV falls off the wall, it's a serious injury risk. Use wall studs, not drywall anchors.
@@ -90,5 +91,6 @@ Now multiply that by six. Mount 3-6 modified CRTs in a grid on a wall, each rece
 - [Hard Drive POV Clock](../computer-and-phone/057-hard-drive-pov-clock.md) — another persistence-of-vision display from salvaged parts
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

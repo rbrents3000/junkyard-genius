@@ -68,4 +68,5 @@ Sodium acetate can be dissolved in hot water far beyond its normal saturation po
 - [Gallium Melting Spoon](106-gallium-melting-spoon.md)
 
 **References:**
+
 - [Chemicals Reference](../../docs/reference/chemicals.md)

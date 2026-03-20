@@ -67,5 +67,6 @@ A reciprocating saw (Sawzall) makes 2,500-3,000 strokes per minute with consider
 - [Circular Saw Table Saw](082-circular-saw-table-saw.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

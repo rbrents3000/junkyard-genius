@@ -92,5 +92,6 @@ The applications are genuinely surprising. Fuse glass — layer pieces of dichro
 - [Waffle Iron Heat Press](264-waffle-iron-press.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

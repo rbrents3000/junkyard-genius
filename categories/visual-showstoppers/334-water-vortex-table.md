@@ -76,6 +76,7 @@ People will sit on your couch and stare at this thing for twenty minutes straigh
 
 > [!WARNING]
 > **Water and electricity coexist here — respect the boundary.** The pump is submersible and designed for water contact, but all other electrical connections (LEDs, controller, power supply) must stay dry and outside the water path. Use GFCI-protected outlets. Silicone-seal every wire pass-through.
+
 - Check seals periodically. A slow leak inside a wooden table frame leads to mold and rot before you notice the water level dropping. Clear finishes on the wood help, but the real defense is proper silicone sealing on every joint.
 - Distilled water inhibits algae growth, but over months you may see buildup. Add a tiny amount of aquarium algaecide or a few drops of hydrogen peroxide to keep the water crystal clear. Plan for occasional drain-and-refill access.
 
@@ -85,4 +86,5 @@ People will sit on your couch and stare at this thing for twenty minutes straigh
 - [Fog Waterfall Table](../humidifier-and-water/086-fog-waterfall-table.md) — similar table concept but with cascading fog instead of water
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)

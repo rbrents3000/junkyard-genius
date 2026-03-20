@@ -90,4 +90,5 @@ This build wraps that plasma speaker in a decorative glass lamp housing — a ma
 - [Jacob's Ladder](../mad-scientist/034-jacobs-ladder.md)
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

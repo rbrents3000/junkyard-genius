@@ -64,6 +64,7 @@ It's the perfect gateway build — zero tools required, impossible to mess up, a
 
 > [!WARNING]
 > **Battery heating.** This circuit draws high current and will drain and heat the battery quickly. Don't leave it running for more than a minute or two. If the battery gets hot to the touch, disconnect immediately.
+
 - **Neodymium magnets.** Strong magnets near batteries and metal objects can snap together violently. Keep fingers clear of pinch points.
 
 ## 🔗 See Also
@@ -72,5 +73,6 @@ It's the perfect gateway build — zero tools required, impossible to mess up, a
 - [Magnetic Gear Train](188-magnetic-gear-train.md) — magnets creating motion through a different mechanism
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

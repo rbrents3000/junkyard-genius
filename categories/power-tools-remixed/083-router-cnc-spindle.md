@@ -68,5 +68,6 @@ A CNC spindle is a high-speed motor with a collet that holds cutting bits. Comme
 - [Hand Drill Press](080-hand-drill-press.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

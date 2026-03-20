@@ -76,6 +76,7 @@ The key upgrade over a store-bought slip-and-slide is the raised launch ramp (3-
 
 > [!WARNING]
 > **Spinal injuries are the real risk.** Diving headfirst onto a water slide can cause neck and spinal injuries if the surface isn't properly padded and lubricated. Enforce a feet-first or belly-first rule. No headfirst diving.
+
 - **Deceleration zone is non-negotiable.** A 150-pound human sliding at 20+ mph into a hard surface can cause serious injury. The splash pool and hay bales must be positioned to give riders at least 10 feet of deceleration distance. Test at low speed first.
 - **Drowning risk.** If using a deep splash pool, never operate without a spotter. Kids can get disoriented after a fast slide and end up face-down in even shallow water.
 

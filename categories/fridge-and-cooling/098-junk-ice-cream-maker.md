@@ -69,5 +69,6 @@ An electric ice cream maker built from salvaged parts. A small motor (from a dea
 - [Peltier Portable Cooler](096-peltier-portable-cooler.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

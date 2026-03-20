@@ -76,6 +76,7 @@ The magic is in the programming wheel — a large rotating cylinder with adjusta
 
 > [!WARNING]
 > **Pinch hazard.** Gears, chains, and sprockets will grab fingers without hesitation. Keep hands clear of the drive mechanism while operating, and add a guard cover over exposed chain runs.
+
 - **Flying marbles.** During testing, marbles will occasionally launch off ramps at unexpected angles. Wear safety glasses until all the channels are dialed in.
 - **Heavy frame.** The completed machine can weigh 30+ pounds and is top-heavy. Bolt it to a table or add a wide base to prevent tipping.
 
@@ -85,5 +86,6 @@ The magic is in the programming wheel — a large rotating cylinder with adjusta
 - [Magnetic Gear Train](188-magnetic-gear-train.md) — contactless gear meshing for when you want motion without friction
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

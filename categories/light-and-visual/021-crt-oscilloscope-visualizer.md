@@ -69,6 +69,7 @@ This is essentially what an oscilloscope does, but on a much larger screen and w
 
 > [!WARNING]
 > **CRTs store lethal charge.** The anode can hold 25,000V+ for months after unplugging. Step 1 (discharge) is not optional — skipping it can kill you. Always discharge multiple times and verify with a multimeter if possible. If you're not comfortable with high-voltage electronics, find someone experienced to help.
+
 - **Don't break the CRT.** The tube is under vacuum. A broken CRT implodes violently, throwing glass shrapnel. Handle the TV carefully. Don't drop it, don't hit the tube, and don't remove the tube from the housing unless you know what you're doing.
 - **The CRT produces X-rays at high voltage.** This is normal and the leaded glass of the tube shields it, but don't remove the tube from its housing and operate it bare. Keep the shielding intact.
 

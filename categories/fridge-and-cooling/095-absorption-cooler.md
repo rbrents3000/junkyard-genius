@@ -74,5 +74,6 @@ Every fridge you've ever seen uses a compressor — an electric motor that press
 - [Fermentation Chamber](092-fermentation-chamber.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

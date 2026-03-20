@@ -79,6 +79,7 @@ Seal ferrofluid in a flat, transparent chamber and you've got a permanent, mess-
 
 > [!WARNING]
 > **Ferrofluid stains permanently.** It's magnetite nanoparticles in oil. It will stain skin (temporary), clothing (permanent), wood (permanent), and countertops (permanent). Work over disposable coverings. Wear gloves and old clothes during assembly. Keep paper towels within reach. If it gets on something valuable, you're too late.
+
 - **Neodymium magnet safety.** Large neodymium magnets (N52 grade especially) snap together with enough force to break fingers. They shatter on impact, sending sharp fragments flying. Handle one at a time, store them in separate padded containers, and keep them away from anyone with pacemakers or other implanted medical devices.
 - **Glass breakage.** If using real glass (not acrylic), the viewer can shatter if dropped, releasing ferrofluid onto whatever surface it hits. Acrylic is safer but scratches more easily. If you build with glass, consider wrapping the edges with a bumper of rubber or silicone tubing.
 
@@ -88,5 +89,6 @@ Seal ferrofluid in a flat, transparent chamber and you've got a permanent, mess-
 - [Lenz's Law Slow-Mo Magnet](199-lenzs-law-slow-mo-magnet.md) — invisible magnetic fields made visible through their braking force on falling magnets
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

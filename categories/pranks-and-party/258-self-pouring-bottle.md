@@ -85,5 +85,6 @@ This build combines the elegance of a stage magic prop with the accessibility of
 - [Fake Security Camera That Roasts You](257-insult-camera.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

@@ -68,6 +68,7 @@ NASA left retroreflector arrays on the Moon during the Apollo missions. Scientis
 
 > [!WARNING]
 > **Laser pointer safety.** The laser beam returns directly to the source — which means directly toward your eyes. Aim the laser slightly off-axis from your face. Never look directly along the laser beam toward the reflector. Use low-power (Class 2, under 5mW) lasers only.
+
 - **Glass mirror edges are sharp.** Handle cut mirrors carefully. Tape the edges of each mirror tile before assembly to prevent cuts. Wear gloves when cutting or handling glass.
 
 ## 🔗 See Also

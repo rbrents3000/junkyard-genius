@@ -191,25 +191,30 @@ ultrasonically clean things that don't need cleaning.
   properly insulated, grounded, and well away from water splash zones. Use a GFCI
   outlet. A short circuit in a tank full of conductive cleaning solution is a
   serious electrocution hazard — this is not theoretical.
+
 - Do not put your hands in the tank while the ultrasonics are running. Brief contact
   is harmless, but prolonged exposure to cavitation (more than a few seconds) causes
   subcutaneous tissue damage — tiny blood vessels burst under the skin. It doesn't
   hurt immediately, which is exactly what makes it dangerous. Use the basket or tongs.
+
 - Some cleaning solutions produce irritating or toxic fumes when agitated
   ultrasonically. TSP, commercial degreasers, and acidic solutions all off-gas more
   aggressively under cavitation than they would sitting still. Work in a ventilated
   area or outdoors. Never use volatile solvents (acetone, gasoline, alcohol) in an
   ultrasonic bath — the cavitation accelerates evaporation and can create explosive
   vapor concentrations in seconds.
+
 - Drain and replace the cleaning solution regularly. Used solution contains dissolved
   contaminants — lead from old solder, heavy metals from brass, carbon particles
   from engine parts. Dispose of contaminated solutions properly, not down the sink
   drain. Your local hazardous waste facility handles this.
+
 - Ultrasonic transducers are loud. The 40kHz fundamental is above human hearing, but
   subharmonics and mechanical resonances produce an audible high-pitched whine that
   ranges from annoying to painful depending on the enclosure acoustics. Prolonged
   exposure is genuinely harmful. Wear hearing protection for long cleaning sessions,
   or build the lid described in step 12.
+
 - Don't clean soft gemstones (opals, pearls, emeralds), coated lenses, or anything
   with loose glued joints. Cavitation shakes things apart. Test on non-precious items
   first. Grandmother's ring can wait until you've confirmed the power level is
@@ -223,5 +228,6 @@ ultrasonically clean things that don't need cleaning.
 - [Nebula Lamp](087-nebula-lamp.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

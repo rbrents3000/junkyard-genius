@@ -72,6 +72,7 @@ The objects literally float in mid-air with no visible support. You can levitate
 
 > [!WARNING]
 > **Ultrasound at high power can cause discomfort.** While 40 kHz is above hearing range, high-power ultrasonic fields can cause headaches, nausea, or ear discomfort in some people, especially at harmonic frequencies that are within hearing range. If you feel discomfort, reduce the power or add shielding.
+
 - **Keep the transducer arrays aligned.** Misaligned arrays produce unpredictable standing wave patterns. Secure the mounting hardware so nothing shifts during operation.
 
 ## 🔗 See Also
@@ -80,6 +81,7 @@ The objects literally float in mid-air with no visible support. You can levitate
 - [Schlieren Optics](../light-and-visual/172-schlieren-optics.md) — visualize the sound waves themselves instead of levitating objects in them
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -81,6 +81,7 @@ The spinning ferrofluid sits in a shallow glass dish on a custom-wound stator. T
 - [Levitating Plasma Speaker](055-levitating-plasma-speaker.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -72,4 +72,5 @@ An 8x8x8 LED cube is 512 LEDs soldered into a three-dimensional grid, each indiv
 - [MIDI Stepper Organ](135-midi-stepper-organ.md)
 
 **References:**
+
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

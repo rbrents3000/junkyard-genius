@@ -70,6 +70,7 @@ OpenCV's face detection identifies faces in webcam frames in real time. Map the 
 - [AI Doorbell](../pi-and-arduino/130-ai-doorbell.md)
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)
 - [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -75,6 +75,7 @@ The principle is identical to a store-bought plasma globe: a central electrode d
 
 > [!CAUTION]
 > **MOTs are lethal.** The same warnings from every MOT project apply — 2,000V+ at lethal current. Never touch anything on the high-voltage side while powered. Use a remote kill switch. Work on a rubber mat. One hand rule.
+
 - **Glass under vacuum can implode.** Use only thick, undamaged glass. Wear safety glasses during initial testing. If you hear any cracking sounds, kill power and evacuate the area — an imploding glass sphere throws shrapnel.
 - **UV and ozone.** The plasma discharge produces UV light and ozone. Don't stare at bright tendrils for extended periods. Ventilate the room if you run it for more than 10-15 minutes at a time.
 
@@ -84,5 +85,6 @@ The principle is identical to a store-bought plasma globe: a central electrode d
 - [Plasma Speaker](../sound-and-music/008-plasma-speaker.md) — plasma that plays music
 
 **References:**
+
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

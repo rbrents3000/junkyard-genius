@@ -80,6 +80,7 @@ The build is mostly carpentry and plumbing with some basic electrical. The physi
 
 > [!WARNING]
 > **Dry ice alternative:** If you test with dry ice before the compressor is set up, always handle dry ice with insulated gloves. Bare-skin contact causes instant frostbite. Use it in a ventilated area — sublimating CO2 displaces oxygen in enclosed spaces.
+
 - **Isopropyl alcohol is flammable.** 99% IPA has a low flash point. Keep it away from open flames, hot surfaces, and sparks. The sealed chamber contains the vapor safely during operation, but be careful during filling — don't fill the chamber near the running compressor's electrical contacts.
 - **Refrigerant handling.** If you're brazing copper tubing onto a charged refrigerant system, vent and recover the refrigerant first. Breathing refrigerant vapor directly can cause cardiac arrhythmia. Work in ventilation.
 - **Glass panels.** Tempered glass is preferred — if it breaks, it crumbles into small pieces instead of large shards. If using plate glass, handle with cut-resistant gloves and edge-tape any exposed edges.

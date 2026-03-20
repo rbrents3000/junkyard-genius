@@ -68,6 +68,7 @@ The physics is the same as a real tornado — angular momentum concentrates the 
 
 > [!WARNING]
 > **Keep the fire tornado away from overhead flammables.** The flame column can easily reach 3 feet tall and sometimes throws sparks. Do this outdoors or under a high, non-flammable ceiling. Not under a canopy, tree, or garage ceiling.
+
 - **The spinning mesh can throw embers outward.** Clear the area around the device of paper, dry leaves, and other tinder. Keep a fire extinguisher or water bucket within reach.
 - **Gel fuel and rubbing alcohol spills are hard to see when burning.** If the fuel container tips, you'll have an invisible alcohol fire spreading across the table. Use a stable, weighted fuel container that can't tip over, and keep the gel fuel can in a wider metal dish as secondary containment.
 
