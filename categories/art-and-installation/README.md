@@ -57,10 +57,3 @@ Start with accessible art pieces and build toward complex kinetic installations:
 - [Mechanical & Kinetic](../mechanical-and-kinetic/) — Moving parts and motion physics
 - [Sound & Music](../sound-and-music/) — When art responds to sound
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

@@ -55,11 +55,3 @@ Start with controlled fire and work toward high-energy plasma:
 - [Mad Scientist](../mad-scientist/) — More high-voltage extremes
 - [Pyro & Chemistry](../pyro-and-chemistry/) — Chemical fire and reactions
 
----
-
-## 📚 Reference Guides
-
-- Appliance Teardown Guide
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

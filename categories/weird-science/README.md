@@ -55,10 +55,3 @@ Start with accessible demos and work toward advanced instrumentation:
 - [Light & Visual](../light-and-visual/) — Optics, lasers, and visual phenomena
 - [Art & Installation](../art-and-installation/) — When science becomes art
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

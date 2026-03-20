@@ -57,11 +57,3 @@ Start with the simplest motor repurposing, end with the crowd-pleaser:
 - [Pranks & Party](../pranks-and-party/) — Party builds powered by air pressure
 - [Weird Science](../weird-science/) — Aerodynamics and physics demonstrations
 
----
-
-## 📚 Reference Guides
-
-- Appliance Teardown Guide
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

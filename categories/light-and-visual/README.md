@@ -77,10 +77,3 @@ Start with passive optics, progress toward motorized displays:
 - [Mad Scientist](../mad-scientist/) — Plasma and electrical discharge effects
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — LED control and POV displays
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

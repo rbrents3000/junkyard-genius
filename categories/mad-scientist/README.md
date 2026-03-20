@@ -61,10 +61,3 @@ Start with kitchen physics, progress toward electromagnetic weapons:
 - [Light & Visual](../light-and-visual/) — Plasma and electrical discharge visualization
 - [Junkyard Auto](../junkyard-auto/) — Ignition coil and high-voltage automotive salvage
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

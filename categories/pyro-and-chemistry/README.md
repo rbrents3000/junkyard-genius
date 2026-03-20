@@ -81,11 +81,3 @@ Start with single-reaction spectacles, progress toward multi-component builds:
 - [Light & Visual](../light-and-visual/) — UV displays and luminescent materials
 - [Household Chemistry](../household-chemistry/) — Kitchen-scale experiments using similar reagents
 
----
-
-## 📚 Reference Guides
-
-- Accessible Chemicals Guide
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

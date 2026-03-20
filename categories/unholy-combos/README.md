@@ -57,10 +57,3 @@ These are endgame builds — each one assumes mastery of its component categorie
 - [Fire & Plasma](../fire-and-plasma/) — High-temperature and plasma components
 - [Sound & Music](../sound-and-music/) — Audio-reactive builds and speaker physics
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

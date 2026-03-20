@@ -75,11 +75,3 @@ Start with instant spectacles, progress toward electrochemistry:
 - [Mad Scientist](../mad-scientist/) — Scaling up household experiments
 - [Alchemist Cookbook](../alchemist-cookbook/) — Crossover builds with electronics and energy
 
----
-
-## 📚 Reference Guides
-
-- Accessible Chemicals Guide
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

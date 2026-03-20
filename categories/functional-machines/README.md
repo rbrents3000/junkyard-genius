@@ -59,10 +59,3 @@ Start with simple motor reuse, progress toward full vehicle builds:
 - [Junkyard Auto](../junkyard-auto/) — Vehicle assembly and power transmission
 - [Power & Energy](../power-and-energy/) — Battery systems and power distribution
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

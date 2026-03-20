@@ -57,10 +57,3 @@ Start with low-danger energy harvesting and work toward high-capacity storage:
 - [Scooter & Motor](../scooter-and-motor/) — Motors as generators and energy conversion
 - [Survival & Off-Grid](../survival-off-grid/) — Solar, wind, and off-grid power systems
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

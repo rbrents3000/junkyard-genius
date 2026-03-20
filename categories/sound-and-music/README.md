@@ -55,10 +55,3 @@ Start with simple acoustic physics and build toward high-voltage audio:
 - [Junk Instruments](../junk-instruments/) — Playable instruments from salvage
 - [Art & Installation](../art-and-installation/) — When sound becomes visual art
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

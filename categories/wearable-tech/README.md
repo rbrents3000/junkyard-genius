@@ -57,11 +57,3 @@ Start with visual impact, progress toward biofeedback:
 - [Pi & Arduino](../pi-and-arduino/) — Microcontroller fundamentals
 - [Computer & Phone](../computer-and-phone/) — Mobile device integration
 
----
-
-## 📚 Reference Guides
-
-- Electronics & Microcontrollers
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

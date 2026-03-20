@@ -56,11 +56,3 @@ Start with a single transducer and scale up:
 - [Light & Visual](../light-and-visual/) — LED-enhanced fog and mist displays
 - [Survival & Off-Grid](../survival-off-grid/) — Water harvesting and off-grid systems
 
----
-
-## 📚 Reference Guides
-
-- Appliance Teardown Guide
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

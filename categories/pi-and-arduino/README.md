@@ -81,11 +81,3 @@ Start with software-only projects, progress toward complex robotics:
 - [Mechanical & Kinetic](../mechanical-and-kinetic/) — Motor control and robotic actuators
 - [Light & Visual](../light-and-visual/) — LED displays and POV projects
 
----
-
-## 📚 Reference Guides
-
-- Electronics & Microcontrollers
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

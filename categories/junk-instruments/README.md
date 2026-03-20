@@ -56,10 +56,3 @@ Start with pure percussion, progress toward tuned instruments:
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — MIDI and stepper motor music (#135)
 - [Mechanical & Kinetic](../mechanical-and-kinetic/) — Musical marble machine and rhythm-based kinetic art
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

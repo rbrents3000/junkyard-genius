@@ -57,10 +57,3 @@ Start simple, escalate the chaos:
 - [Light & Visual](../light-and-visual/) — Visual tricks and illusions
 - [Pi & Arduino](../pi-and-arduino/) — More interactive electronics
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

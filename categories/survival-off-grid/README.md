@@ -57,10 +57,3 @@ Start with the simplest survival builds and progress toward self-sufficiency:
 - [Humidifier & Water](../humidifier-and-water/) — Water collection and purification
 - [Big Builds](../big-builds/) — Large-scale off-grid infrastructure
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

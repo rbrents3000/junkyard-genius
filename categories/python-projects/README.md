@@ -71,12 +71,3 @@ Start with sensor basics, progress toward machine learning:
 - [Computer & Phone](../computer-and-phone/) — Webcam and phone sensor integration
 - [Laser Lab](../laser-lab/) — Laser engraving and optical sensing with Python control
 
----
-
-## 📚 Reference Guides
-
-- Electronics & Microcontrollers
-- Python Libraries
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

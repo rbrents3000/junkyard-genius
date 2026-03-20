@@ -71,12 +71,3 @@ Start with kitchen chemistry demos, progress toward precision fabrication:
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Electrochemical sensing and control
 - [Alchemist Cookbook](../alchemist-cookbook/) — Advanced chemistry-electronics crossovers
 
----
-
-## 📚 Reference Guides
-
-- Accessible Chemicals Guide
-- Electronics & Microcontrollers
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

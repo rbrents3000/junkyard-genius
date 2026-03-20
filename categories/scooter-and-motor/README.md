@@ -54,11 +54,3 @@ Start with simple motor repurposing, then tackle power electronics:
 - [Power & Energy](../power-and-energy/) — Motors as generators and energy systems
 - [Drone Salvage](../drone-salvage/) — Brushless motor applications and ESC programming
 
----
-
-## 📚 Reference Guides
-
-- Appliance Teardown Guide
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

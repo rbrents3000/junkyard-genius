@@ -53,10 +53,3 @@ This category is for builds that demand real space, real time, and real commitme
 - [Mad Scientist](../mad-scientist/) — More high-voltage and physics projects
 - [Survival & Off-Grid](../survival-off-grid/) — Off-grid infrastructure builds
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

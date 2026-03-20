@@ -55,11 +55,3 @@ Every one of these appliances was designed to do one thing. Every one of them ca
 - [Chemical + Electronic](../chemical-electronic/) — Electroplating and etching at larger scale
 - [Pyro & Chemistry](../pyro-and-chemistry/) — When heat gets serious
 
----
-
-## 📚 Reference Guides
-
-- Appliance Teardown Guide
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

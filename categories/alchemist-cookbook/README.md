@@ -67,11 +67,3 @@ Start with simple chemistry spectacles, progress toward extreme electromagnetic 
 - [Fire & Plasma](../fire-and-plasma/) — Thermal phenomena and high-temperature builds
 - [Mad Scientist](../mad-scientist/) — Complex multi-domain experiments
 
----
-
-## 📚 Reference Guides
-
-- Accessible Chemicals Guide
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

@@ -55,10 +55,3 @@ Start with simple optics, progress toward precision laser systems:
 - [Mad Scientist](../mad-scientist/) — High-energy physics experiments
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Galvo control and signal generation
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

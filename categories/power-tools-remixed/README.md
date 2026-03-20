@@ -55,10 +55,3 @@ These builds don't destroy the tool — you can always swap back to the original
 - [Junkyard Auto](../junkyard-auto/) — Automotive motor repurposing
 - [Big Builds](../big-builds/) — When your workshop project IS the workshop
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

@@ -61,10 +61,3 @@ Start with the most accessible, build toward the most complex:
 - [Mechanical & Kinetic](../mechanical-and-kinetic/) — Moving parts and chain reactions
 - [Weird Science](../weird-science/) — Physics demonstrations and scientific instruments
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

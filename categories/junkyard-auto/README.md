@@ -57,11 +57,3 @@ Start with simple motor reuse, progress toward vehicle builds:
 - [Power & Energy](../power-and-energy/) — Alternator generation and energy conversion
 - [Functional Machines](../functional-machines/) — Workshop tools and vehicle builds
 
----
-
-## 📚 Reference Guides
-
-- Appliance Teardown Guide
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

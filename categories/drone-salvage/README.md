@@ -59,11 +59,3 @@ Start with simple motor reuse, progress toward autonomous systems:
 - [Functional Machines](../functional-machines/) — Motor-driven tools and equipment
 - [Scooter & Motor](../scooter-and-motor/) — Brushless motor applications and ESC programming
 
----
-
-## 📚 Reference Guides
-
-- Appliance Teardown Guide
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

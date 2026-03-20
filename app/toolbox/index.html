@@ -135,7 +135,7 @@
     <a class="cta" href="../browse/">Browse All Builds</a>
   </div>
   <div class="footer">
-    <a href="../../">Junkyard Genius</a> &mdash; 338 builds &middot; 33 categories &middot; zero excuses &middot; <a href="../../privacy/">Privacy</a>
+    <a href="../../">Junkyard Genius</a> &mdash; <span id="footerStats">338 builds &middot; 33 categories</span> &middot; zero excuses &middot; <a href="../../privacy/">Privacy</a>
   </div>
 </div>
 
@@ -147,6 +147,12 @@ document.addEventListener('DOMContentLoaded', function(){
     document.getElementById("buildGrid").innerHTML = '<p style="text-align:center;padding:80px 20px;color:#7a7f93">Could not load build data. Please refresh the page.</p>';
     return;
   }
+
+  // Dynamic footer counts
+  var cats = {};
+  BUILDS.forEach(function(b){ cats[b.category] = 1; });
+  var fs = document.getElementById("footerStats");
+  if (fs) fs.textContent = BUILDS.length + " builds \u00b7 " + Object.keys(cats).length + " categories";
 
   var activeTab = "completed";
   var grid = document.getElementById("buildGrid");

@@ -57,11 +57,3 @@ Start with zero-modification hacks, progress toward precision CNC:
 - [Power Tools Remixed](../power-tools-remixed/) — More tool repurposing
 - [Python Projects](../python-projects/) — Software-driven fabrication
 
----
-
-## 📚 Reference Guides
-
-- Appliance Teardown Guide
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

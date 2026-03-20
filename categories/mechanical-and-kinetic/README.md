@@ -61,10 +61,3 @@ Start with passive physics demos, progress toward precision machines:
 - [Junkyard Auto](../junkyard-auto/) — Drive mechanics and power transmission
 - [Art & Installation](../art-and-installation/) — Kinetic sculptures and display pieces
 
----
-
-## 📚 Reference Guides
-
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

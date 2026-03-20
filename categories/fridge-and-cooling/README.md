@@ -59,11 +59,3 @@ Start with passive cooling, progress toward thermodynamic systems:
 - [Functional Machines](../functional-machines/) — Compressor salvage and equipment assembly
 - [Household Chemistry](../household-chemistry/) — Phase-change chemistry and thermal reactions
 
----
-
-## 📚 Reference Guides
-
-- Appliance Teardown Guide
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide

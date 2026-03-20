@@ -67,11 +67,3 @@ Start with zero-mod crafts, progress toward electronics integration:
 - [Light & Visual](../light-and-visual/) — Display technologies and visual projects
 - [Junk Instruments](../junk-instruments/) — Creative audio component reuse
 
----
-
-## 📚 Reference Guides
-
-- Electronics & Microcontrollers
-- Tools Needed
-- Sourcing Guide
-- Difficulty & Ratings Guide
