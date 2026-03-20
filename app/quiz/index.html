@@ -369,6 +369,19 @@
 </head>
 <body>
 
+<div class="header" id="quizHeader" style="position:static">
+  <div class="header-inner">
+    <h1>&#9889; <span class="grad">Build Finder Quiz</span></h1>
+    <div class="header-links">
+      <a href="../../">Home</a>
+      <a href="../browse/">Browse</a>
+      <a href="./">Quiz</a>
+      <a href="../toolbox/">Toolbox</a>
+      <a href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">GitHub</a>
+    </div>
+  </div>
+</div>
+
 <!-- Step indicators -->
 <div class="steps-bar" id="stepsBar" style="display:none">
   <div class="steps-inner">
@@ -527,6 +540,7 @@ var quizStarted = false;
 window.startQuiz = function() {
   quizStarted = true;
   if(typeof gtag==='function') gtag('event', 'quiz_start');
+  document.getElementById("quizHeader").style.display = "none";
   document.getElementById("welcomeScreen").style.display = "none";
   document.getElementById("questionsWrap").style.display = "block";
   document.getElementById("stepsBar").style.display = "block";
@@ -827,6 +841,7 @@ window.retakeQuiz = function() {
   document.getElementById("results").classList.remove("active");
   document.getElementById("questionsWrap").style.display = "none";
   document.getElementById("stepsBar").style.display = "none";
+  document.getElementById("quizHeader").style.display = "";
   document.getElementById("welcomeScreen").style.display = "";
 
   window.scrollTo({ top: 0, behavior: "smooth" });

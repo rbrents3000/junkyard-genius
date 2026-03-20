@@ -252,6 +252,12 @@ a:hover {
   gap: 12px;
 }
 
+/* ── Keyboard focus indicator ── */
+:focus-visible {
+  outline: 2px solid var(--orange);
+  outline-offset: 2px;
+}
+
 /* ── Responsive ── */
 @media (max-width: 600px) {
   .header-inner {
