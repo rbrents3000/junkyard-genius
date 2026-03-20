@@ -27,3 +27,4 @@ scripts/
 # Test artifacts
 test-results/
 playwright-report/
+design/
