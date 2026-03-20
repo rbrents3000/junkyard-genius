@@ -5604,6 +5604,70 @@ const BUILDS = [
     "time": 2
   },
   {
+    "num": 272,
+    "name": "Hard Drive Platter Wind Chimes",
+    "slug": "272-hard-drive-wind-chimes",
+    "category": "junk-instruments",
+    "categoryName": "Junk Instruments",
+    "tags": [
+      "music",
+      "salvage",
+      "art"
+    ],
+    "junk": [
+      "computer"
+    ],
+    "jaw": 3,
+    "brain": 1,
+    "wallet": 1,
+    "spicy": 1,
+    "clout": 4,
+    "time": 1
+  },
+  {
+    "num": 273,
+    "name": "Washing Machine Motor Lathe",
+    "slug": "273-washing-machine-motor-lathe",
+    "category": "scooter-and-motor",
+    "categoryName": "Scooter & Motor",
+    "tags": [
+      "tool",
+      "functional",
+      "salvage"
+    ],
+    "junk": [
+      "washing machine"
+    ],
+    "jaw": 4,
+    "brain": 3,
+    "wallet": 2,
+    "spicy": 3,
+    "clout": 4,
+    "time": 3
+  },
+  {
+    "num": 274,
+    "name": "Peltier Fog Chiller",
+    "slug": "274-peltier-fog-chiller",
+    "category": "humidifier-and-water",
+    "categoryName": "Humidifier & Water",
+    "tags": [
+      "spectacle",
+      "chemistry",
+      "party"
+    ],
+    "junk": [
+      "computer",
+      "fridge"
+    ],
+    "jaw": 4,
+    "brain": 2,
+    "wallet": 2,
+    "spicy": 2,
+    "clout": 5,
+    "time": 2
+  },
+  {
     "num": 275,
     "name": "Capacitor Bank Plasma Igniter",
     "slug": "275-capacitor-bank-plasma-igniter",
