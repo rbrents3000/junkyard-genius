@@ -7,8 +7,10 @@
     "doc": "docs"
   },
   "scripts": {
-    "build": "eleventy",
-    "dev": "eleventy --serve",
+    "css": "npx @tailwindcss/cli -i ./src/styles/main.css -o ./_site/style.css --minify",
+    "css:watch": "npx @tailwindcss/cli -i ./src/styles/main.css -o ./_site/style.css --watch",
+    "build": "npm run css && eleventy",
+    "dev": "concurrently \"npm run css:watch\" \"eleventy --serve\"",
     "test": "npx playwright test",
     "test:live": "PLAYWRIGHT_BASE_URL=https://junkyard.build npx playwright test"
   },
@@ -28,6 +30,12 @@
     "markdown-it-task-lists": "^2.1.1"
   },
   "devDependencies": {
-    "@playwright/test": "^1.58.2"
+    "@playwright/test": "^1.58.2",
+    "@tailwindcss/cli": "^4.2.2",
+    "@tailwindcss/postcss": "^4.2.2",
+    "autoprefixer": "^10.4.27",
+    "concurrently": "^9.2.1",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.2"
   }
 }
