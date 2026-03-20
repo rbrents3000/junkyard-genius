@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Difficulty & Ratings Guide"
-description: 'Every build in this repo is rated on six dimensions. None of them are "overall difficulty" because that's a lazy metric that tells you nothing useful. A build can be dead simple to execute but genuinely dangerous, or technically brilliant but cheap and safe. The six scales tell you what you're actually signing up for.'
+description: "Every build in this repo is rated on six dimensions. None of them are 'overall difficulty' because that's a lazy metric that tells you nothing useful. A build can be dead simple to execute but genuinely dangerous, or technically brilliant but cheap and safe. The six scales tell you what you're actually signing up for."
 ---
 # Difficulty & Ratings Guide
 

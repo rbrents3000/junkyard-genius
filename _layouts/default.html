@@ -1,13 +1,20 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-{% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <title>{{ title | default: site.title }}</title>
+    <meta name="description" content="{{ description | default: site.description }}">
+    <meta property="og:title" content="{{ title | default: site.title }}">
+    <meta property="og:description" content="{{ description | default: site.description }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:image" content="{{ site.url }}{{ image | default: '/images/og-social.jpg' }}">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="stylesheet" href="/assets/css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    {% include head-custom.html %}
+    {% include "head-custom.html" %}
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to main content</a>
@@ -15,10 +22,10 @@
       <div id="header">
         <nav>
           <ul>
-            <li class="fork"><a href="{{ '/app/browse/' | relative_url }}">Browse</a></li>
-            <li class="fork"><a href="{{ '/app/quiz/' | relative_url }}">Quiz</a></li>
-            <li class="fork"><a href="{{ '/app/toolbox/' | relative_url }}">Toolbox</a></li>
-            <li class="fork"><a href="{{ site.github.repository_url }}">GitHub</a></li>
+            <li class="fork"><a href="/app/browse/">Browse</a></li>
+            <li class="fork"><a href="/app/quiz/">Quiz</a></li>
+            <li class="fork"><a href="/app/toolbox/">Toolbox</a></li>
+            <li class="fork"><a href="{{ site.repo }}">GitHub</a></li>
           </ul>
         </nav>
       </div><!-- end header -->
@@ -27,11 +34,11 @@
 
       <section>
         <header id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>
+          <h1>{{ site.title }}</h1>
+          <p>{{ site.description }}</p>
           <hr>
-          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+          <span class="credits left">Project maintained by <a href="{{ site.owner_url }}">{{ site.owner }}</a></span>
+          <span class="credits right">Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
         </header>
 
         <main id="main">
@@ -43,7 +50,7 @@
     </div>
     <script>
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('{{ "/sw.js" | relative_url }}');
+      navigator.serviceWorker.register('/sw.js');
     }
     </script>
   </body>

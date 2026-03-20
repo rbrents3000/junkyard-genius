@@ -11,18 +11,18 @@ layout: default
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "{{ site.url }}{{ site.baseurl }}/"
+      "item": "{{ site.url }}/"
     },
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "{{ page.category_name }}",
-      "item": "{{ site.url }}{{ site.baseurl }}/categories/{{ page.category }}/"
+      "name": "{{ category_name }}",
+      "item": "{{ site.url }}/categories/{{ category }}/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "#{{ page.build_number }} {{ page.title }}"
+      "name": "#{{ build_number }} {{ title }}"
     }
   ]
 }
@@ -32,20 +32,20 @@ layout: default
 {
   "@context": "https://schema.org",
   "@type": "HowTo",
-  "name": "{{ page.title }}",
-  "description": {{ page.description | jsonify }},
-  "image": "{{ site.url }}{{ site.baseurl }}{{ page.image }}"{% if page.junk.size > 0 %},
-  "supply": [{% for item in page.junk %}
+  "name": "{{ title }}",
+  "description": {{ description | jsonify }},
+  "image": "{{ site.url }}{{ image }}"{% if junk.size > 0 %},
+  "supply": [{% for item in junk %}
     { "@type": "HowToSupply", "name": "{{ item }}" }{% unless forloop.last %},{% endunless %}{% endfor %}
   ]{% endif %},
-  "totalTime": "{% case page.ratings.time %}{% when 1 %}PT2H{% when 2 %}PT8H{% when 3 %}PT16H{% when 4 %}PT40H{% when 5 %}PT80H{% endcase %}"
+  "totalTime": "{% case ratings.time %}{% when 1 %}PT2H{% when 2 %}PT8H{% when 3 %}PT16H{% when 4 %}PT40H{% when 5 %}PT80H{% endcase %}"
 }
 </script>
 
 <nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="{{ '/' | relative_url }}">Home</a> &rsaquo;
-  <a href="{{ '/categories/' | append: page.category | append: '/' | relative_url }}">{{ page.category_name }}</a> &rsaquo;
-  <span aria-current="page">#{{ page.build_number }} {{ page.title }}</span>
+  <a href="/">Home</a> &rsaquo;
+  <a href="/categories/{{ category }}/">{{ category_name }}</a> &rsaquo;
+  <span aria-current="page">#{{ build_number }} {{ title }}</span>
 </nav>
 
 {{ content }}
@@ -64,7 +64,7 @@ layout: default
 
 <script>
 (function(){
-  var buildNum = {{ page.build_number }};
+  var buildNum = {{ build_number }};
 
   // Tracker
   function getList(key) {
@@ -98,7 +98,7 @@ layout: default
 
   // Share buttons
   var url = window.location.href;
-  var text = "#{{ page.build_number }} {{ page.title }} — Junkyard Genius";
+  var text = "#{{ build_number }} {{ title }} — Junkyard Genius";
   document.getElementById("shareTwitter").href = "https://x.com/intent/tweet?text=" + encodeURIComponent(text) + "&url=" + encodeURIComponent(url);
   document.getElementById("shareReddit").href = "https://reddit.com/submit?url=" + encodeURIComponent(url) + "&title=" + encodeURIComponent(text);
   document.getElementById("copyLinkBtn").addEventListener("click", function(){
@@ -110,32 +110,3 @@ layout: default
   });
 })();
 </script>
-
-{% assign cat_builds = site.pages | where: "layout", "build" | where: "category", page.category | sort: "build_number" %}
-{% assign prev_build = nil %}
-{% assign next_build = nil %}
-{% assign found = false %}
-{% for b in cat_builds %}
-  {% if found and next_build == nil %}
-    {% assign next_build = b %}
-  {% endif %}
-  {% if b.url == page.url %}
-    {% assign found = true %}
-  {% endif %}
-  {% unless found %}
-    {% assign prev_build = b %}
-  {% endunless %}
-{% endfor %}
-
-{% if prev_build or next_build %}
-<nav class="build-nav" aria-label="Build navigation">
-  {% if prev_build %}
-    <a href="{{ prev_build.url | relative_url }}">&larr; #{{ prev_build.build_number }} {{ prev_build.title }}</a>
-  {% else %}
-    <span></span>
-  {% endif %}
-  {% if next_build %}
-    <a href="{{ next_build.url | relative_url }}" class="nav-next">#{{ next_build.build_number }} {{ next_build.title }} &rarr;</a>
-  {% endif %}
-</nav>
-{% endif %}

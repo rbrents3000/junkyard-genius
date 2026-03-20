@@ -1,7 +1,5 @@
----
----
 var CACHE_NAME = 'jg-v1';
-var BASE = '{{ site.baseurl }}';
+var BASE = '';
 
 self.addEventListener('install', function(event) {
   event.waitUntil(
