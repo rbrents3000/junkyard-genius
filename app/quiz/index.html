@@ -19,33 +19,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../shared.css">
 <style>
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-:root{
-  --bg:#0a0a0f;--bg-subtle:#0f1016;
-  --card:#13141c;--card-hover:#191a24;--card-active:#1e1f2c;
-  --border:#1e2030;--border-hover:#2a2d42;
-  --text:#eaedf3;--text-dim:#7a7f93;--text-muted:#44475a;
-  --orange:#ff6b35;--orange-glow:rgba(255,107,53,0.12);
-  --blue:#5b9cf6;--red:#f06060;--purple:#9466ff;--green:#3dd68c;
-  --yellow:#f0c040;
-  --radius:16px;--radius-sm:10px;--radius-xs:6px;
-}
-html{font-size:16px;-webkit-text-size-adjust:100%}
-body{
-  background:var(--bg);color:var(--text);
-  font-family:'Inter',system-ui,-apple-system,sans-serif;
-  line-height:1.6;min-height:100vh;overflow-x:hidden;
-}
-
-/* ── Ambient background ── */
-body::before{
-  content:'';position:fixed;inset:0;z-index:0;pointer-events:none;
-  background:
-    radial-gradient(ellipse 80% 50% at 50% -20%,rgba(255,107,53,0.06),transparent),
-    radial-gradient(ellipse 60% 40% at 80% 90%,rgba(148,102,255,0.04),transparent);
-}
-
 /* ── Step indicators ── */
 .steps-bar{
   position:fixed;top:0;left:0;right:0;z-index:100;
@@ -288,33 +263,16 @@ body::before{
   margin-bottom:14px;letter-spacing:0.02em;
 }
 
-/* Rating bars */
+/* Rating bars (overrides for quiz sizing) */
 .result-ratings{
   display:grid;grid-template-columns:repeat(3,1fr);gap:8px 16px;
   margin-bottom:16px;
 }
-.rating-item{display:flex;align-items:center;gap:8px}
-.rating-label{
-  font-size:0.68rem;font-weight:600;color:var(--text-muted);
-  width:36px;text-transform:uppercase;letter-spacing:0.04em;
-}
-.rating-bar{
-  flex:1;height:6px;border-radius:3px;background:var(--border);overflow:hidden;
-}
-.rating-bar-fill{height:100%;border-radius:3px;transition:width 0.6s ease}
-.rating-bar-fill.jaw{background:var(--orange)}
-.rating-bar-fill.brain{background:var(--blue)}
-.rating-bar-fill.wallet{background:var(--green)}
-.rating-bar-fill.spicy{background:var(--red)}
-.rating-bar-fill.clout{background:var(--purple)}
-.rating-bar-fill.time{background:var(--text-muted)}
-.rating-val{font-size:0.7rem;font-weight:600;width:14px;text-align:right}
-.rating-val.jaw{color:var(--orange)}
-.rating-val.brain{color:var(--blue)}
-.rating-val.wallet{color:var(--green)}
-.rating-val.spicy{color:var(--red)}
-.rating-val.clout{color:var(--purple)}
-.rating-val.time{color:var(--text-muted)}
+.rating-item{gap:8px}
+.rating-label{font-size:0.68rem;width:36px}
+.rating-bar{height:6px}
+.rating-bar-fill{transition:width 0.6s ease}
+.rating-val{font-size:0.7rem;width:14px}
 
 .result-match{
   font-size:0.82rem;color:var(--text-dim);margin-bottom:16px;
