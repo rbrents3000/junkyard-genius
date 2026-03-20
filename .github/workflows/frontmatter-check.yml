@@ -1,0 +1,94 @@
+name: Validate Build Frontmatter
+
+on:
+  push:
+    branches: [master]
+    paths: ['categories/**/*.md']
+  pull_request:
+    branches: [master]
+    paths: ['categories/**/*.md']
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Validate frontmatter fields and types
+        run: |
+          ERRORS=0
+
+          while IFS= read -r file; do
+            # Extract frontmatter (between --- delimiters)
+            FM=$(sed -n '/^---$/,/^---$/p' "$file" | sed '1d;$d')
+
+            # Required string fields
+            for field in layout title build_number description image category category_name; do
+              if ! echo "$FM" | grep -q "^${field}:"; then
+                echo "::error file=$file::Missing required field: $field"
+                ERRORS=$((ERRORS + 1))
+              fi
+            done
+
+            # Required array fields
+            for field in tags junk; do
+              if ! echo "$FM" | grep -q "^${field}:"; then
+                echo "::error file=$file::Missing required field: $field"
+                ERRORS=$((ERRORS + 1))
+              fi
+            done
+
+            # Check ratings block exists with all 6 sub-keys
+            if ! echo "$FM" | grep -q "^ratings:"; then
+              echo "::error file=$file::Missing ratings block"
+              ERRORS=$((ERRORS + 1))
+            else
+              for rating in jaw brain wallet spicy clout time; do
+                if ! echo "$FM" | grep -q "^  ${rating}:"; then
+                  echo "::error file=$file::Missing rating: $rating"
+                  ERRORS=$((ERRORS + 1))
+                fi
+              done
+            fi
+
+            # Validate layout is "build"
+            LAYOUT=$(echo "$FM" | grep "^layout:" | sed 's/layout: *//')
+            if [ "$LAYOUT" != "build" ]; then
+              echo "::error file=$file::layout must be 'build', got '$LAYOUT'"
+              ERRORS=$((ERRORS + 1))
+            fi
+
+            # Validate build_number is an integer
+            BNUM=$(echo "$FM" | grep "^build_number:" | sed 's/build_number: *//')
+            if ! echo "$BNUM" | grep -qE '^[0-9]+$'; then
+              echo "::error file=$file::build_number must be integer, got '$BNUM'"
+              ERRORS=$((ERRORS + 1))
+            fi
+
+            # Validate rating values are 1-5
+            for rating in jaw brain wallet spicy clout time; do
+              VAL=$(echo "$FM" | grep "^  ${rating}:" | sed "s/  ${rating}: *//")
+              if echo "$VAL" | grep -qE '^[0-9]+$'; then
+                if [ "$VAL" -lt 1 ] || [ "$VAL" -gt 5 ]; then
+                  echo "::error file=$file::$rating must be 1-5, got $VAL"
+                  ERRORS=$((ERRORS + 1))
+                fi
+              fi
+            done
+
+            # Validate image path pattern
+            IMG=$(echo "$FM" | grep "^image:" | sed 's/image: *//')
+            if ! echo "$IMG" | grep -qE '^/images/builds/[0-9]+-.*\.(jpg|png)$'; then
+              echo "::error file=$file::image path doesn't match expected pattern: $IMG"
+              ERRORS=$((ERRORS + 1))
+            fi
+
+          done < <(find categories/ -name "*.md" ! -name "README.md")
+
+          if [ "$ERRORS" -gt 0 ]; then
+            echo ""
+            echo "Found $ERRORS frontmatter error(s). Fix them before merging."
+            exit 1
+          else
+            echo "All build frontmatter validated successfully."
+          fi
