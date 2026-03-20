@@ -196,6 +196,7 @@ a:hover{text-decoration:underline}
   }
 
   var activeTab = "completed";
+  var grid = document.getElementById("buildGrid");
 
   function getList(key) {
     try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { console.warn("localStorage error:", e); return []; }
@@ -270,7 +271,6 @@ a:hover{text-decoration:underline}
   function render() {
     var key = activeTab === "completed" ? "jg-completed" : "jg-wantToBuild";
     var builds = getBuildsForList(key);
-    var grid = document.getElementById("buildGrid");
     var empty = document.getElementById("emptyState");
 
     renderStats();
