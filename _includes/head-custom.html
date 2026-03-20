@@ -36,6 +36,11 @@
   --radius-xs: 6px;
 }
 
+/* ── Reset & Layout Foundations ── */
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; }
+nav ul, nav ol { list-style: none; list-style-image: none; }
+
 /* ── Global Overrides ── */
 body {
   background: var(--bg) !important;
@@ -59,6 +64,11 @@ body::before {
 
 /* ── Header ── */
 #header {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  z-index: 100 !important;
   background: rgba(10,10,15,0.92) !important;
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
@@ -69,6 +79,19 @@ body::before {
 #header nav {
   max-width: 900px;
   margin: 0 auto;
+  padding: 0 10px;
+}
+#header nav ul {
+  margin: 0 !important;
+  padding: 0 !important;
+  display: flex !important;
+  gap: 8px !important;
+  justify-content: center !important;
+  flex-wrap: wrap !important;
+}
+#header nav ul li {
+  display: inline-block !important;
+  float: none !important;
 }
 #header nav li.title {
   padding-top: 0;
@@ -106,18 +129,24 @@ body::before {
 /* ── Layout Width ── */
 .wrapper {
   max-width: 900px !important;
+  margin: 0 auto !important;
+  padding: 0 20px !important;
   position: relative;
   z-index: 1;
 }
 section {
   max-width: 900px !important;
+  margin: 20px auto !important;
+  margin-top: 70px !important;
+  padding: 30px 0 50px !important;
 }
 
 /* ── Title Area ── */
 #title {
+  border: 0 !important;
   border-bottom: 1px solid var(--border) !important;
   padding-bottom: 16px !important;
-  margin-bottom: 24px !important;
+  margin: 0 0 24px !important;
 }
 #title h1 {
   font-family: 'Inter', sans-serif !important;
@@ -125,10 +154,12 @@ section {
   font-size: 2rem !important;
   letter-spacing: -0.03em !important;
   color: var(--text) !important;
+  text-align: center !important;
 }
 #title p {
   color: var(--text-dim) !important;
   font-size: 0.95rem !important;
+  text-align: center !important;
 }
 #title hr {
   border-color: var(--border) !important;
