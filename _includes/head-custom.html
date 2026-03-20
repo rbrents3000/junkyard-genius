@@ -48,6 +48,7 @@ body {
   font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
   font-size: 15px !important;
   line-height: 1.7 !important;
+  padding-bottom: 20px !important;
 }
 
 /* Ambient background gradient */
@@ -168,6 +169,8 @@ section {
   color: var(--text-muted) !important;
   font-size: 0.75rem !important;
 }
+#title .credits.left { float: left; }
+#title .credits.right { float: right; }
 #title .credits a {
   color: var(--text-muted) !important;
 }
@@ -216,7 +219,8 @@ table {
   background: var(--card) !important;
   border: 1px solid var(--border) !important;
   border-radius: var(--radius-sm) !important;
-  overflow: hidden !important;
+  overflow-x: auto !important;
+  display: block !important;
   margin: 1.5em 0 !important;
 }
 th {
@@ -299,6 +303,7 @@ pre {
   border-radius: var(--radius-sm) !important;
   padding: 16px 20px !important;
   box-shadow: none !important;
+  overflow-x: auto !important;
 }
 pre code {
   border: none !important;
@@ -569,6 +574,14 @@ input[type="checkbox"] {
   .build-nav { flex-direction: column; }
   .build-nav a { max-width: 100%; }
   #header nav ul li a { font-size: 0.7rem !important; padding: 6px 10px !important; }
+  #title .credits,
+  #title .credits.left,
+  #title .credits.right {
+    float: none !important;
+    display: block !important;
+    text-align: center !important;
+    line-height: 1.8;
+  }
 }
 
 /* ── Reduced Motion ── */
