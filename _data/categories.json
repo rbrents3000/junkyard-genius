@@ -1,0 +1,233 @@
+[
+  {
+    "slug": "alchemist-cookbook",
+    "name": "💥 Alchemist's Cookbook",
+    "description": "Where fireworks meet microwave parts meet chemistry meet car salvage. The most dangerous and spectacular crossover builds in the repo.",
+    "image": "/images/categories/alchemist-cookbook.jpg",
+    "build_count": 13
+  },
+  {
+    "slug": "art-and-installation",
+    "name": "🎨 Art & Installation",
+    "description": "Turning dumpster finds into gallery pieces that make people forget the parts came from a curb.",
+    "image": "/images/categories/art-and-installation.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "big-builds",
+    "name": "🏢 Big Builds",
+    "description": "When your project outgrows the workbench, escapes the garage, and takes over the entire yard. Neighbors will have questions.",
+    "image": "/images/categories/big-builds.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "chemical-electronic",
+    "name": "⚗️ Chemical & Electronic",
+    "description": "Electrons do chemistry. Chemistry makes electronics. This is the category where your workbench needs both a multimeter and safety goggles.",
+    "image": "/images/categories/chemical-electronic.jpg",
+    "build_count": 15
+  },
+  {
+    "slug": "computer-and-phone",
+    "name": "💻 Computer & Phone Parts",
+    "description": "Dead laptops, cracked phones, and retired desktops are goldmines of precision-engineered components.",
+    "image": "/images/categories/computer-and-phone.jpg",
+    "build_count": 13
+  },
+  {
+    "slug": "drone-salvage",
+    "name": "🚁 Drone Salvage",
+    "description": "A $500 drone took a nosedive. You just scored $500 worth of precision motors, cameras, and sensors for free.",
+    "image": "/images/categories/drone-salvage.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "fire-and-plasma",
+    "name": "🔥 Fire & Plasma",
+    "description": "Where discarded microwaves and scrap metal become instruments of pure elemental fury.",
+    "image": "/images/categories/fire-and-plasma.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "fridge-and-cooling",
+    "name": "❄️ Fridge & Cooling",
+    "description": "A fridge compressor is a heat pump. It moves thermal energy from one place to another. Where you put the cold side and the hot side is entirely up to you.",
+    "image": "/images/categories/fridge-and-cooling.jpg",
+    "build_count": 9
+  },
+  {
+    "slug": "functional-machines",
+    "name": "🔧 Functional Machines",
+    "description": "Turning junk into machines that actually do real work. No toy builds here — these replace tools youd otherwise buy.",
+    "image": "/images/categories/functional-machines.jpg",
+    "build_count": 9
+  },
+  {
+    "slug": "household-chemistry",
+    "name": "🧹 Household Chemistry",
+    "description": "Everything under the kitchen sink is an ingredient — bleach, vinegar, baking soda, rubbing alcohol, acetone, hand sanitizer, dish soap, and pool shock are all you need.",
+    "image": "/images/categories/household-chemistry.jpg",
+    "build_count": 16
+  },
+  {
+    "slug": "humidifier-and-water",
+    "name": "💧 Humidifier & Water",
+    "description": "Ultrasonic transducers vibrate at 1.7 million times per second. At that frequency, water doesnt know if it should be liquid or gas.",
+    "image": "/images/categories/humidifier-and-water.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "junk-instruments",
+    "name": "🎸 Junk Instruments",
+    "description": "Playable instruments from PVC, cigar boxes, and whatever was in the recycling bin this morning.",
+    "image": "/images/categories/junk-instruments.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "junkyard-auto",
+    "name": "🚗 Junkyard Auto",
+    "description": "Every car in the scrapyard is a parts bin full of precision-engineered components begging for a second life.",
+    "image": "/images/categories/junkyard-auto.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "kitchen-hacks",
+    "name": "🍴 Kitchen Appliance Hacks",
+    "description": "Your toaster oven is a reflow station. Your stand mixer is a pottery wheel. Your kitchen is lying to you about what it can do.",
+    "image": "/images/categories/kitchen-hacks.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "laser-lab",
+    "name": "🎯 Laser Lab",
+    "description": "Laser builds from salvaged diodes, pointers, and optics.",
+    "image": "/images/categories/laser-lab.jpg",
+    "build_count": 7
+  },
+  {
+    "slug": "light-and-visual",
+    "name": "💡 Light & Visual",
+    "description": "Builds that bend, focus, project, and manipulate light in ways that make people question reality — holograms, lasers, optics, and things that glow.",
+    "image": "/images/categories/light-and-visual.jpg",
+    "build_count": 19
+  },
+  {
+    "slug": "mad-scientist",
+    "name": "⚡ Mad Scientist",
+    "description": "High voltage, electromagnetic forces, and physics experiments that belong in a government lab but somehow live in your garage. Expect sparks, levitation, and at least one alarmed neighbor.",
+    "image": "/images/categories/mad-scientist.jpg",
+    "build_count": 10
+  },
+  {
+    "slug": "mechanical-and-kinetic",
+    "name": "🏗️ Mechanical & Kinetic",
+    "description": "Where scrap metal, magnets, and gravity conspire to create motion from nothing.",
+    "image": "/images/categories/mechanical-and-kinetic.jpg",
+    "build_count": 11
+  },
+  {
+    "slug": "pi-and-arduino",
+    "name": "🤖 Pi & Arduino",
+    "description": "Microcontrollers and single-board computers turn junk into smart junk.",
+    "image": "/images/categories/pi-and-arduino.jpg",
+    "build_count": 20
+  },
+  {
+    "slug": "power-and-energy",
+    "name": "🔋 Power & Energy",
+    "description": "Generate, store, and harvest energy from sources most people throw away.",
+    "image": "/images/categories/power-and-energy.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "power-tools-remixed",
+    "name": "🔨 Power Tools Remixed",
+    "description": "Every power tool is a motor with an attachment. Change the attachment, change the tool. 10,000 RPM solves a lot of problems.",
+    "image": "/images/categories/power-tools-remixed.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "pranks-and-party",
+    "name": "👻 Pranks & Party Tricks",
+    "description": "Your friends will never trust a doorway, chair, or pen in your house again.",
+    "image": "/images/categories/pranks-and-party.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "printer-and-scanner",
+    "name": "🖨️ Printer & Scanner",
+    "description": "Printers are the most underrated source of precision motion components on the planet.",
+    "image": "/images/categories/printer-and-scanner.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "pyro-and-chemistry",
+    "name": "🧪 Pyro & Chemistry",
+    "description": "Fire, foam, crystals, and reactions that make your jaw hit the floor.",
+    "image": "/images/categories/pyro-and-chemistry.jpg",
+    "build_count": 20
+  },
+  {
+    "slug": "python-projects",
+    "name": "🐍 Python Projects",
+    "description": "A webcam is a webcam. A webcam running OpenCV is a face-tracking sentry turret. Python is the difference.",
+    "image": "/images/categories/python-projects.jpg",
+    "build_count": 15
+  },
+  {
+    "slug": "scooter-and-motor",
+    "name": "⚙️ Scooter & Motor",
+    "description": "Every dead scooter motor is a brushless beast waiting to power something wilder than a sidewalk ride.",
+    "image": "/images/categories/scooter-and-motor.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "sound-and-music",
+    "name": "🔊 Sound & Music",
+    "description": "Builds that make noise in ways that shouldnt be possible — speakers made from lightning, fire that dances to bass, and objects floating on invisible waves.",
+    "image": "/images/categories/sound-and-music.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "survival-off-grid",
+    "name": "⛺ Survival & Off-Grid",
+    "description": "The grid is down, the waters off, and youre 40 miles from a Walmart. These builds are why youre fine.",
+    "image": "/images/categories/survival-off-grid.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "unholy-combos",
+    "name": "💀 Unholy Combos",
+    "description": "Two categories walk into a workshop. Something beautiful and terrifying walks out.",
+    "image": "/images/categories/unholy-combos.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "vacuum-cleaner",
+    "name": "🌀 Vacuum Cleaner",
+    "description": "A vacuum cleaner is a high-RPM motor attached to an impeller. Thats a jet engines job description.",
+    "image": "/images/categories/vacuum-cleaner.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "visual-showstoppers",
+    "name": "👁️ Visual Showstoppers",
+    "description": "Builds that break brains through your eyeballs. Every project here exists for one reason: to make people physically stop and stare.",
+    "image": "/images/categories/visual-showstoppers.jpg",
+    "build_count": 9
+  },
+  {
+    "slug": "wearable-tech",
+    "name": "👕 Wearable Tech",
+    "description": "Turn old clothes and cheap electronics into cyberpunk wearables.",
+    "image": "/images/categories/wearable-tech.jpg",
+    "build_count": 8
+  },
+  {
+    "slug": "weird-science",
+    "name": "🔬 Weird Science",
+    "description": "The builds that make people ask wait, is that even legal? (It is. Probably.)",
+    "image": "/images/categories/weird-science.jpg",
+    "build_count": 8
+  }
+]
