@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N99TTDGHKG"></script>
@@ -64,12 +64,26 @@
 .build-card{position:relative}
 
 .remove-btn{
-  position:absolute;top:12px;right:12px;
+  position:absolute;top:8px;right:8px;
   background:var(--bg);border:1px solid var(--border);border-radius:var(--radius-xs);
-  color:var(--text-muted);font-size:0.7rem;padding:4px 10px;cursor:pointer;
+  color:var(--text-muted);font-size:0.7rem;padding:8px 14px;cursor:pointer;
   transition:all 0.2s;font-family:inherit;font-weight:600;
+  min-height:36px;min-width:36px;display:inline-flex;align-items:center;justify-content:center;
 }
 .remove-btn:hover{border-color:var(--red);color:var(--red);background:rgba(240,96,96,0.08)}
+
+.undo-toast{
+  position:fixed;bottom:24px;left:50%;transform:translateX(-50%);
+  background:var(--card);border:1px solid var(--border);border-radius:var(--radius-sm);
+  padding:12px 20px;display:flex;align-items:center;gap:12px;
+  font-size:0.85rem;color:var(--text);box-shadow:0 8px 32px rgba(0,0,0,0.4);
+  z-index:200;animation:slideUp 0.3s ease;
+}
+.undo-toast button{
+  background:var(--orange);color:#fff;border:none;border-radius:var(--radius-xs);
+  padding:6px 14px;font-family:inherit;font-size:0.8rem;font-weight:700;cursor:pointer;
+}
+@keyframes slideUp{from{opacity:0;transform:translate(-50%,20px)}to{opacity:1;transform:translate(-50%,0)}}
 
 /* Empty state */
 .empty{text-align:center;padding:80px 20px}
@@ -190,7 +204,7 @@ document.addEventListener('DOMContentLoaded', function(){
     var catCount = Object.keys(catSet).length;
 
     // Avg difficulty
-    var avgBrain = 0;
+    var avgBrain = "\u2014";
     if (completed.length) {
       var total = 0;
       completed.forEach(function(b) { total += b.brain; });
@@ -231,6 +245,7 @@ document.addEventListener('DOMContentLoaded', function(){
   }
 
   // Event delegation for remove buttons (added once, not per render)
+  var undoTimeout;
   grid.addEventListener("click", function(e) {
     var btn = e.target.closest(".remove-btn");
     if (!btn) return;
@@ -242,6 +257,22 @@ document.addEventListener('DOMContentLoaded', function(){
     if (idx !== -1) { list.splice(idx, 1); setList(k, list); }
     if(typeof gtag==='function') gtag('event','toolbox_build_removed',{build_number:num,from_list:k==='jg-completed'?'completed':'want_to_build'});
     render();
+
+    // Undo toast
+    clearTimeout(undoTimeout);
+    var existing = document.querySelector('.undo-toast');
+    if (existing) existing.remove();
+    var toast = document.createElement('div');
+    toast.className = 'undo-toast';
+    toast.innerHTML = 'Build #' + num + ' removed <button>Undo</button>';
+    document.body.appendChild(toast);
+    toast.querySelector('button').addEventListener('click', function(){
+      var list = getList(k);
+      if (list.indexOf(num) === -1) { list.push(num); setList(k, list); }
+      render();
+      toast.remove();
+    });
+    undoTimeout = setTimeout(function(){ if(toast.parentNode) toast.remove(); }, 5000);
   });
 
   // Tab switching

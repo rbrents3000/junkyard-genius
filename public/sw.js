@@ -1,13 +1,13 @@
-var CACHE_NAME = 'jg-v1';
-var BASE = '';
+var CACHE_NAME = 'jg-v2';
 
 self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function(cache) {
       return cache.addAll([
-        BASE + '/',
-        BASE + '/app/quiz/build-data.js',
-        BASE + '/app/shared.css'
+        '/',
+        '/offline.html',
+        '/app/quiz/build-data.js',
+        '/app/shared.css'
       ]);
     })
   );
@@ -29,6 +29,29 @@ self.addEventListener('activate', function(event) {
 self.addEventListener('fetch', function(event) {
   if (event.request.method !== 'GET') return;
 
+  var accept = event.request.headers.get('Accept') || '';
+
+  // HTML pages: network-first
+  if (accept.indexOf('text/html') !== -1) {
+    event.respondWith(
+      fetch(event.request).then(function(response) {
+        if (response.ok) {
+          var clone = response.clone();
+          caches.open(CACHE_NAME).then(function(cache) {
+            cache.put(event.request, clone);
+          });
+        }
+        return response;
+      }).catch(function() {
+        return caches.match(event.request).then(function(cached) {
+          return cached || caches.match('/offline.html');
+        });
+      })
+    );
+    return;
+  }
+
+  // Assets: stale-while-revalidate
   event.respondWith(
     caches.match(event.request).then(function(cached) {
       var fetchPromise = fetch(event.request).then(function(response) {
@@ -39,9 +62,7 @@ self.addEventListener('fetch', function(event) {
           });
         }
         return response;
-      }).catch(function() {
-        return cached;
-      });
+      }).catch(function() { return cached; });
       return cached || fetchPromise;
     })
   );

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 <head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N99TTDGHKG"></script>
@@ -193,13 +193,13 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
   <div class="sort-bar">
     <span class="result-count" id="resultCount">Showing 338 of 338 builds</span>
     <div class="sort-pills">
-      <button class="sort-pill active" data-sort="num">Number</button>
-      <button class="sort-pill" data-sort="jaw">Jaw Drop</button>
-      <button class="sort-pill" data-sort="brain">Brain Melt</button>
-      <button class="sort-pill" data-sort="spicy">Spicy</button>
-      <button class="sort-pill" data-sort="clout">Clout</button>
-      <button class="sort-pill" data-sort="wallet">Wallet</button>
-      <button class="sort-pill" data-sort="time">Time</button>
+      <button class="sort-pill active" data-sort="num" data-label="Number">Number &#8593;</button>
+      <button class="sort-pill" data-sort="jaw" data-label="Jaw Drop">Jaw Drop</button>
+      <button class="sort-pill" data-sort="brain" data-label="Brain Melt">Brain Melt</button>
+      <button class="sort-pill" data-sort="spicy" data-label="Spicy">Spicy</button>
+      <button class="sort-pill" data-sort="clout" data-label="Clout">Clout</button>
+      <button class="sort-pill" data-sort="wallet" data-label="Wallet">Wallet</button>
+      <button class="sort-pill" data-sort="time" data-label="Time">Time</button>
     </div>
   </div>
 
@@ -412,8 +412,12 @@ document.addEventListener('DOMContentLoaded', function(){
         currentSort = newSort;
         sortAsc = newSort === "num"; // ascending for number, descending for ratings
       }
-      sortPills.forEach(function(p){p.classList.remove("active")});
+      sortPills.forEach(function(p){
+        p.classList.remove("active");
+        p.textContent = p.getAttribute("data-label");
+      });
       this.classList.add("active");
+      this.textContent = this.getAttribute("data-label") + (sortAsc ? " \u2191" : " \u2193");
       render();
       if(typeof gtag==='function') gtag('event','browse_sort',{sort_by:currentSort,sort_direction:sortAsc?'asc':'desc'});
     });
