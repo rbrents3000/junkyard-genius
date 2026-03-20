@@ -90,11 +90,6 @@ A 16x16 grid gives you 256 pixels — enough for text, simple graphics, animatio
 
 ## 🔗 See Also
 
-- [LED Cube 8x8x8](../pi-and-arduino/122-led-cube-8x8x8.md) — another large-scale pixel display project, but with LEDs instead of mechanical dots
-- [Pen Plotter](../printer-and-scanner/072-pen-plotter.md) — mechanical precision meets visual output in a different form factor
+- [LED Cube 8x8x8](../pi-and-arduino/122-led-cube-8x8x8/) — another large-scale pixel display project, but with LEDs instead of mechanical dots
+- [Pen Plotter](../printer-and-scanner/072-pen-plotter/) — mechanical precision meets visual output in a different form factor
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

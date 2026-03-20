@@ -73,5 +73,5 @@ Trees sway, cars drive by, clouds drift — all projected in real time, fully in
 
 ## 🔗 See Also
 
-- [Schlieren Optics](172-schlieren-optics.md) — another optics project that reveals normally invisible phenomena
-- [Fresnel Lens Solar Forge](020-fresnel-lens-solar-forge.md) — another project that exploits the focusing power of light
+- [Schlieren Optics](172-schlieren-optics/) — another optics project that reveals normally invisible phenomena
+- [Fresnel Lens Solar Forge](020-fresnel-lens-solar-forge/) — another project that exploits the focusing power of light

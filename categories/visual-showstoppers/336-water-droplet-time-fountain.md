@@ -84,11 +84,6 @@ In a dark room, visitors wave their hands through the "frozen" droplets and comp
 
 ## 🔗 See Also
 
-- [Anti-Gravity Water Fountain](../art-and-installation/044-antigravity-water-fountain.md) — same core physics, different build approach with speaker-driven droplet formation
-- [POV Globe](../light-and-visual/019-pov-globe.md) — another persistence-of-vision build, but with LEDs instead of water
+- [Anti-Gravity Water Fountain](../art-and-installation/044-antigravity-water-fountain/) — same core physics, different build approach with speaker-driven droplet formation
+- [POV Globe](../light-and-visual/019-pov-globe/) — another persistence-of-vision build, but with LEDs instead of water
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

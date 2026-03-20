@@ -66,7 +66,7 @@ The focal point is a blinding white spot about the size of a dime that can set w
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 5 build.** Read the Safety Guide before starting.
 
 > [!CAUTION]
 > **The focal point will blind you permanently and instantly.** The concentrated sunlight at the focal point is thousands of times brighter than direct sun. NEVER look at the focal spot without welding goggles (shade 10+). Regular sunglasses are completely insufficient. Reflections off shiny targets can also cause eye damage — wear the goggles the entire time the lens is aimed at the sun.
@@ -76,5 +76,5 @@ The focal point is a blinding white spot about the size of a dime that can set w
 
 ## 🔗 See Also
 
-- [Desktop Foundry](../fire-and-plasma/005-desktop-foundry.md) — melt aluminum with charcoal when the sun isn't cooperating
-- [Thermic Lance](../fire-and-plasma/004-thermic-lance.md) — another way to reach metal-melting temperatures from simple materials
+- [Desktop Foundry](../fire-and-plasma/005-desktop-foundry/) — melt aluminum with charcoal when the sun isn't cooperating
+- [Thermic Lance](../fire-and-plasma/004-thermic-lance/) — another way to reach metal-melting temperatures from simple materials

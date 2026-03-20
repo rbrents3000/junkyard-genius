@@ -58,7 +58,7 @@ This is the build that goes viral. Fire writing in a dark room, filmed from abov
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
 - The flame is real fire. It will ignite paper, fabric, hair, and anything flammable it contacts. Clear the area thoroughly. Have a damp towel within reach to smother any accidental spread. Keep the hand sanitizer container sealed and away from the active flames — the entire container can ignite if the flame reaches it.
 - Blue alcohol flames are nearly invisible in bright light. People have been burned by "invisible fire" they couldn't see. Always work in dim conditions so the flame is visible, and never walk through an area where fire was burning until you're certain it's fully extinguished.
@@ -66,11 +66,6 @@ This is the build that goes viral. Fire writing in a dark room, filmed from abov
 
 ## 🔗 See Also
 
-- [Alcohol Vapor Cannon](209-alcohol-vapor-cannon.md) — another build exploiting alcohol combustion
-- [Colored Fire](../pyro-and-chemistry/101-colored-fire.md) — different chemical approaches to colored flames
+- [Alcohol Vapor Cannon](209-alcohol-vapor-cannon/) — another build exploiting alcohol combustion
+- [Colored Fire](../pyro-and-chemistry/101-colored-fire/) — different chemical approaches to colored flames
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)

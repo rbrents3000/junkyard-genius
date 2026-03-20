@@ -66,5 +66,5 @@ Fractals are infinitely detailed mathematical structures — the Mandelbrot set,
 
 ## 🔗 See Also
 
-- [Generative Art Plotter](142-generative-art-plotter.md)
-- [Glow Resin River Table](../pyro-and-chemistry/117-glow-resin-river-table.md)
+- [Generative Art Plotter](142-generative-art-plotter/)
+- [Glow Resin River Table](../pyro-and-chemistry/117-glow-resin-river-table/)

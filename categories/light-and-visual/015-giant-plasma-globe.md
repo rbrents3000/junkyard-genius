@@ -71,7 +71,7 @@ The principle is identical to a store-bought plasma globe: a central electrode d
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide before starting.
 
 > [!CAUTION]
 > **MOTs are lethal.** The same warnings from every MOT project apply — 2,000V+ at lethal current. Never touch anything on the high-voltage side while powered. Use a remote kill switch. Work on a rubber mat. One hand rule.
@@ -81,10 +81,6 @@ The principle is identical to a store-bought plasma globe: a central electrode d
 
 ## 🔗 See Also
 
-- [Plasma Tornado Lamp](../fire-and-plasma/001-plasma-tornado-lamp.md) — plasma in a vortex instead of a sphere
-- [Plasma Speaker](../sound-and-music/008-plasma-speaker.md) — plasma that plays music
+- [Plasma Tornado Lamp](../fire-and-plasma/001-plasma-tornado-lamp/) — plasma in a vortex instead of a sphere
+- [Plasma Speaker](../sound-and-music/008-plasma-speaker/) — plasma that plays music
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

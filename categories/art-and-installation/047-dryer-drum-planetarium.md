@@ -68,5 +68,5 @@ Real planetarium projectors cost tens of thousands of dollars and use fiber opti
 
 ## 🔗 See Also
 
-- [CRT Electromagnetic Art](048-crt-electromagnetic-art.md)
-- [Scrap Metal Sculpture](045-scrap-metal-sculpture.md)
+- [CRT Electromagnetic Art](048-crt-electromagnetic-art/)
+- [Scrap Metal Sculpture](045-scrap-metal-sculpture/)

@@ -84,10 +84,7 @@ Add an ESP32 or ESP8266 instead of a basic Arduino and you get WiFi connectivity
 
 ## 🔗 See Also
 
-- [Laser Voice Communicator](265-laser-communicator.md)
-- [Laser Harp](267-laser-harp.md)
-- [Faraday Cage](../survival-off-grid/252-faraday-cage.md)
+- [Laser Voice Communicator](265-laser-communicator/)
+- [Laser Harp](267-laser-harp/)
+- [Faraday Cage](../survival-off-grid/252-faraday-cage/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

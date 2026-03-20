@@ -82,5 +82,5 @@ The key upgrade over a store-bought slip-and-slide is the raised launch ramp (3-
 
 ## 🔗 See Also
 
-- [Trebuchet](../mechanical-and-kinetic/185-trebuchet.md) — another big outdoor build with a high fun-to-danger ratio
-- [Weather Balloon Launch](192-weather-balloon-launch.md) — take the "big builds" concept literally vertical
+- [Trebuchet](../mechanical-and-kinetic/185-trebuchet/) — another big outdoor build with a high fun-to-danger ratio
+- [Weather Balloon Launch](192-weather-balloon-launch/) — take the "big builds" concept literally vertical

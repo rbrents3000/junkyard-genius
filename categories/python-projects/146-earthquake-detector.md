@@ -64,11 +64,6 @@ Every smartphone contains an accelerometer — a precision sensor that detects m
 
 ## 🔗 See Also
 
-- [ESP32 Weather Station](../pi-and-arduino/132-esp32-weather-station.md)
-- [EMF Ghost Detector](../pi-and-arduino/140-emf-ghost-detector.md)
+- [ESP32 Weather Station](../pi-and-arduino/132-esp32-weather-station/)
+- [EMF Ghost Detector](../pi-and-arduino/140-emf-ghost-detector/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

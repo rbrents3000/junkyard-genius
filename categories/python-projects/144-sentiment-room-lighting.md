@@ -65,11 +65,6 @@ A microphone picks up conversation. Speech recognition converts it to text. Natu
 
 ## 🔗 See Also
 
-- [Music Visualizer LED Wall](145-music-visualizer-led-wall.md)
-- [Voice Home Automation](149-voice-home-automation.md)
+- [Music Visualizer LED Wall](145-music-visualizer-led-wall/)
+- [Voice Home Automation](149-voice-home-automation/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -64,5 +64,5 @@ It takes 3 seconds, costs nothing, and produces genuine plasma — the fourth st
 
 ## 🔗 See Also
 
-- [Musical Tesla Coil](033-musical-tesla-coil.md)
-- [Jacob's Ladder](034-jacobs-ladder.md)
+- [Musical Tesla Coil](033-musical-tesla-coil/)
+- [Jacob's Ladder](034-jacobs-ladder/)

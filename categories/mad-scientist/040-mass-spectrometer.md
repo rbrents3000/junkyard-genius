@@ -39,7 +39,7 @@ This is the most intellectually demanding build in the book. But the payoff is i
 <details>
 <summary><strong>🧰 Ingredients</strong></summary>
 
-- [ ] Vacuum chamber — from build #039 or similar, capable of reaching <1 Torr *(see [Vacuum Chamber](039-vacuum-chamber.md))*
+- [ ] Vacuum chamber — from build #039 or similar, capable of reaching <1 Torr *(see [Vacuum Chamber](039-vacuum-chamber/))*
 - [ ] CRT electron gun assembly — provides hot filament and accelerating electrodes *(dead CRT TV)*
 - [ ] High-voltage power supply — adjustable 500V-5kV DC, low current *(flyback driver or dedicated supply)*
 - [ ] Strong magnets — neodymium block magnets or an electromagnet coil *(dead hard drives, motors)*
@@ -66,7 +66,7 @@ This is the most intellectually demanding build in the book. But the payoff is i
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide and High Voltage Safety before starting.
 
 - The high-voltage power supply is a serious electrical hazard. All HV connections must be inside the sealed vacuum chamber or properly insulated. Never open the chamber while the HV is energized. Include interlocks that cut HV when the chamber is vented.
 - Heating unknown materials can release toxic fumes. Even inside a vacuum chamber, the material may outgas when you vent. Vent the chamber outdoors or into a fume hood. Do not vaporize lead, mercury, cadmium, or other toxic metals without proper containment.
@@ -74,10 +74,6 @@ This is the most intellectually demanding build in the book. But the payoff is i
 
 ## 🔗 See Also
 
-- [Vacuum Chamber](039-vacuum-chamber.md)
-- [Cloud Chamber](041-cloud-chamber.md)
+- [Vacuum Chamber](039-vacuum-chamber/)
+- [Cloud Chamber](041-cloud-chamber/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

@@ -64,5 +64,5 @@ A solar still uses the sun to evaporate water from moist soil, contaminated wate
 
 ## 🔗 See Also
 
-- [Gravity Water Filter](250-gravity-water-filter.md)
-- [Rocket Stove](253-rocket-stove.md)
+- [Gravity Water Filter](250-gravity-water-filter/)
+- [Rocket Stove](253-rocket-stove/)

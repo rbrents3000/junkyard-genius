@@ -84,9 +84,6 @@ The photos and video from near-space are genuinely breathtaking. You can see wea
 
 ## 🔗 See Also
 
-- [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse.md) — another big build combining physical structure with electronics
-- [Ham Radio from Scratch](193-ham-radio-from-scratch.md) — another way to reach beyond your neighborhood using DIY technology
+- [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse/) — another big build combining physical structure with electronics
+- [Ham Radio from Scratch](193-ham-radio-from-scratch/) — another way to reach beyond your neighborhood using DIY technology
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

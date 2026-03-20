@@ -70,5 +70,5 @@ The physics are elegant: the spring has many resonant modes at different frequen
 
 ## 🔗 See Also
 
-- [Aeolian Wind Harp](013-aeolian-wind-harp.md) — another instrument that plays itself using natural forces
-- [Bone Conduction Speaker](014-bone-conduction-speaker.md) — another unusual way to produce and transmit sound
+- [Aeolian Wind Harp](013-aeolian-wind-harp/) — another instrument that plays itself using natural forces
+- [Bone Conduction Speaker](014-bone-conduction-speaker/) — another unusual way to produce and transmit sound

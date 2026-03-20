@@ -68,11 +68,6 @@ A vacuum motor creates suction — negative pressure that pulls the motor housin
 
 ## 🔗 See Also
 
-- [Vacuum Hovercraft](075-vacuum-hovercraft.md)
-- [Cyclone Dust Separator](077-cyclone-dust-separator.md)
+- [Vacuum Hovercraft](075-vacuum-hovercraft/)
+- [Cyclone Dust Separator](077-cyclone-dust-separator/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

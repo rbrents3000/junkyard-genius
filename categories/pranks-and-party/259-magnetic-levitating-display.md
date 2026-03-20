@@ -90,10 +90,7 @@ You can levitate anything that has a magnet embedded in it: a globe, a light bul
 
 ## 🔗 See Also
 
-- [Self-Pouring Bottle](258-self-pouring-bottle.md)
-- [Laser Spirograph](../laser-lab/271-laser-spirograph.md)
-- [Invisible Bluetooth Speaker](254-invisible-speaker.md)
+- [Self-Pouring Bottle](258-self-pouring-bottle/)
+- [Laser Spirograph](../laser-lab/271-laser-spirograph/)
+- [Invisible Bluetooth Speaker](254-invisible-speaker/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

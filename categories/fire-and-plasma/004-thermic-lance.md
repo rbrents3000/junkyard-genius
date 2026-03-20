@@ -67,7 +67,7 @@ This is the same tool demolition crews use to cut apart bridges and industrial e
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
+> **Spicy Level 5 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety, High Voltage Safety before starting.
 
 > [!CAUTION]
 > **This operates at temperatures that will instantly ignite anything flammable.** Molten slag at 4,500degF sprays in unpredictable directions. Do this outdoors on bare dirt or concrete, far from any structure. Have a fire extinguisher AND a garden hose ready. The slag can start fires 10+ feet away.
@@ -77,5 +77,5 @@ This is the same tool demolition crews use to cut apart bridges and industrial e
 
 ## 🔗 See Also
 
-- [Desktop Foundry](005-desktop-foundry.md) — a gentler way to melt metal, with more control
-- [Fresnel Lens Solar Forge](../light-and-visual/020-fresnel-lens-solar-forge.md) — another way to achieve metal-melting temperatures from scavenged parts
+- [Desktop Foundry](005-desktop-foundry/) — a gentler way to melt metal, with more control
+- [Fresnel Lens Solar Forge](../light-and-visual/020-fresnel-lens-solar-forge/) — another way to achieve metal-melting temperatures from scavenged parts

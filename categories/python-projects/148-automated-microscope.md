@@ -68,11 +68,6 @@ A microscope shows you a tiny area at high magnification. An automated microscop
 
 ## 🔗 See Also
 
-- [Printer Robot Arm](../pi-and-arduino/129-printer-robot-arm.md)
-- [Generative Art Plotter](142-generative-art-plotter.md)
+- [Printer Robot Arm](../pi-and-arduino/129-printer-robot-arm/)
+- [Generative Art Plotter](142-generative-art-plotter/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

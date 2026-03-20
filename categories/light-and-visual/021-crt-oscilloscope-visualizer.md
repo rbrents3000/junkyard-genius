@@ -75,5 +75,5 @@ This is essentially what an oscilloscope does, but on a much larger screen and w
 
 ## 🔗 See Also
 
-- [Ferrofluid Speaker](../sound-and-music/011-ferrofluid-speaker.md) — another analog music visualization method
-- [Plasma Speaker](../sound-and-music/008-plasma-speaker.md) — audio driving an electrical phenomenon for a visual+audio experience
+- [Ferrofluid Speaker](../sound-and-music/011-ferrofluid-speaker/) — another analog music visualization method
+- [Plasma Speaker](../sound-and-music/008-plasma-speaker/) — audio driving an electrical phenomenon for a visual+audio experience

@@ -39,8 +39,8 @@ The control systems are independent: the levitation PID loop stabilizes the elec
 <details>
 <summary><strong>🧰 Ingredients</strong></summary>
 
-- [ ] Electromagnetic levitation system — electromagnet + Hall sensor + PID controller + MOSFET, from build #038 *(see [Electromagnetic Levitator](../mad-scientist/038-electromagnetic-levitator.md))*
-- [ ] Musical plasma arc system — flyback transformer + audio-modulated driver, from build #033 *(see [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil.md))*
+- [ ] Electromagnetic levitation system — electromagnet + Hall sensor + PID controller + MOSFET, from build #038 *(see [Electromagnetic Levitator](../mad-scientist/038-electromagnetic-levitator/))*
+- [ ] Musical plasma arc system — flyback transformer + audio-modulated driver, from build #033 *(see [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil/))*
 - [ ] Levitated electrode — small ferromagnetic metal piece (steel or iron) with a sharp point for arc emission *(machined or ground from steel rod)*
 - [ ] Ground electrode — metal rod or sphere, mounted below the levitated electrode *(hardware store)*
 - [ ] High-voltage flexible wire — silicone-insulated, thin enough to not destabilize the levitation *(electronics supplier)*
@@ -67,7 +67,7 @@ The control systems are independent: the levitation PID loop stabilizes the elec
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 5 build.** Read the Safety Guide before starting.
 
 - This build combines the hazards of electromagnetic levitation (hot coils, strong magnets) with the hazards of high-voltage plasma (10-30kV, UV radiation, ozone). Review the safety notes for both build #033 and build #038 before attempting this combination. The hazards don't just add — they multiply, because a levitation failure drops a live HV electrode.
 - If the levitation fails while the arc is active, the electrode falls and the arc follows it. This can cause the arc to strike an unintended target. Design the system so that HV cuts automatically if the levitation loop detects a drop (monitor the PID output — a sudden spike means the object left the control zone). An interlock on the HV supply tied to the levitation controller is strongly recommended.
@@ -75,5 +75,5 @@ The control systems are independent: the levitation PID loop stabilizes the elec
 
 ## 🔗 See Also
 
-- [Electromagnetic Levitator](../mad-scientist/038-electromagnetic-levitator.md)
-- [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil.md)
+- [Electromagnetic Levitator](../mad-scientist/038-electromagnetic-levitator/)
+- [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil/)

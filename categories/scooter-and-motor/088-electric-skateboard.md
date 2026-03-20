@@ -53,7 +53,7 @@ Electric skateboards from brands like Boosted, Meepo, and Evolve cost $400-2000.
 2. **Choose your drive configuration.** Hub motors mount directly to the skateboard truck — the motor IS the wheel. Belt-drive motors mount next to the truck and connect to the wheel via a belt and pulley. Hub motors are simpler to install; belt motors give more torque and better hill climbing.
 3. **Prepare the skateboard deck.** Use a longboard deck (36-42 inches) for stability at speed. Remove the rear truck. If using a hub motor, you may need a wider truck hanger to accommodate the motor. If using belt drive, mount the motor bracket to the rear truck.
 4. **Mount the motor.** For hub motors: install the motor as the rear wheel on the truck, reconnect the hall sensor and phase wires. For belt drive: bolt the motor mount to the rear truck, install the motor with the drive pulley, install the wheel pulley, and tension the belt.
-5. **Build or install the battery pack.** If the scooter battery works, use it directly. If building from 18650 cells: test cells individually (see [Laptop Battery Power Bank](../computer-and-phone/067-laptop-battery-power-bank.md)), assemble a 10S2P or 10S3P pack (36V nominal), and connect a BMS for protection. The pack should match the ESC's voltage requirements.
+5. **Build or install the battery pack.** If the scooter battery works, use it directly. If building from 18650 cells: test cells individually (see [Laptop Battery Power Bank](../computer-and-phone/067-laptop-battery-power-bank/)), assemble a 10S2P or 10S3P pack (36V nominal), and connect a BMS for protection. The pack should match the ESC's voltage requirements.
 6. **Mount the electronics.** Attach the battery pack and ESC to the underside of the deck using an enclosure. The enclosure must protect against road debris and water splashes. Velcro straps through holes drilled in the deck work for quick removal. Route motor wires from the ESC to the rear motor.
 7. **Wire everything.** Connect the battery to the ESC (red to positive, black to negative — polarity matters and reversed polarity kills the ESC instantly). Connect the motor phase wires and hall sensor cable to the ESC. Connect the wireless receiver to the ESC.
 8. **Program the ESC.** Some ESCs require configuration — set motor type, braking mode, acceleration curve, and speed limit. Start with gentle acceleration and low top speed. Use the manufacturer's app or programming card if available.
@@ -68,10 +68,6 @@ Electric skateboards from brands like Boosted, Meepo, and Evolve cost $400-2000.
 
 ## 🔗 See Also
 
-- [Laptop Battery Power Bank](../computer-and-phone/067-laptop-battery-power-bank.md)
-- [Wind Phone Charger](091-wind-phone-charger.md)
+- [Laptop Battery Power Bank](../computer-and-phone/067-laptop-battery-power-bank/)
+- [Wind Phone Charger](091-wind-phone-charger/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

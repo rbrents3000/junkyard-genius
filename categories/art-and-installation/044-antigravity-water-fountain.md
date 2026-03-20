@@ -71,11 +71,6 @@ The visual effect is absolutely stunning in person and almost impossible to capt
 
 ## 🔗 See Also
 
-- [Kinetic Wind Sculpture](043-kinetic-wind-sculpture.md)
-- [Ferrofluid Mirror](046-ferrofluid-mirror.md)
+- [Kinetic Wind Sculpture](043-kinetic-wind-sculpture/)
+- [Ferrofluid Mirror](046-ferrofluid-mirror/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

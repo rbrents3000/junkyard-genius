@@ -82,5 +82,5 @@ Light enters through a narrow slit, hits the grating, and fans out into a spectr
 
 ## 🔗 See Also
 
-- [Kirlian Photography](196-kirlian-photography.md) — another way to visualize invisible electromagnetic phenomena
-- [Lenz's Law Slow-Mo Magnet](199-lenzs-law-slow-mo-magnet.md) — making invisible magnetic fields tangible through their effects
+- [Kirlian Photography](196-kirlian-photography/) — another way to visualize invisible electromagnetic phenomena
+- [Lenz's Law Slow-Mo Magnet](199-lenzs-law-slow-mo-magnet/) — making invisible magnetic fields tangible through their effects

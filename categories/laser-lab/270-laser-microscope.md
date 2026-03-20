@@ -87,12 +87,7 @@ The scanning mechanism is elegant: a small mirror glued to a motor shaft. As the
 
 ## 🔗 See Also
 
-- [Laser Voice Communicator](265-laser-communicator.md)
-- [Blu-Ray Laser Cutter](269-blu-ray-laser-cutter.md)
-- [Galvanometer Laser Light Show](266-laser-galvo-show.md)
+- [Laser Voice Communicator](265-laser-communicator/)
+- [Blu-Ray Laser Cutter](269-blu-ray-laser-cutter/)
+- [Galvanometer Laser Light Show](266-laser-galvo-show/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -64,9 +64,6 @@ The beauty of bleach tie-dye is the control. Unlike traditional tie-dye where co
 
 ## 🔗 See Also
 
-- [Hand Sanitizer Fire Art](210-hand-sanitizer-fire-art.md) — another build using a common household chemical for artistic effect
-- [Invisible Ink Message Board](216-invisible-ink-message-board.md) — pH chemistry used for revealing hidden patterns
+- [Hand Sanitizer Fire Art](210-hand-sanitizer-fire-art/) — another build using a common household chemical for artistic effect
+- [Invisible Ink Message Board](216-invisible-ink-message-board/) — pH chemistry used for revealing hidden patterns
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

@@ -83,10 +83,7 @@ The setup doubles as a functional utility station. Between art sessions, the sam
 
 ## 🔗 See Also
 
-- [Pen Plotter](072-pen-plotter.md)
-- [Generative Art Plotter](../python-projects/142-generative-art-plotter.md)
-- [Inkjet Bioprinter](073-inkjet-bioprinter.md)
+- [Pen Plotter](072-pen-plotter/)
+- [Generative Art Plotter](../python-projects/142-generative-art-plotter/)
+- [Inkjet Bioprinter](073-inkjet-bioprinter/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

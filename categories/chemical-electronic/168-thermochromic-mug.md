@@ -65,9 +65,6 @@ Thermochromic pigment changes from opaque to transparent at a specific temperatu
 
 ## 🔗 See Also
 
-- [Thermochromic Paint](../pyro-and-chemistry/119-thermochromic-paint.md)
-- [pH Reactive Paint](163-ph-reactive-paint.md)
+- [Thermochromic Paint](../pyro-and-chemistry/119-thermochromic-paint/)
+- [pH Reactive Paint](163-ph-reactive-paint/)
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

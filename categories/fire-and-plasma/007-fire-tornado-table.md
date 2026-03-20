@@ -64,7 +64,7 @@ The physics is the same as a real tornado — angular momentum concentrates the 
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety, High Voltage Safety before starting.
 
 > [!WARNING]
 > **Keep the fire tornado away from overhead flammables.** The flame column can easily reach 3 feet tall and sometimes throws sparks. Do this outdoors or under a high, non-flammable ceiling. Not under a canopy, tree, or garage ceiling.
@@ -74,5 +74,5 @@ The physics is the same as a real tornado — angular momentum concentrates the 
 
 ## 🔗 See Also
 
-- [Propane Vortex Cannon](003-propane-vortex-cannon.md) — fire vortex rings that fly through the air instead of staying in place
-- [Rubens' Tube](../sound-and-music/009-rubens-tube.md) — another fire-based physics demonstration
+- [Propane Vortex Cannon](003-propane-vortex-cannon/) — fire vortex rings that fly through the air instead of staying in place
+- [Rubens' Tube](../sound-and-music/009-rubens-tube/) — another fire-based physics demonstration

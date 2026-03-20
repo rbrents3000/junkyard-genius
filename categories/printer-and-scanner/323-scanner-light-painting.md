@@ -82,6 +82,6 @@ The most mind-bending application is scanner portraiture: place your face on the
 
 ## 🔗 See Also
 
-- [Scanner Camera](070-scanner-camera.md)
-- [Pen Plotter](072-pen-plotter.md)
-- [Light Painting Robot](../light-and-visual/178-light-painting-robot.md)
+- [Scanner Camera](070-scanner-camera/)
+- [Pen Plotter](072-pen-plotter/)
+- [Light Painting Robot](../light-and-visual/178-light-painting-robot/)

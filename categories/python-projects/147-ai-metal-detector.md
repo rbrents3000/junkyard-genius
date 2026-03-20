@@ -68,9 +68,6 @@ Traditional metal detectors beep and you dig. You don't know if it's a gold ring
 
 ## 🔗 See Also
 
-- [Automated Microscope](148-automated-microscope.md)
-- [Earthquake Detector](146-earthquake-detector.md)
+- [Automated Microscope](148-automated-microscope/)
+- [Earthquake Detector](146-earthquake-detector/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

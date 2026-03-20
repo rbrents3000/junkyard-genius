@@ -66,9 +66,6 @@ Drop dry ice into warm water in a bowl or cauldron and it produces thick, low-ly
 
 ## 🔗 See Also
 
-- [Dry Ice Comet Balls](114-dry-ice-comet-balls.md)
-- [Elephant Toothpaste](102-elephant-toothpaste.md)
+- [Dry Ice Comet Balls](114-dry-ice-comet-balls/)
+- [Elephant Toothpaste](102-elephant-toothpaste/)
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

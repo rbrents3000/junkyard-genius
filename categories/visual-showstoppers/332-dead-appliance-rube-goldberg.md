@@ -86,5 +86,5 @@ This build is pure creative problem-solving. There is no schematic because no tw
 
 ## 🔗 See Also
 
-- [Musical Marble Machine](../mechanical-and-kinetic/181-musical-marble-machine.md) — another precision mechanical build driven by gravity and patience
-- [Chain Fountain](../mechanical-and-kinetic/184-chain-fountain.md) — a simpler chain-reaction physics demo with spectacular results
+- [Musical Marble Machine](../mechanical-and-kinetic/181-musical-marble-machine/) — another precision mechanical build driven by gravity and patience
+- [Chain Fountain](../mechanical-and-kinetic/184-chain-fountain/) — a simpler chain-reaction physics demo with spectacular results

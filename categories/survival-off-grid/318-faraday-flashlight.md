@@ -79,11 +79,7 @@ The flashlight works effectively forever because there's nothing to wear out. No
 
 ## 🔗 See Also
 
-- [Crystal Radio](317-crystal-radio.md)
-- [Hand-Crank Phone Charger](251-hand-crank-charger.md)
-- [E-Waste Wind Turbine](../unholy-combos/285-e-waste-wind-turbine.md)
+- [Crystal Radio](317-crystal-radio/)
+- [Hand-Crank Phone Charger](251-hand-crank-charger/)
+- [E-Waste Wind Turbine](../unholy-combos/285-e-waste-wind-turbine/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

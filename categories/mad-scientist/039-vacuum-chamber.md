@@ -69,5 +69,5 @@ A refrigerator compressor is a positive-displacement pump. Normally it compresse
 
 ## 🔗 See Also
 
-- [Silent Compressor](../functional-machines/031-silent-compressor.md)
-- [Cloud Chamber](041-cloud-chamber.md)
+- [Silent Compressor](../functional-machines/031-silent-compressor/)
+- [Cloud Chamber](041-cloud-chamber/)

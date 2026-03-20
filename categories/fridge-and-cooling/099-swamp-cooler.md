@@ -62,5 +62,5 @@ Evaporative cooling is the oldest AC on earth — it's why sweating works. Water
 
 ## 🔗 See Also
 
-- [Peltier Portable Cooler](096-peltier-portable-cooler.md)
-- [Ultrasonic Fog Machine](../humidifier-and-water/084-ultrasonic-fog-machine.md)
+- [Peltier Portable Cooler](096-peltier-portable-cooler/)
+- [Ultrasonic Fog Machine](../humidifier-and-water/084-ultrasonic-fog-machine/)

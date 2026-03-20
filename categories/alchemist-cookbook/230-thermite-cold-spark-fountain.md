@@ -61,7 +61,7 @@ Thermite is iron oxide + aluminum powder. When ignited, it undergoes an aluminot
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 5 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
 - Thermite produces molten iron at 4,000°F that burns through steel, concrete, and virtually everything else. The reaction sprays molten droplets several feet in all directions. Use a steel plate or thick sand bed underneath. Clear a 15-foot radius of all combustible materials. Wear a full-face shield, leather gloves, and long sleeves. Never lean over a thermite reaction. Never attempt thermite on surfaces you care about.
 - Despite the cold sparks being safe to touch, the audience must understand which side is which. Mark the thermite zone clearly and keep all people behind the cold spark side. A confused spectator walking toward the "pretty sparks" on the wrong side could walk into molten iron splatter.
@@ -69,11 +69,6 @@ Thermite is iron oxide + aluminum powder. When ignited, it undergoes an aluminot
 
 ## 🔗 See Also
 
-- [Thermite Flower Pot](../pyro-and-chemistry/105-thermite-flower-pot.md)
-- [Cold Spark Machine](../pyro-and-chemistry/104-cold-spark-machine.md)
+- [Thermite Flower Pot](../pyro-and-chemistry/105-thermite-flower-pot/)
+- [Cold Spark Machine](../pyro-and-chemistry/104-cold-spark-machine/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)

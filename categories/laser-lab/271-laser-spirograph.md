@@ -82,11 +82,7 @@ This is one of the simplest builds in the laser lab — two motors, two mirrors,
 
 ## 🔗 See Also
 
-- [Galvanometer Laser Light Show](266-laser-galvo-show.md)
-- [Laser Harp](267-laser-harp.md)
-- [Laser Voice Communicator](265-laser-communicator.md)
+- [Galvanometer Laser Light Show](266-laser-galvo-show/)
+- [Laser Harp](267-laser-harp/)
+- [Laser Voice Communicator](265-laser-communicator/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

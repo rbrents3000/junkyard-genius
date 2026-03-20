@@ -85,10 +85,6 @@ The build itself is mechanically simple: a heavy weight, a long wire, and a stur
 
 ## 🔗 See Also
 
-- [Van de Graaff Generator](197-van-de-graaff-generator.md) — another build that makes an invisible force tangibly, dramatically real
-- [Homopolar Motor](198-homopolar-motor.md) — rotational physics in a form you can hold in your hand
+- [Van de Graaff Generator](197-van-de-graaff-generator/) — another build that makes an invisible force tangibly, dramatically real
+- [Homopolar Motor](198-homopolar-motor/) — rotational physics in a form you can hold in your hand
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

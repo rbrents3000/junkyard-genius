@@ -64,5 +64,5 @@ Ultrasonic humidifiers work by vibrating a piezoelectric disc at 1.7 MHz, atomiz
 
 ## 🔗 See Also
 
-- [Fog Waterfall Table](086-fog-waterfall-table.md)
-- [Nebula Lamp](087-nebula-lamp.md)
+- [Fog Waterfall Table](086-fog-waterfall-table/)
+- [Nebula Lamp](087-nebula-lamp/)

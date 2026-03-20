@@ -65,5 +65,5 @@ Nam June Paik pioneered this as an art form in the 1960s, creating "Magnet TV" â
 
 ## ðŸ”— See Also
 
-- [Dryer Drum Planetarium](047-dryer-drum-planetarium.md)
-- [Scrap Metal Sculpture](045-scrap-metal-sculpture.md)
+- [Dryer Drum Planetarium](047-dryer-drum-planetarium/)
+- [Scrap Metal Sculpture](045-scrap-metal-sculpture/)

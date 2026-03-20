@@ -68,11 +68,6 @@ Every inkjet and laser printer contains precision stepper motors that position t
 
 ## 🔗 See Also
 
-- [Automated Microscope](../python-projects/148-automated-microscope.md)
-- [Nerf Sentry Turret](138-nerf-sentry-turret.md)
+- [Automated Microscope](../python-projects/148-automated-microscope/)
+- [Nerf Sentry Turret](138-nerf-sentry-turret/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

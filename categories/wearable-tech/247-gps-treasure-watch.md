@@ -81,9 +81,6 @@ The applications go way beyond geocaching. Program it with the coordinates of yo
 
 ## 🔗 See Also
 
-- [Heads-Up Display Glasses](245-hud-glasses.md)
-- [Nichrome Wire Heated Gloves](243-heated-gloves.md)
+- [Heads-Up Display Glasses](245-hud-glasses/)
+- [Nichrome Wire Heated Gloves](243-heated-gloves/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

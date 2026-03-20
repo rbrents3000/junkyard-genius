@@ -70,9 +70,6 @@ It's a beautiful physics demonstration that takes 20 minutes to build with ingre
 
 ## 🔗 See Also
 
-- [Acetone Styrofoam Sculptor](211-acetone-styrofoam-sculptor.md) — another build demonstrating how different materials interact chemically
-- [Invisible Ink Message Board](216-invisible-ink-message-board.md) — another kitchen-science visual demonstration
+- [Acetone Styrofoam Sculptor](211-acetone-styrofoam-sculptor/) — another build demonstrating how different materials interact chemically
+- [Invisible Ink Message Board](216-invisible-ink-message-board/) — another kitchen-science visual demonstration
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

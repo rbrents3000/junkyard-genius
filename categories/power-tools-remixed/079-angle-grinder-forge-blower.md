@@ -62,10 +62,6 @@ A forge needs forced air to reach welding and forging temperatures — the fire 
 
 ## 🔗 See Also
 
-- [Sawzall Power Hammer](081-sawzall-power-hammer.md)
-- [Circular Saw Table Saw](082-circular-saw-table-saw.md)
+- [Sawzall Power Hammer](081-sawzall-power-hammer/)
+- [Circular Saw Table Saw](082-circular-saw-table-saw/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

@@ -76,7 +76,7 @@ Building one from scratch is the hardest project in this entire collection. You 
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide before starting.
 
 > [!CAUTION]
 > **CRT implosion.** CRT tubes are under hard vacuum and can implode with violent force, sending glass shrapnel in all directions. Always wear a full face shield and heavy gloves when cutting or breaking CRT glass. Work in a contained area. Never strike or drop a CRT.
@@ -86,9 +86,6 @@ Building one from scratch is the hardest project in this entire collection. You 
 
 ## 🔗 See Also
 
-- [Kirlian Photography](196-kirlian-photography.md) — another project that reveals invisible electromagnetic phenomena visually
-- [Van de Graaff Generator](197-van-de-graaff-generator.md) — high-voltage electrostatics on a more accessible scale
+- [Kirlian Photography](196-kirlian-photography/) — another project that reveals invisible electromagnetic phenomena visually
+- [Van de Graaff Generator](197-van-de-graaff-generator/) — high-voltage electrostatics on a more accessible scale
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

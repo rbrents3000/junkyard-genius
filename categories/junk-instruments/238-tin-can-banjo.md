@@ -76,5 +76,5 @@ The build is simpler than the cigar box guitar because the can provides a ready-
 
 ## 🔗 See Also
 
-- [Cigar Box Guitar](235-cigar-box-guitar.md) — wooden box version with more low-end, similar build process
-- [Garden Hose Didgeridoo](240-garden-hose-didgeridoo.md) — another instrument built from a single household item
+- [Cigar Box Guitar](235-cigar-box-guitar/) — wooden box version with more low-end, similar build process
+- [Garden Hose Didgeridoo](240-garden-hose-didgeridoo/) — another instrument built from a single household item

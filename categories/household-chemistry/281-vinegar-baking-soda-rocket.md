@@ -78,9 +78,6 @@ Scale up to a 2-liter soda bottle and you enter a different league entirely. A c
 
 ## 🔗 See Also
 
-- [Alcohol Vapor Cannon](209-alcohol-vapor-cannon.md)
-- [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste.md)
+- [Alcohol Vapor Cannon](209-alcohol-vapor-cannon/)
+- [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste/)
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

@@ -44,7 +44,7 @@ This is a serious project. It takes weeks to months of cell collection and testi
 - [ ] 18650 cell holders — modular PCB-style holders that snap together *(online, ~$0.10-$0.30 each)*
 - [ ] BMS (Battery Management System) — monitors voltage of each cell group, prevents overcharge/overdischarge *(electronics supplier, $20-$100 depending on configuration)*
 - [ ] Nickel strip — for tab welding cells in series/parallel *(electronics supplier)*
-- [ ] Spot welder — see [Spot Welder](../functional-machines/027-spot-welder.md) *(build your own)*
+- [ ] Spot welder — see [Spot Welder](../functional-machines/027-spot-welder/) *(build your own)*
 - [ ] Bus bars and heavy-gauge wire — for pack-to-pack connections *(electrical supplier)*
 - [ ] Fuses — one per cell or per parallel group *(electronics supplier)*
 - [ ] Inverter — pure sine wave, 1000W-3000W, to convert battery DC to household AC *(electronics supplier, ~$100-$300)*
@@ -69,7 +69,7 @@ This is a serious project. It takes weeks to months of cell collection and testi
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide and High Voltage Safety before starting.
 
 - Lithium-ion batteries can catch fire or explode if shorted, overcharged, or physically damaged. A powerwall contains enough energy to cause a serious fire. The BMS is your primary safety system — never bypass it. Install smoke detectors near the powerwall. Keep a Class D fire extinguisher (or sand bucket) nearby. Do not install inside living spaces.
 - Individual cell testing is tedious but non-negotiable. A single weak cell in a parallel group can be forced into reverse polarity by the stronger cells, leading to venting and thermal runaway. Matched capacity groups prevent this. The fuse on each cell or group is the second line of defense.
@@ -77,5 +77,5 @@ This is a serious project. It takes weeks to months of cell collection and testi
 
 ## 🔗 See Also
 
-- [Spot Welder](../functional-machines/027-spot-welder.md)
-- [Capacitor Discharge Welder](../functional-machines/032-capacitor-discharge-welder.md)
+- [Spot Welder](../functional-machines/027-spot-welder/)
+- [Capacitor Discharge Welder](../functional-machines/032-capacitor-discharge-welder/)

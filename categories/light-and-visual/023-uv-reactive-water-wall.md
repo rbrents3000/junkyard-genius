@@ -77,10 +77,6 @@ The glow is genuine fluorescence — the dye molecules absorb UV photons and emi
 
 ## 🔗 See Also
 
-- [UV Mineral Display](177-uv-mineral-display.md) — UV light revealing hidden fluorescence in natural minerals
-- [Infinity Mirror Table](016-infinity-mirror-table.md) — another LED-based installation that transforms a space
+- [UV Mineral Display](177-uv-mineral-display/) — UV light revealing hidden fluorescence in natural minerals
+- [Infinity Mirror Table](016-infinity-mirror-table/) — another LED-based installation that transforms a space
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

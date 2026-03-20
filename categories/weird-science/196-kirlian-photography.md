@@ -72,7 +72,7 @@ Semyon Kirlian discovered this in 1939, and it immediately attracted mystical ex
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 > [!WARNING]
 > **High voltage.** The flyback output is 10-30kV. While the current is low (microamps to low milliamps), it can deliver a painful shock and cause involuntary muscle contraction. Never touch the metal plate or any exposed conductor while the driver is powered. Use a physical kill switch within arm's reach and always disconnect power before adjusting anything.
@@ -82,5 +82,5 @@ Semyon Kirlian discovered this in 1939, and it immediately attracted mystical ex
 
 ## 🔗 See Also
 
-- [Van de Graaff Generator](197-van-de-graaff-generator.md) — another high-voltage electrostatics build with dramatic visual results
-- [DIY Electron Microscope](200-diy-electron-microscope.md) — taking electron manipulation to the extreme
+- [Van de Graaff Generator](197-van-de-graaff-generator/) — another high-voltage electrostatics build with dramatic visual results
+- [DIY Electron Microscope](200-diy-electron-microscope/) — taking electron manipulation to the extreme

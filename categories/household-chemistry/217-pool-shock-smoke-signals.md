@@ -61,7 +61,7 @@ This is a serious chemistry reaction with real hazards. The reaction produces ex
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
 - The fumes from this reaction contain chlorine gas and hydrochloric acid vapor, both of which are toxic to inhale. Stay upwind at all times. If you smell a sharp, acrid, swimming-pool-like odor, you are too close — move further upwind immediately. Prolonged inhalation can cause chemical burns to the lungs.
 - The reaction is exothermic and self-sustaining once started. It cannot be stopped. Do not attempt to extinguish with water — adding water to hot calcium hypochlorite can cause a violent steam explosion and release more chlorine gas. If the fire spreads, use a dry chemical (ABC) extinguisher.
@@ -69,11 +69,6 @@ This is a serious chemistry reaction with real hazards. The reaction produces ex
 
 ## 🔗 See Also
 
-- [Colored Fire](../pyro-and-chemistry/101-colored-fire.md) — other chemical reactions that produce dramatic visual effects
-- [Alcohol Vapor Cannon](209-alcohol-vapor-cannon.md) — another build combining household chemicals and combustion
+- [Colored Fire](../pyro-and-chemistry/101-colored-fire/) — other chemical reactions that produce dramatic visual effects
+- [Alcohol Vapor Cannon](209-alcohol-vapor-cannon/) — another build combining household chemicals and combustion
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)

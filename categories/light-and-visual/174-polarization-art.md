@@ -73,5 +73,5 @@ The physics: cellophane tape is birefringent — it bends different polarization
 
 ## 🔗 See Also
 
-- [Shadow Chandelier](018-shadow-chandelier.md) — another way to create art through light manipulation
-- [Camera Obscura Room](175-camera-obscura-room.md) — optics creating unexpected visual experiences
+- [Shadow Chandelier](018-shadow-chandelier/) — another way to create art through light manipulation
+- [Camera Obscura Room](175-camera-obscura-room/) — optics creating unexpected visual experiences

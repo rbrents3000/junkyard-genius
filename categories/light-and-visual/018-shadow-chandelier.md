@@ -76,5 +76,5 @@ The beauty is in the math: because light travels in straight lines from a point 
 
 ## 🔗 See Also
 
-- [Camera Obscura Room](175-camera-obscura-room.md) — another project that transforms an entire room using light projection
-- [Polarization Art](174-polarization-art.md) — hidden visual patterns revealed through optics
+- [Camera Obscura Room](175-camera-obscura-room/) — another project that transforms an entire room using light projection
+- [Polarization Art](174-polarization-art/) — hidden visual patterns revealed through optics

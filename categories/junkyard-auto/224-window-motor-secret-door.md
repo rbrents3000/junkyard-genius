@@ -66,11 +66,6 @@ A car power window motor is a compact geared DC motor designed to lift a heavy g
 
 ## 🔗 See Also
 
-- [Hydraulic Robot Arm](../mechanical-and-kinetic/183-hydraulic-robot-arm.md)
-- [Smart Mirror](../pi-and-arduino/123-smart-mirror.md)
+- [Hydraulic Robot Arm](../mechanical-and-kinetic/183-hydraulic-robot-arm/)
+- [Smart Mirror](../pi-and-arduino/123-smart-mirror/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

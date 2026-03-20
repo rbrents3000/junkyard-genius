@@ -90,5 +90,5 @@ Add a DC power supply (a benchtop unit or a repurposed laptop charger), some cop
 
 ## 🔗 See Also
 
-- [Toaster Reflow Oven](260-toaster-reflow-oven.md)
-- [Coffee Maker Distiller](262-coffee-maker-distiller.md)
+- [Toaster Reflow Oven](260-toaster-reflow-oven/)
+- [Coffee Maker Distiller](262-coffee-maker-distiller/)

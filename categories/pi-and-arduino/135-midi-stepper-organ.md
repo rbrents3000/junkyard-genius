@@ -67,11 +67,6 @@ Every stepper motor makes a whining noise when it runs — it's the sound of the
 
 ## 🔗 See Also
 
-- [Arduino Guitar Pedal](124-arduino-guitar-pedal.md)
-- [LED Cube 8x8x8](122-led-cube-8x8x8.md)
+- [Arduino Guitar Pedal](124-arduino-guitar-pedal/)
+- [LED Cube 8x8x8](122-led-cube-8x8x8/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

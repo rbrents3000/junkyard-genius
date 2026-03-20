@@ -64,10 +64,6 @@ A drill press does one thing a hand drill can't: drill perfectly straight, perpe
 
 ## 🔗 See Also
 
-- [Circular Saw Table Saw](082-circular-saw-table-saw.md)
-- [Router CNC Spindle](083-router-cnc-spindle.md)
+- [Circular Saw Table Saw](082-circular-saw-table-saw/)
+- [Router CNC Spindle](083-router-cnc-spindle/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

@@ -80,5 +80,5 @@ The tuning process requires patience and a chromatic tuner, but no musical train
 
 ## 🔗 See Also
 
-- [Bucket Drum Kit](237-bucket-drum-kit.md) — electronic percussion from even cheaper materials
-- [Thunder Drum](../sound-and-music/012-thunder-drum.md) — another percussion instrument from repurposed materials
+- [Bucket Drum Kit](237-bucket-drum-kit/) — electronic percussion from even cheaper materials
+- [Thunder Drum](../sound-and-music/012-thunder-drum/) — another percussion instrument from repurposed materials

@@ -76,5 +76,5 @@ Square plates produce the most symmetrical, photogenic patterns because the geom
 
 ## 🔗 See Also
 
-- [Kinetic Sand Table](312-kinetic-sand-table.md)
-- [Non-Newtonian Speaker](../pyro-and-chemistry/112-non-newtonian-speaker.md)
+- [Kinetic Sand Table](312-kinetic-sand-table/)
+- [Non-Newtonian Speaker](../pyro-and-chemistry/112-non-newtonian-speaker/)

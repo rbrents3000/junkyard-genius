@@ -65,9 +65,6 @@ Red cabbage contains anthocyanin, a natural pigment that changes color based on 
 
 ## 🔗 See Also
 
-- [Thermochromic Paint](../pyro-and-chemistry/119-thermochromic-paint.md)
-- [Sodium Silicate Demos](164-sodium-silicate-demos.md)
+- [Thermochromic Paint](../pyro-and-chemistry/119-thermochromic-paint/)
+- [Sodium Silicate Demos](164-sodium-silicate-demos/)
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

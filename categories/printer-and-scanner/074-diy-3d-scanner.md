@@ -66,11 +66,6 @@ A laser line module projects a thin vertical line of light. When that line hits 
 
 ## 🔗 See Also
 
-- [Scanner Camera](070-scanner-camera.md)
-- [Printer Stepper CNC](069-printer-stepper-cnc.md)
+- [Scanner Camera](070-scanner-camera/)
+- [Printer Stepper CNC](069-printer-stepper-cnc/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

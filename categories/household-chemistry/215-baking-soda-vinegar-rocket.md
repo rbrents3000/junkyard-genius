@@ -69,9 +69,6 @@ This is the build that every kid remembers. Scaling it up with a 2-liter bottle 
 
 ## 🔗 See Also
 
-- [Alcohol Vapor Cannon](209-alcohol-vapor-cannon.md) — another household-chemical projectile launcher (combustion instead of acid-base)
-- [Hydrogen Generator](../chemical-electronic/159-hydrogen-generator.md) — electrolysis-based gas production for more controlled experiments
+- [Alcohol Vapor Cannon](209-alcohol-vapor-cannon/) — another household-chemical projectile launcher (combustion instead of acid-base)
+- [Hydrogen Generator](../chemical-electronic/159-hydrogen-generator/) — electrolysis-based gas production for more controlled experiments
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

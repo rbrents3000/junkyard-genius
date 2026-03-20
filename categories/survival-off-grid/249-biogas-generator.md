@@ -64,7 +64,7 @@ Anaerobic bacteria eat organic waste and produce methane — the same natural ga
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 - Methane is flammable and explosive when mixed with air at 5-15% concentration. Never use the biogas system indoors without ventilation. Test all connections with soapy water — bubbles mean leaks. Fix every leak before use.
 - Hydrogen sulfide (rotten egg smell) is produced alongside methane. It's toxic in high concentrations. Always operate the digester outdoors and stand upwind when opening the drum.
@@ -72,5 +72,5 @@ Anaerobic bacteria eat organic waste and produce methane — the same natural ga
 
 ## 🔗 See Also
 
-- [Rocket Stove](253-rocket-stove.md)
-- [Gravity Water Filter](250-gravity-water-filter.md)
+- [Rocket Stove](253-rocket-stove/)
+- [Gravity Water Filter](250-gravity-water-filter/)

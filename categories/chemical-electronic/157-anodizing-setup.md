@@ -62,7 +62,7 @@ Anodizing is the process that gives aluminum its colored, scratch-resistant fini
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety, High Voltage Safety before starting.
 
 - Sulfuric acid causes severe chemical burns on contact with skin and eyes, and destroys clothing instantly. Wear acid-resistant gloves, a face shield, and old clothes. Have a neutralizing agent (baking soda) and running water nearby at all times. Work outdoors or in a well-ventilated area.
 - ALWAYS add acid to water, never water to acid. Adding water to concentrated sulfuric acid causes an exothermic reaction that can splash boiling acid.
@@ -70,9 +70,6 @@ Anodizing is the process that gives aluminum its colored, scratch-resistant fini
 
 ## 🔗 See Also
 
-- [Electroplating Station](156-electroplating-station.md)
-- [PCB Etching Station](158-pcb-etching-station.md)
+- [Electroplating Station](156-electroplating-station/)
+- [PCB Etching Station](158-pcb-etching-station/)
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

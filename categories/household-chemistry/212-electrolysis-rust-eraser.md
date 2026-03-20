@@ -64,9 +64,6 @@ This method is superior to chemical rust removers (vinegar, phosphoric acid) and
 
 ## 🔗 See Also
 
-- [Electroplating Station](../chemical-electronic/156-electroplating-station.md) — the same electrolysis principle used to deposit metal instead of removing oxide
-- [Coin Battery Stack](218-coin-battery-stack.md) — another electrochemistry build using household materials
+- [Electroplating Station](../chemical-electronic/156-electroplating-station/) — the same electrolysis principle used to deposit metal instead of removing oxide
+- [Coin Battery Stack](218-coin-battery-stack/) — another electrochemistry build using household materials
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

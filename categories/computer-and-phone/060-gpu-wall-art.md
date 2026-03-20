@@ -64,5 +64,5 @@ Graphics cards are some of the most visually striking pieces of engineering ever
 
 ## 🔗 See Also
 
-- [CPU Resin Jewelry](059-cpu-resin-jewelry.md)
-- [Laptop Screen Monitor](061-laptop-screen-monitor.md)
+- [CPU Resin Jewelry](059-cpu-resin-jewelry/)
+- [Laptop Screen Monitor](061-laptop-screen-monitor/)

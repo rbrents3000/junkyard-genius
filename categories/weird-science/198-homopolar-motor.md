@@ -73,10 +73,6 @@ The "weird science" angle: you can bend the wire into any shape — a dancer, a 
 
 ## 🔗 See Also
 
-- [Ball Bearing Motor](../mechanical-and-kinetic/187-ball-bearing-motor.md) — the mechanical-and-kinetic category's take on the same Lorentz force principle
-- [Van de Graaff Generator](197-van-de-graaff-generator.md) — electromagnetism at the other extreme: high voltage, zero current
+- [Ball Bearing Motor](../mechanical-and-kinetic/187-ball-bearing-motor/) — the mechanical-and-kinetic category's take on the same Lorentz force principle
+- [Van de Graaff Generator](197-van-de-graaff-generator/) — electromagnetism at the other extreme: high voltage, zero current
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

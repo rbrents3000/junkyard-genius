@@ -71,7 +71,7 @@ This is the build that makes people take junkyard engineering seriously. It move
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 - This is a real vehicle. Wear a helmet every single time. At 25 mph on a lightweight frame with no crumple zone, a crash into a curb or wall can cause serious injury. Eye protection and gloves are also non-negotiable.
 - The kill switch must be accessible from the driver's seat with one hand, instantly. Wire it as a normally-open switch in the main power line — if the wire breaks, power cuts. Do not rely on the throttle returning to zero as your only way to stop the motor.
@@ -79,10 +79,6 @@ This is the build that makes people take junkyard engineering seriously. It move
 
 ## 🔗 See Also
 
-- [DIY Powerwall](../power-and-energy/052-diy-powerwall.md)
-- [Scooter Motor Lathe](025-scooter-motor-lathe.md)
+- [DIY Powerwall](../power-and-energy/052-diy-powerwall/)
+- [Scooter Motor Lathe](025-scooter-motor-lathe/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

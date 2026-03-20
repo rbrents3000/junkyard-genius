@@ -70,5 +70,5 @@ Your brain can't tell that the image is a reflection — it interprets it as a r
 
 ## 🔗 See Also
 
-- [Infinity Mirror Table](016-infinity-mirror-table.md) — another optical illusion using partially reflective surfaces
-- [Schlieren Optics](172-schlieren-optics.md) — optics that reveal normally invisible phenomena
+- [Infinity Mirror Table](016-infinity-mirror-table/) — another optical illusion using partially reflective surfaces
+- [Schlieren Optics](172-schlieren-optics/) — optics that reveal normally invisible phenomena

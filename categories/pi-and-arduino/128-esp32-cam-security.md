@@ -67,11 +67,6 @@ Ring and Nest cameras cost $100+ each and require monthly subscriptions. An ESP3
 
 ## 🔗 See Also
 
-- [AI Doorbell](130-ai-doorbell.md)
-- [Auto Plant Watering](127-auto-plant-watering.md)
+- [AI Doorbell](130-ai-doorbell/)
+- [Auto Plant Watering](127-auto-plant-watering/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

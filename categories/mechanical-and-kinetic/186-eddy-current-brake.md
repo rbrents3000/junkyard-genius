@@ -69,10 +69,6 @@ The pipe isn't magnetic. The magnet isn't touching the walls. There's no frictio
 
 ## 🔗 See Also
 
-- [Lenz's Law Slow-Mo Magnet](../weird-science/199-lenzs-law-slow-mo-magnet.md) — the same principle explored further in the Weird Science category
-- [Chain Fountain](184-chain-fountain.md) — another "that can't be real" physics demo
+- [Lenz's Law Slow-Mo Magnet](../weird-science/199-lenzs-law-slow-mo-magnet/) — the same principle explored further in the Weird Science category
+- [Chain Fountain](184-chain-fountain/) — another "that can't be real" physics demo
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

@@ -41,7 +41,7 @@ The spinning ferrofluid sits in a shallow glass dish on a custom-wound stator. T
 
 - [ ] Ferrofluid — 100-200ml, oil-based *(online supplier, ~$20-$40)*
 - [ ] Shallow glass dish — Petri dish or watch glass, 4"-6" diameter *(lab supply, online)*
-- [ ] Stator assembly — 3-6 coils wound on iron cores, arranged in a circle *(wound from magnet wire on iron bolts, see [Ferrofluid Mirror](../art-and-installation/046-ferrofluid-mirror.md))*
+- [ ] Stator assembly — 3-6 coils wound on iron cores, arranged in a circle *(wound from magnet wire on iron bolts, see [Ferrofluid Mirror](../art-and-installation/046-ferrofluid-mirror/))*
 - [ ] Magnet wire — 22-24 AWG enameled copper, ~200 feet *(electronics supplier)*
 - [ ] Iron bolt cores — 3/8" diameter, matching the number of coils *(hardware store)*
 - [ ] Arduino Mega or similar — enough PWM outputs for all coils *(electronics supplier, ~$15)*
@@ -69,7 +69,7 @@ The spinning ferrofluid sits in a shallow glass dish on a custom-wound stator. T
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 - Ferrofluid stains permanently. If it splashes out of the dish (and it will during testing), it will ruin any surface it contacts. Test on a disposable surface. Wear clothes you don't care about. The enclosed dome prevents splatter during normal operation.
 - The stator coils draw significant current and produce heat. Monitor coil temperature during extended operation. If any coil becomes too hot to touch, reduce the duty cycle or add cooling. Overheated coils can melt their enamel insulation and short.
@@ -77,11 +77,6 @@ The spinning ferrofluid sits in a shallow glass dish on a custom-wound stator. T
 
 ## 🔗 See Also
 
-- [Ferrofluid Mirror](../art-and-installation/046-ferrofluid-mirror.md)
-- [Levitating Plasma Speaker](055-levitating-plasma-speaker.md)
+- [Ferrofluid Mirror](../art-and-installation/046-ferrofluid-mirror/)
+- [Levitating Plasma Speaker](055-levitating-plasma-speaker/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -85,9 +85,6 @@ The build breaks into two satisfying phases: the physical structure (cutting, fl
 
 ## 🔗 See Also
 
-- [Underground Root Cellar](195-underground-root-cellar.md) — food storage to complement your food production
-- [Weather Balloon Launch](192-weather-balloon-launch.md) — another big build that combines structure and electronics
+- [Underground Root Cellar](195-underground-root-cellar/) — food storage to complement your food production
+- [Weather Balloon Launch](192-weather-balloon-launch/) — another big build that combines structure and electronics
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

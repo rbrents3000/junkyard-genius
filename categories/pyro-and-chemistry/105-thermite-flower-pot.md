@@ -63,7 +63,7 @@ Thermite is a mixture of iron oxide (rust) and aluminum powder. When ignited, th
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 5 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
 - Thermite produces molten iron at 4000°F+ and intense UV radiation. NEVER look directly at the reaction without welding-grade eye protection (shade 5 minimum). It is brighter than arc welding.
 - Molten iron spatters can travel several feet. Wear long sleeves, closed shoes, and fire-resistant gloves. Keep skin fully covered. Do not stand over the pot when lighting.
@@ -71,9 +71,6 @@ Thermite is a mixture of iron oxide (rust) and aluminum powder. When ignited, th
 
 ## 🔗 See Also
 
-- [Permanganate Auto-Ignition](115-permanganate-auto-ignition.md)
-- [Colored Fire](101-colored-fire.md)
+- [Permanganate Auto-Ignition](115-permanganate-auto-ignition/)
+- [Colored Fire](101-colored-fire/)
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

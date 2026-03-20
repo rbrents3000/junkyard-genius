@@ -158,5 +158,5 @@ Broken jigsaw blades are sharp and hot. Let the blade set the pace.
 
 ## 🔗 See Also
 
-- [Circular Saw Table Saw](082-circular-saw-table-saw.md)
-- [Hand Drill Press](080-hand-drill-press.md)
+- [Circular Saw Table Saw](082-circular-saw-table-saw/)
+- [Hand Drill Press](080-hand-drill-press/)

@@ -67,5 +67,5 @@ When a laptop battery "dies," usually only 1-2 of the 6-9 cells inside have fail
 
 ## 🔗 See Also
 
-- [Phone Sensor Network](064-phone-sensor-network.md)
-- [RAM Stick Ruler](068-ram-stick-ruler.md)
+- [Phone Sensor Network](064-phone-sensor-network/)
+- [RAM Stick Ruler](068-ram-stick-ruler/)

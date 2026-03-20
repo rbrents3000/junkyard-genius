@@ -69,10 +69,6 @@ The treadmill's speed controller board usually survives when the tread belt or d
 
 ## 🔗 See Also
 
-- [Scooter Motor Lathe](025-scooter-motor-lathe.md)
-- [Spot Welder](027-spot-welder.md)
+- [Scooter Motor Lathe](025-scooter-motor-lathe/)
+- [Spot Welder](027-spot-welder/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

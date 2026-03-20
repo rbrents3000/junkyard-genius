@@ -81,5 +81,5 @@ The MOSFET PWM control is what separates this from wrapping wire around your han
 
 ## 🔗 See Also
 
-- [Sound-Reactive LED Jacket](242-led-jacket.md)
-- [GPS Treasure Hunt Watch](247-gps-treasure-watch.md)
+- [Sound-Reactive LED Jacket](242-led-jacket/)
+- [GPS Treasure Hunt Watch](247-gps-treasure-watch/)

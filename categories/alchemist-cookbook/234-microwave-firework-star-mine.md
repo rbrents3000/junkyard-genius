@@ -65,20 +65,14 @@ A star mine in fireworks terminology is a ground-based device that launches a sp
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 5 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
-- The capacitor bank stores potentially lethal energy at high voltage. Follow the same safety protocols as the [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md): always discharge before handling, install bleeder resistors, use a safety key switch, and treat the charged bank as a lethal hazard. A 400V capacitor bank at 10,000µF stores 800 joules — enough to cause cardiac arrest.
+- The capacitor bank stores potentially lethal energy at high voltage. Follow the same safety protocols as the [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher/): always discharge before handling, install bleeder resistors, use a safety key switch, and treat the charged bank as a lethal hazard. A 400V capacitor bank at 10,000µF stores 800 joules — enough to cause cardiac arrest.
 - Metal-salt pyrotechnic stars are flammable, difficult to extinguish once burning, and produce toxic metal oxide fumes. Make and handle stars outdoors. Wear a respirator when mixing dry metal salt powders. Never inhale the fumes from burning stars — barium and strontium compounds are toxic.
 - This build combines high-voltage electronics, electromagnetic launch systems, and pyrotechnics. Each discipline has its own safety requirements, and the combination multiplies the risk. Do not attempt this build without prior experience in all three areas. Build and master simpler projects from each category first.
 
 ## 🔗 See Also
 
-- [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md)
-- [Colored Fire](../pyro-and-chemistry/101-colored-fire.md)
+- [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher/)
+- [Colored Fire](../pyro-and-chemistry/101-colored-fire/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

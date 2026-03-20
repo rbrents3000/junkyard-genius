@@ -96,12 +96,7 @@ The vacuum motor is overkill for this job — a typical vacuum motor pushes 1000
 
 ## 🔗 See Also
 
-- [Vacuum Hovercraft](075-vacuum-hovercraft.md)
-- [Vacuum Leaf Blower](078-vacuum-leaf-blower.md)
-- [Pneumatic Launcher](299-pneumatic-launcher.md)
+- [Vacuum Hovercraft](075-vacuum-hovercraft/)
+- [Vacuum Leaf Blower](078-vacuum-leaf-blower/)
+- [Pneumatic Launcher](299-pneumatic-launcher/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

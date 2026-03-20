@@ -74,10 +74,6 @@ Pierre Curie described this temperature threshold in 1895, and it's one of those
 
 ## 🔗 See Also
 
-- [Stirling Engine](182-stirling-engine.md) — another candle-powered engine using a completely different thermodynamic principle
-- [Eddy Current Brake](186-eddy-current-brake.md) — another intersection of magnetism and motion with surprising results
+- [Stirling Engine](182-stirling-engine/) — another candle-powered engine using a completely different thermodynamic principle
+- [Eddy Current Brake](186-eddy-current-brake/) — another intersection of magnetism and motion with surprising results
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

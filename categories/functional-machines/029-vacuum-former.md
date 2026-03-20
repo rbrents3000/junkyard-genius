@@ -69,5 +69,5 @@ An oven provides the heat. A vacuum cleaner provides the suction. A plywood fram
 
 ## 🔗 See Also
 
-- [Powder Coating Oven](028-powder-coating-oven.md)
-- [Electrostatic Precipitator](030-electrostatic-precipitator.md)
+- [Powder Coating Oven](028-powder-coating-oven/)
+- [Electrostatic Precipitator](030-electrostatic-precipitator/)

@@ -64,7 +64,7 @@ The economics are compelling: used drone batteries sell for $5-$15 on eBay as "f
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 - Lithium polymer cells can catch fire or explode if punctured, short-circuited, or overcharged. Work on a non-flammable surface. Keep a bucket of sand or a Class D fire extinguisher nearby. Never use water on a lithium battery fire.
 - When opening battery packs, the cells may be at different voltages. Shorting two cells together with a metal tool can cause immediate, violent sparking and fire. Use plastic tools and work on one cell at a time. Tape exposed terminals immediately after disconnecting.
@@ -72,10 +72,6 @@ The economics are compelling: used drone batteries sell for $5-$15 on eBay as "f
 
 ## 🔗 See Also
 
-- [Drone Motor Wind Turbine](204-drone-motor-wind-turbine.md) — charge this powerwall with wind energy from drone motors
-- [DIY Powerwall](../power-and-energy/052-diy-powerwall.md) — larger-scale powerwall from laptop 18650 cells
+- [Drone Motor Wind Turbine](204-drone-motor-wind-turbine/) — charge this powerwall with wind energy from drone motors
+- [DIY Powerwall](../power-and-energy/052-diy-powerwall/) — larger-scale powerwall from laptop 18650 cells
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

@@ -64,9 +64,6 @@ Real-time face swapping takes your face from the webcam and replaces it with som
 
 ## 🔗 See Also
 
-- [Smart Mirror](../pi-and-arduino/123-smart-mirror.md)
-- [AI Photo Booth](143-ai-photo-booth.md)
+- [Smart Mirror](../pi-and-arduino/123-smart-mirror/)
+- [AI Photo Booth](143-ai-photo-booth/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

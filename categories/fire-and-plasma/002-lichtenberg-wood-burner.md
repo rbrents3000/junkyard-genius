@@ -68,7 +68,7 @@ The patterns emerge because wood grain isn't uniformly conductive. The current b
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
+> **Spicy Level 5 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety, High Voltage Safety before starting.
 
 > [!CAUTION]
 > **This build has killed people.** A microwave oven transformer outputs 2,000+ volts at up to 500mA — well above the 100mA threshold that causes fatal cardiac arrest. Contact with any energized conductor can kill instantly with no second chance. Multiple hobbyists have died doing this exact project.
@@ -81,10 +81,6 @@ The patterns emerge because wood grain isn't uniformly conductive. The current b
 
 ## 🔗 See Also
 
-- [Plasma Tornado Lamp](001-plasma-tornado-lamp.md) — another MOT-based project with a very different aesthetic
-- [Atmospheric Reentry Simulator](006-atmospheric-reentry-simulator.md) — MOT used to heat metal instead of burn wood
+- [Plasma Tornado Lamp](001-plasma-tornado-lamp/) — another MOT-based project with a very different aesthetic
+- [Atmospheric Reentry Simulator](006-atmospheric-reentry-simulator/) — MOT used to heat metal instead of burn wood
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

@@ -75,11 +75,6 @@ Built into a coffee table, this becomes a piece of furniture that stops every gu
 
 ## 🔗 See Also
 
-- [Fiber Optic Star Ceiling](173-fiber-optic-star-ceiling.md) — another LED-based installation that transforms a room
-- [Pepper's Ghost Hologram](171-peppers-ghost-hologram.md) — another optical illusion build using partially reflective surfaces
+- [Fiber Optic Star Ceiling](173-fiber-optic-star-ceiling/) — another LED-based installation that transforms a room
+- [Pepper's Ghost Hologram](171-peppers-ghost-hologram/) — another optical illusion build using partially reflective surfaces
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

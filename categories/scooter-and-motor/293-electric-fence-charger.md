@@ -164,7 +164,7 @@ It should feel like a sharp snap — startling and unpleasant, not agonizing.
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 - The secondary output of an ignition coil can produce 20,000+ volts.
 While the current is very low and the pulse is extremely brief (making it non-lethal under normal circumstances), it is still a painful shock.
@@ -193,10 +193,6 @@ Many municipalities have specific rules about placement, signage, voltage limits
 
 ## 🔗 See Also
 
-- [Electric Skateboard](088-electric-skateboard.md)
-- [Jacob's Ladder](../mad-scientist/034-jacobs-ladder.md)
+- [Electric Skateboard](088-electric-skateboard/)
+- [Jacob's Ladder](../mad-scientist/034-jacobs-ladder/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

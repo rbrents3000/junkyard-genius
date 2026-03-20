@@ -78,11 +78,7 @@ The prank applications are obvious: whisper someone's name through a table at 2 
 
 ## 🔗 See Also
 
-- [Motion-Activated Jump Scare](255-motion-jump-scare.md)
-- [Fake Security Camera That Roasts You](257-insult-camera.md)
-- [Laser Voice Communicator](../laser-lab/265-laser-communicator.md)
+- [Motion-Activated Jump Scare](255-motion-jump-scare/)
+- [Fake Security Camera That Roasts You](257-insult-camera/)
+- [Laser Voice Communicator](../laser-lab/265-laser-communicator/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

@@ -68,9 +68,6 @@ A full-sized arcade cabinet running thousands of classic games — Pac-Man, Stre
 
 ## 🔗 See Also
 
-- [Pi DJ Controller](131-pi-dj-controller.md)
-- [Flight Sim Cockpit](../python-projects/154-flight-sim-cockpit.md)
+- [Pi DJ Controller](131-pi-dj-controller/)
+- [Flight Sim Cockpit](../python-projects/154-flight-sim-cockpit/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

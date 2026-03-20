@@ -71,7 +71,7 @@ Change the frequency and the flame pattern changes instantly. Low frequencies pr
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 > [!WARNING]
 > **Propane is explosive.** A gas leak near the tube can accumulate and ignite explosively. Do this outdoors or in a very well-ventilated area. If the flames go out but gas is still flowing, shut off the gas immediately and let the area ventilate before relighting. Never relight if you smell accumulated gas.
@@ -81,5 +81,5 @@ Change the frequency and the flame pattern changes instantly. Low frequencies pr
 
 ## 🔗 See Also
 
-- [Propane Vortex Cannon](../fire-and-plasma/003-propane-vortex-cannon.md) — another propane project with dramatic fire effects
-- [Plasma Speaker](008-plasma-speaker.md) — visualize sound with an electrical arc instead of fire
+- [Propane Vortex Cannon](../fire-and-plasma/003-propane-vortex-cannon/) — another propane project with dramatic fire effects
+- [Plasma Speaker](008-plasma-speaker/) — visualize sound with an electrical arc instead of fire

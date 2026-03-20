@@ -65,5 +65,5 @@ Car seat heaters are thin, flexible resistance heating elements sandwiched betwe
 
 ## 🔗 See Also
 
-- [Fermentation Chamber](../fridge-and-cooling/092-fermentation-chamber.md)
-- [Thermoelectric Charger](../power-and-energy/049-campfire-thermoelectric-charger.md)
+- [Fermentation Chamber](../fridge-and-cooling/092-fermentation-chamber/)
+- [Thermoelectric Charger](../power-and-energy/049-campfire-thermoelectric-charger/)

@@ -64,5 +64,5 @@ When an ultrasonic transducer vibrates at high power underwater, it doesn't just
 
 ## 🔗 See Also
 
-- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine.md)
-- [Fog Waterfall Table](086-fog-waterfall-table.md)
+- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine/)
+- [Fog Waterfall Table](086-fog-waterfall-table/)

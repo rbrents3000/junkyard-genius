@@ -64,5 +64,5 @@ Peltier modules (thermoelectric coolers) move heat from one side to the other wh
 
 ## 🔗 See Also
 
-- [Fermentation Chamber](092-fermentation-chamber.md)
-- [Campfire Thermoelectric Charger](../power-and-energy/049-campfire-thermoelectric-charger.md)
+- [Fermentation Chamber](092-fermentation-chamber/)
+- [Campfire Thermoelectric Charger](../power-and-energy/049-campfire-thermoelectric-charger/)

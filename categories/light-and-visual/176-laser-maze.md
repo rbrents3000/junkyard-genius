@@ -79,9 +79,6 @@ This is an absolute hit at parties, Halloween events, and kids' birthday parties
 
 ## 🔗 See Also
 
-- [Laser Fog Projector](017-laser-fog-projector.md) — lasers and fog for visual art instead of a game
-- [Pepper's Ghost Hologram](171-peppers-ghost-hologram.md) — another theatrical illusion build
+- [Laser Fog Projector](017-laser-fog-projector/) — lasers and fog for visual art instead of a game
+- [Pepper's Ghost Hologram](171-peppers-ghost-hologram/) — another theatrical illusion build
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

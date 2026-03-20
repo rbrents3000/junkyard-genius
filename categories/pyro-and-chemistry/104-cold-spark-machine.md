@@ -68,12 +68,6 @@ Cold spark machines are the secret behind the indoor pyrotechnics you see at con
 
 ## 🔗 See Also
 
-- [Fireworks Sequencer](../pi-and-arduino/121-fireworks-sequencer.md)
-- [Steel Wool Photography](113-steel-wool-photography.md)
+- [Fireworks Sequencer](../pi-and-arduino/121-fireworks-sequencer/)
+- [Steel Wool Photography](113-steel-wool-photography/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

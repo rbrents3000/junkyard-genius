@@ -76,7 +76,7 @@ This is not a toy lathe. Washing machine motors produce enough torque to turn se
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 - Always wear a full face shield when operating a lathe. Workpieces can come loose from the chuck at high speed and become projectiles. Safety glasses are not sufficient — you need full face coverage.
 - Never wear loose clothing, gloves, jewelry, or anything that can catch on a spinning workpiece. Tie back long hair. A lathe will wrap and pull with extreme force.
@@ -86,12 +86,7 @@ This is not a toy lathe. Washing machine motors produce enough torque to turn se
 
 ## 🔗 See Also
 
-- [Electric Skateboard](088-electric-skateboard.md)
-- [Motor-Powered Pottery Wheel](292-motor-powered-pottery-wheel.md)
-- [Motor-Driven Turntable](294-motor-driven-turntable.md)
+- [Electric Skateboard](088-electric-skateboard/)
+- [Motor-Powered Pottery Wheel](292-motor-powered-pottery-wheel/)
+- [Motor-Driven Turntable](294-motor-driven-turntable/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

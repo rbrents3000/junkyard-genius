@@ -59,7 +59,7 @@ The bottle is reusable. Just swirl in more alcohol and fire again. One bottle of
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
 - Perform this outdoors only, in a clear area with nothing breakable or flammable downrange. The projectile can travel 50+ feet with real force. Never aim at people, animals, windows, or anything you don't want to hit.
 - Use polycarbonate jugs only — not glass. Glass jugs can shatter from thermal shock or pressure, creating deadly shrapnel. Polycarbonate deforms but doesn't fragment.
@@ -67,9 +67,6 @@ The bottle is reusable. Just swirl in more alcohol and fire again. One bottle of
 
 ## 🔗 See Also
 
-- [Baking Soda Vinegar Rocket](215-baking-soda-vinegar-rocket.md) — pressure-based projectile launch without combustion
-- [Hand Sanitizer Fire Art](210-hand-sanitizer-fire-art.md) — another controlled combustion build using household alcohol
+- [Baking Soda Vinegar Rocket](215-baking-soda-vinegar-rocket/) — pressure-based projectile launch without combustion
+- [Hand Sanitizer Fire Art](210-hand-sanitizer-fire-art/) — another controlled combustion build using household alcohol
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

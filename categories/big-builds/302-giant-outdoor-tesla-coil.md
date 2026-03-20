@@ -193,7 +193,7 @@ demonstration device a human being can build in a garage.
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 5 build.** Read the Safety Guide before starting.
 
 > [!CAUTION]
 > **This build can kill you.** Not hypothetically — the DC bus voltage (340-680V), the primary circuit peak currents (hundreds of amps), and the secondary output (hundreds of thousands of volts) are each independently capable of stopping a human heart. There is no safe way to touch any powered component. Treat the entire system as lethal any time the power supply is plugged into the wall, even if the variac is at zero.
@@ -206,12 +206,7 @@ demonstration device a human being can build in a garage.
 
 ## 🔗 See Also
 
-- [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil.md) — the smaller, tabletop version of this concept
-- [Jacob's Ladder](../mad-scientist/034-jacobs-ladder.md) — a simpler high-voltage arc project to cut your teeth on
+- [Musical Tesla Coil](../mad-scientist/033-musical-tesla-coil/) — the smaller, tabletop version of this concept
+- [Jacob's Ladder](../mad-scientist/034-jacobs-ladder/) — a simpler high-voltage arc project to cut your teeth on
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)
 

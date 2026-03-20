@@ -75,11 +75,7 @@ The sound is quiet — you'll need a crystal earpiece, not regular earbuds or a 
 
 ## 🔗 See Also
 
-- [Faraday Flashlight](318-faraday-flashlight.md)
-- [Hand-Crank Phone Charger](251-hand-crank-charger.md)
-- [Faraday Cage](252-faraday-cage.md)
+- [Faraday Flashlight](318-faraday-flashlight/)
+- [Hand-Crank Phone Charger](251-hand-crank-charger/)
+- [Faraday Cage](252-faraday-cage/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

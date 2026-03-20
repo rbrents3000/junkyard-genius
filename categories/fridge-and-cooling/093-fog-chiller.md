@@ -66,10 +66,6 @@ Standard fog machines heat glycol fluid to produce warm fog that rises and dispe
 
 ## 🔗 See Also
 
-- [Ultrasonic Fog Machine](../humidifier-and-water/084-ultrasonic-fog-machine.md)
-- [DIY Freeze Dryer](094-diy-freeze-dryer.md)
+- [Ultrasonic Fog Machine](../humidifier-and-water/084-ultrasonic-fog-machine/)
+- [DIY Freeze Dryer](094-diy-freeze-dryer/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

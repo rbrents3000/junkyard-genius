@@ -232,11 +232,8 @@ more transducers.
 
 ## 🔗 See Also
 
-- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine.md)
-- [Fog Harp Water Collector](296-fog-harp-water-collector.md)
-- [Fog Waterfall Table](086-fog-waterfall-table.md)
-- [Nebula Lamp](087-nebula-lamp.md)
+- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine/)
+- [Fog Harp Water Collector](296-fog-harp-water-collector/)
+- [Fog Waterfall Table](086-fog-waterfall-table/)
+- [Nebula Lamp](087-nebula-lamp/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -76,7 +76,7 @@ The DRSSTC works by driving a primary coil at the resonant frequency of the seco
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide before starting.
 
 > [!CAUTION]
 > **This is a lethal high-voltage device.** The primary circuit carries hundreds of amps at kilovolt-level voltages. A direct contact with the primary bus or MMC bank can kill instantly. Full high-voltage safety protocols apply at all times. Never reach toward any part of the circuit while powered. Use a variac or current-limited power supply during testing.
@@ -90,11 +90,6 @@ The DRSSTC works by driving a primary coil at the resonant frequency of the seco
 
 ## 🔗 See Also
 
-- [Plasma Speaker](008-plasma-speaker.md)
-- [Plasma Speaker Lamp](../unholy-combos/283-plasma-speaker-lamp.md)
+- [Plasma Speaker](008-plasma-speaker/)
+- [Plasma Speaker Lamp](../unholy-combos/283-plasma-speaker-lamp/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

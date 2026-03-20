@@ -85,13 +85,8 @@ The result is one of the most elegant objects you can build from salvaged parts.
 
 ## 🔗 See Also
 
-- [Ferrofluid Mirror](046-ferrofluid-mirror.md) — another mesmerizing display piece using magnetic forces
-- [Anti-Gravity Water Fountain](044-antigravity-water-fountain.md) — stroboscopic illusion art
-- [Pen Plotter](../printer-and-scanner/072-pen-plotter.md) — same CNC motion concept, different output
-- [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md) — the CNC foundation this build is based on
+- [Ferrofluid Mirror](046-ferrofluid-mirror/) — another mesmerizing display piece using magnetic forces
+- [Anti-Gravity Water Fountain](044-antigravity-water-fountain/) — stroboscopic illusion art
+- [Pen Plotter](../printer-and-scanner/072-pen-plotter/) — same CNC motion concept, different output
+- [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc/) — the CNC foundation this build is based on
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -229,7 +229,7 @@ demonstration of the principle, it's hard to beat.
 
 ## 🔗 See Also
 
-- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine.md)
-- [Nebula Lamp](087-nebula-lamp.md)
-- [Mist Cooling System](297-mist-cooling-system.md)
-- [Fog Waterfall Table](086-fog-waterfall-table.md)
+- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine/)
+- [Nebula Lamp](087-nebula-lamp/)
+- [Mist Cooling System](297-mist-cooling-system/)
+- [Fog Waterfall Table](086-fog-waterfall-table/)

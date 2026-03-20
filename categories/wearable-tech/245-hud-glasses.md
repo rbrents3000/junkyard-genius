@@ -81,9 +81,6 @@ A Raspberry Pi Zero (or ESP32 for lighter weight) drives the display. It can sho
 
 ## 🔗 See Also
 
-- [Sound-Reactive LED Face Mask](244-led-mask.md)
-- [GPS Treasure Hunt Watch](247-gps-treasure-watch.md)
+- [Sound-Reactive LED Face Mask](244-led-mask/)
+- [GPS Treasure Hunt Watch](247-gps-treasure-watch/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

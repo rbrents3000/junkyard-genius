@@ -76,10 +76,6 @@ This is the same physics as the Eddy Current Brake (#186), but explored as a sta
 
 ## 🔗 See Also
 
-- [Eddy Current Brake](../mechanical-and-kinetic/186-eddy-current-brake.md) — the same physics in the Mechanical & Kinetic category
-- [Homopolar Motor](198-homopolar-motor.md) — another demonstration of the intimate relationship between current and magnetic fields
+- [Eddy Current Brake](../mechanical-and-kinetic/186-eddy-current-brake/) — the same physics in the Mechanical & Kinetic category
+- [Homopolar Motor](198-homopolar-motor/) — another demonstration of the intimate relationship between current and magnetic fields
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

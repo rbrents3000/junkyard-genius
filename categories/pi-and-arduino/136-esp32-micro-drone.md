@@ -61,7 +61,7 @@ Commercial drones are marvels of engineering — but the core technology isn't t
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 - Spinning propellers can cut skin and are dangerous to eyes. Always use propeller guards during development. Never reach toward a drone with spinning props. Keep fingers, hair, and loose clothing clear.
 - LiPo batteries are dangerous if mistreated. Never discharge below 3.0V (damages the cells permanently). Never charge unattended. Never use a puffy or damaged battery. Store in a fireproof LiPo bag.
@@ -69,11 +69,6 @@ Commercial drones are marvels of engineering — but the core technology isn't t
 
 ## 🔗 See Also
 
-- [Star Tracker](137-star-tracker.md)
-- [Nerf Sentry Turret](138-nerf-sentry-turret.md)
+- [Star Tracker](137-star-tracker/)
+- [Nerf Sentry Turret](138-nerf-sentry-turret/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

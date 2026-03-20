@@ -82,12 +82,7 @@ The effect is genuinely dramatic. Cold fog behaves like a fluid — it pools in 
 
 ## 🔗 See Also
 
-- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine.md)
-- [Fog Waterfall Table](086-fog-waterfall-table.md)
-- [Nebula Lamp](087-nebula-lamp.md)
+- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine/)
+- [Fog Waterfall Table](086-fog-waterfall-table/)
+- [Nebula Lamp](087-nebula-lamp/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

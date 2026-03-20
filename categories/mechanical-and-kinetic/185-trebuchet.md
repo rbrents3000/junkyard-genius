@@ -73,7 +73,7 @@ This version uses a steel bed frame for the main structure, concrete-filled buck
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 > [!WARNING]
 > **Projectile trajectory is unpredictable during tuning.** Until the release angle is dialed in, projectiles can go sideways, straight up, or backward. Clear a wide area (100+ feet in all directions) during test shots. Never stand in front of or beside the machine during firing.
@@ -83,5 +83,5 @@ This version uses a steel bed frame for the main structure, concrete-filled buck
 
 ## 🔗 See Also
 
-- [Hydraulic Robot Arm](183-hydraulic-robot-arm.md) — mechanical advantage on a smaller, gentler scale
-- [Backyard Water Slide](../big-builds/191-backyard-water-slide.md) — another big outdoor build for maximum weekend glory
+- [Hydraulic Robot Arm](183-hydraulic-robot-arm/) — mechanical advantage on a smaller, gentler scale
+- [Backyard Water Slide](../big-builds/191-backyard-water-slide/) — another big outdoor build for maximum weekend glory

@@ -69,5 +69,5 @@ An inkjet printer works by firing microscopic droplets through tiny nozzles with
 
 ## 🔗 See Also
 
-- [Printer Stepper CNC](069-printer-stepper-cnc.md)
-- [DVD Laser Engraver](071-dvd-laser-engraver.md)
+- [Printer Stepper CNC](069-printer-stepper-cnc/)
+- [DVD Laser Engraver](071-dvd-laser-engraver/)

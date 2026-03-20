@@ -63,7 +63,7 @@ Potassium nitrate (stump remover from the hardware store) mixed with sugar creat
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
 - Cook the KNO3/sugar mixture OUTDOORS only. If the mixture ignites during cooking (rare but possible if heated too fast), do not pour water on it. Let it burn out in the saucepan. Have a fire extinguisher nearby.
 - Potassium nitrate is an oxidizer. Store it away from flammable materials. Do not store assembled smoke bombs near heat sources.
@@ -71,12 +71,6 @@ Potassium nitrate (stump remover from the hardware store) mixed with sugar creat
 
 ## 🔗 See Also
 
-- [Fireworks Sequencer](../pi-and-arduino/121-fireworks-sequencer.md)
-- [Colored Fire](101-colored-fire.md)
+- [Fireworks Sequencer](../pi-and-arduino/121-fireworks-sequencer/)
+- [Colored Fire](101-colored-fire/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

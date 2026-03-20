@@ -60,7 +60,7 @@ Standard smoke bombs use KNO3 (potassium nitrate) as the oxidizer and sugar as t
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
 - Potassium permanganate is a strong oxidizer that stains everything it touches a deep brown/purple. Wear gloves. It also reacts with many organic materials, not just glycerin. Keep it away from paper, wood shavings, and other combustibles. Store it in its original container, sealed, away from heat.
 - The permanganate/glycerin reaction produces intense heat and flame. Once glycerin is applied, the reaction cannot be stopped. Do not attempt to smother or douse it with water until the reaction completes — water can splatter hot permanganate. Stand clear and let it burn out.
@@ -68,11 +68,6 @@ Standard smoke bombs use KNO3 (potassium nitrate) as the oxidizer and sugar as t
 
 ## 🔗 See Also
 
-- [Smoke Bomb Array](../pyro-and-chemistry/103-smoke-bomb-array.md)
-- [Permanganate Auto-Ignition](../pyro-and-chemistry/115-permanganate-auto-ignition.md)
+- [Smoke Bomb Array](../pyro-and-chemistry/103-smoke-bomb-array/)
+- [Permanganate Auto-Ignition](../pyro-and-chemistry/115-permanganate-auto-ignition/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)

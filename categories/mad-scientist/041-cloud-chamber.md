@@ -70,5 +70,5 @@ The build is dead simple. A fish tank or clear container, isopropyl alcohol, dry
 
 ## 🔗 See Also
 
-- [Grape Plasma](042-grape-plasma.md)
-- [Vacuum Plasma Cloud Chamber](../unholy-combos/054-vacuum-plasma-cloud-chamber.md)
+- [Grape Plasma](042-grape-plasma/)
+- [Vacuum Plasma Cloud Chamber](../unholy-combos/054-vacuum-plasma-cloud-chamber/)

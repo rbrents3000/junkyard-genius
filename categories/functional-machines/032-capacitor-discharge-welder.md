@@ -63,7 +63,7 @@ Microwave oven capacitors are large, high-voltage, and available for free from d
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide before starting.
 
 - Charged capacitors are the most dangerous component in this entire book. A microwave capacitor bank at 2000V stores enough energy to kill instantly. Treat every capacitor as charged until proven otherwise. Always verify discharge with a voltmeter AND a shorting tool before touching any terminal. The bleed resistor is a last resort, not a primary safety measure.
 - Never charge the bank and walk away. Charged capacitors should be attended at all times. Discharge them before leaving the bench, even for a moment.
@@ -71,10 +71,6 @@ Microwave oven capacitors are large, high-voltage, and available for free from d
 
 ## 🔗 See Also
 
-- [Spot Welder](027-spot-welder.md)
-- [DIY Powerwall](../power-and-energy/052-diy-powerwall.md)
+- [Spot Welder](027-spot-welder/)
+- [DIY Powerwall](../power-and-energy/052-diy-powerwall/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

@@ -77,5 +77,5 @@ The name comes from bone conduction headphones, which vibrate your skull directl
 
 ## 🔗 See Also
 
-- [Thunder Drum](012-thunder-drum.md) — another unconventional sound production method using vibrating surfaces
-- [Ferrofluid Speaker](011-ferrofluid-speaker.md) — a conventional speaker turned into a visual experience
+- [Thunder Drum](012-thunder-drum/) — another unconventional sound production method using vibrating surfaces
+- [Ferrofluid Speaker](011-ferrofluid-speaker/) — a conventional speaker turned into a visual experience

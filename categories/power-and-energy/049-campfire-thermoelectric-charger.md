@@ -69,5 +69,5 @@ Mount one between a metal plate sitting on hot coals and a pot of cold water, an
 
 ## 🔗 See Also
 
-- [Bicycle Generator](050-bicycle-generator.md)
-- [DIY Powerwall](052-diy-powerwall.md)
+- [Bicycle Generator](050-bicycle-generator/)
+- [DIY Powerwall](052-diy-powerwall/)

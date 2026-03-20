@@ -78,10 +78,6 @@ This build uses two soda cans as the hot and cold chambers, a balloon membrane a
 
 ## 🔗 See Also
 
-- [Curie Engine](189-curie-engine.md) — another heat-powered motor, this one using magnetic phase transitions
-- [Musical Marble Machine](181-musical-marble-machine.md) — a much larger mechanical build if you want to level up
+- [Curie Engine](189-curie-engine/) — another heat-powered motor, this one using magnetic phase transitions
+- [Musical Marble Machine](181-musical-marble-machine/) — a much larger mechanical build if you want to level up
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

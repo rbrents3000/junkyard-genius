@@ -60,5 +60,5 @@ This is the simplest build in the entire book, and it's also the most satisfying
 
 ## 🔗 See Also
 
-- [CPU Resin Jewelry](059-cpu-resin-jewelry.md)
-- [GPU Wall Art](060-gpu-wall-art.md)
+- [CPU Resin Jewelry](059-cpu-resin-jewelry/)
+- [GPU Wall Art](060-gpu-wall-art/)

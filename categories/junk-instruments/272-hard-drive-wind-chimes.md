@@ -79,11 +79,7 @@ String them from a branch or a metal frame, add a striker in the center, and you
 
 ## 🔗 See Also
 
-- [Cigar Box Guitar](235-cigar-box-guitar.md)
-- [Tin Can Banjo](238-tin-can-banjo.md)
-- [Steel Tongue Drum](239-steel-tongue-drum.md)
+- [Cigar Box Guitar](235-cigar-box-guitar/)
+- [Tin Can Banjo](238-tin-can-banjo/)
+- [Steel Tongue Drum](239-steel-tongue-drum/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

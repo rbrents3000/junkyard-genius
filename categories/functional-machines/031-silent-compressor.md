@@ -70,10 +70,6 @@ Disconnect it from the refrigerant system and plumb it to a small air tank, and 
 
 ## 🔗 See Also
 
-- [Powder Coating Oven](028-powder-coating-oven.md)
-- [Vacuum Chamber](../mad-scientist/039-vacuum-chamber.md)
+- [Powder Coating Oven](028-powder-coating-oven/)
+- [Vacuum Chamber](../mad-scientist/039-vacuum-chamber/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

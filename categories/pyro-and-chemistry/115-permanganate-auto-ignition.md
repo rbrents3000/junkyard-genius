@@ -57,7 +57,7 @@ Potassium permanganate is a powerful oxidizer. Glycerin is a thick, syrupy fuel.
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
 - Potassium permanganate is a powerful oxidizer and stains everything it contacts a deep purple/brown. Wear gloves and old clothes. The stains on skin fade in a few days but are nearly impossible to remove from fabric.
 - The auto-ignition delay is variable and unpredictable. Never lean over the mixture to check on it. Always step back after adding glycerin and observe from a safe distance. On hot days, ignition can occur in under 20 seconds.
@@ -65,11 +65,6 @@ Potassium permanganate is a powerful oxidizer. Glycerin is a thick, syrupy fuel.
 
 ## 🔗 See Also
 
-- [Thermite Flower Pot](105-thermite-flower-pot.md)
-- [Pharaoh's Serpent](110-pharaohs-serpent.md)
+- [Thermite Flower Pot](105-thermite-flower-pot/)
+- [Pharaoh's Serpent](110-pharaohs-serpent/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)

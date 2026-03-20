@@ -66,9 +66,6 @@ Alexa and Google Home are convenient but they send every word you say to corpora
 
 ## 🔗 See Also
 
-- [Sentiment Room Lighting](144-sentiment-room-lighting.md)
-- [Pi-hole Ad Blocker](../pi-and-arduino/139-pi-hole-ad-blocker.md)
+- [Sentiment Room Lighting](144-sentiment-room-lighting/)
+- [Pi-hole Ad Blocker](../pi-and-arduino/139-pi-hole-ad-blocker/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

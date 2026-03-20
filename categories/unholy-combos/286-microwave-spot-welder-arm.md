@@ -80,7 +80,7 @@ The result is a semi-automated spot welder that can place welds at programmed co
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 - The microwave oven's high-voltage capacitor can hold a lethal charge (2100V at several microfarads) even when the microwave is unplugged. Discharge it before touching any internal components. Short the capacitor terminals together using an insulated screwdriver. Some microwave capacitors have an internal bleeder resistor, but do not rely on it — always manually discharge.
 - The MOT primary operates at mains voltage (120/240V AC). All mains wiring must use properly rated wire, connectors, and switches. The mains side must be completely enclosed with no exposed terminals. A ground fault on the primary can energize the entire metal frame of the welder. Use a GFCI outlet.
@@ -89,11 +89,6 @@ The result is a semi-automated spot welder that can place welds at programmed co
 
 ## 🔗 See Also
 
-- [Spot Welder](../functional-machines/027-spot-welder.md)
-- [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc.md)
+- [Spot Welder](../functional-machines/027-spot-welder/)
+- [Printer Stepper CNC](../printer-and-scanner/069-printer-stepper-cnc/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

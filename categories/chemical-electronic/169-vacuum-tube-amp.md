@@ -62,7 +62,7 @@ Before transistors, all electronics ran on vacuum tubes — glass bottles with g
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety, High Voltage Safety before starting.
 
 - Tube amplifiers contain LETHAL voltages (250-400V DC on the plates, 300V+ stored in filter capacitors). The capacitors hold charge even after power off. ALWAYS discharge filter capacitors through a bleeder resistor before working inside the chassis. Treat every wire as potentially live.
 - Never operate a tube amplifier without a speaker connected. The output transformer can be damaged by the reflected impedance of an open circuit, leading to insulation breakdown and potential transformer failure.
@@ -70,10 +70,6 @@ Before transistors, all electronics ran on vacuum tubes — glass bottles with g
 
 ## 🔗 See Also
 
-- [DIY Neon Sign](166-diy-neon-sign.md)
-- [Arduino Guitar Pedal](../pi-and-arduino/124-arduino-guitar-pedal.md)
+- [DIY Neon Sign](166-diy-neon-sign/)
+- [Arduino Guitar Pedal](../pi-and-arduino/124-arduino-guitar-pedal/)
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

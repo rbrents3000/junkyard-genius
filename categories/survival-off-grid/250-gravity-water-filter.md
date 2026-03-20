@@ -66,5 +66,5 @@ A gravity water filter uses stacked layers of increasingly fine filtration media
 
 ## 🔗 See Also
 
-- [Solar Still](248-solar-still.md)
-- [Rocket Stove](253-rocket-stove.md)
+- [Solar Still](248-solar-still/)
+- [Rocket Stove](253-rocket-stove/)

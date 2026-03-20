@@ -70,7 +70,7 @@ Once the mixture is smooth and liquid, you pour it into molds — cardboard tube
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
 - The cooking step is the most dangerous part. KNO3/sugar can ignite if overheated, and once it ignites, it cannot be extinguished with water (the KNO3 provides its own oxygen). Cook on the LOWEST heat setting, stir constantly, and keep a metal lid nearby to smother the pot if ignition occurs. Never walk away from the pot.
 - Perform all cooking outdoors or in a very well-ventilated area on an electric stove. Do NOT use a gas stove — the open flame is an ignition risk.
@@ -80,11 +80,6 @@ Once the mixture is smooth and liquid, you pour it into molds — cardboard tube
 
 ## 🔗 See Also
 
-- [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste.md)
-- [Chemical Smoke Screen Machine](../alchemist-cookbook/276-chemical-smoke-screen-machine.md)
+- [Elephant Toothpaste](282-hydrogen-peroxide-elephant-toothpaste/)
+- [Chemical Smoke Screen Machine](../alchemist-cookbook/276-chemical-smoke-screen-machine/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)

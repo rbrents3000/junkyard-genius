@@ -222,12 +222,8 @@ ultrasonically clean things that don't need cleaning.
 
 ## 🔗 See Also
 
-- [Ultrasonic Parts Cleaner](085-ultrasonic-parts-cleaner.md)
-- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine.md)
-- [Fog Waterfall Table](086-fog-waterfall-table.md)
-- [Nebula Lamp](087-nebula-lamp.md)
+- [Ultrasonic Parts Cleaner](085-ultrasonic-parts-cleaner/)
+- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine/)
+- [Fog Waterfall Table](086-fog-waterfall-table/)
+- [Nebula Lamp](087-nebula-lamp/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

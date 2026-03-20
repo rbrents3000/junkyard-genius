@@ -82,5 +82,5 @@ This is the original DIY — ham radio operators have been building their own ge
 
 ## 🔗 See Also
 
-- [Weather Balloon Launch](192-weather-balloon-launch.md) — another way to reach beyond your horizon with homebrew technology
-- [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse.md) — a different kind of big build with electronics integration
+- [Weather Balloon Launch](192-weather-balloon-launch/) — another way to reach beyond your horizon with homebrew technology
+- [Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse/) — a different kind of big build with electronics integration

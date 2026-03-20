@@ -74,5 +74,5 @@ Building a UV mineral display means collecting fluorescent specimens and mountin
 
 ## 🔗 See Also
 
-- [UV Reactive Water Wall](023-uv-reactive-water-wall.md) — UV fluorescence in liquid form
-- [Polarization Art](174-polarization-art.md) — another hidden visual phenomenon revealed through physics
+- [UV Reactive Water Wall](023-uv-reactive-water-wall/) — UV fluorescence in liquid form
+- [Polarization Art](174-polarization-art/) — another hidden visual phenomenon revealed through physics

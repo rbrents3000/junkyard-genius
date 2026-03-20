@@ -69,11 +69,6 @@ Every printer contains precision stepper motors designed for exact, repeatable m
 
 ## 🔗 See Also
 
-- [DVD Laser Engraver](071-dvd-laser-engraver.md)
-- [Pen Plotter](072-pen-plotter.md)
+- [DVD Laser Engraver](071-dvd-laser-engraver/)
+- [Pen Plotter](072-pen-plotter/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

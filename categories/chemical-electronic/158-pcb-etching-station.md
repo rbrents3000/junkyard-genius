@@ -68,9 +68,6 @@ Custom circuit boards used to require sending designs to a factory and waiting w
 
 ## 🔗 See Also
 
-- [Electrochemical Etching](162-electrochemical-etching.md)
-- [Electroplating Station](156-electroplating-station.md)
+- [Electrochemical Etching](162-electrochemical-etching/)
+- [Electroplating Station](156-electroplating-station/)
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

@@ -82,9 +82,6 @@ The sound is breathy and warm — more pan flute than cathedral organ — but it
 
 ## 🔗 See Also
 
-- [Bottle Xylophone](241-bottle-xylophone.md) — another self-playing MIDI instrument, percussive instead of wind
-- [Plasma Speaker](../sound-and-music/008-plasma-speaker.md) — if you want your music source to be even more dramatic
+- [Bottle Xylophone](241-bottle-xylophone/) — another self-playing MIDI instrument, percussive instead of wind
+- [Plasma Speaker](../sound-and-music/008-plasma-speaker/) — if you want your music source to be even more dramatic
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

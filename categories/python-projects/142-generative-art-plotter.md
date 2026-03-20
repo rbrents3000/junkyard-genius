@@ -64,9 +64,6 @@ Generative art is artwork created by algorithms — rules that produce patterns 
 
 ## 🔗 See Also
 
-- [Fractal Laser Engraver](150-fractal-laser-engraver.md)
-- [Printer Robot Arm](../pi-and-arduino/129-printer-robot-arm.md)
+- [Fractal Laser Engraver](150-fractal-laser-engraver/)
+- [Printer Robot Arm](../pi-and-arduino/129-printer-robot-arm/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

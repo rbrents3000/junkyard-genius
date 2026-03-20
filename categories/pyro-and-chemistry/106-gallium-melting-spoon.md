@@ -61,9 +61,6 @@ Gallium is a metal with a melting point of just 86°F (29.8°C) — below body t
 
 ## 🔗 See Also
 
-- [Bismuth Crystal Garden](107-bismuth-crystal-garden.md)
-- [Instant Ice Sculpture](108-instant-ice-sculpture.md)
+- [Bismuth Crystal Garden](107-bismuth-crystal-garden/)
+- [Instant Ice Sculpture](108-instant-ice-sculpture/)
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

@@ -65,5 +65,5 @@ HID (High-Intensity Discharge) headlight ballasts are precision power supplies d
 
 ## 🔗 See Also
 
-- [UV Reactive Water Wall](../light-and-visual/023-uv-reactive-water-wall.md)
-- [UV Mineral Display](../light-and-visual/177-uv-mineral-display.md)
+- [UV Reactive Water Wall](../light-and-visual/023-uv-reactive-water-wall/)
+- [UV Mineral Display](../light-and-visual/177-uv-mineral-display/)

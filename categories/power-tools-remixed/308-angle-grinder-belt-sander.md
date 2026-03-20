@@ -164,10 +164,6 @@ Wood sanding dust is itself a fire hazard at high concentrations. Work in a clea
 
 ## 🔗 See Also
 
-- [Angle Grinder Forge Blower](079-angle-grinder-forge-blower.md)
-- [Sawzall Power Hammer](081-sawzall-power-hammer.md)
+- [Angle Grinder Forge Blower](079-angle-grinder-forge-blower/)
+- [Sawzall Power Hammer](081-sawzall-power-hammer/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

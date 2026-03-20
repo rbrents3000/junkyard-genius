@@ -80,5 +80,5 @@ The modification is almost disappointingly simple. Unscrew or remove the steam r
 
 ## 🔗 See Also
 
-- [Coffee Maker Distiller](262-coffee-maker-distiller.md)
-- [Blender Vortex Centrifuge](263-blender-centrifuge.md)
+- [Coffee Maker Distiller](262-coffee-maker-distiller/)
+- [Blender Vortex Centrifuge](263-blender-centrifuge/)

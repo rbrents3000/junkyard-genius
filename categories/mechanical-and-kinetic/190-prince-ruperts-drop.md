@@ -68,7 +68,7 @@ These have been known since the 1600s (Prince Rupert of the Rhine brought them t
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 > [!WARNING]
 > **Glass shrapnel is the primary hazard.** When a Prince Rupert's Drop explodes, it sends fine glass powder and small shards in all directions. Always wear safety glasses. Do the tail-breaking step inside a clear container or wrapped in a towel to contain fragments.
@@ -78,10 +78,6 @@ These have been known since the 1600s (Prince Rupert of the Rhine brought them t
 
 ## 🔗 See Also
 
-- [Chain Fountain](184-chain-fountain.md) — another jaw-dropping physics demo with minimal components
-- [Eddy Current Brake](186-eddy-current-brake.md) — counterintuitive physics you can hold in your hands
+- [Chain Fountain](184-chain-fountain/) — another jaw-dropping physics demo with minimal components
+- [Eddy Current Brake](186-eddy-current-brake/) — counterintuitive physics you can hold in your hands
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

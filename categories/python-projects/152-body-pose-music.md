@@ -64,5 +64,5 @@ Google's MediaPipe tracks 33 body landmarks in real time from a single camera â€
 
 ## ðŸ”— See Also
 
-- [Music Visualizer LED Wall](145-music-visualizer-led-wall.md)
-- [AI Photo Booth](143-ai-photo-booth.md)
+- [Music Visualizer LED Wall](145-music-visualizer-led-wall/)
+- [AI Photo Booth](143-ai-photo-booth/)

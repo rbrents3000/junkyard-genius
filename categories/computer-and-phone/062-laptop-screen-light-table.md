@@ -61,5 +61,5 @@ A laptop LCD screen is actually a sandwich: a backlight panel, multiple diffuser
 
 ## 🔗 See Also
 
-- [Laptop Screen Monitor](061-laptop-screen-monitor.md)
-- [Phone Macro Photography](063-phone-macro-photography.md)
+- [Laptop Screen Monitor](061-laptop-screen-monitor/)
+- [Phone Macro Photography](063-phone-macro-photography/)

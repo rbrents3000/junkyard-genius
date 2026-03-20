@@ -214,10 +214,6 @@ outdoor tool into something you can use in a garage year-round.
 
 ## 🔗 See Also
 
-- [Vacuum Hovercraft](075-vacuum-hovercraft.md)
-- [Vacuum Leaf Blower](078-vacuum-leaf-blower.md)
+- [Vacuum Hovercraft](075-vacuum-hovercraft/)
+- [Vacuum Leaf Blower](078-vacuum-leaf-blower/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

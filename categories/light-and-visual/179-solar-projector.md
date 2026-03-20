@@ -71,5 +71,5 @@ This technique — called solar projection — was used by astronomers for centu
 
 ## 🔗 See Also
 
-- [Fresnel Lens Solar Forge](020-fresnel-lens-solar-forge.md) — another project harnessing the sun's energy with optics (with very different intent)
-- [Schlieren Optics](172-schlieren-optics.md) — another optics project that reveals normally invisible phenomena
+- [Fresnel Lens Solar Forge](020-fresnel-lens-solar-forge/) — another project harnessing the sun's energy with optics (with very different intent)
+- [Schlieren Optics](172-schlieren-optics/) — another optics project that reveals normally invisible phenomena

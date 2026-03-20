@@ -66,5 +66,5 @@ Ultrasonic mist is denser than air — it sinks and flows like a liquid. Build a
 
 ## 🔗 See Also
 
-- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine.md)
-- [Nebula Lamp](087-nebula-lamp.md)
+- [Ultrasonic Fog Machine](084-ultrasonic-fog-machine/)
+- [Nebula Lamp](087-nebula-lamp/)

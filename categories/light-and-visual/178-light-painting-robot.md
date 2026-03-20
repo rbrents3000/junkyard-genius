@@ -78,11 +78,6 @@ The photographs look like CGI renders but they're real, single-exposure images. 
 
 ## 🔗 See Also
 
-- [POV Globe](019-pov-globe.md) — LEDs creating images through rapid motion, perceived by the eye instead of captured by camera
-- [Holographic Fan Display](022-holographic-fan-display.md) — another project where LEDs and motion create images
+- [POV Globe](019-pov-globe/) — LEDs creating images through rapid motion, perceived by the eye instead of captured by camera
+- [Holographic Fan Display](022-holographic-fan-display/) — another project where LEDs and motion create images
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

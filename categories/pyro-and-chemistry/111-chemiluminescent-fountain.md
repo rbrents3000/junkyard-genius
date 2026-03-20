@@ -68,11 +68,6 @@ Luminol and glow stick chemistry produce light without heat — chemiluminescenc
 
 ## 🔗 See Also
 
-- [Luminol Crime Scene](109-luminol-crime-scene.md)
-- [Fluorescein Blacklight Fountain](118-fluorescein-blacklight-fountain.md)
+- [Luminol Crime Scene](109-luminol-crime-scene/)
+- [Fluorescein Blacklight Fountain](118-fluorescein-blacklight-fountain/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)

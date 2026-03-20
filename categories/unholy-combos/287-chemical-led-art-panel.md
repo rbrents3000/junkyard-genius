@@ -87,9 +87,6 @@ The more advanced approach uses electrochromic solutions — tungsten oxide nano
 
 ## 🔗 See Also
 
-- [LED Cube 8x8x8](../pi-and-arduino/122-led-cube-8x8x8.md)
-- [Chemiluminescent Fountain](../pyro-and-chemistry/111-chemiluminescent-fountain.md)
+- [LED Cube 8x8x8](../pi-and-arduino/122-led-cube-8x8x8/)
+- [Chemiluminescent Fountain](../pyro-and-chemistry/111-chemiluminescent-fountain/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

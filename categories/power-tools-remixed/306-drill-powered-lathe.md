@@ -157,10 +157,6 @@ Roll up sleeves, tie back hair, remove rings, and never wear gloves while the la
 
 ## 🔗 See Also
 
-- [Hand Drill Press](080-hand-drill-press.md)
-- [Circular Saw Table Saw](082-circular-saw-table-saw.md)
+- [Hand Drill Press](080-hand-drill-press/)
+- [Circular Saw Table Saw](082-circular-saw-table-saw/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

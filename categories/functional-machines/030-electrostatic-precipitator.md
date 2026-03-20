@@ -63,7 +63,7 @@ A flyback transformer from an old CRT TV provides the high voltage (10-30kV DC).
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide before starting.
 
 - The flyback transformer produces high voltage (10-30kV) that can cause a painful shock and potentially cardiac disruption. Always include the current-limiting resistor. Never touch the high-voltage wire or connections while the unit is powered. Discharge all components before servicing.
 - Ozone is produced as a byproduct of corona discharge. In small amounts it smells clean; in large amounts it's a respiratory irritant. Run the device in a ventilated area. If the ozone smell is strong, reduce the voltage or increase airflow.
@@ -71,5 +71,5 @@ A flyback transformer from an old CRT TV provides the high voltage (10-30kV DC).
 
 ## 🔗 See Also
 
-- [Vacuum Chamber](../mad-scientist/039-vacuum-chamber.md)
-- [Silent Compressor](031-silent-compressor.md)
+- [Vacuum Chamber](../mad-scientist/039-vacuum-chamber/)
+- [Silent Compressor](031-silent-compressor/)

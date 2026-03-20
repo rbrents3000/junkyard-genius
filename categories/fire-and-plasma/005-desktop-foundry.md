@@ -74,7 +74,7 @@ This is the gateway drug to metalcasting. Once you realize you can melt metal in
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety, High Voltage Safety before starting.
 
 > [!CAUTION]
 > **Molten aluminum is invisible-hot.** It looks like silver liquid but it's over 1,200degF. A single splash will cause a severe burn. Wear leather boots (not sneakers), long pants, leather gloves, and a face shield. Never wear synthetic fabrics — they melt into skin.
@@ -84,5 +84,5 @@ This is the gateway drug to metalcasting. Once you realize you can melt metal in
 
 ## 🔗 See Also
 
-- [Thermic Lance](004-thermic-lance.md) — when you want to cut metal instead of melt it
-- [Fresnel Lens Solar Forge](../light-and-visual/020-fresnel-lens-solar-forge.md) — melt metal using focused sunlight instead of charcoal
+- [Thermic Lance](004-thermic-lance/) — when you want to cut metal instead of melt it
+- [Fresnel Lens Solar Forge](../light-and-visual/020-fresnel-lens-solar-forge/) — melt metal using focused sunlight instead of charcoal

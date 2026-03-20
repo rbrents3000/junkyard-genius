@@ -86,12 +86,7 @@ The first victim alerts everyone else in the house, and then every person has to
 
 ## 🔗 See Also
 
-- [Invisible Bluetooth Speaker](254-invisible-speaker.md)
-- [Self-Pouring Bottle](258-self-pouring-bottle.md)
-- [Motion-Activated Jump Scare](255-motion-jump-scare.md)
+- [Invisible Bluetooth Speaker](254-invisible-speaker/)
+- [Self-Pouring Bottle](258-self-pouring-bottle/)
+- [Motion-Activated Jump Scare](255-motion-jump-scare/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

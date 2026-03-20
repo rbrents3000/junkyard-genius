@@ -61,5 +61,5 @@ That old iPad or Android tablet with the cracked corner and sluggish performance
 
 ## 🔗 See Also
 
-- [Laptop Screen Monitor](061-laptop-screen-monitor.md)
-- [Phone Sensor Network](064-phone-sensor-network.md)
+- [Laptop Screen Monitor](061-laptop-screen-monitor/)
+- [Phone Sensor Network](064-phone-sensor-network/)

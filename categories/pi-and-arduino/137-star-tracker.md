@@ -68,11 +68,6 @@ The Earth rotates once every 24 hours. Point a camera at the sky and take a long
 
 ## 🔗 See Also
 
-- [Generative Art Plotter](../python-projects/142-generative-art-plotter.md)
-- [ESP32 Weather Station](132-esp32-weather-station.md)
+- [Generative Art Plotter](../python-projects/142-generative-art-plotter/)
+- [ESP32 Weather Station](132-esp32-weather-station/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

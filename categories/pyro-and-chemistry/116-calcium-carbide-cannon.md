@@ -61,7 +61,7 @@ Calcium carbide is a gray rock that reacts violently with water to produce acety
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
 - Acetylene is explosive when mixed with air at concentrations between 2.5% and 81%. Never use this device indoors. Never hold your face over the open end of the tube. Never try to increase the pressure by using a tighter seal — you're building a contained gas ignition device, not a pipe bomb.
 - This is EXTREMELY loud — comparable to a gunshot. Wear ear protection. Alert neighbors before use. Be aware of local noise ordinances. Never fire near animals.
@@ -69,9 +69,6 @@ Calcium carbide is a gray rock that reacts violently with water to produce acety
 
 ## 🔗 See Also
 
-- [Hydrogen Generator](../chemical-electronic/159-hydrogen-generator.md)
-- [Smoke Bomb Array](103-smoke-bomb-array.md)
+- [Hydrogen Generator](../chemical-electronic/159-hydrogen-generator/)
+- [Smoke Bomb Array](103-smoke-bomb-array/)
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

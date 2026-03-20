@@ -85,6 +85,6 @@ The design was developed in the 1980s by Dr. Larry Winiarski for use in developi
 
 ## 🔗 See Also
 
-- [Gravity Water Filter](250-gravity-water-filter.md)
-- [Solar Still](248-solar-still.md)
-- [Biogas Generator](249-biogas-generator.md)
+- [Gravity Water Filter](250-gravity-water-filter/)
+- [Solar Still](248-solar-still/)
+- [Biogas Generator](249-biogas-generator/)

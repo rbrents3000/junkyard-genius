@@ -73,5 +73,5 @@ NASA left retroreflector arrays on the Moon during the Apollo missions. Scientis
 
 ## 🔗 See Also
 
-- [Laser Maze](176-laser-maze.md) — another laser optics project with a very different purpose
-- [Laser Fog Projector](017-laser-fog-projector.md) — lasers for visual display instead of precision optics
+- [Laser Maze](176-laser-maze/) — another laser optics project with a very different purpose
+- [Laser Fog Projector](017-laser-fog-projector/) — lasers for visual display instead of precision optics

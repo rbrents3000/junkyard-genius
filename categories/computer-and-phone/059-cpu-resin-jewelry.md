@@ -68,10 +68,6 @@ CPUs, RAM sticks, and IC chips contain some of the most intricate patterns human
 
 ## 🔗 See Also
 
-- [GPU Wall Art](060-gpu-wall-art.md)
-- [RAM Stick Ruler](068-ram-stick-ruler.md)
+- [GPU Wall Art](060-gpu-wall-art/)
+- [RAM Stick Ruler](068-ram-stick-ruler/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

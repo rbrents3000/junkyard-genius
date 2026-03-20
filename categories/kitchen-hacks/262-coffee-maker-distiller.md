@@ -84,6 +84,6 @@ You won't produce industrial quantities — a single coffee-maker run yields a f
 
 ## 🔗 See Also
 
-- [Blender Vortex Centrifuge](263-blender-centrifuge.md)
-- [Stand Mixer Pottery Wheel](261-stand-mixer-pottery-wheel.md)
-- [Rocket Stove](../survival-off-grid/253-rocket-stove.md)
+- [Blender Vortex Centrifuge](263-blender-centrifuge/)
+- [Stand Mixer Pottery Wheel](261-stand-mixer-pottery-wheel/)
+- [Rocket Stove](../survival-off-grid/253-rocket-stove/)

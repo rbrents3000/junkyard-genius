@@ -61,7 +61,7 @@ Professional fireworks shows use electric igniters (e-matches) wired to a sequen
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 5 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
 - Fireworks are explosive devices. Observe all local laws regarding fireworks use. Maintain minimum safety distances (100 feet for consumer shells, more for larger shells). Never stand over a loaded mortar tube. Never attempt to re-approach a misfired shell for at least 15 minutes. Keep a fire extinguisher and a water bucket at the control station.
 - If using microwave capacitors for the ignition power source instead of a battery, the capacitor stores lethal energy at 2100V. A microwave capacitor can kill you. Discharge capacitors with a high-wattage resistor before handling. Keep both terminals shorted with a wire when not in use. If you're not experienced with high-voltage capacitors, use a 12V car battery instead — it works just as well for nichrome igniters and won't kill you.
@@ -69,12 +69,6 @@ Professional fireworks shows use electric igniters (e-matches) wired to a sequen
 
 ## 🔗 See Also
 
-- [Fireworks Sequencer](../pi-and-arduino/121-fireworks-sequencer.md)
-- [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher.md)
+- [Fireworks Sequencer](../pi-and-arduino/121-fireworks-sequencer/)
+- [Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

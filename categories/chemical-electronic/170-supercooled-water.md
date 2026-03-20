@@ -67,12 +67,6 @@ Water normally freezes at 0°C (32°F). But if the water is very pure (no dissol
 
 ## 🔗 See Also
 
-- [Instant Ice Sculpture](../pyro-and-chemistry/108-instant-ice-sculpture.md)
-- [Dry Ice Bubble Cauldron](../pyro-and-chemistry/120-dry-ice-bubble-cauldron.md)
+- [Instant Ice Sculpture](../pyro-and-chemistry/108-instant-ice-sculpture/)
+- [Dry Ice Bubble Cauldron](../pyro-and-chemistry/120-dry-ice-bubble-cauldron/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -65,10 +65,6 @@ A flatbed scanner uses a linear CCD sensor — a single row of thousands of phot
 
 ## 🔗 See Also
 
-- [DIY 3D Scanner](074-diy-3d-scanner.md)
-- [Laptop Screen Light Table](../computer-and-phone/062-laptop-screen-light-table.md)
+- [DIY 3D Scanner](074-diy-3d-scanner/)
+- [Laptop Screen Light Table](../computer-and-phone/062-laptop-screen-light-table/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

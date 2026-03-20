@@ -87,12 +87,7 @@ The moment you close your eyes and relax, you can watch your alpha power spike o
 
 ## 🔗 See Also
 
-- [HUD Glasses](245-hud-glasses.md)
-- [Motion Capture Glove](246-motion-capture-glove.md)
-- [LED Jacket](242-led-jacket.md)
+- [HUD Glasses](245-hud-glasses/)
+- [Motion Capture Glove](246-motion-capture-glove/)
+- [LED Jacket](242-led-jacket/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

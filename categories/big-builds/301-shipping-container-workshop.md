@@ -207,11 +207,7 @@ addition. The container arrives structurally complete — you're just making it 
 
 ## 🔗 See Also
 
-- [Underground Root Cellar](195-underground-root-cellar.md) — another permanent structure build, but going down instead of staying above ground
-- [Ham Radio from Scratch](193-ham-radio-from-scratch.md) — fill your new workshop with a project the day it's finished
+- [Underground Root Cellar](195-underground-root-cellar/) — another permanent structure build, but going down instead of staying above ground
+- [Ham Radio from Scratch](193-ham-radio-from-scratch/) — fill your new workshop with a project the day it's finished
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
 

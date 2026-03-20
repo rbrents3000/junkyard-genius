@@ -81,6 +81,6 @@ Why would you want one? EMP preparedness is the headline answer — a coronal ma
 
 ## 🔗 See Also
 
-- [Hand-Crank Phone Charger](251-hand-crank-charger.md)
-- [Laser Tripwire Security System](../laser-lab/268-laser-tripwire-alarm.md)
-- [Solar Still](248-solar-still.md)
+- [Hand-Crank Phone Charger](251-hand-crank-charger/)
+- [Laser Tripwire Security System](../laser-lab/268-laser-tripwire-alarm/)
+- [Solar Still](248-solar-still/)

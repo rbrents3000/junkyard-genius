@@ -76,11 +76,7 @@ This is the simplest prank build in the entire collection. No programming, no ba
 
 ## 🔗 See Also
 
-- [Invisible Bluetooth Speaker](254-invisible-speaker.md)
-- [Motion-Activated Jump Scare](255-motion-jump-scare.md)
-- [Self-Pouring Bottle](258-self-pouring-bottle.md)
+- [Invisible Bluetooth Speaker](254-invisible-speaker/)
+- [Motion-Activated Jump Scare](255-motion-jump-scare/)
+- [Self-Pouring Bottle](258-self-pouring-bottle/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

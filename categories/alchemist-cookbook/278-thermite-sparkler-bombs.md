@@ -65,7 +65,7 @@ The ingredients are shockingly accessible. Iron oxide is literally rust — you 
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md) before starting.
+> **Spicy Level 5 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety before starting.
 
 - Thermite burns at 2,500°C and produces molten iron. There is no way to extinguish it once started. Do NOT use water — steam explosions will scatter molten metal. The only safe approach is to let it burn out completely.
 - Perform this outdoors on non-flammable surfaces (concrete, bare dirt, sand) with nothing flammable within 15 feet in any direction. Molten iron spatter can travel surprisingly far.
@@ -75,11 +75,6 @@ The ingredients are shockingly accessible. Iron oxide is literally rust — you 
 
 ## 🔗 See Also
 
-- [Thermite Cold Spark Fountain](230-thermite-cold-spark-fountain.md)
-- [Chemical Trigger Color Bombs](228-chemical-trigger-color-bombs.md)
+- [Thermite Cold Spark Fountain](230-thermite-cold-spark-fountain/)
+- [Chemical Trigger Color Bombs](228-chemical-trigger-color-bombs/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)

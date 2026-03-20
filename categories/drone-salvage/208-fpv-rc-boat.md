@@ -74,10 +74,6 @@ The clout potential is off the charts. FPV boat footage on a calm lake at sunset
 
 ## 🔗 See Also
 
-- [FPV Ground Rover](202-fpv-ground-rover.md) — same FPV concept on land
-- [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer.md) — add stabilization to the boat camera for smoother footage in chop
+- [FPV Ground Rover](202-fpv-ground-rover/) — same FPV concept on land
+- [Camera Gimbal Stabilizer](201-camera-gimbal-stabilizer/) — add stabilization to the boat camera for smoother footage in chop
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

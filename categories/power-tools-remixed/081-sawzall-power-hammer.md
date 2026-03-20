@@ -63,10 +63,6 @@ A reciprocating saw (Sawzall) makes 2,500-3,000 strokes per minute with consider
 
 ## 🔗 See Also
 
-- [Angle Grinder Forge Blower](079-angle-grinder-forge-blower.md)
-- [Circular Saw Table Saw](082-circular-saw-table-saw.md)
+- [Angle Grinder Forge Blower](079-angle-grinder-forge-blower/)
+- [Circular Saw Table Saw](082-circular-saw-table-saw/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

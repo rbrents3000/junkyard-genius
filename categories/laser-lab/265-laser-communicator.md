@@ -86,6 +86,6 @@ No wires. No radio waves. No detectable RF emissions. Just photons carrying your
 
 ## 🔗 See Also
 
-- [Laser Tripwire Security System](268-laser-tripwire-alarm.md)
-- [Galvanometer Laser Light Show](266-laser-galvo-show.md)
-- [Laser Harp](267-laser-harp.md)
+- [Laser Tripwire Security System](268-laser-tripwire-alarm/)
+- [Galvanometer Laser Light Show](266-laser-galvo-show/)
+- [Laser Harp](267-laser-harp/)

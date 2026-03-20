@@ -74,10 +74,6 @@ The result is mesmerizing — a jet-black liquid that seems alive, growing spine
 
 ## 🔗 See Also
 
-- [Ultrasonic Levitator](010-ultrasonic-levitator.md) — another way to make invisible physical forces create visible wonder
-- [CRT Oscilloscope Visualizer](../light-and-visual/021-crt-oscilloscope-visualizer.md) — visualize music on a screen instead of in a liquid
+- [Ultrasonic Levitator](010-ultrasonic-levitator/) — another way to make invisible physical forces create visible wonder
+- [CRT Oscilloscope Visualizer](../light-and-visual/021-crt-oscilloscope-visualizer/) — visualize music on a screen instead of in a liquid
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

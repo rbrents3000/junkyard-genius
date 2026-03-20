@@ -67,10 +67,6 @@ The materials are free. The only cost is welding consumables and finishing suppl
 
 ## 🔗 See Also
 
-- [Kinetic Wind Sculpture](043-kinetic-wind-sculpture.md)
-- [CRT Electromagnetic Art](048-crt-electromagnetic-art.md)
+- [Kinetic Wind Sculpture](043-kinetic-wind-sculpture/)
+- [CRT Electromagnetic Art](048-crt-electromagnetic-art/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

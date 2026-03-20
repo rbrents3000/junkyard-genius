@@ -68,11 +68,6 @@ Take a motorized Nerf gun (the kind with a flywheel launcher), mount it on a pan
 
 ## 🔗 See Also
 
-- [Face Tracking Laser](../python-projects/141-face-tracking-laser.md)
-- [Printer Robot Arm](129-printer-robot-arm.md)
+- [Face Tracking Laser](../python-projects/141-face-tracking-laser/)
+- [Printer Robot Arm](129-printer-robot-arm/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -69,10 +69,6 @@ Anthony Howe's massive kinetic sculptures sell for hundreds of thousands of doll
 
 ## 🔗 See Also
 
-- [Scrap Metal Sculpture](045-scrap-metal-sculpture.md)
-- [Anti-Gravity Water Fountain](044-antigravity-water-fountain.md)
+- [Scrap Metal Sculpture](045-scrap-metal-sculpture/)
+- [Anti-Gravity Water Fountain](044-antigravity-water-fountain/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

@@ -73,5 +73,5 @@ Named after Aeolus, the Greek god of wind, these instruments date back thousands
 
 ## 🔗 See Also
 
-- [Thunder Drum](012-thunder-drum.md) — another instrument that produces sounds from natural/ambient forces
-- [Fire Tornado Table](../fire-and-plasma/007-fire-tornado-table.md) — another project that harnesses natural forces for dramatic effect
+- [Thunder Drum](012-thunder-drum/) — another instrument that produces sounds from natural/ambient forces
+- [Fire Tornado Table](../fire-and-plasma/007-fire-tornado-table/) — another project that harnesses natural forces for dramatic effect

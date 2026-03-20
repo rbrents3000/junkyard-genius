@@ -64,11 +64,6 @@ Fluorescein is a dye that absorbs UV light and re-emits it as visible neon green
 
 ## 🔗 See Also
 
-- [Chemiluminescent Fountain](111-chemiluminescent-fountain.md)
-- [Luminol Crime Scene](109-luminol-crime-scene.md)
+- [Chemiluminescent Fountain](111-chemiluminescent-fountain/)
+- [Luminol Crime Scene](109-luminol-crime-scene/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Chemicals Reference](../../docs/reference/chemicals.md)

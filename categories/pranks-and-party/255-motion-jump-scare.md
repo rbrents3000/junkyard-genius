@@ -84,12 +84,7 @@ Commercial motion-activated scare props cost $50-100 and have fixed, predictable
 
 ## 🔗 See Also
 
-- [Invisible Bluetooth Speaker](254-invisible-speaker.md)
-- [Piezo Shock Pen](256-shock-pen.md)
-- [Fake Security Camera That Roasts You](257-insult-camera.md)
+- [Invisible Bluetooth Speaker](254-invisible-speaker/)
+- [Piezo Shock Pen](256-shock-pen/)
+- [Fake Security Camera That Roasts You](257-insult-camera/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -78,11 +78,6 @@ The concept exploits the fact that human vision retains an image for about 1/25t
 
 ## 🔗 See Also
 
-- [Holographic Fan Display](022-holographic-fan-display.md) — similar persistence-of-vision concept in a flat form factor
-- [Light Painting Robot](178-light-painting-robot.md) — LEDs creating images through motion, captured by long-exposure photography
+- [Holographic Fan Display](022-holographic-fan-display/) — similar persistence-of-vision concept in a flat form factor
+- [Light Painting Robot](178-light-painting-robot/) — LEDs creating images through motion, captured by long-exposure photography
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

@@ -70,5 +70,5 @@ A well-built collector measuring 4'x8' can heat 20-40 gallons of water to 120-15
 
 ## 🔗 See Also
 
-- [Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger.md)
-- [Bicycle Generator](050-bicycle-generator.md)
+- [Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger/)
+- [Bicycle Generator](050-bicycle-generator/)

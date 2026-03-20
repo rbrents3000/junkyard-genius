@@ -79,7 +79,7 @@ This is a building block more than a finished product. The capacitor bank itself
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) and [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide and High Voltage Safety before starting.
 
 - A charged capacitor bank can kill you. At 450V and 3300uF, this bank stores 334 joules — roughly the energy of a .22 caliber bullet. The discharge happens in milliseconds, meaning peak current can reach thousands of amps. Treat a charged capacitor bank exactly like a loaded weapon: never point the output at anything you don't intend to destroy, and never work on the internals while charged.
 - Always discharge the bank before opening the enclosure or touching any wiring. Use the dump resistor: clip it across the output terminals with insulated test leads and wait for the voltmeter to read zero. Then wait another 30 seconds. Then verify zero with a multimeter. Then you can touch it.
@@ -90,11 +90,7 @@ This is a building block more than a finished product. The capacitor bank itself
 
 ## 🔗 See Also
 
-- [DIY Powerwall](052-diy-powerwall.md)
-- [Rail Gun](../mad-scientist/036-rail-gun.md)
-- [Coil Gun](../mad-scientist/037-coil-gun.md)
+- [DIY Powerwall](052-diy-powerwall/)
+- [Rail Gun](../mad-scientist/036-rail-gun/)
+- [Coil Gun](../mad-scientist/037-coil-gun/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

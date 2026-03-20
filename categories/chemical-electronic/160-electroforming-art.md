@@ -62,7 +62,7 @@ Electroplating deposits a thin coating. Electroforming deposits a THICK one — 
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 3 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
+> **Spicy Level 3 build.** Read the Safety Guide and Chemical Safety, Fire & Pyro Safety, High Voltage Safety before starting.
 
 - Copper sulfate solution is toxic. The addition of sulfuric acid makes it caustic as well. Wear gloves, goggles, and a lab apron. Work in a ventilated area. Keep away from food, children, and pets.
 - Electroforming runs for days unattended. Ensure the setup is stable and can't be knocked over. A spilled acid bath creates a dangerous mess. Place the tub in a secondary containment tray.
@@ -70,9 +70,6 @@ Electroplating deposits a thin coating. Electroforming deposits a THICK one — 
 
 ## 🔗 See Also
 
-- [Electroplating Station](156-electroplating-station.md)
-- [Copper Crystal Tree](161-copper-crystal-tree.md)
+- [Electroplating Station](156-electroplating-station/)
+- [Copper Crystal Tree](161-copper-crystal-tree/)
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

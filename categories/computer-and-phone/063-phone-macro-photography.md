@@ -63,5 +63,5 @@ Old phones with OLED screens can display pure, vivid colors with perfect black b
 
 ## 🔗 See Also
 
-- [Phone IR Camera](066-phone-ir-camera.md)
-- [Laptop Screen Light Table](062-laptop-screen-light-table.md)
+- [Phone IR Camera](066-phone-ir-camera/)
+- [Laptop Screen Light Table](062-laptop-screen-light-table/)

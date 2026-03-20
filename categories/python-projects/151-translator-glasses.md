@@ -68,9 +68,6 @@ Look at a sign in a foreign language. Within seconds, the translated text appear
 
 ## 🔗 See Also
 
-- [AI Photo Booth](143-ai-photo-booth.md)
-- [Deepfake Mirror](153-deepfake-mirror.md)
+- [AI Photo Booth](143-ai-photo-booth/)
+- [Deepfake Mirror](153-deepfake-mirror/)
 
-**References:**
-
-- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)

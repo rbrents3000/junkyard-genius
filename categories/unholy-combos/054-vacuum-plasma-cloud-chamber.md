@@ -39,7 +39,7 @@ This build requires a functioning vacuum chamber (build #039), cloud chamber exp
 <details>
 <summary><strong>🧰 Ingredients</strong></summary>
 
-- [ ] Vacuum chamber — with viewport, from build #039 *(see [Vacuum Chamber](../mad-scientist/039-vacuum-chamber.md))*
+- [ ] Vacuum chamber — with viewport, from build #039 *(see [Vacuum Chamber](../mad-scientist/039-vacuum-chamber/))*
 - [ ] Vacuum pump — capable of reaching 10-50 Torr (not full vacuum — you need residual gas for the plasma and cloud operation) *(fridge compressor or rotary vane pump)*
 - [ ] Peltier cooler or dry ice — for the cold plate inside the chamber *(electronics supplier, or grocery store)*
 - [ ] Isopropyl alcohol 99% — for the supersaturated vapor *(pharmacy)*
@@ -67,7 +67,7 @@ This build requires a functioning vacuum chamber (build #039), cloud chamber exp
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide before starting.
 
 - The high-voltage plasma discharge is dangerous. At 1-2kV, the electrodes can deliver a serious shock. All HV connections must be inside the sealed chamber or behind insulated feedthroughs. Interlock the HV supply so it cuts automatically when the chamber is opened. Never reach into the chamber while HV is applied.
 - The vacuum chamber is under mechanical stress from atmospheric pressure. All safety notes from build #039 apply. The addition of HV feedthroughs creates potential weak points — test vacuum integrity before applying high voltage.
@@ -75,5 +75,5 @@ This build requires a functioning vacuum chamber (build #039), cloud chamber exp
 
 ## 🔗 See Also
 
-- [Cloud Chamber](../mad-scientist/041-cloud-chamber.md)
-- [Vacuum Chamber](../mad-scientist/039-vacuum-chamber.md)
+- [Cloud Chamber](../mad-scientist/041-cloud-chamber/)
+- [Vacuum Chamber](../mad-scientist/039-vacuum-chamber/)

@@ -82,5 +82,5 @@ Source the Peltier modules from dead mini-fridges and wine coolers — they show
 
 ## 🔗 See Also
 
-- [Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger.md)
-- [Solar Water Heater](051-solar-water-heater.md)
+- [Campfire Thermoelectric Charger](049-campfire-thermoelectric-charger/)
+- [Solar Water Heater](051-solar-water-heater/)

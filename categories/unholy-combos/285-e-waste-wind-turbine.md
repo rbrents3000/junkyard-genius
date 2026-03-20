@@ -83,10 +83,6 @@ The engineering challenge isn't any single component — it's making them all wo
 
 ## 🔗 See Also
 
-- [Bicycle Generator](../power-and-energy/050-bicycle-generator.md)
-- [DIY Powerwall](../power-and-energy/052-diy-powerwall.md)
+- [Bicycle Generator](../power-and-energy/050-bicycle-generator/)
+- [DIY Powerwall](../power-and-energy/052-diy-powerwall/)
 
-**References:**
-
-- [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Technical Glossary](../../docs/reference/glossary.md)

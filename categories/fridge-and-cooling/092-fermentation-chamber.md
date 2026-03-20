@@ -66,5 +66,5 @@ Fermentation is temperature-critical. Beer yeast wants 62-72F. Cheese cultures n
 
 ## 🔗 See Also
 
-- [Fog Chiller](093-fog-chiller.md)
-- [DIY Freeze Dryer](094-diy-freeze-dryer.md)
+- [Fog Chiller](093-fog-chiller/)
+- [DIY Freeze Dryer](094-diy-freeze-dryer/)

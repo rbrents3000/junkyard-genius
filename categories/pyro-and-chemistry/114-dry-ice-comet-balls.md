@@ -65,9 +65,6 @@ Dry ice sublimates at -109°F, turning directly from solid to gas. When it conta
 
 ## 🔗 See Also
 
-- [Dry Ice Bubble Cauldron](120-dry-ice-bubble-cauldron.md)
-- [Colored Fire](101-colored-fire.md)
+- [Dry Ice Bubble Cauldron](120-dry-ice-bubble-cauldron/)
+- [Colored Fire](101-colored-fire/)
 
-**References:**
-
-- [Chemicals Reference](../../docs/reference/chemicals.md)

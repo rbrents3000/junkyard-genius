@@ -78,5 +78,5 @@ The build takes an afternoon and costs almost nothing if you scrounge the parts.
 
 ## 🔗 See Also
 
-- [Tin Can Banjo](238-tin-can-banjo.md) — same concept, different resonator, different sound
-- [Bucket Drum Kit](237-bucket-drum-kit.md) — another junkyard percussion/string instrument with electronic pickup
+- [Tin Can Banjo](238-tin-can-banjo/) — same concept, different resonator, different sound
+- [Bucket Drum Kit](237-bucket-drum-kit/) — another junkyard percussion/string instrument with electronic pickup

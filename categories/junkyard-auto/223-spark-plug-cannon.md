@@ -60,7 +60,7 @@ A spark plug is a precision ignition device designed to reliably fire a spark ac
 
 ## ⚠️ Safety Notes
 
-> **Spicy Level 4 build.** Read the [Safety Guide](../../docs/safety/README.md) before starting.
+> **Spicy Level 4 build.** Read the Safety Guide before starting.
 
 - This is a combustion device that generates significant pressure. Never use sealed barrels, PVC rated below Schedule 40, or metal pipes with visible corrosion or cracks. If the combustion chamber fails, it fragments into shrapnel. Inspect before every use.
 - Never look down the barrel after a misfire. Wait 30 seconds, ventilate the chamber by blowing air through it, then re-inject fuel and try again. Propane is heavier than air and can pool in the chamber.
@@ -68,5 +68,5 @@ A spark plug is a precision ignition device designed to reliably fire a spark ac
 
 ## 🔗 See Also
 
-- [Calcium Carbide Cannon](../pyro-and-chemistry/116-calcium-carbide-cannon.md)
-- [Propane Vortex Cannon](../fire-and-plasma/003-propane-vortex-cannon.md)
+- [Calcium Carbide Cannon](../pyro-and-chemistry/116-calcium-carbide-cannon/)
+- [Propane Vortex Cannon](../fire-and-plasma/003-propane-vortex-cannon/)
