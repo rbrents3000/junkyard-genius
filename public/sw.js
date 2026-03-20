@@ -29,6 +29,10 @@ self.addEventListener('activate', function(event) {
 self.addEventListener('fetch', function(event) {
   if (event.request.method !== 'GET') return;
 
+  // Only handle same-origin requests; let cross-origin (fonts, shields, GA) pass through
+  var url = new URL(event.request.url);
+  if (url.origin !== self.location.origin) return;
+
   var accept = event.request.headers.get('Accept') || '';
 
   // HTML pages: network-first
