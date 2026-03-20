@@ -50,6 +50,30 @@ layout: default
 
 {{ content }}
 
+{% assign prev_build = nil %}
+{% assign next_build = nil %}
+{% assign found = false %}
+{% for b in collections.builds %}
+  {% if found and next_build == nil %}
+    {% assign next_build = b %}
+  {% endif %}
+  {% if b.data.build_number == build_number %}
+    {% assign found = true %}
+  {% endif %}
+  {% unless found %}
+    {% assign prev_build = b %}
+  {% endunless %}
+{% endfor %}
+
+<nav class="build-nav" aria-label="Build navigation">
+  {% if prev_build %}
+    <a href="{{ prev_build.url }}">&larr; #{{ prev_build.data.build_number }} {{ prev_build.data.title }}</a>
+  {% endif %}
+  {% if next_build %}
+    <a href="{{ next_build.url }}" class="nav-next">#{{ next_build.data.build_number }} {{ next_build.data.title }} &rarr;</a>
+  {% endif %}
+</nav>
+
 <div class="build-tracker" id="buildTracker">
   <button class="tracker-btn" id="completedBtn">&#9744; Mark as Completed</button>
   <button class="tracker-btn tracker-btn-want" id="wantBtn">&#128204; Want to Build</button>
@@ -109,18 +133,28 @@ layout: default
     navigator.clipboard.writeText(url).then(function(){
       btn.textContent = "\u2713 Copied!";
       setTimeout(function(){ btn.innerHTML = "&#128279; Copy Link"; }, 2000);
+    }).catch(function(){
+      btn.textContent = "\u2717 Failed";
+      setTimeout(function(){ btn.innerHTML = "&#128279; Copy Link"; }, 2000);
     });
   });
   // Scroll depth tracking
   var firedDepth = {};
+  var scrollTicking = false;
   window.addEventListener('scroll', function(){
-    var scrollPct = Math.round((window.scrollY + window.innerHeight) / document.documentElement.scrollHeight * 100);
-    [50, 90].forEach(function(d){
-      if(scrollPct >= d && !firedDepth[d]){
-        firedDepth[d] = true;
-        if(typeof gtag==='function') gtag('event','build_scroll_depth',{build_number:buildNum,depth:d});
-      }
-    });
+    if (!scrollTicking) {
+      scrollTicking = true;
+      requestAnimationFrame(function(){
+        var scrollPct = Math.round((window.scrollY + window.innerHeight) / document.documentElement.scrollHeight * 100);
+        [50, 90].forEach(function(d){
+          if(scrollPct >= d && !firedDepth[d]){
+            firedDepth[d] = true;
+            if(typeof gtag==='function') gtag('event','build_scroll_depth',{build_number:buildNum,depth:d});
+          }
+        });
+        scrollTicking = false;
+      });
+    }
   });
 })();
 </script>

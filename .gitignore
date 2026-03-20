@@ -21,3 +21,5 @@ _site/
 
 # Utility scripts (not project content)
 scripts/
+
+.vercel
