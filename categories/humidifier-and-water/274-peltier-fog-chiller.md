@@ -88,5 +88,5 @@ The effect is genuinely dramatic. Cold fog behaves like a fluid — it pools in 
 
 **References:**
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Electronics Salvage Guide](../../docs/reference/electronics-salvage-guide.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

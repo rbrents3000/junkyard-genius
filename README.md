@@ -353,6 +353,7 @@ Got a build idea? Found a mistake? Want to add safety info?
 See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for the template, rating system, and submission process.
 
 We're especially looking for:
+
 - Builds from parts we haven't covered yet
 - Better safety notes on existing builds
 - Photos/videos of completed builds (link them in a PR!)

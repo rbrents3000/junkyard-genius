@@ -92,5 +92,5 @@ This is not a toy lathe. Washing machine motors produce enough torque to turn se
 
 **References:**
 - [Appliance Teardown Guide](../../docs/reference/appliance-teardown-guide.md)
-- [Electronics Salvage Guide](../../docs/reference/electronics-salvage-guide.md)
+- [Electronics & Microcontrollers Guide](../../docs/reference/electronics-and-microcontrollers.md)
 - [Technical Glossary](../../docs/reference/glossary.md)

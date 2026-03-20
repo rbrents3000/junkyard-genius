@@ -34,6 +34,7 @@ Capacitors store electrical charge and can deliver it all at once — even when 
 MOT capacitors are typically rated at ~2,100V and 1µF. They store enough energy (approximately 2.2 joules) to be lethal.
 
 **Discharge procedure:**
+
 1. **Unplug the microwave** and wait 60 seconds.
 2. **Build a discharge tool:** Connect a 10k ohm, **50-watt** resistor between two insulated-handle screwdrivers or probes. The resistor limits the discharge current, preventing violent arcing. A 10W resistor is NOT sufficient — peak power during discharge can exceed 400W momentarily, and an undersized resistor can fail open, leaving the capacitor still charged.
 3. **Touch both probes to the capacitor terminals simultaneously.** Hold for 10 seconds. You may see a small spark — that's the stored charge dissipating through the resistor.
@@ -47,6 +48,7 @@ MOT capacitors are typically rated at ~2,100V and 1µF. They store enough energy
 The CRT tube itself acts as a capacitor. The inner coating (aquadag) and outer coating form the two plates, with the glass as the dielectric. The anode can hold 10,000-30,000V for weeks after unplugging.
 
 **Discharge procedure:**
+
 1. **Unplug the TV** and wait at least 5 minutes.
 2. **Build a discharge tool:** Connect a 10M ohm, **25-watt** resistor to a thick insulated wire, with one end clipped to the chassis ground (metal frame or the grounding strap on the CRT). Peak power during discharge can reach 10W, and a 5W resistor can fail — use a higher-rated resistor for safety margin.
 3. **Wearing insulated gloves,** slide the other end of the wire under the rubber anode cap on the side of the CRT tube. You should hear a loud SNAP — that's the stored charge.
@@ -58,6 +60,7 @@ The CRT tube itself acts as a capacitor. The inner coating (aquadag) and outer c
 These are the most dangerous capacitors in any build — banks of large electrolytic capacitors charged to hundreds or thousands of volts, storing tens or hundreds of joules. Enough energy to cause severe burns or cardiac arrest.
 
 **Rules:**
+
 - **ALWAYS have a physical discharge mechanism** built into the device — a high-wattage resistor (or bank of resistors) that can be switched across the capacitor bank to drain it safely.
 - **Verify voltage with a multimeter** before touching anything, every single time.
 - **Treat every capacitor as charged** until you personally verify it's discharged. Don't trust someone else's word. Don't trust that you "already discharged it."
@@ -152,22 +155,26 @@ Electrical fires are Class C fires. Standard rules:
 ## Specific Component Warnings
 
 ### Microwave Oven Transformers (MOTs)
+
 - The secondary winding outputs ~2,000V at 500mA-1A. This is 5-10x the lethal current level.
 - MOTs are intentionally designed to deliver high current — they are NOT current-limited like neon sign transformers.
 - The secondary winding is often connected to the core (chassis ground). Touching the core while touching the secondary output = shock.
 - Always remove the magnetic shunts intentionally if you want more power, but understand that this makes the transformer even more dangerous.
 
 ### Capacitors
+
 - Treat EVERY capacitor as charged until you personally verify it's discharged with a multimeter.
 - Oil-filled capacitors (MOT caps) can rupture and leak carcinogenic PCB oil (in older units). Dispose of properly.
 - Electrolytic capacitors can explode if connected with reversed polarity or charged beyond their rated voltage. The explosion sprays caustic electrolyte.
 
 ### CRT Tubes
+
 - The anode holds charge for weeks. Discharge EVERY time, even if "you just discharged it yesterday."
 - The tube is under vacuum. A broken CRT implodes, sending glass in all directions. Handle with extreme care. Wear goggles.
 - The phosphor coating contains toxic compounds. Never break the screen intentionally.
 
 ### Neon Sign Transformers (NSTs)
+
 - Lower current than MOTs (typically 30-60mA) but much higher voltage (2,000-15,000V). Still dangerous and potentially lethal.
 - NSTs are current-limited, which makes them slightly less dangerous than MOTs, but "less dangerous" is not "safe."
 

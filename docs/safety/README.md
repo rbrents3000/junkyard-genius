@@ -39,21 +39,27 @@ flowchart LR
 These apply to EVERY build, regardless of Spicy Level.
 
 ### 1. Wear Eye Protection
+
 Safety goggles or glasses. Not sunglasses, not regular glasses (no side protection). Actual safety glasses with side shields. This is non-negotiable for any build involving tools, chemicals, or electricity. Your eyes don't heal.
 
 ### 2. Work in Ventilated Areas
+
 If a build produces fumes, smoke, dust, or gas — work outdoors or in a space with active ventilation (open windows + fan, or a fume hood). Many chemical and pyrotechnic builds MUST be done outdoors.
 
 ### 3. Keep a Fire Extinguisher Within Arm's Reach
+
 Not in the next room. Not in the garage while you're in the backyard. Within arm's reach of your work area. A 5 lb ABC-rated extinguisher covers most situations. Know how to use it BEFORE you need it: Pull pin, Aim at base, Squeeze handle, Sweep side to side.
 
 ### 4. Never Work Alone on Dangerous Builds
+
 For builds rated ⭐⭐⭐⭐ or ⭐⭐⭐⭐⭐, have someone present or at minimum someone aware of what you're doing who can check on you. If you get shocked, burned, or splashed with chemicals, you need someone who can call for help.
 
 ### 5. Have a First Aid Kit Ready
+
 A basic kit with burn gel, bandages, saline eye wash, and chemical neutralizers. For chemical builds, keep a gallon of water within arm's reach for flushing.
 
 ### 6. Dress Appropriately
+
 - Closed-toe shoes (no sandals)
 - Long pants (no shorts around heat, chemicals, or grinding)
 - No loose clothing, jewelry, or dangling sleeves near rotating machinery
@@ -61,15 +67,19 @@ A basic kit with burn gel, bandages, saline eye wash, and chemical neutralizers.
 - Gloves appropriate to the hazard (nitrile for chemicals, leather for heat, insulated for electrical)
 
 ### 7. Read the Entire Build Before Starting
+
 Don't start a build and discover mid-way that step 7 requires a chemical you don't have, or that step 4 produces toxic fumes you're not prepared for. Read the whole thing. Understand the hazards. Gather all materials and PPE first.
 
 ### 8. Respect the Materials
+
 If a build says "this can kill you" — it means it. MOTs kill people. Thermite burns at 4000°F. Capacitors hold lethal charges for weeks. Acetylene is explosive. These are not exaggerations for drama. They are facts stated to keep you alive.
 
 ### 9. Know When to Stop
+
 If something feels wrong — a smell you don't recognize, a sound that shouldn't be there, equipment behaving unexpectedly — STOP. Power off. Step back. Assess. Continuing through uncertainty is how accidents happen.
 
 ### 10. Clean Up Properly
+
 Dispose of chemicals according to local hazardous waste guidelines. Never pour chemicals down the drain unless specifically confirmed safe. Neutralize acids and bases before disposal. Recycle e-waste. Store unused chemicals properly.
 
 ---
@@ -108,21 +118,25 @@ Seriously consider skipping a build if:
 ## Legal Considerations
 
 ### Local Ordinances
+
 - **Noise:** Carbide cannons, fireworks, and other loud builds may violate local noise ordinances. Check your city/county regulations. Alert neighbors before noisy demonstrations.
 - **Open burning:** Many municipalities regulate open fires, even in your own backyard. Fire pits, foundries, and pyrotechnic demonstrations may require a burn permit. Check with your local fire department.
 - **Fireworks:** Laws vary wildly by state, county, and city. Some jurisdictions ban all consumer fireworks. Others allow them only on specific dates. Electronically fired displays may require additional permits. Research your local laws.
 
 ### FCC Rules (Radio Builds)
+
 - **FM transmitters** ([Pirate Radio](../../categories/pi-and-arduino/134-pirate-radio.md)) are legal at very low power (Part 15 rules — signal cannot be received beyond approximately 200 feet). Higher-power transmitters require an FCC license.
 - **WiFi and Bluetooth** devices (ESP32, Pi) operate on unlicensed bands and are legal for normal use.
 - **Mesh radio networks** must operate within Part 15 limits or on licensed amateur radio frequencies (requires a ham radio license).
 
 ### Fire Regulations
+
 - **Thermite, pyrotechnics, and large flames** may be regulated in your area. Some jurisdictions classify thermite demonstrations as open burning; others may require a pyrotechnics license.
 - **Always have a fire extinguisher** rated for the type of fire your build could produce (see [Fire & Pyro Safety](fire-and-pyro.md) for extinguisher types).
 - **Insurance:** Homeowner's or renter's insurance may not cover damage from experimental builds. If you're working in your garage and things go sideways, check your policy.
 
 ### Chemical Regulations
+
 - All chemicals listed in the [Chemicals Guide](../reference/chemicals.md) are legal for consumer purchase and use.
 - Purchasing large quantities of certain chemicals (potassium nitrate, sulfur, oxidizers) may trigger reporting requirements or retailer questions. This is normal.
 - Chemical disposal must follow local hazardous waste guidelines. Most municipalities have free hazardous waste drop-off days.
