@@ -1,4 +1,4 @@
-var CACHE_NAME = 'jg-v2';
+var CACHE_NAME = 'jg-v3';
 
 self.addEventListener('install', function(event) {
   event.waitUntil(
