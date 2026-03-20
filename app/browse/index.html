@@ -210,9 +210,9 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
 </div>
 
 <!-- Build data (shared with quiz) -->
-<script src="../quiz/build-data.js"></script>
+<script src="../quiz/build-data.js" defer></script>
 <script>
-(function(){
+document.addEventListener('DOMContentLoaded', function(){
   // Guard against build-data.js load failure
   if (typeof BUILDS === "undefined" || !BUILDS.length) {
     document.getElementById("buildGrid").innerHTML = '<p style="text-align:center;padding:80px 20px;color:#7a7f93">Could not load build data. Please refresh the page.</p>';
@@ -441,7 +441,7 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
 
   // Focus search on load
   searchBox.focus();
-})();
+});
 </script>
 </body>
 </html>

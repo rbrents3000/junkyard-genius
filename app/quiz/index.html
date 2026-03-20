@@ -420,10 +420,10 @@
 <canvas class="celebration" id="confetti"></canvas>
 
 <!-- Build data -->
-<script src="build-data.js"></script>
+<script src="build-data.js" defer></script>
 
 <script>
-(function(){
+document.addEventListener('DOMContentLoaded', function(){
 "use strict";
 
 // Guard against build-data.js load failure
@@ -917,7 +917,7 @@ document.addEventListener("keydown", function(e) {
   }
 });
 
-})();
+});
 </script>
 </body>
 </html>
