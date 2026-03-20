@@ -19,7 +19,7 @@ ratings:
 # #227 — MOT-Ignited Firework Mortar
 
 <p align="center">
-  <img src="/images/builds/227-mot-ignited-firework-mortar.jpg" alt="MOT-Ignited Firework Mortar" width="700" />
+  <img src="/images/builds/227-mot-ignited-firework-mortar.jpg" alt="MOT-Ignited Firework Mortar" width="700" height="394" />
 </p>
 
 > Microwave capacitor bank + nichrome igniter + Raspberry Pi timing = a programmable professional fireworks show from salvaged parts.

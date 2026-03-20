@@ -19,7 +19,7 @@ ratings:
 # #330 — Cloud Chamber Coffee Table
 
 <p align="center">
-  <img src="/images/builds/330-cloud-chamber-coffee-table.jpg" alt="Cloud Chamber Coffee Table" width="700" />
+  <img src="/images/builds/330-cloud-chamber-coffee-table.jpg" alt="Cloud Chamber Coffee Table" width="700" height="394" />
 </p>
 
 > A functioning particle physics detector built into a coffee table — watch cosmic rays from deep space while you drink your morning coffee.

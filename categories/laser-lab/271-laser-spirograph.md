@@ -19,7 +19,7 @@ ratings:
 # #271 — Motorized Laser Spirograph
 
 <p align="center">
-  <img src="/images/builds/271-laser-spirograph.jpg" alt="Motorized Laser Spirograph" width="700" />
+  <img src="/images/builds/271-laser-spirograph.jpg" alt="Motorized Laser Spirograph" width="700" height="394" />
 </p>
 
 > Two mirrors, two motors, one laser, infinite patterns. Add fog and prepare to lose an hour staring at the ceiling.

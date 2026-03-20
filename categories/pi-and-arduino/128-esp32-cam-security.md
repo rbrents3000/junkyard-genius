@@ -19,7 +19,7 @@ ratings:
 # #128 — ESP32-CAM Security
 
 <p align="center">
-  <img src="/images/builds/128-esp32-cam-security.jpg" alt="ESP32-CAM Security" width="700" />
+  <img src="/images/builds/128-esp32-cam-security.jpg" alt="ESP32-CAM Security" width="700" height="394" />
 </p>
 
 > Multiple $6 ESP32-CAM modules with IR LEDs and a Pi server — motion detection, night vision, and phone alerts.

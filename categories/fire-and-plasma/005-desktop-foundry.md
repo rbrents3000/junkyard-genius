@@ -19,7 +19,7 @@ ratings:
 # #005 — Desktop Foundry
 
 <p align="center">
-  <img src="/images/builds/005-desktop-foundry.jpg" alt="Desktop Foundry" width="700" />
+  <img src="/images/builds/005-desktop-foundry.jpg" alt="Desktop Foundry" width="700" height="394" />
 </p>
 
 > A hair dryer, a bucket, and some plaster of paris — now you're melting aluminum cans into custom ingots and castings.

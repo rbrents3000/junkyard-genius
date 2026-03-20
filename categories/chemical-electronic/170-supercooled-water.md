@@ -19,7 +19,7 @@ ratings:
 # #170 — Supercooled Water
 
 <p align="center">
-  <img src="/images/builds/170-supercooled-water.jpg" alt="Supercooled Water" width="700" />
+  <img src="/images/builds/170-supercooled-water.jpg" alt="Supercooled Water" width="700" height="394" />
 </p>
 
 > PID-controlled freezer keeps purified water at exactly -5°C — stays liquid below freezing. Pour it onto ice and it freezes INSTANTLY.

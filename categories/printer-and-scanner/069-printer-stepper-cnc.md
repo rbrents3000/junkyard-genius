@@ -19,7 +19,7 @@ ratings:
 # #069 — Printer Stepper CNC
 
 <p align="center">
-  <img src="/images/builds/069-printer-stepper-cnc.jpg" alt="Printer Stepper CNC" width="700" />
+  <img src="/images/builds/069-printer-stepper-cnc.jpg" alt="Printer Stepper CNC" width="700" height="394" />
 </p>
 
 > Three stepper motors from dead printers, some threaded rod, and an Arduino. Build a CNC machine that engraves, mills, or routes.

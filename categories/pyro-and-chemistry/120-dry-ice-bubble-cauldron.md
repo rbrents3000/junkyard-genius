@@ -19,7 +19,7 @@ ratings:
 # #120 — Dry Ice Bubble Cauldron
 
 <p align="center">
-  <img src="/images/builds/120-dry-ice-bubble-cauldron.jpg" alt="Dry Ice Bubble Cauldron" width="700" />
+  <img src="/images/builds/120-dry-ice-bubble-cauldron.jpg" alt="Dry Ice Bubble Cauldron" width="700" height="394" />
 </p>
 
 > Dry ice fog trapped inside a giant soap bubble — it grows, trembles, and pops to release a cascade of fog.

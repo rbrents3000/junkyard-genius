@@ -19,7 +19,7 @@ ratings:
 # #209 — Alcohol Vapor Cannon
 
 <p align="center">
-  <img src="/images/builds/209-alcohol-vapor-cannon.jpg" alt="Alcohol Vapor Cannon" width="700" />
+  <img src="/images/builds/209-alcohol-vapor-cannon.jpg" alt="Alcohol Vapor Cannon" width="700" height="394" />
 </p>
 
 > Isopropyl alcohol vapor inside a water cooler jug, a spark from a piezo igniter, and WHOMP — a pressure wave launches a projectile across the yard.

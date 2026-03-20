@@ -19,7 +19,7 @@ ratings:
 # #334 — Water Vortex Table
 
 <p align="center">
-  <img src="/images/builds/334-water-vortex-table.jpg" alt="Water Vortex Table" width="700" />
+  <img src="/images/builds/334-water-vortex-table.jpg" alt="Water Vortex Table" width="700" height="394" />
 </p>
 
 > A coffee table with a permanent underwater tornado spinning inside it — the centerpiece that ends every conversation and starts a better one.

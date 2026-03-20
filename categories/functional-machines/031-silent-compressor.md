@@ -19,7 +19,7 @@ ratings:
 # #031 — Silent Compressor
 
 <p align="center">
-  <img src="/images/builds/031-silent-compressor.jpg" alt="Silent Compressor" width="700" />
+  <img src="/images/builds/031-silent-compressor.jpg" alt="Silent Compressor" width="700" height="394" />
 </p>
 
 > A fridge compressor is engineered to run 24/7 at barely audible levels. Pipe it to a tank and you've got the quietest air compressor in existence.

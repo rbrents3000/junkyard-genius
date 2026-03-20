@@ -19,7 +19,7 @@ ratings:
 # #040 — Mass Spectrometer
 
 <p align="center">
-  <img src="/images/builds/040-mass-spectrometer.jpg" alt="Mass Spectrometer" width="700" />
+  <img src="/images/builds/040-mass-spectrometer.jpg" alt="Mass Spectrometer" width="700" height="394" />
 </p>
 
 > Ionize atoms, accelerate them through a magnetic field, and watch them separate by mass. Identify elements in your garage. This is real analytical chemistry.

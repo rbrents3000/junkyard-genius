@@ -19,7 +19,7 @@ ratings:
 # #002 — Lichtenberg Wood Burner
 
 <p align="center">
-  <img src="/images/builds/002-lichtenberg-wood-burner.jpg" alt="Lichtenberg Wood Burner" width="700" />
+  <img src="/images/builds/002-lichtenberg-wood-burner.jpg" alt="Lichtenberg Wood Burner" width="700" height="394" />
 </p>
 
 > High voltage from a microwave transformer burns fractal lightning patterns into wood — nature's art, delivered at 2,000 volts.

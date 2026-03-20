@@ -19,7 +19,7 @@ ratings:
 # #139 — Pi-hole Ad Blocker
 
 <p align="center">
-  <img src="/images/builds/139-pi-hole-ad-blocker.jpg" alt="Pi-hole Ad Blocker" width="700" />
+  <img src="/images/builds/139-pi-hole-ad-blocker.jpg" alt="Pi-hole Ad Blocker" width="700" height="394" />
 </p>
 
 > A Raspberry Pi running Pi-hole becomes a network-level DNS sinkhole that blocks ads on every device — 5-minute setup.

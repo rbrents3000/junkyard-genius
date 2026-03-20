@@ -19,7 +19,7 @@ ratings:
 # #097 — Absorption Fridge
 
 <p align="center">
-  <img src="/images/builds/097-absorption-fridge.jpg" alt="Absorption Fridge" width="700" />
+  <img src="/images/builds/097-absorption-fridge.jpg" alt="Absorption Fridge" width="700" height="394" />
 </p>
 
 > A fridge with zero moving parts — just heat, ammonia, and gravity. Runs off a candle.

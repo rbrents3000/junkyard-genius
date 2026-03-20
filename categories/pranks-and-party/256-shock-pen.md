@@ -19,7 +19,7 @@ ratings:
 # #256 — Piezo Shock Pen
 
 <p align="center">
-  <img src="/images/builds/256-shock-pen.jpg" alt="Piezo Shock Pen" width="700" />
+  <img src="/images/builds/256-shock-pen.jpg" alt="Piezo Shock Pen" width="700" height="394" />
 </p>
 
 > BBQ lighter piezo igniter crammed inside a pen barrel. Click to write, get zapped instead.

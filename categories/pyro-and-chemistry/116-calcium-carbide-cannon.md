@@ -19,7 +19,7 @@ ratings:
 # #116 — Calcium Carbide Cannon
 
 <p align="center">
-  <img src="/images/builds/116-calcium-carbide-cannon.jpg" alt="Calcium Carbide Cannon" width="700" />
+  <img src="/images/builds/116-calcium-carbide-cannon.jpg" alt="Calcium Carbide Cannon" width="700" height="394" />
 </p>
 
 > Calcium carbide and water produce acetylene gas — contain it, ignite it, and get a massive bang with a flame jet.

@@ -19,7 +19,7 @@ ratings:
 # #157 — Anodizing Setup
 
 <p align="center">
-  <img src="/images/builds/157-anodizing-setup.jpg" alt="Anodizing Setup" width="700" />
+  <img src="/images/builds/157-anodizing-setup.jpg" alt="Anodizing Setup" width="700" height="394" />
 </p>
 
 > Sulfuric acid + DC power + aluminum + fabric dye — create colored anodized aluminum with a professional factory finish.

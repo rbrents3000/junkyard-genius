@@ -19,7 +19,7 @@ ratings:
 # #184 — Chain Fountain
 
 <p align="center">
-  <img src="/images/builds/184-chain-fountain.jpg" alt="Chain Fountain" width="700" />
+  <img src="/images/builds/184-chain-fountain.jpg" alt="Chain Fountain" width="700" height="394" />
 </p>
 
 > Drop one end of a ball chain out of a jar and watch physics throw the rest of it into the sky.

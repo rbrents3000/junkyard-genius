@@ -19,7 +19,7 @@ ratings:
 # #216 — Invisible Ink Message Board
 
 <p align="center">
-  <img src="/images/builds/216-invisible-ink-message-board.jpg" alt="Invisible Ink Message Board" width="700" />
+  <img src="/images/builds/216-invisible-ink-message-board.jpg" alt="Invisible Ink Message Board" width="700" height="394" />
 </p>
 
 > Write messages with baking soda solution — completely invisible when dry. Reveal them by spraying with grape juice, which turns dark purple where the alkaline ink sits.

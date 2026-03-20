@@ -19,7 +19,7 @@ ratings:
 # #311 — Foucault Pendulum
 
 <p align="center">
-  <img src="/images/builds/311-foucault-pendulum.jpg" alt="Foucault Pendulum" width="700" />
+  <img src="/images/builds/311-foucault-pendulum.jpg" alt="Foucault Pendulum" width="700" height="394" />
 </p>
 
 > A weight on a wire that proves the Earth is rotating — not because someone told you, but because you watched it happen over lunch.

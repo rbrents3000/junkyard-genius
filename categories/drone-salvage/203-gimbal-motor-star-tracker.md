@@ -19,7 +19,7 @@ ratings:
 # #203 — Gimbal Motor Star Tracker
 
 <p align="center">
-  <img src="/images/builds/203-gimbal-motor-star-tracker.jpg" alt="Gimbal Motor Star Tracker" width="700" />
+  <img src="/images/builds/203-gimbal-motor-star-tracker.jpg" alt="Gimbal Motor Star Tracker" width="700" height="394" />
 </p>
 
 > Drone gimbal motors rotate at exactly 15 degrees per hour — the sidereal rate — turning a DSLR into an astrophotography platform that tracks stars across the sky.

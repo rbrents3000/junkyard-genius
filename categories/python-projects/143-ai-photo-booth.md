@@ -19,7 +19,7 @@ ratings:
 # #143 — AI Photo Booth
 
 <p align="center">
-  <img src="/images/builds/143-ai-photo-booth.jpg" alt="AI Photo Booth" width="700" />
+  <img src="/images/builds/143-ai-photo-booth.jpg" alt="AI Photo Booth" width="700" height="394" />
 </p>
 
 > A webcam with neural style transfer turns you into a Van Gogh painting in real time — output to a thermal receipt printer for instant art.

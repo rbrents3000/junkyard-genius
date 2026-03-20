@@ -19,7 +19,7 @@ ratings:
 # #054 — Vacuum Plasma Cloud Chamber
 
 <p align="center">
-  <img src="/images/builds/054-vacuum-plasma-cloud-chamber.jpg" alt="Vacuum Plasma Cloud Chamber" width="700" />
+  <img src="/images/builds/054-vacuum-plasma-cloud-chamber.jpg" alt="Vacuum Plasma Cloud Chamber" width="700" height="394" />
 </p>
 
 > A cloud chamber inside a vacuum system with plasma discharge. Watch particle tracks illuminate inside a glowing plasma field. Three physics experiments combined into one impossible display.

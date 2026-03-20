@@ -19,7 +19,7 @@ ratings:
 # #282 — Elephant Toothpaste
 
 <p align="center">
-  <img src="/images/builds/282-hydrogen-peroxide-elephant-toothpaste.jpg" alt="Elephant Toothpaste" width="700" />
+  <img src="/images/builds/282-hydrogen-peroxide-elephant-toothpaste.jpg" alt="Elephant Toothpaste" width="700" height="394" />
 </p>
 
 > Concentrated hydrogen peroxide meets potassium iodide catalyst and erupts into a massive tower of steaming foam. The most photogenic chemistry demo on the planet.

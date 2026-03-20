@@ -19,7 +19,7 @@ ratings:
 # #111 — Chemiluminescent Fountain
 
 <p align="center">
-  <img src="/images/builds/111-chemiluminescent-fountain.jpg" alt="Chemiluminescent Fountain" width="700" />
+  <img src="/images/builds/111-chemiluminescent-fountain.jpg" alt="Chemiluminescent Fountain" width="700" height="394" />
 </p>
 
 > Glowing liquid pumped through a fountain in complete darkness — luminol chemistry meets plumbing.

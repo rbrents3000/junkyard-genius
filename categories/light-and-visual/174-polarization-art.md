@@ -19,7 +19,7 @@ ratings:
 # #174 — Polarization Art
 
 <p align="center">
-  <img src="/images/builds/174-polarization-art.jpg" alt="Polarization Art" width="700" />
+  <img src="/images/builds/174-polarization-art.jpg" alt="Polarization Art" width="700" height="394" />
 </p>
 
 > Clear tape on glass, viewed through polarizer film, reveals hidden rainbow patterns that are completely invisible to the naked eye.

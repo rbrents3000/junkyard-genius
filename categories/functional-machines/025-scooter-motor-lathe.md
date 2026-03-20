@@ -19,7 +19,7 @@ ratings:
 # #025 — Scooter Motor Lathe
 
 <p align="center">
-  <img src="/images/builds/025-scooter-motor-lathe.jpg" alt="Scooter Motor Lathe" width="700" />
+  <img src="/images/builds/025-scooter-motor-lathe.jpg" alt="Scooter Motor Lathe" width="700" height="394" />
 </p>
 
 > That dead scooter motor has the torque and speed control to spin a lathe. So let it.

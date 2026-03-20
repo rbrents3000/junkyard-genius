@@ -19,7 +19,7 @@ ratings:
 # #166 — DIY Neon Sign
 
 <p align="center">
-  <img src="/images/builds/166-diy-neon-sign.jpg" alt="DIY Neon Sign" width="700" />
+  <img src="/images/builds/166-diy-neon-sign.jpg" alt="DIY Neon Sign" width="700" height="394" />
 </p>
 
 > Bend glass tubing, fill with gas, seal, and apply high voltage — real neon glows orange, argon glows purple. Hand-bent custom neon signs.

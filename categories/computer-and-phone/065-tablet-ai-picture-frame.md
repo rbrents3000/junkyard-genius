@@ -19,7 +19,7 @@ ratings:
 # #065 — Tablet AI Picture Frame
 
 <p align="center">
-  <img src="/images/builds/065-tablet-ai-picture-frame.jpg" alt="Tablet AI Picture Frame" width="700" />
+  <img src="/images/builds/065-tablet-ai-picture-frame.jpg" alt="Tablet AI Picture Frame" width="700" height="394" />
 </p>
 
 > Old tablet + wall mount = dynamic picture frame. Run AI art generators on family photos, or a live dashboard for space imagery, weather, and stocks.

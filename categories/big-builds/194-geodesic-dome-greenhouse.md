@@ -19,7 +19,7 @@ ratings:
 # #194 — Geodesic Dome Greenhouse
 
 <p align="center">
-  <img src="/images/builds/194-geodesic-dome-greenhouse.jpg" alt="Geodesic Dome Greenhouse" width="700" />
+  <img src="/images/builds/194-geodesic-dome-greenhouse.jpg" alt="Geodesic Dome Greenhouse" width="700" height="394" />
 </p>
 
 > EMT conduit + star connectors + a Raspberry Pi climate brain = a greenhouse that looks like it fell out of a sci-fi movie.

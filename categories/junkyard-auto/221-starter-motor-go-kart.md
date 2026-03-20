@@ -19,7 +19,7 @@ ratings:
 # #221 — Starter Motor Go-Kart
 
 <p align="center">
-  <img src="/images/builds/221-starter-motor-go-kart.jpg" alt="Starter Motor Go-Kart" width="700" />
+  <img src="/images/builds/221-starter-motor-go-kart.jpg" alt="Starter Motor Go-Kart" width="700" height="394" />
 </p>
 
 > A starter motor's insane torque + chain drive + car battery = a go-kart that launches like it owes you money.

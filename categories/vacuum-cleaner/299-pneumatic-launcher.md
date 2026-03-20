@@ -19,7 +19,7 @@ ratings:
 # #299 — Pneumatic Launcher
 
 <p align="center">
-  <img src="/images/builds/299-pneumatic-launcher.jpg" alt="Pneumatic Launcher" width="700" />
+  <img src="/images/builds/299-pneumatic-launcher.jpg" alt="Pneumatic Launcher" width="700" height="394" />
 </p>
 
 > Vacuum motor + PVC pressure chamber + ball valve = a cannon that runs on air. Load a tennis ball. Pull the trigger. Watch it disappear.

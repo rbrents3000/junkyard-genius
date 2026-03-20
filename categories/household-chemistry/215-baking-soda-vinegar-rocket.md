@@ -19,7 +19,7 @@ ratings:
 # #215 — Baking Soda Vinegar Rocket
 
 <p align="center">
-  <img src="/images/builds/215-baking-soda-vinegar-rocket.jpg" alt="Baking Soda Vinegar Rocket" width="700" />
+  <img src="/images/builds/215-baking-soda-vinegar-rocket.jpg" alt="Baking Soda Vinegar Rocket" width="700" height="394" />
 </p>
 
 > Baking soda meets vinegar inside a sealed 2-liter bottle, CO2 pressure builds behind a cork, and when it blows — the bottle launches 50+ feet into the air.

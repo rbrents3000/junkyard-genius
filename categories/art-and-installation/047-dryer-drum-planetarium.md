@@ -19,7 +19,7 @@ ratings:
 # #047 — Dryer Drum Planetarium
 
 <p align="center">
-  <img src="/images/builds/047-dryer-drum-planetarium.jpg" alt="Dryer Drum Planetarium" width="700" />
+  <img src="/images/builds/047-dryer-drum-planetarium.jpg" alt="Dryer Drum Planetarium" width="700" height="394" />
 </p>
 
 > Drill star patterns into a dryer drum, put a bright bulb inside, and turn any dark room into a planetarium. Constellations on the ceiling for the cost of a drill bit.

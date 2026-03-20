@@ -19,7 +19,7 @@ ratings:
 # #009 — Rubens' Tube
 
 <p align="center">
-  <img src="/images/builds/009-rubens-tube.jpg" alt="Rubens' Tube" width="700" />
+  <img src="/images/builds/009-rubens-tube.jpg" alt="Rubens' Tube" width="700" height="394" />
 </p>
 
 > A gas-filled tube with a row of holes shows standing sound waves as a dancing wall of fire — the most elegant physics demo ever built.

@@ -19,7 +19,7 @@ ratings:
 # #230 — Thermite Cold Spark Fountain
 
 <p align="center">
-  <img src="/images/builds/230-thermite-cold-spark-fountain.jpg" alt="Thermite Cold Spark Fountain" width="700" />
+  <img src="/images/builds/230-thermite-cold-spark-fountain.jpg" alt="Thermite Cold Spark Fountain" width="700" height="394" />
 </p>
 
 > Thermite burns at 4,000 degrees while titanium cold sparks shower out at safe-to-touch temperatures right next to it. Fire and ice, simultaneously. The visual contrast is insane.

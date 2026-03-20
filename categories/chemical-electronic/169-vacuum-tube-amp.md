@@ -19,7 +19,7 @@ ratings:
 # #169 — Vacuum Tube Amp
 
 <p align="center">
-  <img src="/images/builds/169-vacuum-tube-amp.jpg" alt="Vacuum Tube Amp" width="700" />
+  <img src="/images/builds/169-vacuum-tube-amp.jpg" alt="Vacuum Tube Amp" width="700" height="394" />
 </p>
 
 > Salvage tubes from old radios and build a Class A tube amplifier — warm, rich sound that audiophiles pay $1000+ for. Build for $50-100.

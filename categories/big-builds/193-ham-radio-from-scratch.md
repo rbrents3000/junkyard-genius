@@ -19,7 +19,7 @@ ratings:
 # #193 — Ham Radio from Scratch
 
 <p align="center">
-  <img src="/images/builds/193-ham-radio-from-scratch.jpg" alt="Ham Radio from Scratch" width="700" />
+  <img src="/images/builds/193-ham-radio-from-scratch.jpg" alt="Ham Radio from Scratch" width="700" height="394" />
 </p>
 
 > Wind your own coils, build a crystal oscillator, and talk to someone on the other side of the planet using scrap metal and patience.

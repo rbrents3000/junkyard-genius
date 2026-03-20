@@ -19,7 +19,7 @@ ratings:
 # #312 — Kinetic Sand Table
 
 <p align="center">
-  <img src="/images/builds/312-kinetic-sand-table.jpg" alt="Kinetic Sand Table" width="700" />
+  <img src="/images/builds/312-kinetic-sand-table.jpg" alt="Kinetic Sand Table" width="700" height="394" />
 </p>
 
 > A hidden magnet beneath glass drags a steel ball through sand, drawing infinite geometric patterns in silence. A Zen garden that draws itself.

@@ -19,7 +19,7 @@ ratings:
 # #063 — Phone Macro Photography
 
 <p align="center">
-  <img src="/images/builds/063-phone-macro-photography.jpg" alt="Phone Macro Photography" width="700" />
+  <img src="/images/builds/063-phone-macro-photography.jpg" alt="Phone Macro Photography" width="700" height="394" />
 </p>
 
 > Use an old phone's OLED screen as a controllable backlight for macro shots. Water droplets on the screen + a macro lens = mind-blowing abstract images.

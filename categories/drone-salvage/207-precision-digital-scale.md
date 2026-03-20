@@ -19,7 +19,7 @@ ratings:
 # #207 — Precision Digital Scale
 
 <p align="center">
-  <img src="/images/builds/207-precision-digital-scale.jpg" alt="Precision Digital Scale" width="700" />
+  <img src="/images/builds/207-precision-digital-scale.jpg" alt="Precision Digital Scale" width="700" height="394" />
 </p>
 
 > A gimbal motor's hall-effect sensors measure the torque needed to hold a weight against gravity — giving you a lab-grade 0.01g digital scale from salvaged parts.

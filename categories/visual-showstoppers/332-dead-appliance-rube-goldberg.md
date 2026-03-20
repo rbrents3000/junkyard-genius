@@ -19,7 +19,7 @@ ratings:
 # #332 — Dead Appliance Rube Goldberg
 
 <p align="center">
-  <img src="/images/builds/332-dead-appliance-rube-goldberg.jpg" alt="Dead Appliance Rube Goldberg" width="700" />
+  <img src="/images/builds/332-dead-appliance-rube-goldberg.jpg" alt="Dead Appliance Rube Goldberg" width="700" height="394" />
 </p>
 
 > A massive chain-reaction machine built entirely from dead appliance guts — near-zero cost, one hundred percent junkyard spectacle.

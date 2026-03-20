@@ -19,7 +19,7 @@ ratings:
 # #210 — Hand Sanitizer Fire Art
 
 <p align="center">
-  <img src="/images/builds/210-hand-sanitizer-fire-art.jpg" alt="Hand Sanitizer Fire Art" width="700" />
+  <img src="/images/builds/210-hand-sanitizer-fire-art.jpg" alt="Hand Sanitizer Fire Art" width="700" height="394" />
 </p>
 
 > Hand sanitizer gel burns with a clean blue flame that barely radiates heat — squeeze patterns on a fireproof surface and write in fire.

@@ -19,7 +19,7 @@ ratings:
 # #306 — Drill-Powered Lathe
 
 <p align="center">
-  <img src="/images/builds/306-drill-powered-lathe.jpg" alt="Drill-Powered Lathe" width="700" />
+  <img src="/images/builds/306-drill-powered-lathe.jpg" alt="Drill-Powered Lathe" width="700" height="394" />
 </p>
 
 > Hand drill clamped in a wooden cradle + tailstock from a bolt and bearing. Functional wood lathe. Variable speed via the trigger.

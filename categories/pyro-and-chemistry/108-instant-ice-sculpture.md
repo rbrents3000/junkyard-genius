@@ -19,7 +19,7 @@ ratings:
 # #108 — Instant Ice Sculpture
 
 <p align="center">
-  <img src="/images/builds/108-instant-ice-sculpture.jpg" alt="Instant Ice Sculpture" width="700" />
+  <img src="/images/builds/108-instant-ice-sculpture.jpg" alt="Instant Ice Sculpture" width="700" height="394" />
 </p>
 
 > Supersaturated sodium acetate crystallizes the instant it's triggered — hot ice towers form in seconds.

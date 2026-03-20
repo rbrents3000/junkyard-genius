@@ -19,7 +19,7 @@ ratings:
 # #119 — Thermochromic Paint
 
 <p align="center">
-  <img src="/images/builds/119-thermochromic-paint.jpg" alt="Thermochromic Paint" width="700" />
+  <img src="/images/builds/119-thermochromic-paint.jpg" alt="Thermochromic Paint" width="700" height="394" />
 </p>
 
 > Paint that changes color with temperature — walls show handprints that fade, desks reveal hidden patterns from laptop heat.

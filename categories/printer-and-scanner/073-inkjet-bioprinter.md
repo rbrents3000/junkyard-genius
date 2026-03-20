@@ -19,7 +19,7 @@ ratings:
 # #073 — Inkjet Bioprinter
 
 <p align="center">
-  <img src="/images/builds/073-inkjet-bioprinter.jpg" alt="Inkjet Bioprinter" width="700" />
+  <img src="/images/builds/073-inkjet-bioprinter.jpg" alt="Inkjet Bioprinter" width="700" height="394" />
 </p>
 
 > Modify an old inkjet to print conductive silver traces, biosolutions, or custom chemicals. Research labs actually do this. This is where junkyard meets cutting-edge science.

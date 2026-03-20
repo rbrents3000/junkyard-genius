@@ -19,7 +19,7 @@ ratings:
 # #067 — Laptop Battery Power Bank
 
 <p align="center">
-  <img src="/images/builds/067-laptop-battery-power-bank.jpg" alt="Laptop Battery Power Bank" width="700" />
+  <img src="/images/builds/067-laptop-battery-power-bank.jpg" alt="Laptop Battery Power Bank" width="700" height="394" />
 </p>
 
 > Dead laptop battery? The 18650 cells inside are probably fine. Add a $3 BMS board and a $2 USB converter. 20,000+ mAh power bank for $5.

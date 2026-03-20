@@ -19,7 +19,7 @@ ratings:
 # #205 — Obstacle-Dodging Robot
 
 <p align="center">
-  <img src="/images/builds/205-obstacle-dodging-robot.jpg" alt="Obstacle-Dodging Robot" width="700" />
+  <img src="/images/builds/205-obstacle-dodging-robot.jpg" alt="Obstacle-Dodging Robot" width="700" height="394" />
 </p>
 
 > Salvage the ToF sensors, IR proximity detectors, and flight controller IMU from a drone — put them on a ground robot that autonomously navigates around obstacles.

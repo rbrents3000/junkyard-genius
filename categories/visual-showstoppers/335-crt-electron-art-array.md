@@ -19,7 +19,7 @@ ratings:
 # #335 — CRT Electron Art Array
 
 <p align="center">
-  <img src="/images/builds/335-crt-electron-art-array.jpg" alt="CRT Electron Art Array" width="700" />
+  <img src="/images/builds/335-crt-electron-art-array.jpg" alt="CRT Electron Art Array" width="700" height="394" />
 </p>
 
 > A wall of hacked CRT televisions drawing Lissajous spirals and phosphor lightning in real-time — turning the most obsolete technology on earth into the most striking gallery installation in the room.

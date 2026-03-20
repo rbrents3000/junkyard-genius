@@ -19,7 +19,7 @@ ratings:
 # #155 — AI Dungeon Master
 
 <p align="center">
-  <img src="/images/builds/155-ai-dungeon-master.jpg" alt="AI Dungeon Master" width="700" />
+  <img src="/images/builds/155-ai-dungeon-master.jpg" alt="AI Dungeon Master" width="700" height="394" />
 </p>
 
 > A local LLM running on an old gaming laptop becomes an AI D&D dungeon master — add an LED battle map, fog machine, and sound effects.

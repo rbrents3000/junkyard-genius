@@ -19,7 +19,7 @@ ratings:
 # #231 — Ignition Coil KNO3 Flame Jet
 
 <p align="center">
-  <img src="/images/builds/231-ignition-coil-kno3-flame-jet.jpg" alt="Ignition Coil KNO3 Flame Jet" width="700" />
+  <img src="/images/builds/231-ignition-coil-kno3-flame-jet.jpg" alt="Ignition Coil KNO3 Flame Jet" width="700" height="394" />
 </p>
 
 > Car ignition coil sparks into a KNO3/sugar fuel grain = a self-oxidizing flame jet that burns underwater. Because regular fire is for amateurs.

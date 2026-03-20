@@ -19,7 +19,7 @@ ratings:
 # #167 — Ozone Generator
 
 <p align="center">
-  <img src="/images/builds/167-ozone-generator.jpg" alt="Ozone Generator" width="700" />
+  <img src="/images/builds/167-ozone-generator.jpg" alt="Ozone Generator" width="700" height="394" />
 </p>
 
 > Corona discharge or UV creates ozone (O3) — bubbled through water, it purifies better than chlorine. Industrial water treatment tech on your bench.

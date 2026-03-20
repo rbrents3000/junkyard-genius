@@ -19,7 +19,7 @@ ratings:
 # #337 — Infinity Room
 
 <p align="center">
-  <img src="/images/builds/337-infinity-room.jpg" alt="Infinity Room" width="700" />
+  <img src="/images/builds/337-infinity-room.jpg" alt="Infinity Room" width="700" height="394" />
 </p>
 
 > A box of mirrors and LED strips that creates the illusion of infinite glowing space — Kusama on a junkyard budget.

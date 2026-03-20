@@ -19,7 +19,7 @@ ratings:
 # #181 — Musical Marble Machine
 
 <p align="center">
-  <img src="/images/builds/181-musical-marble-machine.jpg" alt="Musical Marble Machine" width="700" />
+  <img src="/images/builds/181-musical-marble-machine.jpg" alt="Musical Marble Machine" width="700" height="394" />
 </p>
 
 > A gravity-powered orchestra made from scrap metal, xylophone bars, and the patience of a watchmaker.

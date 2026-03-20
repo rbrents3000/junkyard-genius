@@ -19,7 +19,7 @@ ratings:
 # #024 — Electric Go-Kart
 
 <p align="center">
-  <img src="/images/builds/024-electric-go-kart.jpg" alt="Electric Go-Kart" width="700" />
+  <img src="/images/builds/024-electric-go-kart.jpg" alt="Electric Go-Kart" width="700" height="394" />
 </p>
 
 > A scooter motor, a bed frame, and some batteries walk into a garage. They don't walk out — they drive out at 30 mph.

@@ -19,7 +19,7 @@ ratings:
 # #131 — Pi DJ Controller
 
 <p align="center">
-  <img src="/images/builds/131-pi-dj-controller.jpg" alt="Pi DJ Controller" width="700" />
+  <img src="/images/builds/131-pi-dj-controller.jpg" alt="Pi DJ Controller" width="700" height="394" />
 </p>
 
 > Rotary encoders, potentiometers, and buttons wired to a Pi running Python audio processing — a full DJ setup from e-waste.

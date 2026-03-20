@@ -19,7 +19,7 @@ ratings:
 # #064 — Phone Sensor Network
 
 <p align="center">
-  <img src="/images/builds/064-phone-sensor-network.jpg" alt="Phone Sensor Network" width="700" />
+  <img src="/images/builds/064-phone-sensor-network.jpg" alt="Phone Sensor Network" width="700" height="394" />
 </p>
 
 > Old phones are packed with sensors. Run Phyphox on a fleet of them for distributed environmental monitoring — seismograph, weather station, security cameras, noise monitors. All free.

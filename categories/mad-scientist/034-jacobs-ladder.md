@@ -19,7 +19,7 @@ ratings:
 # #034 — Jacob's Ladder
 
 <p align="center">
-  <img src="/images/builds/034-jacobs-ladder.jpg" alt="Jacob's Ladder" width="700" />
+  <img src="/images/builds/034-jacobs-ladder.jpg" alt="Jacob's Ladder" width="700" height="394" />
 </p>
 
 > Two diverging metal rods plus a microwave oven transformer equals a rising arc of electricity that looks like it belongs in a 1930s horror movie.

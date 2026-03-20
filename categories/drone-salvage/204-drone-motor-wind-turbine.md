@@ -19,7 +19,7 @@ ratings:
 # #204 — Drone Motor Wind Turbine
 
 <p align="center">
-  <img src="/images/builds/204-drone-motor-wind-turbine.jpg" alt="Drone Motor Wind Turbine" width="700" />
+  <img src="/images/builds/204-drone-motor-wind-turbine.jpg" alt="Drone Motor Wind Turbine" width="700" height="394" />
 </p>
 
 > Four brushless drone motors wired as generators, paired with 3D-printed blades, turn wind into usable electricity.

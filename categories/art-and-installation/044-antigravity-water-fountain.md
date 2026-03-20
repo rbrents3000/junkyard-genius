@@ -19,7 +19,7 @@ ratings:
 # #044 — Anti-Gravity Water Fountain
 
 <p align="center">
-  <img src="/images/builds/044-antigravity-water-fountain.jpg" alt="Anti-Gravity Water Fountain" width="700" />
+  <img src="/images/builds/044-antigravity-water-fountain.jpg" alt="Anti-Gravity Water Fountain" width="700" height="394" />
 </p>
 
 > A strobe light synchronized to falling water droplets makes them appear frozen in mid-air — or even flowing upward. Pure optical illusion, zero Photoshop.

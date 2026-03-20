@@ -19,7 +19,7 @@ ratings:
 # #136 — ESP32 Micro Drone
 
 <p align="center">
-  <img src="/images/builds/136-esp32-micro-drone.jpg" alt="ESP32 Micro Drone" width="700" />
+  <img src="/images/builds/136-esp32-micro-drone.jpg" alt="ESP32 Micro Drone" width="700" height="394" />
 </p>
 
 > An ESP32 as flight controller with an MPU6050 IMU and 4 brushless motors — build a phone-controlled drone from scratch for under $30.

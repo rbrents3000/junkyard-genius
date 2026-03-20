@@ -19,7 +19,7 @@ ratings:
 # #264 — Waffle Iron Heat Press
 
 <p align="center">
-  <img src="/images/builds/264-waffle-iron-press.jpg" alt="Waffle Iron Heat Press" width="700" />
+  <img src="/images/builds/264-waffle-iron-press.jpg" alt="Waffle Iron Heat Press" width="700" height="394" />
 </p>
 
 > A $3 waffle iron does the same job as a $200 heat press. Flat plates, even pressure, built-in thermostat.

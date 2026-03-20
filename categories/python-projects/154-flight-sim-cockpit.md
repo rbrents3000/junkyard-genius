@@ -19,7 +19,7 @@ ratings:
 # #154 — Flight Sim Cockpit
 
 <p align="center">
-  <img src="/images/builds/154-flight-sim-cockpit.jpg" alt="Flight Sim Cockpit" width="700" />
+  <img src="/images/builds/154-flight-sim-cockpit.jpg" alt="Flight Sim Cockpit" width="700" height="394" />
 </p>
 
 > FlightGear on salvaged laptop screens, a physical joystick from old peripherals, and an Arduino-driven instrument panel.

@@ -19,7 +19,7 @@ ratings:
 # #214 — Bleach Pen Tie-Dye
 
 <p align="center">
-  <img src="/images/builds/214-bleach-pen-tie-dye.jpg" alt="Bleach Pen Tie-Dye" width="700" />
+  <img src="/images/builds/214-bleach-pen-tie-dye.jpg" alt="Bleach Pen Tie-Dye" width="700" height="394" />
 </p>
 
 > A bleach pen removes dye from dark fabric in precise, controlled patterns — reverse tie-dye that looks professional with zero artistic skill required.

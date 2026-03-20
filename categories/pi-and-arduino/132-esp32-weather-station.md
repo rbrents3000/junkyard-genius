@@ -19,7 +19,7 @@ ratings:
 # #132 — ESP32 Weather Station
 
 <p align="center">
-  <img src="/images/builds/132-esp32-weather-station.jpg" alt="ESP32 Weather Station" width="700" />
+  <img src="/images/builds/132-esp32-weather-station.jpg" alt="ESP32 Weather Station" width="700" height="394" />
 </p>
 
 > Multiple sensor nodes measuring temp, humidity, pressure, wind, and UV — predict weather from your own data on a Grafana dashboard.

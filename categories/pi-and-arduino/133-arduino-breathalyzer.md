@@ -19,7 +19,7 @@ ratings:
 # #133 — Arduino Breathalyzer
 
 <p align="center">
-  <img src="/images/builds/133-arduino-breathalyzer.jpg" alt="Arduino Breathalyzer" width="700" />
+  <img src="/images/builds/133-arduino-breathalyzer.jpg" alt="Arduino Breathalyzer" width="700" height="394" />
 </p>
 
 > An MQ-3 alcohol sensor with an Arduino and OLED display — blow and get a BAC reading. The ultimate party gadget.

@@ -19,7 +19,7 @@ ratings:
 # #239 — Steel Tongue Drum
 
 <p align="center">
-  <img src="/images/builds/239-steel-tongue-drum.jpg" alt="Steel Tongue Drum" width="700" />
+  <img src="/images/builds/239-steel-tongue-drum.jpg" alt="Steel Tongue Drum" width="700" height="394" />
 </p>
 
 > A washing machine drum lid and an angle grinder produce a $300 handpan sound for the price of a cutting disc.

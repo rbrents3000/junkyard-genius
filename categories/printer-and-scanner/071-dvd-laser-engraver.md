@@ -19,7 +19,7 @@ ratings:
 # #071 — DVD Laser Engraver
 
 <p align="center">
-  <img src="/images/builds/071-dvd-laser-engraver.jpg" alt="DVD Laser Engraver" width="700" />
+  <img src="/images/builds/071-dvd-laser-engraver.jpg" alt="DVD Laser Engraver" width="700" height="394" />
 </p>
 
 > Two DVD drive sleds plus an Arduino. The DVD burner's laser etches wood, leather, and paper with incredible detail. Tiny but mighty.

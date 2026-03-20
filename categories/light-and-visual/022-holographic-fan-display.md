@@ -19,7 +19,7 @@ ratings:
 # #022 — Holographic Fan Display
 
 <p align="center">
-  <img src="/images/builds/022-holographic-fan-display.jpg" alt="Holographic Fan Display" width="700" />
+  <img src="/images/builds/022-holographic-fan-display.jpg" alt="Holographic Fan Display" width="700" height="394" />
 </p>
 
 > A spinning LED bar creates floating holographic images that appear to hover in mid-air — the commercial version costs $500, this one costs $30.

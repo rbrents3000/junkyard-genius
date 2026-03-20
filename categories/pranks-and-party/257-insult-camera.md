@@ -19,7 +19,7 @@ ratings:
 # #257 — Fake Security Camera That Roasts You
 
 <p align="center">
-  <img src="/images/builds/257-insult-camera.jpg" alt="Fake Security Camera That Roasts You" width="700" />
+  <img src="/images/builds/257-insult-camera.jpg" alt="Fake Security Camera That Roasts You" width="700" height="394" />
 </p>
 
 > Pi Zero + camera + speaker + face detection. Walk into the room, get personally insulted by a picture frame.

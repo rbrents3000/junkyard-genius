@@ -19,7 +19,7 @@ ratings:
 # #213 — Bleach Crystal Garden
 
 <p align="center">
-  <img src="/images/builds/213-bleach-crystal-garden.jpg" alt="Bleach Crystal Garden" width="700" />
+  <img src="/images/builds/213-bleach-crystal-garden.jpg" alt="Bleach Crystal Garden" width="700" height="394" />
 </p>
 
 > Bleach, liquid bluing, ammonia, and water dripped on charcoal briquettes. Come back in a few hours and you’ve got an alien landscape of delicate white and colored crystals growing right out of the charcoal.

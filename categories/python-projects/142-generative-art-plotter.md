@@ -19,7 +19,7 @@ ratings:
 # #142 — Generative Art Plotter
 
 <p align="center">
-  <img src="/images/builds/142-generative-art-plotter.jpg" alt="Generative Art Plotter" width="700" />
+  <img src="/images/builds/142-generative-art-plotter.jpg" alt="Generative Art Plotter" width="700" height="394" />
 </p>
 
 > Python generates algorithmic art — flow fields, fractals, mathematical curves — then a pen plotter draws them with real ink on real paper.

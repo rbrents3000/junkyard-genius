@@ -19,7 +19,7 @@ ratings:
 # #180 — Retroreflector Array
 
 <p align="center">
-  <img src="/images/builds/180-retroreflector-array.jpg" alt="Retroreflector Array" width="700" />
+  <img src="/images/builds/180-retroreflector-array.jpg" alt="Retroreflector Array" width="700" height="394" />
 </p>
 
 > Corner cube reflectors that bounce any light beam directly back to its source — the same tech left on the Moon by Apollo astronauts.

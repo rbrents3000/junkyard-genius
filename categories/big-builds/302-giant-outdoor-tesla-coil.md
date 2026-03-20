@@ -19,7 +19,7 @@ ratings:
 # #302 — Giant Outdoor Tesla Coil
 
 <p align="center">
-  <img src="/images/builds/302-giant-outdoor-tesla-coil.jpg" alt="Giant Outdoor Tesla Coil" width="700" />
+  <img src="/images/builds/302-giant-outdoor-tesla-coil.jpg" alt="Giant Outdoor Tesla Coil" width="700" height="394" />
 </p>
 
 > Six-foot lightning bolts that play music. Visible from across a field. Audible from a block away. Your insurance company doesn't need to know.

@@ -19,7 +19,7 @@ ratings:
 # #277 — Electromagnetic Pulse Cannon (Localized)
 
 <p align="center">
-  <img src="/images/builds/277-electromagnetic-pulse-cannon.jpg" alt="Electromagnetic Pulse Cannon (Localized)" width="700" />
+  <img src="/images/builds/277-electromagnetic-pulse-cannon.jpg" alt="Electromagnetic Pulse Cannon (Localized)" width="700" height="394" />
 </p>
 
 > A capacitor bank dumps into a hand-wound coil and fires a focused electromagnetic pulse that bricks electronics within a few feet. The most beautifully destructive thing you can build from junk.

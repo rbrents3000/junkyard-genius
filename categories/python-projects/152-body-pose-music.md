@@ -19,7 +19,7 @@ ratings:
 # #152 — Body Pose Music
 
 <p align="center">
-  <img src="/images/builds/152-body-pose-music.jpg" alt="Body Pose Music" width="700" />
+  <img src="/images/builds/152-body-pose-music.jpg" alt="Body Pose Music" width="700" height="394" />
 </p>
 
 > Camera + MediaPipe body pose detection — each body part controls a different instrument or effect. Dance to make music.

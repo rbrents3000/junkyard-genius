@@ -19,7 +19,7 @@ ratings:
 # #113 — Steel Wool Photography
 
 <p align="center">
-  <img src="/images/builds/113-steel-wool-photography.jpg" alt="Steel Wool Photography" width="700" />
+  <img src="/images/builds/113-steel-wool-photography.jpg" alt="Steel Wool Photography" width="700" height="394" />
 </p>
 
 > Burning steel wool in a whisk, spun on a cable — long-exposure photography captures insane fire spirals.

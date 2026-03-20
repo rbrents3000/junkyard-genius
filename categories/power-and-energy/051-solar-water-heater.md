@@ -19,7 +19,7 @@ ratings:
 # #051 — Solar Water Heater
 
 <p align="center">
-  <img src="/images/builds/051-solar-water-heater.jpg" alt="Solar Water Heater" width="700" />
+  <img src="/images/builds/051-solar-water-heater.jpg" alt="Solar Water Heater" width="700" height="394" />
 </p>
 
 > Black-painted copper pipe coiled in an insulated box with a glass top. Sunlight heats water to 120-150°F. Free hot water, zero moving parts.

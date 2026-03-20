@@ -19,7 +19,7 @@ ratings:
 # #237 — Bucket Drum Kit
 
 <p align="center">
-  <img src="/images/builds/237-bucket-drum-kit.jpg" alt="Bucket Drum Kit" width="700" />
+  <img src="/images/builds/237-bucket-drum-kit.jpg" alt="Bucket Drum Kit" width="700" height="394" />
 </p>
 
 > Street performer buckets meet electronic drums — plug your five-gallon kit into any DAW and lay down beats.

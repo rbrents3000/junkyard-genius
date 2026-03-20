@@ -19,7 +19,7 @@ ratings:
 # #012 — Thunder Drum
 
 <p align="center">
-  <img src="/images/builds/012-thunder-drum.jpg" alt="Thunder Drum" width="700" />
+  <img src="/images/builds/012-thunder-drum.jpg" alt="Thunder Drum" width="700" height="394" />
 </p>
 
 > A spring attached to a speaker membrane produces sounds exactly like rolling thunder — shake it and your neighbors think a storm is coming.

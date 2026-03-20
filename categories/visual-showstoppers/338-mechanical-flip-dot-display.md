@@ -19,7 +19,7 @@ ratings:
 # #338 — Mechanical Flip-Dot Display
 
 <p align="center">
-  <img src="/images/builds/338-mechanical-flip-dot-display.jpg" alt="Mechanical Flip-Dot Display" width="700" />
+  <img src="/images/builds/338-mechanical-flip-dot-display.jpg" alt="Mechanical Flip-Dot Display" width="700" height="394" />
 </p>
 
 > A grid of 256 electromagnetic pixels that physically flip between black and yellow with a deeply satisfying cascading CLICK — the soul of old airport departure boards, built from scratch.

@@ -19,7 +19,7 @@ ratings:
 # #144 — Sentiment Room Lighting
 
 <p align="center">
-  <img src="/images/builds/144-sentiment-room-lighting.jpg" alt="Sentiment Room Lighting" width="700" />
+  <img src="/images/builds/144-sentiment-room-lighting.jpg" alt="Sentiment Room Lighting" width="700" height="394" />
 </p>
 
 > A microphone analyzes the emotional tone of conversation — LED lights shift color to match the mood of the room.

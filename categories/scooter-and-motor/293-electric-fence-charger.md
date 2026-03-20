@@ -19,7 +19,7 @@ ratings:
 # #293 — Electric Fence Charger
 
 <p align="center">
-  <img src="/images/builds/293-electric-fence-charger.jpg" alt="Electric Fence Charger" width="700" />
+  <img src="/images/builds/293-electric-fence-charger.jpg" alt="Electric Fence Charger" width="700" height="394" />
 </p>
 
 > Ignition coil + 555 timer = thousands of volts that convince livestock to stay put. Cheap, simple, extremely persuasive.

@@ -19,7 +19,7 @@ ratings:
 # #196 — Kirlian Photography
 
 <p align="center">
-  <img src="/images/builds/196-kirlian-photography.jpg" alt="Kirlian Photography" width="700" />
+  <img src="/images/builds/196-kirlian-photography.jpg" alt="Kirlian Photography" width="700" height="394" />
 </p>
 
 > High voltage + a metal plate + your hand = glowing corona discharge "aura" photos that look straight out of a paranormal documentary.

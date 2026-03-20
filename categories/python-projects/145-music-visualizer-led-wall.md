@@ -19,7 +19,7 @@ ratings:
 # #145 — Music Visualizer LED Wall
 
 <p align="center">
-  <img src="/images/builds/145-music-visualizer-led-wall.jpg" alt="Music Visualizer LED Wall" width="700" />
+  <img src="/images/builds/145-music-visualizer-led-wall.jpg" alt="Music Visualizer LED Wall" width="700" height="394" />
 </p>
 
 > An LED grid behind a diffuser panel analyzes audio in real time — your wall looks like a concert stage LED display.

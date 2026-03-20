@@ -19,7 +19,7 @@ ratings:
 # #252 — Faraday Cage
 
 <p align="center">
-  <img src="/images/builds/252-faraday-cage.jpg" alt="Faraday Cage" width="700" />
+  <img src="/images/builds/252-faraday-cage.jpg" alt="Faraday Cage" width="700" height="394" />
 </p>
 
 > A metal trash can that makes your electronics invisible to the electromagnetic apocalypse.

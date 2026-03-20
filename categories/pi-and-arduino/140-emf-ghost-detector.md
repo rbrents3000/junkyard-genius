@@ -19,7 +19,7 @@ ratings:
 # #140 — EMF Ghost Detector
 
 <p align="center">
-  <img src="/images/builds/140-emf-ghost-detector.jpg" alt="EMF Ghost Detector" width="700" />
+  <img src="/images/builds/140-emf-ghost-detector.jpg" alt="EMF Ghost Detector" width="700" height="394" />
 </p>
 
 > A wire antenna and Arduino read electromagnetic field fluctuations on an OLED display — market as a ghost detector for Halloween.

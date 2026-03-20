@@ -19,7 +19,7 @@ ratings:
 # #060 — GPU Wall Art
 
 <p align="center">
-  <img src="/images/builds/060-gpu-wall-art.jpg" alt="GPU Wall Art" width="700" />
+  <img src="/images/builds/060-gpu-wall-art.jpg" alt="GPU Wall Art" width="700" height="394" />
 </p>
 
 > Mount dead graphics cards with LED backlighting. Title it "Proof of Work." Industrial art that hits different.

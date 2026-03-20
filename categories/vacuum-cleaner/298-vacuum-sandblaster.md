@@ -19,7 +19,7 @@ ratings:
 # #298 — Vacuum Sandblaster
 
 <p align="center">
-  <img src="/images/builds/298-vacuum-sandblaster.jpg" alt="Vacuum Sandblaster" width="700" />
+  <img src="/images/builds/298-vacuum-sandblaster.jpg" alt="Vacuum Sandblaster" width="700" height="394" />
 </p>
 
 > A reversed vacuum motor feeds pressurized air through a siphon tube,

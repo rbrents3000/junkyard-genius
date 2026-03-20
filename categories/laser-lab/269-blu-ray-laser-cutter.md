@@ -19,7 +19,7 @@ ratings:
 # #269 — Blu-Ray Laser Cutter
 
 <p align="center">
-  <img src="/images/builds/269-blu-ray-laser-cutter.jpg" alt="Blu-Ray Laser Cutter" width="700" />
+  <img src="/images/builds/269-blu-ray-laser-cutter.jpg" alt="Blu-Ray Laser Cutter" width="700" height="394" />
 </p>
 
 > A dead PS3 contains a laser diode that cuts and etches. A dead printer contains a CNC frame. Put them together.

@@ -19,7 +19,7 @@ ratings:
 # #241 — Beer Bottle Xylophone
 
 <p align="center">
-  <img src="/images/builds/241-bottle-xylophone.jpg" alt="Beer Bottle Xylophone" width="700" />
+  <img src="/images/builds/241-bottle-xylophone.jpg" alt="Beer Bottle Xylophone" width="700" height="394" />
 </p>
 
 > Glass bottles filled to precise water levels create tuned musical notes. Add an Arduino and solenoid mallets and the thing plays itself. Your recycling bin just became a concert hall.

@@ -19,7 +19,7 @@ ratings:
 # #310 — Magnetic Field Viewer
 
 <p align="center">
-  <img src="/images/builds/310-magnetic-field-viewer.jpg" alt="Magnetic Field Viewer" width="700" />
+  <img src="/images/builds/310-magnetic-field-viewer.jpg" alt="Magnetic Field Viewer" width="700" height="394" />
 </p>
 
 > A sealed chamber of ferrofluid that turns invisible magnetic fields into writhing, spiky, real-time sculptures you can manipulate with your hands.

@@ -19,7 +19,7 @@ ratings:
 # #061 — Laptop Screen Monitor
 
 <p align="center">
-  <img src="/images/builds/061-laptop-screen-monitor.jpg" alt="Laptop Screen Monitor" width="700" />
+  <img src="/images/builds/061-laptop-screen-monitor.jpg" alt="Laptop Screen Monitor" width="700" height="394" />
 </p>
 
 > Old laptop screen + $12 controller board = portable HDMI monitor. Mount it in a picture frame for a stealth display.

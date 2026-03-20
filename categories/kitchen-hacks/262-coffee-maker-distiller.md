@@ -19,7 +19,7 @@ ratings:
 # #262 — Coffee Maker Essential Oil Distiller
 
 <p align="center">
-  <img src="/images/builds/262-coffee-maker-distiller.jpg" alt="Coffee Maker Essential Oil Distiller" width="700" />
+  <img src="/images/builds/262-coffee-maker-distiller.jpg" alt="Coffee Maker Essential Oil Distiller" width="700" height="394" />
 </p>
 
 > Coffee maker heats water, steam passes through herbs, copper coil condenses the vapor. Lavender oil from a Mr. Coffee.

@@ -19,7 +19,7 @@ ratings:
 # #141 — Face Tracking Laser
 
 <p align="center">
-  <img src="/images/builds/141-face-tracking-laser.jpg" alt="Face Tracking Laser" width="700" />
+  <img src="/images/builds/141-face-tracking-laser.jpg" alt="Face Tracking Laser" width="700" height="394" />
 </p>
 
 > A webcam with OpenCV face detection controls servos aiming a laser pointer — the laser follows your face around the room.

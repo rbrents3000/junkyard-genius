@@ -19,7 +19,7 @@ ratings:
 # #168 — Thermochromic Mug
 
 <p align="center">
-  <img src="/images/builds/168-thermochromic-mug.jpg" alt="Thermochromic Mug" width="700" />
+  <img src="/images/builds/168-thermochromic-mug.jpg" alt="Thermochromic Mug" width="700" height="394" />
 </p>
 
 > Thermochromic pigment screen-printed onto a mug — pour hot coffee and the design appears. Print heat-reactive shirts too.

@@ -19,7 +19,7 @@ ratings:
 # #165 — Rochelle Salt Crystal
 
 <p align="center">
-  <img src="/images/builds/165-rochelle-salt-crystal.jpg" alt="Rochelle Salt Crystal" width="700" />
+  <img src="/images/builds/165-rochelle-salt-crystal.jpg" alt="Rochelle Salt Crystal" width="700" height="394" />
 </p>
 
 > Grow a piezoelectric crystal from cream of tartar and baking soda — squeeze it and an LED flashes. Electricity from a kitchen-grown crystal.

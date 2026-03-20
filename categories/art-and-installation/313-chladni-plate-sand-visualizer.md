@@ -19,7 +19,7 @@ ratings:
 # #313 — Chladni Plate Sand Visualizer
 
 <p align="center">
-  <img src="/images/builds/313-chladni-plate-sand-visualizer.jpg" alt="Chladni Plate Sand Visualizer" width="700" />
+  <img src="/images/builds/313-chladni-plate-sand-visualizer.jpg" alt="Chladni Plate Sand Visualizer" width="700" height="394" />
 </p>
 
 > Sprinkle sand on a metal plate, drive it with a speaker, watch geometric mandala patterns form from pure physics.

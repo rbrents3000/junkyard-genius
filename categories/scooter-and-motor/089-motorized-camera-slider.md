@@ -19,7 +19,7 @@ ratings:
 # #089 — Motorized Camera Slider
 
 <p align="center">
-  <img src="/images/builds/089-motorized-camera-slider.jpg" alt="Motorized Camera Slider" width="700" />
+  <img src="/images/builds/089-motorized-camera-slider.jpg" alt="Motorized Camera Slider" width="700" height="394" />
 </p>
 
 > Stepper motor + drawer slides + Arduino. Smooth, cinematic tracking shots. Professional sliders cost $200+. Build this for $15.

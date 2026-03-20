@@ -19,7 +19,7 @@ ratings:
 # #077 — Cyclone Dust Separator
 
 <p align="center">
-  <img src="/images/builds/077-cyclone-dust-separator.jpg" alt="Cyclone Dust Separator" width="700" />
+  <img src="/images/builds/077-cyclone-dust-separator.jpg" alt="Cyclone Dust Separator" width="700" height="394" />
 </p>
 
 > Vacuum motor + bucket + traffic cone + PVC pipe. Cyclonic separation catches 99% of dust before it hits the shop vac filter. Filter lasts forever.

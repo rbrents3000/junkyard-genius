@@ -19,7 +19,7 @@ ratings:
 # #248 — Solar Still
 
 <p align="center">
-  <img src="/images/builds/248-solar-still.jpg" alt="Solar Still" width="700" />
+  <img src="/images/builds/248-solar-still.jpg" alt="Solar Still" width="700" height="394" />
 </p>
 
 > Plastic over pit + collection cup = distilled water from sun.

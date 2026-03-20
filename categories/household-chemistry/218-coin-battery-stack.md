@@ -19,7 +19,7 @@ ratings:
 # #218 — Coin Battery Stack
 
 <p align="center">
-  <img src="/images/builds/218-coin-battery-stack.jpg" alt="Coin Battery Stack" width="700" />
+  <img src="/images/builds/218-coin-battery-stack.jpg" alt="Coin Battery Stack" width="700" height="394" />
 </p>
 
 > Copper coins, zinc washers, vinegar-soaked cardboard spacers — stack them up and you've built a voltaic pile that generates enough voltage to light an LED. The original battery, reinvented from pocket change.

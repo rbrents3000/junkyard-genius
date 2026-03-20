@@ -19,7 +19,7 @@ ratings:
 # #273 — Washing Machine Motor Lathe
 
 <p align="center">
-  <img src="/images/builds/273-washing-machine-motor-lathe.jpg" alt="Washing Machine Motor Lathe" width="700" />
+  <img src="/images/builds/273-washing-machine-motor-lathe.jpg" alt="Washing Machine Motor Lathe" width="700" height="394" />
 </p>
 
 > A dead washing machine motor spins a proper lathe chuck. Turn wood, polish metal, or make custom parts — for the cost of a trip to the curb.

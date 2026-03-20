@@ -19,7 +19,7 @@ ratings:
 # #272 — Hard Drive Platter Wind Chimes
 
 <p align="center">
-  <img src="/images/builds/272-hard-drive-wind-chimes.jpg" alt="Hard Drive Platter Wind Chimes" width="700" />
+  <img src="/images/builds/272-hard-drive-wind-chimes.jpg" alt="Hard Drive Platter Wind Chimes" width="700" height="394" />
 </p>
 
 > Salvaged hard drive platters ring like tiny bells. String a set from a branch and let the wind play your data's funeral song.

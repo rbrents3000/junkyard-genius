@@ -19,7 +19,7 @@ ratings:
 # #280 — Density Tower
 
 <p align="center">
-  <img src="/images/builds/280-density-tower.jpg" alt="Density Tower" width="700" />
+  <img src="/images/builds/280-density-tower.jpg" alt="Density Tower" width="700" height="394" />
 </p>
 
 > Layer liquids by density — honey, corn syrup, dish soap, water, oil, rubbing alcohol — then drop objects in and watch them float at different levels. A kitchen rainbow in a glass.

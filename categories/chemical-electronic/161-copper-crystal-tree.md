@@ -19,7 +19,7 @@ ratings:
 # #161 — Copper Crystal Tree
 
 <p align="center">
-  <img src="/images/builds/161-copper-crystal-tree.jpg" alt="Copper Crystal Tree" width="700" />
+  <img src="/images/builds/161-copper-crystal-tree.jpg" alt="Copper Crystal Tree" width="700" height="394" />
 </p>
 
 > Drop an iron nail in copper sulfate solution — iron displaces copper, depositing dendritic crystal branches over hours. Time-lapse it.

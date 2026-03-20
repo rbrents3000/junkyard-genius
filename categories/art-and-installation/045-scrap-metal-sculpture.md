@@ -19,7 +19,7 @@ ratings:
 # #045 — Scrap Metal Sculpture
 
 <p align="center">
-  <img src="/images/builds/045-scrap-metal-sculpture.jpg" alt="Scrap Metal Sculpture" width="700" />
+  <img src="/images/builds/045-scrap-metal-sculpture.jpg" alt="Scrap Metal Sculpture" width="700" height="394" />
 </p>
 
 > Dead appliances become art. Gears, springs, brackets, and casings welded into sculptures that tell the story of their previous lives.

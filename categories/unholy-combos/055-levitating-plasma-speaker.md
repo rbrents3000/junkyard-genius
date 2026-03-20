@@ -19,7 +19,7 @@ ratings:
 # #055 — Levitating Plasma Speaker
 
 <p align="center">
-  <img src="/images/builds/055-levitating-plasma-speaker.jpg" alt="Levitating Plasma Speaker" width="700" />
+  <img src="/images/builds/055-levitating-plasma-speaker.jpg" alt="Levitating Plasma Speaker" width="700" height="394" />
 </p>
 
 > A magnetically levitating plasma arc that plays music. An electromagnetic levitator holds a metal electrode in mid-air while a modulated high-voltage arc sings from it. Three impossible things happening at once.

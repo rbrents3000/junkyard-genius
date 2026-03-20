@@ -19,7 +19,7 @@ ratings:
 # #279 — Microwave Chemical Reactor
 
 <p align="center">
-  <img src="/images/builds/279-microwave-chemical-reactor.jpg" alt="Microwave Chemical Reactor" width="700" />
+  <img src="/images/builds/279-microwave-chemical-reactor.jpg" alt="Microwave Chemical Reactor" width="700" height="394" />
 </p>
 
 > Rip the guts out of a microwave, build a custom reaction chamber with borosilicate glassware, and run chemical syntheses in minutes that would take hours on a hot plate.

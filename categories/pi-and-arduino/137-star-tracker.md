@@ -19,7 +19,7 @@ ratings:
 # #137 — Star Tracker
 
 <p align="center">
-  <img src="/images/builds/137-star-tracker.jpg" alt="Star Tracker" width="700" />
+  <img src="/images/builds/137-star-tracker.jpg" alt="Star Tracker" width="700" height="394" />
 </p>
 
 > A stepper motor and Pi rotate your camera at exactly Earth's rotation speed — stars become pinpoints instead of trails.

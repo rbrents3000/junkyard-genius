@@ -19,7 +19,7 @@ ratings:
 # #254 — Invisible Bluetooth Speaker
 
 <p align="center">
-  <img src="/images/builds/254-invisible-speaker.jpg" alt="Invisible Bluetooth Speaker" width="700" />
+  <img src="/images/builds/254-invisible-speaker.jpg" alt="Invisible Bluetooth Speaker" width="700" height="394" />
 </p>
 
 > Bone conduction transducer + Bluetooth module hidden under a table. Any surface becomes a speaker. Nobody can find it.

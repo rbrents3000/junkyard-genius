@@ -19,7 +19,7 @@ ratings:
 # #021 — CRT Oscilloscope Visualizer
 
 <p align="center">
-  <img src="/images/builds/021-crt-oscilloscope-visualizer.jpg" alt="CRT Oscilloscope Visualizer" width="700" />
+  <img src="/images/builds/021-crt-oscilloscope-visualizer.jpg" alt="CRT Oscilloscope Visualizer" width="700" height="394" />
 </p>
 
 > Feed audio directly into a CRT TV's deflection coils and turn it into a real-time music visualizer from the 1970s.

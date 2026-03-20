@@ -19,7 +19,7 @@ ratings:
 # #101 — Colored Fire
 
 <p align="center">
-  <img src="/images/builds/101-colored-fire.jpg" alt="Colored Fire" width="700" />
+  <img src="/images/builds/101-colored-fire.jpg" alt="Colored Fire" width="700" height="394" />
 </p>
 
 > Metal salts turn an ordinary campfire into a chemistry-powered rainbow.

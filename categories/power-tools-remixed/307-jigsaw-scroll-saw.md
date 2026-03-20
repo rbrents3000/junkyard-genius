@@ -19,7 +19,7 @@ ratings:
 # #307 — Jigsaw Scroll Saw
 
 <p align="center">
-  <img src="/images/builds/307-jigsaw-scroll-saw.jpg" alt="Jigsaw Scroll Saw" width="700" />
+  <img src="/images/builds/307-jigsaw-scroll-saw.jpg" alt="Jigsaw Scroll Saw" width="700" height="394" />
 </p>
 
 > Jigsaw flipped upside-down under a table, blade through a slot. Feed the workpiece into the blade. $30 jigsaw, $200 scroll saw.

@@ -19,7 +19,7 @@ ratings:
 # #006 — Atmospheric Reentry Simulator
 
 <p align="center">
-  <img src="/images/builds/006-atmospheric-reentry-simulator.jpg" alt="Atmospheric Reentry Simulator" width="700" />
+  <img src="/images/builds/006-atmospheric-reentry-simulator.jpg" alt="Atmospheric Reentry Simulator" width="700" height="394" />
 </p>
 
 > Use a microwave transformer to heat metal samples until they glow, melt, and behave like spacecraft shielding during reentry.

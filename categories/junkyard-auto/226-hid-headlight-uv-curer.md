@@ -19,7 +19,7 @@ ratings:
 # #226 — HID Headlight UV Curer
 
 <p align="center">
-  <img src="/images/builds/226-hid-headlight-uv-curer.jpg" alt="HID Headlight UV Curer" width="700" />
+  <img src="/images/builds/226-hid-headlight-uv-curer.jpg" alt="HID Headlight UV Curer" width="700" height="394" />
 </p>
 
 > HID ballast + UV bulb = a professional UV curing station for resin, epoxy, gel nails, and UV-reactive coatings. Junkyard optics, workshop results.

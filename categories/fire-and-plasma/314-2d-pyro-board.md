@@ -19,7 +19,7 @@ ratings:
 # #314 — 2D Pyro Board (Rubens' Square)
 
 <p align="center">
-  <img src="/images/builds/314-2d-pyro-board.jpg" alt="2D Pyro Board" width="700" />
+  <img src="/images/builds/314-2d-pyro-board.jpg" alt="2D Pyro Board" width="700" height="394" />
 </p>
 
 > The Rubens' Tube's big sibling — a flat box with 2,500 flame holes showing 2D standing wave patterns in fire when you play music.

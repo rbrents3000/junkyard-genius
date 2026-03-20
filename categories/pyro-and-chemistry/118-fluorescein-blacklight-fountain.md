@@ -19,7 +19,7 @@ ratings:
 # #118 — Fluorescein Blacklight Fountain
 
 <p align="center">
-  <img src="/images/builds/118-fluorescein-blacklight-fountain.jpg" alt="Fluorescein Blacklight Fountain" width="700" />
+  <img src="/images/builds/118-fluorescein-blacklight-fountain.jpg" alt="Fluorescein Blacklight Fountain" width="700" height="394" />
 </p>
 
 > A tiny amount of fluorescein dye makes water glow INTENSE neon green under UV — pump it through a fountain for a radioactive look.

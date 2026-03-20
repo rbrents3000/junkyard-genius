@@ -19,7 +19,7 @@ ratings:
 # #228 — Chemical-Trigger Color Bombs
 
 <p align="center">
-  <img src="/images/builds/228-chemical-trigger-color-bombs.jpg" alt="Chemical-Trigger Color Bombs" width="700" />
+  <img src="/images/builds/228-chemical-trigger-color-bombs.jpg" alt="Chemical-Trigger Color Bombs" width="700" height="394" />
 </p>
 
 > KNO3 smoke bombs + metal salt colorants + permanganate/glycerin auto-ignition = no-fuse colored smoke that lights itself on contact.

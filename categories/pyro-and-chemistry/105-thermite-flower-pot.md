@@ -19,7 +19,7 @@ ratings:
 # #105 — Thermite Flower Pot
 
 <p align="center">
-  <img src="/images/builds/105-thermite-flower-pot.jpg" alt="Thermite Flower Pot" width="700" />
+  <img src="/images/builds/105-thermite-flower-pot.jpg" alt="Thermite Flower Pot" width="700" height="394" />
 </p>
 
 > Iron oxide and aluminum powder react at 4000°F, dripping molten iron through a clay pot into a mold below.

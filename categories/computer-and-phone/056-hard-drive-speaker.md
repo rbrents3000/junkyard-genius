@@ -19,7 +19,7 @@ ratings:
 # #056 — Hard Drive Speaker
 
 <p align="center">
-  <img src="/images/builds/056-hard-drive-speaker.jpg" alt="Hard Drive Speaker" width="700" />
+  <img src="/images/builds/056-hard-drive-speaker.jpg" alt="Hard Drive Speaker" width="700" height="394" />
 </p>
 
 > The read/write arm in your dead hard drive is literally a speaker. Same voice coil tech. Just add music.

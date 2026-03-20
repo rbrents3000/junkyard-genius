@@ -19,7 +19,7 @@ ratings:
 # #115 — Permanganate Auto-Ignition
 
 <p align="center">
-  <img src="/images/builds/115-permanganate-auto-ignition.jpg" alt="Permanganate Auto-Ignition" width="700" />
+  <img src="/images/builds/115-permanganate-auto-ignition.jpg" alt="Permanganate Auto-Ignition" width="700" height="394" />
 </p>
 
 > Potassium permanganate meets glycerin — 30 seconds of anticipation, then spontaneous purple flames.

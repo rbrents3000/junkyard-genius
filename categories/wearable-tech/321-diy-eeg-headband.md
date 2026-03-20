@@ -19,7 +19,7 @@ ratings:
 # #321 — DIY EEG Headband
 
 <p align="center">
-  <img src="/images/builds/321-diy-eeg-headband.jpg" alt="DIY EEG Headband" width="700" />
+  <img src="/images/builds/321-diy-eeg-headband.jpg" alt="DIY EEG Headband" width="700" height="394" />
 </p>
 
 > Read your own brainwaves with salvaged biosensors. Visualize alpha, beta, and theta waves in real-time on your phone.

@@ -19,7 +19,7 @@ ratings:
 # #107 — Bismuth Crystal Garden
 
 <p align="center">
-  <img src="/images/builds/107-bismuth-crystal-garden.jpg" alt="Bismuth Crystal Garden" width="700" />
+  <img src="/images/builds/107-bismuth-crystal-garden.jpg" alt="Bismuth Crystal Garden" width="700" height="394" />
 </p>
 
 > Melt bismuth on the stove, slow-cool it, and pull out rainbow-colored hopper crystals worth $20-50 each.

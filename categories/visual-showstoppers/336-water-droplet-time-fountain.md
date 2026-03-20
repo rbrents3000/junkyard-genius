@@ -19,7 +19,7 @@ ratings:
 # #336 — Water Droplet Time Fountain
 
 <p align="center">
-  <img src="/images/builds/336-water-droplet-time-fountain.jpg" alt="Water Droplet Time Fountain" width="700" />
+  <img src="/images/builds/336-water-droplet-time-fountain.jpg" alt="Water Droplet Time Fountain" width="700" height="394" />
 </p>
 
 > Precisely timed strobes make falling water droplets freeze in mid-air, drift in slow motion, or flow straight back up — you broke physics.

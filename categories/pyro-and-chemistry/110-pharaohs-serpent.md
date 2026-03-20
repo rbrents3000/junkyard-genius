@@ -19,7 +19,7 @@ ratings:
 # #110 — Pharaoh's Serpent
 
 <p align="center">
-  <img src="/images/builds/110-pharaohs-serpent.jpg" alt="Pharaoh's Serpent" width="700" />
+  <img src="/images/builds/110-pharaohs-serpent.jpg" alt="Pharaoh's Serpent" width="700" height="394" />
 </p>
 
 > Sugar, baking soda, and lighter fluid on sand — a massive carbon snake grows from the flames.

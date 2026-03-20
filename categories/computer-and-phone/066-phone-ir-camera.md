@@ -19,7 +19,7 @@ ratings:
 # #066 — Phone IR Camera
 
 <p align="center">
-  <img src="/images/builds/066-phone-ir-camera.jpg" alt="Phone IR Camera" width="700" />
+  <img src="/images/builds/066-phone-ir-camera.jpg" alt="Phone IR Camera" width="700" height="394" />
 </p>
 
 > Remove the IR-blocking filter from an old phone's camera. Now it sees near-infrared. Check overheating, spot heat leaks, see invisible light.

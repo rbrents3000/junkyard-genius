@@ -19,7 +19,7 @@ ratings:
 # #109 — Luminol Crime Scene
 
 <p align="center">
-  <img src="/images/builds/109-luminol-crime-scene.jpg" alt="Luminol Crime Scene" width="700" />
+  <img src="/images/builds/109-luminol-crime-scene.jpg" alt="Luminol Crime Scene" width="700" height="394" />
 </p>
 
 > Luminol reacts with iron to produce an eerie blue glow — build fake crime scenes for Halloween and escape rooms.

@@ -19,7 +19,7 @@ ratings:
 # #331 — Fire Organ
 
 <p align="center">
-  <img src="/images/builds/331-fire-organ.jpg" alt="Fire Organ" width="700" />
+  <img src="/images/builds/331-fire-organ.jpg" alt="Fire Organ" width="700" height="394" />
 </p>
 
 > A PVC pipe organ that plays music and shoots synchronized flames from every pipe — because sound alone wasn't dramatic enough.

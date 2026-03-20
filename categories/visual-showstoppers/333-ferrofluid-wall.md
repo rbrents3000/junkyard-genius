@@ -19,7 +19,7 @@ ratings:
 # #333 — Ferrofluid Wall
 
 <p align="center">
-  <img src="/images/builds/333-ferrofluid-wall.jpg" alt="Ferrofluid Wall" width="700" />
+  <img src="/images/builds/333-ferrofluid-wall.jpg" alt="Ferrofluid Wall" width="700" height="394" />
 </p>
 
 > Living alien liquid metal on your wall — a ferrofluid display that dances to music, reacts to motion, and makes every other piece of art in the room irrelevant.

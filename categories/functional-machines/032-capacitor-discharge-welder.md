@@ -19,7 +19,7 @@ ratings:
 # #032 — Capacitor Discharge Welder
 
 <p align="center">
-  <img src="/images/builds/032-capacitor-discharge-welder.jpg" alt="Capacitor Discharge Welder" width="700" />
+  <img src="/images/builds/032-capacitor-discharge-welder.jpg" alt="Capacitor Discharge Welder" width="700" height="394" />
 </p>
 
 > A bank of microwave capacitors dumps stored energy in one violent pulse — enough to weld battery tabs and thin metal in milliseconds.

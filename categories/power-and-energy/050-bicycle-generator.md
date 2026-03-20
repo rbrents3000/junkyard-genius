@@ -19,7 +19,7 @@ ratings:
 # #050 — Bicycle Generator
 
 <p align="center">
-  <img src="/images/builds/050-bicycle-generator.jpg" alt="Bicycle Generator" width="700" />
+  <img src="/images/builds/050-bicycle-generator.jpg" alt="Bicycle Generator" width="700" height="394" />
 </p>
 
 > An old bicycle, a salvaged motor used as a generator, and a charge controller. Pedal power that charges batteries, runs lights, and powers small electronics.

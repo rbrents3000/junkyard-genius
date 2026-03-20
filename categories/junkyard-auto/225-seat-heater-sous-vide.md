@@ -19,7 +19,7 @@ ratings:
 # #225 — Seat Heater Sous Vide
 
 <p align="center">
-  <img src="/images/builds/225-seat-heater-sous-vide.jpg" alt="Seat Heater Sous Vide" width="700" />
+  <img src="/images/builds/225-seat-heater-sous-vide.jpg" alt="Seat Heater Sous Vide" width="700" height="394" />
 </p>
 
 > Flexible car seat heater element + PID temperature controller = a precision sous vide cooker that holds temperature within one degree.

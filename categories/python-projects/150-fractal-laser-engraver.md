@@ -19,7 +19,7 @@ ratings:
 # #150 — Fractal Laser Engraver
 
 <p align="center">
-  <img src="/images/builds/150-fractal-laser-engraver.jpg" alt="Fractal Laser Engraver" width="700" />
+  <img src="/images/builds/150-fractal-laser-engraver.jpg" alt="Fractal Laser Engraver" width="700" height="394" />
 </p>
 
 > Render Mandelbrot and Julia fractals at extreme resolution in Python, then burn them into wood or leather with a laser engraver.

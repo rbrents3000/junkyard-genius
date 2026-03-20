@@ -19,7 +19,7 @@ ratings:
 # #087 — Nebula Lamp
 
 <p align="center">
-  <img src="/images/builds/087-nebula-lamp.jpg" alt="Nebula Lamp" width="700" />
+  <img src="/images/builds/087-nebula-lamp.jpg" alt="Nebula Lamp" width="700" height="394" />
 </p>
 
 > Trap ultrasonic mist inside a glass enclosure. Color it with LEDs. Add a fan for turbulence. A captured cloud. A nebula in a jar. Add a speaker and it pulses to music.

@@ -19,7 +19,7 @@ ratings:
 # #164 — Sodium Silicate Demos
 
 <p align="center">
-  <img src="/images/builds/164-sodium-silicate-demos.jpg" alt="Sodium Silicate Demos" width="700" />
+  <img src="/images/builds/164-sodium-silicate-demos.jpg" alt="Sodium Silicate Demos" width="700" height="394" />
 </p>
 
 > Water glass: coat paper for a fireproof demo, or pour metal salts into the solution for a chemical garden of growing colorful tubes.

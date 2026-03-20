@@ -19,7 +19,7 @@ ratings:
 # #080 — Hand Drill Press
 
 <p align="center">
-  <img src="/images/builds/080-hand-drill-press.jpg" alt="Hand Drill Press" width="700" />
+  <img src="/images/builds/080-hand-drill-press.jpg" alt="Hand Drill Press" width="700" height="394" />
 </p>
 
 > Hand drill + plywood column + drawer slides + spring return. Instant drill press for $0.

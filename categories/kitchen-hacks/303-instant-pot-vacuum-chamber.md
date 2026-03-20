@@ -19,7 +19,7 @@ ratings:
 # #303 — Instant Pot Vacuum Chamber
 
 <p align="center">
-  <img src="/images/builds/303-instant-pot-vacuum-chamber.jpg" alt="Instant Pot Vacuum Chamber" width="700" />
+  <img src="/images/builds/303-instant-pot-vacuum-chamber.jpg" alt="Instant Pot Vacuum Chamber" width="700" height="394" />
 </p>
 
 > Your pressure cooker already handles pressure differentials. It just doesn't know it works in reverse.

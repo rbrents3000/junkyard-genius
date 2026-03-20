@@ -19,7 +19,7 @@ ratings:
 # #274 — Peltier Fog Chiller
 
 <p align="center">
-  <img src="/images/builds/274-peltier-fog-chiller.jpg" alt="Peltier Fog Chiller" width="700" />
+  <img src="/images/builds/274-peltier-fog-chiller.jpg" alt="Peltier Fog Chiller" width="700" height="394" />
 </p>
 
 > A thermoelectric cooler chills fog machine output so it crawls along the ground like a horror movie set. Dry ice vibes, no dry ice needed.

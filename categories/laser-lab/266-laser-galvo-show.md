@@ -19,7 +19,7 @@ ratings:
 # #266 — Galvanometer Laser Light Show
 
 <p align="center">
-  <img src="/images/builds/266-laser-galvo-show.jpg" alt="Galvanometer Laser Light Show" width="700" />
+  <img src="/images/builds/266-laser-galvo-show.jpg" alt="Galvanometer Laser Light Show" width="700" height="394" />
 </p>
 
 > Two mirrors on galvanometers steer a laser fast enough to draw shapes on walls. Concert laser show for $20.

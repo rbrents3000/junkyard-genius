@@ -19,7 +19,7 @@ ratings:
 # #149 — Voice Home Automation
 
 <p align="center">
-  <img src="/images/builds/149-voice-home-automation.jpg" alt="Voice Home Automation" width="700" />
+  <img src="/images/builds/149-voice-home-automation.jpg" alt="Voice Home Automation" width="700" height="394" />
 </p>
 
 > Python speech recognition and a relay board — say "turn on lamp" and the relay clicks. No Alexa, no cloud, fully local.

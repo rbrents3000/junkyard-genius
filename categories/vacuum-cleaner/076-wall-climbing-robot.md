@@ -19,7 +19,7 @@ ratings:
 # #076 — Wall-Climbing Robot
 
 <p align="center">
-  <img src="/images/builds/076-wall-climbing-robot.jpg" alt="Wall-Climbing Robot" width="700" />
+  <img src="/images/builds/076-wall-climbing-robot.jpg" alt="Wall-Climbing Robot" width="700" height="394" />
 </p>
 
 > Vacuum motor suction + RC car chassis. The suction overcomes gravity. A remote-controlled robot that drives up walls and across ceilings.

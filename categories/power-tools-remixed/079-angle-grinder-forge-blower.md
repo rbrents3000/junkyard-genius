@@ -19,7 +19,7 @@ ratings:
 # #079 — Angle Grinder Forge Blower
 
 <p align="center">
-  <img src="/images/builds/079-angle-grinder-forge-blower.jpg" alt="Angle Grinder Forge Blower" width="700" />
+  <img src="/images/builds/079-angle-grinder-forge-blower.jpg" alt="Angle Grinder Forge Blower" width="700" height="394" />
 </p>
 
 > Remove the grinding disc. Attach a fan blade. 10,000+ RPM airflow ducted into a forge. Way more air than a hair dryer.

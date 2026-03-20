@@ -19,7 +19,7 @@ ratings:
 # #234 — Microwave Firework Star Mine
 
 <p align="center">
-  <img src="/images/builds/234-microwave-firework-star-mine.jpg" alt="Microwave Firework Star Mine" width="700" />
+  <img src="/images/builds/234-microwave-firework-star-mine.jpg" alt="Microwave Firework Star Mine" width="700" height="394" />
 </p>
 
 > MOT capacitor bank powers a coil gun that launches metal-salt color stars with nichrome ignition. Three categories detonate in one glorious burst.

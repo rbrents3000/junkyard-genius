@@ -19,7 +19,7 @@ ratings:
 # #013 — Aeolian Wind Harp
 
 <p align="center">
-  <img src="/images/builds/013-aeolian-wind-harp.jpg" alt="Aeolian Wind Harp" width="700" />
+  <img src="/images/builds/013-aeolian-wind-harp.jpg" alt="Aeolian Wind Harp" width="700" height="394" />
 </p>
 
 > Strings tuned to resonate with the wind — place it outside and it plays haunting chords entirely on its own.

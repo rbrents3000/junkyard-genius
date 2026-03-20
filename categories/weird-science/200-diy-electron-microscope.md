@@ -19,7 +19,7 @@ ratings:
 # #200 — DIY Electron Microscope
 
 <p align="center">
-  <img src="/images/builds/200-diy-electron-microscope.jpg" alt="DIY Electron Microscope" width="700" />
+  <img src="/images/builds/200-diy-electron-microscope.jpg" alt="DIY Electron Microscope" width="700" height="394" />
 </p>
 
 > A CRT electron gun, a vacuum chamber, and magnetic lenses — see things no optical microscope can resolve. The ultimate junkyard endgame build.

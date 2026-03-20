@@ -19,7 +19,7 @@ ratings:
 # #212 — Electrolysis Rust Eraser
 
 <p align="center">
-  <img src="/images/builds/212-electrolysis-rust-eraser.jpg" alt="Electrolysis Rust Eraser" width="700" />
+  <img src="/images/builds/212-electrolysis-rust-eraser.jpg" alt="Electrolysis Rust Eraser" width="700" height="394" />
 </p>
 
 > Washing soda, water, a battery charger, and a sacrificial piece of scrap steel — electrolysis pulls rust out of pits and crevices that sandpaper can't reach.

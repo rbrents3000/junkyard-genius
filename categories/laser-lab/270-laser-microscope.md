@@ -19,7 +19,7 @@ ratings:
 # #270 — Laser Scanning Microscope
 
 <p align="center">
-  <img src="/images/builds/270-laser-microscope.jpg" alt="Laser Scanning Microscope" width="700" />
+  <img src="/images/builds/270-laser-microscope.jpg" alt="Laser Scanning Microscope" width="700" height="394" />
 </p>
 
 > Confocal microscopy from a laser pointer. Build an image pixel by pixel from a spinning mirror and a photocell.

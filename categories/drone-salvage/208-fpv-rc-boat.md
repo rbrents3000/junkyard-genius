@@ -19,7 +19,7 @@ ratings:
 # #208 — FPV RC Boat
 
 <p align="center">
-  <img src="/images/builds/208-fpv-rc-boat.jpg" alt="FPV RC Boat" width="700" />
+  <img src="/images/builds/208-fpv-rc-boat.jpg" alt="FPV RC Boat" width="700" height="394" />
 </p>
 
 > A waterproof hull, a drone brushless motor with prop, a live camera feed, and FPV goggles — explore lakes and ponds from the boat's perspective.
