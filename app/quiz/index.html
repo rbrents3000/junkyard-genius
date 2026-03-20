@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-N99TTDGHKG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-N99TTDGHKG');
+</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Build Finder Quiz — Junkyard Genius</title>
@@ -517,6 +525,7 @@ var quizStarted = false;
 /* ── Start quiz ── */
 window.startQuiz = function() {
   quizStarted = true;
+  if(typeof gtag==='function') gtag('event', 'quiz_start');
   document.getElementById("welcomeScreen").style.display = "none";
   document.getElementById("questionsWrap").style.display = "block";
   document.getElementById("stepsBar").style.display = "block";
@@ -727,6 +736,7 @@ function ratingBar(label, value, cls) {
 
 /* ── Results ── */
 window.showResults = function() {
+  if(typeof gtag==='function') gtag('event', 'quiz_complete');
   var candidates = computeResults();
   var top5 = candidates.slice(0, 5);
 

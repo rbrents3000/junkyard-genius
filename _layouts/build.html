@@ -92,17 +92,20 @@ layout: default
       wBtn.innerHTML = "&#128204; Want to Build"; wBtn.classList.remove("active");
     }
   }
-  document.getElementById("completedBtn").addEventListener("click", function(){ toggle("jg-completed", buildNum); updateUI(); });
-  document.getElementById("wantBtn").addEventListener("click", function(){ toggle("jg-wantToBuild", buildNum); updateUI(); });
+  document.getElementById("completedBtn").addEventListener("click", function(){ var added = toggle("jg-completed", buildNum); updateUI(); if(typeof gtag==='function') gtag('event', added ? 'build_completed' : 'build_uncompleted', {build_number: buildNum}); });
+  document.getElementById("wantBtn").addEventListener("click", function(){ var added = toggle("jg-wantToBuild", buildNum); updateUI(); if(typeof gtag==='function') gtag('event', added ? 'build_wanted' : 'build_unwanted', {build_number: buildNum}); });
   updateUI();
 
   // Share buttons
   var url = window.location.href;
   var text = "#{{ build_number }} {{ title }} — Junkyard Genius";
   document.getElementById("shareTwitter").href = "https://x.com/intent/tweet?text=" + encodeURIComponent(text) + "&url=" + encodeURIComponent(url);
+  document.getElementById("shareTwitter").addEventListener("click", function(){ if(typeof gtag==='function') gtag('event', 'share', {method: 'twitter', build_number: buildNum}); });
   document.getElementById("shareReddit").href = "https://reddit.com/submit?url=" + encodeURIComponent(url) + "&title=" + encodeURIComponent(text);
+  document.getElementById("shareReddit").addEventListener("click", function(){ if(typeof gtag==='function') gtag('event', 'share', {method: 'reddit', build_number: buildNum}); });
   document.getElementById("copyLinkBtn").addEventListener("click", function(){
     var btn = this;
+    if(typeof gtag==='function') gtag('event', 'share', {method: 'copy_link', build_number: buildNum});
     navigator.clipboard.writeText(url).then(function(){
       btn.textContent = "\u2713 Copied!";
       setTimeout(function(){ btn.innerHTML = "&#128279; Copy Link"; }, 2000);
