@@ -23,3 +23,7 @@ _site/
 scripts/
 
 .vercel
+
+# Test artifacts
+test-results/
+playwright-report/

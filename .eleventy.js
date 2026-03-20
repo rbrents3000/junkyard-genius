@@ -6,8 +6,11 @@ module.exports = function(eleventyConfig) {
       .sort((a, b) => a.data.build_number - b.data.build_number);
   });
 
-  // Prevent template processing of public/ (passthrough only)
+  // Prevent template processing of non-content directories
   eleventyConfig.ignores.add("public/**");
+  eleventyConfig.ignores.add(".github/**");
+  eleventyConfig.ignores.add("test-results/**");
+  eleventyConfig.ignores.add("tests/**");
 
   // Pass through static assets
   eleventyConfig.addPassthroughCopy("assets");
