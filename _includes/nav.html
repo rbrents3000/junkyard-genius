@@ -1,0 +1,42 @@
+<!-- Top Navigation Bar -->
+<nav class="bg-background/60 backdrop-blur-xl sticky top-0 z-50 border-b border-outline-variant/10">
+  <div class="flex justify-between items-center w-full px-6 py-4 max-w-screen-2xl mx-auto">
+    <!-- Brand -->
+    <a href="/" class="text-xl font-black tracking-tighter text-primary-container font-headline uppercase no-underline hover:no-underline">
+      JUNKYARD_GENIUS
+    </a>
+
+    <!-- Desktop Nav Links -->
+    <div class="hidden md:flex items-center gap-8 font-headline tracking-tight font-bold uppercase text-sm">
+      <a class="text-primary-container border-b-2 border-primary-container pb-1 no-underline hover:no-underline" href="/">The Junkyard</a>
+      <a class="text-slate-400 hover:text-white transition-colors duration-200 no-underline hover:no-underline" href="/app/browse/">Browse</a>
+      <a class="text-slate-400 hover:text-white transition-colors duration-200 no-underline hover:no-underline" href="/app/quiz/">Quiz</a>
+      <a class="text-slate-400 hover:text-white transition-colors duration-200 no-underline hover:no-underline" href="/app/toolbox/">Toolbox</a>
+    </div>
+
+    <!-- Right Side -->
+    <div class="flex items-center gap-4">
+      <!-- Search (desktop only) -->
+      <div class="relative hidden sm:block">
+        <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-500 text-sm">search</span>
+        <input
+          class="bg-surface-container-lowest border border-outline-variant/20 text-xs font-label py-2 pl-10 pr-4 w-48 focus:ring-1 focus:ring-secondary focus:outline-none rounded-sm text-on-surface"
+          placeholder="SEARCH_BUILDS..."
+          type="text"
+        />
+      </div>
+      <!-- GitHub -->
+      <a href="{{ site.repo }}" class="text-slate-400 hover:text-primary-container transition-colors duration-200 no-underline" aria-label="GitHub">
+        <span class="material-symbols-outlined">code</span>
+      </a>
+    </div>
+  </div>
+
+  <!-- Mobile Nav (small screens) -->
+  <div class="md:hidden flex gap-1 px-4 pb-3 overflow-x-auto">
+    <a class="text-primary-container font-label text-[10px] uppercase tracking-widest px-3 py-1.5 bg-primary-container/10 rounded-sm whitespace-nowrap no-underline" href="/">Home</a>
+    <a class="text-slate-400 font-label text-[10px] uppercase tracking-widest px-3 py-1.5 whitespace-nowrap no-underline hover:text-white" href="/app/browse/">Browse</a>
+    <a class="text-slate-400 font-label text-[10px] uppercase tracking-widest px-3 py-1.5 whitespace-nowrap no-underline hover:text-white" href="/app/quiz/">Quiz</a>
+    <a class="text-slate-400 font-label text-[10px] uppercase tracking-widest px-3 py-1.5 whitespace-nowrap no-underline hover:text-white" href="/app/toolbox/">Toolbox</a>
+  </div>
+</nav>

@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 /* Source paths for class scanning */
 @source "../../_layouts";
@@ -73,4 +74,105 @@
   --radius-md: 0.25rem;
   --radius-lg: 0.5rem;
   --radius-xl: 0.75rem;
+}
+
+/* ── Custom scrollbar ── */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #35343a; border-radius: 2px; }
+
+/* ── Custom utilities ── */
+@utility text-stroke {
+  -webkit-text-stroke: 1px rgba(167, 200, 255, 0.2);
+  color: transparent;
+}
+
+/* ── Checkbox styling (ingredients lists) ── */
+input[type="checkbox"] {
+  accent-color: #ff6b35;
+}
+
+/* ── Build tracker buttons ── */
+.tracker-btn {
+  padding: 10px 18px;
+  border-radius: 0.25rem;
+  border: 1.5px solid #1e2030;
+  background: #1b1b20;
+  color: #7a7f93;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.tracker-btn:hover {
+  border-color: #2a2d42;
+  background: #2a292f;
+}
+.tracker-btn.active {
+  border-color: #3dd68c;
+  color: #3dd68c;
+  background: rgba(61,214,140,0.08);
+}
+.tracker-btn-want.active {
+  border-color: #ff6b35;
+  color: #ff6b35;
+  background: rgba(255,107,53,0.12);
+}
+
+/* ── Share buttons ── */
+.share-buttons {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin: 1em 0 2em;
+  padding: 14px 18px;
+  background: #1b1b20;
+  border: 1px solid #1e2030;
+  border-radius: 0.5rem;
+}
+.share-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #44475a;
+  margin-right: 4px;
+}
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 14px;
+  border-radius: 0.25rem;
+  border: 1px solid #1e2030;
+  background: #131318;
+  color: #7a7f93;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-decoration: none;
+}
+.share-btn:hover {
+  border-color: #ff6b35;
+  color: #ff6b35;
+  background: rgba(255,107,53,0.12);
+}
+
+/* ── Print stylesheet ── */
+@media print {
+  nav, aside, footer, .share-buttons, .build-tracker { display: none !important; }
+  body { background: #fff !important; color: #111 !important; }
+  .prose { color: #111; }
+  a { color: #111 !important; text-decoration: underline !important; }
+  img { max-width: 100% !important; }
+}
+
+/* ── Reduced motion ── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
 }

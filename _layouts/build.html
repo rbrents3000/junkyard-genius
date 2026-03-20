@@ -42,10 +42,10 @@ layout: default
 }
 </script>
 
-<nav class="breadcrumb" aria-label="Breadcrumb">
-  <a href="/">Home</a> &rsaquo;
-  <a href="/categories/{{ category }}/">{{ category_name }}</a> &rsaquo;
-  <span aria-current="page">#{{ build_number }} {{ title }}</span>
+<nav class="text-sm mb-6 text-slate-500 py-2 px-4 bg-surface-container-low border border-outline-variant/10 rounded-md font-label tracking-wide" aria-label="Breadcrumb">
+  <a href="/" class="text-primary-container no-underline hover:text-primary">Home</a> &rsaquo;
+  <a href="/categories/{{ category }}/" class="text-primary-container no-underline hover:text-primary">{{ category_name }}</a> &rsaquo;
+  <span aria-current="page" class="text-on-surface">#{{ build_number }} {{ title }}</span>
 </nav>
 
 {{ content }}
@@ -65,16 +65,16 @@ layout: default
   {% endunless %}
 {% endfor %}
 
-<nav class="build-nav" aria-label="Build navigation">
+<nav class="flex justify-between mt-8 gap-3" aria-label="Build navigation">
   {% if prev_build %}
-    <a href="{{ prev_build.url }}">&larr; #{{ prev_build.data.build_number }} {{ prev_build.data.title }}</a>
+    <a href="{{ prev_build.url }}" class="text-slate-400 text-sm max-w-[45%] py-3 px-5 bg-surface-container-low border border-outline-variant/10 rounded-lg no-underline hover:border-primary-container/50 hover:text-primary-container hover:-translate-y-0.5 transition-all">&larr; #{{ prev_build.data.build_number }} {{ prev_build.data.title }}</a>
   {% endif %}
   {% if next_build %}
-    <a href="{{ next_build.url }}" class="nav-next">#{{ next_build.data.build_number }} {{ next_build.data.title }} &rarr;</a>
+    <a href="{{ next_build.url }}" class="text-slate-400 text-sm max-w-[45%] py-3 px-5 bg-surface-container-low border border-outline-variant/10 rounded-lg no-underline hover:border-primary-container/50 hover:text-primary-container hover:-translate-y-0.5 transition-all text-right ml-auto">#{{ next_build.data.build_number }} {{ next_build.data.title }} &rarr;</a>
   {% endif %}
 </nav>
 
-<div class="build-tracker" id="buildTracker">
+<div class="flex gap-2 flex-wrap my-6" id="buildTracker">
   <button class="tracker-btn" id="completedBtn">&#9744; Mark as Completed</button>
   <button class="tracker-btn tracker-btn-want" id="wantBtn">&#128204; Want to Build</button>
 </div>
