@@ -71,8 +71,11 @@ The patterns emerge because wood grain isn't uniformly conductive. The current b
 > **Spicy Level 5 build.** Read the [Safety Guide](../../docs/safety/README.md) and [Chemical Safety](../../docs/safety/chemicals.md), [Fire & Pyro Safety](../../docs/safety/fire-and-pyro.md), [High Voltage Safety](../../docs/safety/high-voltage.md) before starting.
 
 > [!CAUTION]
-> **This build has killed people.** MOTs deliver lethal voltage and current. Never touch the wood, electrodes, or any wire while the unit is energized. Use a remote switch. Work alone only if you must — if you work with a partner, make sure they know where the kill switch is.
+> **This build has killed people.** A microwave oven transformer outputs 2,000+ volts at up to 500mA — well above the 100mA threshold that causes fatal cardiac arrest. Contact with any energized conductor can kill instantly with no second chance. Multiple hobbyists have died doing this exact project.
 
+- **One-hand rule.** When the unit is energized, keep one hand behind your back or in your pocket. Current passing hand-to-hand crosses your heart. Never reach across the work area with both hands.
+- **Use a remote switch.** Plug the MOT into a power strip with a switch, positioned far from the work area. Never unplug or reach near the transformer to kill power. If someone is shocked, kill power at the switch or breaker — do NOT touch them while the circuit is live. Call 911 immediately.
+- **Never work alone.** If you are incapacitated by a shock, you need someone who can kill power and call for help. Make sure your partner knows where the switch is before you start.
 - **Fire risk is real.** The wood is literally burning. Keep a fire extinguisher or bucket of water within arm's reach. Never leave a burn unattended. Do this outdoors or in a well-ventilated workshop, never indoors on carpet or near flammable materials.
 - **Never use this on wood that's dry.** Dry wood is an insulator — the current will arc through the air instead, which is unpredictable and more dangerous. Always soak the wood in electrolyte first.
 

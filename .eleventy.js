@@ -1,4 +1,9 @@
+const taskLists = require('markdown-it-task-lists');
+
 module.exports = function(eleventyConfig) {
+  // Render markdown task lists as actual checkboxes
+  eleventyConfig.amendLibrary("md", mdLib => mdLib.use(taskLists));
+
   // Sorted collection of all builds (for prev/next navigation)
   eleventyConfig.addCollection("builds", function(collectionApi) {
     return collectionApi.getAll()
@@ -11,12 +16,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.ignores.add(".github/**");
   eleventyConfig.ignores.add("test-results/**");
   eleventyConfig.ignores.add("tests/**");
+  eleventyConfig.ignores.add("docs/**");
 
   // Pass through static assets
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("app");
-  eleventyConfig.addPassthroughCopy("docs");
   eleventyConfig.addPassthroughCopy({"public": "/"});
 
   // Add loading="lazy" to all images for performance

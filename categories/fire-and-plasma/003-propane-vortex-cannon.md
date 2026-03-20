@@ -72,7 +72,8 @@ The vortex ring stays coherent because of angular momentum — the donut shape i
 > [!CAUTION]
 > **Do this outdoors only, far from structures.** The fire rings travel 20+ feet and can ignite dry grass, leaves, or anything flammable in their path. Have a garden hose ready. Do not fire toward buildings, cars, or people.
 
-- **Propane is heavier than air.** If you overfill and it pools on the ground, a stray spark can ignite a ground-level flash. Fill in small amounts, and if you smell gas pooling, let it dissipate before attempting ignition.
+- **Propane is heavier than air.** If you overfill and it pools on the ground, a stray spark can ignite a ground-level flash. Fill in small amounts, and if you smell gas pooling, let it dissipate before attempting ignition. Do not use this in pits, basements, or low-lying enclosed areas where propane can silently accumulate to explosive levels.
+- **Disconnect the propane tank before firing.** If the tank is still connected when you slap the membrane, a flashback through the fill port could follow the gas line back to the tank. Close the valve, remove the hose, and plug the fill hole before every shot.
 - **The membrane slap puts your hand near the device.** Make sure the propane fill port is sealed before firing. A flashback into the can is unlikely but possible if the mixture is wrong — keep your face away from both ends.
 
 ## 🔗 See Also
