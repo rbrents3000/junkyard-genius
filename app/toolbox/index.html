@@ -236,6 +236,7 @@ document.addEventListener('DOMContentLoaded', function(){
     var list = getList(k);
     var idx = list.indexOf(num);
     if (idx !== -1) { list.splice(idx, 1); setList(k, list); }
+    if(typeof gtag==='function') gtag('event','toolbox_build_removed',{build_number:num,from_list:k==='jg-completed'?'completed':'want_to_build'});
     render();
   });
 
@@ -245,6 +246,7 @@ document.addEventListener('DOMContentLoaded', function(){
       activeTab = this.getAttribute("data-tab");
       document.querySelectorAll(".tab").forEach(function(t) { t.classList.remove("active"); });
       this.classList.add("active");
+      if(typeof gtag==='function') gtag('event','toolbox_tab_switch',{tab:activeTab});
       render();
     });
   });

@@ -599,6 +599,8 @@ function handleOptionClick(e) {
   var q = QUESTIONS[qi];
   var value = card.dataset.value;
 
+  if(typeof gtag==='function') gtag('event','quiz_answer',{question_id:q.id,answer_value:value});
+
   if (q.multi) {
     card.classList.toggle("selected");
     card.setAttribute("aria-checked", card.classList.contains("selected") ? "true" : "false");
@@ -816,6 +818,7 @@ window.showResults = function() {
 
 /* ── Retake ── */
 window.retakeQuiz = function() {
+  if(typeof gtag==='function') gtag('event','quiz_retake');
   answers = {};
   currentQ = 0;
   quizStarted = false;
@@ -828,6 +831,15 @@ window.retakeQuiz = function() {
   window.scrollTo({ top: 0, behavior: "smooth" });
   setTimeout(function(){ document.querySelector(".btn-start").focus(); }, 100);
 };
+
+/* ── Result click tracking ── */
+document.getElementById("results").addEventListener("click", function(e){
+  var link = e.target.closest(".result-link, .wildcard-link");
+  if(!link || typeof gtag!=='function') return;
+  var card = link.closest(".result-card, .wildcard-card");
+  var rank = card ? Array.prototype.indexOf.call(card.parentElement.children, card) + 1 : 0;
+  gtag('event','quiz_result_click',{result_rank:rank,is_wildcard:link.classList.contains('wildcard-link')});
+});
 
 /* ── Confetti ── */
 var confettiRafId = null;

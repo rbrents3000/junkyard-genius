@@ -382,19 +382,22 @@ document.addEventListener('DOMContentLoaded', function(){
   var debounceTimer;
   searchBox.addEventListener("input", function(){
     clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(render, 150);
+    var val = searchBox.value;
+    debounceTimer = setTimeout(function(){ render(); if(val && typeof gtag==='function') gtag('event','browse_search',{search_term:val}); }, 150);
   });
 
-  categoryFilter.addEventListener("change", render);
-  junkFilter.addEventListener("change", render);
+  categoryFilter.addEventListener("change", function(){ render(); if(typeof gtag==='function') gtag('event','browse_filter',{filter_type:'category',filter_value:this.value||'all'}); });
+  junkFilter.addEventListener("change", function(){ render(); if(typeof gtag==='function') gtag('event','browse_filter',{filter_type:'junk_source',filter_value:this.value||'all'}); });
 
   brainMax.addEventListener("input", function(){
     brainVal.textContent = this.value;
     render();
+    if(typeof gtag==='function') gtag('event','browse_filter',{filter_type:'brain_max',filter_value:this.value});
   });
   spicyMax.addEventListener("input", function(){
     spicyVal.textContent = this.value;
     render();
+    if(typeof gtag==='function') gtag('event','browse_filter',{filter_type:'spicy_max',filter_value:this.value});
   });
 
   // Sort pills
@@ -410,12 +413,14 @@ document.addEventListener('DOMContentLoaded', function(){
       sortPills.forEach(function(p){p.classList.remove("active")});
       this.classList.add("active");
       render();
+      if(typeof gtag==='function') gtag('event','browse_sort',{sort_by:currentSort,sort_direction:sortAsc?'asc':'desc'});
     });
   });
 
   // Random build button
   randomBtn.addEventListener("click", function(){
     var idx = Math.floor(Math.random() * BUILDS.length);
+    if(typeof gtag==='function') gtag('event','browse_random');
     window.location.href = buildUrl(BUILDS[idx]);
   });
 
@@ -425,6 +430,7 @@ document.addEventListener('DOMContentLoaded', function(){
     this.classList.toggle("active", showMyBuilds);
     this.setAttribute("aria-pressed", showMyBuilds);
     render();
+    if(typeof gtag==='function') gtag('event','browse_my_builds_toggle',{enabled:showMyBuilds});
   });
 
   // Build of the Day
@@ -445,6 +451,7 @@ document.addEventListener('DOMContentLoaded', function(){
     showMyBuilds = false;
     myBuildsBtn.classList.remove("active");
     render();
+    if(typeof gtag==='function') gtag('event','browse_clear_filters');
   });
 
   // Focus search on load

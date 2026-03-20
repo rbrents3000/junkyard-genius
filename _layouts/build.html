@@ -111,5 +111,16 @@ layout: default
       setTimeout(function(){ btn.innerHTML = "&#128279; Copy Link"; }, 2000);
     });
   });
+  // Scroll depth tracking
+  var firedDepth = {};
+  window.addEventListener('scroll', function(){
+    var scrollPct = Math.round((window.scrollY + window.innerHeight) / document.documentElement.scrollHeight * 100);
+    [50, 90].forEach(function(d){
+      if(scrollPct >= d && !firedDepth[d]){
+        firedDepth[d] = true;
+        if(typeof gtag==='function') gtag('event','build_scroll_depth',{build_number:buildNum,depth:d});
+      }
+    });
+  });
 })();
 </script>
