@@ -23,86 +23,223 @@
 <link rel="apple-touch-icon" href="../../images/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../shared.css">
 <style>
-/* Stats */
-.stats{
-  display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
-  gap:12px;margin-bottom:24px;
+/* ── Builder Profile Header ── */
+.profile-header {
+  border-bottom: 1px solid var(--border);
+  padding: 32px 0 24px;
+  margin-bottom: 24px;
 }
-.stat-card{
-  background:var(--card);border:1px solid var(--border);border-radius:var(--radius-sm);
-  padding:20px;text-align:center;
+.profile-name {
+  font-size: 2rem;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  color: var(--text);
+  margin-bottom: 4px;
 }
-.stat-num{font-size:2rem;font-weight:800;letter-spacing:-0.02em;line-height:1}
-.stat-num.green{color:var(--green)}
-.stat-num.orange{color:var(--orange)}
-.stat-num.blue{color:var(--blue)}
-.stat-num.purple{color:var(--purple)}
-.stat-label{font-size:0.75rem;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.06em;margin-top:6px}
+.profile-rank {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--orange);
+  letter-spacing: 0.08em;
+  font-family: 'Space Grotesk', sans-serif;
+  text-transform: uppercase;
+}
 
-/* Tabs */
-.tabs{display:flex;gap:4px;margin-bottom:20px}
-.tab{
-  padding:10px 20px;border-radius:var(--radius-sm) var(--radius-sm) 0 0;
-  border:1px solid var(--border);border-bottom:none;
-  background:var(--bg-subtle);color:var(--text-dim);
-  font-family:inherit;font-size:0.85rem;font-weight:600;cursor:pointer;
-  transition:all 0.2s;
+/* ── Stats ── */
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+  margin-bottom: 32px;
 }
-.tab.active{background:var(--card);color:var(--green);border-color:var(--green)}
-.tab.want.active{color:var(--orange);border-color:var(--orange)}
-.tab .count{
-  font-size:0.7rem;background:var(--border);padding:2px 8px;border-radius:10px;
-  margin-left:6px;
+.stat-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  text-align: center;
+  backdrop-filter: blur(8px);
 }
-.tab.active .count{background:rgba(61,214,140,0.15)}
-.tab.want.active .count{background:var(--orange-glow)}
-
-/* Toolbox-specific build-card override */
-.build-card{position:relative}
-
-.remove-btn{
-  position:absolute;top:8px;right:8px;
-  background:var(--bg);border:1px solid var(--border);border-radius:var(--radius-xs);
-  color:var(--text-muted);font-size:0.7rem;padding:8px 14px;cursor:pointer;
-  transition:all 0.2s;font-family:inherit;font-weight:600;
-  min-height:36px;min-width:36px;display:inline-flex;align-items:center;justify-content:center;
+.stat-num {
+  font-size: 2.2rem;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 1;
+  font-family: 'Space Grotesk', sans-serif;
 }
-.remove-btn:hover{border-color:var(--red);color:var(--red);background:rgba(240,96,96,0.08)}
-
-.undo-toast{
-  position:fixed;bottom:24px;left:50%;transform:translateX(-50%);
-  background:var(--card);border:1px solid var(--border);border-radius:var(--radius-sm);
-  padding:12px 20px;display:flex;align-items:center;gap:12px;
-  font-size:0.85rem;color:var(--text);box-shadow:0 8px 32px rgba(0,0,0,0.4);
-  z-index:200;animation:slideUp 0.3s ease;
+.stat-num.green { color: var(--green); }
+.stat-num.orange { color: var(--orange); }
+.stat-num.blue { color: var(--blue); }
+.stat-num.purple { color: var(--purple); }
+.stat-label {
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: 8px;
+  font-family: 'Space Grotesk', sans-serif;
 }
-.undo-toast button{
-  background:var(--orange);color:#fff;border:none;border-radius:var(--radius-xs);
-  padding:6px 14px;font-family:inherit;font-size:0.8rem;font-weight:700;cursor:pointer;
+
+/* ── Section Label ── */
+.section-label {
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-family: 'Space Grotesk', sans-serif;
+  margin-bottom: 16px;
 }
-@keyframes slideUp{from{opacity:0;transform:translate(-50%,20px)}to{opacity:1;transform:translate(-50%,0)}}
 
-/* Empty state */
-.empty{text-align:center;padding:80px 20px}
-.empty .icon{font-size:3rem;margin-bottom:16px}
-.empty h3{font-size:1.3rem;font-weight:700;margin-bottom:8px}
-.empty p{color:var(--text-dim);font-size:0.95rem;margin-bottom:20px}
-.empty a.cta{
-  display:inline-block;padding:12px 24px;border-radius:var(--radius-sm);
-  background:linear-gradient(135deg,var(--orange),#e04d18);color:#fff;
-  font-weight:700;font-size:0.95rem;text-decoration:none;
+/* ── Tabs ── */
+.tabs {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 20px;
 }
-.empty a.cta:hover{transform:translateY(-1px);box-shadow:0 4px 16px rgba(255,107,53,0.3);text-decoration:none}
+.tab {
+  padding: 10px 20px;
+  border-radius: var(--radius) var(--radius) 0 0;
+  border: 1px solid var(--border);
+  border-bottom: none;
+  background: var(--bg-subtle);
+  color: var(--text-dim);
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.tab.active {
+  background: var(--card);
+  color: var(--green);
+  border-color: var(--green);
+}
+.tab.want.active {
+  color: var(--orange);
+  border-color: var(--orange);
+}
+.tab .count {
+  font-size: 0.65rem;
+  background: var(--card-active);
+  padding: 2px 8px;
+  border-radius: var(--radius);
+  margin-left: 6px;
+}
+.tab.active .count { background: rgba(34, 197, 94, 0.15); }
+.tab.want.active .count { background: var(--orange-glow); }
 
-.footer{text-align:center;padding:40px 0 24px;font-size:0.75rem;color:var(--text-muted)}
+/* ── Build card override ── */
+.build-card { position: relative; }
 
-@media(max-width:600px){
-  .stats{grid-template-columns:repeat(2,1fr)}
-  .build-grid{grid-template-columns:1fr}
-  .card-ratings{grid-template-columns:repeat(2,1fr)}
+.remove-btn {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--text-dim);
+  font-size: 0.7rem;
+  padding: 8px 14px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 600;
+  min-height: 36px;
+  min-width: 36px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.remove-btn:hover {
+  border-color: var(--red);
+  color: var(--red);
+  background: rgba(239, 68, 68, 0.08);
+}
+
+/* ── Undo Toast ── */
+.undo-toast {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--card);
+  border: 1px solid var(--orange);
+  border-radius: var(--radius);
+  padding: 12px 20px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.85rem;
+  color: var(--text);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  z-index: 200;
+  animation: slideUp 0.3s ease;
+}
+.undo-toast button {
+  background: var(--orange);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius);
+  padding: 6px 14px;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+@keyframes slideUp {
+  from { opacity: 0; transform: translate(-50%, 20px); }
+  to { opacity: 1; transform: translate(-50%, 0); }
+}
+
+/* ── Empty State ── */
+.empty {
+  text-align: center;
+  padding: 80px 20px;
+}
+.empty .icon { font-size: 3rem; margin-bottom: 16px; }
+.empty h3 { font-size: 1.3rem; font-weight: 700; margin-bottom: 8px; }
+.empty p { color: var(--text-dim); font-size: 0.95rem; margin-bottom: 20px; }
+.empty a.cta {
+  display: inline-block;
+  padding: 12px 24px;
+  border-radius: var(--radius);
+  background: linear-gradient(135deg, var(--orange), #e04d18);
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-decoration: none;
+  font-family: 'Space Grotesk', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.empty a.cta:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(255, 107, 53, 0.3);
+  text-decoration: none;
+}
+
+.footer {
+  text-align: center;
+  padding: 40px 0 24px;
+  font-size: 0.75rem;
+  color: var(--text-dim);
+}
+
+@media (max-width: 600px) {
+  .stats { grid-template-columns: repeat(2, 1fr); }
+  .build-grid { grid-template-columns: 1fr; }
+  .card-ratings { grid-template-columns: repeat(2, 1fr); }
+  .profile-name { font-size: 1.5rem; }
 }
 </style>
 </head>
@@ -122,10 +259,18 @@
 </div>
 
 <div class="container">
+  <div class="profile-header">
+    <div class="profile-name" id="profileName">ANONYMOUS_BUILDER</div>
+    <div class="profile-rank" id="profileRank">RECRUIT</div>
+  </div>
+
+  <div class="section-label">Builder_Statistics</div>
   <div class="stats" id="stats"></div>
+
+  <div class="section-label" id="sectionLabel">Trophy_Room</div>
   <div class="tabs" id="tabs">
     <button class="tab active" data-tab="completed">&#9745; Completed <span class="count" id="completedCount">0</span></button>
-    <button class="tab want" data-tab="want">&#128204; Want to Build <span class="count" id="wantCount">0</span></button>
+    <button class="tab want" data-tab="want">&#128204; Wishlist <span class="count" id="wantCount">0</span></button>
   </div>
   <div class="build-grid" id="buildGrid"></div>
   <div class="empty" id="emptyState" style="display:none">
@@ -200,6 +345,16 @@ document.addEventListener('DOMContentLoaded', function(){
       + '</a></div>';
   }
 
+  // Compute builder rank based on completed count
+  function getRank(count) {
+    if (count >= 50) return "LEGENDARY_GENIUS";
+    if (count >= 25) return "MASTER_BUILDER";
+    if (count >= 10) return "JOURNEYMAN";
+    if (count >= 5) return "APPRENTICE";
+    if (count >= 1) return "INITIATE";
+    return "RECRUIT";
+  }
+
   function renderStats() {
     var completed = getBuildsForList("jg-completed");
     var want = getBuildsForList("jg-wantToBuild");
@@ -217,10 +372,13 @@ document.addEventListener('DOMContentLoaded', function(){
       avgBrain = (total / completed.length).toFixed(1);
     }
 
+    // Update profile rank
+    document.getElementById("profileRank").textContent = getRank(completed.length);
+
     document.getElementById("stats").innerHTML =
       '<div class="stat-card"><div class="stat-num green">' + completed.length + '</div><div class="stat-label">Completed</div></div>'
-      + '<div class="stat-card"><div class="stat-num orange">' + want.length + '</div><div class="stat-label">Want to Build</div></div>'
-      + '<div class="stat-card"><div class="stat-num blue">' + catCount + '</div><div class="stat-label">Categories Covered</div></div>'
+      + '<div class="stat-card"><div class="stat-num orange">' + want.length + '</div><div class="stat-label">Wishlist</div></div>'
+      + '<div class="stat-card"><div class="stat-num blue">' + catCount + '</div><div class="stat-label">Categories</div></div>'
       + '<div class="stat-card"><div class="stat-num purple">' + avgBrain + '</div><div class="stat-label">Avg Difficulty</div></div>';
 
     document.getElementById("completedCount").textContent = completed.length;
@@ -231,6 +389,9 @@ document.addEventListener('DOMContentLoaded', function(){
     var key = activeTab === "completed" ? "jg-completed" : "jg-wantToBuild";
     var builds = getBuildsForList(key);
     var empty = document.getElementById("emptyState");
+
+    // Update section label
+    document.getElementById("sectionLabel").textContent = activeTab === "completed" ? "Trophy_Room" : "Wishlist";
 
     renderStats();
 

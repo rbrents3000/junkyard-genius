@@ -40,59 +40,60 @@ test.describe('Category Page Structure — fire-and-plasma', () => {
     await expect(page.locator('link[rel="canonical"]')).toHaveAttribute('href', /categories\/fire-and-plasma/);
   });
 
-  test('has .cat-card-grid container', async ({ page }) => {
+  test('has .cat-grid container', async ({ page }) => {
     await page.goto(URL);
-    await expect(page.locator('.cat-card-grid')).toHaveCount(1);
+    await expect(page.locator('.cat-grid')).toHaveCount(1);
   });
 
-  test(`has ${EXPECTED_COUNT} .cat-card elements`, async ({ page }) => {
+  test(`has ${EXPECTED_COUNT} .cat-build-card elements`, async ({ page }) => {
     await page.goto(URL);
-    await expect(page.locator('.cat-card')).toHaveCount(EXPECTED_COUNT);
+    await expect(page.locator('.cat-build-card')).toHaveCount(EXPECTED_COUNT);
   });
 
   test('each card has build number badge', async ({ page }) => {
     await page.goto(URL);
-    const nums = page.locator('.cc-num');
-    await expect(nums).toHaveCount(EXPECTED_COUNT);
-    for (const num of await nums.all()) {
-      await expect(num).toHaveText(/#\d+/);
+    const cards = page.locator('.cat-build-card');
+    await expect(cards).toHaveCount(EXPECTED_COUNT);
+    for (const card of await cards.all()) {
+      const text = await card.textContent();
+      expect(text).toMatch(/#\d+/);
     }
   });
 
-  test('each card has build name', async ({ page }) => {
+  test('each card has build title', async ({ page }) => {
     await page.goto(URL);
-    const names = page.locator('.cc-name');
-    await expect(names).toHaveCount(EXPECTED_COUNT);
-    for (const name of await names.all()) {
-      const text = await name.textContent();
+    const titles = page.locator('.cat-build-card h3');
+    await expect(titles).toHaveCount(EXPECTED_COUNT);
+    for (const title of await titles.all()) {
+      const text = await title.textContent();
       expect(text.trim().length).toBeGreaterThan(0);
     }
   });
 
-  test('each card has 6 rating bars', async ({ page }) => {
+  test('each card has 6 rating bar rows', async ({ page }) => {
     await page.goto(URL);
-    const cards = page.locator('.cat-card');
+    const cards = page.locator('.cat-build-card');
     for (const card of await cards.all()) {
-      const ratings = card.locator('.cc-r');
-      await expect(ratings).toHaveCount(6);
+      const ratingRows = card.locator('.flex.gap-1');
+      await expect(ratingRows).toHaveCount(6);
     }
   });
 
-  test('rating bars have all 6 labels', async ({ page }) => {
+  test('each card has build image', async ({ page }) => {
     await page.goto(URL);
-    const firstCard = page.locator('.cat-card').first();
-    const labels = await firstCard.locator('.cc-l').allTextContents();
-    expect(labels.map(l => l.trim().toLowerCase())).toEqual(
-      expect.arrayContaining(['jaw', 'brain', 'wallet', 'spicy', 'clout', 'time'])
-    );
+    const cards = page.locator('.cat-build-card');
+    for (const card of await cards.all()) {
+      const img = card.locator('img');
+      await expect(img).toHaveCount(1);
+    }
   });
 
-  test('card links point to valid relative paths', async ({ page }) => {
+  test('card links point to build detail pages', async ({ page }) => {
     await page.goto(URL);
-    const cards = page.locator('.cat-card');
+    const cards = page.locator('.cat-build-card');
     for (const card of await cards.all()) {
       const href = await card.getAttribute('href');
-      expect(href).toMatch(/^\d{3}-[a-z0-9-]+\/$/);
+      expect(href).toMatch(/\/categories\/fire-and-plasma\/\d{3}-[a-z0-9-]+\//);
     }
   });
 
@@ -110,9 +111,9 @@ test.describe('Category Page Structure — fire-and-plasma', () => {
 });
 
 test.describe('Category Page Structure — pi-and-arduino (largest)', () => {
-  test('has 20 cat-cards', async ({ page }) => {
+  test('has 20 cat-build-cards', async ({ page }) => {
     await page.goto('/categories/pi-and-arduino/');
-    await expect(page.locator('.cat-card')).toHaveCount(20);
+    await expect(page.locator('.cat-build-card')).toHaveCount(20);
   });
 
   test('loads with correct title', async ({ page }) => {
@@ -122,9 +123,9 @@ test.describe('Category Page Structure — pi-and-arduino (largest)', () => {
 });
 
 test.describe('Category Page Structure — laser-lab (smallest)', () => {
-  test('has 7 cat-cards', async ({ page }) => {
+  test('has 7 cat-build-cards', async ({ page }) => {
     await page.goto('/categories/laser-lab/');
-    await expect(page.locator('.cat-card')).toHaveCount(7);
+    await expect(page.locator('.cat-build-card')).toHaveCount(7);
   });
 });
 
@@ -142,7 +143,7 @@ test.describe('Category card counts match expected', () => {
   for (const slug of spotCheckCategories) {
     test(`${slug} has ${CATEGORY_BUILD_COUNTS[slug]} cards`, async ({ page }) => {
       await page.goto(`/categories/${slug}/`);
-      await expect(page.locator('.cat-card')).toHaveCount(CATEGORY_BUILD_COUNTS[slug]);
+      await expect(page.locator('.cat-build-card')).toHaveCount(CATEGORY_BUILD_COUNTS[slug]);
     });
   }
 });

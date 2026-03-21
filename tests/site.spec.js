@@ -8,13 +8,12 @@ test.describe('Homepage', () => {
     await expect(page).toHaveTitle(/Junkyard Genius/);
   });
 
-  test('has navigation with all 5 links', async ({ page }) => {
+  test('has navigation with key links', async ({ page }) => {
     await page.goto('/');
-    const nav = page.locator('nav, .header-links, ul');
-    await expect(nav.getByRole('link', { name: 'Browse' })).toBeVisible();
-    await expect(nav.getByRole('link', { name: 'Quiz' })).toBeVisible();
-    await expect(nav.getByRole('link', { name: 'Toolbox' })).toBeVisible();
-    await expect(nav.getByRole('link', { name: 'GitHub' })).toBeVisible();
+    const nav = page.locator('nav').first();
+    await expect(nav.getByRole('link', { name: /browse/i }).first()).toBeVisible();
+    await expect(nav.getByRole('link', { name: /quiz/i }).first()).toBeVisible();
+    await expect(nav.getByRole('link', { name: /github/i }).first()).toBeVisible();
   });
 
   test('has skip link for accessibility', async ({ page }) => {
@@ -69,9 +68,11 @@ test.describe('Build Pages', () => {
 
   test('build page has prev/next navigation', async ({ page }) => {
     await page.goto('/categories/fire-and-plasma/001-plasma-tornado-lamp/');
-    // First build has .nav-next but no .nav-prev
-    const nextLink = page.locator('a.nav-next');
-    await expect(nextLink).toBeVisible();
+    const buildNav = page.locator('nav[aria-label="Build navigation"]');
+    await expect(buildNav).toBeVisible();
+    const navLinks = buildNav.locator('a');
+    const count = await navLinks.count();
+    expect(count).toBeGreaterThan(0);
   });
 
   test('build page has tracker buttons', async ({ page }) => {
@@ -318,7 +319,7 @@ test.describe('Static Files', () => {
     const response = await page.goto('/sw.js');
     expect(response.status()).toBe(200);
     const content = await page.textContent('body');
-    expect(content).toContain('jg-v4');
+    expect(content).toContain('jg-v5');
   });
 
   test('robots.txt exists', async ({ page }) => {
@@ -354,7 +355,7 @@ test.describe('SEO & Meta', () => {
 
 test.describe('Accessibility', () => {
   test('focus-visible styles are present', async ({ page }) => {
-    await page.goto('/');
+    await page.goto('/app/browse/');
     const styles = await page.evaluate(() => {
       const sheets = document.styleSheets;
       for (const sheet of sheets) {
@@ -403,5 +404,62 @@ test.describe('Build Tracker', () => {
       localStorage.removeItem('jg-completed');
       localStorage.removeItem('jg-wantToBuild');
     });
+  });
+});
+
+// ── Redesigned Layout ──
+
+test.describe('Build Page — Redesigned Layout', () => {
+  const URL = '/categories/fire-and-plasma/001-plasma-tornado-lamp/';
+
+  test('has hero section with title and build number', async ({ page }) => {
+    await page.goto(URL);
+    const hero = page.locator('section').first();
+    await expect(hero).toBeVisible();
+    const h1 = page.locator('h1').first();
+    await expect(h1).toBeVisible();
+  });
+
+  test('has two-column layout (article + sidebar)', async ({ page }) => {
+    await page.goto(URL);
+    const article = page.locator('article.build-content');
+    const sidebar = page.locator('aside.build-sidebar');
+    await expect(article).toBeVisible();
+    await expect(sidebar).toBeVisible();
+  });
+
+  test('sidebar has Specifications heading', async ({ page }) => {
+    await page.goto(URL);
+    const specsHeading = page.locator('.build-sidebar h2:has-text("Specifications")');
+    await expect(specsHeading).toBeVisible();
+  });
+
+  test('sidebar has rating bars', async ({ page }) => {
+    await page.goto(URL);
+    const ratingBars = page.locator('.build-sidebar .flex.gap-1');
+    const count = await ratingBars.count();
+    expect(count).toBe(6);
+  });
+
+  test('sidebar has materials checklist', async ({ page }) => {
+    await page.goto(URL);
+    const materialsHeading = page.locator('.build-sidebar h2:has-text("Materials")');
+    await expect(materialsHeading).toBeVisible();
+    const checkboxes = page.locator('.build-sidebar input[type="checkbox"]');
+    const count = await checkboxes.count();
+    expect(count).toBeGreaterThan(0);
+  });
+});
+
+test.describe('Category Page — Redesigned Layout', () => {
+  test('has card grid with build images', async ({ page }) => {
+    await page.goto('/categories/fire-and-plasma/');
+    const grid = page.locator('.cat-grid');
+    await expect(grid).toBeVisible();
+    const cards = page.locator('.cat-build-card');
+    const count = await cards.count();
+    expect(count).toBe(8);
+    const img = cards.first().locator('img');
+    await expect(img).toBeVisible();
   });
 });

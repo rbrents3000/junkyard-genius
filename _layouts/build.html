@@ -1,7 +1,9 @@
 ---
 layout: default
+raw_layout: true
 ---
 
+{%- comment -%} ── JSON-LD Structured Data ── {%- endcomment -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -42,14 +44,155 @@ layout: default
 }
 </script>
 
-<nav class="text-sm mb-6 text-slate-500 py-2 px-4 bg-surface-container-low border border-outline-variant/10 rounded-md font-label tracking-wide" aria-label="Breadcrumb">
-  <a href="/" class="text-primary-container no-underline hover:text-primary">Home</a> &rsaquo;
-  <a href="/categories/{{ category }}/" class="text-primary-container no-underline hover:text-primary">{{ category_name }}</a> &rsaquo;
-  <span aria-current="page" class="text-on-surface">#{{ build_number }} {{ title }}</span>
-</nav>
+{%- comment -%} ── Hero Section ── {%- endcomment -%}
+<section class="relative overflow-hidden border-b border-outline-variant/10">
+  {%- comment -%} Background image with overlay {%- endcomment -%}
+  <div class="absolute inset-0">
+    <img src="{{ image }}" alt="" class="w-full h-full object-cover opacity-20 blur-sm" aria-hidden="true" width="1400" height="788">
+    <div class="absolute inset-0 bg-gradient-to-t from-background via-background/90 to-background/60"></div>
+  </div>
 
-{{ content }}
+  <div class="relative max-w-7xl mx-auto px-6 lg:px-12 pt-6 pb-10">
+    {%- comment -%} Breadcrumb {%- endcomment -%}
+    <nav class="text-xs mb-8 text-slate-500 font-label tracking-wide" aria-label="Breadcrumb">
+      <a href="/" class="text-primary-container no-underline hover:text-primary">Home</a>
+      <span class="mx-1">&rsaquo;</span>
+      <a href="/categories/{{ category }}/" class="text-primary-container no-underline hover:text-primary">{{ category_name }}</a>
+      <span class="mx-1">&rsaquo;</span>
+      <span aria-current="page" class="text-on-surface">#{{ build_number }}</span>
+    </nav>
 
+    <div class="flex flex-col lg:flex-row lg:items-end lg:gap-10">
+      <div class="flex-1 min-w-0">
+        {%- comment -%} Project ID badge {%- endcomment -%}
+        <span class="font-headline text-6xl xl:text-8xl font-black text-primary-container/20 tracking-tighter leading-none select-none">
+          #{% if build_number < 10 %}00{{ build_number }}{% elsif build_number < 100 %}0{{ build_number }}{% else %}{{ build_number }}{% endif %}
+        </span>
+
+        {%- comment -%} Title {%- endcomment -%}
+        <h1 class="font-headline text-4xl sm:text-5xl xl:text-7xl font-black uppercase tracking-tighter text-on-surface mt-2 mb-6 leading-[0.9]">
+          {{ title }}
+        </h1>
+
+        {%- comment -%} Quick stats {%- endcomment -%}
+        <div class="flex flex-wrap items-center gap-3 text-sm">
+          <a href="/categories/{{ category }}/" class="inline-flex items-center gap-1.5 px-3 py-1 bg-primary-container/10 border border-primary-container/20 rounded-sm text-primary-container no-underline hover:bg-primary-container/20 transition-colors font-label text-xs uppercase tracking-wider">
+            {{ category_name }}
+          </a>
+          <span class="flex items-center gap-1.5 text-slate-400">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+            Difficulty: {{ ratings.brain }}/5
+          </span>
+          <span class="flex items-center gap-1.5 text-slate-400">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+            {% case ratings.time %}{% when 1 %}~2 hrs{% when 2 %}~8 hrs{% when 3 %}~16 hrs{% when 4 %}~40 hrs{% when 5 %}~80 hrs{% endcase %}
+          </span>
+          <span class="flex items-center gap-1.5 text-slate-400">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z"/></svg>
+            Spicy: {{ ratings.spicy }}/5
+          </span>
+        </div>
+      </div>
+
+      {%- comment -%} Featured image {%- endcomment -%}
+      <div class="mt-8 lg:mt-0 lg:w-80 xl:w-96 flex-shrink-0">
+        <img src="{{ image }}" alt="{{ title }}" class="w-full rounded-sm border border-outline-variant/10 shadow-2xl" width="700" height="394">
+      </div>
+    </div>
+  </div>
+</section>
+
+{%- comment -%} ── Two-Column Layout ── {%- endcomment -%}
+<div class="flex flex-col xl:flex-row gap-8 max-w-7xl mx-auto px-6 lg:px-12 py-8">
+
+  {%- comment -%} ── Main Content ── {%- endcomment -%}
+  <article class="build-content flex-1 min-w-0 prose prose-invert prose-headings:font-headline prose-headings:uppercase prose-headings:tracking-tight prose-a:text-primary-container prose-a:no-underline hover:prose-a:text-primary prose-img:rounded-lg prose-img:shadow-lg max-w-none">
+    {{ content }}
+  </article>
+
+  {%- comment -%} ── Technical Sidebar ── {%- endcomment -%}
+  <aside class="build-sidebar w-full xl:w-80 xl:flex-shrink-0 xl:sticky xl:top-20 xl:self-start space-y-6">
+
+    {%- comment -%} Specs / Ratings Panel {%- endcomment -%}
+    <div class="bg-surface-container-low/80 backdrop-blur-xl border border-outline-variant/10 rounded-sm p-6">
+      <h2 class="font-label text-[10px] uppercase tracking-widest text-slate-500 mb-5">Specifications</h2>
+
+      <div class="space-y-4">
+        <div class="flex items-center justify-between">
+          <span class="text-sm text-on-surface">Jaw Drop</span>
+          {% ratingBar ratings.jaw, 5, "bg-[#ff6b35]" %}
+        </div>
+        <div class="flex items-center justify-between">
+          <span class="text-sm text-on-surface">Brain Melt</span>
+          {% ratingBar ratings.brain, 5, "bg-[#3b82f6]" %}
+        </div>
+        <div class="flex items-center justify-between">
+          <span class="text-sm text-on-surface">Wallet</span>
+          {% ratingBar ratings.wallet, 5, "bg-[#22c55e]" %}
+        </div>
+        <div class="flex items-center justify-between">
+          <span class="text-sm text-on-surface">Spicy</span>
+          {% ratingBar ratings.spicy, 5, "bg-[#ef4444]" %}
+        </div>
+        <div class="flex items-center justify-between">
+          <span class="text-sm text-on-surface">Clout</span>
+          {% ratingBar ratings.clout, 5, "bg-[#7c3aed]" %}
+        </div>
+        <div class="flex items-center justify-between">
+          <span class="text-sm text-on-surface">Time</span>
+          {% ratingBar ratings.time, 5, "bg-[#6b7280]" %}
+        </div>
+      </div>
+    </div>
+
+    {%- comment -%} Materials Checklist {%- endcomment -%}
+    {% if junk.size > 0 %}
+    <div class="bg-surface-container-low/80 backdrop-blur-xl border border-outline-variant/10 rounded-sm p-6">
+      <h2 class="font-label text-[10px] uppercase tracking-widest text-slate-500 mb-4">Materials</h2>
+      <ul class="space-y-2" id="materialsList">
+        {% for item in junk %}
+        <li>
+          <label class="flex items-center gap-3 text-sm text-on-surface cursor-pointer hover:text-primary-container transition-colors">
+            <input type="checkbox" class="material-checkbox accent-primary-container" data-index="{{ forloop.index0 }}">
+            {{ item }}
+          </label>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {%- comment -%} Tags {%- endcomment -%}
+    {% if tags.size > 0 %}
+    <div class="flex flex-wrap gap-2">
+      {% for tag in tags %}
+      <span class="px-2 py-0.5 text-xs font-label uppercase tracking-wider text-slate-400 bg-surface-container-low border border-outline-variant/10 rounded-sm">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {%- comment -%} Tracker Buttons {%- endcomment -%}
+    <div class="bg-surface-container-low/80 backdrop-blur-xl border border-outline-variant/10 rounded-sm p-6 space-y-3">
+      <h2 class="font-label text-[10px] uppercase tracking-widest text-slate-500 mb-3">Track This Build</h2>
+      <div class="flex flex-col gap-2" id="buildTracker">
+        <button class="tracker-btn w-full" id="completedBtn">&#9744; Mark as Completed</button>
+        <button class="tracker-btn tracker-btn-want w-full" id="wantBtn">&#128204; Want to Build</button>
+      </div>
+    </div>
+
+    {%- comment -%} Share Buttons {%- endcomment -%}
+    <div class="bg-surface-container-low/80 backdrop-blur-xl border border-outline-variant/10 rounded-sm p-6">
+      <h2 class="font-label text-[10px] uppercase tracking-widest text-slate-500 mb-3">Share</h2>
+      <div class="flex flex-wrap gap-2" id="shareButtons">
+        <button class="share-btn" id="copyLinkBtn" aria-label="Copy link">&#128279; Copy Link</button>
+        <a class="share-btn" id="shareTwitter" href="#" target="_blank" rel="noopener" aria-label="Share on X">&#120143; Post</a>
+        <a class="share-btn" id="shareReddit" href="#" target="_blank" rel="noopener" aria-label="Share on Reddit">&#128172; Reddit</a>
+      </div>
+    </div>
+  </aside>
+</div>
+
+{%- comment -%} ── Prev/Next Navigation ── {%- endcomment -%}
 {% assign prev_build = nil %}
 {% assign next_build = nil %}
 {% assign found = false %}
@@ -65,32 +208,31 @@ layout: default
   {% endunless %}
 {% endfor %}
 
-<nav class="flex justify-between mt-8 gap-3" aria-label="Build navigation">
+<nav class="flex flex-col sm:flex-row justify-between gap-4 max-w-7xl mx-auto px-6 lg:px-12 pb-12" aria-label="Build navigation">
   {% if prev_build %}
-    <a href="{{ prev_build.url }}" class="text-slate-400 text-sm max-w-[45%] py-3 px-5 bg-surface-container-low border border-outline-variant/10 rounded-lg no-underline hover:border-primary-container/50 hover:text-primary-container hover:-translate-y-0.5 transition-all">&larr; #{{ prev_build.data.build_number }} {{ prev_build.data.title }}</a>
+  <a href="{{ prev_build.url }}" class="group flex-1 p-5 bg-surface-container-low border border-outline-variant/10 rounded-sm no-underline hover:border-primary-container/30 hover:-translate-y-0.5 transition-all">
+    <span class="font-label text-[10px] uppercase tracking-widest text-slate-500 mb-1 block">Previous Build</span>
+    <span class="font-headline text-base font-bold uppercase tracking-tight text-on-surface group-hover:text-primary-container transition-colors">
+      &larr; #{{ prev_build.data.build_number }} {{ prev_build.data.title }}
+    </span>
+  </a>
   {% endif %}
   {% if next_build %}
-    <a href="{{ next_build.url }}" class="text-slate-400 text-sm max-w-[45%] py-3 px-5 bg-surface-container-low border border-outline-variant/10 rounded-lg no-underline hover:border-primary-container/50 hover:text-primary-container hover:-translate-y-0.5 transition-all text-right ml-auto">#{{ next_build.data.build_number }} {{ next_build.data.title }} &rarr;</a>
+  <a href="{{ next_build.url }}" class="group flex-1 p-5 bg-surface-container-low border border-outline-variant/10 rounded-sm no-underline hover:border-primary-container/30 hover:-translate-y-0.5 transition-all text-right">
+    <span class="font-label text-[10px] uppercase tracking-widest text-slate-500 mb-1 block">Next Build</span>
+    <span class="font-headline text-base font-bold uppercase tracking-tight text-on-surface group-hover:text-primary-container transition-colors">
+      #{{ next_build.data.build_number }} {{ next_build.data.title }} &rarr;
+    </span>
+  </a>
   {% endif %}
 </nav>
 
-<div class="flex gap-2 flex-wrap my-6" id="buildTracker">
-  <button class="tracker-btn" id="completedBtn">&#9744; Mark as Completed</button>
-  <button class="tracker-btn tracker-btn-want" id="wantBtn">&#128204; Want to Build</button>
-</div>
-
-<div class="share-buttons" id="shareButtons">
-  <span class="share-label">Share this build:</span>
-  <button class="share-btn" id="copyLinkBtn" aria-label="Copy link">&#128279; Copy Link</button>
-  <a class="share-btn" id="shareTwitter" href="#" target="_blank" rel="noopener" aria-label="Share on X">&#120143; Post</a>
-  <a class="share-btn" id="shareReddit" href="#" target="_blank" rel="noopener" aria-label="Share on Reddit">&#128172; Reddit</a>
-</div>
-
+{%- comment -%} ── JavaScript ── {%- endcomment -%}
 <script>
 (function(){
   var buildNum = {{ build_number }};
 
-  // Tracker
+  // ── LocalStorage helpers ──
   function getList(key) {
     try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { return []; }
   }
@@ -102,6 +244,8 @@ layout: default
     setList(key, list);
     return idx === -1;
   }
+
+  // ── Build Tracker ──
   function updateUI() {
     var c = getList("jg-completed"), w = getList("jg-wantToBuild");
     var cBtn = document.getElementById("completedBtn"), wBtn = document.getElementById("wantBtn");
@@ -120,7 +264,7 @@ layout: default
   document.getElementById("wantBtn").addEventListener("click", function(){ var added = toggle("jg-wantToBuild", buildNum); updateUI(); if(typeof gtag==='function') gtag('event', added ? 'build_wanted' : 'build_unwanted', {build_number: buildNum}); });
   updateUI();
 
-  // Share buttons
+  // ── Share Buttons ──
   var url = window.location.href;
   var text = "#{{ build_number }} {{ title }} — Junkyard Genius";
   document.getElementById("shareTwitter").href = "https://x.com/intent/tweet?text=" + encodeURIComponent(text) + "&url=" + encodeURIComponent(url);
@@ -138,7 +282,32 @@ layout: default
       setTimeout(function(){ btn.innerHTML = "&#128279; Copy Link"; }, 2000);
     });
   });
-  // Scroll depth tracking
+
+  // ── Materials Checkbox Persistence ──
+  var materialsKey = 'jg-materials-' + buildNum;
+  document.querySelectorAll('.material-checkbox').forEach(function(cb) {
+    var idx = parseInt(cb.getAttribute('data-index'), 10);
+    var saved = getList(materialsKey);
+    cb.checked = saved.indexOf(idx) !== -1;
+    cb.addEventListener('change', function() {
+      var list = getList(materialsKey);
+      var pos = list.indexOf(idx);
+      if (this.checked && pos === -1) list.push(idx);
+      if (!this.checked && pos !== -1) list.splice(pos, 1);
+      setList(materialsKey, list);
+    });
+  });
+
+  // ── Caution Admonition Transform ──
+  document.querySelectorAll('.build-content blockquote').forEach(function(bq) {
+    var html = bq.innerHTML;
+    if (html.indexOf('[!CAUTION]') !== -1) {
+      bq.classList.add('build-caution');
+      bq.innerHTML = html.replace(/\[!CAUTION\]\s*<br\s*\/?>/gi, '').replace('[!CAUTION]', '');
+    }
+  });
+
+  // ── Scroll Depth Tracking ──
   var firedDepth = {};
   var scrollTicking = false;
   window.addEventListener('scroll', function(){

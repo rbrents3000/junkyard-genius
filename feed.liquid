@@ -1,0 +1,24 @@
+---
+permalink: /feed.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title }}</title>
+    <link>{{ site.url }}</link>
+    <description>{{ site.description }}</description>
+    <language>{{ site.lang }}</language>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml"/>
+    {%- assign recent = collections.builds | reverse -%}
+    {%- for build in recent limit: 20 %}
+    <item>
+      <title>#{{ build.data.build_number }} — {{ build.data.title }}</title>
+      <link>{{ site.url }}{{ build.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ build.url }}</guid>
+      <description>{{ build.data.description | xml_escape }}</description>
+      <category>{{ build.data.category_name | xml_escape }}</category>
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>

@@ -13,14 +13,13 @@ test.describe('Category Card Links', () => {
   for (const catUrl of categories) {
     test(`all card links on ${catUrl} resolve`, async ({ page, request }) => {
       await page.goto(catUrl);
-      const hrefs = await page.locator('.cat-card').evaluateAll(cards =>
+      const hrefs = await page.locator('.cat-build-card').evaluateAll(cards =>
         cards.map(c => c.getAttribute('href'))
       );
       expect(hrefs.length).toBeGreaterThan(0);
       for (const href of hrefs) {
-        const fullUrl = new URL(href, page.url()).pathname;
-        const resp = await request.get(fullUrl);
-        expect(resp.status(), `Link ${fullUrl} should resolve`).toBe(200);
+        const resp = await request.get(href);
+        expect(resp.status(), `Link ${href} should resolve`).toBe(200);
       }
     });
   }
@@ -60,7 +59,7 @@ test.describe('Build Page Links', () => {
 
   test('breadcrumb links resolve', async ({ page, request }) => {
     await page.goto(SAMPLE_BUILDS[0]);
-    const links = await page.locator('.breadcrumb a').evaluateAll(els =>
+    const links = await page.locator('nav[aria-label*="readcrumb"] a').evaluateAll(els =>
       els.map(a => a.getAttribute('href'))
     );
     for (const href of links) {
@@ -72,20 +71,21 @@ test.describe('Build Page Links', () => {
   test('prev/next navigation links resolve', async ({ page, request }) => {
     // First build — should have next
     await page.goto(SAMPLE_BUILDS[0]);
-    const nextLink = page.locator('a.nav-next');
-    if (await nextLink.count() > 0) {
-      const nextHref = await nextLink.getAttribute('href');
-      const resp = await request.get(nextHref);
-      expect(resp.status(), `Next link ${nextHref}`).toBe(200);
+    const buildNav = page.locator('nav[aria-label="Build navigation"] a');
+    const navLinks = await buildNav.all();
+    for (const link of navLinks) {
+      const href = await link.getAttribute('href');
+      const resp = await request.get(href);
+      expect(resp.status(), `Nav link ${href}`).toBe(200);
     }
 
-    // Last build — should have prev (prev link has no class, it's the first <a> in .build-nav)
+    // Last build — should have prev
     await page.goto(SAMPLE_BUILDS[4]);
-    const prevLink = page.locator('.build-nav a:not(.nav-next)');
-    if (await prevLink.count() > 0) {
-      const prevHref = await prevLink.first().getAttribute('href');
-      const resp = await request.get(prevHref);
-      expect(resp.status(), `Prev link ${prevHref}`).toBe(200);
+    const lastNavLinks = await page.locator('nav[aria-label="Build navigation"] a').all();
+    for (const link of lastNavLinks) {
+      const href = await link.getAttribute('href');
+      const resp = await request.get(href);
+      expect(resp.status(), `Nav link ${href}`).toBe(200);
     }
   });
 });
@@ -95,7 +95,7 @@ test.describe('Build Page Links', () => {
 test.describe('Navigation Links', () => {
   test('all nav links resolve', async ({ page, request }) => {
     await page.goto('/');
-    const links = await page.locator('#header nav a').evaluateAll(els =>
+    const links = await page.locator('nav a').evaluateAll(els =>
       els.map(a => a.getAttribute('href')).filter(h => h && h.startsWith('/'))
     );
     for (const href of links) {

@@ -160,6 +160,180 @@ input[type="checkbox"] {
   background: rgba(255,107,53,0.12);
 }
 
+/* ── Build Detail Page: Prose Overrides ── */
+
+/* Hide duplicate content rendered in hero/sidebar */
+.build-content > h1:first-child {
+  display: none;
+}
+.build-content > h1:first-child + p {
+  display: none;
+}
+.build-content > h1:first-child + p + blockquote {
+  display: none;
+}
+.build-content h2#ratings,
+.build-content h2#ratings + p {
+  display: none;
+}
+.build-content p:has(> img[src*="shields.io"]) {
+  display: none;
+}
+
+/* Numbered build steps — vertical connector + step circles */
+.build-content ol {
+  list-style: none;
+  padding-left: 0;
+  counter-reset: build-step;
+}
+.build-content ol > li {
+  counter-increment: build-step;
+  position: relative;
+  padding-left: 3.5rem;
+  padding-bottom: 2rem;
+  border-left: 2px solid var(--color-outline-variant);
+  margin-left: 1rem;
+}
+.build-content ol > li::before {
+  content: counter(build-step);
+  position: absolute;
+  left: calc(-1rem - 1px);
+  top: 0.125rem;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: var(--color-surface-container-high);
+  border: 2px solid var(--color-primary-container);
+  color: var(--color-primary-container);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
+  font-size: 0.75rem;
+}
+.build-content ol > li:last-child {
+  border-left-color: transparent;
+  padding-bottom: 0;
+}
+
+/* Safety / Caution callouts — red accent */
+.build-content blockquote.build-caution {
+  border-left: 4px solid var(--color-error);
+  background: rgba(147, 0, 10, 0.12);
+  padding: 1rem 1.5rem;
+  border-radius: 0 0.25rem 0.25rem 0;
+  position: relative;
+}
+.build-content blockquote.build-caution::before {
+  content: "\26A0";
+  position: absolute;
+  top: 1rem;
+  left: -0.75rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  background: var(--color-error-container);
+  color: var(--color-on-error-container);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  animation: cautionPulse 2s ease-in-out infinite;
+}
+@keyframes cautionPulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+/* General blockquotes — blue pro-tip style */
+.build-content blockquote:not(.build-caution) {
+  border-left: 4px solid var(--color-secondary-container);
+  background: rgba(0, 97, 183, 0.08);
+  padding: 1rem 1.5rem;
+  border-radius: 0 0.25rem 0.25rem 0;
+  font-style: italic;
+}
+
+/* Details/summary (ingredients) — glassmorphic card */
+.build-content details {
+  background: var(--color-surface-container-low);
+  border: 1px solid var(--color-outline-variant);
+  border-radius: 0.25rem;
+  padding: 0;
+  margin: 1.5rem 0;
+}
+.build-content details summary {
+  cursor: pointer;
+  padding: 1rem 1.5rem;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  list-style: none;
+}
+.build-content details summary::-webkit-details-marker {
+  display: none;
+}
+.build-content details summary::before {
+  content: "\25B6";
+  display: inline-block;
+  margin-right: 0.5rem;
+  font-size: 0.65rem;
+  transition: transform 0.2s;
+}
+.build-content details[open] summary::before {
+  transform: rotate(90deg);
+}
+.build-content details[open] summary {
+  border-bottom: 1px solid var(--color-outline-variant);
+}
+.build-content details > ul,
+.build-content details > div {
+  padding: 1rem 1.5rem;
+}
+
+/* ── Category Page: Card Grid ── */
+
+.cat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.cat-build-card {
+  background: var(--color-surface-container-low);
+  border: 1px solid var(--color-outline-variant);
+  border-radius: 0.25rem;
+  overflow: hidden;
+  transition: all 0.2s ease;
+  color: inherit;
+  display: block;
+}
+
+.cat-build-card:hover {
+  border-color: var(--color-primary-container);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+/* Hide duplicate content in category prose */
+.category-content > h1:first-child {
+  display: none;
+}
+.category-content > h1:first-child + p {
+  display: none;
+}
+.category-content > h1:first-child + p + p {
+  display: none;
+}
+.category-content > h1:first-child + p + p + blockquote {
+  display: none;
+}
+.category-content p:has(> img[src*="shields.io"]) {
+  display: none;
+}
+
 /* ── Print stylesheet ── */
 @media print {
   nav, aside, footer, .share-buttons, .build-tracker { display: none !important; }

@@ -11,6 +11,22 @@ module.exports = function(eleventyConfig) {
       .sort((a, b) => a.data.build_number - b.data.build_number);
   });
 
+  // Rating bar shortcode for build detail pages
+  eleventyConfig.addShortcode("ratingBar", function(value, max, colorClass) {
+    let html = '<div class="flex gap-1">';
+    for (let i = 1; i <= max; i++) {
+      html += i <= value
+        ? `<span class="w-6 h-2 rounded-sm ${colorClass}"></span>`
+        : '<span class="w-6 h-2 rounded-sm bg-surface-container-highest"></span>';
+    }
+    return html + '</div>';
+  });
+
+  // Filter builds by category slug
+  eleventyConfig.addFilter("buildsByCategory", function(builds, categorySlug) {
+    return builds.filter(b => b.data.category === categorySlug);
+  });
+
   // Watch Tailwind source for live reload
   eleventyConfig.addWatchTarget("./src/styles/");
 

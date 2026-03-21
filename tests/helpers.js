@@ -55,11 +55,11 @@ const CATEGORY_BUILD_COUNTS = {
 
 // Design system expected RGB values
 const DESIGN_TOKENS = {
-  bg: 'rgb(10, 10, 15)',
-  card: 'rgb(19, 20, 28)',
-  border: 'rgb(30, 32, 48)',
+  bg: 'rgb(19, 19, 24)',
+  card: 'rgb(27, 27, 32)',
+  border: 'rgb(89, 65, 57)',
   orange: 'rgb(255, 107, 53)',
-  text: 'rgb(234, 237, 243)',
+  text: 'rgb(228, 225, 233)',
 };
 
 // Diverse sample builds for spot-checking

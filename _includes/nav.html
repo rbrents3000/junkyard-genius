@@ -17,14 +17,17 @@
     <!-- Right Side -->
     <div class="flex items-center gap-4">
       <!-- Search (desktop only) -->
-      <div class="relative hidden sm:block">
-        <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-500 text-sm">search</span>
+      <form action="/app/browse/" method="get" class="relative hidden sm:block">
+        <span class="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-slate-500 text-sm" aria-hidden="true">search</span>
         <input
           class="bg-surface-container-lowest border border-outline-variant/20 text-xs font-label py-2 pl-10 pr-4 w-48 focus:ring-1 focus:ring-secondary focus:outline-none rounded-sm text-on-surface"
           placeholder="SEARCH_BUILDS..."
           type="text"
+          name="q"
+          id="globalSearch"
+          aria-label="Search builds"
         />
-      </div>
+      </form>
       <!-- GitHub -->
       <a href="{{ site.repo }}" class="text-slate-400 hover:text-primary-container transition-colors duration-200 no-underline" aria-label="GitHub">
         <span class="material-symbols-outlined">code</span>
