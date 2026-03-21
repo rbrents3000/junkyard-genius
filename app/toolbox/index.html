@@ -1,30 +1,12 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-N99TTDGHKG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-N99TTDGHKG');
-</script>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>My Toolbox — Junkyard Genius</title>
-<meta name="description" content="Track your completed builds and want-to-build list. Your personal Junkyard Genius dashboard.">
-<meta property="og:title" content="My Toolbox — Junkyard Genius">
-<meta property="og:description" content="Track your completed builds and want-to-build list.">
-<meta property="og:image" content="https://junkyard.build/images/og-social.jpg">
-<meta property="og:type" content="website">
-<meta name="robots" content="noindex, nofollow">
-<link rel="canonical" href="https://junkyard.build/app/toolbox/">
-<link rel="icon" type="image/png" href="../../images/favicon.png">
-<link rel="apple-touch-icon" href="../../images/apple-touch-icon.png">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../shared.css">
+---
+layout: default
+raw_layout: true
+title: "My Toolbox — Junkyard Genius"
+description: "Track your completed builds and want-to-build list. Your personal Junkyard Genius dashboard."
+image: /images/og-social.jpg
+robots: "noindex, nofollow"
+---
+<link rel="stylesheet" href="/app/shared.css">
 <style>
 /* ── Builder Profile Header ── */
 .profile-header {
@@ -228,13 +210,6 @@
   text-decoration: none;
 }
 
-.footer {
-  text-align: center;
-  padding: 40px 0 24px;
-  font-size: 0.75rem;
-  color: var(--text-dim);
-}
-
 @media (max-width: 600px) {
   .stats { grid-template-columns: repeat(2, 1fr); }
   .build-grid { grid-template-columns: 1fr; }
@@ -242,21 +217,6 @@
   .profile-name { font-size: 1.5rem; }
 }
 </style>
-</head>
-<body>
-
-<div class="header">
-  <div class="header-inner">
-    <h1>&#129520; <span class="grad">My Toolbox</span></h1>
-    <div class="header-links">
-      <a href="../../">Home</a>
-      <a href="../browse/">Browse</a>
-      <a href="../quiz/">Quiz</a>
-      <a href="./">Toolbox</a>
-      <a href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">GitHub</a>
-    </div>
-  </div>
-</div>
 
 <div class="container">
   <div class="profile-header">
@@ -277,14 +237,11 @@
     <div class="icon">&#128736;</div>
     <h3 id="emptyTitle">No builds tracked yet</h3>
     <p id="emptyText">Mark builds as completed or "want to build" from any build page.</p>
-    <a class="cta" href="../browse/">Browse All Builds</a>
-  </div>
-  <div class="footer">
-    <a href="../../">Junkyard Genius</a> &mdash; <span id="footerStats">338 builds &middot; 33 categories</span> &middot; zero excuses &middot; <a href="../../privacy/">Privacy</a>
+    <a class="cta" href="/app/browse/">Browse All Builds</a>
   </div>
 </div>
 
-<script src="../quiz/build-data.js" defer></script>
+<script src="/app/quiz/build-data.js" defer></script>
 <script>
 document.addEventListener('DOMContentLoaded', function(){
   // Guard against build-data.js load failure
@@ -313,7 +270,7 @@ document.addEventListener('DOMContentLoaded', function(){
   }
 
   function buildUrl(build) {
-    return "../../categories/" + build.category + "/" + build.slug;
+    return "/categories/" + build.category + "/" + build.slug;
   }
 
   function ratingBar(label, value, cls) {
@@ -456,5 +413,3 @@ document.addEventListener('DOMContentLoaded', function(){
   render();
 });
 </script>
-</body>
-</html>

@@ -1,34 +1,11 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-N99TTDGHKG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-N99TTDGHKG');
-</script>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Build Finder Quiz — Junkyard Genius</title>
-<meta name="description" content="Answer 6 questions. We'll match you with the perfect DIY build from 338 salvaged-parts projects.">
-<meta property="og:title" content="Junkyard Genius Build Finder Quiz">
-<meta property="og:description" content="338 DIY builds from salvaged junk. Take the quiz to find your perfect project.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://junkyard.build/app/quiz/">
-<meta property="og:image" content="https://junkyard.build/images/og-quiz.jpg">
-<link rel="canonical" href="https://junkyard.build/app/quiz/">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Junkyard Genius Build Finder Quiz">
-<meta name="twitter:description" content="338 DIY builds from salvaged junk. Take the quiz to find your perfect project.">
-<meta name="twitter:image" content="https://junkyard.build/images/og-quiz.jpg">
-<link rel="icon" type="image/png" href="../../images/favicon.png">
-<link rel="apple-touch-icon" href="../../images/apple-touch-icon.png">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../shared.css">
+---
+layout: default
+raw_layout: true
+title: "Build Finder Quiz — Junkyard Genius"
+description: "Answer 6 questions. We'll match you with the perfect DIY build from 338 salvaged-parts projects."
+image: /images/og-quiz.jpg
+---
+<link rel="stylesheet" href="/app/shared.css">
 <style>
 /* ── Step indicators ── */
 .steps-bar{
@@ -256,18 +233,18 @@
 
 .result-top{display:flex;align-items:center;gap:14px;margin-bottom:14px}
 .result-rank{
-  width:36px;height:36px;border-radius:10px;
+  width:36px;height:36px;border-radius:var(--radius);
   background:linear-gradient(135deg,var(--orange),var(--purple));
   color:#fff;font-weight:800;font-size:0.9rem;
   display:flex;align-items:center;justify-content:center;flex-shrink:0;
 }
-.result-rank.gold{background:linear-gradient(135deg,#fbbf24,#f59e0b);box-shadow:0 2px 12px rgba(251,191,36,0.3)}
+.result-rank.gold{background:linear-gradient(135deg,var(--orange),#ff6b35);box-shadow:0 2px 12px rgba(255,107,53,0.3)}
 .result-name{font-size:1.15rem;font-weight:700;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .result-num{color:var(--text-muted);font-size:0.8rem;font-weight:600}
 
 .result-category{
   display:inline-block;
-  background:var(--bg);border:1px solid var(--border);border-radius:20px;
+  background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);
   padding:4px 14px;font-size:0.72rem;font-weight:600;color:var(--text-dim);
   margin-bottom:14px;letter-spacing:0.02em;
 }
@@ -366,20 +343,7 @@
   .step-label{display:none}
 }
 </style>
-</head>
-<body>
 
-<div class="header" id="quizHeader" style="position:static">
-  <div class="header-inner">
-    <h1>&#9889; <span class="grad">Build Finder Quiz</span></h1>
-    <div class="header-links">
-      <a href="../../">Home</a>
-      <a href="../browse/">Browse</a>
-      <a href="./">Quiz</a>
-      <a href="../toolbox/">Toolbox</a>
-      <a href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">GitHub</a>
-    </div>
-  </div>
 </div>
 
 <!-- Step indicators -->
@@ -429,20 +393,17 @@
 
     <div class="results-actions">
       <button class="btn btn-primary" onclick="retakeQuiz()">&#8635; Retake Quiz</button>
-      <a class="btn btn-secondary" href="../browse/">&#128269; Browse All Builds</a>
+      <a class="btn btn-secondary" href="/app/browse/">&#128269; Browse All Builds</a>
       <a class="btn btn-secondary" href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">&#8592; Back to Repo</a>
     </div>
   </div>
 
-  <div class="quiz-footer">
-    <a href="https://github.com/rbrents3000/junkyard-genius">Junkyard Genius</a> &mdash; 338 builds &middot; 33 categories &middot; zero excuses &middot; <a href="../../privacy/">Privacy</a>
-  </div>
 </div>
 
 <canvas class="celebration" id="confetti"></canvas>
 
 <!-- Build data -->
-<script src="build-data.js" defer></script>
+<script src="/app/quiz/build-data.js" defer></script>
 
 <script>
 document.addEventListener('DOMContentLoaded', function(){
@@ -540,7 +501,6 @@ var quizStarted = false;
 window.startQuiz = function() {
   quizStarted = true;
   if(typeof gtag==='function') gtag('event', 'quiz_start');
-  document.getElementById("quizHeader").style.display = "none";
   document.getElementById("welcomeScreen").style.display = "none";
   document.getElementById("questionsWrap").style.display = "block";
   document.getElementById("stepsBar").style.display = "block";
@@ -739,7 +699,7 @@ function getMatchReason(build, vibeTags, junkItems) {
 }
 
 function buildGitHubUrl(build) {
-  return "../../categories/" + build.category + "/" + build.slug;
+  return "/categories/" + build.category + "/" + build.slug;
 }
 
 function ratingBar(label, value, cls) {
@@ -841,7 +801,6 @@ window.retakeQuiz = function() {
   document.getElementById("results").classList.remove("active");
   document.getElementById("questionsWrap").style.display = "none";
   document.getElementById("stepsBar").style.display = "none";
-  document.getElementById("quizHeader").style.display = "";
   document.getElementById("welcomeScreen").style.display = "";
 
   window.scrollTo({ top: 0, behavior: "smooth" });
@@ -957,5 +916,3 @@ document.addEventListener("keydown", function(e) {
 
 });
 </script>
-</body>
-</html>

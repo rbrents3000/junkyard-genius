@@ -182,10 +182,10 @@ test.describe('Quiz Page', () => {
     await expect(startBtn).toBeVisible();
   });
 
-  test('has header visible before quiz starts', async ({ page }) => {
+  test('has site navigation visible before quiz starts', async ({ page }) => {
     await page.goto('/app/quiz/');
-    const header = page.locator('#quizHeader, .header');
-    await expect(header.first()).toBeVisible();
+    const nav = page.locator('nav').first();
+    await expect(nav).toBeVisible();
   });
 
   test('quiz starts and shows first question', async ({ page }) => {

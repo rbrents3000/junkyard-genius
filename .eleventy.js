@@ -41,7 +41,8 @@ module.exports = function(eleventyConfig) {
 
   // Pass through static assets
   eleventyConfig.addPassthroughCopy("images");
-  eleventyConfig.addPassthroughCopy("app");
+  eleventyConfig.addPassthroughCopy("app/shared.css");
+  eleventyConfig.addPassthroughCopy("app/quiz/build-data.js");
   eleventyConfig.addPassthroughCopy({"public": "/"});
 
   // Add loading="lazy" to all images for performance

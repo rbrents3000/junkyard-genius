@@ -3,13 +3,7 @@
    Material Design 3 · Dark Theme
    ══════════════════════════════════════ */
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
+/* Reset removed — Tailwind preflight handles this when pages use the layout system */
 
 :root {
   --bg: #131318;
@@ -34,19 +28,7 @@
   --radius-xs: 0.125rem;
 }
 
-html {
-  font-size: 16px;
-  -webkit-text-size-adjust: 100%;
-}
-
-body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
-  line-height: 1.6;
-  min-height: 100vh;
-  overflow-x: hidden;
-}
+/* html/body styles removed — handled by Tailwind + default layout */
 
 /* ── Headline font ── */
 h1, h2, h3, .font-headline {
@@ -55,80 +37,9 @@ h1, h2, h3, .font-headline {
   letter-spacing: -0.02em;
 }
 
-/* ── Ambient background ── */
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  pointer-events: none;
-  background:
-    radial-gradient(ellipse 80% 50% at 50% -20%, rgba(255, 107, 53, 0.05), transparent),
-    radial-gradient(ellipse 60% 40% at 80% 90%, rgba(124, 58, 237, 0.03), transparent);
-}
+/* Ambient background removed — handled by layout */
 
-a {
-  color: var(--orange);
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* ── Header ── */
-.header {
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  background: rgba(19, 19, 24, 0.80);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
-  border-bottom: 1px solid var(--border);
-  padding: 16px 24px;
-}
-
-.header-inner {
-  max-width: 1100px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 16px;
-}
-
-.header h1 {
-  font-size: 1.1rem;
-  font-weight: 800;
-  letter-spacing: 0.08em;
-  white-space: nowrap;
-}
-
-.header h1 .grad {
-  background: linear-gradient(135deg, var(--orange), var(--purple));
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-
-.header-links {
-  display: flex;
-  gap: 16px;
-  font-size: 0.75rem;
-  font-weight: 600;
-  font-family: 'Space Grotesk', sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-}
-
-.header-links a {
-  color: var(--text-dim);
-}
-
-.header-links a:hover {
-  color: var(--orange);
-  text-decoration: none;
-}
+/* Header/nav/link styles removed — handled by site nav and Tailwind */
 
 /* ── Container ── */
 .container {
@@ -274,15 +185,4 @@ a:hover {
   outline-offset: 2px;
 }
 
-/* ── Custom scrollbar ── */
-::-webkit-scrollbar { width: 4px; }
-::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: #35343a; border-radius: 2px; }
-
-/* ── Responsive ── */
-@media (max-width: 600px) {
-  .header-inner {
-    flex-direction: column;
-    gap: 8px;
-  }
-}
+/* Scrollbar and header responsive removed — handled by layout */

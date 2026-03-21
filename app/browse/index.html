@@ -1,34 +1,12 @@
-<!DOCTYPE html>
-<html lang="en-US">
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-N99TTDGHKG"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-N99TTDGHKG');
-</script>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Browse All Builds — Junkyard Genius</title>
-<meta name="description" content="Search, filter, and sort all 338 DIY builds from salvaged parts. Find your next project by category, difficulty, danger level, or junk source.">
-<meta property="og:title" content="Browse All Builds — Junkyard Genius">
-<meta property="og:description" content="338 DIY builds from salvaged junk. Search, filter, and sort to find your next project.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://junkyard.build/app/browse/">
-<meta property="og:image" content="https://junkyard.build/images/og-social.jpg">
-<link rel="canonical" href="https://junkyard.build/app/browse/">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Browse All Builds — Junkyard Genius">
-<meta name="twitter:description" content="338 DIY builds from salvaged junk. Search, filter, and sort to find your next project.">
-<meta name="twitter:image" content="https://junkyard.build/images/og-social.jpg">
-<link rel="icon" type="image/png" href="../../images/favicon.png">
-<link rel="apple-touch-icon" href="../../images/apple-touch-icon.png">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../shared.css">
+---
+layout: default
+raw_layout: true
+title: "Browse All Builds — Junkyard Genius"
+description: "Search, filter, and sort all 338 DIY builds from salvaged parts. Find your next project by category, difficulty, danger level, or junk source."
+image: /images/og-social.jpg
+---
+
+<link rel="stylesheet" href="/app/shared.css">
 <style>
 /* ── Filters bar ── */
 .filters{
@@ -37,7 +15,7 @@
 }
 .search-box{
   flex:1;min-width:200px;
-  background:var(--card);border:1.5px solid var(--border);border-radius:var(--radius-sm);
+  background:var(--card);border:1.5px solid var(--border);border-radius:var(--radius);
   padding:12px 16px;color:var(--text);font-family:inherit;font-size:0.95rem;
   transition:border-color 0.2s;
 }
@@ -45,7 +23,7 @@
 .search-box::placeholder{color:var(--text-muted)}
 
 select.filter-select{
-  background:var(--card);border:1.5px solid var(--border);border-radius:var(--radius-sm);
+  background:var(--card);border:1.5px solid var(--border);border-radius:var(--radius);
   padding:12px 16px;color:var(--text);font-family:inherit;font-size:0.85rem;
   cursor:pointer;transition:border-color 0.2s;appearance:none;
   background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%237a7f93' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
@@ -74,26 +52,26 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
 .result-count{font-size:0.85rem;color:var(--text-dim);font-weight:600}
 .sort-pills{display:flex;gap:6px;flex-wrap:wrap}
 .sort-pill{
-  padding:10px 14px;border-radius:20px;border:1px solid var(--border);
+  padding:10px 14px;border-radius:var(--radius);border:1px solid var(--border);
   background:var(--card);color:var(--text-dim);font-size:0.72rem;font-weight:600;
   cursor:pointer;transition:all 0.2s;letter-spacing:0.02em;text-transform:uppercase;
-  font-family:inherit;min-height:44px;display:inline-flex;align-items:center;
+  font-family:'Space Grotesk',sans-serif;min-height:44px;display:inline-flex;align-items:center;
 }
 .sort-pill:hover{border-color:var(--border-hover);color:var(--text)}
 .sort-pill.active{border-color:var(--orange);color:var(--orange);background:var(--orange-glow)}
 
 /* ── Random button ── */
 .random-btn{
-  padding:10px 20px;border-radius:var(--radius-sm);border:none;
+  padding:10px 20px;border-radius:var(--radius);border:none;
   background:linear-gradient(135deg,var(--orange),#e04d18);color:#fff;
-  font-family:inherit;font-size:0.85rem;font-weight:700;cursor:pointer;
-  transition:all 0.2s;white-space:nowrap;
+  font-family:'Space Grotesk',sans-serif;font-size:0.85rem;font-weight:700;cursor:pointer;
+  transition:all 0.2s;white-space:nowrap;text-transform:uppercase;letter-spacing:0.04em;
 }
 .random-btn:hover{transform:translateY(-1px);box-shadow:0 4px 16px rgba(255,107,53,0.3)}
 
 /* ── Build of the Day ── */
 .botd-card{
-  background:linear-gradient(135deg,rgba(255,107,53,0.06),rgba(148,102,255,0.06));
+  background:linear-gradient(135deg,rgba(255,107,53,0.06),rgba(124,58,237,0.06));
   border:1.5px solid var(--orange);border-radius:var(--radius);
   padding:4px 4px 4px 20px;margin-bottom:20px;
   display:flex;align-items:center;gap:16px;
@@ -103,24 +81,25 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
   font-size:0.72rem;font-weight:700;color:var(--orange);
   text-transform:uppercase;letter-spacing:0.08em;
   writing-mode:vertical-lr;transform:rotate(180deg);
+  font-family:'Space Grotesk',sans-serif;
 }
 
 /* ── Tracker badges on cards ── */
 .card-badge{
-  font-size:0.65rem;font-weight:700;padding:2px 8px;border-radius:10px;
+  font-size:0.65rem;font-weight:700;padding:2px 8px;border-radius:var(--radius);
   margin-left:auto;white-space:nowrap;
 }
-.card-badge.completed{color:var(--green);background:rgba(61,214,140,0.1);border:1px solid rgba(61,214,140,0.3)}
+.card-badge.completed{color:var(--green);background:rgba(34,197,94,0.1);border:1px solid rgba(34,197,94,0.3)}
 .card-badge.want{color:var(--orange);background:var(--orange-glow);border:1px solid rgba(255,107,53,0.3)}
 
 /* ── My Builds filter ── */
 .filter-toggle{
-  padding:8px 16px;border-radius:var(--radius-sm);
+  padding:8px 16px;border-radius:var(--radius);
   border:1.5px solid var(--border);background:var(--card);
-  color:var(--text-dim);font-family:inherit;font-size:0.85rem;font-weight:600;
-  cursor:pointer;transition:all 0.2s;white-space:nowrap;
+  color:var(--text-dim);font-family:'Space Grotesk',sans-serif;font-size:0.85rem;font-weight:600;
+  cursor:pointer;transition:all 0.2s;white-space:nowrap;text-transform:uppercase;letter-spacing:0.04em;
 }
-.filter-toggle.active{border-color:var(--green);color:var(--green);background:rgba(61,214,140,0.08)}
+.filter-toggle.active{border-color:var(--green);color:var(--green);background:rgba(34,197,94,0.08)}
 .filter-toggle:hover{border-color:var(--border-hover)}
 
 /* ── No results ── */
@@ -130,11 +109,6 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
 .no-results .icon{font-size:3rem;margin-bottom:16px}
 .no-results h3{font-size:1.3rem;font-weight:700;margin-bottom:8px}
 .no-results p{color:var(--text-dim);font-size:0.95rem}
-
-/* ── Footer ── */
-.browse-footer{
-  text-align:center;padding:40px 0 24px;font-size:0.75rem;color:var(--text-muted);
-}
 
 /* ── Mobile ── */
 @media(max-width:600px){
@@ -146,21 +120,6 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
   .sort-bar{flex-direction:column;align-items:flex-start}
 }
 </style>
-</head>
-<body>
-
-<div class="header">
-  <div class="header-inner">
-    <h1>&#128295; <span class="grad">Browse All Builds</span></h1>
-    <div class="header-links">
-      <a href="../../">Home</a>
-      <a href="./">Browse</a>
-      <a href="../quiz/">Quiz</a>
-      <a href="../toolbox/">Toolbox</a>
-      <a href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">GitHub</a>
-    </div>
-  </div>
-</div>
 
 <div class="container">
   <!-- Build of the Day -->
@@ -213,14 +172,10 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
     <p>Try loosening up your search or clearing some filters.</p>
     <button class="random-btn" style="margin-top:16px" id="clearFiltersBtn">Clear All Filters</button>
   </div>
-
-  <div class="browse-footer">
-    <a href="../../">Junkyard Genius</a> &mdash; <span id="footerStats">338 builds &middot; 33 categories</span> &middot; zero excuses &middot; <a href="../../privacy/">Privacy</a>
-  </div>
 </div>
 
 <!-- Build data (shared with quiz) -->
-<script src="../quiz/build-data.js" defer></script>
+<script src="/app/quiz/build-data.js" defer></script>
 <script>
 document.addEventListener('DOMContentLoaded', function(){
   // Guard against build-data.js load failure
@@ -229,16 +184,10 @@ document.addEventListener('DOMContentLoaded', function(){
     return;
   }
 
-  // Dynamic footer counts
-  var cats = {};
-  BUILDS.forEach(function(b){ cats[b.category] = 1; });
-  var fs = document.getElementById("footerStats");
-  if (fs) fs.textContent = BUILDS.length + " builds \u00b7 " + Object.keys(cats).length + " categories";
-
   // Random redirect check (before anything renders)
   if (window.location.search.indexOf("random=1") !== -1) {
     var idx = Math.floor(Math.random() * BUILDS.length);
-    window.location.replace("../../categories/" + BUILDS[idx].category + "/" + BUILDS[idx].slug);
+    window.location.replace("/categories/" + BUILDS[idx].category + "/" + BUILDS[idx].slug + "/");
     return;
   }
 
@@ -311,7 +260,7 @@ document.addEventListener('DOMContentLoaded', function(){
   });
 
   function buildUrl(build){
-    return "../../categories/" + build.category + "/" + build.slug;
+    return "/categories/" + build.category + "/" + build.slug + "/";
   }
 
   function ratingBar(label, value, cls){
@@ -422,7 +371,7 @@ document.addEventListener('DOMContentLoaded', function(){
         sortAsc = !sortAsc;
       } else {
         currentSort = newSort;
-        sortAsc = newSort === "num"; // ascending for number, descending for ratings
+        sortAsc = newSort === "num";
       }
       sortPills.forEach(function(p){
         p.classList.remove("active");
@@ -476,5 +425,3 @@ document.addEventListener('DOMContentLoaded', function(){
   searchBox.focus();
 });
 </script>
-</body>
-</html>
