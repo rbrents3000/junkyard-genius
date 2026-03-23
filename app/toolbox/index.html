@@ -195,7 +195,7 @@ robots: "noindex, nofollow"
   display: inline-block;
   padding: 12px 24px;
   border-radius: var(--radius);
-  background: linear-gradient(135deg, var(--orange), #e04d18);
+  background: linear-gradient(135deg, var(--orange), var(--orange-dark));
   color: #fff;
   font-weight: 700;
   font-size: 0.95rem;
@@ -270,7 +270,7 @@ document.addEventListener('DOMContentLoaded', function(){
   }
 
   function buildUrl(build) {
-    return "/categories/" + build.category + "/" + build.slug;
+    return "/categories/" + build.category + "/" + build.slug + "/";
   }
 
   function ratingBar(label, value, cls) {

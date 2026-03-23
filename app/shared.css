@@ -11,10 +11,10 @@
   --card: #1b1b20;
   --card-hover: #2a292f;
   --card-active: #35343a;
-  --border: #594139;
-  --border-hover: #a98a80;
+  --border: #35343a;
+  --border-hover: #594139;
   --text: #e4e1e9;
-  --text-dim: #7a7f93;
+  --text-dim: #c6c4ce;
   --text-muted: #594139;
   --orange: #ff6b35;
   --orange-glow: rgba(255, 107, 53, 0.12);
@@ -23,9 +23,10 @@
   --purple: #7c3aed;
   --green: #22c55e;
   --yellow: #f0c040;
-  --radius: 0.25rem;
+  --radius: 0.125rem;
   --radius-sm: 0.125rem;
-  --radius-xs: 0.125rem;
+  --radius-xs: 0.0625rem;
+  --orange-dark: #ab3500;
 }
 
 /* html/body styles removed — handled by Tailwind + default layout */
@@ -45,7 +46,7 @@ h1, h2, h3, .font-headline {
 .container {
   position: relative;
   z-index: 1;
-  max-width: 1100px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 24px;
 }

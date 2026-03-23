@@ -13,11 +13,18 @@ module.exports = function(eleventyConfig) {
 
   // Rating bar shortcode for build detail pages
   eleventyConfig.addShortcode("ratingBar", function(value, max, colorClass) {
+    // colorClass can be a Tailwind class like "bg-[#ff6b35]" or a named class like "jaw"
+    // If it's a named class, use rating-bar-fill for consistent styling
+    const isNamed = !colorClass.startsWith("bg-");
     let html = '<div class="flex gap-1">';
     for (let i = 1; i <= max; i++) {
-      html += i <= value
-        ? `<span class="w-6 h-2 rounded-sm ${colorClass}"></span>`
-        : '<span class="w-6 h-2 rounded-sm bg-surface-container-highest"></span>';
+      if (i <= value) {
+        html += isNamed
+          ? `<span class="w-6 h-2 rounded-sm rating-bar-fill ${colorClass}"></span>`
+          : `<span class="w-6 h-2 rounded-sm ${colorClass}"></span>`;
+      } else {
+        html += '<span class="w-6 h-2 rounded-sm bg-surface-container-highest"></span>';
+      }
     }
     return html + '</div>';
   });

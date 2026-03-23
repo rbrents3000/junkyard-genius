@@ -6,9 +6,9 @@ All notable milestones for this project are documented here.
 
 ## v2.1.0 — Visual Showstoppers + Build Finder Quiz (March 2026)
 
-- **9 new builds** in a new category → 335 total builds, 33 categories
+- **9 new builds** in a new category → 338 total builds, 33 categories
   - 👁️ Visual Showstoppers (#330-#338): Cloud Chamber Coffee Table, Fire Organ, Dead Appliance Rube Goldberg, Ferrofluid Wall, Water Vortex Table, CRT Electron Art Array, Water Droplet Time Fountain, Infinity Room, Mechanical Flip-Dot Display
-- **Interactive Build Finder Quiz** on GitHub Pages — 6-question branching quiz with scoring algorithm across all 335 builds
+- **Interactive Build Finder Quiz** on GitHub Pages — 6-question branching quiz with scoring algorithm across all 338 builds
   - Quiz linked from README nav bar, Start Here section, and OG meta tags
 - **Cross-linking pass** — 245 builds linked to relevant reference docs (safety, electronics, chemicals, teardown, glossary)
 - **Visual polish** across all builds:

@@ -463,3 +463,63 @@ test.describe('Category Page — Redesigned Layout', () => {
     await expect(img).toBeVisible();
   });
 });
+
+// ── Design Consistency ──
+
+test.describe('Design Consistency', () => {
+  const pages = [
+    { path: '/', name: 'Homepage' },
+    { path: '/app/browse/', name: 'Browse' },
+    { path: '/app/quiz/', name: 'Quiz' },
+    { path: '/app/toolbox/', name: 'Toolbox' },
+    { path: '/categories/fire-and-plasma/', name: 'Category' },
+    { path: '/categories/fire-and-plasma/001-plasma-tornado-lamp/', name: 'Build' },
+  ];
+
+  for (const { path, name } of pages) {
+    test(`${name} (${path}) has site nav with brand`, async ({ page }) => {
+      await page.goto(path);
+      const nav = page.locator('nav').first();
+      await expect(nav).toBeVisible();
+      await expect(nav.locator('a:has-text("JUNKYARD_GENIUS")')).toBeVisible();
+    });
+
+    test(`${name} (${path}) has footer`, async ({ page }) => {
+      await page.goto(path);
+      await expect(page.locator('footer').first()).toBeVisible();
+    });
+  }
+
+  test('browse build cards have trailing slashes', async ({ page }) => {
+    await page.goto('/app/browse/');
+    const hrefs = await page.locator('.build-card').evaluateAll(els =>
+      els.slice(0, 5).map(el => el.getAttribute('href'))
+    );
+    for (const href of hrefs) {
+      expect(href).toMatch(/\/$/);
+    }
+  });
+
+  test('active nav state on browse page', async ({ page }) => {
+    await page.goto('/app/browse/');
+    const browseLink = page.locator('nav a[href="/app/browse/"]').first();
+    const classes = await browseLink.getAttribute('class');
+    expect(classes).toContain('text-primary-container');
+    expect(classes).toContain('border-b-2');
+  });
+
+  test('active nav state on homepage', async ({ page }) => {
+    await page.goto('/');
+    const homeLink = page.locator('nav a[href="/"]').first();
+    const classes = await homeLink.getAttribute('class');
+    expect(classes).toContain('text-primary-container');
+  });
+
+  test('nav search form submits to browse', async ({ page }) => {
+    await page.goto('/');
+    const form = page.locator('form[action="/app/browse/"]');
+    await expect(form).toHaveCount(1);
+    const input = form.locator('input[name="q"]');
+    await expect(input).toHaveCount(1);
+  });
+});

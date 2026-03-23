@@ -100,8 +100,8 @@
     // ⚡ ?debug=true — show builder profile
     if(new URLSearchParams(window.location.search).get('debug') === 'true'){
       try {
-        var completed = JSON.parse(localStorage.getItem('jg-completed')) || [];
-        var wanted = JSON.parse(localStorage.getItem('jg-wantToBuild')) || [];
+        var completed = JSON.parse(localStorage.getItem('jg-completed') || '[]');
+        var wanted = JSON.parse(localStorage.getItem('jg-wantToBuild') || '[]');
         console.log('%cBuilder profile loaded. You\'ve got taste.', 'color:#3dd68c;font-size:13px;font-weight:700');
         console.log('%cCompleted: ' + (completed.length || 'none yet'), 'color:#ff6b35');
         if(completed.length) console.table(completed.map(function(n){ return {build: '#' + n}; }));

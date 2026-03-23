@@ -73,7 +73,7 @@ image: /images/og-quiz.jpg
   display:inline-flex;align-items:center;gap:10px;
   padding:18px 48px;border-radius:var(--radius);border:none;
   font-family:inherit;font-size:1.1rem;font-weight:700;cursor:pointer;
-  background:linear-gradient(135deg,var(--orange),#e04d18);color:#fff;
+  background:linear-gradient(135deg,var(--orange),var(--orange-dark));color:#fff;
   box-shadow:0 4px 24px rgba(255,107,53,0.3),0 0 0 1px rgba(255,107,53,0.2);
   transition:all 0.25s ease;
 }
@@ -183,7 +183,7 @@ image: /images/og-quiz.jpg
   transition:all 0.2s;display:inline-flex;align-items:center;gap:8px;
 }
 .btn-primary{
-  background:linear-gradient(135deg,var(--orange),#e04d18);
+  background:linear-gradient(135deg,var(--orange),var(--orange-dark));
   color:#fff;
   box-shadow:0 2px 12px rgba(255,107,53,0.2);
 }
@@ -699,7 +699,7 @@ function getMatchReason(build, vibeTags, junkItems) {
 }
 
 function buildGitHubUrl(build) {
-  return "/categories/" + build.category + "/" + build.slug;
+  return "/categories/" + build.category + "/" + build.slug + "/";
 }
 
 function ratingBar(label, value, cls) {
@@ -752,7 +752,7 @@ window.showResults = function() {
         + ratingBar('Time', b.time, 'time')
         + '</div>'
         + '<div class="result-match">' + reason + '</div>'
-        + '<a class="result-link" href="'+url+'" target="_blank" rel="noopener">View Build Guide &#8594;</a>'
+        + '<a class="result-link" href="'+url+'">View Build Guide &#8594;</a>'
         + '</div>';
     });
     listEl.innerHTML = html;
@@ -781,7 +781,7 @@ window.showResults = function() {
     wcHtml += '<div class="wildcard-card">'
       + '<div class="wildcard-name">#' + b.num + ' ' + b.name + '</div>'
       + '<div class="wildcard-cat">' + b.categoryName + '</div>'
-      + '<a class="wildcard-link" href="'+url+'" target="_blank" rel="noopener">Check it out &#8594;</a>'
+      + '<a class="wildcard-link" href="'+url+'">Check it out &#8594;</a>'
       + '</div>';
   });
   wcEl.innerHTML = wcHtml;
