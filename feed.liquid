@@ -18,6 +18,7 @@ eleventyExcludeFromCollections: true
       <guid isPermaLink="true">{{ site.url }}{{ build.url }}</guid>
       <description>{{ build.data.description | xml_escape }}</description>
       <category>{{ build.data.category_name | xml_escape }}</category>
+      <pubDate>{{ build.date | date: "%a, %d %b %Y 00:00:00 +0000" }}</pubDate>
     </item>
     {%- endfor %}
   </channel>

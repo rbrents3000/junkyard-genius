@@ -23,7 +23,7 @@ Your kitchen is a graveyard of underestimated machines. That toaster oven has a 
 Every one of these appliances was designed to do one thing. Every one of them can do something completely different and far more interesting. The engineers who designed them would either be horrified or quietly proud.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 1. **[#264 — Waffle Iron Press](264-waffle-iron-press/)** — Simplest hack. Heat + pressure, no mods.
 2. **[#263 — Blender Centrifuge](263-blender-centrifuge/)** — High RPM, low risk.
@@ -34,7 +34,7 @@ Every one of these appliances was designed to do one thing. Every one of them ca
 7. **[#304 — Rice Cooker Electroplating](304-rice-cooker-electroplating/)** — Chemistry + electronics combo.
 8. **[#305 — Microwave Kiln](305-microwave-kiln/)** — Highest temperatures. Respect the heat.
 
-### Related Categories
+## Related Categories
 
 - [Household Chemistry](../household-chemistry/) — More chemistry with kitchen-safe ingredients
 - [Chemical + Electronic](../chemical-electronic/) — Electroplating and etching at larger scale

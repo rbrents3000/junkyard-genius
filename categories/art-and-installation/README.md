@@ -23,7 +23,7 @@ Kinetic sculptures that dance in the wind. Fountains that freeze water in mid-ai
 Art made from salvage carries a story that gallery art can't match. Every component had a previous life, and the contrast between what it was and what it's become is part of the piece. These builds sit at the intersection of engineering and aesthetics — they work because the physics is sound, and they're beautiful because the design is intentional.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with accessible art pieces and build toward complex kinetic installations:
 
@@ -36,7 +36,7 @@ Start with accessible art pieces and build toward complex kinetic installations:
 7. **[#046 — Ferrofluid Mirror](046-ferrofluid-mirror/)** — Programmable magnetic liquid display.
 8. **[#312 — Kinetic Sand Table](312-kinetic-sand-table/)** — CNC-driven sand patterns. The crown jewel.
 
-### Related Categories
+## Related Categories
 
 - [Light & Visual](../light-and-visual/) — Optics, LEDs, and visual phenomena
 - [Mechanical & Kinetic](../mechanical-and-kinetic/) — Moving parts and motion physics

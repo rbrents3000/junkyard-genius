@@ -23,7 +23,7 @@ Inside every dead inkjet or laser printer are stepper motors, precision linear r
 The printer that jammed for the last time? It's about to become the most precise tool in your shop.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with zero-modification hacks, progress toward precision CNC:
 
@@ -36,7 +36,7 @@ Start with zero-modification hacks, progress toward precision CNC:
 7. **[#069 — Printer Stepper CNC](069-printer-stepper-cnc/)** — Full CNC from printer parts.
 8. **[#073 — Inkjet Bioprinter](073-inkjet-bioprinter/)** — Print conductive traces. The endgame.
 
-### Related Categories
+## Related Categories
 
 - [Art & Installation](../art-and-installation/) — When precision motion makes art
 - [Power Tools Remixed](../power-tools-remixed/) — More tool repurposing

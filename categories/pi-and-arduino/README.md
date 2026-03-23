@@ -23,7 +23,7 @@ A Raspberry Pi is a full Linux computer the size of a credit card. An Arduino is
 The cost of entry is almost nothing — a Pi Zero is $5, an Arduino Nano is $3, an ESP32 is $4. The limiting factor isn't money, it's imagination. And if you're reading this, imagination isn't your problem.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with software-only projects, progress toward complex robotics:
 
@@ -48,7 +48,7 @@ Start with software-only projects, progress toward complex robotics:
 19. **[#129 — Printer Robot Arm](129-printer-robot-arm/)** — Stepper coordination + inverse kinematics.
 20. **[#136 — ESP32 Micro Drone](136-esp32-micro-drone/)** — Flight dynamics + inertial stabilization. The endgame.
 
-### Related Categories
+## Related Categories
 
 - [Junk Instruments](../junk-instruments/) — MIDI and audio-driven builds
 - [Mechanical & Kinetic](../mechanical-and-kinetic/) — Motor control and robotic actuators

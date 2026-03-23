@@ -23,7 +23,7 @@ This is the overlap zone where electrons do chemistry and chemistry makes electr
 Every one of these processes is used in industry — plating, etching, gas discharge, water treatment. The difference is that industry does it in a factory and you're doing it on your workbench. The chemistry is the same. The results are the same. The satisfaction of doing it yourself is incomparably better.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with kitchen chemistry demos, progress toward precision fabrication:
 
@@ -43,7 +43,7 @@ Start with kitchen chemistry demos, progress toward precision fabrication:
 14. **[#169 — Vacuum Tube Amp](169-vacuum-tube-amp/)** — Vintage electronics + circuit design.
 15. **[#166 — DIY Neon Sign](166-diy-neon-sign/)** — Top tier: gas discharge + glass work. The endgame.
 
-### Related Categories
+## Related Categories
 
 - [Light & Visual](../light-and-visual/) — Gas discharge displays and lighting arts
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Electrochemical sensing and control

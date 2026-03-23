@@ -25,7 +25,7 @@ The gimbal motors alone are worth the salvage. These are brushless outrunners wi
 **Common salvage sources:** crashed DJI Phantom/Mavic/Air, dead racing drones, toy drones (smaller components), eBay "for parts" listings.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with simple motor reuse, progress toward autonomous systems:
 
@@ -38,7 +38,7 @@ Start with simple motor reuse, progress toward autonomous systems:
 7. **[#205 — Obstacle-Dodging Robot](205-obstacle-dodging-robot/)** — Sensor integration + autonomous movement.
 8. **[#207 — Precision Digital Scale](207-precision-digital-scale/)** — Load cells and calibration precision.
 
-### Related Categories
+## Related Categories
 
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Sensor networks and autonomous control
 - [Functional Machines](../functional-machines/) — Motor-driven tools and equipment

@@ -25,7 +25,7 @@ These builds start with stuff you already own (hoodies, gloves, sunglasses) and 
 Soldering iron in one hand, sewing needle in the other. Welcome to the future.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with visual impact, progress toward biofeedback:
 
@@ -38,7 +38,7 @@ Start with visual impact, progress toward biofeedback:
 7. **[#245 — HUD Glasses](245-hud-glasses/)** — Heads-up display for $25.
 8. **[#321 — DIY EEG Headband](321-diy-eeg-headband/)** — Read your own brainwaves. The final frontier.
 
-### Related Categories
+## Related Categories
 
 - [Light & Visual](../light-and-visual/) — LED and lighting techniques
 - [Pi & Arduino](../pi-and-arduino/) — Microcontroller fundamentals

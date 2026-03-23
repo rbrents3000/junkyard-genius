@@ -23,7 +23,7 @@ This category is for builds that demand real space, real time, and real commitme
 **Common salvage sources:** EMT conduit, tarps, PVC pipe, submersible pumps, old electronics, shipping pallets, corrugated roofing.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 1. **[#191 — Backyard Water Slide](191-backyard-water-slide/)** — Lowest complexity. Plumbing and tarps.
 2. **[#194 — Geodesic Dome Greenhouse](194-geodesic-dome-greenhouse/)** — Structural geometry. EMT conduit and math.
@@ -34,7 +34,7 @@ This category is for builds that demand real space, real time, and real commitme
 7. **[#195 — Underground Root Cellar](195-underground-root-cellar/)** — Excavation and structural engineering.
 8. **[#302 — Giant Outdoor Tesla Coil](302-giant-outdoor-tesla-coil/)** — The final boss. Lethal voltage, massive scale.
 
-### Related Categories
+## Related Categories
 
 - [Functional Machines](../functional-machines/) — Workshop tools you build yourself
 - [Mad Scientist](../mad-scientist/) — More high-voltage and physics projects

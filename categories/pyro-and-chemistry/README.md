@@ -23,7 +23,7 @@ Chemistry is the original maker art. Long before 3D printers and microcontroller
 Most ingredients come from the hardware store, the pharmacy, or your kitchen. The real investment is respect for the chemistry. These reactions don't care about your feelings — they care about stoichiometry. Measure twice, ignite once.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with single-reaction spectacles, progress toward multi-component builds:
 
@@ -48,7 +48,7 @@ Start with single-reaction spectacles, progress toward multi-component builds:
 19. **[#111 — Chemiluminescent Fountain](111-chemiluminescent-fountain/)** — Multi-component reaction system.
 20. **[#117 — Glow Resin River Table](117-glow-resin-river-table/)** — Extended resin pour + luminescent art.
 
-### Related Categories
+## Related Categories
 
 - [Fire & Plasma](../fire-and-plasma/) — High-temperature plasma and extreme heat effects
 - [Light & Visual](../light-and-visual/) — UV displays and luminescent materials

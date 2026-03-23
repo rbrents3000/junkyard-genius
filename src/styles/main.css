@@ -293,6 +293,14 @@ input[type="checkbox"] {
   padding: 1rem 1.5rem;
 }
 
+/* ── Rating Bar Colors (shared across build, category, and app pages) ── */
+.rating-bar-fill.jaw { background: #ff6b35; }
+.rating-bar-fill.brain { background: #3b82f6; }
+.rating-bar-fill.wallet { background: #22c55e; }
+.rating-bar-fill.spicy { background: #ef4444; }
+.rating-bar-fill.clout { background: #7c3aed; }
+.rating-bar-fill.time { background: #c6c4ce; }
+
 /* ── Category Page: Card Grid ── */
 
 .cat-grid {

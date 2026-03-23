@@ -8,10 +8,10 @@
 
     <!-- Desktop Nav Links -->
     <div class="hidden md:flex items-center gap-8 font-headline tracking-tight font-bold uppercase text-sm">
-      <a class="{% if page.url == '/' %}text-primary-container border-b-2 border-primary-container pb-1{% else %}text-slate-400 hover:text-white transition-colors duration-200{% endif %} no-underline hover:no-underline" href="/">The Junkyard</a>
-      <a class="{% if page.url contains '/app/browse/' %}text-primary-container border-b-2 border-primary-container pb-1{% else %}text-slate-400 hover:text-white transition-colors duration-200{% endif %} no-underline hover:no-underline" href="/app/browse/">Browse</a>
-      <a class="{% if page.url contains '/app/quiz/' %}text-primary-container border-b-2 border-primary-container pb-1{% else %}text-slate-400 hover:text-white transition-colors duration-200{% endif %} no-underline hover:no-underline" href="/app/quiz/">Quiz</a>
-      <a class="{% if page.url contains '/app/toolbox/' %}text-primary-container border-b-2 border-primary-container pb-1{% else %}text-slate-400 hover:text-white transition-colors duration-200{% endif %} no-underline hover:no-underline" href="/app/toolbox/">Toolbox</a>
+      <a {% if page.url == '/' %}aria-current="page"{% endif %} class="{% if page.url == '/' %}text-primary-container border-b-2 border-primary-container pb-1{% else %}text-slate-400 hover:text-white transition-colors duration-200{% endif %} no-underline hover:no-underline" href="/">The Junkyard</a>
+      <a {% if page.url contains '/app/browse/' %}aria-current="page"{% endif %} class="{% if page.url contains '/app/browse/' %}text-primary-container border-b-2 border-primary-container pb-1{% else %}text-slate-400 hover:text-white transition-colors duration-200{% endif %} no-underline hover:no-underline" href="/app/browse/">Browse</a>
+      <a {% if page.url contains '/app/quiz/' %}aria-current="page"{% endif %} class="{% if page.url contains '/app/quiz/' %}text-primary-container border-b-2 border-primary-container pb-1{% else %}text-slate-400 hover:text-white transition-colors duration-200{% endif %} no-underline hover:no-underline" href="/app/quiz/">Quiz</a>
+      <a {% if page.url contains '/app/toolbox/' %}aria-current="page"{% endif %} class="{% if page.url contains '/app/toolbox/' %}text-primary-container border-b-2 border-primary-container pb-1{% else %}text-slate-400 hover:text-white transition-colors duration-200{% endif %} no-underline hover:no-underline" href="/app/toolbox/">Toolbox</a>
     </div>
 
     <!-- Right Side -->
@@ -37,9 +37,9 @@
 
   <!-- Mobile Nav (small screens) -->
   <div class="md:hidden flex gap-1 px-4 pb-3 overflow-x-auto">
-    <a class="{% if page.url == '/' %}text-primary-container bg-primary-container/10{% else %}text-slate-400 hover:text-white{% endif %} font-label text-[10px] uppercase tracking-widest px-3 py-1.5 rounded-sm whitespace-nowrap no-underline" href="/">Home</a>
-    <a class="{% if page.url contains '/app/browse/' %}text-primary-container bg-primary-container/10{% else %}text-slate-400 hover:text-white{% endif %} font-label text-[10px] uppercase tracking-widest px-3 py-1.5 rounded-sm whitespace-nowrap no-underline" href="/app/browse/">Browse</a>
-    <a class="{% if page.url contains '/app/quiz/' %}text-primary-container bg-primary-container/10{% else %}text-slate-400 hover:text-white{% endif %} font-label text-[10px] uppercase tracking-widest px-3 py-1.5 rounded-sm whitespace-nowrap no-underline" href="/app/quiz/">Quiz</a>
-    <a class="{% if page.url contains '/app/toolbox/' %}text-primary-container bg-primary-container/10{% else %}text-slate-400 hover:text-white{% endif %} font-label text-[10px] uppercase tracking-widest px-3 py-1.5 rounded-sm whitespace-nowrap no-underline" href="/app/toolbox/">Toolbox</a>
+    <a {% if page.url == '/' %}aria-current="page"{% endif %} class="{% if page.url == '/' %}text-primary-container bg-primary-container/10{% else %}text-slate-400 hover:text-white{% endif %} font-label text-[10px] uppercase tracking-widest px-3 py-1.5 rounded-sm whitespace-nowrap no-underline" href="/">Home</a>
+    <a {% if page.url contains '/app/browse/' %}aria-current="page"{% endif %} class="{% if page.url contains '/app/browse/' %}text-primary-container bg-primary-container/10{% else %}text-slate-400 hover:text-white{% endif %} font-label text-[10px] uppercase tracking-widest px-3 py-1.5 rounded-sm whitespace-nowrap no-underline" href="/app/browse/">Browse</a>
+    <a {% if page.url contains '/app/quiz/' %}aria-current="page"{% endif %} class="{% if page.url contains '/app/quiz/' %}text-primary-container bg-primary-container/10{% else %}text-slate-400 hover:text-white{% endif %} font-label text-[10px] uppercase tracking-widest px-3 py-1.5 rounded-sm whitespace-nowrap no-underline" href="/app/quiz/">Quiz</a>
+    <a {% if page.url contains '/app/toolbox/' %}aria-current="page"{% endif %} class="{% if page.url contains '/app/toolbox/' %}text-primary-container bg-primary-container/10{% else %}text-slate-400 hover:text-white{% endif %} font-label text-[10px] uppercase tracking-widest px-3 py-1.5 rounded-sm whitespace-nowrap no-underline" href="/app/toolbox/">Toolbox</a>
   </div>
 </nav>

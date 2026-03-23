@@ -23,7 +23,7 @@ Hard drives contain voice coil actuators, precision-polished platters, and rare-
 None of this should go in a landfill. Every single component has a second life.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with zero-mod crafts, progress toward electronics integration:
 
@@ -41,7 +41,7 @@ Start with zero-mod crafts, progress toward electronics integration:
 12. **[#064 — Phone Sensor Network](064-phone-sensor-network/)** — Multi-device software integration.
 13. **[#057 — Hard Drive POV Clock](057-hard-drive-pov-clock/)** — Timing, rotation control, LED multiplexing.
 
-### Related Categories
+## Related Categories
 
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Sensor integration and embedded electronics
 - [Light & Visual](../light-and-visual/) — Display technologies and visual projects

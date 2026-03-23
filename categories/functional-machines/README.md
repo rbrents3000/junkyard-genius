@@ -23,7 +23,7 @@ Scooter motors become lathes. Treadmill motors become belt grinders. Microwave t
 The builds in this category are practical first. They make things, shape things, coat things, and move things. The fact that they're built from garbage is just a bonus.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with simple motor reuse, progress toward full vehicle builds:
 
@@ -37,7 +37,7 @@ Start with simple motor reuse, progress toward full vehicle builds:
 8. **[#028 — Powder Coating Oven](028-powder-coating-oven/)** — Heating control and coating physics.
 9. **[#024 — Electric Go-Kart](024-electric-go-kart/)** — Full vehicle integration. The showpiece.
 
-### Related Categories
+## Related Categories
 
 - [Scooter & Motor](../scooter-and-motor/) — Motor reuse and drive mechanics
 - [Junkyard Auto](../junkyard-auto/) — Vehicle assembly and power transmission

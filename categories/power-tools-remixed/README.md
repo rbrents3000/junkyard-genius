@@ -23,7 +23,7 @@ An angle grinder is a 10,000 RPM motor with a removable disc. A reciprocating sa
 These builds don't destroy the tool — you can always swap back to the original attachment. Maximum versatility from tools you already own.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 1. **[#080 — Hand Drill Press](080-hand-drill-press/)** — Simplest jig. One tool, one cradle.
 2. **[#307 — Jigsaw Scroll Saw](307-jigsaw-scroll-saw/)** — Flip it upside down. Instant upgrade.
@@ -34,7 +34,7 @@ These builds don't destroy the tool — you can always swap back to the original
 7. **[#082 — Circular Saw Table Saw](082-circular-saw-table-saw/)** — Higher danger. Blade guard essential.
 8. **[#083 — Router CNC Spindle](083-router-cnc-spindle/)** — 25,000 RPM. Maximum precision, maximum respect.
 
-### Related Categories
+## Related Categories
 
 - [Functional Machines](../functional-machines/) — Dedicated tools built from salvage
 - [Junkyard Auto](../junkyard-auto/) — Automotive motor repurposing

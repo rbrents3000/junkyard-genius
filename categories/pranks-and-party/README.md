@@ -23,7 +23,7 @@ Some builds solve problems. These builds create them — specifically, the probl
 These are the builds you make when pure engineering isn't enough and you need to weaponize it for entertainment. Every one of them is harmless. Every one of them is unforgettable. Every one of them will make someone question reality for at least three seconds.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start simple, escalate the chaos:
 
@@ -36,7 +36,7 @@ Start simple, escalate the chaos:
 7. **[#257 — Insult Camera](257-insult-camera/)** — Takes your photo, roasts you.
 8. **[#259 — Magnetic Levitating Display](259-magnetic-levitating-display/)** — Objects float in mid-air.
 
-### Related Categories
+## Related Categories
 
 - [Sound & Music](../sound-and-music/) — Audio-based shenanigans
 - [Light & Visual](../light-and-visual/) — Visual tricks and illusions

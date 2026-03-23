@@ -23,7 +23,7 @@ The power's out. The water's off. The cell towers are dead. Now what? These buil
 None of these builds require a hardware store run during the apocalypse. They use materials you can scavenge, stockpile, or pull from a dumpster. The best survival gear isn't bought — it's built by someone who understands how things work.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with the simplest survival builds and progress toward self-sufficiency:
 
@@ -36,7 +36,7 @@ Start with the simplest survival builds and progress toward self-sufficiency:
 7. **[#252 — Faraday Cage](252-faraday-cage/)** — Protect electronics from EMP.
 8. **[#249 — Biogas Generator](249-biogas-generator/)** — Compost → cooking fuel. The endgame.
 
-### Related Categories
+## Related Categories
 
 - [Power & Energy](../power-and-energy/) — Battery banks, generators, solar
 - [Humidifier & Water](../humidifier-and-water/) — Water collection and purification

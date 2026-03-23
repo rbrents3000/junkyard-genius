@@ -23,7 +23,7 @@ Tesla coils that play music. Electromagnetic can crushers. Rail guns. Levitating
 Most of these builds involve high voltage, strong magnetic fields, or vacuum systems. They demand respect and understanding of the physics involved. But the payoff is seeing forces that are normally invisible made dramatically, unmistakably visible.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with kitchen physics, progress toward electromagnetic weapons:
 
@@ -38,7 +38,7 @@ Start with kitchen physics, progress toward electromagnetic weapons:
 9. **[#036 — Rail Gun](036-rail-gun/)** — Extreme current delivery and magnetic field control.
 10. **[#040 — Mass Spectrometer](040-mass-spectrometer/)** — The ultimate: vacuum + ions + magnets + detection.
 
-### Related Categories
+## Related Categories
 
 - [Laser Lab](../laser-lab/) — High-energy physics demonstrations
 - [Light & Visual](../light-and-visual/) — Plasma and electrical discharge visualization

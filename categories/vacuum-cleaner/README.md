@@ -23,7 +23,7 @@ Vacuum motors are absurdly powerful for their size — typically 1000-1500 watts
 The motor doesn't care whether it's sucking dust or doing something far more interesting.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with the simplest motor repurposing, end with the crowd-pleaser:
 
@@ -36,7 +36,7 @@ Start with the simplest motor repurposing, end with the crowd-pleaser:
 7. **[#325 — Benchtop Wind Tunnel](325-benchtop-wind-tunnel/)** — See aerodynamics with smoke + vacuum motor.
 8. **[#326 — Air Hockey Table](326-air-hockey-table/)** — Reversed airflow + drilled surface = playable game.
 
-### Related Categories
+## Related Categories
 
 - [Functional Machines](../functional-machines/) — Workshop tools from salvaged motors
 - [Pranks & Party](../pranks-and-party/) — Party builds powered by air pressure

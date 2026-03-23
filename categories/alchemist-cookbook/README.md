@@ -23,7 +23,7 @@ This is where categories collide. A microwave oven transformer's capacitor bank 
 These builds borrow parts, chemistry, and techniques from across every other category. They require genuine understanding of what you're working with — not just following steps. If you're new, go build some foundational projects in [Pyro & Chemistry](../pyro-and-chemistry/), [Fire & Plasma](../fire-and-plasma/), [Junkyard Auto](../junkyard-auto/), and [Mad Scientist](../mad-scientist/) first. These builds assume you've already earned your scars.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with simple chemistry spectacles, progress toward extreme electromagnetic builds:
 
@@ -41,7 +41,7 @@ Start with simple chemistry spectacles, progress toward extreme electromagnetic 
 12. **[#229 — Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher/)** — Advanced EM engineering.
 13. **[#277 — Electromagnetic Pulse Cannon](277-electromagnetic-pulse-cannon/)** — Extreme difficulty. The endgame.
 
-### Related Categories
+## Related Categories
 
 - [Pyro & Chemistry](../pyro-and-chemistry/) — Foundation chemistry and combustion builds
 - [Fire & Plasma](../fire-and-plasma/) — Thermal phenomena and high-temperature builds

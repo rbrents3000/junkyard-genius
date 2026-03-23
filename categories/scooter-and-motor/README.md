@@ -21,7 +21,7 @@ image: /images/categories/scooter-and-motor.jpg
 Dead electric scooters, hoverboards, and e-bikes contain some of the most useful motors you'll ever salvage: brushless DC motors with built-in hall effect sensors, designed to deliver smooth torque at variable speeds. Paired with ESCs (electronic speed controllers), they power everything from skateboards to camera sliders to winches. And here's the physics bonus: every motor is also a generator. Spin the shaft with wind, water, or pedal power and it produces electricity. A $200 scooter's motor alone is worth the salvage.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with simple motor repurposing, then tackle power electronics:
 
@@ -33,7 +33,7 @@ Start with simple motor repurposing, then tackle power electronics:
 6. **[#088 — Electric Skateboard](088-electric-skateboard/)** — Full ESC + battery + motor integration.
 7. **[#293 — Electric Fence Charger](293-electric-fence-charger/)** — High-voltage pulse circuits. Respect the zap.
 
-### Related Categories
+## Related Categories
 
 - [Functional Machines](../functional-machines/) — Motor-driven tools and equipment
 - [Power & Energy](../power-and-energy/) — Motors as generators and energy systems

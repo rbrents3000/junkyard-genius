@@ -23,7 +23,7 @@ These are the boss fights. Each one takes two or more builds from other categori
 Every build here assumes you've already mastered the individual components. If you haven't built a cloud chamber, don't start with the vacuum plasma version. If you haven't built a plasma speaker, you're not ready for the levitating one. These are endgame builds — the reward for putting in the work on everything else.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 These are endgame builds — each one assumes mastery of its component categories. Start with the least dangerous and work up:
 
@@ -36,7 +36,7 @@ These are endgame builds — each one assumes mastery of its component categorie
 7. **[#054 — Vacuum Plasma Cloud Chamber](054-vacuum-plasma-cloud-chamber/)** — Vacuum + high voltage. Advanced physics.
 8. **[#055 — Levitating Plasma Speaker](055-levitating-plasma-speaker/)** — The final boss. Magnetic levitation + plasma audio.
 
-### Related Categories
+## Related Categories
 
 - [Mad Scientist](../mad-scientist/) — The prerequisite builds for these mashups
 - [Fire & Plasma](../fire-and-plasma/) — High-temperature and plasma components

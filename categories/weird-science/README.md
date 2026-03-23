@@ -23,7 +23,7 @@ This category is for projects that demonstrate bizarre, counterintuitive, or dow
 **Common salvage sources:** CRT monitors and TVs, hard drive magnets, copper pipe, dead transformers, microwave oven parts, old camera flashes.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with accessible demos and work toward advanced instrumentation:
 
@@ -36,7 +36,7 @@ Start with accessible demos and work toward advanced instrumentation:
 7. **[#196 — Kirlian Photography](196-kirlian-photography/)** — High voltage + film. Eerie corona discharge.
 8. **[#200 — DIY Electron Microscope](200-diy-electron-microscope/)** — The endgame. Electron beam imaging.
 
-### Related Categories
+## Related Categories
 
 - [Mad Scientist](../mad-scientist/) — More high-voltage and extreme physics
 - [Light & Visual](../light-and-visual/) — Optics, lasers, and visual phenomena

@@ -23,7 +23,7 @@ Lasers used to be the exclusive domain of research labs and James Bond villains.
 Combine these components with basic electronics and you get communicators, light shows, musical instruments, alarm systems, cutters, microscopes, and geometric art — all from parts that were headed for the landfill.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with simple optics, progress toward precision laser systems:
 
@@ -35,7 +35,7 @@ Start with simple optics, progress toward precision laser systems:
 6. **[#266 — Laser Galvo Show](266-laser-galvo-show/)** — Galvanometer mirrors and fast analog control.
 7. **[#270 — Laser Microscope](270-laser-microscope/)** — Advanced optics theory. Precision alignment.
 
-### Related Categories
+## Related Categories
 
 - [Light & Visual](../light-and-visual/) — Laser projection and light manipulation
 - [Mad Scientist](../mad-scientist/) — High-energy physics experiments

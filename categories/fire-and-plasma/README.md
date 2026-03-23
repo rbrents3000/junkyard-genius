@@ -23,7 +23,7 @@ This category is for builds that produce fire, plasma, molten metal, or things t
 **Common salvage sources:** Microwave ovens (MOTs), propane tanks, hair dryers, steel pipe, scrap metal, oxygen cylinders.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with controlled fire and work toward high-energy plasma:
 
@@ -36,7 +36,7 @@ Start with controlled fire and work toward high-energy plasma:
 7. **[#004 — Thermic Lance](004-thermic-lance/)** — 4000°F. Cuts steel. Maximum respect required.
 8. **[#002 — Lichtenberg Wood Burner](002-lichtenberg-wood-burner/)** — MOT voltage. Lethal. Expert only.
 
-### Related Categories
+## Related Categories
 
 - [Sound & Music](../sound-and-music/) — Rubens' Tube, plasma speakers
 - [Mad Scientist](../mad-scientist/) — More high-voltage extremes

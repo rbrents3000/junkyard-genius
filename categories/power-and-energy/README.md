@@ -23,7 +23,7 @@ Campfire heat becomes USB power through thermoelectric modules. Old bicycles bec
 Energy is everywhere — in heat differentials, in mechanical motion, in sunlight, in the hundreds of lithium cells people throw in the trash every day. These builds capture it, store it, and put it to work.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with low-danger energy harvesting and work toward high-capacity storage:
 
@@ -36,7 +36,7 @@ Start with low-danger energy harvesting and work toward high-capacity storage:
 7. **[#288 — Laptop Battery Powerwall](288-laptop-battery-powerwall/)** — Large-scale battery harvesting and assembly.
 8. **[#291 — Capacitor Bank Flash Charger](291-capacitor-bank-flash-charger/)** — High-energy storage. Respect the discharge.
 
-### Related Categories
+## Related Categories
 
 - [Fridge & Cooling](../fridge-and-cooling/) — Thermal energy recovery and Peltier modules
 - [Scooter & Motor](../scooter-and-motor/) — Motors as generators and energy conversion

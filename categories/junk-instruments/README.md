@@ -25,7 +25,7 @@ These builds turn trash into instruments that actually play — not toy-sounding
 No music theory required. No woodworking shop required. Just garbage, hand tools, and a willingness to make some noise.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with pure percussion, progress toward tuned instruments:
 
@@ -37,7 +37,7 @@ Start with pure percussion, progress toward tuned instruments:
 6. **[#239 — Steel Tongue Drum](239-steel-tongue-drum/)** — Precision cutting and tuning of steel.
 7. **[#236 — PVC Pipe Organ](236-pvc-pipe-organ/)** — Air chamber calculations and multi-pipe tuning.
 
-### Related Categories
+## Related Categories
 
 - [Sound & Music](../sound-and-music/) — Audio amplification and acoustic experiments
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — MIDI and stepper motor music (#135)

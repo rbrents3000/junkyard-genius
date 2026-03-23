@@ -23,7 +23,7 @@ Modern cars are rolling electronics labs. An alternator is a three-phase generat
 All of this hardware costs pennies at the scrapyard but hundreds from a supplier. One trip to the junkyard with a socket set and a pair of bolt cutters, and you've got the raw materials for welders, go-karts, BBQ rigs, hidden doors, and things that would make your insurance agent cry.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with simple motor reuse, progress toward vehicle builds:
 
@@ -36,7 +36,7 @@ Start with simple motor reuse, progress toward vehicle builds:
 7. **[#226 — HID Headlight UV Curer](226-hid-headlight-uv-curer/)** — High-voltage ballast circuits + UV optics.
 8. **[#221 — Starter Motor Go-Kart](221-starter-motor-go-kart/)** — Full vehicle dynamics. The showpiece.
 
-### Related Categories
+## Related Categories
 
 - [Mechanical & Kinetic](../mechanical-and-kinetic/) — Motor-driven motion and energy transfer
 - [Power & Energy](../power-and-energy/) — Alternator generation and energy conversion

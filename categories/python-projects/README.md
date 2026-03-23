@@ -23,7 +23,7 @@ Python is the duct tape of the programming world — it holds everything togethe
 These projects combine physical hardware (cameras, sensors, motors, LEDs) with Python intelligence. A webcam becomes a face-tracking system. A microphone becomes a sentiment analyzer. A laser pointer becomes an automated targeting system. The software is where the magic happens.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with sensor basics, progress toward machine learning:
 
@@ -43,7 +43,7 @@ Start with sensor basics, progress toward machine learning:
 14. **[#155 — AI Dungeon Master](155-ai-dungeon-master/)** — LLM integration + dynamic narrative.
 15. **[#151 — Translator Glasses](151-translator-glasses/)** — Real-time ML + wearable hardware. The capstone.
 
-### Related Categories
+## Related Categories
 
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Hardware foundation for Python IoT projects
 - [Computer & Phone](../computer-and-phone/) — Webcam and phone sensor integration

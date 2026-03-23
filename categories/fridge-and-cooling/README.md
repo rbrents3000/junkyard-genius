@@ -23,7 +23,7 @@ Refrigerator compressors are robust, sealed, and designed to run continuously fo
 Einstein literally patented a fridge design. This category is physics royalty.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with passive cooling, progress toward thermodynamic systems:
 
@@ -37,7 +37,7 @@ Start with passive cooling, progress toward thermodynamic systems:
 8. **[#097 — Absorption Fridge](097-absorption-fridge/)** — Alternative cooling without compressor.
 9. **[#095 — Absorption Cooler](095-absorption-cooler/)** — Maximum complexity. Full thermodynamic system.
 
-### Related Categories
+## Related Categories
 
 - [Power & Energy](../power-and-energy/) — Thermal energy management and waste heat recovery
 - [Functional Machines](../functional-machines/) — Compressor salvage and equipment assembly

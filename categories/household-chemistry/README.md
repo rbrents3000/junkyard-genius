@@ -25,7 +25,7 @@ The builds in this category exploit the chemistry of these everyday substances �
 **Key chemicals and where to find them:** rubbing alcohol (pharmacy), hand sanitizer (pharmacy), acetone (hardware/beauty supply), baking soda (grocery), white vinegar (grocery), bleach (grocery), washing soda (laundry aisle), pool shock (pool supply/hardware), food coloring (grocery), dish soap (grocery).
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with instant spectacles, progress toward electrochemistry:
 
@@ -46,7 +46,7 @@ Start with instant spectacles, progress toward electrochemistry:
 15. **[#327 — Sugar Smoke Bombs](327-sugar-smoke-bombs/)** — Combustion kinetics and timing.
 16. **[#328 — Copper Plating with Vinegar](328-copper-plating-with-vinegar/)** — Electroless plating. The capstone.
 
-### Related Categories
+## Related Categories
 
 - [Pyro & Chemistry](../pyro-and-chemistry/) — Advanced combustion and reaction chemistry
 - [Mad Scientist](../mad-scientist/) — Scaling up household experiments

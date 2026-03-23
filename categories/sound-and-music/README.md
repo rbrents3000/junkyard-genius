@@ -23,7 +23,7 @@ This category covers acoustic and audio projects that exploit physics in unexpec
 **Common salvage sources:** Old speakers, flyback transformers from CRT TVs, ultrasonic transducers from humidifiers, springs, wire, small motors.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with simple acoustic physics and build toward high-voltage audio:
 
@@ -36,7 +36,7 @@ Start with simple acoustic physics and build toward high-voltage audio:
 7. **[#008 — Plasma Speaker](008-plasma-speaker/)** — Arc discharge reproduces audio.
 8. **[#315 — Tesla Coil Guitar Amp](315-tesla-coil-guitar-amp/)** — Play guitar through lightning. The endgame.
 
-### Related Categories
+## Related Categories
 
 - [Fire & Plasma](../fire-and-plasma/) — More fire + plasma builds
 - [Junk Instruments](../junk-instruments/) — Playable instruments from salvage

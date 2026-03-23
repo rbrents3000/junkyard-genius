@@ -23,7 +23,7 @@ Humidifiers contain ultrasonic piezoelectric discs that vibrate water into a fin
 Water is weird. Making it weirder is easy.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with a single transducer and scale up:
 
@@ -35,7 +35,7 @@ Start with a single transducer and scale up:
 6. **[#297 — Mist Cooling System](297-mist-cooling-system/)** — Multiple discs, outdoor deployment.
 7. **[#296 — Fog Harp Water Collector](296-fog-harp-water-collector/)** — Atmospheric water harvesting. The science fair winner.
 
-### Related Categories
+## Related Categories
 
 - [Fridge & Cooling](../fridge-and-cooling/) — Thermal management and phase-change cooling
 - [Light & Visual](../light-and-visual/) — LED-enhanced fog and mist displays

@@ -23,7 +23,7 @@ This category is for builds that move, spin, oscillate, or transfer energy throu
 **Common salvage sources:** Ball bearings, copper pipe, scrap metal, old bed frames, syringes, neodymium magnets from dead hard drives, bike parts, gears from printers.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with passive physics demos, progress toward precision machines:
 
@@ -39,7 +39,7 @@ Start with passive physics demos, progress toward precision machines:
 10. **[#188 — Magnetic Gear Train](188-magnetic-gear-train/)** — Non-contact magnetic gearing precision.
 11. **[#181 — Musical Marble Machine](181-musical-marble-machine/)** — Mechanical sequencing + musical tuning. The masterpiece.
 
-### Related Categories
+## Related Categories
 
 - [Raspberry Pi & Arduino](../pi-and-arduino/) — Motor-driven automation and robotics
 - [Junkyard Auto](../junkyard-auto/) — Drive mechanics and power transmission

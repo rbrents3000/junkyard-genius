@@ -23,7 +23,7 @@ This category covers everything that plays with the electromagnetic spectrum: la
 **Common salvage sources:** CRT TVs (flyback transformers, electron guns), rear-projection TVs (Fresnel lenses), old monitors, LED strips, laser pointers, mirrors, lenses from cameras and projectors.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with passive optics, progress toward motorized displays:
 
@@ -47,7 +47,7 @@ Start with passive optics, progress toward motorized displays:
 18. **[#019 — POV Globe](019-pov-globe/)** — Fast LED control + rotation timing.
 19. **[#178 — Light Painting Robot](178-light-painting-robot/)** — Motorized light source + camera sync.
 
-### Related Categories
+## Related Categories
 
 - [Laser Lab](../laser-lab/) — Laser projection and beam steering
 - [Mad Scientist](../mad-scientist/) — Plasma and electrical discharge effects

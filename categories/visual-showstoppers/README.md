@@ -23,7 +23,7 @@ This category is for builds where the visual impact is the entire point. These a
 The builds cross multiple disciplines — physics, chemistry, electronics, mechanical engineering — but they're unified by one trait: they produce something visually extraordinary from salvaged junk.
 
 
-### Suggested Build Order
+## Suggested Build Order
 
 Start with the most accessible, build toward the most complex:
 
@@ -37,7 +37,7 @@ Start with the most accessible, build toward the most complex:
 8. **[#331 — Fire Organ](331-fire-organ/)** — Propane + electronics + music. Maximum spectacle, maximum respect required.
 9. **[#338 — Mechanical Flip-Dot Display](338-mechanical-flip-dot-display/)** — 256 hand-wound coils. The Everest of this category.
 
-### Related Categories
+## Related Categories
 
 - [Fire & Plasma](../fire-and-plasma/) — Flame-based spectacles and plasma art
 - [Light & Visual](../light-and-visual/) — Optics, lasers, LEDs, and light manipulation
