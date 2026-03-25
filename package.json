@@ -18,8 +18,8 @@
     "type": "git",
     "url": "git+https://github.com/rbrents3000/junkyard-genius.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["DIY", "builds", "salvage", "e-waste", "junkyard", "projects"],
+  "author": "rbrents3000",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rbrents3000/junkyard-genius/issues"
