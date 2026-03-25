@@ -55,7 +55,7 @@ module.exports = function(eleventyConfig) {
   // Add loading="lazy" to all images for performance
   eleventyConfig.addTransform("lazyImages", function(content) {
     if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
-      return content.replace(/<img(?!\s+loading=)/g, '<img loading="lazy"');
+      return content.replace(/<img(?![^>]*\sloading=)/g, '<img loading="lazy"');
     }
     return content;
   });
