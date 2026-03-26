@@ -99,13 +99,13 @@ test.describe('Category Page Structure — fire-and-plasma', () => {
 
   test('has Suggested Build Order section', async ({ page }) => {
     await page.goto(URL);
-    const heading = page.locator('h3:has-text("Suggested Build Order")');
+    const heading = page.locator('h2:has-text("Suggested Build Order")');
     await expect(heading).toBeVisible();
   });
 
   test('has Related Categories section', async ({ page }) => {
     await page.goto(URL);
-    const heading = page.locator('h3:has-text("Related Categories")');
+    const heading = page.locator('h2:has-text("Related Categories")');
     await expect(heading).toBeVisible();
   });
 });

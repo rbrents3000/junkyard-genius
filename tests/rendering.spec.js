@@ -129,10 +129,10 @@ test.describe('Build Page Rendering', () => {
 test.describe('App Page Rendering', () => {
   test('browse page build cards are styled', async ({ page }) => {
     await page.goto('/app/browse/');
-    const gridCard = page.locator('.build-grid .build-card').first();
+    const gridCard = page.locator('#buildGrid a').first();
     await expect(gridCard).toBeVisible();
     const bg = await page.evaluate(() =>
-      getComputedStyle(document.querySelector('.build-grid .build-card')).backgroundColor
+      getComputedStyle(document.querySelector('#buildGrid a')).backgroundColor
     );
     expect(bg).not.toBe('rgba(0, 0, 0, 0)');
   });
@@ -140,7 +140,7 @@ test.describe('App Page Rendering', () => {
   test('browse page has grid layout', async ({ page }) => {
     await page.goto('/app/browse/');
     const display = await page.evaluate(() =>
-      getComputedStyle(document.querySelector('.build-grid')).display
+      getComputedStyle(document.getElementById('buildGrid')).display
     );
     expect(display).toBe('grid');
   });
@@ -159,10 +159,10 @@ test.describe('App Page Rendering', () => {
 
   test('toolbox page stats are styled', async ({ page }) => {
     await page.goto('/app/toolbox/');
-    const stat = page.locator('.stat-card').first();
+    const stat = page.locator('#stats > div').first();
     await expect(stat).toBeVisible();
     const bg = await page.evaluate(() =>
-      getComputedStyle(document.querySelector('.stat-card')).backgroundColor
+      getComputedStyle(document.querySelector('#stats > div')).backgroundColor
     );
     expect(bg).not.toBe('rgba(0, 0, 0, 0)');
   });
