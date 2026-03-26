@@ -216,55 +216,28 @@ raw_layout: true
   </div>
 </section>
 
-<!-- Build Sectors (Categories) -->
+<!-- Build Sectors (All 33 Categories) -->
 <section class="py-24 px-8 lg:px-16">
   <div class="mb-16">
     <h2 class="font-headline text-3xl font-black uppercase tracking-tight mb-2 text-on-surface">Build_Sectors</h2>
     <p class="text-slate-500 font-label text-xs uppercase tracking-widest">Select a discipline to view available schematics</p>
   </div>
-  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-    <!-- Fire & Plasma -->
-    <a class="group relative aspect-[4/5] bg-surface-container-low overflow-hidden rounded-sm p-8 flex flex-col justify-end no-underline" href="/categories/fire-and-plasma/">
-      <img alt="Fire & Plasma" class="absolute inset-0 w-full h-full object-cover opacity-40 grayscale group-hover:scale-110 group-hover:grayscale-0 transition-all duration-700" src="/images/categories/fire-and-plasma.jpg" loading="lazy" />
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+    {%- assign accents = "primary-container,secondary,tertiary,slate-400" | split: "," -%}
+    {%- assign hover_texts = "primary,secondary,tertiary,white" | split: "," -%}
+    {%- for cat in categories -%}
+    {%- assign accent_idx = forloop.index0 | modulo: 4 -%}
+    {%- assign accent = accents[accent_idx] -%}
+    {%- assign hover_text = hover_texts[accent_idx] -%}
+    <a class="group relative aspect-[4/5] bg-surface-container-low overflow-hidden rounded-sm p-8 flex flex-col justify-end no-underline" href="/categories/{{ cat.slug }}/">
+      <img alt="{{ cat.name }}" class="absolute inset-0 w-full h-full object-cover opacity-40 grayscale group-hover:scale-110 group-hover:grayscale-0 transition-all duration-700" src="{{ cat.image }}" loading="lazy" width="600" height="750" />
       <div class="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent"></div>
       <div class="relative z-10">
-        <div class="w-10 h-[2px] bg-primary-container mb-4 group-hover:w-full transition-all duration-500"></div>
-        <h4 class="font-headline text-2xl font-black uppercase group-hover:text-primary transition-colors text-on-surface">Fire & Plasma</h4>
-        <p class="text-[10px] font-label text-slate-400 uppercase tracking-widest mt-2">8 Builds</p>
+        <div class="w-10 h-[2px] bg-{{ accent }} mb-4 group-hover:w-full transition-all duration-500"></div>
+        <h4 class="font-headline text-xl font-black uppercase group-hover:text-{{ hover_text }} transition-colors text-on-surface leading-tight">{{ cat.name }}</h4>
+        <p class="text-[10px] font-label text-slate-400 uppercase tracking-widest mt-2">{{ cat.build_count }} Builds</p>
       </div>
     </a>
-
-    <!-- Mad Scientist -->
-    <a class="group relative aspect-[4/5] bg-surface-container-low overflow-hidden rounded-sm p-8 flex flex-col justify-end no-underline" href="/categories/mad-scientist/">
-      <img alt="Mad Scientist" class="absolute inset-0 w-full h-full object-cover opacity-40 grayscale group-hover:scale-110 group-hover:grayscale-0 transition-all duration-700" src="/images/categories/mad-scientist.jpg" loading="lazy" />
-      <div class="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent"></div>
-      <div class="relative z-10">
-        <div class="w-10 h-[2px] bg-secondary mb-4 group-hover:w-full transition-all duration-500"></div>
-        <h4 class="font-headline text-2xl font-black uppercase group-hover:text-secondary transition-colors text-on-surface">Mad Scientist</h4>
-        <p class="text-[10px] font-label text-slate-400 uppercase tracking-widest mt-2">10 Builds</p>
-      </div>
-    </a>
-
-    <!-- Pi & Arduino -->
-    <a class="group relative aspect-[4/5] bg-surface-container-low overflow-hidden rounded-sm p-8 flex flex-col justify-end no-underline" href="/categories/pi-and-arduino/">
-      <img alt="Pi & Arduino" class="absolute inset-0 w-full h-full object-cover opacity-40 grayscale group-hover:scale-110 group-hover:grayscale-0 transition-all duration-700" src="/images/categories/pi-and-arduino.jpg" loading="lazy" />
-      <div class="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent"></div>
-      <div class="relative z-10">
-        <div class="w-10 h-[2px] bg-tertiary mb-4 group-hover:w-full transition-all duration-500"></div>
-        <h4 class="font-headline text-2xl font-black uppercase group-hover:text-tertiary transition-colors text-on-surface">Pi & Arduino</h4>
-        <p class="text-[10px] font-label text-slate-400 uppercase tracking-widest mt-2">20 Builds</p>
-      </div>
-    </a>
-
-    <!-- Light & Visual -->
-    <a class="group relative aspect-[4/5] bg-surface-container-low overflow-hidden rounded-sm p-8 flex flex-col justify-end no-underline" href="/categories/light-and-visual/">
-      <img alt="Light & Visual" class="absolute inset-0 w-full h-full object-cover opacity-40 grayscale group-hover:scale-110 group-hover:grayscale-0 transition-all duration-700" src="/images/categories/light-and-visual.jpg" loading="lazy" />
-      <div class="absolute inset-0 bg-gradient-to-t from-background via-transparent to-transparent"></div>
-      <div class="relative z-10">
-        <div class="w-10 h-[2px] bg-slate-400 mb-4 group-hover:w-full transition-all duration-500"></div>
-        <h4 class="font-headline text-2xl font-black uppercase group-hover:text-white transition-colors text-on-surface">Light & Visual</h4>
-        <p class="text-[10px] font-label text-slate-400 uppercase tracking-widest mt-2">18 Builds</p>
-      </div>
-    </a>
+    {%- endfor -%}
   </div>
 </section>
