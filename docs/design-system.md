@@ -61,14 +61,16 @@ Source: `src/styles/main.css` (`@theme` block)
 
 ### Rating Bar Colors
 
-| Rating | Hex | CSS |
-|--------|-----|-----|
-| Jaw Drop | `#ff6b35` | `bg-[#ff6b35]` |
-| Brain Melt | `#3b82f6` | `bg-[#3b82f6]` |
-| Wallet | `#22c55e` | `bg-[#22c55e]` |
-| Spicy | `#ef4444` | `bg-[#ef4444]` |
-| Clout | `#7c3aed` | `bg-[#7c3aed]` |
-| Time | `#6b7280` | `bg-[#6b7280]` |
+Defined in `src/styles/main.css` (`@layer base`). Used via named classes, not inline hex.
+
+| Rating | Hex | Class |
+|--------|-----|-------|
+| Jaw Drop | `#ff6b35` | `rating-bar-fill jaw` |
+| Brain Melt | `#3b82f6` | `rating-bar-fill brain` |
+| Wallet | `#22c55e` | `rating-bar-fill wallet` |
+| Spicy | `#ef4444` | `rating-bar-fill spicy` |
+| Clout | `#7c3aed` | `rating-bar-fill clout` |
+| Time | `#c6c4ce` | `rating-bar-fill time` |
 
 ---
 
@@ -198,11 +200,11 @@ CSS: `.cat-build-card` has hover translateY(-2px) and border-color transition.
 ### Rating Bar (`ratingBar` shortcode)
 
 Defined in `.eleventy.js`. Renders 5 small spans (`w-6 h-2 rounded-sm`):
-- Filled: rating-specific color (e.g., `bg-[#ff6b35]`)
+- Filled: named color class (e.g., `rating-bar-fill jaw`)
 - Empty: `bg-surface-container-highest`
 
 ```liquid
-{% ratingBar ratings.jaw, 5, "bg-[#ff6b35]" %}
+{% ratingBar ratings.jaw, 5, "jaw" %}
 ```
 
 ### Prev/Next Navigation Cards
