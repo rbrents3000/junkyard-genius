@@ -44,7 +44,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.ignores.add(".github/**");
   eleventyConfig.ignores.add("test-results/**");
   eleventyConfig.ignores.add("tests/**");
-  eleventyConfig.ignores.add("docs/**");
+  // docs/ is now built — reference guides and safety docs are linked from 404 and builds
 
   // Pass through static assets
   eleventyConfig.addPassthroughCopy("images");
