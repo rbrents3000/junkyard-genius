@@ -1,3 +1,9 @@
+---
+layout: default
+title: "High Voltage Safety — Junkyard Genius"
+description: "Safety guide for Junkyard Genius builds."
+---
+
 # High Voltage Safety
 
 <p align="center">

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "General Safety — Junkyard Genius"
+description: "Safety guide for Junkyard Genius builds."
+---
+
 # General Safety
 
 <p align="center">

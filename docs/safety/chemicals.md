@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Chemical Safety — Junkyard Genius"
+description: "Safety guide for Junkyard Genius builds."
+---
+
 # Chemical Safety
 
 <p align="center">

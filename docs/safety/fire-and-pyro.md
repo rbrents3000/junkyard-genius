@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Fire & Pyrotechnic Safety — Junkyard Genius"
+description: "Safety guide for Junkyard Genius builds."
+---
+
 # Fire & Pyrotechnic Safety
 
 <p align="center">

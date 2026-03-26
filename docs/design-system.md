@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Design System Reference — Junkyard Genius"
+description: "Color tokens, typography, component patterns, and animation specs for the Precision Workshop design system."
+robots: "noindex, nofollow"
+---
+
 # Junkyard Genius — Design System Reference
 
 > **Creative North Star: "The Precision Workshop"**
