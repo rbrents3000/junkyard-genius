@@ -36,6 +36,7 @@ robots: "noindex, nofollow"
   </div>
 </div>
 
+<script src="/app/shared.js" defer></script>
 <script src="/app/quiz/build-data.js" defer></script>
 <script>
 document.addEventListener('DOMContentLoaded', function(){
@@ -52,18 +53,11 @@ document.addEventListener('DOMContentLoaded', function(){
   var activeTab = "completed";
   var grid = document.getElementById("buildGrid");
 
-  function getList(key) {
-    try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { console.warn("localStorage error:", e); return []; }
-  }
-  function setList(key, arr) { localStorage.setItem(key, JSON.stringify(arr)); }
+  // getList, setList, buildUrl provided by /app/shared.js
 
   function getBuildsForList(key) {
     var nums = getList(key);
     return BUILDS.filter(function(b) { return nums.indexOf(b.num) !== -1; });
-  }
-
-  function buildUrl(build) {
-    return "/categories/" + build.category + "/" + build.slug + "/";
   }
 
   function ratingBar(label, value, cls) {

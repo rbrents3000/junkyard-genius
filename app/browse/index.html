@@ -59,7 +59,8 @@ image: /images/og-social.jpg
   </div>
 </div>
 
-<!-- Build data (shared with quiz) -->
+<!-- Shared utilities and build data -->
+<script src="/app/shared.js" defer></script>
 <script src="/app/quiz/build-data.js" defer></script>
 <script>
 document.addEventListener('DOMContentLoaded', function(){
@@ -105,10 +106,7 @@ document.addEventListener('DOMContentLoaded', function(){
   var sortAsc = true;
   var showMyBuilds = false;
 
-  // localStorage helpers
-  function getList(key) {
-    try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { console.warn("localStorage error:", e); return []; }
-  }
+  // getList provided by /app/shared.js
   var completed = getList("jg-completed");
   var wantToBuild = getList("jg-wantToBuild");
 
@@ -149,9 +147,7 @@ document.addEventListener('DOMContentLoaded', function(){
     junkFilter.appendChild(opt);
   });
 
-  function buildUrl(build){
-    return "/categories/" + build.category + "/" + build.slug + "/";
-  }
+  // buildUrl provided by /app/shared.js
 
   function ratingBar(label, value, cls){
     var pct = (value / 5) * 100;

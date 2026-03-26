@@ -1,4 +1,4 @@
-var CACHE_NAME = 'jg-v6';
+var CACHE_NAME = 'jg-v7';
 
 self.addEventListener('install', function(event) {
   event.waitUntil(
@@ -7,6 +7,7 @@ self.addEventListener('install', function(event) {
         '/',
         '/offline.html',
         '/style.css',
+        '/app/shared.js',
         '/app/browse/index.html',
         '/app/quiz/index.html',
         '/app/toolbox/index.html',

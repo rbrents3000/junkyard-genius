@@ -228,15 +228,12 @@ raw_layout: true
 </nav>
 
 {%- comment -%} ── JavaScript ── {%- endcomment -%}
+<script src="/app/shared.js"></script>
 <script>
 (function(){
   var buildNum = {{ build_number }};
 
-  // ── LocalStorage helpers ──
-  function getList(key) {
-    try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { return []; }
-  }
-  function setList(key, arr) { localStorage.setItem(key, JSON.stringify(arr)); }
+  // getList, setList provided by /app/shared.js
   function toggle(key, num) {
     var list = getList(key);
     var idx = list.indexOf(num);

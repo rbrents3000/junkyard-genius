@@ -15,30 +15,12 @@
       <span class="material-symbols-outlined text-lg" aria-hidden="true">folder_open</span>
       All Projects
     </a>
-    <a class="text-slate-500 py-3 px-6 flex items-center gap-3 font-label text-xs uppercase tracking-widest hover:bg-surface-container-low transition-all no-underline" href="/categories/fire-and-plasma/">
-      <span class="material-symbols-outlined text-lg" aria-hidden="true">local_fire_department</span>
-      Fire & Plasma
+    {%- for cat in categories %}
+    <a class="text-slate-500 py-2.5 px-6 flex items-center gap-3 font-label text-[10px] uppercase tracking-widest hover:bg-surface-container-low transition-all no-underline" href="/categories/{{ cat.slug }}/">
+      <span class="material-symbols-outlined text-base" aria-hidden="true">folder</span>
+      {{ cat.name }}
     </a>
-    <a class="text-slate-500 py-3 px-6 flex items-center gap-3 font-label text-xs uppercase tracking-widest hover:bg-surface-container-low transition-all no-underline" href="/categories/mad-scientist/">
-      <span class="material-symbols-outlined text-lg" aria-hidden="true">psychology</span>
-      Mad Scientist
-    </a>
-    <a class="text-slate-500 py-3 px-6 flex items-center gap-3 font-label text-xs uppercase tracking-widest hover:bg-surface-container-low transition-all no-underline" href="/categories/pi-and-arduino/">
-      <span class="material-symbols-outlined text-lg" aria-hidden="true">memory</span>
-      Pi & Arduino
-    </a>
-    <a class="text-slate-500 py-3 px-6 flex items-center gap-3 font-label text-xs uppercase tracking-widest hover:bg-surface-container-low transition-all no-underline" href="/categories/light-and-visual/">
-      <span class="material-symbols-outlined text-lg" aria-hidden="true">lightbulb</span>
-      Light & Visual
-    </a>
-    <a class="text-slate-500 py-3 px-6 flex items-center gap-3 font-label text-xs uppercase tracking-widest hover:bg-surface-container-low transition-all no-underline" href="/categories/sound-and-music/">
-      <span class="material-symbols-outlined text-lg" aria-hidden="true">graphic_eq</span>
-      Sound & Music
-    </a>
-    <a class="text-slate-500 py-3 px-6 flex items-center gap-3 font-label text-xs uppercase tracking-widest hover:bg-surface-container-low transition-all no-underline" href="/categories/functional-machines/">
-      <span class="material-symbols-outlined text-lg" aria-hidden="true">precision_manufacturing</span>
-      Machines
-    </a>
+    {%- endfor %}
   </nav>
 
   <!-- System Status -->
