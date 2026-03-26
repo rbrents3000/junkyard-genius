@@ -113,7 +113,7 @@ image: /images/og-quiz.jpg
       <div class="text-center"><span class="stat-num text-3xl font-extrabold text-primary-container block">33</span><span class="font-label text-xs text-outline-variant uppercase tracking-wider">Categories</span></div>
       <div class="text-center"><span class="stat-num text-3xl font-extrabold text-primary-container block">~60s</span><span class="font-label text-xs text-outline-variant uppercase tracking-wider">To complete</span></div>
     </div>
-    <button class="btn-start inline-flex items-center gap-2.5 px-12 py-4.5 rounded-sm border-none font-body text-lg font-bold cursor-pointer bg-gradient-to-br from-primary-container to-inverse-primary text-white shadow-[0_4px_24px_rgba(255,107,53,0.3),0_0_0_1px_rgba(255,107,53,0.2)] transition-all" onclick="startQuiz()">Start the Quiz <span>&#8594;</span></button>
+    <button class="btn-start inline-flex items-center gap-2.5 px-12 py-5 rounded-sm border-none font-body text-lg font-bold cursor-pointer bg-gradient-to-br from-primary-container to-inverse-primary text-white shadow-[0_4px_24px_rgba(255,107,53,0.3),0_0_0_1px_rgba(255,107,53,0.2)] transition-all" onclick="startQuiz()">Start the Quiz <span>&#8594;</span></button>
     <p class="text-outline-variant text-sm mt-5">or press <kbd class="inline-block px-2 py-0.5 rounded bg-surface-container-low border border-outline-variant font-body text-xs text-slate-500">Enter</kbd> to begin</p>
   </div>
 
@@ -134,9 +134,9 @@ image: /images/og-quiz.jpg
     </div>
 
     <div class="flex gap-3 justify-center mt-12 flex-wrap">
-      <button class="btn btn-primary px-7 py-3.5 rounded-sm border-none font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 bg-gradient-to-br from-primary-container to-inverse-primary text-white shadow-[0_2px_12px_rgba(255,107,53,0.2)]" onclick="retakeQuiz()">&#8635; Retake Quiz</button>
-      <a class="btn px-6 py-3.5 rounded-sm border border-outline-variant bg-surface-container-low text-slate-500 font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 hover:border-outline hover:text-on-surface no-underline" href="/app/browse/">&#128269; Browse All Builds</a>
-      <a class="btn px-6 py-3.5 rounded-sm border border-outline-variant bg-surface-container-low text-slate-500 font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 hover:border-outline hover:text-on-surface no-underline" href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">&#8592; Back to Repo</a>
+      <button class="btn btn-primary px-7 py-3 rounded-sm border-none font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 bg-gradient-to-br from-primary-container to-inverse-primary text-white shadow-[0_2px_12px_rgba(255,107,53,0.2)]" onclick="retakeQuiz()">&#8635; Retake Quiz</button>
+      <a class="btn px-6 py-3 rounded-sm border border-outline-variant bg-surface-container-low text-slate-500 font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 hover:border-outline hover:text-on-surface no-underline" href="/app/browse/">&#128269; Browse All Builds</a>
+      <a class="btn px-6 py-3 rounded-sm border border-outline-variant bg-surface-container-low text-slate-500 font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 hover:border-outline hover:text-on-surface no-underline" href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">&#8592; Back to Repo</a>
     </div>
   </div>
 
@@ -283,14 +283,14 @@ function renderQuestions() {
 
     html += '<div class="nav-row flex justify-between items-center mt-8 gap-3">';
     if (qi > 0) {
-      html += '<button class="btn px-6 py-3.5 rounded-sm border border-outline-variant bg-surface-container-low text-slate-500 font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 hover:border-outline hover:text-on-surface" onclick="prevQuestion()"><span>&#8592;</span> Back</button>';
+      html += '<button class="btn px-6 py-3 rounded-sm border border-outline-variant bg-surface-container-low text-slate-500 font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 hover:border-outline hover:text-on-surface" onclick="prevQuestion()"><span>&#8592;</span> Back</button>';
     } else {
       html += '<span></span>';
     }
     if (qi < TOTAL_Q - 1) {
-      html += '<button class="btn btn-primary px-7 py-3.5 rounded-sm border-none font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 bg-gradient-to-br from-primary-container to-inverse-primary text-white shadow-[0_2px_12px_rgba(255,107,53,0.2)] focus-visible:outline-2 focus-visible:outline-primary-container focus-visible:outline-offset-2" id="next-'+qi+'" onclick="nextQuestion()" disabled>Next <span>&#8594;</span></button>';
+      html += '<button class="btn btn-primary px-7 py-3 rounded-sm border-none font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 bg-gradient-to-br from-primary-container to-inverse-primary text-white shadow-[0_2px_12px_rgba(255,107,53,0.2)] focus-visible:outline-2 focus-visible:outline-primary-container focus-visible:outline-offset-2" id="next-'+qi+'" onclick="nextQuestion()" disabled>Next <span>&#8594;</span></button>';
     } else {
-      html += '<button class="btn btn-primary px-7 py-3.5 rounded-sm border-none font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 bg-gradient-to-br from-primary-container to-inverse-primary text-white shadow-[0_2px_12px_rgba(255,107,53,0.2)] focus-visible:outline-2 focus-visible:outline-primary-container focus-visible:outline-offset-2" id="next-'+qi+'" onclick="showResults()" disabled>Find My Builds <span>&#9889;</span></button>';
+      html += '<button class="btn btn-primary px-7 py-3 rounded-sm border-none font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 bg-gradient-to-br from-primary-container to-inverse-primary text-white shadow-[0_2px_12px_rgba(255,107,53,0.2)] focus-visible:outline-2 focus-visible:outline-primary-container focus-visible:outline-offset-2" id="next-'+qi+'" onclick="showResults()" disabled>Find My Builds <span>&#9889;</span></button>';
     }
     html += '</div>';
     html += '<div class="shortcut-legend text-center text-[0.72rem] text-outline-variant mt-4 tracking-wide">1-' + q.options.length + ' select &middot; &larr;&rarr; navigate &middot; Esc back</div>';

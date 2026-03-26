@@ -1,4 +1,4 @@
-var CACHE_NAME = 'jg-v5';
+var CACHE_NAME = 'jg-v6';
 
 self.addEventListener('install', function(event) {
   event.waitUntil(
@@ -10,8 +10,7 @@ self.addEventListener('install', function(event) {
         '/app/browse/index.html',
         '/app/quiz/index.html',
         '/app/toolbox/index.html',
-        '/app/quiz/build-data.js',
-        '/app/shared.css'
+        '/app/quiz/build-data.js'
       ]);
     })
   );
