@@ -92,6 +92,12 @@ input[type="checkbox"] {
   accent-color: #ff6b35;
 }
 
+/* ── Keyboard focus indicator ── */
+:focus-visible {
+  outline: 2px solid #ff6b35;
+  outline-offset: 2px;
+}
+
 /* ── Build tracker buttons ── */
 .tracker-btn {
   padding: 10px 18px;
@@ -305,6 +311,12 @@ input[type="checkbox"] {
   .rating-bar-fill.spicy { background: #ef4444; }
   .rating-bar-fill.clout { background: #7c3aed; }
   .rating-bar-fill.time { background: #c6c4ce; }
+  .rating-val-jaw { color: #ff6b35; }
+  .rating-val-brain { color: #3b82f6; }
+  .rating-val-wallet { color: #22c55e; }
+  .rating-val-spicy { color: #ef4444; }
+  .rating-val-clout { color: #7c3aed; }
+  .rating-val-time { color: #c6c4ce; }
 }
 
 /* ── Category Page: Card Grid ── */

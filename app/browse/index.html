@@ -6,171 +6,56 @@ description: "Search, filter, and sort all 338 DIY builds from salvaged parts. F
 image: /images/og-social.jpg
 ---
 
-<link rel="stylesheet" href="/app/shared.css">
-<style>
-/* ── Filters bar ── */
-.filters{
-  display:flex;flex-wrap:wrap;gap:12px;margin-bottom:20px;
-  align-items:center;
-}
-.search-box{
-  flex:1;min-width:200px;
-  background:var(--card);border:1.5px solid var(--border);border-radius:var(--radius);
-  padding:12px 16px;color:var(--text);font-family:inherit;font-size:0.95rem;
-  transition:border-color 0.2s;
-}
-.search-box:focus{outline:none;border-color:var(--orange)}
-.search-box::placeholder{color:var(--text-muted)}
-
-select.filter-select{
-  background:var(--card);border:1.5px solid var(--border);border-radius:var(--radius);
-  padding:12px 16px;color:var(--text);font-family:inherit;font-size:0.85rem;
-  cursor:pointer;transition:border-color 0.2s;appearance:none;
-  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%237a7f93' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
-  background-repeat:no-repeat;background-position:right 12px center;
-  padding-right:32px;
-}
-select.filter-select:focus{outline:none;border-color:var(--orange)}
-
-/* ── Slider filters ── */
-.slider-group{
-  display:flex;align-items:center;gap:8px;
-  font-size:0.8rem;font-weight:600;color:var(--text-dim);white-space:nowrap;
-}
-.slider-group input[type="range"]{
-  width:80px;accent-color:var(--orange);cursor:pointer;
-}
-.slider-val{
-  width:16px;text-align:center;font-weight:700;color:var(--text);font-size:0.85rem;
-}
-
-/* ── Sort bar ── */
-.sort-bar{
-  display:flex;align-items:center;justify-content:space-between;
-  margin-bottom:16px;flex-wrap:wrap;gap:8px;
-}
-.result-count{font-size:0.85rem;color:var(--text-dim);font-weight:600}
-.sort-pills{display:flex;gap:6px;flex-wrap:wrap}
-.sort-pill{
-  padding:10px 14px;border-radius:var(--radius);border:1px solid var(--border);
-  background:var(--card);color:var(--text-dim);font-size:0.72rem;font-weight:600;
-  cursor:pointer;transition:all 0.2s;letter-spacing:0.02em;text-transform:uppercase;
-  font-family:'Space Grotesk',sans-serif;min-height:44px;display:inline-flex;align-items:center;
-}
-.sort-pill:hover{border-color:var(--border-hover);color:var(--text)}
-.sort-pill.active{border-color:var(--orange);color:var(--orange);background:var(--orange-glow)}
-
-/* ── Random button ── */
-.random-btn{
-  padding:10px 20px;border-radius:var(--radius);border:none;
-  background:linear-gradient(135deg,var(--orange),var(--orange-dark));color:#fff;
-  font-family:'Space Grotesk',sans-serif;font-size:0.85rem;font-weight:700;cursor:pointer;
-  transition:all 0.2s;white-space:nowrap;text-transform:uppercase;letter-spacing:0.04em;
-}
-.random-btn:hover{transform:translateY(-1px);box-shadow:0 4px 16px rgba(255,107,53,0.3)}
-
-/* ── Build of the Day ── */
-.botd-card{
-  background:linear-gradient(135deg,rgba(255,107,53,0.06),rgba(124,58,237,0.06));
-  border:1.5px solid var(--orange);border-radius:var(--radius);
-  padding:4px 4px 4px 20px;margin-bottom:20px;
-  display:flex;align-items:center;gap:16px;
-}
-.botd-card .build-card{border:none;background:transparent;flex:1}
-.botd-label{
-  font-size:0.72rem;font-weight:700;color:var(--orange);
-  text-transform:uppercase;letter-spacing:0.08em;
-  writing-mode:vertical-lr;transform:rotate(180deg);
-  font-family:'Space Grotesk',sans-serif;
-}
-
-/* ── Tracker badges on cards ── */
-.card-badge{
-  font-size:0.65rem;font-weight:700;padding:2px 8px;border-radius:var(--radius);
-  margin-left:auto;white-space:nowrap;
-}
-.card-badge.completed{color:var(--green);background:rgba(34,197,94,0.1);border:1px solid rgba(34,197,94,0.3)}
-.card-badge.want{color:var(--orange);background:var(--orange-glow);border:1px solid rgba(255,107,53,0.3)}
-
-/* ── My Builds filter ── */
-.filter-toggle{
-  padding:8px 16px;border-radius:var(--radius);
-  border:1.5px solid var(--border);background:var(--card);
-  color:var(--text-dim);font-family:'Space Grotesk',sans-serif;font-size:0.85rem;font-weight:600;
-  cursor:pointer;transition:all 0.2s;white-space:nowrap;text-transform:uppercase;letter-spacing:0.04em;
-}
-.filter-toggle.active{border-color:var(--green);color:var(--green);background:rgba(34,197,94,0.08)}
-.filter-toggle:hover{border-color:var(--border-hover)}
-
-/* ── No results ── */
-.no-results{
-  text-align:center;padding:80px 20px;
-}
-.no-results .icon{font-size:3rem;margin-bottom:16px}
-.no-results h3{font-size:1.3rem;font-weight:700;margin-bottom:8px}
-.no-results p{color:var(--text-dim);font-size:0.95rem}
-
-/* ── Mobile ── */
-@media(max-width:600px){
-  .filters{flex-direction:column}
-  .search-box{min-width:100%}
-  .slider-group input[type="range"]{width:80px}
-  .build-grid{grid-template-columns:1fr}
-  .card-ratings{grid-template-columns:repeat(2,1fr)}
-  .sort-bar{flex-direction:column;align-items:flex-start}
-}
-</style>
-
-<div class="container">
+<div class="max-w-5xl mx-auto px-6 py-6 relative z-[1]">
   <!-- Build of the Day -->
-  <div class="botd-card" id="botdCard"></div>
+  <div class="flex items-center gap-4 rounded-sm border-[1.5px] border-primary-container p-1 pl-5 mb-5 bg-gradient-to-br from-primary-container/[0.06] to-[rgba(124,58,237,0.06)]" id="botdCard"></div>
 
   <!-- Filters -->
-  <div class="filters">
-    <input type="text" class="search-box" id="searchBox" placeholder="Search builds..." aria-label="Search builds by name">
-    <select class="filter-select" id="categoryFilter" aria-label="Filter by category">
+  <div class="flex flex-wrap gap-3 mb-5 items-center max-sm:flex-col">
+    <input type="text" class="flex-1 min-w-[200px] max-sm:min-w-full bg-surface-container-low border-[1.5px] border-outline-variant rounded-sm px-4 py-3 text-on-surface font-sans text-[0.95rem] transition-colors focus:outline-none focus:border-primary-container placeholder:text-slate-600" id="searchBox" placeholder="Search builds..." aria-label="Search builds by name">
+    <select class="bg-surface-container-low border-[1.5px] border-outline-variant rounded-sm px-4 py-3 pr-8 text-on-surface font-sans text-[0.85rem] cursor-pointer transition-colors appearance-none bg-no-repeat bg-[right_12px_center] focus:outline-none focus:border-primary-container" id="categoryFilter" aria-label="Filter by category" style="background-image:url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%237a7f93' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E&quot;)">
       <option value="">All Categories</option>
     </select>
-    <select class="filter-select" id="junkFilter" aria-label="Filter by junk source">
+    <select class="bg-surface-container-low border-[1.5px] border-outline-variant rounded-sm px-4 py-3 pr-8 text-on-surface font-sans text-[0.85rem] cursor-pointer transition-colors appearance-none bg-no-repeat bg-[right_12px_center] focus:outline-none focus:border-primary-container" id="junkFilter" aria-label="Filter by junk source" style="background-image:url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%237a7f93' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E&quot;)">
       <option value="">All Junk Sources</option>
     </select>
-    <div class="slider-group">
+    <div class="flex items-center gap-2 text-[0.8rem] font-semibold text-slate-400 whitespace-nowrap">
       <label for="brainMax">Brain &#8804;</label>
-      <input type="range" id="brainMax" min="1" max="5" value="5">
-      <span class="slider-val" id="brainVal">5</span>
+      <input type="range" id="brainMax" min="1" max="5" value="5" class="w-20 accent-primary-container cursor-pointer">
+      <span class="w-4 text-center font-bold text-on-surface text-[0.85rem]" id="brainVal">5</span>
     </div>
-    <div class="slider-group">
+    <div class="flex items-center gap-2 text-[0.8rem] font-semibold text-slate-400 whitespace-nowrap">
       <label for="spicyMax">Spicy &#8804;</label>
-      <input type="range" id="spicyMax" min="1" max="5" value="5">
-      <span class="slider-val" id="spicyVal">5</span>
+      <input type="range" id="spicyMax" min="1" max="5" value="5" class="w-20 accent-primary-container cursor-pointer">
+      <span class="w-4 text-center font-bold text-on-surface text-[0.85rem]" id="spicyVal">5</span>
     </div>
-    <button class="filter-toggle" id="myBuildsFilter" aria-pressed="false">&#9745; My Builds</button>
-    <button class="random-btn" id="randomBtn">&#127922; Feeling Lucky?</button>
+    <button class="rounded-sm border-[1.5px] border-outline-variant bg-surface-container-low text-slate-400 font-label text-[0.85rem] font-semibold cursor-pointer transition-all whitespace-nowrap uppercase tracking-[0.04em] px-4 py-2 hover:border-outline data-[active]:border-green-500 data-[active]:text-green-500 data-[active]:bg-green-500/[0.08]" id="myBuildsFilter" aria-pressed="false">&#9745; My Builds</button>
+    <button class="rounded-sm border-none bg-gradient-to-br from-primary-container to-inverse-primary text-white font-label text-[0.85rem] font-bold cursor-pointer transition-all whitespace-nowrap uppercase tracking-[0.04em] px-5 py-2.5 hover:-translate-y-px hover:shadow-[0_4px_16px_rgba(255,107,53,0.3)]" id="randomBtn">&#127922; Feeling Lucky?</button>
   </div>
 
   <!-- Sort bar -->
-  <div class="sort-bar">
-    <span class="result-count" id="resultCount">Showing 338 of 338 builds</span>
-    <div class="sort-pills">
-      <button class="sort-pill active" data-sort="num" data-label="Number">Number &#8593;</button>
-      <button class="sort-pill" data-sort="jaw" data-label="Jaw Drop">Jaw Drop</button>
-      <button class="sort-pill" data-sort="brain" data-label="Brain Melt">Brain Melt</button>
-      <button class="sort-pill" data-sort="spicy" data-label="Spicy">Spicy</button>
-      <button class="sort-pill" data-sort="clout" data-label="Clout">Clout</button>
-      <button class="sort-pill" data-sort="wallet" data-label="Wallet">Wallet</button>
-      <button class="sort-pill" data-sort="time" data-label="Time">Time</button>
+  <div class="flex items-center justify-between mb-4 flex-wrap gap-2 max-sm:flex-col max-sm:items-start">
+    <span class="text-[0.85rem] text-slate-400 font-semibold" id="resultCount">Showing 338 of 338 builds</span>
+    <div class="flex gap-1.5 flex-wrap" id="sortPills">
+      <button class="sort-pill px-3.5 py-2.5 rounded-sm border border-primary-container bg-primary-container/10 text-primary-container text-[0.72rem] font-semibold cursor-pointer transition-all tracking-[0.02em] uppercase font-label min-h-[44px] inline-flex items-center" data-sort="num" data-label="Number">Number &#8593;</button>
+      <button class="sort-pill px-3.5 py-2.5 rounded-sm border border-outline-variant bg-surface-container-low text-slate-400 text-[0.72rem] font-semibold cursor-pointer transition-all tracking-[0.02em] uppercase font-label min-h-[44px] inline-flex items-center hover:border-outline hover:text-on-surface" data-sort="jaw" data-label="Jaw Drop">Jaw Drop</button>
+      <button class="sort-pill px-3.5 py-2.5 rounded-sm border border-outline-variant bg-surface-container-low text-slate-400 text-[0.72rem] font-semibold cursor-pointer transition-all tracking-[0.02em] uppercase font-label min-h-[44px] inline-flex items-center hover:border-outline hover:text-on-surface" data-sort="brain" data-label="Brain Melt">Brain Melt</button>
+      <button class="sort-pill px-3.5 py-2.5 rounded-sm border border-outline-variant bg-surface-container-low text-slate-400 text-[0.72rem] font-semibold cursor-pointer transition-all tracking-[0.02em] uppercase font-label min-h-[44px] inline-flex items-center hover:border-outline hover:text-on-surface" data-sort="spicy" data-label="Spicy">Spicy</button>
+      <button class="sort-pill px-3.5 py-2.5 rounded-sm border border-outline-variant bg-surface-container-low text-slate-400 text-[0.72rem] font-semibold cursor-pointer transition-all tracking-[0.02em] uppercase font-label min-h-[44px] inline-flex items-center hover:border-outline hover:text-on-surface" data-sort="clout" data-label="Clout">Clout</button>
+      <button class="sort-pill px-3.5 py-2.5 rounded-sm border border-outline-variant bg-surface-container-low text-slate-400 text-[0.72rem] font-semibold cursor-pointer transition-all tracking-[0.02em] uppercase font-label min-h-[44px] inline-flex items-center hover:border-outline hover:text-on-surface" data-sort="wallet" data-label="Wallet">Wallet</button>
+      <button class="sort-pill px-3.5 py-2.5 rounded-sm border border-outline-variant bg-surface-container-low text-slate-400 text-[0.72rem] font-semibold cursor-pointer transition-all tracking-[0.02em] uppercase font-label min-h-[44px] inline-flex items-center hover:border-outline hover:text-on-surface" data-sort="time" data-label="Time">Time</button>
     </div>
   </div>
 
   <!-- Build grid -->
-  <div class="build-grid" id="buildGrid" aria-live="polite"></div>
+  <div class="grid grid-cols-[repeat(auto-fill,minmax(320px,1fr))] gap-3 max-sm:grid-cols-1" id="buildGrid" aria-live="polite"></div>
 
   <!-- No results -->
-  <div class="no-results" id="noResults" style="display:none">
-    <div class="icon">&#128557;</div>
-    <h3>No builds match those filters</h3>
-    <p>Try loosening up your search or clearing some filters.</p>
-    <button class="random-btn" style="margin-top:16px" id="clearFiltersBtn">Clear All Filters</button>
+  <div class="text-center py-20 px-5 hidden" id="noResults">
+    <div class="text-5xl mb-4">&#128557;</div>
+    <h3 class="text-xl font-bold mb-2 font-headline uppercase tracking-tight">No builds match those filters</h3>
+    <p class="text-slate-400 text-[0.95rem]">Try loosening up your search or clearing some filters.</p>
+    <button class="rounded-sm border-none bg-gradient-to-br from-primary-container to-inverse-primary text-white font-label text-[0.85rem] font-bold cursor-pointer transition-all whitespace-nowrap uppercase tracking-[0.04em] px-5 py-2.5 mt-4 hover:-translate-y-px hover:shadow-[0_4px_16px_rgba(255,107,53,0.3)]" id="clearFiltersBtn">Clear All Filters</button>
   </div>
 </div>
 
@@ -180,7 +65,7 @@ select.filter-select:focus{outline:none;border-color:var(--orange)}
 document.addEventListener('DOMContentLoaded', function(){
   // Guard against build-data.js load failure
   if (typeof BUILDS === "undefined" || !BUILDS.length) {
-    document.getElementById("buildGrid").innerHTML = '<p style="text-align:center;padding:80px 20px;color:#7a7f93">Could not load build data. Please refresh the page.</p>';
+    document.getElementById("buildGrid").innerHTML = '<p class="text-center py-20 px-5 text-slate-500">Could not load build data. Please refresh the page.</p>';
     return;
   }
 
@@ -210,6 +95,11 @@ document.addEventListener('DOMContentLoaded', function(){
   var sortPills = document.querySelectorAll(".sort-pill");
   var myBuildsBtn = document.getElementById("myBuildsFilter");
   var randomBtn = document.getElementById("randomBtn");
+
+  // Sort pill class constants
+  var PILL_BASE = "sort-pill px-3.5 py-2.5 rounded-sm border text-[0.72rem] font-semibold cursor-pointer transition-all tracking-[0.02em] uppercase font-label min-h-[44px] inline-flex items-center";
+  var PILL_INACTIVE = PILL_BASE + " border-outline-variant bg-surface-container-low text-slate-400 hover:border-outline hover:text-on-surface";
+  var PILL_ACTIVE = PILL_BASE + " border-primary-container bg-primary-container/10 text-primary-container";
 
   var currentSort = "num";
   var sortAsc = true;
@@ -265,26 +155,26 @@ document.addEventListener('DOMContentLoaded', function(){
 
   function ratingBar(label, value, cls){
     var pct = (value / 5) * 100;
-    return '<div class="rating-item">'
-      + '<span class="rating-label">' + label + '</span>'
-      + '<div class="rating-bar" role="meter" aria-label="' + label + '" aria-valuenow="' + value + '" aria-valuemin="0" aria-valuemax="5"><div class="rating-bar-fill ' + cls + '" style="width:' + pct + '%"></div></div>'
-      + '<span class="rating-val ' + cls + '">' + value + '</span>'
+    return '<div class="flex items-center gap-1.5">'
+      + '<span class="text-[0.65rem] font-semibold text-slate-400 w-[34px] uppercase tracking-[0.04em] font-label">' + label + '</span>'
+      + '<div class="flex-1 h-1 rounded-full bg-surface-container-highest overflow-hidden" role="meter" aria-label="' + label + '" aria-valuenow="' + value + '" aria-valuemin="0" aria-valuemax="5"><div class="rating-bar-fill ' + cls + ' h-full rounded-full transition-[width] duration-400" style="width:' + pct + '%"></div></div>'
+      + '<span class="text-[0.65rem] font-semibold w-3 text-right rating-val-' + cls + '">' + value + '</span>'
       + '</div>';
   }
 
   function renderCard(build){
     var badge = '';
-    if (completed.indexOf(build.num) !== -1) badge = '<span class="card-badge completed">&#10003; Done</span>';
-    else if (wantToBuild.indexOf(build.num) !== -1) badge = '<span class="card-badge want">&#128204; Want</span>';
+    if (completed.indexOf(build.num) !== -1) badge = '<span class="text-[0.65rem] font-bold py-0.5 px-2 rounded-sm ml-auto whitespace-nowrap text-green-500 bg-green-500/10 border border-green-500/30">&#10003; Done</span>';
+    else if (wantToBuild.indexOf(build.num) !== -1) badge = '<span class="text-[0.65rem] font-bold py-0.5 px-2 rounded-sm ml-auto whitespace-nowrap text-primary-container bg-primary-container/10 border border-primary-container/30">&#128204; Want</span>';
 
-    return '<a class="build-card" href="' + buildUrl(build) + '">'
-      + '<div class="card-top">'
-      + '<span class="card-num">#' + build.num + '</span>'
-      + '<span class="card-name">' + build.name + '</span>'
+    return '<a class="block bg-surface-container-low border border-outline-variant rounded-sm px-6 py-5 cursor-pointer no-underline text-inherit transition-all hover:border-primary-container hover:-translate-y-0.5 hover:shadow-lg" href="' + buildUrl(build) + '">'
+      + '<div class="flex items-center gap-3 mb-2.5">'
+      + '<span class="text-xs font-extrabold text-primary-container bg-primary-container/[0.12] py-1 px-2.5 rounded-[1px] whitespace-nowrap font-label">#' + build.num + '</span>'
+      + '<span class="text-base font-bold flex-1 leading-tight overflow-hidden text-ellipsis whitespace-nowrap font-headline">' + build.name + '</span>'
       + badge
       + '</div>'
-      + '<span class="card-category">' + build.categoryName + '</span>'
-      + '<div class="card-ratings">'
+      + '<span class="inline-block bg-background border border-outline-variant rounded-sm py-0.5 px-3 text-[0.68rem] font-semibold text-slate-400 mb-3 tracking-[0.04em] uppercase font-label">' + build.categoryName + '</span>'
+      + '<div class="grid grid-cols-3 gap-x-3.5 gap-y-1.5 max-sm:grid-cols-2">'
       + ratingBar("Jaw", build.jaw, "jaw")
       + ratingBar("Brain", build.brain, "brain")
       + ratingBar("Wallet", build.wallet, "wallet")
@@ -329,10 +219,10 @@ document.addEventListener('DOMContentLoaded', function(){
 
     if(sorted.length === 0){
       buildGrid.innerHTML = "";
-      noResults.style.display = "block";
+      noResults.classList.remove("hidden");
       return;
     }
-    noResults.style.display = "none";
+    noResults.classList.add("hidden");
 
     var html = "";
     for(var i = 0; i < sorted.length; i++){
@@ -374,10 +264,10 @@ document.addEventListener('DOMContentLoaded', function(){
         sortAsc = newSort === "num";
       }
       sortPills.forEach(function(p){
-        p.classList.remove("active");
+        p.className = PILL_INACTIVE;
         p.textContent = p.getAttribute("data-label");
       });
-      this.classList.add("active");
+      this.className = PILL_ACTIVE;
       this.textContent = this.getAttribute("data-label") + (sortAsc ? " \u2191" : " \u2193");
       render();
       if(typeof gtag==='function') gtag('event','browse_sort',{sort_by:currentSort,sort_direction:sortAsc?'asc':'desc'});
@@ -394,7 +284,15 @@ document.addEventListener('DOMContentLoaded', function(){
   // My Builds filter
   myBuildsBtn.addEventListener("click", function(){
     showMyBuilds = !showMyBuilds;
-    this.classList.toggle("active", showMyBuilds);
+    if (showMyBuilds) {
+      this.setAttribute("data-active", "");
+      this.classList.remove("border-outline-variant", "text-slate-400", "bg-surface-container-low");
+      this.classList.add("border-green-500", "text-green-500", "bg-green-500/[0.08]");
+    } else {
+      this.removeAttribute("data-active");
+      this.classList.remove("border-green-500", "text-green-500", "bg-green-500/[0.08]");
+      this.classList.add("border-outline-variant", "text-slate-400", "bg-surface-container-low");
+    }
     this.setAttribute("aria-pressed", showMyBuilds);
     render();
     if(typeof gtag==='function') gtag('event','browse_my_builds_toggle',{enabled:showMyBuilds});
@@ -403,7 +301,13 @@ document.addEventListener('DOMContentLoaded', function(){
   // Build of the Day
   var botd = getBuildOfTheDay();
   var botdCard = document.getElementById("botdCard");
-  botdCard.innerHTML = '<span class="botd-label">&#9734; Build of the Day</span>' + renderCard(botd);
+  botdCard.innerHTML = '<span class="text-[0.72rem] font-bold text-primary-container uppercase tracking-[0.08em] font-label [writing-mode:vertical-lr] rotate-180">&#9734; Build of the Day</span>' + renderCard(botd);
+  // Remove card border/bg inside botd since botd-card is the container
+  var innerCard = botdCard.querySelector('a');
+  if (innerCard) {
+    innerCard.classList.remove("border", "border-outline-variant", "bg-surface-container-low");
+    innerCard.classList.add("border-none", "bg-transparent", "flex-1");
+  }
 
   // Initial render
   render();
@@ -416,7 +320,9 @@ document.addEventListener('DOMContentLoaded', function(){
     brainMax.value = 5; brainVal.textContent = "5";
     spicyMax.value = 5; spicyVal.textContent = "5";
     showMyBuilds = false;
-    myBuildsBtn.classList.remove("active");
+    myBuildsBtn.removeAttribute("data-active");
+    myBuildsBtn.classList.remove("border-green-500", "text-green-500", "bg-green-500/[0.08]");
+    myBuildsBtn.classList.add("border-outline-variant", "text-slate-400", "bg-surface-container-low");
     render();
     if(typeof gtag==='function') gtag('event','browse_clear_filters');
   });

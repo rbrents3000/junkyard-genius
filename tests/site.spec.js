@@ -125,8 +125,9 @@ test.describe('Browse Page', () => {
 
   test('sort pills show direction arrows', async ({ page }) => {
     await page.goto('/app/browse/');
-    const activePill = page.locator('.sort-pill.active');
-    const text = await activePill.textContent();
+    // First pill (Number) is active by default and shows an arrow
+    const firstPill = page.locator('.sort-pill').first();
+    const text = await firstPill.textContent();
     expect(text).toMatch(/[↑↓]/);
   });
 
@@ -166,7 +167,8 @@ test.describe('Browse Page', () => {
 
   test('build cards link to valid pages', async ({ page }) => {
     await page.goto('/app/browse/');
-    const firstCard = page.locator('.build-card').first();
+    // Build cards are <a> elements inside #buildGrid
+    const firstCard = page.locator('#buildGrid a').first();
     const href = await firstCard.getAttribute('href');
     expect(href).toMatch(/categories\//);
   });
@@ -258,7 +260,7 @@ test.describe('Toolbox Page', () => {
 
   test('tabs switch between completed and want-to-build', async ({ page }) => {
     await page.goto('/app/toolbox/');
-    const wantTab = page.locator('.tab[data-tab="want"]');
+    const wantTab = page.locator('[data-tab="want"]');
     await wantTab.click();
     await expect(wantTab).toHaveClass(/active/);
   });
@@ -492,7 +494,7 @@ test.describe('Design Consistency', () => {
 
   test('browse build cards have trailing slashes', async ({ page }) => {
     await page.goto('/app/browse/');
-    const hrefs = await page.locator('.build-card').evaluateAll(els =>
+    const hrefs = await page.locator('#buildGrid a').evaluateAll(els =>
       els.slice(0, 5).map(el => el.getAttribute('href'))
     );
     for (const href of hrefs) {

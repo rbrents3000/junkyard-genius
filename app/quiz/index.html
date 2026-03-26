@@ -5,402 +5,144 @@ title: "Build Finder Quiz — Junkyard Genius"
 description: "Answer 6 questions. We'll match you with the perfect DIY build from 338 salvaged-parts projects."
 image: /images/og-quiz.jpg
 ---
-<link rel="stylesheet" href="/app/shared.css">
 <style>
-/* ── Step indicators ── */
-.steps-bar{
-  position:fixed;top:0;left:0;right:0;z-index:100;
-  background:rgba(19,19,24,0.85);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
-  border-bottom:1px solid var(--border);padding:16px 20px 14px;
+/* Animations that Tailwind can't handle */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
 }
-.steps-inner{
-  max-width:640px;margin:0 auto;display:flex;align-items:center;gap:8px;
+@keyframes slideUp {
+  to { opacity: 1; transform: translateY(0); }
 }
-.step-dot{
-  flex:1;height:4px;border-radius:2px;background:var(--border);
-  transition:background 0.4s ease,box-shadow 0.4s ease;
-  position:relative;
+/* question slide transitions */
+.question-slide {
+  display: none; opacity: 0; transform: translateY(24px);
+  transition: opacity 0.4s ease, transform 0.4s ease;
 }
-.step-dot.done{background:var(--orange)}
-.step-dot.active{
-  background:linear-gradient(90deg,var(--orange),var(--purple));
-  box-shadow:0 0 12px rgba(255,107,53,0.3);
+.question-slide.active { display: block; opacity: 1; transform: translateY(0); }
+.question-slide.exit { opacity: 0; transform: translateX(-40px); transition-duration: 0.3s; }
+/* step dot transitions */
+.step-dot { transition: background 0.4s ease, box-shadow 0.4s ease; }
+.step-dot.done { background: var(--color-primary-container); }
+.step-dot.active {
+  background: linear-gradient(90deg, var(--color-primary-container), var(--color-tertiary-container));
+  box-shadow: 0 0 12px rgba(255,107,53,0.3);
 }
-.step-label{
-  font-size:0.7rem;font-weight:600;color:var(--text-muted);
-  letter-spacing:0.08em;text-transform:uppercase;margin-left:12px;
-  white-space:nowrap;
+/* option card selected state */
+.option-card.selected {
+  border-color: var(--color-primary-container) !important;
+  background: var(--color-surface-container-highest) !important;
+  box-shadow: 0 0 0 1px var(--color-primary-container), 0 4px 20px rgba(255,107,53,0.12);
 }
-
-/* ── Container ── */
-.container{
-  position:relative;z-index:1;
-  max-width:640px;margin:0 auto;padding:88px 24px 80px;
-  min-height:100vh;
+.option-card:active { transform: scale(0.98); }
+.option-card.selected .option-key {
+  background: var(--color-primary-container) !important;
+  border-color: var(--color-primary-container) !important;
+  color: #fff !important;
 }
-
-/* ── Welcome screen ── */
-.welcome{text-align:center;padding:60px 0 40px}
-.welcome-icon{
-  font-size:4rem;margin-bottom:20px;
-  display:inline-block;
-  animation:float 3s ease-in-out infinite;
+.option-card.selected .check {
+  background: var(--color-primary-container);
+  border-color: var(--color-primary-container);
 }
-@keyframes float{
-  0%,100%{transform:translateY(0)} 50%{transform:translateY(-8px)}
+.option-card.selected .check svg { opacity: 1; }
+/* result card stagger animation */
+.result-card {
+  opacity: 0; transform: translateY(16px);
+  animation: slideUp 0.5s ease forwards;
 }
-.welcome h1{
-  font-size:clamp(2rem,6vw,3.2rem);font-weight:900;letter-spacing:-0.03em;
-  line-height:1.1;margin-bottom:16px;
+/* wildcard card stagger animation */
+.wildcard-card {
+  opacity: 0; animation: slideUp 0.4s ease forwards;
 }
-.welcome h1 .grad{
-  background:linear-gradient(135deg,var(--orange) 0%,var(--purple) 100%);
-  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+/* result link hover */
+.result-link:hover { color: #ff8f5e; gap: 10px; }
+/* wildcard link hover */
+.wildcard-link:hover { text-decoration: underline; }
+/* button states */
+.btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(255,107,53,0.3); }
+.btn-primary:disabled { opacity: 0.3; cursor: not-allowed; transform: none; box-shadow: none; }
+.btn-start:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 32px rgba(255,107,53,0.4), 0 0 0 1px rgba(255,107,53,0.3);
 }
-.welcome .desc{
-  color:var(--text-dim);font-size:1.1rem;max-width:420px;margin:0 auto 40px;
-  line-height:1.7;
-}
-.welcome .stats{
-  display:flex;justify-content:center;gap:32px;margin-bottom:48px;
-}
-.welcome .stat{text-align:center}
-.welcome .stat-num{
-  font-size:1.8rem;font-weight:800;color:var(--orange);display:block;
-}
-.welcome .stat-label{font-size:0.75rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.06em}
-.btn-start{
-  display:inline-flex;align-items:center;gap:10px;
-  padding:18px 48px;border-radius:var(--radius);border:none;
-  font-family:inherit;font-size:1.1rem;font-weight:700;cursor:pointer;
-  background:linear-gradient(135deg,var(--orange),var(--orange-dark));color:#fff;
-  box-shadow:0 4px 24px rgba(255,107,53,0.3),0 0 0 1px rgba(255,107,53,0.2);
-  transition:all 0.25s ease;
-}
-.btn-start:hover{
-  transform:translateY(-3px);
-  box-shadow:0 8px 32px rgba(255,107,53,0.4),0 0 0 1px rgba(255,107,53,0.3);
-}
-.btn-start:active{transform:translateY(-1px)}
-.welcome .hint{
-  color:var(--text-muted);font-size:0.8rem;margin-top:20px;
-}
-.welcome .hint kbd{
-  display:inline-block;padding:2px 8px;border-radius:4px;
-  background:var(--card);border:1px solid var(--border);
-  font-family:inherit;font-size:0.75rem;color:var(--text-dim);
-}
-
-/* ── Question slide ── */
-.question-slide{
-  display:none;opacity:0;transform:translateY(24px);
-  transition:opacity 0.4s ease,transform 0.4s ease;
-}
-.question-slide.active{display:block;opacity:1;transform:translateY(0)}
-.question-slide.exit{opacity:0;transform:translateX(-40px);transition-duration:0.3s}
-
-.question-number{
-  font-size:0.75rem;font-weight:700;color:var(--orange);
-  letter-spacing:0.1em;text-transform:uppercase;
-  text-align:center;margin-bottom:12px;
-}
-.question-text{
-  font-size:clamp(1.4rem,4vw,2rem);font-weight:800;
-  text-align:center;letter-spacing:-0.02em;margin-bottom:8px;
-}
-.question-hint{
-  font-size:0.85rem;color:var(--text-muted);text-align:center;margin-bottom:28px;
-}
-
-/* ── Option cards ── */
-.options{display:grid;gap:10px}
-
-.option-card{
-  background:var(--card);
-  border:1.5px solid var(--border);border-radius:var(--radius-sm);
-  padding:16px 20px;cursor:pointer;
-  transition:all 0.2s ease;
-  display:flex;align-items:center;gap:14px;
-  user-select:none;-webkit-user-select:none;
-  position:relative;
-}
-.option-card:hover{
-  border-color:var(--border-hover);background:var(--card-hover);
-  transform:translateX(4px);
-}
-.option-card.selected{
-  border-color:var(--orange);background:var(--card-active);
-  box-shadow:0 0 0 1px var(--orange),0 4px 20px var(--orange-glow);
-}
-.option-card:active{transform:scale(0.98)}
-.option-card:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
-.btn:focus-visible,.btn-start:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
-
-.option-key{
-  width:24px;height:24px;border-radius:var(--radius-xs);
-  background:var(--bg);border:1px solid var(--border);
-  display:flex;align-items:center;justify-content:center;
-  font-size:0.7rem;font-weight:700;color:var(--text-muted);
-  flex-shrink:0;transition:all 0.2s;
-}
-.option-card.selected .option-key{
-  background:var(--orange);border-color:var(--orange);color:#fff;
-}
-.option-card:hover .option-key{border-color:var(--border-hover)}
-
-.option-emoji{font-size:1.4rem;flex-shrink:0}
-.option-label{font-size:0.95rem;font-weight:500;flex:1}
-
-/* Multi-select checkmark */
-.option-card .check{
-  position:absolute;top:12px;right:14px;width:20px;height:20px;
-  border-radius:var(--radius-xs);border:1.5px solid var(--border);
-  display:flex;align-items:center;justify-content:center;
-  transition:all 0.2s;
-}
-.option-card.selected .check{
-  background:var(--orange);border-color:var(--orange);
-}
-.option-card .check svg{
-  width:12px;height:12px;stroke:#fff;stroke-width:3;
-  fill:none;opacity:0;transition:opacity 0.15s;
-}
-.option-card.selected .check svg{opacity:1}
-
-/* ── Navigation ── */
-.nav-row{
-  display:flex;justify-content:space-between;align-items:center;
-  margin-top:32px;gap:12px;
-}
-.shortcut-legend{
-  text-align:center;font-size:0.72rem;color:var(--text-muted);
-  margin-top:16px;letter-spacing:0.02em;
-}
-@media(max-width:500px){.shortcut-legend{display:none}}
-.btn{
-  padding:14px 28px;border-radius:var(--radius-sm);border:none;
-  font-family:inherit;font-size:0.95rem;font-weight:600;cursor:pointer;
-  transition:all 0.2s;display:inline-flex;align-items:center;gap:8px;
-}
-.btn-primary{
-  background:linear-gradient(135deg,var(--orange),var(--orange-dark));
-  color:#fff;
-  box-shadow:0 2px 12px rgba(255,107,53,0.2);
-}
-.btn-primary:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(255,107,53,0.3)}
-.btn-primary:disabled{opacity:0.3;cursor:not-allowed;transform:none;box-shadow:none}
-.btn-secondary{
-  background:var(--card);color:var(--text-dim);border:1px solid var(--border);
-}
-.btn-secondary:hover{border-color:var(--border-hover);color:var(--text)}
-
-/* ── Results ── */
-#results{display:none}
-#results.active{display:block}
-
-.results-header{text-align:center;margin-bottom:40px;padding-top:20px}
-.results-header h2{
-  font-size:clamp(1.6rem,5vw,2.4rem);font-weight:900;letter-spacing:-0.02em;
-  margin-bottom:8px;
-}
-.results-header h2 .grad{
-  background:linear-gradient(135deg,var(--orange),var(--green));
-  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
-}
-.results-header p{color:var(--text-dim);font-size:0.95rem}
-
-.result-card{
-  background:var(--card);
-  border:1px solid var(--border);border-radius:var(--radius);
-  padding:24px 28px;margin-bottom:12px;
-  transition:all 0.3s ease;
-  opacity:0;transform:translateY(16px);
-  animation:slideUp 0.5s ease forwards;
-}
-.result-card:nth-child(1){animation-delay:0.05s}
-.result-card:nth-child(2){animation-delay:0.12s}
-.result-card:nth-child(3){animation-delay:0.19s}
-.result-card:nth-child(4){animation-delay:0.26s}
-.result-card:nth-child(5){animation-delay:0.33s}
-
-@keyframes slideUp{to{opacity:1;transform:translateY(0)}}
-
-.result-card:hover{
-  border-color:var(--border-hover);
-  transform:translateY(-2px);
-  box-shadow:0 8px 32px rgba(0,0,0,0.25);
-}
-
-.result-top{display:flex;align-items:center;gap:14px;margin-bottom:14px}
-.result-rank{
-  width:36px;height:36px;border-radius:var(--radius);
-  background:linear-gradient(135deg,var(--orange),var(--purple));
-  color:#fff;font-weight:800;font-size:0.9rem;
-  display:flex;align-items:center;justify-content:center;flex-shrink:0;
-}
-.result-rank.gold{background:linear-gradient(135deg,var(--orange),#ff6b35);box-shadow:0 2px 12px rgba(255,107,53,0.3)}
-.result-name{font-size:1.15rem;font-weight:700;flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.result-num{color:var(--text-muted);font-size:0.8rem;font-weight:600}
-
-.result-category{
-  display:inline-block;
-  background:var(--bg);border:1px solid var(--border);border-radius:var(--radius);
-  padding:4px 14px;font-size:0.72rem;font-weight:600;color:var(--text-dim);
-  margin-bottom:14px;letter-spacing:0.02em;
-}
-
-/* Rating bars (overrides for quiz sizing) */
-.result-ratings{
-  display:grid;grid-template-columns:repeat(3,1fr);gap:8px 16px;
-  margin-bottom:16px;
-}
-.rating-item{gap:8px}
-.rating-label{font-size:0.68rem;width:36px}
-.rating-bar{height:6px}
-.rating-bar-fill{transition:width 0.6s ease}
-.rating-val{font-size:0.7rem;width:14px}
-
-.result-match{
-  font-size:0.82rem;color:var(--text-dim);margin-bottom:16px;
-  padding:10px 14px;border-radius:var(--radius-xs);
-  background:rgba(255,107,53,0.04);border-left:2px solid var(--orange);
-}
-.result-link{
-  display:inline-flex;align-items:center;gap:6px;
-  color:var(--orange);text-decoration:none;font-size:0.88rem;font-weight:600;
-  transition:all 0.2s;
-}
-.result-link:hover{color:#ff8f5e;gap:10px}
-
-/* Wildcard section */
-.wildcard-section{margin-top:52px}
-.wildcard-section h3{
-  font-size:1.1rem;font-weight:700;margin-bottom:16px;
-  color:var(--text-dim);
-}
-.wildcard-section h3 span{color:var(--purple)}
-.wildcard-cards{display:grid;gap:10px;grid-template-columns:repeat(auto-fit,minmax(180px,1fr))}
-.wildcard-card{
-  background:var(--card);border:1px solid var(--border);border-radius:var(--radius-sm);
-  padding:18px;transition:all 0.3s;
-  opacity:0;animation:slideUp 0.4s ease forwards;
-}
-.wildcard-card:nth-child(1){animation-delay:0.45s}
-.wildcard-card:nth-child(2){animation-delay:0.52s}
-.wildcard-card:nth-child(3){animation-delay:0.59s}
-.wildcard-card:hover{
-  border-color:var(--purple);transform:translateY(-2px);
-  box-shadow:0 6px 20px rgba(0,0,0,0.2);
-}
-.wildcard-name{font-weight:700;font-size:0.9rem;margin-bottom:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.wildcard-cat{font-size:0.72rem;color:var(--text-muted);margin-bottom:10px}
-.wildcard-link{
-  color:var(--purple);text-decoration:none;font-size:0.78rem;font-weight:600;
-}
-.wildcard-link:hover{text-decoration:underline}
-
-/* ── Actions ── */
-.results-actions{
-  display:flex;gap:12px;justify-content:center;margin-top:48px;flex-wrap:wrap;
-}
-
-/* ── Footer ── */
-.quiz-footer{
-  text-align:center;margin-top:64px;padding-top:24px;
-  border-top:1px solid var(--border);color:var(--text-muted);font-size:0.78rem;
-}
-.quiz-footer a{color:var(--text-dim);text-decoration:none;transition:color 0.2s}
-.quiz-footer a:hover{color:var(--orange)}
-
-/* ── Confetti ── */
-.celebration{
-  position:fixed;top:0;left:0;right:0;bottom:0;pointer-events:none;z-index:200;
-}
-
-/* ── No-results ── */
-.no-results{
-  text-align:center;padding:48px 24px;
-  background:var(--card);border-radius:var(--radius);border:1px solid var(--border);
-}
-.no-results h3{font-size:1.2rem;margin-bottom:10px}
-.no-results p{color:var(--text-dim);font-size:0.9rem}
-
-/* ── Responsive ── */
-@media(max-width:500px){
-  .container{padding:76px 16px 48px}
-  .welcome{padding:32px 0 24px}
-  .welcome h1{font-size:2rem}
-  .welcome .stats{gap:20px}
-  .welcome .stat-num{font-size:1.4rem}
-  .question-text{font-size:1.3rem}
-  .option-card{padding:14px 16px}
-  .option-key{display:none}
-  .result-card{padding:18px 20px}
-  .result-ratings{grid-template-columns:repeat(2,1fr);gap:6px 12px}
-  .nav-row{flex-direction:column}
-  .btn{width:100%;justify-content:center}
-  .steps-inner{gap:4px}
-  .step-label{display:none}
+.btn-start:active { transform: translateY(-1px); }
+/* responsive */
+@media (max-width: 500px) {
+  .quiz-container { padding-top: 76px !important; padding-left: 16px !important; padding-right: 16px !important; padding-bottom: 48px !important; }
+  .welcome-section { padding: 32px 0 24px !important; }
+  .welcome-section h1 { font-size: 2rem !important; }
+  .welcome-stats { gap: 20px !important; }
+  .stat-num { font-size: 1.4rem !important; }
+  .question-text { font-size: 1.3rem !important; }
+  .option-card { padding: 14px 16px !important; }
+  .option-key { display: none !important; }
+  .result-card { padding: 18px 20px !important; }
+  .result-ratings { grid-template-columns: repeat(2, 1fr) !important; gap: 6px 12px !important; }
+  .nav-row { flex-direction: column !important; }
+  .nav-row .btn { width: 100%; justify-content: center; }
+  .steps-inner { gap: 4px !important; }
+  .step-label { display: none !important; }
+  .shortcut-legend { display: none !important; }
 }
 </style>
 
 </div>
 
 <!-- Step indicators -->
-<div class="steps-bar" id="stepsBar" style="display:none">
-  <div class="steps-inner">
-    <div class="step-dot active" id="step-0" role="progressbar" aria-valuenow="1" aria-valuemin="1" aria-valuemax="6" aria-label="Question 1 of 6"></div>
-    <div class="step-dot" id="step-1" aria-label="Question 2 of 6"></div>
-    <div class="step-dot" id="step-2" aria-label="Question 3 of 6"></div>
-    <div class="step-dot" id="step-3" aria-label="Question 4 of 6"></div>
-    <div class="step-dot" id="step-4" aria-label="Question 5 of 6"></div>
-    <div class="step-dot" id="step-5" aria-label="Question 6 of 6"></div>
-    <span class="step-label" id="stepLabel" aria-live="polite">1 / 6</span>
+<div class="fixed top-0 left-0 right-0 z-50 bg-background/85 backdrop-blur-xl border-b border-outline-variant py-4 px-5" id="stepsBar" style="display:none">
+  <div class="steps-inner max-w-2xl mx-auto flex items-center gap-2">
+    <div class="step-dot flex-1 h-1 rounded-full bg-outline-variant active" id="step-0" role="progressbar" aria-valuenow="1" aria-valuemin="1" aria-valuemax="6" aria-label="Question 1 of 6"></div>
+    <div class="step-dot flex-1 h-1 rounded-full bg-outline-variant" id="step-1" aria-label="Question 2 of 6"></div>
+    <div class="step-dot flex-1 h-1 rounded-full bg-outline-variant" id="step-2" aria-label="Question 3 of 6"></div>
+    <div class="step-dot flex-1 h-1 rounded-full bg-outline-variant" id="step-3" aria-label="Question 4 of 6"></div>
+    <div class="step-dot flex-1 h-1 rounded-full bg-outline-variant" id="step-4" aria-label="Question 5 of 6"></div>
+    <div class="step-dot flex-1 h-1 rounded-full bg-outline-variant" id="step-5" aria-label="Question 6 of 6"></div>
+    <span class="step-label font-label text-[0.7rem] font-semibold text-outline-variant tracking-widest uppercase ml-3 whitespace-nowrap" id="stepLabel" aria-live="polite">1 / 6</span>
   </div>
 </div>
 
-<div class="container" id="quizContainer">
+<div class="quiz-container relative z-1 max-w-2xl mx-auto px-6 py-6 pt-[88px] pb-20 min-h-screen" id="quizContainer">
 
   <!-- Welcome screen -->
-  <div class="welcome" id="welcomeScreen">
-    <div class="welcome-icon">&#9889;</div>
-    <h1><span class="grad">Build Finder</span></h1>
-    <p class="desc">Answer 6 quick questions about your skill level, junk pile, and risk tolerance. We'll match you with the perfect DIY project.</p>
-    <div class="stats">
-      <div class="stat"><span class="stat-num">338</span><span class="stat-label">Builds</span></div>
-      <div class="stat"><span class="stat-num">33</span><span class="stat-label">Categories</span></div>
-      <div class="stat"><span class="stat-num">~60s</span><span class="stat-label">To complete</span></div>
+  <div class="welcome-section text-center py-15 pb-10" id="welcomeScreen">
+    <div class="text-[4rem] mb-5 inline-block" style="animation: float 3s ease-in-out infinite;">&#9889;</div>
+    <h1 class="font-headline text-[clamp(2rem,6vw,3.2rem)] font-black tracking-tight leading-tight mb-4"><span class="bg-gradient-to-br from-primary-container to-tertiary-container bg-clip-text text-transparent">Build Finder</span></h1>
+    <p class="text-slate-500 text-lg max-w-[420px] mx-auto mb-10 leading-relaxed">Answer 6 quick questions about your skill level, junk pile, and risk tolerance. We'll match you with the perfect DIY project.</p>
+    <div class="welcome-stats flex justify-center gap-8 mb-12">
+      <div class="text-center"><span class="stat-num text-3xl font-extrabold text-primary-container block">338</span><span class="font-label text-xs text-outline-variant uppercase tracking-wider">Builds</span></div>
+      <div class="text-center"><span class="stat-num text-3xl font-extrabold text-primary-container block">33</span><span class="font-label text-xs text-outline-variant uppercase tracking-wider">Categories</span></div>
+      <div class="text-center"><span class="stat-num text-3xl font-extrabold text-primary-container block">~60s</span><span class="font-label text-xs text-outline-variant uppercase tracking-wider">To complete</span></div>
     </div>
-    <button class="btn-start" onclick="startQuiz()">Start the Quiz <span>&#8594;</span></button>
-    <p class="hint">or press <kbd>Enter</kbd> to begin</p>
+    <button class="btn-start inline-flex items-center gap-2.5 px-12 py-4.5 rounded-sm border-none font-body text-lg font-bold cursor-pointer bg-gradient-to-br from-primary-container to-inverse-primary text-white shadow-[0_4px_24px_rgba(255,107,53,0.3),0_0_0_1px_rgba(255,107,53,0.2)] transition-all" onclick="startQuiz()">Start the Quiz <span>&#8594;</span></button>
+    <p class="text-outline-variant text-sm mt-5">or press <kbd class="inline-block px-2 py-0.5 rounded bg-surface-container-low border border-outline-variant font-body text-xs text-slate-500">Enter</kbd> to begin</p>
   </div>
 
   <!-- Questions rendered by JS -->
   <div id="questionsWrap" style="display:none"></div>
 
   <!-- Results -->
-  <div id="results" aria-live="polite">
-    <div class="results-header">
-      <h2><span class="grad">Your Top Builds</span></h2>
-      <p id="resultsSubtitle">Based on your answers, these are the builds you'd love.</p>
+  <div id="results" class="hidden" aria-live="polite">
+    <div class="text-center mb-10 pt-5">
+      <h2 class="font-headline text-[clamp(1.6rem,5vw,2.4rem)] font-black tracking-tight mb-2"><span class="bg-gradient-to-br from-primary-container to-green-500 bg-clip-text text-transparent">Your Top Builds</span></h2>
+      <p class="text-slate-500 text-[0.95rem]" id="resultsSubtitle">Based on your answers, these are the builds you'd love.</p>
     </div>
     <div id="resultsList"></div>
 
-    <div class="wildcard-section">
-      <h3><span>&#127922;</span> You might also love...</h3>
-      <div class="wildcard-cards" id="wildcardList"></div>
+    <div class="mt-13">
+      <h3 class="font-headline text-lg font-bold mb-4 text-slate-500"><span class="text-tertiary-container">&#127922;</span> You might also love...</h3>
+      <div class="grid gap-2.5 grid-cols-[repeat(auto-fit,minmax(180px,1fr))]" id="wildcardList"></div>
     </div>
 
-    <div class="results-actions">
-      <button class="btn btn-primary" onclick="retakeQuiz()">&#8635; Retake Quiz</button>
-      <a class="btn btn-secondary" href="/app/browse/">&#128269; Browse All Builds</a>
-      <a class="btn btn-secondary" href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">&#8592; Back to Repo</a>
+    <div class="flex gap-3 justify-center mt-12 flex-wrap">
+      <button class="btn btn-primary px-7 py-3.5 rounded-sm border-none font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 bg-gradient-to-br from-primary-container to-inverse-primary text-white shadow-[0_2px_12px_rgba(255,107,53,0.2)]" onclick="retakeQuiz()">&#8635; Retake Quiz</button>
+      <a class="btn px-6 py-3.5 rounded-sm border border-outline-variant bg-surface-container-low text-slate-500 font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 hover:border-outline hover:text-on-surface no-underline" href="/app/browse/">&#128269; Browse All Builds</a>
+      <a class="btn px-6 py-3.5 rounded-sm border border-outline-variant bg-surface-container-low text-slate-500 font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 hover:border-outline hover:text-on-surface no-underline" href="https://github.com/rbrents3000/junkyard-genius" target="_blank" rel="noopener">&#8592; Back to Repo</a>
     </div>
   </div>
 
 </div>
 
-<canvas class="celebration" id="confetti"></canvas>
+<canvas class="fixed top-0 left-0 right-0 bottom-0 pointer-events-none z-[200]" id="confetti"></canvas>
 
 <!-- Build data -->
 <script src="/app/quiz/build-data.js" defer></script>
@@ -518,40 +260,40 @@ function renderQuestions() {
     slide.className = "question-slide" + (qi === 0 ? " active" : "");
     slide.id = "q-" + qi;
 
-    var html = '<div class="question-number">Question ' + (qi+1) + ' of ' + TOTAL_Q + '</div>';
-    html += '<div class="question-text" id="q-text-'+qi+'">' + q.text + '</div>';
-    if (q.hint) html += '<div class="question-hint">' + q.hint + '</div>';
-    else html += '<div class="question-hint">Pick one</div>';
+    var html = '<div class="font-label text-xs font-bold text-primary-container tracking-widest uppercase text-center mb-3">Question ' + (qi+1) + ' of ' + TOTAL_Q + '</div>';
+    html += '<div class="question-text font-headline text-[clamp(1.4rem,4vw,2rem)] font-extrabold text-center tracking-tight mb-2" id="q-text-'+qi+'">' + q.text + '</div>';
+    if (q.hint) html += '<div class="text-[0.85rem] text-outline-variant text-center mb-7">' + q.hint + '</div>';
+    else html += '<div class="text-[0.85rem] text-outline-variant text-center mb-7">Pick one</div>';
 
     var groupRole = q.multi ? 'group' : 'radiogroup';
-    html += '<div class="options" role="'+groupRole+'" aria-labelledby="q-text-'+qi+'">';
+    html += '<div class="grid gap-2.5" role="'+groupRole+'" aria-labelledby="q-text-'+qi+'">';
     q.options.forEach(function(opt, oi) {
       var checkHtml = q.multi
-        ? '<div class="check"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></div>'
+        ? '<div class="check absolute top-3 right-3.5 w-5 h-5 rounded-xs border-[1.5px] border-outline-variant flex items-center justify-center transition-all"><svg class="w-3 h-3 stroke-white stroke-3 fill-none opacity-0 transition-opacity" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></div>'
         : '';
       var ariaRole = q.multi ? 'checkbox' : 'radio';
-      html += '<div class="option-card" data-qi="'+qi+'" data-oi="'+oi+'" data-value="'+opt.value+'" role="'+ariaRole+'" aria-checked="false" tabindex="0" aria-label="'+opt.label+'">'
-        + '<span class="option-key">' + (oi+1) + '</span>'
-        + '<span class="option-emoji" aria-hidden="true">' + opt.emoji + '</span>'
-        + '<span class="option-label">' + opt.label + '</span>'
+      html += '<div class="option-card relative bg-surface-container-low border border-outline-variant rounded-sm px-5 py-4 cursor-pointer transition-all flex items-center gap-3.5 select-none hover:border-outline hover:bg-surface-container-high hover:translate-x-1 focus-visible:outline-2 focus-visible:outline-primary-container focus-visible:outline-offset-2" data-qi="'+qi+'" data-oi="'+oi+'" data-value="'+opt.value+'" role="'+ariaRole+'" aria-checked="false" tabindex="0" aria-label="'+opt.label+'">'
+        + '<span class="option-key w-6 h-6 rounded-xs bg-background border border-outline-variant flex items-center justify-center text-[0.7rem] font-bold text-outline-variant shrink-0 transition-all">' + (oi+1) + '</span>'
+        + '<span class="text-[1.4rem] shrink-0" aria-hidden="true">' + opt.emoji + '</span>'
+        + '<span class="text-[0.95rem] font-medium flex-1">' + opt.label + '</span>'
         + checkHtml
         + '</div>';
     });
     html += '</div>';
 
-    html += '<div class="nav-row">';
+    html += '<div class="nav-row flex justify-between items-center mt-8 gap-3">';
     if (qi > 0) {
-      html += '<button class="btn btn-secondary" onclick="prevQuestion()"><span>&#8592;</span> Back</button>';
+      html += '<button class="btn px-6 py-3.5 rounded-sm border border-outline-variant bg-surface-container-low text-slate-500 font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 hover:border-outline hover:text-on-surface" onclick="prevQuestion()"><span>&#8592;</span> Back</button>';
     } else {
       html += '<span></span>';
     }
     if (qi < TOTAL_Q - 1) {
-      html += '<button class="btn btn-primary" id="next-'+qi+'" onclick="nextQuestion()" disabled>Next <span>&#8594;</span></button>';
+      html += '<button class="btn btn-primary px-7 py-3.5 rounded-sm border-none font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 bg-gradient-to-br from-primary-container to-inverse-primary text-white shadow-[0_2px_12px_rgba(255,107,53,0.2)] focus-visible:outline-2 focus-visible:outline-primary-container focus-visible:outline-offset-2" id="next-'+qi+'" onclick="nextQuestion()" disabled>Next <span>&#8594;</span></button>';
     } else {
-      html += '<button class="btn btn-primary" id="next-'+qi+'" onclick="showResults()" disabled>Find My Builds <span>&#9889;</span></button>';
+      html += '<button class="btn btn-primary px-7 py-3.5 rounded-sm border-none font-label text-[0.95rem] font-semibold cursor-pointer transition-all inline-flex items-center gap-2 bg-gradient-to-br from-primary-container to-inverse-primary text-white shadow-[0_2px_12px_rgba(255,107,53,0.2)] focus-visible:outline-2 focus-visible:outline-primary-container focus-visible:outline-offset-2" id="next-'+qi+'" onclick="showResults()" disabled>Find My Builds <span>&#9889;</span></button>';
     }
     html += '</div>';
-    html += '<div class="shortcut-legend">1-' + q.options.length + ' select &middot; &larr;&rarr; navigate &middot; Esc back</div>';
+    html += '<div class="shortcut-legend text-center text-[0.72rem] text-outline-variant mt-4 tracking-wide">1-' + q.options.length + ' select &middot; &larr;&rarr; navigate &middot; Esc back</div>';
 
     slide.innerHTML = html;
     wrap.appendChild(slide);
@@ -637,7 +379,7 @@ window.prevQuestion = function() {
 function updateSteps() {
   for (var i = 0; i < TOTAL_Q; i++) {
     var dot = document.getElementById("step-" + i);
-    dot.className = "step-dot";
+    dot.className = "step-dot flex-1 h-1 rounded-full bg-outline-variant";
     if (i < currentQ) dot.classList.add("done");
     if (i === currentQ) dot.classList.add("active");
   }
@@ -704,10 +446,10 @@ function buildGitHubUrl(build) {
 
 function ratingBar(label, value, cls) {
   var pct = (value / 5) * 100;
-  return '<div class="rating-item">'
-    + '<span class="rating-label">' + label + '</span>'
-    + '<div class="rating-bar" role="meter" aria-label="' + label + '" aria-valuenow="' + value + '" aria-valuemin="0" aria-valuemax="5"><div class="rating-bar-fill ' + cls + '" style="width:' + pct + '%"></div></div>'
-    + '<span class="rating-val ' + cls + '">' + value + '</span>'
+  return '<div class="flex items-center gap-2">'
+    + '<span class="font-label text-[0.68rem] font-semibold text-slate-500 w-9 uppercase tracking-wide">' + label + '</span>'
+    + '<div class="flex-1 h-1.5 rounded-full bg-surface-container-highest overflow-hidden" role="meter" aria-label="' + label + '" aria-valuenow="' + value + '" aria-valuemin="0" aria-valuemax="5"><div class="rating-bar-fill ' + cls + ' h-full rounded-full transition-all duration-600" style="width:' + pct + '%"></div></div>'
+    + '<span class="rating-val-' + cls + ' text-[0.7rem] font-semibold w-3.5 text-right">' + value + '</span>'
     + '</div>';
 }
 
@@ -729,21 +471,22 @@ window.showResults = function() {
   var listEl = document.getElementById("resultsList");
 
   if (top5.length === 0) {
-    listEl.innerHTML = '<div class="no-results"><h3>No builds matched</h3><p>Your filters are too strict. Try loosening up on spicy level, time, or budget.</p></div>';
+    listEl.innerHTML = '<div class="text-center py-12 px-6 bg-surface-container-low rounded-sm border border-outline-variant"><h3 class="font-headline text-xl mb-2.5">No builds matched</h3><p class="text-slate-500 text-[0.9rem]">Your filters are too strict. Try loosening up on spicy level, time, or budget.</p></div>';
   } else {
     var html = "";
     top5.forEach(function(b, i) {
       var url = buildGitHubUrl(b);
       var reason = getMatchReason(b, vibeTags, junkItems);
-      var rankClass = i === 0 ? " gold" : "";
-      html += '<div class="result-card">'
-        + '<div class="result-top">'
-        + '<span class="result-rank' + rankClass + '">' + (i+1) + '</span>'
-        + '<span class="result-name">' + b.name + '</span>'
-        + '<span class="result-num">#' + b.num + '</span>'
+      var rankGold = i === 0 ? ' bg-gradient-to-br from-primary-container to-[#ff6b35] shadow-[0_2px_12px_rgba(255,107,53,0.3)]' : ' bg-gradient-to-br from-primary-container to-tertiary-container';
+      var delay = 50 + i * 70;
+      html += '<div class="result-card bg-surface-container-low border border-outline-variant rounded-sm px-7 py-6 mb-3 transition-all hover:border-outline hover:-translate-y-0.5 hover:shadow-lg" style="animation-delay:' + delay + 'ms">'
+        + '<div class="flex items-center gap-3.5 mb-3.5">'
+        + '<span class="w-9 h-9 rounded-sm' + rankGold + ' text-white font-extrabold text-[0.9rem] flex items-center justify-center shrink-0">' + (i+1) + '</span>'
+        + '<span class="font-headline text-lg font-bold flex-1 overflow-hidden text-ellipsis whitespace-nowrap">' + b.name + '</span>'
+        + '<span class="text-outline-variant text-[0.8rem] font-semibold">#' + b.num + '</span>'
         + '</div>'
-        + '<div class="result-category">' + b.categoryName + '</div>'
-        + '<div class="result-ratings">'
+        + '<div class="inline-block bg-background border border-outline-variant rounded-sm px-3.5 py-1 font-label text-[0.72rem] font-semibold text-slate-500 mb-3.5 tracking-wide">' + b.categoryName + '</div>'
+        + '<div class="result-ratings grid grid-cols-3 gap-x-4 gap-y-2 mb-4">'
         + ratingBar('Jaw', b.jaw, 'jaw')
         + ratingBar('Brain', b.brain, 'brain')
         + ratingBar('Wallet', b.wallet, 'wallet')
@@ -751,8 +494,8 @@ window.showResults = function() {
         + ratingBar('Clout', b.clout, 'clout')
         + ratingBar('Time', b.time, 'time')
         + '</div>'
-        + '<div class="result-match">' + reason + '</div>'
-        + '<a class="result-link" href="'+url+'">View Build Guide &#8594;</a>'
+        + '<div class="text-[0.82rem] text-slate-500 mb-4 px-3.5 py-2.5 rounded-xs bg-primary-container/[0.04] border-l-2 border-primary-container">' + reason + '</div>'
+        + '<a class="result-link inline-flex items-center gap-1.5 text-primary-container no-underline text-[0.88rem] font-semibold transition-all" href="'+url+'">View Build Guide &#8594;</a>'
         + '</div>';
     });
     listEl.innerHTML = html;
@@ -776,17 +519,19 @@ window.showResults = function() {
 
   var wcEl = document.getElementById("wildcardList");
   var wcHtml = "";
-  wildcards.forEach(function(b) {
+  wildcards.forEach(function(b, i) {
     var url = buildGitHubUrl(b);
-    wcHtml += '<div class="wildcard-card">'
-      + '<div class="wildcard-name">#' + b.num + ' ' + b.name + '</div>'
-      + '<div class="wildcard-cat">' + b.categoryName + '</div>'
-      + '<a class="wildcard-link" href="'+url+'">Check it out &#8594;</a>'
+    var delay = 450 + i * 70;
+    wcHtml += '<div class="wildcard-card bg-surface-container-low border border-outline-variant rounded-sm p-4.5 transition-all hover:border-tertiary-container hover:-translate-y-0.5 hover:shadow-lg" style="animation-delay:' + delay + 'ms">'
+      + '<div class="font-headline font-bold text-[0.9rem] mb-1 overflow-hidden text-ellipsis whitespace-nowrap">#' + b.num + ' ' + b.name + '</div>'
+      + '<div class="text-[0.72rem] text-outline-variant mb-2.5">' + b.categoryName + '</div>'
+      + '<a class="wildcard-link text-tertiary-container no-underline text-[0.78rem] font-semibold" href="'+url+'">Check it out &#8594;</a>'
       + '</div>';
   });
   wcEl.innerHTML = wcHtml;
 
-  document.getElementById("results").classList.add("active");
+  document.getElementById("results").classList.remove("hidden");
+  document.getElementById("results").classList.add("block");
   window.scrollTo({ top: 0, behavior: "smooth" });
   launchConfetti();
 };
@@ -798,7 +543,8 @@ window.retakeQuiz = function() {
   currentQ = 0;
   quizStarted = false;
 
-  document.getElementById("results").classList.remove("active");
+  document.getElementById("results").classList.add("hidden");
+  document.getElementById("results").classList.remove("block");
   document.getElementById("questionsWrap").style.display = "none";
   document.getElementById("stepsBar").style.display = "none";
   document.getElementById("welcomeScreen").style.display = "";

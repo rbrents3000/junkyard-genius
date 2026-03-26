@@ -6,251 +6,44 @@ description: "Track your completed builds and want-to-build list. Your personal 
 image: /images/og-social.jpg
 robots: "noindex, nofollow"
 ---
-<link rel="stylesheet" href="/app/shared.css">
 <style>
-/* ── Builder Profile Header ── */
-.profile-header {
-  border-bottom: 1px solid var(--border);
-  padding: 32px 0 24px;
-  margin-bottom: 24px;
-}
-.profile-name {
-  font-size: 2rem;
-  font-weight: 900;
-  letter-spacing: 0.06em;
-  color: var(--text);
-  margin-bottom: 4px;
-}
-.profile-rank {
-  font-size: 0.75rem;
-  font-weight: 600;
-  color: var(--orange);
-  letter-spacing: 0.08em;
-  font-family: 'Space Grotesk', sans-serif;
-  text-transform: uppercase;
-}
-
-/* ── Stats ── */
-.stats {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-  gap: 12px;
-  margin-bottom: 32px;
-}
-.stat-card {
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 20px;
-  text-align: center;
-  backdrop-filter: blur(8px);
-}
-.stat-num {
-  font-size: 2.2rem;
-  font-weight: 900;
-  letter-spacing: -0.02em;
-  line-height: 1;
-  font-family: 'Space Grotesk', sans-serif;
-}
-.stat-num.green { color: var(--green); }
-.stat-num.orange { color: var(--orange); }
-.stat-num.blue { color: var(--blue); }
-.stat-num.purple { color: var(--purple); }
-.stat-label {
-  font-size: 0.65rem;
-  font-weight: 600;
-  color: var(--text-dim);
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  margin-top: 8px;
-  font-family: 'Space Grotesk', sans-serif;
-}
-
-/* ── Section Label ── */
-.section-label {
-  font-size: 0.65rem;
-  font-weight: 600;
-  color: var(--text-dim);
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  font-family: 'Space Grotesk', sans-serif;
-  margin-bottom: 16px;
-}
-
-/* ── Tabs ── */
-.tabs {
-  display: flex;
-  gap: 4px;
-  margin-bottom: 20px;
-}
-.tab {
-  padding: 10px 20px;
-  border-radius: var(--radius) var(--radius) 0 0;
-  border: 1px solid var(--border);
-  border-bottom: none;
-  background: var(--bg-subtle);
-  color: var(--text-dim);
-  font-family: 'Space Grotesk', sans-serif;
-  font-size: 0.8rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: all 0.2s;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-}
-.tab.active {
-  background: var(--card);
-  color: var(--green);
-  border-color: var(--green);
-}
-.tab.want.active {
-  color: var(--orange);
-  border-color: var(--orange);
-}
-.tab .count {
-  font-size: 0.65rem;
-  background: var(--card-active);
-  padding: 2px 8px;
-  border-radius: var(--radius);
-  margin-left: 6px;
-}
-.tab.active .count { background: rgba(34, 197, 94, 0.15); }
-.tab.want.active .count { background: var(--orange-glow); }
-
-/* ── Build card override ── */
-.build-card { position: relative; }
-
-.remove-btn {
-  position: absolute;
-  top: 8px;
-  right: 8px;
-  background: var(--bg);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  color: var(--text-dim);
-  font-size: 0.7rem;
-  padding: 8px 14px;
-  cursor: pointer;
-  transition: all 0.2s;
-  font-family: 'Space Grotesk', sans-serif;
-  font-weight: 600;
-  min-height: 36px;
-  min-width: 36px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-}
-.remove-btn:hover {
-  border-color: var(--red);
-  color: var(--red);
-  background: rgba(239, 68, 68, 0.08);
-}
-
-/* ── Undo Toast ── */
-.undo-toast {
-  position: fixed;
-  bottom: 24px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: var(--card);
-  border: 1px solid var(--orange);
-  border-radius: var(--radius);
-  padding: 12px 20px;
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  font-size: 0.85rem;
-  color: var(--text);
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
-  z-index: 200;
-  animation: slideUp 0.3s ease;
-}
-.undo-toast button {
-  background: var(--orange);
-  color: #fff;
-  border: none;
-  border-radius: var(--radius);
-  padding: 6px 14px;
-  font-family: 'Space Grotesk', sans-serif;
-  font-size: 0.8rem;
-  font-weight: 700;
-  cursor: pointer;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
 @keyframes slideUp {
   from { opacity: 0; transform: translate(-50%, 20px); }
   to { opacity: 1; transform: translate(-50%, 0); }
 }
-
-/* ── Empty State ── */
-.empty {
-  text-align: center;
-  padding: 80px 20px;
-}
-.empty .icon { font-size: 3rem; margin-bottom: 16px; }
-.empty h3 { font-size: 1.3rem; font-weight: 700; margin-bottom: 8px; }
-.empty p { color: var(--text-dim); font-size: 0.95rem; margin-bottom: 20px; }
-.empty a.cta {
-  display: inline-block;
-  padding: 12px 24px;
-  border-radius: var(--radius);
-  background: linear-gradient(135deg, var(--orange), var(--orange-dark));
-  color: #fff;
-  font-weight: 700;
-  font-size: 0.95rem;
-  text-decoration: none;
-  font-family: 'Space Grotesk', sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-.empty a.cta:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 4px 16px rgba(255, 107, 53, 0.3);
-  text-decoration: none;
-}
-
-@media (max-width: 600px) {
-  .stats { grid-template-columns: repeat(2, 1fr); }
-  .build-grid { grid-template-columns: 1fr; }
-  .card-ratings { grid-template-columns: repeat(2, 1fr); }
-  .profile-name { font-size: 1.5rem; }
-}
 </style>
 
-<div class="container">
-  <div class="profile-header">
-    <div class="profile-name" id="profileName">ANONYMOUS_BUILDER</div>
-    <div class="profile-rank" id="profileRank">RECRUIT</div>
+<div class="max-w-5xl mx-auto px-6 py-6">
+  <div class="border-b border-outline-variant/10 pb-6 mb-6">
+    <div class="text-3xl font-headline font-black uppercase tracking-tight text-on-surface mb-1" id="profileName">ANONYMOUS_BUILDER</div>
+    <div class="text-xs font-label font-semibold text-primary-container uppercase tracking-widest" id="profileRank">RECRUIT</div>
   </div>
 
-  <div class="section-label">Builder_Statistics</div>
-  <div class="stats" id="stats"></div>
+  <div class="font-label text-[10px] uppercase tracking-widest text-slate-500 mb-4">Builder_Statistics</div>
+  <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 mb-8" id="stats"></div>
 
-  <div class="section-label" id="sectionLabel">Trophy_Room</div>
-  <div class="tabs" id="tabs">
-    <button class="tab active" data-tab="completed">&#9745; Completed <span class="count" id="completedCount">0</span></button>
-    <button class="tab want" data-tab="want">&#128204; Wishlist <span class="count" id="wantCount">0</span></button>
+  <div class="font-label text-[10px] uppercase tracking-widest text-slate-500 mb-4" id="sectionLabel">Trophy_Room</div>
+  <div class="flex gap-1 mb-5" id="tabs">
+    <button class="tab-btn active px-5 py-2.5 rounded-t-sm border border-outline-variant border-b-0 bg-surface-container-low text-green-500 border-green-500 font-label text-xs font-semibold cursor-pointer transition-all uppercase tracking-wider" data-tab="completed">&#9745; Completed <span class="text-[10px] bg-green-500/15 px-2 py-0.5 rounded-sm ml-1.5" id="completedCount">0</span></button>
+    <button class="tab-btn want px-5 py-2.5 rounded-t-sm border border-outline-variant border-b-0 bg-surface-container font-label text-xs font-semibold cursor-pointer transition-all uppercase tracking-wider text-slate-500" data-tab="want">&#128204; Wishlist <span class="text-[10px] bg-surface-container-highest px-2 py-0.5 rounded-sm ml-1.5" id="wantCount">0</span></button>
   </div>
-  <div class="build-grid" id="buildGrid"></div>
-  <div class="empty" id="emptyState" style="display:none">
-    <div class="icon">&#128736;</div>
-    <h3 id="emptyTitle">No builds tracked yet</h3>
-    <p id="emptyText">Mark builds as completed or "want to build" from any build page.</p>
-    <a class="cta" href="/app/browse/">Browse All Builds</a>
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3" id="buildGrid"></div>
+  <div class="text-center py-20 px-5" id="emptyState" style="display:none">
+    <div class="text-5xl mb-4">&#128736;</div>
+    <h3 class="text-xl font-headline font-bold uppercase tracking-tight mb-2" id="emptyTitle">No builds tracked yet</h3>
+    <p class="text-slate-400 text-base mb-5" id="emptyText">Mark builds as completed or "want to build" from any build page.</p>
+    <a class="inline-block px-8 py-4 rounded-sm bg-gradient-to-br from-primary-container to-inverse-primary text-white font-label font-bold text-sm uppercase tracking-wider no-underline hover:-translate-y-0.5 hover:shadow-lg transition-all" href="/app/browse/">Browse All Builds</a>
   </div>
 </div>
 
 <script src="/app/quiz/build-data.js" defer></script>
 <script>
 document.addEventListener('DOMContentLoaded', function(){
-  // Guard against build-data.js load failure
   if (typeof BUILDS === "undefined" || !BUILDS.length) {
-    document.getElementById("buildGrid").innerHTML = '<p style="text-align:center;padding:80px 20px;color:#7a7f93">Could not load build data. Please refresh the page.</p>';
+    document.getElementById("buildGrid").innerHTML = '<p class="text-center py-20 px-5 text-slate-500">Could not load build data. Please refresh the page.</p>';
     return;
   }
 
-  // Dynamic footer counts
   var cats = {};
   BUILDS.forEach(function(b){ cats[b.category] = 1; });
   var fs = document.getElementById("footerStats");
@@ -275,23 +68,23 @@ document.addEventListener('DOMContentLoaded', function(){
 
   function ratingBar(label, value, cls) {
     var pct = (value / 5) * 100;
-    return '<div class="rating-item">'
-      + '<span class="rating-label">' + label + '</span>'
-      + '<div class="rating-bar" role="meter" aria-label="' + label + '" aria-valuenow="' + value + '" aria-valuemin="0" aria-valuemax="5"><div class="rating-bar-fill ' + cls + '" style="width:' + pct + '%"></div></div>'
-      + '<span class="rating-val ' + cls + '">' + value + '</span>'
+    return '<div class="flex items-center gap-1.5">'
+      + '<span class="text-[10px] font-label font-semibold text-slate-500 w-8 uppercase tracking-wider">' + label + '</span>'
+      + '<div class="flex-1 h-1 rounded-full bg-surface-container-highest overflow-hidden" role="meter" aria-label="' + label + '" aria-valuenow="' + value + '" aria-valuemin="0" aria-valuemax="5"><div class="rating-bar-fill ' + cls + ' h-full rounded-full" style="width:' + pct + '%"></div></div>'
+      + '<span class="text-[10px] font-label font-semibold w-3 text-right rating-val-' + cls + '">' + value + '</span>'
       + '</div>';
   }
 
   function renderCard(build, listKey) {
-    return '<div class="build-card" style="cursor:default">'
-      + '<button class="remove-btn" data-num="' + build.num + '" data-key="' + listKey + '">&#10005; Remove</button>'
-      + '<a href="' + buildUrl(build) + '" style="text-decoration:none;color:inherit">'
-      + '<div class="card-top">'
-      + '<span class="card-num">#' + build.num + '</span>'
-      + '<span class="card-name">' + build.name + '</span>'
+    return '<div class="relative bg-surface-container-low border border-outline-variant rounded-sm p-5 transition-all">'
+      + '<button class="remove-btn absolute top-2 right-2 bg-background border border-outline-variant rounded-sm text-slate-500 text-[10px] font-label font-semibold px-3 py-2 cursor-pointer transition-all hover:border-red-500 hover:text-red-500 hover:bg-red-500/10 inline-flex items-center justify-center" data-num="' + build.num + '" data-key="' + listKey + '">&#10005; Remove</button>'
+      + '<a href="' + buildUrl(build) + '" class="no-underline text-inherit">'
+      + '<div class="flex items-center gap-3 mb-2.5">'
+      + '<span class="text-xs font-label font-black text-primary-container bg-primary-container/10 px-2.5 py-1 rounded-sm whitespace-nowrap">#' + build.num + '</span>'
+      + '<span class="text-base font-headline font-bold flex-1 leading-tight overflow-hidden text-ellipsis whitespace-nowrap">' + build.name + '</span>'
       + '</div>'
-      + '<span class="card-category">' + build.categoryName + '</span>'
-      + '<div class="card-ratings">'
+      + '<span class="inline-block bg-background border border-outline-variant rounded-sm px-3 py-0.5 text-[10px] font-label font-semibold text-slate-500 mb-3 uppercase tracking-wider">' + build.categoryName + '</span>'
+      + '<div class="grid grid-cols-3 gap-x-3.5 gap-y-1.5">'
       + ratingBar("Jaw", build.jaw, "jaw")
       + ratingBar("Brain", build.brain, "brain")
       + ratingBar("Wallet", build.wallet, "wallet")
@@ -302,7 +95,6 @@ document.addEventListener('DOMContentLoaded', function(){
       + '</a></div>';
   }
 
-  // Compute builder rank based on completed count
   function getRank(count) {
     if (count >= 50) return "LEGENDARY_GENIUS";
     if (count >= 25) return "MASTER_BUILDER";
@@ -316,12 +108,10 @@ document.addEventListener('DOMContentLoaded', function(){
     var completed = getBuildsForList("jg-completed");
     var want = getBuildsForList("jg-wantToBuild");
 
-    // Categories covered
     var catSet = {};
     completed.forEach(function(b) { catSet[b.category] = true; });
     var catCount = Object.keys(catSet).length;
 
-    // Avg difficulty
     var avgBrain = "\u2014";
     if (completed.length) {
       var total = 0;
@@ -329,14 +119,13 @@ document.addEventListener('DOMContentLoaded', function(){
       avgBrain = (total / completed.length).toFixed(1);
     }
 
-    // Update profile rank
     document.getElementById("profileRank").textContent = getRank(completed.length);
 
     document.getElementById("stats").innerHTML =
-      '<div class="stat-card"><div class="stat-num green">' + completed.length + '</div><div class="stat-label">Completed</div></div>'
-      + '<div class="stat-card"><div class="stat-num orange">' + want.length + '</div><div class="stat-label">Wishlist</div></div>'
-      + '<div class="stat-card"><div class="stat-num blue">' + catCount + '</div><div class="stat-label">Categories</div></div>'
-      + '<div class="stat-card"><div class="stat-num purple">' + avgBrain + '</div><div class="stat-label">Avg Difficulty</div></div>';
+      '<div class="bg-surface-container-low/80 backdrop-blur-sm border border-outline-variant/10 rounded-sm p-5 text-center"><div class="text-4xl font-headline font-black tracking-tight leading-none text-green-500">' + completed.length + '</div><div class="text-[10px] font-label font-semibold text-slate-500 uppercase tracking-widest mt-2">Completed</div></div>'
+      + '<div class="bg-surface-container-low/80 backdrop-blur-sm border border-outline-variant/10 rounded-sm p-5 text-center"><div class="text-4xl font-headline font-black tracking-tight leading-none text-primary-container">' + want.length + '</div><div class="text-[10px] font-label font-semibold text-slate-500 uppercase tracking-widest mt-2">Wishlist</div></div>'
+      + '<div class="bg-surface-container-low/80 backdrop-blur-sm border border-outline-variant/10 rounded-sm p-5 text-center"><div class="text-4xl font-headline font-black tracking-tight leading-none text-secondary-container">' + catCount + '</div><div class="text-[10px] font-label font-semibold text-slate-500 uppercase tracking-widest mt-2">Categories</div></div>'
+      + '<div class="bg-surface-container-low/80 backdrop-blur-sm border border-outline-variant/10 rounded-sm p-5 text-center"><div class="text-4xl font-headline font-black tracking-tight leading-none text-tertiary-container">' + avgBrain + '</div><div class="text-[10px] font-label font-semibold text-slate-500 uppercase tracking-widest mt-2">Avg Difficulty</div></div>';
 
     document.getElementById("completedCount").textContent = completed.length;
     document.getElementById("wantCount").textContent = want.length;
@@ -347,7 +136,6 @@ document.addEventListener('DOMContentLoaded', function(){
     var builds = getBuildsForList(key);
     var empty = document.getElementById("emptyState");
 
-    // Update section label
     document.getElementById("sectionLabel").textContent = activeTab === "completed" ? "Trophy_Room" : "Wishlist";
 
     renderStats();
@@ -368,7 +156,35 @@ document.addEventListener('DOMContentLoaded', function(){
     }
   }
 
-  // Event delegation for remove buttons (added once, not per render)
+  // Tab switching
+  var tabs = document.querySelectorAll(".tab-btn");
+  tabs.forEach(function(tab) {
+    tab.addEventListener("click", function() {
+      activeTab = this.getAttribute("data-tab");
+      tabs.forEach(function(t) {
+        t.classList.remove("active");
+        if (t.getAttribute("data-tab") === "completed") {
+          t.className = "tab-btn px-5 py-2.5 rounded-t-sm border border-outline-variant border-b-0 bg-surface-container font-label text-xs font-semibold cursor-pointer transition-all uppercase tracking-wider text-slate-500";
+          t.querySelector("span").className = "text-[10px] bg-surface-container-highest px-2 py-0.5 rounded-sm ml-1.5";
+        } else {
+          t.className = "tab-btn want px-5 py-2.5 rounded-t-sm border border-outline-variant border-b-0 bg-surface-container font-label text-xs font-semibold cursor-pointer transition-all uppercase tracking-wider text-slate-500";
+          t.querySelector("span").className = "text-[10px] bg-surface-container-highest px-2 py-0.5 rounded-sm ml-1.5";
+        }
+      });
+      this.classList.add("active");
+      if (activeTab === "completed") {
+        this.className = "tab-btn active px-5 py-2.5 rounded-t-sm border border-outline-variant border-b-0 bg-surface-container-low text-green-500 border-green-500 font-label text-xs font-semibold cursor-pointer transition-all uppercase tracking-wider";
+        this.querySelector("span").className = "text-[10px] bg-green-500/15 px-2 py-0.5 rounded-sm ml-1.5";
+      } else {
+        this.className = "tab-btn want active px-5 py-2.5 rounded-t-sm border border-outline-variant border-b-0 bg-surface-container-low text-primary-container border-primary-container font-label text-xs font-semibold cursor-pointer transition-all uppercase tracking-wider";
+        this.querySelector("span").className = "text-[10px] bg-primary-container/10 px-2 py-0.5 rounded-sm ml-1.5";
+      }
+      if(typeof gtag==='function') gtag('event','toolbox_tab_switch',{tab:activeTab});
+      render();
+    });
+  });
+
+  // Event delegation for remove buttons
   var undoTimeout;
   grid.addEventListener("click", function(e) {
     var btn = e.target.closest(".remove-btn");
@@ -382,13 +198,14 @@ document.addEventListener('DOMContentLoaded', function(){
     if(typeof gtag==='function') gtag('event','toolbox_build_removed',{build_number:num,from_list:k==='jg-completed'?'completed':'want_to_build'});
     render();
 
-    // Undo toast
     clearTimeout(undoTimeout);
-    var existing = document.querySelector('.undo-toast');
+    var existing = document.querySelector('[data-undo-toast]');
     if (existing) existing.remove();
     var toast = document.createElement('div');
-    toast.className = 'undo-toast';
-    toast.innerHTML = 'Build #' + num + ' removed <button>Undo</button>';
+    toast.setAttribute('data-undo-toast', '');
+    toast.className = 'fixed bottom-6 left-1/2 -translate-x-1/2 bg-surface-container-low border border-primary-container rounded-sm px-5 py-3 flex items-center gap-3 text-sm text-on-surface shadow-lg z-[200]';
+    toast.style.animation = 'slideUp 0.3s ease';
+    toast.innerHTML = 'Build #' + num + ' removed <button class="bg-primary-container text-white border-0 rounded-sm px-3.5 py-1.5 font-label text-xs font-bold cursor-pointer uppercase tracking-wider">Undo</button>';
     document.body.appendChild(toast);
     toast.querySelector('button').addEventListener('click', function(){
       var list = getList(k);
@@ -397,17 +214,6 @@ document.addEventListener('DOMContentLoaded', function(){
       toast.remove();
     });
     undoTimeout = setTimeout(function(){ if(toast.parentNode) toast.remove(); }, 5000);
-  });
-
-  // Tab switching
-  document.querySelectorAll(".tab").forEach(function(tab) {
-    tab.addEventListener("click", function() {
-      activeTab = this.getAttribute("data-tab");
-      document.querySelectorAll(".tab").forEach(function(t) { t.classList.remove("active"); });
-      this.classList.add("active");
-      if(typeof gtag==='function') gtag('event','toolbox_tab_switch',{tab:activeTab});
-      render();
-    });
   });
 
   render();
