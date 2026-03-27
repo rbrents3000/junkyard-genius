@@ -119,29 +119,37 @@ raw_layout: true
 
       <div class="space-y-4">
         <div class="flex items-center justify-between">
-          <span class="text-sm text-on-surface">Jaw Drop</span>
+          <span class="text-sm text-on-surface" title="Visual wow factor">Jaw Drop</span>
           {% ratingBar ratings.jaw, 5, "jaw" %}
         </div>
         <div class="flex items-center justify-between">
-          <span class="text-sm text-on-surface">Brain Melt</span>
+          <span class="text-sm text-on-surface" title="Complexity & learning curve">Brain Melt</span>
           {% ratingBar ratings.brain, 5, "brain" %}
         </div>
         <div class="flex items-center justify-between">
-          <span class="text-sm text-on-surface">Wallet</span>
+          <span class="text-sm text-on-surface" title="Cost to build">Wallet</span>
           {% ratingBar ratings.wallet, 5, "wallet" %}
         </div>
         <div class="flex items-center justify-between">
-          <span class="text-sm text-on-surface">Spicy</span>
+          <span class="text-sm text-on-surface" title="Danger level">Spicy</span>
           {% ratingBar ratings.spicy, 5, "spicy" %}
         </div>
         <div class="flex items-center justify-between">
-          <span class="text-sm text-on-surface">Clout</span>
+          <span class="text-sm text-on-surface" title="Social flex potential">Clout</span>
           {% ratingBar ratings.clout, 5, "clout" %}
         </div>
         <div class="flex items-center justify-between">
-          <span class="text-sm text-on-surface">Time</span>
+          <span class="text-sm text-on-surface" title="Hours to complete">Time</span>
           {% ratingBar ratings.time, 5, "time" %}
         </div>
+      </div>
+      <div class="mt-4 pt-3 border-t border-outline-variant/10 space-y-1 text-[10px] font-label text-slate-600 uppercase tracking-wider">
+        <div><span class="text-primary-container">Jaw</span> — wow factor</div>
+        <div><span class="text-secondary-container">Brain</span> — complexity</div>
+        <div><span class="text-green-500">$$$</span> — cost</div>
+        <div><span class="text-red-500">Spicy</span> — danger</div>
+        <div><span class="text-tertiary-container">Clout</span> — flex potential</div>
+        <div><span class="text-slate-400">Time</span> — hours</div>
       </div>
     </div>
 
