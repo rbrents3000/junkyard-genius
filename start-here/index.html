@@ -1,0 +1,139 @@
+---
+layout: default
+title: "Start Here — The Best Builds on Junkyard Genius"
+description: "15 hand-picked builds that define Junkyard Genius. The originals that started it all, plus a few later legends that earned their spot."
+raw_layout: true
+---
+
+{%- comment -%} ── JSON-LD Structured Data ── {%- endcomment -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Start Here — Best Builds",
+  "description": {{ description | jsonify }},
+  "url": "{{ site.url }}{{ page.url }}"
+}
+</script>
+
+{%- comment -%} ── Hero Section ── {%- endcomment -%}
+<section class="relative overflow-hidden border-b border-outline-variant/10">
+  <div class="absolute inset-0 bg-gradient-to-b from-primary-container/5 via-background to-background"></div>
+
+  <div class="relative max-w-7xl mx-auto px-6 lg:px-12 pt-12 pb-10">
+    <nav class="text-xs mb-8 text-slate-500 font-label tracking-wide" aria-label="Breadcrumb">
+      <a href="/" class="text-primary-container no-underline hover:text-primary">Home</a>
+      <span class="mx-1">&rsaquo;</span>
+      <span aria-current="page" class="text-on-surface">Start Here</span>
+    </nav>
+
+    <div class="max-w-3xl">
+      <div class="flex items-center gap-3 mb-6">
+        <span class="bg-primary-container text-on-primary px-3 py-1 font-label text-[10px] uppercase tracking-widest font-bold">Curated</span>
+        <span class="font-label text-[10px] uppercase tracking-widest text-slate-500">{{ collections.startHere.size }} Builds</span>
+      </div>
+
+      <h1 class="font-headline text-5xl sm:text-6xl xl:text-8xl font-black uppercase tracking-tighter text-on-surface mb-6 leading-[0.9]">
+        Start <span class="text-stroke">Here</span>
+      </h1>
+
+      <p class="text-lg text-slate-400 max-w-2xl leading-relaxed">
+        {{ collections.builds.size }} builds is a lot. These {{ collections.startHere.size }} are the ones that started it all — the builds that defined what Junkyard Genius is. If you're new, this is your launchpad.
+      </p>
+    </div>
+  </div>
+</section>
+
+{%- comment -%} ── Build Showcase Grid ── {%- endcomment -%}
+<section class="max-w-7xl mx-auto px-6 lg:px-12 py-12">
+  <h2 class="font-label text-[10px] uppercase tracking-widest text-slate-500 mb-8">The Essentials</h2>
+
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+    {%- for entry in collections.startHere -%}
+    {%- assign b = entry.build -%}
+    <a href="{{ b.url }}" class="group relative bg-surface-container-low border border-outline-variant/10 rounded-sm overflow-hidden transition-all duration-300 hover:border-secondary/30 no-underline flex flex-col">
+      <!-- Image -->
+      <div class="aspect-video relative overflow-hidden bg-black">
+        <img src="{{ b.data.image }}" alt="{{ b.data.title }}"
+             class="w-full h-full object-cover grayscale brightness-75 contrast-125 group-hover:scale-105 group-hover:grayscale-0 transition-all duration-700"
+             width="700" height="394">
+        <span class="absolute top-4 right-4 bg-surface-container-highest/90 backdrop-blur px-2 py-1 font-label text-[10px] text-secondary border border-secondary/20 uppercase tracking-widest">
+          #{% if b.data.build_number < 10 %}00{{ b.data.build_number }}{% elsif b.data.build_number < 100 %}0{{ b.data.build_number }}{% else %}{{ b.data.build_number }}{% endif %}
+        </span>
+        <div class="absolute bottom-4 left-4 flex items-center gap-1.5 px-2 py-1 bg-black/60 backdrop-blur border border-white/10 text-[9px] font-label text-white uppercase tracking-tighter">
+          <span class="material-symbols-outlined text-[10px] text-primary">psychology</span>
+          Brain Melt: {{ b.data.ratings.brain | times: 20 }}%
+        </div>
+        <div class="absolute top-4 left-4 px-2 py-1 bg-primary-container/90 backdrop-blur text-[9px] font-label text-on-primary uppercase tracking-widest">
+          {{ b.data.category_name }}
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div class="p-6 flex flex-col flex-1">
+        <h3 class="font-headline text-xl font-bold uppercase mb-2 group-hover:text-primary transition-colors tracking-tight text-on-surface">
+          {{ b.data.title }}
+        </h3>
+        <p class="text-secondary text-sm font-label italic mb-3">{{ entry.tagline }}</p>
+        <p class="text-slate-400 text-sm mb-6 line-clamp-2 font-body leading-relaxed">{{ b.data.description }}</p>
+
+        <!-- Ratings -->
+        <div class="grid grid-cols-2 gap-x-4 gap-y-1.5 mt-auto mb-4">
+          <div class="flex items-center gap-2">
+            <span class="text-[10px] font-label uppercase tracking-wider text-slate-500 w-10">Jaw</span>
+            {% ratingBar b.data.ratings.jaw, 5, "jaw" %}
+          </div>
+          <div class="flex items-center gap-2">
+            <span class="text-[10px] font-label uppercase tracking-wider text-slate-500 w-10">Spicy</span>
+            {% ratingBar b.data.ratings.spicy, 5, "spicy" %}
+          </div>
+          <div class="flex items-center gap-2">
+            <span class="text-[10px] font-label uppercase tracking-wider text-slate-500 w-10">Brain</span>
+            {% ratingBar b.data.ratings.brain, 5, "brain" %}
+          </div>
+          <div class="flex items-center gap-2">
+            <span class="text-[10px] font-label uppercase tracking-wider text-slate-500 w-10">Clout</span>
+            {% ratingBar b.data.ratings.clout, 5, "clout" %}
+          </div>
+          <div class="flex items-center gap-2">
+            <span class="text-[10px] font-label uppercase tracking-wider text-slate-500 w-10">$$$</span>
+            {% ratingBar b.data.ratings.wallet, 5, "wallet" %}
+          </div>
+          <div class="flex items-center gap-2">
+            <span class="text-[10px] font-label uppercase tracking-wider text-slate-500 w-10">Time</span>
+            {% ratingBar b.data.ratings.time, 5, "time" %}
+          </div>
+        </div>
+
+        <div class="flex justify-between items-center pt-4 border-t border-outline-variant/10">
+          <div class="flex items-center gap-2">
+            <span class="material-symbols-outlined text-xs text-secondary">bolt</span>
+            <span class="font-label text-[10px] uppercase tracking-widest text-slate-500">
+              {% case b.data.ratings.brain %}{% when 1 %}Beginner{% when 2 %}Easy{% when 3 %}Intermediate{% when 4 %}Advanced{% when 5 %}Expert{% endcase %}
+            </span>
+          </div>
+          <span class="material-symbols-outlined text-slate-600 group-hover:translate-x-1 transition-transform">arrow_forward</span>
+        </div>
+      </div>
+    </a>
+    {%- endfor -%}
+  </div>
+</section>
+
+{%- comment -%} ── CTA to Browse All ── {%- endcomment -%}
+<section class="py-16 px-8 lg:px-16 border-t border-outline-variant/10">
+  <div class="max-w-2xl">
+    <h2 class="font-headline text-2xl font-black uppercase tracking-tight mb-4 text-on-surface">Want_More?</h2>
+    <p class="text-slate-400 leading-relaxed mb-6">
+      These {{ collections.startHere.size }} builds are just the beginning. There are {{ collections.builds.size }} total builds across 33 categories waiting to be discovered.
+    </p>
+    <div class="flex flex-wrap gap-4">
+      <a href="/app/browse/" class="inline-block px-8 py-4 bg-gradient-to-br from-primary-container to-inverse-primary text-white font-headline font-bold uppercase tracking-widest rounded-sm text-sm hover:scale-[0.98] transition-transform no-underline">
+        Browse All Builds
+      </a>
+      <a href="/app/quiz/" class="inline-block px-8 py-4 bg-transparent border border-outline-variant/30 text-secondary font-headline font-bold uppercase tracking-widest rounded-sm text-sm hover:bg-surface-container-low transition-colors no-underline">
+        Take The Quiz
+      </a>
+    </div>
+  </div>
+</section>

@@ -1,4 +1,6 @@
 const taskLists = require('markdown-it-task-lists');
+const fs = require('fs');
+const path = require('path');
 
 module.exports = function(eleventyConfig) {
   // Render markdown task lists as actual checkboxes
@@ -9,6 +11,19 @@ module.exports = function(eleventyConfig) {
     return collectionApi.getAll()
       .filter(item => item.data.layout === "build")
       .sort((a, b) => a.data.build_number - b.data.build_number);
+  });
+
+  // Curated "Start Here" collection — joins _data/start-here.json with build pages
+  eleventyConfig.addCollection("startHere", function(collectionApi) {
+    const dataPath = path.join(__dirname, "_data", "start-here.json");
+    const startHereData = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
+    const allBuilds = collectionApi.getAll()
+      .filter(item => item.data.layout === "build");
+
+    return startHereData.map(entry => {
+      const build = allBuilds.find(b => b.data.build_number === entry.build_number);
+      return build ? { ...entry, build } : null;
+    }).filter(Boolean);
   });
 
   // Rating bar shortcode for build detail pages

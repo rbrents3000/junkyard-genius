@@ -82,93 +82,47 @@ raw_layout: true
   </div>
 </section>
 
-<!-- Trending Blueprints -->
+<!-- Featured Blueprints (data-driven from start-here.json) -->
 <section class="py-24 px-8 lg:px-16">
   <div class="flex flex-col md:flex-row justify-between items-start md:items-end mb-12 gap-6">
     <div>
       <h2 class="font-headline text-3xl font-black uppercase tracking-tight text-primary">Featured_Blueprints</h2>
       <div class="h-1 w-24 bg-primary-container mt-2"></div>
     </div>
-    <a href="/app/browse/" class="font-label text-[10px] uppercase tracking-widest text-secondary hover:text-white transition-colors no-underline">
-      View All 338 →
+    <a href="/start-here/" class="font-label text-[10px] uppercase tracking-widest text-secondary hover:text-white transition-colors no-underline">
+      View All {{ collections.startHere.size }} Featured →
     </a>
   </div>
 
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-    <!-- Card: Grape Plasma -->
-    <a href="/categories/mad-scientist/042-grape-plasma/" class="group relative bg-surface-container-low border border-outline-variant/10 rounded-sm overflow-hidden transition-all duration-300 hover:border-secondary/30 flex flex-col h-full no-underline">
+    {%- for entry in collections.startHere limit: 3 -%}
+    {%- assign b = entry.build -%}
+    <a href="{{ b.url }}" class="group relative bg-surface-container-low border border-outline-variant/10 rounded-sm overflow-hidden transition-all duration-300 hover:border-secondary/30 flex flex-col h-full no-underline">
       <div class="aspect-video relative overflow-hidden bg-black">
-        <img alt="Grape Plasma" class="w-full h-full object-cover grayscale brightness-75 contrast-125 group-hover:scale-105 group-hover:grayscale-0 transition-all duration-700" src="/images/builds/042-grape-plasma.jpg" loading="lazy" />
+        <img alt="{{ b.data.title }}" class="w-full h-full object-cover grayscale brightness-75 contrast-125 group-hover:scale-105 group-hover:grayscale-0 transition-all duration-700" src="{{ b.data.image }}" loading="lazy" />
         <div class="absolute top-4 right-4 bg-surface-container-highest/90 backdrop-blur px-2 py-1 font-label text-[10px] text-secondary border border-secondary/20 uppercase tracking-widest">
-          #042
+          #{% if b.data.build_number < 10 %}00{{ b.data.build_number }}{% elsif b.data.build_number < 100 %}0{{ b.data.build_number }}{% else %}{{ b.data.build_number }}{% endif %}
         </div>
         <div class="absolute bottom-4 left-4 flex items-center gap-1.5 px-2 py-1 bg-black/60 backdrop-blur border border-white/10 text-[9px] font-label text-white uppercase tracking-tighter">
           <span class="material-symbols-outlined text-[10px] text-primary">psychology</span>
-          Brain Melt: 20%
+          Brain Melt: {{ b.data.ratings.brain | times: 20 }}%
         </div>
       </div>
       <div class="p-6 flex flex-col flex-1">
-        <h3 class="font-headline text-xl font-bold uppercase mb-2 group-hover:text-primary transition-colors tracking-tight text-on-surface">Grape Plasma</h3>
-        <p class="text-slate-400 text-sm mb-8 line-clamp-2 font-body leading-relaxed">Cut a grape almost in half, microwave it, and watch plasma balls form. The simplest plasma demo in existence.</p>
+        <h3 class="font-headline text-xl font-bold uppercase mb-2 group-hover:text-primary transition-colors tracking-tight text-on-surface">{{ b.data.title }}</h3>
+        <p class="text-slate-400 text-sm mb-8 line-clamp-2 font-body leading-relaxed">{{ b.data.description }}</p>
         <div class="mt-auto flex justify-between items-center pt-4 border-t border-outline-variant/10">
           <div class="flex items-center gap-2">
             <span class="material-symbols-outlined text-xs text-secondary">bolt</span>
-            <span class="font-label text-[10px] uppercase tracking-widest text-slate-500">Beginner</span>
+            <span class="font-label text-[10px] uppercase tracking-widest text-slate-500">
+              {% case b.data.ratings.brain %}{% when 1 %}Beginner{% when 2 %}Easy{% when 3 %}Intermediate{% when 4 %}Advanced{% when 5 %}Expert{% endcase %}
+            </span>
           </div>
           <span class="material-symbols-outlined text-slate-600 group-hover:translate-x-1 transition-transform">arrow_forward</span>
         </div>
       </div>
     </a>
-
-    <!-- Card: Musical Tesla Coil -->
-    <a href="/categories/mad-scientist/033-musical-tesla-coil/" class="group relative bg-surface-container-low border border-outline-variant/10 rounded-sm overflow-hidden transition-all duration-300 hover:border-secondary/30 flex flex-col h-full no-underline">
-      <div class="aspect-video relative overflow-hidden bg-black">
-        <img alt="Musical Tesla Coil" class="w-full h-full object-cover grayscale brightness-75 contrast-125 group-hover:scale-105 group-hover:grayscale-0 transition-all duration-700" src="/images/builds/033-musical-tesla-coil.jpg" loading="lazy" />
-        <div class="absolute top-4 right-4 bg-surface-container-highest/90 backdrop-blur px-2 py-1 font-label text-[10px] text-secondary border border-secondary/20 uppercase tracking-widest">
-          #033
-        </div>
-        <div class="absolute bottom-4 left-4 flex items-center gap-1.5 px-2 py-1 bg-black/60 backdrop-blur border border-white/10 text-[9px] font-label text-white uppercase tracking-tighter">
-          <span class="material-symbols-outlined text-[10px] text-primary">psychology</span>
-          Brain Melt: 80%
-        </div>
-      </div>
-      <div class="p-6 flex flex-col flex-1">
-        <h3 class="font-headline text-xl font-bold uppercase mb-2 group-hover:text-primary transition-colors tracking-tight text-on-surface">Musical Tesla Coil</h3>
-        <p class="text-slate-400 text-sm mb-8 line-clamp-2 font-body leading-relaxed">A Tesla coil that plays music through electrical arcs. Lightning you can listen to.</p>
-        <div class="mt-auto flex justify-between items-center pt-4 border-t border-outline-variant/10">
-          <div class="flex items-center gap-2">
-            <span class="material-symbols-outlined text-xs text-secondary">memory</span>
-            <span class="font-label text-[10px] uppercase tracking-widest text-slate-500">Expert</span>
-          </div>
-          <span class="material-symbols-outlined text-slate-600 group-hover:translate-x-1 transition-transform">arrow_forward</span>
-        </div>
-      </div>
-    </a>
-
-    <!-- Card: Electric Go-Kart -->
-    <a href="/categories/functional-machines/024-electric-go-kart/" class="group relative bg-surface-container-low border border-outline-variant/10 rounded-sm overflow-hidden transition-all duration-300 hover:border-secondary/30 flex flex-col h-full no-underline">
-      <div class="aspect-video relative overflow-hidden bg-black">
-        <img alt="Electric Go-Kart" class="w-full h-full object-cover grayscale brightness-75 contrast-125 group-hover:scale-105 group-hover:grayscale-0 transition-all duration-700" src="/images/builds/024-electric-go-kart.jpg" loading="lazy" />
-        <div class="absolute top-4 right-4 bg-surface-container-highest/90 backdrop-blur px-2 py-1 font-label text-[10px] text-secondary border border-secondary/20 uppercase tracking-widest">
-          #024
-        </div>
-        <div class="absolute bottom-4 left-4 flex items-center gap-1.5 px-2 py-1 bg-black/60 backdrop-blur border border-white/10 text-[9px] font-label text-white uppercase tracking-tighter">
-          <span class="material-symbols-outlined text-[10px] text-primary">psychology</span>
-          Brain Melt: 60%
-        </div>
-      </div>
-      <div class="p-6 flex flex-col flex-1">
-        <h3 class="font-headline text-xl font-bold uppercase mb-2 group-hover:text-primary transition-colors tracking-tight text-on-surface">Electric Go-Kart</h3>
-        <p class="text-slate-400 text-sm mb-8 line-clamp-2 font-body leading-relaxed">Scooter motors, wheelchair batteries, and steel tubing become a legitimate electric vehicle.</p>
-        <div class="mt-auto flex justify-between items-center pt-4 border-t border-outline-variant/10">
-          <div class="flex items-center gap-2">
-            <span class="material-symbols-outlined text-xs text-secondary">settings</span>
-            <span class="font-label text-[10px] uppercase tracking-widest text-slate-500">Intermediate</span>
-          </div>
-          <span class="material-symbols-outlined text-slate-600 group-hover:translate-x-1 transition-transform">arrow_forward</span>
-        </div>
-      </div>
-    </a>
+    {%- endfor -%}
   </div>
 </section>
 
