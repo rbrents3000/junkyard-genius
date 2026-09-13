@@ -4,7 +4,7 @@
     "name": "💥 Alchemist's Cookbook",
     "description": "Where fireworks meet microwave parts meet chemistry meet car salvage. The most dangerous and spectacular crossover builds in the repo.",
     "image": "/images/categories/alchemist-cookbook.jpg",
-    "build_count": 13
+    "build_count": 15
   },
   {
     "slug": "art-and-installation",
@@ -161,6 +161,13 @@
     "build_count": 8
   },
   {
+    "slug": "pressure-cooker",
+    "name": "♨️ Pressure Cooker",
+    "description": "A pressure cooker is a sealed vessel rated for 15 PSI and 250°F. That makes it an autoclave, a reactor, a vulcanizer, and a dozen other things it was never sold as.",
+    "image": "/images/categories/pressure-cooker.jpg",
+    "build_count": 8
+  },
+  {
     "slug": "pyro-and-chemistry",
     "name": "🧪 Pyro & Chemistry",
     "description": "Fire, foam, crystals, and reactions that make your jaw hit the floor.",
@@ -200,7 +207,7 @@
     "name": "💀 Unholy Combos",
     "description": "Two categories walk into a workshop. Something beautiful and terrifying walks out.",
     "image": "/images/categories/unholy-combos.jpg",
-    "build_count": 8
+    "build_count": 11
   },
   {
     "slug": "vacuum-cleaner",

@@ -7011,5 +7011,245 @@ const BUILDS = [
     "spicy": 2,
     "clout": 5,
     "time": 5
+  },
+  {
+    "num": 339,
+    "name": "Pressure Cooker Autoclave",
+    "slug": "339-pressure-cooker-autoclave",
+    "category": "pressure-cooker",
+    "categoryName": "Pressure Cooker",
+    "tags": [
+      "functional",
+      "practical"
+    ],
+    "junk": [],
+    "jaw": 2,
+    "brain": 2,
+    "wallet": 1,
+    "spicy": 1,
+    "clout": 3,
+    "time": 1
+  },
+  {
+    "num": 340,
+    "name": "Pressure Cooker Steam Generator",
+    "slug": "340-steam-generator",
+    "category": "pressure-cooker",
+    "categoryName": "Pressure Cooker",
+    "tags": [
+      "functional",
+      "practical"
+    ],
+    "junk": [],
+    "jaw": 3,
+    "brain": 3,
+    "wallet": 2,
+    "spicy": 3,
+    "clout": 3,
+    "time": 2
+  },
+  {
+    "num": 341,
+    "name": "Pressure Cooker Wood Stabilizer",
+    "slug": "341-wood-stabilizer",
+    "category": "pressure-cooker",
+    "categoryName": "Pressure Cooker",
+    "tags": [
+      "functional",
+      "practical"
+    ],
+    "junk": [],
+    "jaw": 4,
+    "brain": 3,
+    "wallet": 2,
+    "spicy": 2,
+    "clout": 4,
+    "time": 2
+  },
+  {
+    "num": 342,
+    "name": "Pressure Cooker Hydrothermal Reactor",
+    "slug": "342-hydrothermal-reactor",
+    "category": "pressure-cooker",
+    "categoryName": "Pressure Cooker",
+    "tags": [
+      "chemistry",
+      "spectacle"
+    ],
+    "junk": [],
+    "jaw": 5,
+    "brain": 4,
+    "wallet": 2,
+    "spicy": 3,
+    "clout": 5,
+    "time": 3
+  },
+  {
+    "num": 343,
+    "name": "Pressure Cooker Vulcanizer",
+    "slug": "343-vulcanizer",
+    "category": "pressure-cooker",
+    "categoryName": "Pressure Cooker",
+    "tags": [
+      "functional",
+      "practical"
+    ],
+    "junk": [],
+    "jaw": 3,
+    "brain": 3,
+    "wallet": 2,
+    "spicy": 2,
+    "clout": 4,
+    "time": 2
+  },
+  {
+    "num": 344,
+    "name": "Pressure Cooker Pressure Dye Vat",
+    "slug": "344-pressure-dye-vat",
+    "category": "pressure-cooker",
+    "categoryName": "Pressure Cooker",
+    "tags": [
+      "functional",
+      "practical"
+    ],
+    "junk": [],
+    "jaw": 3,
+    "brain": 2,
+    "wallet": 1,
+    "spicy": 1,
+    "clout": 4,
+    "time": 2
+  },
+  {
+    "num": 345,
+    "name": "Pressure Cooker Superheated Solvent Bath",
+    "slug": "345-superheated-solvent-bath",
+    "category": "pressure-cooker",
+    "categoryName": "Pressure Cooker",
+    "tags": [
+      "chemistry",
+      "practical"
+    ],
+    "junk": [],
+    "jaw": 4,
+    "brain": 4,
+    "wallet": 1,
+    "spicy": 3,
+    "clout": 4,
+    "time": 2
+  },
+  {
+    "num": 346,
+    "name": "Pressure Cooker Mushroom Farm Sterilizer",
+    "slug": "346-mushroom-sterilizer",
+    "category": "pressure-cooker",
+    "categoryName": "Pressure Cooker",
+    "tags": [
+      "functional",
+      "practical"
+    ],
+    "junk": [],
+    "jaw": 3,
+    "brain": 3,
+    "wallet": 2,
+    "spicy": 1,
+    "clout": 4,
+    "time": 3
+  },
+  {
+    "num": 347,
+    "name": "Pressure Cooker Steam Cannon",
+    "slug": "347-pressure-cooker-steam-cannon",
+    "category": "unholy-combos",
+    "categoryName": "Unholy Combos",
+    "tags": [
+      "spectacle",
+      "pyro"
+    ],
+    "junk": [],
+    "jaw": 5,
+    "brain": 3,
+    "wallet": 1,
+    "spicy": 5,
+    "clout": 5,
+    "time": 2
+  },
+  {
+    "num": 348,
+    "name": "MOT Plasma Nitrider",
+    "slug": "348-mot-plasma-nitrider",
+    "category": "unholy-combos",
+    "categoryName": "Unholy Combos",
+    "tags": [
+      "spectacle",
+      "functional"
+    ],
+    "junk": [
+      "microwave"
+    ],
+    "jaw": 5,
+    "brain": 5,
+    "wallet": 3,
+    "spicy": 5,
+    "clout": 5,
+    "time": 3
+  },
+  {
+    "num": 349,
+    "name": "Pressure Cooker Steam Turbine Generator",
+    "slug": "349-pressure-cooker-steam-turbine",
+    "category": "unholy-combos",
+    "categoryName": "Unholy Combos",
+    "tags": [
+      "functional",
+      "spectacle"
+    ],
+    "junk": [
+      "car-parts"
+    ],
+    "jaw": 5,
+    "brain": 4,
+    "wallet": 2,
+    "spicy": 3,
+    "clout": 5,
+    "time": 3
+  },
+  {
+    "num": 350,
+    "name": "Pressure Cooker Carbide Cannon",
+    "slug": "350-pressure-cooker-carbide-cannon",
+    "category": "alchemist-cookbook",
+    "categoryName": "Alchemist Cookbook",
+    "tags": [
+      "pyro",
+      "chemistry",
+      "spectacle"
+    ],
+    "junk": [],
+    "jaw": 5,
+    "brain": 3,
+    "wallet": 1,
+    "spicy": 5,
+    "clout": 5,
+    "time": 1
+  },
+  {
+    "num": 351,
+    "name": "Pressure Cooker Rocket Nozzle Test Stand",
+    "slug": "351-pressure-cooker-rocket-test-stand",
+    "category": "alchemist-cookbook",
+    "categoryName": "Alchemist Cookbook",
+    "tags": [
+      "pyro",
+      "chemistry",
+      "functional"
+    ],
+    "junk": [],
+    "jaw": 4,
+    "brain": 4,
+    "wallet": 2,
+    "spicy": 4,
+    "clout": 5,
+    "time": 2
   }
 ];

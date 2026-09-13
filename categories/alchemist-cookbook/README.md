@@ -13,7 +13,7 @@ image: /images/categories/alchemist-cookbook.jpg
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/builds-13-orange?style=flat-square" alt="13 Builds" />
+  <img src="https://img.shields.io/badge/builds-15-orange?style=flat-square" alt="15 Builds" />
 </p>
 
 > Where fireworks meet microwave parts meet chemistry meet car salvage. The most dangerous and spectacular crossover builds in the repo.
@@ -40,10 +40,13 @@ Start with simple chemistry spectacles, progress toward extreme electromagnetic 
 11. **[#279 — Microwave Chemical Reactor](279-microwave-chemical-reactor/)** — Complex process control.
 12. **[#229 — Electromagnetic Firework Launcher](229-electromagnetic-firework-launcher/)** — Advanced EM engineering.
 13. **[#277 — Electromagnetic Pulse Cannon](277-electromagnetic-pulse-cannon/)** — Extreme difficulty. The endgame.
+14. **[#350 — Pressure Cooker Carbide Cannon](350-pressure-cooker-carbide-cannon/)** — Acetylene gas + spark ignition. The loudest build in the collection.
+15. **[#351 — Rocket Nozzle Test Stand](351-pressure-cooker-rocket-test-stand/)** — Hydrostatic testing with a pressure cooker. The boring step that saves fingers.
 
 ## Related Categories
 
 - [Pyro & Chemistry](../pyro-and-chemistry/) — Foundation chemistry and combustion builds
 - [Fire & Plasma](../fire-and-plasma/) — Thermal phenomena and high-temperature builds
 - [Mad Scientist](../mad-scientist/) — Complex multi-domain experiments
+- [Pressure Cooker](../pressure-cooker/) — The sealed vessel at the heart of the crossover builds
 

@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-// All 33 category slugs
+// All 34 category slugs
 const ALL_CATEGORIES = [
   'alchemist-cookbook', 'art-and-installation', 'big-builds',
   'chemical-electronic', 'computer-and-phone', 'drone-salvage',
@@ -10,15 +10,16 @@ const ALL_CATEGORIES = [
   'junkyard-auto', 'kitchen-hacks', 'laser-lab',
   'light-and-visual', 'mad-scientist', 'mechanical-and-kinetic',
   'pi-and-arduino', 'power-and-energy', 'power-tools-remixed',
-  'pranks-and-party', 'printer-and-scanner', 'pyro-and-chemistry',
-  'python-projects', 'scooter-and-motor', 'sound-and-music',
-  'survival-off-grid', 'unholy-combos', 'vacuum-cleaner',
-  'visual-showstoppers', 'wearable-tech', 'weird-science',
+  'pranks-and-party', 'pressure-cooker', 'printer-and-scanner',
+  'pyro-and-chemistry', 'python-projects', 'scooter-and-motor',
+  'sound-and-music', 'survival-off-grid', 'unholy-combos',
+  'vacuum-cleaner', 'visual-showstoppers', 'wearable-tech',
+  'weird-science',
 ];
 
 // Expected build counts per category
 const CATEGORY_BUILD_COUNTS = {
-  'alchemist-cookbook': 13,
+  'alchemist-cookbook': 15,
   'art-and-installation': 8,
   'big-builds': 8,
   'chemical-electronic': 15,
@@ -33,6 +34,7 @@ const CATEGORY_BUILD_COUNTS = {
   'junkyard-auto': 8,
   'kitchen-hacks': 8,
   'laser-lab': 7,
+  'pressure-cooker': 8,
   'light-and-visual': 19,
   'mad-scientist': 10,
   'mechanical-and-kinetic': 11,
@@ -46,7 +48,7 @@ const CATEGORY_BUILD_COUNTS = {
   'scooter-and-motor': 8,
   'sound-and-music': 8,
   'survival-off-grid': 8,
-  'unholy-combos': 8,
+  'unholy-combos': 11,
   'vacuum-cleaner': 8,
   'visual-showstoppers': 9,
   'wearable-tech': 8,

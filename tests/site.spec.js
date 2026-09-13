@@ -101,11 +101,11 @@ test.describe('Build Pages', () => {
 // ── Browse Page ──
 
 test.describe('Browse Page', () => {
-  test('loads with all 338 builds', async ({ page }) => {
+  test('loads with all 351 builds', async ({ page }) => {
     await page.goto('/app/browse/');
     await expect(page).toHaveTitle(/Browse/);
     const count = page.locator('#resultCount');
-    await expect(count).toContainText('338');
+    await expect(count).toContainText('351');
   });
 
   test('has search box', async ({ page }) => {
@@ -120,7 +120,7 @@ test.describe('Browse Page', () => {
     await search.fill('plasma');
     await page.waitForTimeout(500);
     const count = page.locator('#resultCount');
-    await expect(count).not.toContainText('Showing 338');
+    await expect(count).not.toContainText('Showing 351');
   });
 
   test('sort pills show direction arrows', async ({ page }) => {
@@ -150,7 +150,7 @@ test.describe('Browse Page', () => {
     await catSelect.selectOption(secondOption);
     await page.waitForTimeout(200);
     const count = page.locator('#resultCount');
-    await expect(count).not.toContainText('Showing 338');
+    await expect(count).not.toContainText('Showing 351');
   });
 
   test('has correct lang attribute', async ({ page }) => {

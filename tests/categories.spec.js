@@ -1,7 +1,7 @@
 const { test, expect } = require('@playwright/test');
 const { ALL_CATEGORIES, CATEGORY_BUILD_COUNTS } = require('./helpers');
 
-// ── All 33 categories load ──
+// ── All 34 categories load ──
 
 test.describe('Category Pages — Status', () => {
   for (const slug of ALL_CATEGORIES) {

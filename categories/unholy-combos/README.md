@@ -13,7 +13,7 @@ image: /images/categories/unholy-combos.jpg
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/builds-8-orange?style=flat-square" alt="8 Builds" />
+  <img src="https://img.shields.io/badge/builds-11-orange?style=flat-square" alt="11 Builds" />
 </p>
 
 > Two categories walk into a workshop. Something beautiful and terrifying walks out.
@@ -35,10 +35,14 @@ These are endgame builds — each one assumes mastery of its component categorie
 6. **[#284 — Thermite Forge Foundry](284-thermite-forge-foundry/)** — Extreme heat. Do this outdoors with full PPE.
 7. **[#054 — Vacuum Plasma Cloud Chamber](054-vacuum-plasma-cloud-chamber/)** — Vacuum + high voltage. Advanced physics.
 8. **[#055 — Levitating Plasma Speaker](055-levitating-plasma-speaker/)** — The final boss. Magnetic levitation + plasma audio.
+9. **[#347 — Pressure Cooker Steam Cannon](347-pressure-cooker-steam-cannon/)** — Superheated steam ballistics. Civil War meets Goodwill.
+10. **[#348 — MOT Plasma Nitrider](348-mot-plasma-nitrider/)** — Microwave transformer + pressure cooker = industrial case hardening.
+11. **[#349 — Steam Turbine Generator](349-pressure-cooker-steam-turbine/)** — Junkyard alternator + pressure cooker = the Rankine cycle in your backyard.
 
 ## Related Categories
 
 - [Mad Scientist](../mad-scientist/) — The prerequisite builds for these mashups
 - [Fire & Plasma](../fire-and-plasma/) — High-temperature and plasma components
 - [Sound & Music](../sound-and-music/) — Audio-reactive builds and speaker physics
+- [Pressure Cooker](../pressure-cooker/) — The sealed vessel that crosses over with everything
 

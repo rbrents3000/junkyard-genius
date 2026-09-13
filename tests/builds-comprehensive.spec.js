@@ -3,7 +3,7 @@ const { loadBuildData, SAMPLE_BUILDS } = require('./helpers');
 
 const BUILDS = loadBuildData();
 
-// ── All 338 builds return 200 ──
+// ── All 351 builds return 200 ──
 
 test.describe('All Build Pages — Status', () => {
   // Split into batches for parallel execution
@@ -69,8 +69,8 @@ test.describe('Build Page Structural Checks', () => {
 // ── Build data integrity ──
 
 test.describe('Build Data Integrity', () => {
-  test('build-data.js has exactly 338 builds', async () => {
-    expect(BUILDS.length).toBe(338);
+  test('build-data.js has exactly 351 builds', async () => {
+    expect(BUILDS.length).toBe(351);
   });
 
   test('every build has required fields', async () => {
@@ -88,11 +88,11 @@ test.describe('Build Data Integrity', () => {
     }
   });
 
-  test('build numbers are sequential 1-338', async () => {
+  test('build numbers are sequential 1-351', async () => {
     const nums = BUILDS.map(b => b.num).sort((a, b) => a - b);
     expect(nums[0]).toBe(1);
-    expect(nums[nums.length - 1]).toBe(338);
-    expect(new Set(nums).size).toBe(338);
+    expect(nums[nums.length - 1]).toBe(351);
+    expect(new Set(nums).size).toBe(351);
   });
 
   test('all ratings are between 1 and 5', async () => {
